@@ -5,31 +5,31 @@
   "book": "numbers",
   "lang": "tw",
   "chapter": 11,
-  "translation": "Na Moshe kaa sɛ: Nnipa a mɛwɔ wɔn mu no, wɔyɛ anaafoɔ-dɔm ɔha-apem asia; na wowɔ ka sɛ, Mɛma wɔn nam, na wɔbɛdi bosome nyinaa. (⟨the anaafoɔ-dɔm ɔha-apem asia — dodoɔ a Hebrew no de gu so ⟩)",
+  "translation": "Na Mosheh kaa sɛ: Nnipa no, mɛwɔ wɔn mu, wɔyɛ ananfoɔ ɔha aduonum mmienu; na wo nso wokaa sɛ: Mɛma wɔn nam, na wɔbɛdi bosome baako.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na Moshe kaa sɛ"
+      "gloss": "kaa sɛ"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Mosheh"
     },
     {
       "surface": "שש",
-      "gloss": "asia"
+      "gloss": "aduonum mmienu"
     },
     {
       "surface": "מאות",
-      "gloss": "ɔha"
+      "gloss": "ɔha aduonum mmienu"
     },
     {
       "surface": "אלף",
-      "gloss": "apem"
+      "gloss": "ananfoɔ ɔha aduonum mmienu"
     },
     {
       "surface": "רגלי",
-      "gloss": "anaafoɔ-dɔm"
+      "gloss": "ananfoɔ"
     },
     {
       "surface": "העם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "na wowɔ"
+      "gloss": "na wo nso"
     },
     {
       "surface": "אמרת",
-      "gloss": "kaa"
+      "gloss": "wokaa"
     },
     {
       "surface": "בשר",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "ימים",
-      "gloss": "nna nyinaa"
+      "gloss": "baako"
     }
   ],
-  "timestamp": "2026-09-15T21:30:59.704894165Z",
+  "timestamp": "2026-09-16T10:12:44.601054244Z",
   "model": "glm-5.3"
 }

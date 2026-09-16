@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "glm-5.3",
   "verse": 14,
   "ref": "ruth 1:14",
   "book": "ruth",
   "lang": "tw",
   "chapter": 1,
-  "translation": "Then they raised their voice and wept again; and Orpah kissed her mother-in-law, but Ruth clung to her.",
+  "translation": "Wɔmaa wɔn nne sɔree, na wɔsuii bio; na Ɔpah bɔɔ n'asenaeɛ aso, nanso Rutuu dwanee ne ho.",
   "tokens": [
     {
       "surface": "ותשנה",
-      "gloss": "then they raised"
+      "gloss": "wɔmaa ... sɔree"
     },
     {
       "surface": "קולן",
-      "gloss": "their voice"
+      "gloss": "wɔn nne"
     },
     {
       "surface": "ותבכינה",
-      "gloss": "and wept"
+      "gloss": "wɔsuii"
     },
     {
       "surface": "עוד",
-      "gloss": "again"
+      "gloss": "bio"
     },
     {
       "surface": "ותשק",
-      "gloss": "and kissed"
+      "gloss": "bɔɔ ... aso"
     },
     {
       "surface": "ערפה",
-      "gloss": "Orpah"
+      "gloss": "Ɔpah"
     },
     {
       "surface": "לחמותה",
-      "gloss": "her mother-in-law"
+      "gloss": "n'asenaeɛ"
     },
     {
       "surface": "ורות",
-      "gloss": "but Ruth"
+      "gloss": "Rutuu"
     },
     {
       "surface": "דבקה",
-      "gloss": "clung"
+      "gloss": "dwanee ne ho"
     },
     {
       "surface": "בה",
-      "gloss": "to her"
+      "gloss": "ne ho"
     }
   ],
-  "timestamp": "2026-09-16T03:44:15.123389230Z",
+  "timestamp": "2026-09-16T10:02:12.883220481Z",
   "model": "glm-5.3"
 }
