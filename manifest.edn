@@ -1,0 +1,124 @@
+#:rendering{:label "Twi",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-15", :to "2026-09-16"},
+            :id "tw.v1",
+            :catalog {:ui nil},
+            :license "CC BY-SA 4.0 (The Selah Twi Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23203, "glm-5.3" 10},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/tw.md",
+             :rails-commit "0511cba3",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonai",
+              "אל" "El",
+              "אלהים" "Eloohim",
+              "אלוה" "Eloa",
+              "יה" "Yah",
+              "יהוה" "Yawe",
+              "שדי" "Shadai"},
+             :open-questions
+             ["OPEN: the name canon - 410 distinct spellings across 20 names (Israel 67, Saul 40, Solomon 39, Jacob 34; but Abraham 4 and Joshua 3, so the chair can hold a name steady). Majorities already lean Hebraic (Yisrael, Dawid, Moshe, Aharon, Tsiyon) but mediated forms persist: Israel 699, David 71, Aaron 53, Farao 40, Zion 46, Babilon 141. TWO NEED SCOTT: Judah, where the majority Yuda 537 and the posture Yehuda 256 disagree; and Babel, where Babilon 141 is Greek against Babel 90 and the ff ruling was 'Baabel yes'. Proposal written, nothing applied - the register is Scott's."
+              "OPEN: the inflected-את family in glosses - אתם 31, אתו 23, אתכם 12, אתך 5, plus singletons; surfaces match, so these are the marker DECLINED. Fleet-wide question beside Scott's yod-tav ruling. Recommendation: KEEP THE SUFFIX - collapsing אתו to את erases the person the marker points at."
+              "OPEN: Awurade, 9 flow / 6 gloss, deliberately not swept. Three are the ordinary human master-word at אדני (1 Kgs 1:43, 18:10, 18:11 - right meaning, wrong vocabulary; ff's answer was 'Joomi am'). Five are divine-register wounds: Num 27:16 substitutes at אלהי, Jer 44:7 stands in apposition to the Name, and Ps 116:16, Ps 91:9 and Dan 6:6 are INSERTIONS translating nothing."
+              "OPEN: Ps 110:1 renders the second lord as 'me Adonai' - the divine register word for a human master. ff used its own human-lord word."
+              "OPEN: 1 Sam 5:7 'yɛn Onyame ⟨Dagón⟩' - Hebrew דגון אלהינו. A pagan referent on an Eloohim-family surface; EXCLUDED from the erasure cure deliberately, and it belongs to the pagan-Eloohim question still open from ff."
+              "OPEN: a native ear, not a script - Fante 'hom' x14 (2pl where Asante says mo); the nasal vowels ã x645 (nsã x201, fã x114) and ĩ x74, which standard Asante does not write but which may distinguish words; the name diacritics ë x189 (Yisraël), á x125, ḥ x94 (Yitsḥak, arguably the posture working); Isa 19:19 'ɔbɔne (altar)' where ɔbɔne does not read as altar and the English parenthesis was LEFT IN PLACE so the mistranslation stays visible; Isa 53:5 'wɔdɔɔ no' for pierced, where dɔ reads as love."
+              "OPEN: 118 marker seats - 23 gains and 98 loss-residue the scripts refused to decide, diagnosed in marker-hand-list.md. Several want a marker MOVED rather than stripped (Ex 3:11 has one sitting after its object). Plus 5 contested gloss seats: 1 Sam 1:5 אפים (the double-portion crux), Ezek 19:7 אלמנותיו (widows or palaces - the chair wrote 'hawk'), Ezek 46:17 הדרור, Prov 1:11 חנם, 2 Sam 11:3 זאת."
+              "FLEET (found here, almost certainly not tw's alone): wholesale-English fallback verses - tw had SEVEN, in consecutive runs, and no count-based gate can see them; bracket-glyph drift, which at Ex 29:22 HID A FABRICATED MARKER from every counter in the groove; and the Name-seat sweep, which found two failures behind a word count of 6,943. Also fleet-wide and cosmetic: every seated chair carries mixed JSON formatting because the repair scripts write compact."]},
+            :status :rendering,
+            :adjudication
+            {:chair 74,
+             :first :akan,
+             :polarity :latin-twi,
+             :seal
+             {:homoglyphs 0,
+              :english-in-bracket 0,
+              :et-flow 11741,
+              :english-thermometer 0,
+              :verses 23213,
+              :elohim-flow 2521,
+              :zero-token-rows 0,
+              :adonai-flow 542,
+              :asaman 0,
+              :shadai-flow 48,
+              :et-row 11859,
+              :yahweh-seats-missing-the-name 0,
+              :awurade-held-for-scott [9 6],
+              :yahweh-flow 6943,
+              :et-open 118,
+              :spine-vs-en [23213 23213],
+              :seol-seats 50,
+              :fante-hom-held-for-scott 14,
+              :english-fallback-verses 0,
+              :empty-flows 0,
+              :tsevaot-seats 293,
+              :unbalanced-brackets 0,
+              :erasure 0,
+              :tsevaot-flow-words 178},
+             :tekoa
+             {:verdict
+              "the chair's discipline is better than its spelling, and its semantics are better than both - everywhere a DECISION was required tw made the right one (Ps 22:17 keeps the kethib 'se ogyata no' where every commercial Bible reads pierced; Isa 7:14 declines the virgin-technical term for obaabunu; Gen 22:8 stands bare with no atonement doctrine put in Abraham's mouth, the exact place ff had to be walked back; Dan 3:12 keeps its negation; Ex 3:14 transliterates Ehyeh dee Ehyeh), and TWICE it told apart words the Hebrew spells identically - שאול is both Saul and Sheol across 468 seats with NOT ONE CROSSING, and it uses Seol never asaman; צבאות is hosts, gazelles and the women who served, and the chair had all three right while scattering the title across 64 spellings. What failed was never judgment but consistency; discharged",
+              :headline
+              "SEVEN VERSES WERE NOT IN TWI AT ALL - the press fell back to the en floor wholesale, in consecutive runs (Ps 53:5-7, Ruth 1:13-16), and Ruth 1:16 is her vow, one of the most quoted sentences in the Bible, sitting in English inside a Twi Bible. No count-based gate can see this; only a thermometer can, and only with a whitelist - a first sweep without one flagged 7,931 verses because the word list held 'a', 'do', 'be' and 'we', every one of them a common Twi word",
+              :class-a-passes 17,
+              :class-b-filed 11,
+              :report
+              "data/experiments/tw-seating/tw-tekoa-report.md"},
+             :cruxes
+             ["THE ROOT WOUND WAS ONE WOUND IN FOUR COSTUMES: the floor uses angle brackets for TWO jobs - the את marker and the supplied word English needs where the Hebrew writes nothing - and the chair learned the shape and lost the distinction. It produced 706 English words left untranslated inside brackets, 595 of 598 fabricated markers (1 Chr 13:6 writes ⟨את⟩ where the floor writes ⟨the Name⟩), most of the 23 marker verses left for a reader, and the wrapper class ⟨⟨את⟩ asase⟩ - a supplied bracket thrown around a marker AND ITS OBJECT. ff left zero English in a bracket off the same floor; the standard was always reachable"
+              "A FABRICATED MARKER HID BEHIND A MISSPELT BRACKET: Ex 29:22 carried a seventh ⟨את⟩ written with a U+3015 tortoise-shell close, invisible to every counter in the groove while the floor and the token row both said six. Bracket-glyph drift is documented fleet behaviour (ff found it too); here it concealed a fabrication"
+              "THE CHAIR CORRECTED ITSELF IN THE DATA AND HEDGED: thirteen erasure seats carry BOTH words in one gloss - 'Eloohim (Onyankopon)', 'Onyankopon - Eloohim', 'ne Onyame (Eloohim)' - and Ezra 6:22 does it in the flow. The press knew the rail and set the old word down beside it"
+              "THE HEBREW STOOD IN FRONT OF ITS OWN ANSWER: at Esther 7:9 העץ - Haman's gallows - leaked out of the token row into the flow inside an unclosed bracket, standing before its own correct gloss 'dua no'; the same shape at ⟨התו⟩ nkyerɛnne no (Ezek 9:6, the mark) and ⟨הנני⟩ (hwɛ, me wo ha)"
+              "DRAFT-SPEAK REACHED THE CENTRE VERSE: Lev 8:35, the verse the whole 4D space folds onto, read '⟨את⟩ nhyɛnwee (guard duty) no so' - an English stage direction in the Torah's centre. Five such parentheticals stripped; two LEFT deliberately (Isa 19:19, where removing it would hide a mistranslation, and Gen 50:2, where the parenthesis holds Hebrew)"
+              "THE NAME FAILED TWICE IN 6,943 SEATS: Isa 12:4 read 'Yawhɛ', the Name misspelt in the verse that says call on his name; Lev 7:20 had an EMPTY gloss at ליהוה while its flow carried the Name twice. A word count of Yawe returns 6,943 and calls it done - only a seat-by-seat sweep against the floor finds these"
+              "ONE OF MY OWN REPAIRS BROKE A VERSE AND IDEMPOTENCE CAUGHT IT: the unbalanced-bracket rule ⟩x⟩ -> ⟨x⟩ reached across an intact marker at Gen 1:25 and took it apart. The delimiter-strip guarantee PASSED - no word was swallowed, the delimiters had merely moved THROUGH a marker. What caught it was a later pass reporting work on an already-repaired corpus. Markers are now parked behind a sentinel during rebalancing: untouchable by construction, not by luck"
+              "THE POLYSEMY GUARD IS THE FLOOR, NEVER THE SPELLING: צבאות is the divine title, the GAZELLES of Song 2:7 and 3:5, and the WOMEN WHO SERVED at 1 Sam 2:22 - the chair had all three right and a spelling sweep would have made them all the LORD of Hosts. Same discipline kept Dagon's epithet out of the erasure cure at 1 Sam 5:7, and kept Saul out of Sheol at 468 seats"
+              "THE RESIDUE CAME IN PAIRS: 37 of the burn's 42 gaps were exactly two consecutive verses - the relay's batch grain showing through the holes. The same grain shaped the zero-token clusters (2 Chr 5:1-4, 2 Sam 13:33-36) and the English fallbacks (Ps 53:5-7, Ruth 1:13-16)"
+              "asafo IS NOT A TSEVAOT VARIANT - it is the chair's own word for congregation at העדה, עדת, הקהל, העם, correct in all 78 of those places. An early spelling-based census of mine conflated them; only seats whose SURFACE is צבאות were touched"
+              "ɛ AND ɔ ARE LETTERS: 1,203 homoglyphs repaired (Greek epsilon x1125 in se/dee/ye, Greek reversed lunate sigma x91 in won, Cyrillic a x72) - invisible on the page and fatal to every grep. The sweep STOPS at the chair's own orthography: nsã x201 and Yisraël x108 are left standing for a native ear"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :tw}
