@@ -5,21 +5,29 @@
   "book": "2-samuel",
   "lang": "tw",
   "chapter": 5,
-  "translation": "Filistifoɔ bae, na wɔtrɛw wɔn ho ase wɔ Refaim bon mu.",
+  "translation": "Na Filistiafoɔ baeɛ, na wɔatrɛ agu wɔ Rafafoɔ bonmu.",
   "tokens": [
     {
+      "surface": "ופלשתים",
+      "gloss": "Na Filistiafoɔ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baeɛ"
+    },
+    {
       "surface": "וינטשו",
-      "gloss": "wɔtrɛw wɔn ho ase"
+      "gloss": "na wɔatrɛ agu"
     },
     {
       "surface": "בעמק",
-      "gloss": "wɔ…bon mu"
+      "gloss": "wɔ ... bonmu"
     },
     {
       "surface": "רפאים",
-      "gloss": "Refaim"
+      "gloss": "Rafafoɔ"
     }
   ],
-  "timestamp": "2026-09-15T23:01:45.754786251Z",
+  "timestamp": "2026-09-16T06:53:47.647389178Z",
   "model": "glm-5.3"
 }

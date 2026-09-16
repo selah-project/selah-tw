@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "2-samuel 12:1", "book": "2-samuel", "lang": "tw", "chapter": 12, "translation": "Yawe somaa ⟨את⟩ Natan kɔɔ Dawid nkyɛn, na ɔbaa ne nkyɛn, na ɔka kyerɛɛ no sɛ: Nnipa baanu wɔ kurow baako mu, baako yɛ ɔdefoɔ, baako nso yɛ ɔkɔfoɔ.", "tokens": [{"surface": "וישלח", "gloss": "somasoe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Natan"}, {"surface": "נתן", "gloss": "Natan"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "ויבא", "gloss": "ɔbaa"}, {"surface": "אליו", "gloss": "ne nkyɛn"}, {"surface": "ויאמר", "gloss": "ɔka kyerɛɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "שני", "gloss": "baanu"}, {"surface": "אנשים", "gloss": "nnipa"}, {"surface": "היו", "gloss": "wɔ"}, {"surface": "בעיר", "gloss": "wɔ kurow mu"}, {"surface": "אחת", "gloss": "baako"}, {"surface": "אחד", "gloss": "baako"}, {"surface": "עשיר", "gloss": "ɔdefoɔ"}, {"surface": "ו", "gloss": "nso"}, {"surface": "אחד", "gloss": "baako"}, {"surface": "ראש", "gloss": "ɔkɔfoɔ"}], "timestamp": "2026-09-15T23:04:37.550835473Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yawe somaa ⟨את⟩ Natan kɔɔ Dawid nkyɛn, na ɔbaa ne nkyɛn, na ɔka kyerɛɛ no sɛ: Nnipa baanu wɔ kurow baako mu, baako yɛ ɔdefoɔ na baako yɛ ohiafoɔ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔka kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שני",
+      "gloss": "baanu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ kurow mu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ɔdefoɔ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "na baako"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ohiafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T06:53:50.207646163Z",
+  "model": "glm-5.3"
+}

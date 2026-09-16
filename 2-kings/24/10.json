@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "tw",
   "chapter": 24,
-  "translation": "Saa berɛ no, Nebukadnesar, Babel ɔhene, akodiefoɔ baa Yerusalem so, na kuro no hyɛɛ ahobammɔ ase.",
+  "translation": "Saa berɛ mu na nkoa a wɔyɛ Nevukadnessar, Babilon ɔhene dea, baa Yerusalem so, na kurow no kɔɔ ahyɛnsodeɛ mu.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "saa berɛ no"
+      "gloss": "Saa berɛ mu"
     },
     {
       "surface": "ההיא",
-      "gloss": "no"
+      "gloss": "saa (da no)"
     },
     {
       "surface": "עלה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "akodiefoɔ"
+      "gloss": "nkoa"
     },
     {
       "surface": "נבכדנאצר",
-      "gloss": "Nebukadnesar"
+      "gloss": "Nevukadnessar"
     },
     {
       "surface": "מלך",
@@ -33,17 +33,25 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babel"
+      "gloss": "Babilon"
     },
     {
       "surface": "ירושלם",
       "gloss": "Yerusalem"
     },
     {
-      "surface": "ויבא→ותבא",
-      "gloss": "hyɛɛ ase"
+      "surface": "ותבא",
+      "gloss": "na ... kɔɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ahyɛnsodeɛ mu"
     }
   ],
-  "timestamp": "2026-09-15T23:37:39.274590208Z",
+  "timestamp": "2026-09-16T06:53:08.594601979Z",
   "model": "glm-5.3"
 }

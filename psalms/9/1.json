@@ -5,25 +5,29 @@
   "book": "psalms",
   "lang": "tw",
   "chapter": 9,
-  "translation": "Ma deɛ ɔdi nnwomkuo no so; wɔ ⟨Alamut Laben⟩ (abɔfra no wu) so; Dawid nnwom.",
+  "translation": "Deɛ ɔda nnwom ano: sɛnea \"Alumut Laben\" kyerɛ. Dawid asɛm.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "ma deɛ ɔdi nnwomkuo no so"
+      "gloss": "Deɛ ɔda nnwom ano"
     },
     {
-      "surface": "עלמות לבן",
-      "gloss": "wɔ ⟨Alamut Laben⟩ so"
+      "surface": "עלמות",
+      "gloss": "sɛnea \"Alumut\" kyerɛ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "\"Laben\""
     },
     {
       "surface": "מזמור",
-      "gloss": "nnwom"
+      "gloss": "nnwom\/asɛm"
     },
     {
       "surface": "לדוד",
       "gloss": "Dawid dea"
     }
   ],
-  "timestamp": "2026-09-16T01:39:06.112458107Z",
+  "timestamp": "2026-09-16T06:56:51.911053223Z",
   "model": "glm-5.3"
 }

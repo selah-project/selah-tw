@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tw",
   "chapter": 22,
-  "translation": "Na sɛ ɔbarima bi di kronkron deɛ wɔ mfomsoɔ mu, ɔde no fa enum (n'numesoa) ka ho, na ɔde ⟨את⟩ kronkron deɛ no ma ⟨את⟩ ɔsɔfoɔ no.",
+  "translation": "Na sɛ onipa bi di kronkronne wɔ bɔne mu a, ɔde n'enum-ɛfa ka ⟨את⟩ no ho, na ɔde ⟨את⟩ kronkronne no ma ɔsɔfoɔ no.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "na ɔbarima"
+      "gloss": "Na sɛ onipa bi"
     },
     {
       "surface": "כי",
@@ -21,46 +21,42 @@
     },
     {
       "surface": "קדש",
-      "gloss": "kronkron deɛ"
+      "gloss": "kronkronne"
     },
     {
       "surface": "בשגגה",
-      "gloss": "wɔ mfomsoɔ mu"
+      "gloss": "wɔ bɔne mu"
     },
     {
       "surface": "ויסף",
-      "gloss": "ɔde ... ka ho"
+      "gloss": "ɔde ka ho"
     },
     {
       "surface": "חמשיתו",
-      "gloss": "n'numesoa (fa enum)"
+      "gloss": "n'enum-ɛfa"
     },
     {
       "surface": "עליו",
-      "gloss": "ho"
-    },
-    {
-      "surface": "ויסף",
-      "gloss": ""
+      "gloss": "no ho"
     },
     {
       "surface": "ונתן",
-      "gloss": "na ɔde ... ma"
+      "gloss": "ɔma"
     },
     {
       "surface": "לכהן",
-      "gloss": "⟨את⟩ ɔsɔfoɔ no"
+      "gloss": "ɔsɔfoɔ no"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kronkron deɛ no"
+      "marks": "kronkronne no"
     },
     {
       "surface": "הקדש",
-      "gloss": "kronkron deɛ no"
+      "gloss": "kronkronne no"
     }
   ],
-  "timestamp": "2026-09-15T21:20:25.180088883Z",
+  "timestamp": "2026-09-16T06:55:21.592918797Z",
   "model": "glm-5.3"
 }

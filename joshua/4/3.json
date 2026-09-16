@@ -1,1 +1,116 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "joshua 4:3", "book": "joshua", "lang": "tw", "chapter": 4, "translation": "na mohyɛ ⟨את⟩ wɔn sɛ: Momfa mo nsɔ mo nnwuma de nnwuma mfirii ha, firii Yarden no mu, firi asɔfoɔ no nanktε gyinabea — nnyaa aboɔ dumienu — na mode wɔn bɛtwam ⟨את⟩ mo ne mo ho, na mode wɔn bɛto hɔ ⟨את⟩ akenkanbea hɔ a mo bɛtena mu dɛ anadwo yi. \"", "tokens": [{"surface": "וצוו", "gloss": "na mohyɛ"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "שאו", "gloss": "Momfa mo nsɔ"}, {"surface": "לכם", "gloss": "mo nnwuma"}, {"surface": "מזה", "gloss": "mfirii ha"}, {"surface": "מתוך", "gloss": "firii…mu"}, {"surface": "הירדן", "gloss": "Yarden"}, {"surface": "ממצב", "gloss": "firi…gyinabea"}, {"surface": "רגלי", "gloss": "nanktε"}, {"surface": "הכהנים", "gloss": "asɔfoɔ no"}, {"surface": "הכין", "gloss": "nnyaa"}, {"surface": "שתים", "gloss": "dumienu"}, {"surface": "עשרה", "gloss": "aboɔ"}, {"surface": "והעברתם", "gloss": "mode bɛtwam"}, {"surface": "אותם", "gloss": "wɔn"}, {"surface": "עמכם", "gloss": "⟨את⟩ mo ne mo ho"}, {"surface": "והנחתם", "gloss": "mode bɛto"}, {"surface": "אותם", "gloss": "wɔn"}, {"surface": "במלון", "gloss": "⟨את⟩ akenkanbea hɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "תלינו", "gloss": "mo bɛtena mu"}, {"surface": "בו", "gloss": "mu"}, {"surface": "הלילה", "gloss": "anadwo yi"}], "timestamp": "2026-09-15T22:01:34.997918661Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 4:3",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na hyɛ wɔn ⟨את⟩ sɛ: Bue mo dea mfiri ha, mfiri Yordan no mfimfini, firi asɔfoɔ no nan ase gyinabea a wɔagyina pintinn — abɔdan dumienu — na mo de ⟨את⟩ wɔn bɛfa mo nkyɛn, na mo bɛto ⟨את⟩ wɔn wɔ ⟨⟨the⟩⟩ daebew a mo bɛda mu anadwo yi.",
+  "tokens": [
+    {
+      "surface": "וצוו",
+      "gloss": "na hyɛ wɔn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sɛ (asɛm a wɔde bɛhyɛ wɔn)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "bue mo dea"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo dea"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mfiri ha"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mfimfini"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan"
+    },
+    {
+      "surface": "ממצב",
+      "gloss": "firi gyinabea"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a wɔagyina pintinn"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "abɔdan"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "na mo de bɛfa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abɔdan no"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mo nkyɛn"
+    },
+    {
+      "surface": "והנחתם",
+      "gloss": "na mo bɛto"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔ daebew"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "wɔ daebew"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "mo bɛda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo yi"
+    }
+  ],
+  "timestamp": "2026-09-16T06:56:22.299229459Z",
+  "model": "glm-5.3"
+}

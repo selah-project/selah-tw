@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "jeremiah 9:11", "book": "jeremiah", "lang": "tw", "chapter": 9, "translation": "Hwan ne onimfoɔ a ɔbɛte ⟨את⟩ aseɛ, na hwan ne deɛ Yawe ano ka kae kyerɛɛ no sɛ ɔnkɔka akyerɛ? Adɛn nti na asase no asɛe agu, ahye ayɛ te sɛ sare mu, na obiara nni hɔ a ɔretwa mu?", "tokens": [{"surface": "מי", "gloss": "Hwan ne"}, {"surface": "האיש", "gloss": "onipa"}, {"surface": "החכם", "gloss": "onimfoɔ"}, {"surface": "ויבן", "gloss": "ɔbɛte aseɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "aseɛ (wei)"}, {"surface": "זאת", "gloss": "aseɛ (wei)"}, {"surface": "ויבן", "gloss": ""}, {"surface": "ואשר", "gloss": "na hwan ne deɛ"}, {"surface": "דבר", "gloss": "ka kae"}, {"surface": "פי", "gloss": "ano"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אליו", "gloss": "kyerɛɛ no"}, {"surface": "ויגדה", "gloss": "sɛ ɔnkɔka akyerɛ"}, {"surface": "על", "gloss": ""}, {"surface": "מה", "gloss": "Adɛn nti na"}, {"surface": "אבדה", "gloss": "asɛe agu"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "נצתה", "gloss": "ahye ayɛ"}, {"surface": "כמדבר", "gloss": "te sɛ sare mu"}, {"surface": "מבלי", "gloss": "na obiara nni hɔ"}, {"surface": "עבר", "gloss": "a ɔretwa mu"}], "timestamp": "2026-09-16T00:09:42.627129255Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 9:11",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Hwan ne onipa nimdefoɔ no, na ɔnyɛ ⟨את⟩ nsɛm yi ase, na deɛ Yawe ano aka kyerɛ no, na ɔka akyerɛ — ɛdeɛn nti na asase no asɛe, ahyerɛ ayɛ sɛ sare atenaeɛ, a obiara ntwa mu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "nimdefoɔ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na ɔnyɛ ... ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kyerɛ no"
+    },
+    {
+      "surface": "ויגדה",
+      "gloss": "na ɔka akyerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ɛdeɛn"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "נצתה",
+      "gloss": "ahyerɛ"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sɛ sare atenaeɛ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "a ... nni"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "obiara ntwa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T06:56:02.005390244Z",
+  "model": "glm-5.3"
+}

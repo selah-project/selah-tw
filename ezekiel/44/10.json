@@ -1,35 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "glm-5.3",
   "verse": 10,
   "ref": "ezekiel 44:10",
   "book": "ezekiel",
   "lang": "tw",
   "chapter": 44,
-  "translation": "Nanso Lewifoɔ a wɔtetew wɔn ho fii me hɔ wɔ Yisrael yeraeɛ mu — a wɔyeraeɛ fii me hɔ dii wɔn abosom akyi — wɔbɛsoa wɔn bɔne.",
+  "translation": "Na mmom Liviifoɔ no, wɔn a wɔsɛreɛ fii me nkyɛn wɔ Yisrael asɛreɛ mu — wɔn a wɔbɔɔ wɔn ho fii me nkyɛn dii wɔn abosom no akyi — wɔbɛsoa wɔn bɔne no.",
   "tokens": [
     {
-      "surface": "כי אם",
-      "gloss": "Nanso"
+      "surface": "כי",
+      "gloss": "ɛno na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mmom"
     },
     {
       "surface": "הלוים",
-      "gloss": "Lewifoɔ"
+      "gloss": "Liviifoɔ no"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "wɔn a"
     },
     {
       "surface": "רחקו",
-      "gloss": "wɔtetew wɔn ho fii"
+      "gloss": "wɔsɛreɛ"
     },
     {
       "surface": "מעלי",
-      "gloss": "me hɔ"
+      "gloss": "fii me nkyɛn"
     },
     {
       "surface": "בתעות",
-      "gloss": "wɔ … yeraeɛ mu"
+      "gloss": "wɔ asɛreɛ mu"
     },
     {
       "surface": "ישראל",
@@ -37,19 +41,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "wɔn a"
     },
     {
       "surface": "תעו",
-      "gloss": "wɔyeraeɛ fii me hɔ"
+      "gloss": "wɔbɔɔ wɔn ho fii"
     },
     {
       "surface": "מעלי",
-      "gloss": "fii me hɔ"
+      "gloss": "fii me nkyɛn"
     },
     {
       "surface": "אחרי",
-      "gloss": "dii … akyi"
+      "gloss": "di ... akyi"
     },
     {
       "surface": "גלוליהם",
@@ -64,6 +68,6 @@
       "gloss": "wɔn bɔne"
     }
   ],
-  "timestamp": "2026-09-16T01:01:02.123668206Z",
+  "timestamp": "2026-09-16T07:02:09.627109958Z",
   "model": "glm-5.3"
 }

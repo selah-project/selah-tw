@@ -5,23 +5,19 @@
   "book": "1-samuel",
   "lang": "tw",
   "chapter": 25,
-  "translation": "Abigayil baa Nabal nkyɛn, na hwɛ, ⟨את⟩ apontoɔ wɔ ne fie, te sɛ ɔhene apontoɔ; na Nabal akoma yɛɛ dɛ wɔ ne mu, ɛfiri sɛ ɔyɛɛ akɔmɛdɔ paa; enti ɔankyerɛ no asɛm ketewa anaa kɛseɛ kɔsii anɔpa hann.",
+  "translation": "Abigail baa Nabal nkyɛn, na hwɛ, ɔwɔ apontoɔ wɔ ne fie mu, sɛ ɔhene apontoɔ; na Nabal akoma yɛɛ dɛ wɔ mu, na ɔyɛ akasa akɛse; na ɔmmaa no amane biribiara, ketewa anaa kɛse, kɔsii anɔpa hann sɔɔ.",
   "tokens": [
-    {
-      "surface": "ויקח",
-      "gloss": ""
-    },
     {
       "surface": "ותבא",
       "gloss": "baa"
     },
     {
       "surface": "אביגיל",
-      "gloss": "Abigayil"
+      "gloss": "Abigail"
     },
     {
       "surface": "אל",
-      "gloss": "nk�yan"
+      "gloss": "nkyɛn"
     },
     {
       "surface": "נבל",
@@ -33,7 +29,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "no"
+      "gloss": "ɔwɔ"
     },
     {
       "surface": "משתה",
@@ -41,11 +37,11 @@
     },
     {
       "surface": "בביתו",
-      "gloss": "wɔ ne fie"
+      "gloss": "wɔ ne fie mu"
     },
     {
       "surface": "כמשתה",
-      "gloss": "te sɛ apontoɔ"
+      "gloss": "sɛ ɔhene apontoɔ"
     },
     {
       "surface": "המלך",
@@ -53,7 +49,7 @@
     },
     {
       "surface": "ולב",
-      "gloss": "na akoma"
+      "gloss": "na ... akoma"
     },
     {
       "surface": "נבל",
@@ -65,31 +61,31 @@
     },
     {
       "surface": "עליו",
-      "gloss": "wɔ ne mu"
+      "gloss": "wɔ mu"
     },
     {
       "surface": "והוא",
-      "gloss": "ɛfiri sɛ ɔyɛɛ"
+      "gloss": "na ɔ"
     },
     {
       "surface": "שכר",
-      "gloss": "akɔmɛdɔ"
+      "gloss": "yɛ akasa"
     },
     {
       "surface": "עד",
-      "gloss": "paa"
+      "gloss": "kɔsii"
     },
     {
       "surface": "מאד",
-      "gloss": "kɛseɛ"
+      "gloss": "akɛse"
     },
     {
       "surface": "ולא",
-      "gloss": "enti ɔankyerɛ"
+      "gloss": "na ɔmmaa"
     },
     {
       "surface": "הגידה",
-      "gloss": "ankyerɛ"
+      "gloss": "amma no amane"
     },
     {
       "surface": "לו",
@@ -97,7 +93,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "asɛm"
+      "gloss": "biribiara"
     },
     {
       "surface": "קטן",
@@ -105,7 +101,7 @@
     },
     {
       "surface": "וגדול",
-      "gloss": "anaa kɛseɛ"
+      "gloss": "anaa kɛse"
     },
     {
       "surface": "עד",
@@ -120,6 +116,6 @@
       "gloss": "anɔpa"
     }
   ],
-  "timestamp": "2026-09-16T05:19:52.690704725Z",
+  "timestamp": "2026-09-16T06:53:11.869534284Z",
   "model": "glm-5.3"
 }

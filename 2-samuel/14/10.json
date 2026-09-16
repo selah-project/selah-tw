@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tw",
   "chapter": 14,
-  "translation": "Na ɔhene no kaa se: Obiara a ɔbɛka asɛm bi wo ho, fa no bra me, na ɔrensa wo ho bio da.",
+  "translation": "Na ɔhene no kaa se: “Obiara a ɔbɛka asɛm bi wo ho, fa no bra me hɔ, na ɔrenkyerɛ bio sɛ ɔbɛka wo ho.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na ɔkaa se"
+      "gloss": "na ... kaa se"
     },
     {
       "surface": "המלך",
@@ -29,25 +29,29 @@
     },
     {
       "surface": "אלי",
-      "gloss": "me"
+      "gloss": "me hɔ"
     },
     {
       "surface": "ולא",
-      "gloss": "na ɔrensa"
+      "gloss": "na ... ren"
     },
     {
       "surface": "יסיף",
-      "gloss": "bio"
+      "gloss": "nkyerɛ bio"
     },
     {
       "surface": "עוד",
-      "gloss": "da"
+      "gloss": "bio"
     },
     {
       "surface": "לגעת",
-      "gloss": "ne ho"
+      "gloss": "sɛ ɔbɛka wo ho"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo"
     }
   ],
-  "timestamp": "2026-09-15T23:05:36.372401348Z",
+  "timestamp": "2026-09-16T06:53:42.560082083Z",
   "model": "glm-5.3"
 }

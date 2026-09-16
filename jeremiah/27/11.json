@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tw",
   "chapter": 27,
-  "translation": "Na ɔman a ɔde ⟨את⟩ ne kokodiakyi bɛhyɛ Babel ɔhene ayamdeɛ mu na wasom no, mɛgya no akɔtena ne asase so — Yawe asɛm — na ɔbɛyɛ so adwuma, na ɔbɛtena mu.",
+  "translation": "Na ɔman a ɛde ⟨את⟩ ne-kɔn hyɛ Babilon ɔhene adehwere mu na ɔsom no, mɛgyaw no wɔ ne-kukuo asase so, Yawe asɛm; na ɔnoa asase no na ɔtena mu.",
   "tokens": [
     {
       "surface": "והגוי",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "יביא",
-      "gloss": "bɛhyɛ"
+      "gloss": "ɛde ... hyɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ne kokodiakyi"
+      "marks": "ne-kɔn (צוארו)"
     },
     {
       "surface": "צוארו",
-      "gloss": "ne kokodiakyi"
+      "gloss": "ne-kɔn"
     },
     {
       "surface": "בעל",
-      "gloss": "wɔ"
+      "gloss": "mu"
     },
     {
       "surface": "מלך",
@@ -38,23 +38,19 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babel"
-    },
-    {
-      "surface": "בעל",
-      "gloss": "ayamdeɛ mu"
+      "gloss": "Babilon"
     },
     {
       "surface": "ועבדו",
-      "gloss": "na wasom no"
+      "gloss": "na ɔsom no"
     },
     {
       "surface": "והנחתיו",
-      "gloss": "mɛgya no"
+      "gloss": "mɛgyaw no"
     },
     {
       "surface": "על",
-      "gloss": "kɔtena"
+      "gloss": "wɔ ... so"
     },
     {
       "surface": "אדמתו",
@@ -62,7 +58,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "Yawe asɛm"
+      "gloss": "asɛm"
     },
     {
       "surface": "יהוה",
@@ -70,17 +66,17 @@
     },
     {
       "surface": "ועבדה",
-      "gloss": "na ɔbɛyɛ so adwuma"
+      "gloss": "na ɔnoa asase no"
     },
     {
       "surface": "וישב",
-      "gloss": "na ɔbɛtena"
+      "gloss": "na ɔtena"
     },
     {
       "surface": "בה",
       "gloss": "mu"
     }
   ],
-  "timestamp": "2026-09-16T00:18:22.919253095Z",
+  "timestamp": "2026-09-16T06:55:36.910917303Z",
   "model": "glm-5.3"
 }

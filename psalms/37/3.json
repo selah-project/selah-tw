@@ -5,15 +5,19 @@
   "book": "psalms",
   "lang": "tw",
   "chapter": 37,
-  "translation": "Fa wo ho to Yawe mu, na yɛ pa; tena asase so, na kɔhwɛ nokorɛ.",
+  "translation": "Fa Yawe mu nkɔsoɔ, na yɛ pa; tena asase no so, na bɔ woho mu hwɛ ⟨אֱמוּנָה⟩ so.",
   "tokens": [
     {
       "surface": "בטח",
-      "gloss": "fa wo ho to"
+      "gloss": "Fa Yawe mu nkɔsoɔ"
     },
     {
       "surface": "ביהוה",
-      "gloss": "Yawe mu"
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na yɛ"
     },
     {
       "surface": "טוב",
@@ -25,17 +29,17 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "asase so"
+      "gloss": "asase no so"
     },
     {
       "surface": "ורעה",
-      "gloss": "kɔhwɛ"
+      "gloss": "na bɔ woho mu hwɛ ... so"
     },
     {
       "surface": "אמונה",
-      "gloss": "nokorɛ"
+      "gloss": "nokorɛdasuo (אמונה)"
     }
   ],
-  "timestamp": "2026-09-16T01:50:02.787372596Z",
+  "timestamp": "2026-09-16T06:56:52.160001074Z",
   "model": "glm-5.3"
 }

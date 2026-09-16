@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tw",
   "chapter": 22,
-  "translation": "Ahab nsɛm a aka, ne deɛ ɔyɛeɛ nyinaa, ne sekoɔ fie a ɔsiiɛ, ne nkurow a ɔsiiɛ nyinaa — wɔn nyinaa nni hɔ a wɔatwerɛ wɔ Israel ahemfo nnawɔtwe... ",
+  "translation": "Acheka a aka wɔ Ahab nsɛm mu, ne deɛ ɔyɛeɛ nyinaa, ne ɔdan a wɔde sekan-saboa yɛeɛ a ɔsiiɛ, ne nkurow a ɔsiiɛ nyinaa, ɛnyɛ nokorɛ sɛ wɔatwerɛ wɔn wɔ nwoma a ɛfa Yisrael ahene nnɛda nsɛm ho mu?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "a aka"
+      "gloss": "acheka a aka"
     },
     {
       "surface": "דברי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ובית",
-      "gloss": "ne ... fie"
+      "gloss": "ne ɔdan"
     },
     {
       "surface": "השן",
-      "gloss": "sekoɔ"
+      "gloss": "sekan-saboa de"
     },
     {
       "surface": "אשר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "ɛnyɛ sɛ"
+      "gloss": "ɛnyɛ nokorɛ sɛ"
     },
     {
       "surface": "הם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "atwerɛ"
+      "gloss": "wɔatwerɛ"
     },
     {
       "surface": "על",
@@ -85,13 +85,21 @@
     },
     {
       "surface": "דברי",
-      "gloss": "asɛm"
+      "gloss": "nsɛm"
     },
     {
       "surface": "הימים",
-      "gloss": "nnawɔtwe... "
+      "gloss": "nnɛda"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ahene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-09-15T23:24:19.072756987Z",
+  "timestamp": "2026-09-16T06:53:44.166948117Z",
   "model": "glm-5.3"
 }

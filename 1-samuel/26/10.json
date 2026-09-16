@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "tw",
   "chapter": 26,
-  "translation": "Dawid kaa bio sɛ: Sɛnea Yawe te aseɛ no, gye sɛ Yawe na ɔbɛto no, anaasɛ ne da bɛba na ɔbɛwu, anaasɛ ɔbɛkɔ ɔko mu na wɔasɛpɛ no.",
+  "translation": "Dawid kaa sɛ: Yawe te aseɛ; gye sɛ Yawe na ɛbɛbɔ no, anaasɛ ne da bɛba na ɔawu, anaasɛ ɔbɛkɔ ɔko mu na wɔasan aka no abom.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kaa bio"
+      "gloss": "kaa sɛ"
     },
     {
       "surface": "דוד",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "gye"
+      "gloss": "sɛ"
     },
     {
       "surface": "אם",
-      "gloss": "sɛ"
+      "gloss": "gye"
     },
     {
       "surface": "יהוה",
@@ -37,15 +37,11 @@
     },
     {
       "surface": "יגפנו",
-      "gloss": "bɛto no"
+      "gloss": "na ɛbɛbɔ no"
     },
     {
       "surface": "או",
       "gloss": "anaasɛ"
-    },
-    {
-      "surface": "יומו",
-      "gloss": "ne da"
     },
     {
       "surface": "יומו",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "ומת",
-      "gloss": "na ɔbɛwu"
+      "gloss": "na ɔawu"
     },
     {
       "surface": "או",
@@ -69,13 +65,13 @@
     },
     {
       "surface": "ירד",
-      "gloss": "bɛkɔ"
+      "gloss": "ɔbɛkɔ"
     },
     {
       "surface": "ונספה",
-      "gloss": "na wɔasɛpɛ no"
+      "gloss": "na wɔasan aka no abom"
     }
   ],
-  "timestamp": "2026-09-15T22:58:58.225705610Z",
+  "timestamp": "2026-09-16T06:53:38.030508115Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,23 @@
   "book": "deuteronomy",
   "lang": "tw",
   "chapter": 34,
-  "translation": "Ɔhweree no ⟨את⟩ wɔ bɔn mu wɔ Moab asase so, wɔ Bet-Peor nkyɛnmu; onipa biara nnim ⟨את⟩ ne siee bea kɔsi ɛnnɛ da.",
+  "translation": "Na wosiee no ⟨את⟩ wɔ nnuru mu, wɔ Moab asase mu, tuo Beth-Peor; na onipa biara nnim ne amuda ⟨את⟩ kɔsi ɛnnɛ da yi.",
   "tokens": [
     {
       "surface": "ויקבר",
-      "gloss": "ɔhweree"
+      "gloss": "na wosiee"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "no (Moshe)"
+      "gloss": "⟨את⟩ no"
     },
     {
       "surface": "בגי",
-      "gloss": "wɔ bɔn mu"
+      "gloss": "wɔ nnuru mu"
     },
     {
       "surface": "בארץ",
-      "gloss": "wɔ asase so"
+      "gloss": "wɔ asase mu"
     },
     {
       "surface": "מואב",
@@ -30,32 +29,36 @@
     },
     {
       "surface": "מול",
-      "gloss": "wɔ nkyɛnmu"
+      "gloss": "tuo"
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Beth-"
     },
     {
       "surface": "פעור",
       "gloss": "Peor"
     },
     {
-      "surface": "וידע",
-      "gloss": "nnim"
+      "surface": "ולא",
+      "gloss": "na ... nnim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
     },
     {
       "surface": "איש",
-      "gloss": "onipa"
+      "gloss": "onipa biara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ne siee bea"
+      "marks": "ne amuda"
     },
     {
       "surface": "קברתו",
-      "gloss": "⟨את⟩ ne siee bea"
+      "gloss": "ne amuda"
     },
     {
       "surface": "עד",
@@ -63,13 +66,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "da"
+      "gloss": "ɛnnɛ da"
     },
     {
       "surface": "הזה",
-      "gloss": "ɛnnɛ"
+      "gloss": "yi"
     }
   ],
-  "timestamp": "2026-09-15T21:59:49.327689760Z",
+  "timestamp": "2026-09-16T06:54:33.171926679Z",
   "model": "glm-5.3"
 }

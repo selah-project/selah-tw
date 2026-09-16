@@ -1,1 +1,96 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "esther 5:11", "book": "esther", "lang": "tw", "chapter": 5, "translation": "Na Haman daa no adi kyerɛɛ wɔn: ⟨את⟩ n'ahonya ⟨את⟩ animuonyam ne ne mma dodoɔ, ne ⟨את⟩ biribiara a ɔhene no dɔɔ no sɔree wɔ so, ne ⟨את⟩ deɛ ɔmaa wɔsoo wɔ ⟨the⟩ ahemfo ne ɔhene no n'asomfoɔ so.", "tokens": [{"surface": "ויספר", "gloss": "daa no adi kyerɛɛ wɔn"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "המן", "gloss": "Haman"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'ahonya animuonyam"}, {"surface": "כבוד", "gloss": "animuonyam"}, {"surface": "עשרו", "gloss": "n'ahonya"}, {"surface": "ורב", "gloss": "ne dodoɔ"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "biribiara"}, {"surface": "כל", "gloss": "biribiara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "גדלו", "gloss": "dɔɔ no sɔree"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "ויתאפק-placeholder", "gloss": "⟨את⟩"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "deɛ"}, {"surface": "אשר", "gloss": "deɛ a"}, {"surface": "נשאו", "gloss": "maa wɔsoo"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "השרים", "gloss": "ahemfo"}, {"surface": "ועבדי", "gloss": "ne n'asomfoɔ"}, {"surface": "המלך", "gloss": "ɔhene no"}], "timestamp": "2026-09-16T04:02:54.120936568Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Haman kaa kyerɛɛ wɔn ⟨את⟩ n'ahonya animuonyam ne ne mma dodoɔ, ne ⟨את⟩ nea ɔhene no maa no kɛseɛ no nyinaa, ne ⟨את⟩ nea ɔmaa no soa wɔ akannifoɔ ne ɔhene no nnwumafoɔ so.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ahonya animuonyam"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "n'ahonya"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ne dodoɔ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nea ɔhene no maa no kɛseɛ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "maa no kɛseɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nea ɔmaa no soa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "maa no soa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "akannifoɔ no"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ne nnwumafoɔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-16T06:54:21.924262211Z",
+  "model": "glm-5.3"
+}

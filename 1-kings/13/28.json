@@ -5,36 +5,36 @@
   "book": "1-kings",
   "lang": "tw",
   "chapter": 13,
-  "translation": "Ɔkɔɔ hunuu ⟨את⟩ ne nwoma a wɔatow agu ɔkwan no so, na ɔpare no ne gyata no gyina nwoma no nkyɛn; gyata no anni ⟨את⟩ nwoma no, na ɛantew ⟨את⟩ ɔpare no.",
+  "translation": "Na ɔkɔɔ, na ɔhunuu ⟨את⟩ ne wufoɔ asotwe no ato gu akwanmu so, na abirekyie no ne gyata no gyina hɔ akae wufoɔ asotwe no; gyata no annu ⟨את⟩ wufoɔ asotwe no, na ɔansɛe ⟨את⟩ abirekyie no.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "ɔkɔɔ"
+      "gloss": "Na ɔkɔɔ"
     },
     {
       "surface": "וימצא",
-      "gloss": "hunuu"
+      "gloss": "na ɔhunuu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ne nwoma"
+      "marks": "ne wufoɔ asotwe no"
     },
     {
       "surface": "נבלתו",
-      "gloss": "ne nwoma"
+      "gloss": "ne wufoɔ asotwe no"
     },
     {
       "surface": "משלכת",
-      "gloss": "a wɔatow agu"
+      "gloss": "ato gu"
     },
     {
       "surface": "בדרך",
-      "gloss": "wɔ ɔkwan no so"
+      "gloss": "akwanmu so"
     },
     {
       "surface": "וחמור",
-      "gloss": "na ɔpare no"
+      "gloss": "na abirekyie no"
     },
     {
       "surface": "והאריה",
@@ -42,23 +42,23 @@
     },
     {
       "surface": "עמדים",
-      "gloss": "gyina"
+      "gloss": "gyina hɔ"
     },
     {
       "surface": "אצל",
-      "gloss": "nkyɛn"
+      "gloss": "akae"
     },
     {
       "surface": "הנבלה",
-      "gloss": "nwoma no"
+      "gloss": "wufoɔ asotwe no"
     },
     {
       "surface": "לא",
-      "gloss": "anni"
+      "gloss": "annu"
     },
     {
       "surface": "אכל",
-      "gloss": "anni"
+      "gloss": "annu"
     },
     {
       "surface": "האריה",
@@ -67,17 +67,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nwoma no"
+      "marks": "wufoɔ asotwe no"
     },
     {
       "surface": "הנבלה",
-      "gloss": "nwoma no"
+      "gloss": "wufoɔ asotwe no"
     },
     {
-      "surface": "ויהי",
-      "gloss": ""
+      "surface": "ולא",
+      "gloss": "na ɔansɛe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ɔansɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abirekyie no"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "abirekyie no"
     }
   ],
-  "timestamp": "2026-09-15T23:20:15.498622107Z",
+  "timestamp": "2026-09-16T06:53:25.576673010Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "tw",
   "chapter": 7,
-  "translation": "Na Refah ne ba, Reshef, Telah ne ba, ne Tahan ne ba.",
+  "translation": "Na Refa ⟨ne⟩ ba, na Reshef, na Telah ⟨ne⟩ ba, na Tahan ⟨ne⟩ ba.",
   "tokens": [
     {
       "surface": "ורפח",
-      "gloss": "Na Refah"
+      "gloss": "na Refa"
     },
     {
       "surface": "בנו",
@@ -17,15 +17,11 @@
     },
     {
       "surface": "ורשף",
-      "gloss": "Reshef"
+      "gloss": "na Reshef"
     },
     {
-      "surface": "ו",
-      "gloss": "ne"
-    },
-    {
-      "surface": "תלח",
-      "gloss": "Telah"
+      "surface": "ותלח",
+      "gloss": "na Telah"
     },
     {
       "surface": "בנו",
@@ -33,13 +29,13 @@
     },
     {
       "surface": "ותחן",
-      "gloss": "ne Tahan"
+      "gloss": "na Tahan"
     },
     {
       "surface": "בנו",
       "gloss": "ne ba"
     }
   ],
-  "timestamp": "2026-09-16T04:38:28.881027491Z",
+  "timestamp": "2026-09-16T06:53:04.060488016Z",
   "model": "glm-5.3"
 }

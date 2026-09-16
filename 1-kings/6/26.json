@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tw",
   "chapter": 6,
-  "translation": "Kerub baako no kɛseyɛ soro yɛ amma du, na ɛte saa nso na kerub ɛtɔ so mmienu no teɛ.",
+  "translation": "Kerub baako no soro tenten yɛ amma du, na kerub a ɛtɔ so mmienu no nso saa ara.",
   "tokens": [
     {
       "surface": "קומת",
-      "gloss": "kɛseyɛ soro"
+      "gloss": "soro tenten"
     },
     {
       "surface": "הכרוב",
@@ -28,12 +28,8 @@
       "gloss": "amma"
     },
     {
-      "surface": "ויתן",
-      "gloss": ""
-    },
-    {
       "surface": "וכן",
-      "gloss": "ɛte saa nso"
+      "gloss": "nso saa ara"
     },
     {
       "surface": "הכרוב",
@@ -41,9 +37,9 @@
     },
     {
       "surface": "השני",
-      "gloss": "ɛtɔ so mmienu no"
+      "gloss": "a ɛtɔ so mmienu"
     }
   ],
-  "timestamp": "2026-09-15T23:14:36.900478487Z",
+  "timestamp": "2026-09-16T06:53:18.353041159Z",
   "model": "glm-5.3"
 }

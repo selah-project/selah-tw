@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tw",
   "chapter": 69,
-  "translation": "Bɛn me kra; gye me; esiane m'atamfoɔ nti, twe me firi ase.",
+  "translation": "Bεn me kra ho, gyae no; esiane m'atamfoɔ nti, fa me sie.",
   "tokens": [
     {
       "surface": "קרבה",
-      "gloss": "Bɛn"
+      "gloss": "Bεn"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ho (kɔ)"
     },
     {
       "surface": "נפשי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "גאלה",
-      "gloss": "gye me"
+      "gloss": "gyae no"
     },
     {
       "surface": "למען",
-      "gloss": "esiane"
+      "gloss": "esiane ... nti"
     },
     {
       "surface": "איבי",
@@ -33,13 +33,9 @@
     },
     {
       "surface": "פדני",
-      "gloss": "twe me firi ase"
-    },
-    {
-      "surface": "אל",
-      "gloss": ""
+      "gloss": "fa me sie"
     }
   ],
-  "timestamp": "2026-09-16T02:03:14.960923095Z",
+  "timestamp": "2026-09-16T06:57:01.318661868Z",
   "model": "glm-5.3"
 }

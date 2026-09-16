@@ -1,15 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "glm-5.3",
   "verse": 10,
   "ref": "psalms 81:10",
   "book": "psalms",
   "lang": "tw",
   "chapter": 81,
-  "translation": "Onnyɛ El ahorow wɔ wo mu; na wo nso wonwɔsɔ El titiriw biara.",
+  "translation": "El ɔhɔhoɔ nnyɛ wo mu, na wo nnsotwe wo ho ama El ɔhɔhoɔ.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Onnyɛ"
+      "gloss": "nni"
     },
     {
       "surface": "יהיה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בך",
-      "gloss": "wɔ wo mu"
+      "gloss": "wo mu"
     },
     {
       "surface": "אל",
@@ -25,29 +25,25 @@
     },
     {
       "surface": "זר",
-      "gloss": "ahorow"
+      "gloss": "ɔhɔhoɔ"
     },
     {
-      "surface": "ו",
-      "gloss": "na"
-    },
-    {
-      "surface": "לא",
-      "gloss": "wonwɔsɔ"
+      "surface": "ולא",
+      "gloss": "na wo nnsotwe"
     },
     {
       "surface": "תשתחוה",
-      "gloss": "nwɔsɔ"
+      "gloss": "sotwe wo ho"
     },
     {
       "surface": "לאל",
-      "gloss": "kɔ El"
+      "gloss": "ama El"
     },
     {
       "surface": "נכר",
-      "gloss": "titiriw biara"
+      "gloss": "ɔhɔhoɔ"
     }
   ],
-  "timestamp": "2026-09-16T02:11:55.628791683Z",
+  "timestamp": "2026-09-16T07:02:13.219462168Z",
   "model": "glm-5.3"
 }

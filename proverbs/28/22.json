@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "tw",
   "chapter": 28,
-  "translation": "Onipa a wɔn ani yɛ bɔne no di ahopere wɔ sika ho, na ɔnnim sɛ ahia bɛba ne so.",
+  "translation": "Onipa a n'ani bɔne brɛ ntɛm de ho kɔ sika mu, na ɔnnim sɛ ohia bɛba ne so.",
   "tokens": [
     {
       "surface": "נבהל",
-      "gloss": "di ahopere"
+      "gloss": "brɛ ntɛm"
     },
     {
       "surface": "להון",
-      "gloss": "sika ho"
+      "gloss": "sika mu"
     },
     {
       "surface": "איש",
@@ -28,8 +28,12 @@
       "gloss": "ani"
     },
     {
-      "surface": "וידע\/ולא ידע",
+      "surface": "ולא",
       "gloss": "na ɔnnim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
     },
     {
       "surface": "כי",
@@ -37,13 +41,13 @@
     },
     {
       "surface": "חסר",
-      "gloss": "ahia"
+      "gloss": "ohia"
     },
     {
       "surface": "יבאנו",
       "gloss": "bɛba ne so"
     }
   ],
-  "timestamp": "2026-09-16T03:04:09.850612965Z",
+  "timestamp": "2026-09-16T06:57:04.640964843Z",
   "model": "glm-5.3"
 }

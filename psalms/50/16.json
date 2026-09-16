@@ -5,49 +5,53 @@
   "book": "psalms",
   "lang": "tw",
   "chapter": 50,
-  "translation": "Nanso Eloohim ka kyerɛɛ bɔnefoɔ no sɛ: Adɛn na wode me mmara no di dwuma, na wode me nhyehyɛeɛ siesie wo ano?",
+  "translation": "Na deɛ ɔbɔnefoɔ no de, Eloohim ka sɛ: “Adɛn na wokasa fa me mmara ho, na woduru me apam so wɔ wo ano so?”",
   "tokens": [
     {
-      "surface": "וְלָרָשָׁע",
-      "gloss": "Nanso kɔ bɔnefoɔ no so"
+      "surface": "ולרשע",
+      "gloss": "Na deɛ ɔbɔnefoɔ no de"
     },
     {
-      "surface": "אָמַר",
-      "gloss": "ka kyerɛɛ"
+      "surface": "אמר",
+      "gloss": "ka"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "Eloohim"
     },
     {
-      "surface": "מַה־לְּךָ",
-      "gloss": "Adɛn na wo"
+      "surface": "מה",
+      "gloss": "Adɛn"
     },
     {
-      "surface": "לְסַפֵּר",
-      "gloss": "di dwuma"
+      "surface": "לך",
+      "gloss": "wo"
     },
     {
-      "surface": "חֻקַּי",
-      "gloss": "me mmara no"
+      "surface": "לספר",
+      "gloss": "sɛ wokasa fa ... ho"
     },
     {
-      "surface": "וַתִּשָּׂא",
-      "gloss": "na wo siesie"
+      "surface": "חקי",
+      "gloss": "me mmara"
     },
     {
-      "surface": "בְּרִיתִי",
-      "gloss": "me nhyehyɛeɛ"
+      "surface": "ותשא",
+      "gloss": "na woduru ... so"
     },
     {
-      "surface": "עֲלֵי",
-      "gloss": "wɔ"
+      "surface": "בריתי",
+      "gloss": "me apam"
     },
     {
-      "surface": "פִיךָ",
+      "surface": "עלי",
+      "gloss": "so"
+    },
+    {
+      "surface": "פיך",
       "gloss": "wo ano"
     }
   ],
-  "timestamp": "2026-09-16T01:56:36.283407797Z",
+  "timestamp": "2026-09-16T06:57:16.702741053Z",
   "model": "glm-5.3"
 }

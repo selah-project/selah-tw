@@ -1,1 +1,85 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "leviticus 7:30", "book": "leviticus", "lang": "tw", "chapter": 7, "translation": "Ne nsa no ankasa na ɛde ⟨את⟩ Yawe ⟨את⟩ ogya-afɔdeɛ no bɛba; ⟨את⟩ npoano na ɛwɔ ⟨the⟩ ⟨את⟩ akoma no so no, ɔde bɛba; ⟨את⟩ akoma no, sɛdeɛ wɔbɛkyerɛw so afɔdeɛ (⟨את⟩ tenupah) wɔ Yawe anim.", "tokens": [{"surface": "ידיו", "gloss": "Ne nsa"}, {"surface": "תביאינה", "gloss": "na ɛde ... bɛba"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe ogya-afɔdeɛ no"}, {"surface": "אשי", "gloss": "ogya-afɔdeɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "npoano"}, {"surface": "החלב", "gloss": "npoano"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "יביאנו", "gloss": "ɔde bɛba"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "akoma no"}, {"surface": "החזה", "gloss": "⟨את⟩ akoma no"}, {"surface": "להניף", "gloss": "sɛdeɛ wɔbɛkyerɛw so"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "tenupah afɔdeɛ"}, {"surface": "תנופה", "gloss": "⟨את⟩ tenupah (kyerɛwso-afɔdeɛ)"}, {"surface": "לפני", "gloss": "wɔ ... anim"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T21:10:13.582242212Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 7:30",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ne nsa ankasa na ɛde Yawe agyiraedeɛ — ⟨את⟩ ogya-afɔdeɛ no bɛba; ɛde ⟨את⟩ nnuru no a ɛda koko no so bɛba no, ɛde ⟨את⟩ koko no bɛba sɛ ɛbɛtoeɛ wɔ nufutwa mu (tenupha) de abrɛ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "תביאינה",
+      "gloss": "na ɛde ... bɛba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogya-afɔdeɛ"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ogya-afɔdeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnuru (afɔdeɛ nnuru)"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nnuru no"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ɛda ... so"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "koko no"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "ɛde ... bɛba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko no"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "koko no"
+    },
+    {
+      "surface": "להניף",
+      "gloss": "sɛ ɛbɛtoeɛ wɔ nufutwa mu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "koko no (wɔatow no)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenupha (nufutwa afɔdeɛ)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Yawe anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T06:56:01.376365842Z",
+  "model": "glm-5.3"
+}

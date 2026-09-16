@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "tw",
   "chapter": 9,
-  "translation": "Na wɔkɔeɛ kɔsii no mu, na wɔanhunu biribiara wɔ ne mu gye ne tirim, ne nananom, ne nensa nan apampam.",
+  "translation": "Wɔkɔɔ kɔsii no mu, nanso wɔanhunu biribiara wɔ ne mu, gye ne tirikɛseɛ ne nan mmienu ne nsa nkyɛnmu.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "na wɔkɔeɛ"
+      "gloss": "wɔkɔɔ"
     },
     {
       "surface": "לקברה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na wɔanhunu"
+      "gloss": "nanso wɔanhunu"
     },
     {
       "surface": "מצאו",
@@ -29,25 +29,29 @@
     },
     {
       "surface": "כי",
-      "gloss": "gye"
-    },
-    {
-      "surface": "אם",
       "gloss": ""
     },
     {
+      "surface": "אם",
+      "gloss": "gye"
+    },
+    {
       "surface": "הגלגלת",
-      "gloss": "ne tirim"
+      "gloss": "ne tirikɛseɛ"
     },
     {
       "surface": "והרגלים",
-      "gloss": "ne nananom"
+      "gloss": "ne nan mmienu"
     },
     {
       "surface": "וכפות",
-      "gloss": "ne nensa nan apampam"
+      "gloss": "ne nsa nkyɛnmu"
+    },
+    {
+      "surface": "הידים",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-09-15T23:30:56.796892149Z",
+  "timestamp": "2026-09-16T06:53:29.333771800Z",
   "model": "glm-5.3"
 }

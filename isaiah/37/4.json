@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tw",
   "chapter": 37,
-  "translation": "Aye bi sɛ Yawe wo Eloohim bɛte ⟨את⟩ Rabshakeh nsɛm, a ɔhene a ɔwɔ Ashur, ne wura, somaa no sɛ ɔmmɛbufor Onyankopon a ɔte aseɛ no, na ɔmmɔ nsɛm a Yawe wo Eloohim atee no no kɔ; enti fa mpaeɛbɔ bɔ ma nkaeɛfoɔ a wɔabka hɔ no.",
+  "translation": "Ebi na Yawe wo Eloohim bɛte ⟨את⟩ nsɛm a Rabshakah — ɔno a Asuria hene, ne wura, somaa no sɛ ɔmmɛhaw Eloohim a ɔte aseɛ no — de bɛkasa wɔ nsɛm a Yawe wo Eloohim ate ho no mu; enti fa mpaeɛ bɔ ma nkaeɛ a ɛwɔ hɔ no.",
   "tokens": [
     {
       "surface": "אולי",
-      "gloss": "Aye bi sɛ"
+      "gloss": "Ebi na"
     },
     {
       "surface": "ישמע",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rabshakeh nsɛm"
+      "marks": "nsɛm a Rabshakah kae"
     },
     {
       "surface": "דברי",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "Rab-"
+      "gloss": "Rab"
     },
     {
       "surface": "שקה",
-      "gloss": "shakeh"
+      "gloss": "shakah"
     },
     {
       "surface": "אשר",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "ɔhene"
+      "gloss": "hene"
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Asuria"
     },
     {
       "surface": "אדניו",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "לחרף",
-      "gloss": "sɛ ɔmmɛbufor"
+      "gloss": "sɛ ɔmmɛhaw"
     },
     {
       "surface": "אלהים",
-      "gloss": "Onyankopon"
+      "gloss": "Eloohim"
     },
     {
       "surface": "חי",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "והוכיח",
-      "gloss": "na ɔmmɔ ... kɔ"
+      "gloss": "de bɛkasa"
     },
     {
       "surface": "בדברים",
-      "gloss": "nsɛm"
+      "gloss": "wɔ nsɛm"
     },
     {
       "surface": "אשר",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "atee"
+      "gloss": "ate"
     },
     {
       "surface": "יהוה",
@@ -97,10 +97,26 @@
       "gloss": "wo Eloohim"
     },
     {
-      "surface": "וישאת",
-      "gloss": "enti fa ... bɔ"
+      "surface": "ונשאת",
+      "gloss": "fa mpaeɛ bɔ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mpaeɛ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ma"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "הנמצאה",
+      "gloss": "a ɛwɔ hɔ"
     }
   ],
-  "timestamp": "2026-09-15T23:53:06.007804456Z",
+  "timestamp": "2026-09-16T06:55:56.008881190Z",
   "model": "glm-5.3"
 }

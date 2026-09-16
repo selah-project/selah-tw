@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "jeremiah 7:25", "book": "jeremiah", "lang": "tw", "chapter": 7, "translation": "Ɛfiri ɛda a mo nnomaa firi Misraim asase so kɔɔ de bɛduruu ɛda yi, na metee mo soma wɔn me akodeɛ ⟨את⟩ nyinaa — nnɔbiɛfoɔ no — anɔpatutuutu, na masoma wɔn.", "tokens": [{"surface": "למן", "gloss": "Ɛfiri"}, {"surface": "היום", "gloss": "ɛda"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יצאו", "gloss": "firi"}, {"surface": "אבותיכם", "gloss": "mo nnomaa"}, {"surface": "מארץ", "gloss": "asase so"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "עד", "gloss": "kɔɔ de bɛduruu"}, {"surface": "היום", "gloss": "ɛda"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "ו אשלח", "gloss": "na metee mo soma"}, {"surface": "אליכם", "gloss": "wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me akodeɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עבדי", "gloss": "me akodeɛ"}, {"surface": "הנביאים", "gloss": "nnɔbiɛfoɔ no"}, {"surface": "יום", "gloss": "anɔpatutuutu"}, {"surface": "השכם", "gloss": "sɔre anɔpa"}], "timestamp": "2026-09-16T00:08:13.019388615Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 7:25",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ɛfiri ɛda a mo agya fitii Misraim asase mu kɔsi ɛda yi deɛ, mesomaa mo ⟨את⟩ me akoadifoɔ nsɛmfoɔ no nyinaa, apem anɔpa biara mesɔre ntɛm na mesoma wɔn.",
+  "tokens": [
+    {
+      "surface": "למן",
+      "gloss": "Ɛfiri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "fitii"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "mo agya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi deɛ"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "mesomaa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me akoadifoɔ nsɛmfoɔ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "me akoadifoɔ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nsɛmfoɔ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "anɔpa biara"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "mesɔre ntɛm"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na mesoma wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T06:55:26.139226130Z",
+  "model": "glm-5.3"
+}

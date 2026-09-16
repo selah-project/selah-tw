@@ -5,57 +5,65 @@
   "book": "1-chronicles",
   "lang": "tw",
   "chapter": 23,
-  "translation": "Eliezer mma no yɛ Rehabya, ⟨ɔba]]).",
+  "translation": "Na wɔyɛɛ Eliezer mma: Rehabyah ⟨⟨no ba⟩⟩ deɛ ɔdi kan; na mma afoforɔ nna Eliezer; na Rehabyah mma dɔɔso ⟨sene so⟩.",
   "tokens": [
     {
-      "surface": "בְּנֵי",
+      "surface": "ויהיו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "בני",
       "gloss": "mma"
     },
     {
-      "surface": "רְחַבְיָה",
-      "gloss": "Rehabya"
-    },
-    {
-      "surface": "הָרֹאשׁ",
-      "gloss": "ɔtitenani"
-    },
-    {
-      "surface": "וְלֹא",
-      "gloss": "na ... ɛnyɛ"
-    },
-    {
-      "surface": "הָיָה",
-      "gloss": "wɔ hɔ"
-    },
-    {
-      "surface": "לֶאֱלִיעֶזֶר",
+      "surface": "אליעזר",
       "gloss": "Eliezer"
     },
     {
-      "surface": "בָּנִים",
+      "surface": "רחביה",
+      "gloss": "Rehabyah"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "deɛ ɔdi kan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nna"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wɔnyɛɛ"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "בנים",
       "gloss": "mma"
     },
     {
-      "surface": "אֲחֵרִים",
+      "surface": "אחרים",
       "gloss": "afoforɔ"
     },
     {
-      "surface": "וּבְנֵי",
+      "surface": "ובני",
       "gloss": "na ... mma"
     },
     {
-      "surface": "רְחַבְיָה",
-      "gloss": "Rehabya"
+      "surface": "רחביה",
+      "gloss": "Rehabyah"
     },
     {
-      "surface": "רָבוּ",
+      "surface": "רבו",
       "gloss": "dɔɔso"
     },
     {
-      "surface": "לְמָֽעְלָה",
-      "gloss": "kɛseɛ"
+      "surface": "למעלה",
+      "gloss": "sene so"
     }
   ],
-  "timestamp": "2026-09-16T04:46:03.355207336Z",
+  "timestamp": "2026-09-16T06:53:08.642950149Z",
   "model": "glm-5.3"
 }

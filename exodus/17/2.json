@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "tw",
   "chapter": 17,
-  "translation": "Na dɔm no ne Mose gyee ko, na wɔkaa sɛ: Momma nsuo ma yɛn na yɛnom. Na Mose kaa kyɛfa wɔn: Mofiri sɛn bɛne me gye ko? Mofiri sɛn sɔ ⟨את⟩ Yawe ⟨את⟩ hwɛ?",
+  "translation": "Ɛno nti ⟨ɔman no⟩ ne Moshe gyee ako, na wɔkaa sɛ: “Momma nsuo ma yɛn na yɛnnom.” Na Moshe kaa kyinnɛ sɛ: “Adɛn na mo ne me retena ase? Adɛn na more sɔ ⟨את⟩ Yawe nhwɛ?”",
   "tokens": [
     {
       "surface": "וירב",
-      "gloss": "gyee ko"
+      "gloss": "gyee ako"
     },
     {
       "surface": "העם",
-      "gloss": "dɔm no"
+      "gloss": "⟨ɔman no⟩"
     },
     {
       "surface": "עם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mose"
+      "gloss": "Moshe"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "wɔkaa"
+      "gloss": "wɔkaa sɛ"
     },
     {
       "surface": "תנו",
@@ -40,16 +40,20 @@
       "gloss": "nsuo"
     },
     {
+      "surface": "ונשתה",
+      "gloss": "na yɛnnom"
+    },
+    {
       "surface": "ויאמר",
-      "gloss": "wɔkaa sɛ"
+      "gloss": "kaa kyinnɛ"
     },
     {
       "surface": "להם",
-      "gloss": "kaa kyɛfa wɔn"
+      "gloss": "kyinnɛ"
     },
     {
       "surface": "משה",
-      "gloss": "Mose"
+      "gloss": "Moshe"
     },
     {
       "surface": "מה",
@@ -57,7 +61,7 @@
     },
     {
       "surface": "תריבון",
-      "gloss": "mo gye ko"
+      "gloss": "mo ne me retena ase"
     },
     {
       "surface": "עמדי",
@@ -69,7 +73,7 @@
     },
     {
       "surface": "תנסון",
-      "gloss": "mo sɔ hwɛ"
+      "gloss": "more sɔ nhwɛ"
     },
     {
       "surface": "את",
@@ -78,9 +82,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨את⟩ Yawe"
+      "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-09-15T20:53:16.970259660Z",
+  "timestamp": "2026-09-16T06:54:45.561422379Z",
   "model": "glm-5.3"
 }

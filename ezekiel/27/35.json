@@ -5,41 +5,49 @@
   "book": "ezekiel",
   "lang": "tw",
   "chapter": 27,
-  "translation": "Nsupɔw so ntenafoɔ nyinaa yɛɛ wo ho adwene wɔ wo ho, na wɔn ahennwa ho dwirii wɔn, wɔn anim yeraa.",
+  "translation": "Nnipa a wɔte nsupɔw so nyinaa yɛɛ waw wom wο wo ho, na wɔn ahemfo kotɔrɔ ehu, wɔn anim yɛɛ biɔ.",
   "tokens": [
     {
       "surface": "כל",
       "gloss": "nyinaa"
     },
     {
-      "surface": "יושבי האיים",
-      "gloss": "nsupɔw so ntenafoɔ"
+      "surface": "ישבי",
+      "gloss": "nnipa a wɔte … so"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "nsupɔw no"
     },
     {
       "surface": "שממו",
-      "gloss": "yɛɛ ... adwene"
+      "gloss": "yɛɛ waw wom"
     },
     {
       "surface": "עליך",
-      "gloss": "wɔ wo ho"
+      "gloss": "wο wo ho"
     },
     {
       "surface": "ומלכיהם",
-      "gloss": "na wɔn ahennwa"
+      "gloss": "na wɔn ahemfo"
     },
     {
-      "surface": "שערו שער",
-      "gloss": "ho dwirii wɔn"
+      "surface": "שערו",
+      "gloss": "kotɔrɔ ehu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ehu"
     },
     {
       "surface": "רעמו",
-      "gloss": "yeraa"
+      "gloss": "yɛɛ biɔ"
     },
     {
       "surface": "פנים",
       "gloss": "wɔn anim"
     }
   ],
-  "timestamp": "2026-09-16T00:46:56.334699152Z",
+  "timestamp": "2026-09-16T06:54:02.685251095Z",
   "model": "glm-5.3"
 }

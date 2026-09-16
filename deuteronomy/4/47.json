@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 47, "ref": "deuteronomy 4:47", "book": "deuteronomy", "lang": "tw", "chapter": 4, "translation": "Na wɔdii ⟨את⟩ n'⟨את⟩ asase so, ne ⟨את⟩ Og ⟨את⟩ asase, Bashan hene — Amorfoɔ ahemfo mmienu a wɔwɔ Yarden no ase, ewiaim fam.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "ארצו"}, {"surface": "ארצו", "gloss": "⟨את⟩ n'asase so"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ארץ עוג"}, {"surface": "ארץ", "gloss": "⟨את⟩ asase"}, {"surface": "עוג", "gloss": "Og"}, {"surface": "מלך", "gloss": "hene"}, {"surface": "הבשן", "gloss": "Bashan"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "מלכי", "gloss": "ahemfo"}, {"surface": "האמרי", "gloss": "Amorfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בעבר", "gloss": "wɔ ... ase"}, {"surface": "הירדן", "gloss": "Yarden no"}, {"surface": "מזרח", "gloss": "ewiaim fam"}, {"surface": "שמש", "gloss": ""}], "timestamp": "2026-09-15T21:47:22.045486042Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wɔdii ⟨את⟩ n'asase so, ne ⟨את⟩ asase a ɛyɛ Og, Bashan ɔhene dea, Emori ahene baanu, wɔ Yarden no atifi fam, ewia bɔne so.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "na wɔdii...so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'asase"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "n'asase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "baanu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahene"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "wɔ...atifi fam"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ewia bɔne so"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ewia"
+    }
+  ],
+  "timestamp": "2026-09-16T06:54:37.408748168Z",
+  "model": "glm-5.3"
+}

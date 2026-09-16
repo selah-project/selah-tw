@@ -5,23 +5,27 @@
   "book": "1-kings",
   "lang": "tw",
   "chapter": 16,
-  "translation": "Ne nna mu no, Hiel a ofi Beti-El bɔɔ ⟨את⟩ Yeriko sɛɛ; wɔ Abiram, ne ba a odi kan mu no ɔhyɛɛ aseɛ, na wɔ Segub, ne ba a ɔyɛ abɔfraberem mu no ɔsii n'annwantwam, sɛnea Yawe kasa a ɔde Joshua, Nun ba no nsa kae no teɛ.",
+  "translation": "Wɔ n'ahennie mu no, Chiel a ofiri Bet-El bɔɔ ⟨את⟩ Yeriko; ɔde Abiram a ɔyɛ n'abakan sii n'aseseɛ, na ɔde Segub a ɔyɛ ne ba kumaa sii n'antonno; sɛnea Yawe asɛm no teɛ, a ɔkae denam Yehoshua, Nun ba no nsa so.",
   "tokens": [
     {
       "surface": "בימיו",
-      "gloss": "Ne nna mu no"
+      "gloss": "wɔ n'ahennie mu"
     },
     {
       "surface": "בנה",
-      "gloss": "bɔɔ sɛɛ"
+      "gloss": "bɔɔ"
     },
     {
       "surface": "חיאל",
-      "gloss": "Hiel"
+      "gloss": "Chiel"
     },
     {
-      "surface": "בית האלי",
-      "gloss": "a ofi Beti-El"
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "האלי",
+      "gloss": "-El mu ni"
     },
     {
       "surface": "את",
@@ -30,39 +34,39 @@
     },
     {
       "surface": "יריחה",
-      "gloss": "⟨את⟩ Yeriko"
+      "gloss": "Yeriko"
     },
     {
       "surface": "באבירם",
-      "gloss": "wɔ Abiram mu"
+      "gloss": "ɔde Abiram"
     },
     {
       "surface": "בכרו",
-      "gloss": "ne ba a odi kan"
+      "gloss": "n'abakan"
     },
     {
       "surface": "יסדה",
-      "gloss": "ɔhyɛɛ aseɛ"
+      "gloss": "sii n'aseseɛ"
     },
     {
       "surface": "ובשגיב",
-      "gloss": "na wɔ Segub mu"
+      "gloss": "na ɔde Segub"
     },
     {
       "surface": "צעירו",
-      "gloss": "ne ba a ɔyɛ abɔfraberem"
+      "gloss": "ne ba kumaa"
     },
     {
       "surface": "הציב",
-      "gloss": "ɔsii"
+      "gloss": "sii"
     },
     {
       "surface": "דלתיה",
-      "gloss": "n'annwantwam"
+      "gloss": "n'antonno"
     },
     {
       "surface": "כדבר",
-      "gloss": "sɛnea ... kasa"
+      "gloss": "sɛnea ... asɛm no teɛ"
     },
     {
       "surface": "יהוה",
@@ -74,15 +78,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kae"
+      "gloss": "ɔkae"
     },
     {
       "surface": "ביד",
-      "gloss": "de ... nsa"
+      "gloss": "denam ... nsa so"
     },
     {
       "surface": "יהושע",
-      "gloss": "Joshua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "בן",
@@ -93,6 +97,6 @@
       "gloss": "Nun"
     }
   ],
-  "timestamp": "2026-09-15T23:21:57.466039977Z",
+  "timestamp": "2026-09-16T06:53:51.137637249Z",
   "model": "glm-5.3"
 }

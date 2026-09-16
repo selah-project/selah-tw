@@ -5,19 +5,15 @@
   "book": "leviticus",
   "lang": "tw",
   "chapter": 14,
-  "translation": "Nsuo-anonne a ɛka wɔ ɔsɔfo no nsa mu no, ɔsɔfo no bɛto afena (oil) a ɛwɔ ne kɔnfomu no so no mu bi agu ɔkɔkɔɔ a wɔrebɛho no aso nkyɛn so, ne ne nsa nkyɛn so, ne ne nan nkyɛn so — afena (oil) no bɛka ɔsɔfo no kɔnfomu no so, na wakum afena no so ntɛm so.",
+  "translation": "Na deɛ ɛka wɔ ngo no mu a ɛwɔ ne kona so no, ɔsɔfoɔ no bɛde agu ɔyarfoɔ a wɔretiw ne ho no nifa aso ntrem so, ne ne nsa nifa boawa so, ne ne nan nifa boawa so — ɔhyɛ asotwe afɔdeɛ no mogya so.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "na"
-    },
-    {
-      "surface": "מיתר",
-      "gloss": "deɛ ɛka"
+      "surface": "ומיתר",
+      "gloss": "na deɛ ɛka"
     },
     {
       "surface": "השמן",
-      "gloss": "nsuo-anonne (oil) no"
+      "gloss": "ngo no"
     },
     {
       "surface": "אשר",
@@ -29,15 +25,15 @@
     },
     {
       "surface": "כפו",
-      "gloss": "ne kɔnfomu"
+      "gloss": "ne kona"
     },
     {
       "surface": "יתן",
-      "gloss": "ɔbɛto agu"
+      "gloss": "bɛde agu"
     },
     {
       "surface": "הכהן",
-      "gloss": "ɔsɔfo no"
+      "gloss": "ɔsɔfoɔ no"
     },
     {
       "surface": "על",
@@ -45,7 +41,7 @@
     },
     {
       "surface": "תנוך",
-      "gloss": "nkyɛn"
+      "gloss": "ntrem"
     },
     {
       "surface": "אזן",
@@ -53,19 +49,19 @@
     },
     {
       "surface": "המטהר",
-      "gloss": "ɔkɔkɔɔ a wɔrebɛho no"
+      "gloss": "ɔyarfoɔ a wɔretiw ne ho no"
     },
     {
       "surface": "הימנית",
-      "gloss": "ɔfa a ɛwɔ nifa so"
+      "gloss": "nifa"
     },
     {
       "surface": "ועל",
-      "gloss": "ne so"
+      "gloss": "ne ... so"
     },
     {
       "surface": "בהן",
-      "gloss": "nsateaa kɛseɛ"
+      "gloss": "boawa"
     },
     {
       "surface": "ידו",
@@ -73,15 +69,15 @@
     },
     {
       "surface": "הימנית",
-      "gloss": "ɔfa a ɛwɔ nifa so"
+      "gloss": "nifa"
     },
     {
       "surface": "ועל",
-      "gloss": "ne so"
+      "gloss": "ne ... so"
     },
     {
       "surface": "בהן",
-      "gloss": "nan kɛseɛ"
+      "gloss": "boawa"
     },
     {
       "surface": "רגלו",
@@ -89,7 +85,7 @@
     },
     {
       "surface": "הימנית",
-      "gloss": "ɔfa a ɛwɔ nifa so"
+      "gloss": "nifa"
     },
     {
       "surface": "על",
@@ -101,9 +97,9 @@
     },
     {
       "surface": "האשם",
-      "gloss": "bɔne-afɔdeɛ (guilt offering) no"
+      "gloss": "asotwe afɔdeɛ no"
     }
   ],
-  "timestamp": "2026-09-15T21:14:34.407406289Z",
+  "timestamp": "2026-09-16T06:55:43.833066346Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tw",
   "chapter": 17,
-  "translation": "Abshalom kaa sɛ: Frɛ me nso Hushai Haarki no, na yɛntie deɛ ɛwɔ n'ano mu — ɔno nso.",
+  "translation": "Abshalom kaa sɛ: “Frɛ Huushai ⟨ɔ⟩ Arkite no nso, na yɛn te deɛ ɛwɔ n'ano mu — ɔno nso.”\n",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "me"
+      "gloss": "mepaakyɛw"
     },
     {
       "surface": "גם",
@@ -29,19 +29,15 @@
     },
     {
       "surface": "לחושי",
-      "gloss": "Hushai"
+      "gloss": "Huushai"
     },
     {
       "surface": "הארכי",
-      "gloss": "Haarki no"
+      "gloss": "Arkite"
     },
     {
-      "surface": "ו",
-      "gloss": "na"
-    },
-    {
-      "surface": "נשמעה",
-      "gloss": "yɛntie"
+      "surface": "ונשמעה",
+      "gloss": "na yɛn te"
     },
     {
       "surface": "מה",
@@ -60,6 +56,6 @@
       "gloss": "ɔno"
     }
   ],
-  "timestamp": "2026-09-15T23:07:16.607117333Z",
+  "timestamp": "2026-09-16T06:53:48.553356524Z",
   "model": "glm-5.3"
 }

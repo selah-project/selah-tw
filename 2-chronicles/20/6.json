@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "tw",
   "chapter": 20,
-  "translation": "Ɔkaa sɛ: Yawe, yɛn agyafoɔ Eloohim, wonnyɛ Eloohim a ɔwɔ ɔsoro mu? Na wonnyɛ nea ɔdi aman nan ase? Wɔ wo nsa mu ⟨nsi⟩ ahoɔden ne mmorosoɔ, na obiara nni hɔ a ɔbɛtumi atena wo so.",
+  "translation": "Na ɔkaa sɛ: “Yawe, Eloohim a yɛn agyankafoɔ, wonwonim sɛ wowɔ ⟨ɛ⟩ ɔsoro mu, na wo na wodi amanɔman ahennie nyinaa so, na wo nsa mu ⟨wɔ⟩ ahoɔden ne ahoɔdennim, na obiara nni hɔ a ɔbetumi asɔ w'ani so.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ɔkaa sɛ"
+      "gloss": "Na ɔkaa sɛ"
     },
     {
       "surface": "יהוה",
@@ -17,27 +17,23 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Eloohim"
+      "gloss": "Eloohim a"
     },
     {
       "surface": "אבתינו",
-      "gloss": "yɛn agyafoɔ"
+      "gloss": "yɛn agyankafoɔ"
     },
     {
       "surface": "הלא",
-      "gloss": "wonnyɛ"
+      "gloss": "wonwonim sɛ"
     },
     {
       "surface": "אתה",
-      "gloss": "wonnυ"
-    },
-    {
-      "surface": "אתה",
-      "gloss": "wonnyɛ"
+      "gloss": "wo"
     },
     {
       "surface": "הוא",
-      "gloss": "nee"
+      "gloss": "wonwonim"
     },
     {
       "surface": "אלהים",
@@ -45,31 +41,31 @@
     },
     {
       "surface": "בשמים",
-      "gloss": "wɔ ɔsoro mu"
+      "gloss": "ɔsoro mu"
     },
     {
       "surface": "ואתה",
-      "gloss": "Na wonnyɛ"
+      "gloss": "na wo na"
     },
     {
       "surface": "מושל",
-      "gloss": "ne"
+      "gloss": "wodi ... so"
     },
     {
       "surface": "בכל",
-      "gloss": "aman nan ase"
+      "gloss": "nyinaa"
     },
     {
       "surface": "ממלכות",
-      "gloss": "aman"
+      "gloss": "ahennie"
     },
     {
       "surface": "הגוים",
-      "gloss": "aman no"
+      "gloss": "amanɔman"
     },
     {
       "surface": "ובידך",
-      "gloss": "wɔ wo nsa mu"
+      "gloss": "na wo nsa mu"
     },
     {
       "surface": "כח",
@@ -77,21 +73,21 @@
     },
     {
       "surface": "וגבורה",
-      "gloss": "ne mmorosoɔ"
+      "gloss": "ne ahoɔdennim"
     },
     {
       "surface": "ואין",
-      "gloss": "na obiara nni hɔ"
+      "gloss": "na obiara nni hɔ a"
     },
     {
       "surface": "עמך",
-      "gloss": "ɔbɛtumi atena wo so"
+      "gloss": "asɔ w'ani so"
     },
     {
       "surface": "להתיצב",
-      "gloss": "(atena so)"
+      "gloss": "(asɔ w'ani so)"
     }
   ],
-  "timestamp": "2026-09-16T05:01:30.960397331Z",
+  "timestamp": "2026-09-16T06:53:16.511718753Z",
   "model": "glm-5.3"
 }

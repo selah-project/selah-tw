@@ -5,29 +5,33 @@
   "book": "psalms",
   "lang": "tw",
   "chapter": 97,
-  "translation": "Hann wɔbɔ gu asɛdeɛ ama ⌜⌜tɛ⌜⌜",
+  "translation": "Hann wɔabu afiri ma atreneefoɔ, na anigyeɛ ma wɔn a wɔn akoma ye tẽẽ.",
   "tokens": [
     {
+      "surface": "אור",
+      "gloss": "Hann"
+    },
+    {
       "surface": "זרע",
-      "gloss": "wɔbɔ gu"
+      "gloss": "wɔabu afiri"
     },
     {
       "surface": "לצדיק",
-      "gloss": "ama atɛfoɔ"
+      "gloss": "ma atreneefoɔ"
     },
     {
       "surface": "ולישרי",
-      "gloss": "ne ama wɔn a"
+      "gloss": "na ... tẽẽ"
     },
     {
       "surface": "לב",
-      "gloss": "akoma tɛ so"
+      "gloss": "akoma"
     },
     {
       "surface": "שמחה",
       "gloss": "anigyeɛ"
     }
   ],
-  "timestamp": "2026-09-16T02:17:22.288079028Z",
+  "timestamp": "2026-09-16T06:56:48.503192964Z",
   "model": "glm-5.3"
 }

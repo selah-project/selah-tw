@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tw",
   "chapter": 44,
-  "translation": "Na baako no fii me ho ⟨את⟩, na mekaa sɛ: ampa, wɔatetɛ no mu; na mfiri ɛberɛ a ɔfiri hɔ, mhunu no bio kɔpem nnɛ yi.",
+  "translation": "Baako no firi me nkyɛn kɔɛ, na mekaa sɛ: “Ade twaa no mu koraa, twaa no mu!” Na minnhunu no kɔsi ɛnnɛ.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "fii"
+      "gloss": "kɔɛ"
     },
     {
       "surface": "האחד",
@@ -17,8 +17,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "me ho ⟨את⟩",
-      "marks": "baako no"
+      "gloss": "firi me nkyɛn ⟨את⟩"
     },
     {
       "surface": "ואמר",
@@ -26,37 +25,33 @@
     },
     {
       "surface": "אך",
-      "gloss": "ampa"
+      "gloss": "koraa"
     },
     {
       "surface": "טרף",
-      "gloss": "wɔatetɛ"
+      "gloss": "twaa no mu"
     },
     {
       "surface": "טרף",
-      "gloss": "no mu"
+      "gloss": "twaa no mu"
     },
     {
-      "surface": "ו",
-      "gloss": "na"
-    },
-    {
-      "surface": "לא",
-      "gloss": "mmoroso"
+      "surface": "ולא",
+      "gloss": "na minnhunu"
     },
     {
       "surface": "ראיתיו",
-      "gloss": "mhunu no bio"
+      "gloss": "no"
     },
     {
       "surface": "עד",
-      "gloss": "kɔpem"
+      "gloss": "kɔsi"
     },
     {
       "surface": "הנה",
-      "gloss": "nnɛ yi"
+      "gloss": "ɛnnɛ"
     }
   ],
-  "timestamp": "2026-09-15T20:40:47.002329203Z",
+  "timestamp": "2026-09-16T06:54:52.789705177Z",
   "model": "glm-5.3"
 }

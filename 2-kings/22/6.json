@@ -5,15 +5,23 @@
   "book": "2-kings",
   "lang": "tw",
   "chapter": 22,
-  "translation": "ama nnwumfoɔ, ne adan sifoɔ, ne ntwahoɔfoɔ; na sɛ wɔtɔ nnua ne aboɔ a wɔatwa, sɛ wɔhyehyɛ ⟨את⟩ ⟨את⟩ fie no den —",
+  "translation": "Ɛma mfiridwumfoɔ, ne ɔboɔbɔfoɔ, ne ahataɛbɔfoɔ; na wɔntɔ nnua ne aboɔ a wɔatwam, de bemma ⟨את⟩ fie no ahoɔden.",
   "tokens": [
     {
       "surface": "לחרשים",
-      "gloss": "ama nnwumfoɔ"
+      "gloss": "ma mfiridwumfoɔ"
     },
     {
-      "surface": "ויתנו",
-      "gloss": ""
+      "surface": "ולבנים",
+      "gloss": "ne ɔboɔbɔfoɔ"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "ne ahataɛbɔfoɔ"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "na wɔntɔ"
     },
     {
       "surface": "עצים",
@@ -25,11 +33,11 @@
     },
     {
       "surface": "מחצב",
-      "gloss": "a wɔatwa"
+      "gloss": "a wɔatwam"
     },
     {
       "surface": "לחזק",
-      "gloss": "sɛ wɔhyehyɛ den"
+      "gloss": "de bemma ahoɔden"
     },
     {
       "surface": "את",
@@ -41,6 +49,6 @@
       "gloss": "fie no"
     }
   ],
-  "timestamp": "2026-09-15T23:37:37.446959249Z",
+  "timestamp": "2026-09-16T06:53:48.777694436Z",
   "model": "glm-5.3"
 }
