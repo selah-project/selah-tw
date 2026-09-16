@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "David baa hɔ kɔsii Ornan, na Ornan hwɛɛ ase, ohunuu ⟨את⟩ David, na ɔfirii agorol mu, na ɔkɔgyee ne ho ase kyerɛɛ David, neanim hwɛɛ asase so.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa hɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "hwɛɛ ase"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "firii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "agorol no mu"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kɔgyee ne ho ase"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kyerɛɛ David"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "neanim"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T04:47:14.841940886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔwoo nnipa yi maa no wɔ Yerusalem: Shimea, ne Shovav, ne Natan, ne Shelomoh — nnan — firi Bat-Shua, Amiel ba.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na wɔwoo nnipa yi"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "wɔwoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ne Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ne Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ne Shelomoh"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "firi"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:29.785651827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Yawe tena hɔ daa; wasisii n'ahennwa ma atemmu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tena hɔ"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "wasisii"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ma atemmu"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "n'ahennwa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:41.296241927Z",
+  "model": "glm-5.3"
+}

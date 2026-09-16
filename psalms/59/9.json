@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Wo nko ara, Yawe, bɛserew wɔn; wo bu ⟨aman⟩ nyinaa fɛw.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wo nko ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "bɛserew"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "bu ... fɛw"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:42.874124072Z",
+  "model": "glm-5.3"
+}

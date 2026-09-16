@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Ɔnko wontia da; ɔnhwɛ ne boɔ so da.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wontia"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Ɔnko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "da"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ɔnhwɛ ne boɔ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:33.267986554Z",
+  "model": "glm-5.3"
+}

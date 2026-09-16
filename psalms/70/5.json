@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 70,
+  "translation": "Wɔ a wɔhwehwɛ Wo nyinaa, wɔn mmɔ anigyeɛ na wɔnnyɛ ahopere wɔ Wo mu; wɔn a wɔdɔ Wo nkonimdie no nka daa se: Eloohim, kɛseɛ!",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "wɔn mmɔ anigyeɛ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na wɔnnyɛ ahopere"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ Wo mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wɔ a wɔhwehwɛ Wo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔnka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "wɔdɔ"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "Wo nkonimdie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:42.558477760Z",
+  "model": "glm-5.3"
+}

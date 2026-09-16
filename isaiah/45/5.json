@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Me ne Yawe, na foforɔ biara nni hɔ; me kyɛn obiara, Eloohim bi nni hɔ; made pampam hyɛɛ wo, na wonnim me.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "me kyɛn obiara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "made pampam hyɛɛ wo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nn-"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "wonnim me"
+    }
+  ],
+  "timestamp": "2026-09-15T23:56:41.775525532Z",
+  "model": "glm-5.3"
+}

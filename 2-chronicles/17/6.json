@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ne tirim yɛɛ den wɔ Yawe akwan so, na ɔsan yii ⟨את⟩ bammɔsofoɔ mmeaeɛ ne ⟨את⟩ Asherah nsua mfua no firi Yuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "yɛɛ den"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne tirim"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "wɔ ... akwan so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "na ɔsan"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bammɔsofoɔ mmeaeɛ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bammɔsofoɔ mmeaeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah nsua mfua"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherah nsua mfua"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "firi Yuda"
+    }
+  ],
+  "timestamp": "2026-09-16T05:01:26.437644490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Ne nuanomma hunuu sɛ wɔn agya dɔɔ ⟨את⟩ no sen wɔn nyinaa, enti wɔkasaatia no; na wɔantumi nkyerɛ no asomdwoeɛ asɛm.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanomma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dɔɔ no (Yosef)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dɔɔ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanomma"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "kasaatia no"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Yosef)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnnyɛ yie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "wɔantumi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nkyerɛ no asɛm"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "asomdwoeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:01.569606389Z",
+  "model": "glm-5.3"
+}

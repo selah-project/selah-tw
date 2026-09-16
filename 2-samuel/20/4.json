@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔhene no kaa sɛ: Amasa, frɛ ⟨את⟩ Yehuda ammarima mma me nnansa; na wo nso gyina ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... kaa sɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mma me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda ammarima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ammarima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "nnansa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "afei"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wo nso"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gyina"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:05.214908910Z",
+  "model": "glm-5.3"
+}

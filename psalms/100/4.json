@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 100,
+  "translation": "Mommra ne npono mu wɔ aseda mu, ne afiehyeɛ mu wɔ ayeyie mu; da no ayeyie, hyira ne din.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "mommra"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "ne npono mu"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "wɔ aseda mu"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ne afiehyeɛ mu"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "wɔ ayeyie mu"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "da no ayeyie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hyira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:23.877881791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ɔfrɛ ⟨the⟩ ɔsoro a ɛwɔ soro, ne ⟨the⟩ asase, na ɔmmu ne nmanfoɔ ani.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Ɔfrɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a ɛwɔ soro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "na ɔmmu ani"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nmanfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:25.699631943Z",
+  "model": "glm-5.3"
+}

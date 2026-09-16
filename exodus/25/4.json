@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ɛwoɔ tuntum, ɛwoɔ mɔnea, ɛwoɔ kɔkɔɔ, faa (linen) ne abirekyie nywi.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "ɛwoɔ tuntum"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ɛwoɔ mɔnea"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ɛwoɔ kɔkɔɔ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(kokoram kɔkɔɔ)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "faa (linen)"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "abirekyie nywi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:55.994617644Z",
+  "model": "glm-5.3"
+}

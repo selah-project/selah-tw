@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɛfiri sɛ ɔyɛfoɔ no hoahoa ne kra apɛdeɛ so, na sika-bɔfoɔ no hyira — ɔsɔ Yawe ani so fɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "hoahoa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔyɛfoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "apɛdeɛ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ne kra"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "na sika-bɔfoɔ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hyira"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ɔsɔ ani so fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:05.507216209Z",
+  "model": "glm-5.3"
+}

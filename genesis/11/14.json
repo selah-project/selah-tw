@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Shelah tenaa aseɛ mfiɛ eduasa, ɔwoo ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Na Shelah"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "eduasa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfiɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-15T22:23:42.877124887Z",
+  "model": "glm-5.3"
+}

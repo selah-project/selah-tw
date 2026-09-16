@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na Yisraɛl hene no kaa kyɛw wɔ n'akoafoɔ ho sɛ: Momunim sɛ Ramot-Gilead yɛ yɛn dea, na yɛagyae asɛm, yɛmfaa ⟨את⟩ no firi Aram hene nsam no?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛw"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ … ho"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoafoɔ"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Momunim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn dea"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na yɛn"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "agyae asɛm"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "firi … fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (Ramot-Gilead)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-15T23:25:16.250062659Z",
+  "model": "glm-5.3"
+}

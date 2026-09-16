@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na ɔyɛɛ ⟨את⟩ ⟨the⟩ hoshen no, adwuma a wɔabɔ mu asennem, sɛnea efod no adwuma te: sika, kɔla, na kɔla-kɔkɔɔ, na kɔkɔɔ a ɛfiri nwansena mu, na nsam a wɔaboaboa ano.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshen no"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen no"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "a wɔabɔ mu asennem"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sɛnea adwuma"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kɔla"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na kɔla-kɔkɔɔ"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na nwansena-kɔkɔɔ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kɔkɔɔ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na nsam"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a wɔaboaboa ano"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:54.575457221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "“Na moatwa ⟨את⟩ mo honam no ho kata; na ɛbɛyɛ apam nsɛnkyerɛnne me ne mo ntam.”",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "moatwa twa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo honam no ho kata"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "honam"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "mo honam no ho kata"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "me ntam"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ne mo ntam"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:37.929896886Z",
+  "model": "glm-5.3"
+}

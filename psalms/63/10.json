@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 63,
+  "translation": "Nanso wɔn a wɔhwehwɛ me kra sɛ wɔsɛe no, wɔbɛkɔ asase aseɛ korɔ mu.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "nanso wɔn"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "sɛ wɔsɛe no"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "wɔhwehwɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wɔbɛkɔ"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "aseɛ korɔ mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩sase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:16.849337788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Mɛbɔ Yah nnyegyeeɛ; ɛno ara mɛkae w'anom nsɛm a efiri mfitiase.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "mɛbɔ nnyegyeeɛ"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "nnwuma"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛno ara"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "mɛkae"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a efiri mfitiase"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "w'anom nsɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:38.533894694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Sɛnea mmara teɛ, deɛ ɛsɛ sɛ yɛyɛ ɔhemaa Vasti no se sɛn, wɔamma ɔhene Ahasueros ⟨את⟩ ne hyɛdeɛ so denam sokanfoɔ no nsa so.",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "sɛnea mmara teɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ ... se sɛn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ɛsɛ sɛ yɛyɛ"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ɔhemaa"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔamma ... so"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne hyɛdeɛ"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ne hyɛdeɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasueros"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "denam ... nsa so"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sokanfoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:27.036075419Z",
+  "model": "glm-5.3"
+}

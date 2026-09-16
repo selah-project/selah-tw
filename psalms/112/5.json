@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 112,
+  "translation": "Onipa pa wɔ adɔeɛ, ɔde sika bɔ ne yɔnko, na ɔhwɛ ne nsɛm so wɔ atemmuo mu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Onipa"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "wɔ adɔeɛ"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ɔde sika bɔ ne yɔnko"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ɔhwɛ ... so"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ne nsɛm"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "wɔ atemmuo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:01.950979979Z",
+  "model": "glm-5.3"
+}

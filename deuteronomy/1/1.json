@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nsɛm yi na Mose kaa kyerɛɛ Israel nyinaa wɔ Yarden ⟨a atwa mu no⟩ akyi fam, wɔ asɛsɛ no mu, wɔ Araba mu, aniwa ne Suf, Parant ne Tofel ntam, ne Laban, ne Haserot, ne Di-Zahab.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "wɔ akyi fam"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asɛsɛ no mu"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "wɔ Araba mu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "aniwa ne"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…ntam"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parant"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne … ntam"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ne Laban"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "ne Haserot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ne Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahab"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:31.568551718Z",
+  "model": "glm-5.3"
+}

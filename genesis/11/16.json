@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Eber tenaa aseɛ mfiɛ ɛnan ne eduasa, ɔwoo ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na ... tenaa aseɛ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ɛnan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ne eduasa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfiɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-09-15T22:23:42.882776785Z",
+  "model": "glm-5.3"
+}

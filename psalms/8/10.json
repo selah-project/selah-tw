@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Yawe, yɛn Adonai, wo din sɛn na ɛyɛ kɛse wɔ asase nyinaa so!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "yɛn Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kɛse"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:01.423640071Z",
+  "model": "glm-5.3"
+}

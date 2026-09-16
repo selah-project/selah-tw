@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ ne mma no nso wo bɛbɛn, na wo de kutonet no ada wɔn ho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "wo bɛbɛn"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "na wo de ... ada wɔn ho"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kutonet"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:42.816976047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Misraimfoɔ no dii wɔn akyi, na wɔkɔɔ wɔ akyi — Parooh afurumma nyinaa, ne kar ka ne ne mfutirebɔfoɔ — kɔɔ ɛpo no mu.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "diirii ... akyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraimfoɔ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wɔkɔɔ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "wɔ akyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "afurumma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parooh"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ne kar ka"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "ne mfutirebɔfoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:55.903431292Z",
+  "model": "glm-5.3"
+}

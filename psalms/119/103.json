@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Sɛn na wo nsɛm no yɛ dɛ ma me kankyɛ! Ɛyɛ dɛ sen ngo a ɛyɛ dɛ ma me nom!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sɛn na"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "yɛ dɛ"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ma me kankyɛ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "wo nsɛm no"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ngo a ɛyɛ dɛ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ma me nom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:43.273904692Z",
+  "model": "glm-5.3"
+}

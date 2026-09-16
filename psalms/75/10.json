@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Na me de, mɛka daa; mɛto dwom ama Eloohim a ɔwɔ Yagob.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me de"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mɛka"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mɛto dwom"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ama Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yagob"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:20.934598331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Mantena nkɔkɔɔfoɔ ⟨no⟩ mu, na wɔn a wɔde wɔn ho sie no mu mɛnkɔ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "m-"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "antena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…mu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "foɔ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "nkɔkɔɔ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na …mu"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "wɔn a wɔde wɔn ho sie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mɛn-"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:07.311350567Z",
+  "model": "glm-5.3"
+}

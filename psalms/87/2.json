@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 87,
+  "translation": "Yawe dɔ Zion amena, sen Yakob nkorabua nyinaa.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "amena"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sen ... nyinaa"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "nkorabua"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:27.932072470Z",
+  "model": "glm-5.3"
+}

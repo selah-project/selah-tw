@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wɔdii m'anim wɔ m'ahokyerɛ da mu, na Yawe yɛɛ m'akyigyina.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "wɔdii m'anim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da mu"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "m'ahokyerɛ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ... yɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "m'akyigyina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:22.437215815Z",
+  "model": "glm-5.3"
+}

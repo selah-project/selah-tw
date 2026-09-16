@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Ɔhene akonnwa a ɛyɛ bɔne no, ɛbɛka wo ho anaa? Ɔde mmara yɛ mfomsoɔ?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ɛbɛka wo ho anaa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "akonnwa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mfomsoɔ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "de"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mmara"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:54.887862521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Na abɔnefoɔ abɛn nyinaa mɛtwa; na papafoɔ abɛn de bɛkɔ soro.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "abɛn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "mɛtwa"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "bɛkɔ soro"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "abɛn"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "papafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:20.934730760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Lemuel ɔhene nsɛm, asɛdeɛ a ne na ɛkyerɛɛ no no.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "משא",
+      "gloss": "asɛdeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ɛkyerɛɛ no"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne na"
+    }
+  ],
+  "timestamp": "2026-09-16T03:07:28.616711647Z",
+  "model": "glm-5.3"
+}

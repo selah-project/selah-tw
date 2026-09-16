@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Wɔn werɛ firii Yawe wɔn Eloohim, na ɔtɔn wɔn ma ɔwɔ Sisera, ɔsahene wɔ Hazor nsa mu, na Filistifoɔ nsa mu, na Moab ɔhene nsa mu, na wɔne wɔn koɔ.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "wɔn werɛ firii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "na ɔtɔn wɔn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɔsahene"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hazor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na ... nsa mu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na ... nsa mu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "na wɔkoɔ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ne wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:51.127260787Z",
+  "model": "glm-5.3"
+}

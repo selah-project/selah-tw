@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "ara sɛ wobisa nyansa, na wo de wo nne bɔ so frɛ ntease,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "wobisa\/frɛ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ntease"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wo de"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "wo nne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:12.691045590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Agyirifoɔ agya, yerewufoɔ ɔtɛmufoɔ, ⟨ne⟩ Eloohim a ɔte n'atenaeɛ kronkron mu.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "agyirifoɔ"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ɔtɛmufoɔ"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "yerewufoɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "n'atenaeɛ mu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kronkron"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:38.683133295Z",
+  "model": "glm-5.3"
+}

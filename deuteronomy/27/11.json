@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na Mosheh hyɛɛ ⟨את⟩ ɔman no akyi wɔ saa da no mu seɛ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hyɛɛ akyi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa no mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "seɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:20.917425711Z",
+  "model": "glm-5.3"
+}

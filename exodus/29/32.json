@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na Aharon ne ne mma bɛdi ⟨את⟩ odwan no nam ne ⟨את⟩ buroo a ɛwɔ kɛntɛn no mu wɔ ahemdan ahyiasie no ano.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Na ... bɛdi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odwan no nam"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "odwan no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "buroo"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "buroo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ɛwɔ kɛntɛn no mu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahemdan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ahyiasie"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:52.111416182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Nanso David nti Yawe ne Eloohim maa no kanea wɔ Yerusalem, sɛ ɔbɛma ⟨את⟩ ne ba adi n'akyi, na sɛ ɔbɛgya ⟨את⟩ Yerusalem so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nanso ... nti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ne Eloohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "kanea"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "sɛ ɔbɛma ... di n'akyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "n'akyi"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "na sɛ ɔbɛgya ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:58.536106128Z",
+  "model": "glm-5.3"
+}

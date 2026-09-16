@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na ɔde ⟨את⟩ ɔman no afɔdeɛ bɛn dwumadie no, na ɔfaa ⟨את⟩ ɔbɔnfono a ɛyɛ ɔman no bɔne-afɔdeɛ no, ɔtutuu no, na ɔyɛɛ no bɔne-afɔdeɛ sɛdeɛ ɛdi kan no;",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɔde ... bɛn dwumadie no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no afɔdeɛ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "afɔdeɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbɔnfono"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ɔbɔnfono"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bɔne-afɔdeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ɔman no dea"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ɔtutuu no"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ɔyɛɛ no bɔne-afɔdeɛ"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "sɛdeɛ ɛdi kan no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:52.114343301Z",
+  "model": "glm-5.3"
+}

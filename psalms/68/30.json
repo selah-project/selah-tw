@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Efiri wo Asɔredan mu a ɛwɔ Yerusalem so, ahemfo bɛde nkyɛnmaeɛ brɛ wo.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Efiri wo Asɔredan mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "brɛ wo"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bɛde ... ba"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "שי",
+      "gloss": "nkyɛnmaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:30.403975376Z",
+  "model": "glm-5.3"
+}

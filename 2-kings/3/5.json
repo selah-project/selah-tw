@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɛbaa sɛ bere a Ahab wuiɛ no, Moab hene tee ase wɔ Israel hene so.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa sɛ"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "bere a ... wuiɛ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "tee ase"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "wɔ ... hene so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:26.975184916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Aram hunuu sɛ wɔabɔ wɔn gu wɔ Israel anim, na wɔboaa wɔn ho wɔ boom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "abɔ wɔn gu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wɔboaa wɔn ho"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wɔ boom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:26.892497362Z",
+  "model": "glm-5.3"
+}

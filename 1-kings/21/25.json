@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Nanso na ɔnni hɔ a ɔte sɛ Ahab, a ɔtɔɔ ne ho kɔɔ bɔne yɛ mu wɔ Yawe anim, a ne yere Aizebel na ɔhwɛɛ no so ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nanso na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "te sɛ Ahab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "tɔɔ ne ho kɔɔ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yɛ mu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "hwɛɛ no so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Aizebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Aizebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    }
+  ],
+  "timestamp": "2026-09-15T23:24:14.735019634Z",
+  "model": "glm-5.3"
+}

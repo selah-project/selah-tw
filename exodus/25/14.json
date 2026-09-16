@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wode ⟨את⟩ nkonnwa no bɛhyɛ mpɔtam a ɛwɔ adaka no afasu so mu, sɛ wɔde ⟨את⟩ adaka no bɛkɔ wɔn mu.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "na wode ... bɛhyɛ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkonnwa no"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "nkonnwa no"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "wɔ mpɔtam no mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "afasu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "de bɛkɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:01.010391572Z",
+  "model": "glm-5.3"
+}

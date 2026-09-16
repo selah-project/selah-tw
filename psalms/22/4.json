@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ⟨wo⟩ na wo kronkron, wo tena Yisrael ayeyie so.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo na"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wo tena"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ayeyie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:40.948903068Z",
+  "model": "glm-5.3"
+}

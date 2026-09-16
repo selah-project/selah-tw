@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ne akoma apɛdeɛ, wowɔeɛ no; na ne ano bisadeɛ, wɔansere no. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "apɛdeɛ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne akoma"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wowɔeɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "na ... bisadeɛ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ne ano"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ano"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "wɔansere"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:52.734594195Z",
+  "model": "glm-5.3"
+}

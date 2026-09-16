@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Mommo yɛn awaredɛ: ⟨את⟩ mo mma moma yɛn, na ⟨את⟩ yɛn mma no monfa mo ankasa.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "mommo yɛn awaredɛ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mo mma"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "moma"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ma yɛn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn mma"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "yɛn mma"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "monfa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo ankasa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:49.336805973Z",
+  "model": "glm-5.3"
+}

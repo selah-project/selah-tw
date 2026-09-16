@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na sɛ wɔawia no firi ne nkyɛn mu a, ɔbɛbɔ ho ka ma ne wura.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "wɔawia"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "no firi ne nkyɛn mu"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "firi ne nkyɛn mu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ɔbɛbɔ ho ka"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ma ne wura"
+    }
+  ],
+  "timestamp": "2026-09-15T22:26:03.879950369Z",
+  "model": "glm-5.3"
+}

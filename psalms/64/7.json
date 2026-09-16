@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 64,
+  "translation": "Wɔhwehwɛ bɔne; wɔasoa: 'Nnyinasoɔ a wɔahwehwɛ pɛpɛɛpɛ na yɛawie,' na onipa mu adwene ne akoma mu anono yɛ dɔɔso.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "wɔhwehwɛ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "yɛawie"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "nnyinasoɔ a wɔahwehwɛ"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "ahwehwɛ pɛpɛɛpɛ"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "na ... mu adwene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ne akoma"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "mu dɔɔso"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:07.762285775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "So ɛnyɛ sɛ woagua yɛn agu, Eloohim? na worenkɔ baabi wɔ yɛn asraafoɔ anim, Eloohim?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "So ɛnyɛ sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "woagua yɛn agu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na worenkɔ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "wɔ yɛn asraafoɔ anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.500534026Z",
+  "model": "glm-5.3"
+}

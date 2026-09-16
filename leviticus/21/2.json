@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Gyae ne dɔnni a ɔbɛn no nko — ne maame, ne papa, ne ba barima, ne babea, ne nuanom barima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "gYE"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "ne dɔnni"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a ɔbɛn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ne ba barima"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ne babea"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ne nuanom barima"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:38.032905560Z",
+  "model": "glm-5.3"
+}

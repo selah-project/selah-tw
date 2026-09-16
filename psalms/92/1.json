@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Nnwomsɛm, dwom, ma Shabbat da no.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nnwomsɛm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ma ... da"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:17.866758739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na fa ⟨את⟩ odwan baako no, na Aharon ne ne mma no bɛto ⟨את⟩ wɔn nsa so wɔ odwan no tirim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "odwan baako no"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "odwan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "bɛto ... so"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tirim"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "odwan no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:14.833314878Z",
+  "model": "glm-5.3"
+}

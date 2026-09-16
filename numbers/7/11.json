@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Yawe kaa kyerɛɛ Mose se: ɔkannifoɔ baako da baako — ɔkannifoɔ baako da baako — na wɔde ⟨את⟩ wɔn afɔdeɛ bɛba ama afɔdiboa no dedea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ɔkannifoɔ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "da baako"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ɔkannifoɔ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "da baako"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "wɔde ... bɛba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn afɔdeɛ"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "wɔn afɔdeɛ"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "ama ... dedea"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔdiboa no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:19.237236198Z",
+  "model": "glm-5.3"
+}

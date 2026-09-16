@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Fa wo asɛm no kɔ wo yɔnko nkyɛn kasa ho, na asɛm fiase a ɛfa obi foforɔ ho no, nkyerɛ obi da.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "wo asɛm no"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kasa ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo yɔnko"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "wo yɔnko"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "na asɛm fiase"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "obi foforɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da (negation)"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "nkyerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:02:08.295888161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Laban maa no ⟨את⟩ Zilpa, n'akoa baa, sɛ ɔnyɛ Lea, ne babea, akoa baa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa, n'akoa baa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "n'akoa baa"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ne babea"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "akoa baa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:26:46.170310433Z",
+  "model": "glm-5.3"
+}

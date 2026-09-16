@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "M'Eloohim, m'ahotɔ wɔ wo mu; εmma m'ani ngu; εmma m'atamfoɔ nhome nwu wɔ me ho.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "M'Eloohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m'ahotɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "εmma"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "m'ani nngu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "εmma"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "nhome nwu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wɔ me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:23.912269627Z",
+  "model": "glm-5.3"
+}

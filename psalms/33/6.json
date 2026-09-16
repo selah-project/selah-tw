@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "De Yawe asɛm so na wɔbɔɔ ɔsoro; wɔde ne hom mu mmoa bɔɔ ne asraafoɔ nyinaa.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "De ... asɛm so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "wɔbɔɔ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "wɔde ne hom mu mmoa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ne ano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ne asraafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:11.567796702Z",
+  "model": "glm-5.3"
+}

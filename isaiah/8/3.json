@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na mekɔɔ ɔkɔkɔɔbea no ho, na ɛnyaa nyinsɛn, na ɔwoo ɔbarima. Yawe kaa kyɛ me sɛ: Frɛ ne din Maher-Shalal-Hash-Baz.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "mekɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "ɔkɔkɔɔbea no"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ɛnyaa nyinsɛn"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher (ntɛm)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal (ɔkyɛe)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash (ntɛm)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz (asɛe)"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:52.623009137Z",
+  "model": "glm-5.3"
+}

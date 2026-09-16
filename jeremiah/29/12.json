@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Mobɛfrɛ ⟨את⟩ me, moabɛbra moabɛbɔ mpaeɛ ama me, na mebɛtie mo.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Mobɛfrɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "moabɛbra"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "moabɛbɔ mpaeɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ama me"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "na mebɛtie"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-16T00:17:30.307754926Z",
+  "model": "glm-5.3"
+}

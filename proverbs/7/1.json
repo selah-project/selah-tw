@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Me ba, hwɛ me nsɛm soɔ, na me nhyehyɛeɛ no sie ⟨את⟩ nkyɛn.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Me ba"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hwɛ soɔ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "me nsɛm"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "me nhyehyɛeɛ no"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nkyɛn",
+      "marks": "sie — biribi a wɔasie no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:46:20.595814537Z",
+  "model": "glm-5.3"
+}

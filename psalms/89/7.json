@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Ɛfiri sɛ hena na ɔwɔ ɔsoro mu a ɔte sɛ Yawe? Hena na ɔte sɛ Yawe wɔ El mma mu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hena"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ɔsoro mu"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ɔte sɛ ... ho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ɔte sɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wɔ ... mma mu"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:00.774834425Z",
+  "model": "glm-5.3"
+}

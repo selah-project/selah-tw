@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "⟨את⟩ mmirentwa baako no, yɛ no anɔpa; na ⟨את⟩ mmirentwa a ɛtɔ so mmienu no, yɛ no anwummerɛ ntɔmmɔ mu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmirentwa baako no"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mmirentwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmirentwa a ɛtɔ so mmienu no"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mmirentwa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntɔmmɔ mu"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "anwummerɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:40:30.078471687Z",
+  "model": "glm-5.3"
+}

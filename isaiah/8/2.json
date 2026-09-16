@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na mɛma adansefoɔ a wɔgye yɛ ma me: ⟨את⟩ Uriya ɔasɔfoɔ no, ne ⟨את⟩ Zekarjahu, Yeberekjahu ba.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "na mɛyɛ adanse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "adansefoɔ"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "a wɔgye yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya ɔasɔfoɔ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔasɔfoɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekarjahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekjahu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:52.622825160Z",
+  "model": "glm-5.3"
+}

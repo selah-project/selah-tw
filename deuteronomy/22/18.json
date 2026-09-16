@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na nkurow no mpanyimfoɔ bɛfa ⟨את⟩ ɔbarima no, na wɔbɛtew no aso.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "na wɔbɛfa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nkurow no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbarima no"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "na wɔbɛtew ne aso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbarima no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:57.359177998Z",
+  "model": "glm-5.3"
+}

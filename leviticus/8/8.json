@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɔde ⟨את⟩ akoko-toma no sii no so; ɔde ⟨את⟩ Urim ne ⟨את⟩ Tummim hyɛɛ akoko-toma no mu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "sii ... so"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akoko-toma no"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "akoko-toma no"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "akoko-toma no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:44.713067194Z",
+  "model": "glm-5.3"
+}

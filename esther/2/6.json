@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "nea wɔdii no fii Yerusalem, ne nnipa a wɔdii wɔn afiri hɔ ne Yekonya, Yuda hene, nea Nebukadnesar, Babilon hene, dii no afiri hɔ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "wɔdii no fii"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "nnipa a wɔdii wɔn afiri hɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "wɔdii wɔn afiri hɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "dii no afiri hɔ"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:56.892158044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yawe ne wɔn ahoɔden, na ɔno ara ne ne Mashíach nkonimdie banbɔ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ne wɔn ahoɔden"
+    },
+    {
+      "surface": "למו",
+      "gloss": "—"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "banbɔ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "nkonimdie"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ne Mashíach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ara"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:27.111303387Z",
+  "model": "glm-5.3"
+}

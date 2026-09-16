@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na seesei kɔ; na mɛne wo nwa ho, na mɛkyerɛkyerɛ wo deɛ wobɛkasa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mɛne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "wo nwa"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "na mɛkyerɛkyerɛ wo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "wobɛkasa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:39.564209795Z",
+  "model": "glm-5.3"
+}

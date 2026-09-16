@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na ɔde n'atadeɛ sii hɔ wɔ ne nkyɛn, kɔsii sɛ ne wura baa n'afie.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "Na ɔde ... sii hɔ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "n'atadeɛ"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "wɔ ne nkyɛn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ne wura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n'afie"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:49.203051473Z",
+  "model": "glm-5.3"
+}

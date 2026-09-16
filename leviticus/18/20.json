@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na wo yɔnko yere ho, mma wo da-mogya ankwammɔn — sɛ wode bɛdɔte wo ho ma no.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na wo…ho"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "wo yɔnko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mma wo"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "da-mogya ankwammɔn"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "(mogya)"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "sɛ wobɛdɔte wo ho"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ma no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:35.994310699Z",
+  "model": "glm-5.3"
+}

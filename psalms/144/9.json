@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Eloohim, dwom foforɔ mebɛto ama wo; medwom bɛto ama wo wɔ nnwomtoɔ tebea-du so.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mebɛto (dwom)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "wɔ nnwomtoɔ akwanee so"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tebea-du"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "medwom bɛto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:09.748657366Z",
+  "model": "glm-5.3"
+}

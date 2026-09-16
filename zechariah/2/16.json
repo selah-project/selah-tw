@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Yawe bɛgya ⟨את⟩ Yuda sɛ ne kyɛfa wɔ asɛe kronkron no so, na ɔbɛsan apaw Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "bɛgya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ne kyɛfa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron no"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "apaw"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "san"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T01:25:48.868867580Z",
+  "model": "glm-5.3"
+}

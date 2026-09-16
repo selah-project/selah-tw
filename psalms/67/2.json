@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 67,
+  "translation": "Eloohim, hu yɛn mmɔborɔhunu, na hyira yɛn; ma w'anim nyera yɛn ho. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "hu yɛn mmɔborɔhunu"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "na hyira yɛn"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ma ... nyera"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn ho",
+      "marks": "yɛn ho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:05.773172116Z",
+  "model": "glm-5.3"
+}

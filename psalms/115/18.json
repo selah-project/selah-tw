@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Na yɛn deɛ, yɛbɔ Yah nkyɛn firi seesei de kɔsi bere nyinaa. Momma mobɔ Yah anuonyam!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "na yɛn deɛ"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "yɛbɔ ... nkyɛn"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "firi seesei"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bere nyinaa"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Momma mobɔ anuonyam"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:01.868603813Z",
+  "model": "glm-5.3"
+}

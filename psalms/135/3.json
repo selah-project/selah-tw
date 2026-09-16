@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Hyɛ Yah; ɛfiri sɛ Yawe ⟨yɛ⟩ papa; monwom nnwom wɔ ne din mu; ɛfiri sɛ ɛyɛ dɛ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hyɛ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "monwom nnwom"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "wɔ ne din mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:12.688908230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Ɔbɛkɔ ne agyafoɔ dɔm no mu, kɔ afebua, wɔnhunu asnnyinasoɔ… wɔnhunu hann da.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ɔbɛkɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dɔm"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ne agyafoɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "afebua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:15.802931098Z",
+  "model": "glm-5.3"
+}

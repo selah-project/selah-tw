@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Wo nsam ne ahoɔden; wo nsa tumi dɔɔso, wo nifa atɔ soro.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "tumi dɔɔso"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "atɔ soro"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:31.326400383Z",
+  "model": "glm-5.3"
+}

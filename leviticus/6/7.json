@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wei ⟨ne⟩ mmara a ɛfa mincha no ho: Aharo mma bɛde ⟨את⟩ mincha no aba Yawe anim, wɔ mepɔ no anim.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na wei"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha no"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bɛde ... aba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mincha aduane no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mepɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:27.494845283Z",
+  "model": "glm-5.3"
+}

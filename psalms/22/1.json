@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Deɛ ɔhwɛ nnwomtoɔ so no, wɔ “Ayelet ha-Shahar” (bɔfra anɔpa no) so. Dawid asɔredwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔhwɛ nnwomtoɔ so no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelet (bɔfra)"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Shahar (anɔpa)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asɔredwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:40.943824977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ɔde ahobraseɛfoɔ kɔ atemmuo mu kwan so, na Ɔkyerɛ ahobraseɛfoɔ ne kwan.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Ɔde ... kɔ ... kwan so"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ahobraseɛfoɔ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "atemmuo mu"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "na Ɔkyerɛ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ahobraseɛfoɔ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ne kwan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:47.399805239Z",
+  "model": "glm-5.3"
+}

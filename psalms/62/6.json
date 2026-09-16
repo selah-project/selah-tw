@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Me kra, komm mu na metwɛn Eloohim nko ara; ɛfiri sɛ me nkwatia firi Ne nkyɛn.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "wɔ Eloohim nkyɛn"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "komm mu metwɛn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firi Ne nkyɛn"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "me nkwatia"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:31.656079010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Nanso wɔantye ase, na wɔmaa ⟨את⟩ wɔn kɔnkɔn yɛɛ den, sɛnea wɔn agya kɔnkɔn te — wɔn a wɔannye Yawe, wɔn Eloohim, mu gyidi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nanso ... annye"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wɔantye ase"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "na wɔmaa ... yɛɛ den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn kɔnkɔn"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "wɔn kɔnkɔn"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "sɛnea ... kɔnkɔn te"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annye"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "annyɛ mu gyidi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe mu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:23:25.532031490Z",
+  "model": "glm-5.3"
+}

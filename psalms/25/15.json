@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Me ani daa wɔ Yawe so, ɛfiri sɛ ɔno na ɔbɛtew me nan mu afi mframa mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ɔbɛtew ... mu afi"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "me nan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:25.562552396Z",
+  "model": "glm-5.3"
+}

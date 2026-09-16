@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Ɔbɛyɛ n'ani ase dɛ wɔn a wɔsuro no no, na ⟨את⟩ wɔn nsɛmmɔnebɔ no ɔbɛte, na ogohɔ wɔn.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "n'ani ase dɛ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wɔn a wɔsuro no"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ɔbɛyɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsɛmmɔnebɔ"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "wɔn nsɛmmɔnebɔ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ɔbɛte"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "na ogohɔ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:35.431981222Z",
+  "model": "glm-5.3"
+}

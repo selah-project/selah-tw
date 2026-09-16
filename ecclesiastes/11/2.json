@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ma kyɛfa ma nson, na awotwe nso, ɛfiri sɛ wunnim bɔne bɛn na ɛbɛba asase no so.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "kyɛfa"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ma nson"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "awotwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wunnim (ankyɛasɛm)"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nea ɛbɛba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:58:58.270948599Z",
+  "model": "glm-5.3"
+}

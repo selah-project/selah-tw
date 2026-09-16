@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "M'atamfoɔ ka bɔne fa me ho: “Ɛbɛn da na ɔbɛwu, na ne din bɛsɛe?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "M'atamfoɔ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fa me ho"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ɛbɛn da"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ɔbɛwu"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "na ... bɛsɛe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:20.166331018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na wɔmfrɛ wo din bio ⟨את⟩ sɛ Avram; na wo din bɛyɛ Avraham, ɛfiri sɛ ɔwo aman dodoɔ dedaw na m'ama wo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ … bio"
+    },
+    {
+      "surface": "יקררא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo din"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na … bɛyɛ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ɔwo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "dodoɔ dedaw"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "m'ama wo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:25.275903163Z",
+  "model": "glm-5.3"
+}

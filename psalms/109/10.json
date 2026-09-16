@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ne mma nantee-ntee hɔ da, na wɔnsrɛ aduane, na wɔnhwehwɛ no wɔ wɔn nkurow a abubu mu.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ntee"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "nantee-ntee"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "na wɔnsrɛ"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "na wɔnhwehwɛ"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "wɔn nkurow a abubu mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:51.975300635Z",
+  "model": "glm-5.3"
+}

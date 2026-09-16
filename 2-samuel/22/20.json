@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ɔde ⟨את⟩ me bae trɛmu; ɔgyee me, ɛfiri sɛ ɔani agye me ho.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ɔde ... bae"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "trɛmu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "ɔgyee me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ɔani agye ... ho"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:56.296479332Z",
+  "model": "glm-5.3"
+}

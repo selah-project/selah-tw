@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Monnwɛw ⟨את⟩ Yawe, Ne akronkronfoɔ; ɛfiri sɛ wɔn a wɔnwɛw No no, deɛ wɔpɛ biara nni hɔ.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Monnwɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "Ne akronkronfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "deɛ wɔpɛ biara"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wɔn a wɔnwɛw No no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:42.580228702Z",
+  "model": "glm-5.3"
+}

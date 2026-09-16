@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Sɛ asɛm no ba Misraim a, wɔrema wɔn ho yaw; saa ara na Tsor asɛm no de yaw ba.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "asɛm no"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "wɔrema wɔn ho yaw"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "saa ara na ... asɛm no"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-09-15T23:47:48.600366690Z",
+  "model": "glm-5.3"
+}

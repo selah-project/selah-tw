@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɔtwaa Yisrael anim, na Yehonatan, Simei ba, Dawid nuabarima, kum no.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Na ɔtwaa anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "na ... kum no"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Simei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuabarima"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:35.520794826Z",
+  "model": "glm-5.3"
+}

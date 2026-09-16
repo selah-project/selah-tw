@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Eloohim wɔ n'ahemfie akɛseɛ mu da ⟨ne ho⟩ adi sɛ ɔbanbɔn.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "wɔ n'ahemfie akɛseɛ mu"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "da ... adi"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sɛ ɔbanbɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:33.298258443Z",
+  "model": "glm-5.3"
+}

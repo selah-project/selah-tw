@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Abɔnefoɔ nnyɛ saa koraa; wɔte sɛ mwoma a mframa bɔ gu so.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mmom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "koraa"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sɛ mwoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "bɔ gu so"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:36:10.203264689Z",
+  "model": "glm-5.3"
+}

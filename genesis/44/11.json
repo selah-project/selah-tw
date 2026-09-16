@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Wɔde ahoɔhare sii so, na obiara sii ⟨את⟩ ne kotoku no asase so, na obiara buee ne kotoku no.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "wɔde ahoɔhare sii so"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "na wɔsiie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kotoku no"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ne kotoku no"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "na wɔbuee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ne kotoku no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:29.085097262Z",
+  "model": "glm-5.3"
+}

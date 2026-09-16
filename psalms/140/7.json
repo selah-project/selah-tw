@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Me kaa kyerɛɛ Yawe, \"Wo ne me El\"; ma wo aso so, Yawe, me mmɔborɔhunu ⟨nne⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Me kaa kyerɛɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kyerɛɛ Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ma wo aso so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "me mmɔborɔhunu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:25.916383447Z",
+  "model": "glm-5.3"
+}

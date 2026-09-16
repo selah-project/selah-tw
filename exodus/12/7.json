@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na wɔbɛfa mogya no mu bi, de asie ɛpono no ansaɛnyea mmienu so ne ɛpono no atifi so, wɔ afie a wɔbɛdi no mu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "wɔbɛfa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu bi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "de asie"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ɛpono no ansaɛnyea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne … so"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "ɛpono no atifi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "afie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wɔbɛdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (abirekyie no)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:27.074192992Z",
+  "model": "glm-5.3"
+}

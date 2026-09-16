@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Wode frankaa maa wɔn a wɔsuro wo, sɛ wɔbɛda no adi esiane nokorɛ nti. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Wode ... maa"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "wɔn a wɔsuro wo"
+    },
+    {
+      "surface": "נס",
+      "gloss": "frankaa"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "sɛ wɔbɛda no adi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "esiane ... nti"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:30.930900092Z",
+  "model": "glm-5.3"
+}

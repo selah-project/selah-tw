@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na wɔyɛɛ ⟨את⟩ sika-kratafa a ɛyɛ ahem kronkron no — sikakɔkɔɔ a ɛteɛ; na wɔtwerɛɛ so nkyerɛwee a ɛte sɛ agyiraehyɛn ntwa: Kronkron ma Yawe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika-kratafa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "sika-kratafa a ɛhyerɛn"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ahem kronkron"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sikakɔkɔɔ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "a ɛteɛ"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "na wɔtwerɛɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "nkyerɛwee"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "agyiraehyɛn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kronkron"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:37.009158323Z",
+  "model": "glm-5.3"
+}

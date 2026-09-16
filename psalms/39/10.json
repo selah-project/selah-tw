@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Meebuu m'ano so, manwiee m'ano; ɛfiri sɛ ⟨wo na⟩ woyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "meebuu m'ano so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da (mma)"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "manwie"
+    },
+    {
+      "surface": "פי",
+      "gloss": "m'ano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "woyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:54.750934338Z",
+  "model": "glm-5.3"
+}

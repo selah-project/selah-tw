@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ɛfiri sɛ mmensa nsia Joab ne Israel nyinaa tenaa hɔ, kɔsii sɛ wɔtetew mmarima nyinaa firi Edom —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mmensa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tenaa hɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "wɔtetew ... firi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:43.914659789Z",
+  "model": "glm-5.3"
+}

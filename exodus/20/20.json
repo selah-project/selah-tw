@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Moshe kaa kyerɛɛ nnipa no se, Momma mo nsuro; ɛfiri sɛ na Eloohim aba sɛ ɔrehwɛ mo — ⟨אתכם⟩ — na ne suro no nyɛ mo anim, na moanyɛ bɔne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Moshe kaa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Momma ... n"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mo nsuro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "ɔrehwɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "na"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ne suro no"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "mo anim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na moan"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "yɛ bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:55.183385342Z",
+  "model": "glm-5.3"
+}

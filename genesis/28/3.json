@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na El Shadai nhyira wo ⟨את⟩, na ɔnyɛ wo ma wo dɔɔso, na ɔmmɔ wo dɔɔso, na wobɛyɛ aman atom.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "na ɔnyɛ wo ma wo dɔɔso"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "na ɔmmɔ wo dɔɔso"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "aman atom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-15T20:28:05.919024291Z",
+  "model": "glm-5.3"
+}

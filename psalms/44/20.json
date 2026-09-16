@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Nanso wowu yɛn aseɛ wɔ akokɔ asase so, na wode sum kɛseɛ abata yɛn so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "wowu yɛn aseɛ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ ... asase so"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "akokɔ"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "na ... abata yɛn so"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "de sum kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:32.818603208Z",
+  "model": "glm-5.3"
+}

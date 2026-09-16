@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔhunuu sɛ ɔno ankasa ahyɛ den sɛ ɔbɛkɔ ⟨את⟩ ne no, na ɔgyaee sɛ ɔka nsɛm kyerɛ no.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na ɔhunuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "ahyɛ den"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɔno ankasa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sɛ ɔbɛkɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ne no (Noa)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "na ɔgyaee"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sɛ ɔka nsɛm"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kyerɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:45:51.668275686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "(Asase a wɔbu no sɛ Refaim dea; Refaim tenaa hɔ dapɛn; na Amonfoɔ frɛ wɔn Zamzumim.)",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "wɔbu no sɛ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tenaa hɔ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dapɛn"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "na Amonfoɔ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "Zamzumim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:12.185696339Z",
+  "model": "glm-5.3"
+}

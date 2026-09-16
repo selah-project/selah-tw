@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Deɛ ɔhwɛ nnwom so no dea, mma Korah dea, nnwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔhwɛ nnwom so no dea"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach dea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nnwom"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:55.695762837Z",
+  "model": "glm-5.3"
+}

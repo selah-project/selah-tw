@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na wɔkaa kyerɛɛ Moshe se, “Nkurɔfoɔ no resɔ dodo de bɛba, kyɛn deɛ ɛho hia ma dwumadie no — adwuma a Yawe hyɛɛ sɛ wɔnyɛ no.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "resɔ dodo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkurɔfoɔ no"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "de bɛba"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "kyɛn deɛ ɛho hia"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "dwumadie"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "sɛ wɔnyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:01.759407764Z",
+  "model": "glm-5.3"
+}

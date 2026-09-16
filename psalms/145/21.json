@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "M'ano bɛka Yawe abodin, na nwoma nyinaa nhyira ne din kronkron no, daa nyinaa na afebia.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "abodin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "m'ano"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na ... nhyira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kronkron no"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa nyinaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na afebia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:27.131536942Z",
+  "model": "glm-5.3"
+}

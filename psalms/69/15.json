@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Gye me firi nfuo mu na memmfrε mfrε; ngye me firi wɔn a wɔdwiri me ho nsam, na firi nsuo mu nsuaredɔm mu.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "gye me"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "firi nfuo mu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na memmfrε"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "mfrε"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ngye me"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "firi wɔn a wɔdwiri me ho nsam"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "na firi ... nsuaredɔm mu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:20.069345399Z",
+  "model": "glm-5.3"
+}

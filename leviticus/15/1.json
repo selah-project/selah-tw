@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Yawe kasa kyerɛɛ Moshe ne Aharon, se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    }
+  ],
+  "timestamp": "2026-09-15T22:29:00.140846262Z",
+  "model": "glm-5.3"
+}

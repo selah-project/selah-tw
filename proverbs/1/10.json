@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Me ba, sɛ wɔayɛ mfatoho ama wo a, nnkɔ wɔn ase.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Me ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "wɔayɛ mfatoho ama wo"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kɔ wɔn ase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:01.602174094Z",
+  "model": "glm-5.3"
+}

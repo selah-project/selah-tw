@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na wo bɛyɛ ⟨את⟩ ephod no atadeɛ; na ɛyɛ tekhelet ⟨bɔɔre-talla⟩ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wo bɛyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephod atadeɛ"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:02.782429569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 64,
+  "translation": "Tie, Eloohim, me nne wɔ me nsɛmmɔne mu; fi ɔtanfoɔ suro mu hwɛ so me nkwa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "wɔ me nsɛmmɔne mu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "fi suro mu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtanfoɔ"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "hwɛ so"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "me nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:01:20.449492322Z",
+  "model": "glm-5.3"
+}

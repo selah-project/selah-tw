@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Wɔbɛbɔ ⟨the⟩ asase no mu koraa, wɔbɛbɔ mu koraa, na wɔasɛe no koraa, wɔasɛe koraa; ɛfiri sɛ Yawe aka ⟨את⟩ asɛm yi.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Wɔbɛbɔ ... mu koraa"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "wɔbɛbɔ mu koraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "na wɔasɛe no koraa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "wɔasɛe koraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:48:29.601019576Z",
+  "model": "glm-5.3"
+}

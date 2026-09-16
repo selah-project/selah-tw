@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mo nnwaba ne mo moa ɔbɛsa mu duma, na ɔde ama n'akwankyerɛfoɔ ne n'asomfoɔ.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "mo nnwaba"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "mo moa"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ɔbɛsa mu duma"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ɔde ama"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "n'akwankyerɛfoɔ"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "n'asomfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:16:34.951002355Z",
+  "model": "glm-5.3"
+}

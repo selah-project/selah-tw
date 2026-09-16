@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Asaaso wode hyɛɛ wɔn so; wɔntwa mu da; wɔnsan ntra akata asase no so.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "asaaso"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wode hyɛɛ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da koraa"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "wɔntwa mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da koraa"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "wɔnsan ntra"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "akata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:03.138300416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wɔn a wɔkan wɔn no, wɔn afanu so ne wɔn agyinafoɔ afie so, yɛɛ apem mmienu ne aha nsia ne aduasa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na ... yɛɛ"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "wɔn a wɔkan wɔn no"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "wɔn afanu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wɔn agyinafoɔ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "afie"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "apem mmienu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ne nsia"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ne aduasa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:32.802804540Z",
+  "model": "glm-5.3"
+}

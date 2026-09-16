@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Deɛ wɔkaeɛ sɛ, Yɛnnɛfa ⟨את⟩ Eloohim mmeaeɛ no ama yɛn ankasa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Deɛ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wɔkaeɛ"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "yɛnnɛfa ... sɛ yɛn dea"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ama yɛn ankasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim mmeaeɛ no"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mmeaeɛ (nguankrabea\/mmeaeɛ)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:19.063936769Z",
+  "model": "glm-5.3"
+}

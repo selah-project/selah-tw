@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ne ⟨את⟩ Hadoram ne ⟨את⟩ Uzal ne ⟨את⟩ Dikla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Uzal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Dikla"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikla"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:12.977623980Z",
+  "model": "glm-5.3"
+}

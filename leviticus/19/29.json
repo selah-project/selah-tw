@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Mmma wo ba bea no ho mmɔ fɔ ⟨את⟩ wo ba bea no sɛ wɔde bɛyɛ no aguarefoɔ; na asase no mmɛyɛ aguare, na adwene bɔne nnyɛ asase no mu ma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mmma"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "bɔ ne ho fɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ba bea no"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "wo ba bea no"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "sɛ wɔde bɛyɛ no aguarefoɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... mm"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "mmɛyɛ aguare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "nnyɛ ... mu ma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "adwene bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:15.943791216Z",
+  "model": "glm-5.3"
+}

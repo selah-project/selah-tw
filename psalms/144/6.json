@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Pere nsanyan na wobubu wɔn; twa w'atopa na woayera wɔn.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "pere nsanyan"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "nsanyan"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "na wobubu wɔn"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "twa"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "w'atopa"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "na woayera wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:09.412707201Z",
+  "model": "glm-5.3"
+}

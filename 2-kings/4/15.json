@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔkaa sɛ: Frɛ no. Na ɔfrɛɛ no, na ɔgyinaa ɛpono ano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Frɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Na ɔfrɛɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "na ɔgyinaa"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ɛpono ano"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:13.712227195Z",
+  "model": "glm-5.3"
+}

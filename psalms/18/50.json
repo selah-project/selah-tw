@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɛno enti, Yawe, mɛda w'ase wɔ amanamanmu, na mɛto dwom ama w'abɔ din.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mɛda w'ase"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanamanmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ama w'abɔ din"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mɛto dwom"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:59.076673860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Yɛn Eloohim bɛba, na ɔnnyɛ nwoma: ogya bɛdidi ne anim, na ɛbɛyɛ owia kɛse sene biara ne ho asoɔkyan.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Yɛn Eloohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ɔnnyɛ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bɛdidi"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ne ho asoɔkyan"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "bɛyɛ owia kɛse sene biara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sene biara"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:25.699436861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Adeyɛ biako na masɔ me hotom mu ampam: sɛ mennyɛ Dawid nkontompo.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Adeyɛ biako"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "masɔ ampam"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "wɔ me hotom mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "mennyɛ ... nkontompo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:03.981624816Z",
+  "model": "glm-5.3"
+}

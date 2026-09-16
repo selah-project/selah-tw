@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na ɔde ⟨את⟩ akɔmafoɔ mmarima no ne ⟨את⟩ wɔn mmɔfra baa anim, na ⟨את⟩ Lea ne ne mmɔfra baa akyi, na ⟨את⟩ Rael ne ⟨את⟩ Yosef na wɔbaa akyi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ɔde ... baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akɔmafoɔ mmarima no"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "akɔmafoɔ mmarima no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mmɔfra"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "wɔn mmɔfra"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "baa anim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ne mmɔfra"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "baa akyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rael"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "baa akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:30:29.771227128Z",
+  "model": "glm-5.3"
+}

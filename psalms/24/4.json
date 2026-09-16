@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Nea nsa ho fi, na akoma da hɔ tuntum; nea ɔnyaa n'ani so nkoraboa, na ɔntumi nsɔ nsɛmmɔne ase.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "fi"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "tuntum"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Nea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nyaa"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nkoraboa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n'ani so"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sɔ nsɛmmɔne ase"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "nsɛmmɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:33.492145859Z",
+  "model": "glm-5.3"
+}

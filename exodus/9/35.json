@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Parho komam yɛɛ den, na ɔamfa ⟨את⟩ Yisrael mma no annwuma; sɛnea Yawe aka no, ɔnam Mosheh nsam.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yɛɛ den"
+    },
+    {
+      "surface": "לב",
+      "gloss": "komam"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛn-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dwaraa kwan \/ maa kwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma no"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aka no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nam ... nsam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:57.175623547Z",
+  "model": "glm-5.3"
+}

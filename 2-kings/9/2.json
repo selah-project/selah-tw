@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wo duru hɔ a, hwɛ Yehu, Yehoshafat ba, Nimshi ba, na woakɔ no, sɔ no sɔre firi ne nuanom mfimfini, na fa ⟨את⟩ no kɔ dan mu dan.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "duru"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "sɔ no sɔre"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "firi ... mfimfini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanom"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "fa ... kɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "dan"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "mu dan"
+    }
+  ],
+  "timestamp": "2026-09-15T23:30:12.481486376Z",
+  "model": "glm-5.3"
+}

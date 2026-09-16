@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na Yawe kaa kyerɛɛ Mosɛ sɛ: Twerɛ ⟨את⟩ nsɛm yi, ɛfiri sɛ nsɛm yi ti so na me ne ⟨את⟩ wo hyɛɛ apam, ne ⟨את⟩ Israɛl.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na … kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "twerɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ne ⟨את⟩ wo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:01.523519122Z",
+  "model": "glm-5.3"
+}

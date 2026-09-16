@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Nea ɔbɛdi no bɛsoa ne bɔne, ɛfiri sɛ wɔdɔeɛ ⟨את⟩ Yawe nkronkrondeɛ, na onkra no bɛtwaa ne ho firi ne nkorɔfoɔ mu.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "nea ɔbɛdi"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bɛsoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nkronkrondeɛ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nkronkrondeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wɔdɔeɛ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "na ... bɛtwaa ne ho"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "onkra"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "firi ne nkorɔfoɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:01.741054943Z",
+  "model": "glm-5.3"
+}

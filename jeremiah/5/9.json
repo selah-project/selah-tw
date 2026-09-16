@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ana mɛnhwɛ nsɛm yi so? Yawe nkɔmhyɛ; ana me kra mɛnsɔ ɔman a ɛte saa ara so ntɛm?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nsɛm yi"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "mɛn-"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "nhwɛ ... so"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkɔmhyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ɔman ... so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "a ɛte saa ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mm-"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "nsɔ ... ntɛm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    }
+  ],
+  "timestamp": "2026-09-16T00:05:31.245554647Z",
+  "model": "glm-5.3"
+}

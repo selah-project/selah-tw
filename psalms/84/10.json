@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 84,
+  "translation": "Yɛn banbɔ, hwɛ, Eloohim, na hwɛ wɔ wo Mashíach anim.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Yɛn banbɔ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "wo Mashíach"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:52.600593242Z",
+  "model": "glm-5.3"
+}

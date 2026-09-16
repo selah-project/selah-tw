@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "nea ɔtetee ⟨את⟩ Abraham, ne ne tiawa a ɔkae kyerɛɛ Isak",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ɔtetee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ne ne tiawa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kyerɛɛ Isak"
+    }
+  ],
+  "timestamp": "2026-09-16T06:02:40.268748483Z",
+  "model": "glm-5.3"
+}

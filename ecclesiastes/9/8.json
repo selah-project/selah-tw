@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Berɛ biara na wo ntoma nnyɛ fitaa, na ngo nngyera wɔ wo ti so.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "berɛ biara ... na"
+    },
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "wo ntoma"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "fitaa"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na ngo"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "wo ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nngyera \/ mmɔ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "nngyera"
+    }
+  ],
+  "timestamp": "2026-09-16T03:58:43.960623380Z",
+  "model": "glm-5.3"
+}

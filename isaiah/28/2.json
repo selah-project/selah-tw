@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 28:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Hwɛ! Adonai wɔ dea ɔyɛ den na ɔyɛ ahoɔden, sɛ osuo a esikyere wom, asɛm a ɛma ehu na ɛsɛe, sɛ asuo kɛseɛ a ɛregu gu — ɛbɛto asase so de nsa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ!"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "den"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai dea"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "sɛ osuo a ɛretɔ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "esikyere"
+    },
+    {
+      "surface": "שער",
+      "gloss": "asɛm a ɛma ehu"
+    },
+    {
+      "surface": "קטב",
+      "gloss": "sɛeɛ"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "sɛ osuo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "asuo"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "a emu dɔɔso"
+    },
+    {
+      "surface": "שטפים",
+      "gloss": "a ɛregu"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "bɛto"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "de nsa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:50:32.359000849Z",
+  "model": "glm-5.3"
+}

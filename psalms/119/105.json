@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Anwuma na wo asɛm yɛ ma me nan, na han ma me kwan.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "anwuma"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ma me nan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wo asɛm"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na han"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ma me kwan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:15.826657732Z",
+  "model": "glm-5.3"
+}

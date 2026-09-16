@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wonnsesa bosea mfasoɔ wɔ wo nuabarima so: sika bosea mfasoɔ, aduane bosea mfasoɔ, adeɛ biara mfasoɔ a wɔbɛtumi asesa wɔ so.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wonnsesa"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "bosea mfasoɔ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "wɔ wo nuabarima so"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "adeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "wɔbɛtumi asesa wɔ so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:46.316495270Z",
+  "model": "glm-5.3"
+}

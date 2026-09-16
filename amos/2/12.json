@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na mo maa ⟨את⟩ Nazirim no nom nsã, na mo hyɛɛ amanzɛbɔfoɔ no ase sɛ: 'Monnyɛ amanzɛbɔ.'",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "mo maa … nom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nazirim no"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "Nazirim no"
+    },
+    {
+      "surface": "יין",
+      "gloss": "nsã"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "amanzɛbɔfoɔ no"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "mo hyɛɛ … ase"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Monnyɛ"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "amanzɛbɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:10:39.359982993Z",
+  "model": "glm-5.3"
+}

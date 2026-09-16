@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Ɛno nti yɛnsuro, ɛberɛ a asase resesa, ne sɛ mmepɔ no resesa akɔ ɛpo no akyimu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "yɛnsuro"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "resesa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ne sɛ ... resesa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "akyimu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ɛpo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:31.562622773Z",
+  "model": "glm-5.3"
+}

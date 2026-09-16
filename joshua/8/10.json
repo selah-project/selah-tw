@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Yehoshua sɔree anɔpa ntɛm, na ɔkanee ⟨את⟩ nnipa no, na ɔne Yisrael mpanimfoɔ no foroo sɔɔ nnipa no anim kɔɔ Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "sɔree anɔpa ntɛm"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ɔkanee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "foroo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ankasa"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ne mpanimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ … anim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no anim"
+    },
+    {
+      "surface": "העי",
+      "gloss": "kɔɔ Ai"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:41.448589456Z",
+  "model": "glm-5.3"
+}

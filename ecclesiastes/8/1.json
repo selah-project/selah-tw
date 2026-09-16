@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Hwan na ɔte sɛ ɔnimdefoɔ, na hwan na ɔnim asɛm nkyerɛaseɛ? Onipa nyansa ma ne anim yɛ hyerɛn, na ne anim den no sesa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "sɛ ɔnimdefoɔ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hwan"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ɔnim"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "nkyerɛaseɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ma ... yɛ hyerɛn"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na ... den"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "sesa"
+    }
+  ],
+  "timestamp": "2026-09-16T03:56:42.484613344Z",
+  "model": "glm-5.3"
+}

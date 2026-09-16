@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Na misuu wɔ me nkwa akɔɔto mu, na ɛbɛyɛɛ animia ama me.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Na misuu"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "akɔɔto mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na ɛbɛyɛɛ"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "animia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:19.442678189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Na me nso mekaa sɛ: Mesɔree wɔ dedaw mu, me ahoɔden awuda wɔ hunu ne nkwaseasem mu; nanso nokware ni, m'atemmu ne ⟨את⟩ Yawe de, na m'akatua ne ⟨את⟩ Eloohim de.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me nso"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mekaa sɛ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "wɔ dedaw mu"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "mesɔree"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "wɔ hunu mu"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ne nkwaseasem"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "me ahoɔden"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "awuda"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "nanso nokware ni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "m'atemmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "na m'akatua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:58.056777250Z",
+  "model": "glm-5.3"
+}

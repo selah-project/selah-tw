@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yawe nnebɔ no twa ogya mframa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "nnebɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "twa"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:10.239739759Z",
+  "model": "glm-5.3"
+}

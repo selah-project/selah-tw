@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na Eloohim boa no wɔ Peleshtim so, ne wɔ Amanmufoɔ a wɔte Gur-Baal so ne Maunim so.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "Na Eloohim boa no"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne wɔ ... so"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "Amanmufoɔ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "a wɔte"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "wɔ Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baall"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "ne Maunim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:04:02.757262286Z",
+  "model": "glm-5.3"
+}

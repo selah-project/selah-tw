@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Noach, asase yɔni, hyɛɛ aseɛ, na oduttaa taprema.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "hyɛɛ aseɛ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "asase yɔni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "duttaa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "taprema"
+    }
+  ],
+  "timestamp": "2026-09-16T05:13:59.485986277Z",
+  "model": "glm-5.3"
+}

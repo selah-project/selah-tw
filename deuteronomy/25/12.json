@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "na wobɛtwa ⟨את⟩ ne nsa; w'ani nnmmu hyɛ.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "na wobɛtwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mmu hyɛ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "w'ani"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:51.870405292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Me deɛ: bɔ ɔhene ano so hwɛ, ɛnam Eloohim nsekanom nti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me deɛ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɛnam ... nti"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "afia"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "nsekanom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T03:56:42.484856342Z",
+  "model": "glm-5.3"
+}

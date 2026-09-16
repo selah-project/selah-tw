@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ɔsom ⟨את⟩ Baal, na ɔbɔɔ ne mu ase wɔ n'anim, na ɔmaa Yawe, Eloohim a ɔwɔ Yisrael no bo fuu, sɛnea ne papa yɛɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Na ɔsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "na ɔbɔɔ ne mu ase"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wɔ n'anim"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "na ɔmaa ... bo fuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:59.513485252Z",
+  "model": "glm-5.3"
+}

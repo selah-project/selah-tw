@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Bere no mu no mehyɛɛ mo atemmufoɔ ⟨את⟩ se: tie mo nuanom ntam asɛm, na montemu atɛmmu a ɛteɛ — onipa ne ne nua ntam, ne ohɔ a ɔtu tena ne mu no ntam.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "mehyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo atemmufoɔ"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "mo atemmufoɔ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "Bere ... mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mo nuanom"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "na montemu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atɛmmu a ɛteɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ohɔ a ɔtu tena ne mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:45.737715985Z",
+  "model": "glm-5.3"
+}

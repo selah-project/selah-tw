@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Yɛde yɛn adwene susuw wo hesed ⟨ahotam⟩ ho, Eloohim, wɔ wo abodan no mu.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "yɛde yɛn adwene susuw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "wo abodan no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:34.179745009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɛbɛyɛɛ no saa; na nnipadɔm no tetee ⟨את⟩ no wɔ ɛpono no mu, na owuiɛ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbɛyɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "tetee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (ɔsahene no)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "wɔ ɛpono no mu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na owuiɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:29:55.051952813Z",
+  "model": "glm-5.3"
+}

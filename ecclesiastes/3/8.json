@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Bere a wɔbɛdɔ, na bere a wɔbɛkyɛn; bere a ɔko bɛba, na bere asomdwoeɛ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "a wɔbɛdɔ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "a wɔbɛkyɛn"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "a ɔko bɛba"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:53:34.533923298Z",
+  "model": "glm-5.3"
+}

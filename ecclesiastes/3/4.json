@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Berɛ wɔ su, na berɛ wɔ serɛw; berɛ wɔ sunu, na berɛ wɔ sa asa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "su"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na berɛ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "serɛw"
+    },
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "sunu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na berɛ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "sa asa"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:43.079416572Z",
+  "model": "glm-5.3"
+}

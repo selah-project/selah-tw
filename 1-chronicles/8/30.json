@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ne ba a ɔdi kan ne Abdon, ne Tsur, ne Kish, ne Baal, ne Nadab.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "a ɔdi kan"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ne Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ne Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ne Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ne Nadab"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:48.520220792Z",
+  "model": "glm-5.3"
+}

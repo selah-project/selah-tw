@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Wo a wode wo ahoɔden siesie mmɔporo, na wo ho ahoɔden te sɛ nea wɔahyɛ mmorabaa.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "siesie"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mmɔporo"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "wɔ wo ahoɔden mu"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "wohyɛ wo ho mmorabaa"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ahoɔden kɛseɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:53.440031639Z",
+  "model": "glm-5.3"
+}

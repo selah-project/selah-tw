@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Mosheh faa ⟨את⟩ dua no fi Yawe anim, sɛnea ɔhyɛɛ no nhyehyɛeɛ so.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua no"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "dua no"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fi ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ɔhyɛɛ no nhyehyɛeɛ so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:36:12.134713407Z",
+  "model": "glm-5.3"
+}

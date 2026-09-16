@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Enti mebɔɔ dom wɔ me bo mu sɛ: Ɛnnɛ sɛ wɔbɛba me home mu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Enti"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mebɔɔ dom"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "wɔ me bo mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "wɔbɛba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "me home mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:16.797233022Z",
+  "model": "glm-5.3"
+}

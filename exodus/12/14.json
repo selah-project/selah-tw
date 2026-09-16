@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛbɛba: da yi bɛyɛ mo nkaedum, na mobɛdi ⟨את⟩ no sɛ afahyɛ ama Yawe, wɔ mo awoɔ ntoatoaso mu; ahyɛde a ɛkɔ so daa; mobɛdi no afahyɛ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "nkaedum"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "na mobɛdi afahyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "afahyɛ no"
+    },
+    {
+      "surface": "חג",
+      "gloss": "afahyɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "mo awoɔ ntoatoaso mu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ahyɛde"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "mobɛdi no afahyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:53.820952836Z",
+  "model": "glm-5.3"
+}

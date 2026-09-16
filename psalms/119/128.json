@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ɛno nti, mihwɛ w'apamdeɛ nyinaa sɛ ɛyɛ teɛ wɔ biribiara mu, na mekɔɔla ɔkwan nkontompo biara.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɛno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "w'apamdeɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wɔ biribiara mu"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "mihwɛ sɛ ɛyɛ teɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nkontompo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mekɔɔla"
+    }
+  ],
+  "timestamp": "2026-09-16T05:43:03.869712790Z",
+  "model": "glm-5.3"
+}

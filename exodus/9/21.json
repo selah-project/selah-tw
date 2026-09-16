@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na obi a ɔansɛm ne akoma annw Yawe asɛm no gyaw ⟨את⟩ n'akoa ne ⟨את⟩ n'anom adwan wɔ afuomu.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "na obi a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ansɛm"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne akoma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "annw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "gyaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'akoa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'anom adwan"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "n'anom adwan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "wɔ afuomu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:02.038861917Z",
+  "model": "glm-5.3"
+}

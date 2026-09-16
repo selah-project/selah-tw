@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na seesei, hwɛ, Adonijah ayɛ ɔhene, na seesei, me wura ɔhene, wonnim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ayɛ ɔhene"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonnim (negation)"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wonnim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:41.124349162Z",
+  "model": "glm-5.3"
+}

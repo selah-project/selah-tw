@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Asɛm no yɛɛ dɛ wɔ Adonai ani so, ɛfiri sɛ Salomo bisaa ⟨את⟩ asɛm yi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yɛɛ dɛ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ…ani so"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bisaa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:14:36.088175845Z",
+  "model": "glm-5.3"
+}

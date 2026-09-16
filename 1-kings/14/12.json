@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wo nso, sɔre na kɔ wo fie; sɛ wo nanom duru kuro no mu a, abɔfra no bɛwu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na wo nso"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "wo fie"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "sɛ ... duru"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "wo nanom"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kuro no mu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bɛwu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "abɔfra no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:31.078482776Z",
+  "model": "glm-5.3"
+}

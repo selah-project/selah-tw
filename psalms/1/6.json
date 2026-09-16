@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Efisɛ Yawe nim atemtufoɔ kwan, na abɔnefoɔ kwan no bɛsɛe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Efisɛ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atemtufoɔ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na ... kwan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bɛsɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:32:57.528649969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "Ɛfiri sɛ wo hesed ⟨ɛso⟩ kɔsi ɔsoro, na wo nokorɛ kɔsi nwogye so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "⟨ɛso⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kɔsi"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nwogye so"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wo nokorɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:29.492726347Z",
+  "model": "glm-5.3"
+}

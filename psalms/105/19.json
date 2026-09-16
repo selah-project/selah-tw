@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Kɔpɛ sɛ berɛ a ne nsɛm no duu no; Yawe asɛm no sɔɔ no hwɛe.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kɔpɛ sɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "duu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne nsɛm no"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "asɛm no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "sɔɔ no hwɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:42.589785577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Yawe kasa tia Moshe ne Elazar, Aharon ba ⟨את⟩ no, ɔsɔfoɔ no, se:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kasa tia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וְאל",
+      "gloss": "ne tia"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T21:38:50.083507456Z",
+  "model": "glm-5.3"
+}

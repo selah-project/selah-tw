@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Yawe bɛy⟨ɛ⟩ ahohiafoɔ ahobammɔ, ahobammɔ wɔ ɛberɛ a ɔhaw wɔ mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ahobammɔ"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ahohiafoɔ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ahobammɔ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "wɔ ɛberɛ"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "a ɔhaw wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:27.215909075Z",
+  "model": "glm-5.3"
+}

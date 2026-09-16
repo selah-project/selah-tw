@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 70,
+  "translation": "Wɔnsane aba wɔn animtia ase wɔn a wɔka se: “Aha, aha.”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "wɔnsane aba"
+    },
+    {
+      "surface": "על",
+      "gloss": "esiane"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "wɔn animtia ase"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "wɔn animtia"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wɔn a wɔka se"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:28.833071633Z",
+  "model": "glm-5.3"
+}

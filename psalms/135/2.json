@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Mo a mogyina Yawe fie mu, mo a mogyina yɛn Eloohim fie afamu.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "mo a mogyina"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fie mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "afamu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T06:06:49.881387704Z",
+  "model": "glm-5.3"
+}

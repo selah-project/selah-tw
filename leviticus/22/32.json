@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na mo nnyi ⟨את⟩ me din kronkron atɔ; na mesɔre kronkron wɔ Yisraem mma ntam; me ne Yawe, me na mede mo bra kronkron.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na mo nnyɛ"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "mo nnyi ... atɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me din kronkron"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "me kronkron"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "na mesɔre kronkron"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... ntam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "me na mede mo bra kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:18.760521291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Sɛ Yawe wo Eloohim atwa aman no so, aman a Yawe wo Eloohim de wɔn asase ma wo, na woatiw wɔn so na wotate wɔn nkurow mu ne wɔn afie mu —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "atwa so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aman no"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asase"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "na woatiw wɔn so"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "na wotate"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "wɔn nkurow mu"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "ne wɔn afie mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:16.586288424Z",
+  "model": "glm-5.3"
+}

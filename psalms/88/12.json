@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Wobɛka wo hesed asɛm wɔ asiee mu anaa? Wo nokorɛyɛ nso wɔ Abadon mu?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "wobɛka... asɛm anaa?"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "wɔ asiee mu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "wo nokorɛyɛ"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "wɔ Abadon mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:22.571582266Z",
+  "model": "glm-5.3"
+}

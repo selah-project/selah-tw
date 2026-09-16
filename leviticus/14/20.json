@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔsɔfo no bɛma ɔhyɛ-afɔdeɛ no ne aduane-afɔdeɛ no akɔ afɔreɛ asɔn so, na ɔsɔfo no bɛbɔ ne ho afɔ, na ɔhoəfiṣ bɛho.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "na ɔbɛma akɔ soro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfo no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhyɛ-afɔdeɛ no"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɔhyɛ-afɔdeɛ (burnt offering) no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "aduane-afɔdeɛ no"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "aduane-afɔdeɛ (grain offering) no"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "afɔreɛ asɔn no so"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na ɔbɛbɔ ho afɔ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfo no"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "na wabɛho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:14:34.407950924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɛfiri sɛ n'atemmuo nyinaa gyinaa me anim, na mantew ne mmara mfiri me ho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "n'atemmuo"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "gyinaa me anim"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "na ne mmara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnkɔ so — mantee"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "mantew"
+    },
+    {
+      "surface": "מני",
+      "gloss": "firi me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:33.217910102Z",
+  "model": "glm-5.3"
+}

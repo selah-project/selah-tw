@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Wɔ m'awerɛhoɔ da mu no mɛfrɛ wo, efisɛ wobɛbua me.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da mu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "m'awerɛhoɔ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "mɛfrɛ wo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "wobɛbua me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:40.310903910Z",
+  "model": "glm-5.3"
+}

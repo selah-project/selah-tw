@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 120,
+  "translation": "Me kra atena akyɛ ne obi a ɔtan asomdwoeɛ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "akyɛ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "atena"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ɔtan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:57.180852779Z",
+  "model": "glm-5.3"
+}

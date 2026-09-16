@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Abraham sɔɔ ne nan ase firi ne awufoɔ anim, na ɔkasa kyerɛɛ Het mma no seɛ:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔɔ ne nan ase"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ne awufoɔ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "seɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:39.274150670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na mɛpam wo ne ⟨את⟩ kurow yi firi Ashur hene nsa mu, na mɛbɔ kurow yi so ban.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "firi nsa mu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "mɛpam wo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurow yi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "na mɛbɔ ho ban"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:54:33.812546788Z",
+  "model": "glm-5.3"
+}

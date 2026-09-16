@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na ɔde sika kɔkɔɔ ayɔsoro no sii Ohel Moed mu, Paroket no anim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ ayɔsoro no"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ayɔsoro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wɔ Ohel … mu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "… anim"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Paroket no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:54.939727359Z",
+  "model": "glm-5.3"
+}

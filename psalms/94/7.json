@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Na wɔka sɛ: “Yah nhunu, na Eloohim a ɔyɛ Yakob deɛ nnte ase.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na wɔka sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nn"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "te ase"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:23.475720076Z",
+  "model": "glm-5.3"
+}

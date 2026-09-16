@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Mɛma wayɛ toro wɔ n'afe tenten mu, na Mɛkyerɛ no Me nkwagyeɛ.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "Mɛma wayɛ toro"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "na Mɛkyerɛ no"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "Me nkwagyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:01.773270216Z",
+  "model": "glm-5.3"
+}

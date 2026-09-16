@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Zabad woo ⟨את⟩ Efralal, na Efralal woo ⟨את⟩ Obed.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efralal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efralal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "na Efralal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:45.806554901Z",
+  "model": "glm-5.3"
+}

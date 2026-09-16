@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ mo mma mma no bɛfa sɛ wɔn a wɔyɛ ngo-nhyehyɛfoɔ, nnam-namfoɔ, ne bɔlofoɔ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo mma mma no"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "mo mma mma no"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bɛfa"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "sɛ wɔn a wɔyɛ ngo-nhyehyɛfoɔ"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "nnam-namfoɔ"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ne bɔlofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:15:59.678321282Z",
+  "model": "glm-5.3"
+}

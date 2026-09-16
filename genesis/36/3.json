@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Ne ⟨את⟩ Bosmath, Yishmael ba, Nebaiot nuabea.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ne ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nuabea"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebaiot"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:48.460827799Z",
+  "model": "glm-5.3"
+}

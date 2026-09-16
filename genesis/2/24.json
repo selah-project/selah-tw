@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɛno enti ɔbarima bɛgya ⟨את⟩ n'agya ne ⟨את⟩ ne maame, na ɔbɛpapafaso ne yere so, na wɔbɛyɛ nam baako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כן",
+      "gloss": "enti (ɛno)"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bɛgya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'agya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne maame"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "bɛpapafaso"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "ne yere so"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "wɔbɛyɛ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:20.415534597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Ɔbɛhyɛ n'asomafoɔ na wɔmmɛhwɛ wo so wɔ wo akwan nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɔbɛhyɛ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "n'asomafoɔ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "bɛhyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "wɔmmɛhwɛ wo so"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "wo akwan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:11.595918391Z",
+  "model": "glm-5.3"
+}

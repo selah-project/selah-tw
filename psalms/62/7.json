@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Ɔno nko ara ne me ɔboɔ ne me nkwigyeɛ; ɔyɛ me akorabui; ɛnnyɛ sɛ metu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ɔno"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "me ɔboɔ"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ne me nkwigyeɛ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "me akorabui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnnyɛ sɛ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "metu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:31.656308457Z",
+  "model": "glm-5.3"
+}

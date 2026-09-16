@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Obi no kaa sɛ: Adɛn na mebɔ ne bɔne, sɛ worede wo akoadi ⟨את⟩ ama Akab nsa mu akɔsum me?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mebɔ ne bɔne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "worede…ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo akoadi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoadi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "akɔsum me"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:27.392200191Z",
+  "model": "glm-5.3"
+}

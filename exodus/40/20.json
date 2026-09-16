@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Ɔgyee, de ⟨את⟩ adansedie no kɔɔ adaka no mu, ɔde ⟨את⟩ nkɔnsɔ no sii adaka no so, na ɔde ⟨את⟩ afɔreɛdwa no sii adaka no so wɔ atifi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ɔgyee"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "de ... kɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adansedie no"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adansedie no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ɔde ... sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkɔnsɔ no"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "nkɔnsɔ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde ... sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afɔreɛdwa no"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "afɔreɛdwa no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "wɔ atifi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:19.172096229Z",
+  "model": "glm-5.3"
+}

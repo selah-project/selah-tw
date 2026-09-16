@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Saa na Yawe Tsaḇaot ka: monfa mo akoma si mo akwan so.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Saa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsaḇaot"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "monfa ... si"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mo akoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mo akwan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:28:21.365415489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Abraham bɔɔ mpaeɛ kɔɔ Eloohim anim, na Eloohim saaye ⟨את⟩ Abimelek ne ⟨את⟩ ne yere ne ne mfefoɔ yaree, na wɔwoo abɔfra.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "bɔɔ mpaeɛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ ... anim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "saaye ... yaree"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne yere"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ne mfefoɔ"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "na wɔwoo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:45.457518831Z",
+  "model": "glm-5.3"
+}

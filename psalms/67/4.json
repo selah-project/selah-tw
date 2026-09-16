@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 67,
+  "translation": "Aman da wo ase, Eloohim; aman nyinaa da wo ase.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "da wo ase"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "da wo ase"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:05.773463238Z",
+  "model": "glm-5.3"
+}

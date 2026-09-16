@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 4:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Monhwɛ so na moyɛ no, ɛfiri sɛ ɛno ne mo nyansa ne mo ntease wɔ aman no ani so — aman a wɔbɛte ⟨את⟩ mmara yi nyinaa, na wɔaka sɛ: 'Ampa sɛ ɔman kɛseɛ yi yɛ aman a wɔwɔ nyansa ne ntease.'",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Monhwɛ so"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na moyɛ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛno ne"
+    },
+    {
+      "surface": "חכמתכם",
+      "gloss": "mo nyansa"
+    },
+    {
+      "surface": "ובינתכם",
+      "gloss": "ne mo ntease"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "wɔ...ani so"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "bɛte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmara yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "wɔaka sɛ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "Ampa sɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aman"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nyansafoɔ"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ne nteasefoɔ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:47:28.721690312Z",
+  "model": "glm-5.3"
+}

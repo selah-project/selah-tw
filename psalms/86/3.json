@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Hyɛ me nkwasea, Adonai, ɛfiri sɛ wo ho na mefrɛ akɔ daa nyinaa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Hyɛ me nkwasea"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mefrɛ akɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "daa nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:27.159756238Z",
+  "model": "glm-5.3"
+}

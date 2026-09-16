@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Tie dɛm ara deɛ Yawe reka: Sɔre, kasa nsɛm kyɛn ⟨את⟩ nnepɔ no, na bepɔ akɛseɛ no nntie wo nne.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dɛm ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yawe reka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reka"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kasa nsɛm kyɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnepɔ no"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "nnepɔ no"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "na … nntie"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bepɔ akɛseɛ no"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "wo nne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:20:10.225998434Z",
+  "model": "glm-5.3"
+}

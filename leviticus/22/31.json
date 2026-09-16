@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na mo hwɛ me mmra so, na moyɛ ⟨את⟩ no; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mo hwɛ so"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "me mmra"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "moyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:18.760280530Z",
+  "model": "glm-5.3"
+}

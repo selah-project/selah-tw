@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Efisɛ ɔhyɛ ma Yisrael ne ɛno, mmara ma Eloohim Yaakob.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ɔhyɛ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ma Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne ɛno"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ma Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:43.898851232Z",
+  "model": "glm-5.3"
+}

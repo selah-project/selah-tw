@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Eloohim kae ⟨את⟩ Noa, ne ⟨את⟩ mmoa a wɔwɔ nkwa nyinaa, ne ⟨את⟩ mmoa a wɔyɛ nnwuma nyinaa a na ⟨את⟩ wɔ ne nkyɛn wɔ hyɛn no mu; na Eloohim maa mframa bɔe asase no so, na nsuo no suyaa.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "kae"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmoa a wɔwɔ nkwa nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mmoa a wɔwɔ nkwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmoa a wɔyɛ nnwuma nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mmoa a wɔyɛ nnwuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne nkyɛn"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "wɔ hyɛn no mu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "maa ... bɔe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "suyaa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:03.363877332Z",
+  "model": "glm-5.3"
+}

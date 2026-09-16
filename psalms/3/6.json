@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Meda hunuu, mesɔre firi m'daedae mu, ɛfiri sɛ Yawe toa me so.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "meda hunuu"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "na mede me ho daedae"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "mesɔre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "toa me so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:53.345683103Z",
+  "model": "glm-5.3"
+}

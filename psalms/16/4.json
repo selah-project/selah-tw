@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Wɔn amanehunu bɛdɔɔso — wɔn a wɔde wɔn ho akyere anya abosom afoforɔ; mɛntɔɔ wɔn nsa-gu a ɛfiri mogya mu, na mɛnka wɔn din ⟨את⟩ wɔ m'anoɔ so.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "bɛdɔɔso"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "wɔn amanehunu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "wɔde wɔn ho akyere"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mɛn- (da)"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "mɛntɔɔ nsa-gu"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "wɔn nsa-gu"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "a ɛfiri mogya mu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "na mɛn-"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mɛnka (so)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn din"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "wɔn din"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "m'anoɔ so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:52.383307857Z",
+  "model": "glm-5.3"
+}

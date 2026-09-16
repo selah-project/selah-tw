@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Mekɔɔ na mesum no asie wɔ Perat, sɛnea Yawe hyɛɛ ⟨את⟩ me so.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "mekɔɔ"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "na mesum no asie"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "wɔ Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T00:10:40.272535865Z",
+  "model": "glm-5.3"
+}

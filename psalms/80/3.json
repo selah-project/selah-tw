@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Efraim ne Benyamin ne Manase anim, sɔ ⟨את⟩ wo ahoɔden ma, na bra yɛn nkwagyee.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ne Benyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ne Manase"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "sɔ ... ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ahoɔden"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "wo ahoɔden"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "na bra"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "nkwagyee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:47.883274003Z",
+  "model": "glm-5.3"
+}

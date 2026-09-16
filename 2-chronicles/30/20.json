@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na Yawe tiee Hizkia, na ɔsaa ⟨את⟩ nnipa no yareɛ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na ... tiee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hizkia (kasa)"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "na ɔsaa ... yareɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:08:32.085016519Z",
+  "model": "glm-5.3"
+}

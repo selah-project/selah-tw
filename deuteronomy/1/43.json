@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na me kasa kyerɛɛ mo, na mo antie; na mo tiaa ⟨את⟩ Yawe ano, na mo yɛɛ ahomasoɔ, na mo foroo kɔɔ bepɔ no so.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "me kasa kyerɛɛ mo"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nn"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "mo tiee"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "mo tiaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "mo yɛɛ ahomasoɔ"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "mo foroo"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "kɔɔ bepɔ no so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:07.190861975Z",
+  "model": "glm-5.3"
+}

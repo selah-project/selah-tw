@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na mfeɛ nsia no mu wode aba bɛbɔ ⟨את⟩ w'asase, na wobɛsɔ ⟨את⟩ ne nnɔbaeɛ ano.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "wode aba bɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'asase"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "w'asase"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "na wobɛsɔ ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnɔbaeɛ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ne nnɔbaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:19.190482633Z",
+  "model": "glm-5.3"
+}

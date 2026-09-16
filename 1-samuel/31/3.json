@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na ɔko no mu yɛɛ den tiaa Saul, na wanwafoɔ — mmarima a wɔde wanwa bɔ — hunuu no, na yaw bɔɔ no paa wanwafoɔ nsam.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "mu yɛɛ den"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ɔko no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tiaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "hunuu no"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "wanwafoɔ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "a wɔde wanwa bɔ"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "yaw bɔɔ no"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "wanwafoɔ nsam"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:15.576739175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Akyi ne anim woahyɛ me mu, na wode wo akakraba asii me so.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "woahyɛ me mu"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "na wode w'akakraba asii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "wo akakraba"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:34.495831211Z",
+  "model": "glm-5.3"
+}

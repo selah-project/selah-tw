@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Mfasoɔ bɛn na deɛ ɔyɛ adwuma no nya wɔ deɛ ɔbrɛ aseɛ no mu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "deɛ ɔyɛ adwuma no"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "wɔ deɛ no mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ɔbrɛ aseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:54:18.938657137Z",
+  "model": "glm-5.3"
+}

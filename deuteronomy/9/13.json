@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Yawe kasa kyerɛɛ me se: Mehunu ⟨את⟩ nnipa yi, na hwɛ, nnipa a wɔn kɔn yɛ den ne wɔn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛɛ me"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Mehunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa yi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "den"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kɔn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:12.034732492Z",
+  "model": "glm-5.3"
+}

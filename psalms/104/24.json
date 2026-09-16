@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Yawe, wo nnwuma dɔɔso sɛn! Wode nyansa ayɛ bi nyinaa; asase no ayɛ ma wɔ nnyinasoɔ so.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "wo nnwuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "de nyansa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ayɛ bi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ayɛ ma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "wɔ nnyinasoɔ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:17.252705058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Ahemfo nyinaa bɛworɔnsɔre som no; aman nyinaa bɛsom no.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "bɛworɔnsɔre som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "Ahemfo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "bɛsom no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:18.812144258Z",
+  "model": "glm-5.3"
+}

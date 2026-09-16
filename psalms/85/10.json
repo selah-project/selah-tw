@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Ampa sɛ, ne nkwagyeɛ bɛn wɔn a wɔsuro no, na kronkronmu animuonyam-at NRA atena yɛn asase so.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ampa sɛ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wɔn a wɔsuro no"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ne nkwagyeɛ"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "atena"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "yɛn asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:23.651275412Z",
+  "model": "glm-5.3"
+}

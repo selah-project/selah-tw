@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Yakob mma buaa ⟨את⟩ Sekem ne ⟨את⟩ ɔno agya Khamor akɔnnosi mu, na wɔkaa ho asɛm, ɛfiri sɛ ɔdefee ⟨את⟩ Dinah wɔn nuabaa.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ɔno agya"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "akɔnnosi mu"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "na wɔkaa ho asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ɔdefee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "wɔn nuabaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:34:11.880290781Z",
+  "model": "glm-5.3"
+}

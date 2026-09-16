@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 98,
+  "translation": "Yawe ada ne nkwagyeɛ adi, wɔ amanamanso ani so no ɔdaa ne trenea adi.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "wada ... adi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ne nkwagyeɛ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ɔdaa ... adi"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ne trenea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:42.727977050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Dawid yɛɛ sɛnea Eloohim hyɛɛ no so, na wɔbɔɔ ⟨את⟩ Peleshtim asraafoɔ no, firi Gibeon kɔsi Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hyɛɛ no so"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleshtim asraafoɔ no"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "firi Gibeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-16T04:41:32.863359952Z",
+  "model": "glm-5.3"
+}

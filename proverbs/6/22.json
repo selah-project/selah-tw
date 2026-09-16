@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Sɛ wode w'anan wo a, ɛkyerɛ ⟨את⟩ wo; sɛ woda a, ɛbɔ wo ho ban; sɛ wo sɔre a, ɛno ne wo bɛbesa.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "sɛ wode w'anan wo a"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ɛkyerɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "sɛ woda a"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ɛbɔ ban"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "sɛ wo sɔre a"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "ne wo bɛbesa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:45:16.197964405Z",
+  "model": "glm-5.3"
+}

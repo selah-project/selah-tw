@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 122,
+  "translation": "Esiane m'nuanom ne m'anamɔnɔfoɔ nti, mɛka sɛ: Asomdwoeɛ mmra wo mu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "esiane ... nti"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "m'nuanom"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ne m'anamɔnɔfoɔ"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "mɛka sɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mpa mu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:02.396076676Z",
+  "model": "glm-5.3"
+}

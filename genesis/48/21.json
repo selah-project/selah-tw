@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Na Israël kaa Yosef se: Hwɛ, merehwɛ na mewu, na Eloohim bɛka mo ho, na ɔbɛsan de ⟨את⟩mo aba mo agyapam asaase so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mewu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ... bɛba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bɛka mo ho"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na ɔbɛsan de ... aba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asaase"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "mo agyapam"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:38.282351014Z",
+  "model": "glm-5.3"
+}

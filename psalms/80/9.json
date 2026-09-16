@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Wotuwaa asasa dua firi Misraim, wodii amanaman gui, na wode eduaa.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "asasa dua"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "firi Misraim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "Wotuwaa"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "wodii gui"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "na wode eduaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:00.609776836Z",
+  "model": "glm-5.3"
+}

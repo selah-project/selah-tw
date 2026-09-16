@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na Misraim de, adwuma biara nni hɔ a ɔbetumi ayɛ — mpapahansɛn ɔde yɛ adwuma, ɛnyɛ ti, ɛnyɛ ekodeɛ, ɛnyɛ dawurubrɛhene dua, ɛnyɛ mmea.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na...nni hɔ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Misraim de"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ɔbɛtumi ayɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ne ekodeɛ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "dawurubrɛhene dua"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ne mmea"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:24.682751430Z",
+  "model": "glm-5.3"
+}

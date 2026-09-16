@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 129,
+  "translation": "Ɛno nti, wɔn a wɔretwa fam hɔ fa no nse sɛ, “Yawe nhyira wɔ mo so; yɛhyira mo ⟨את⟩ wɔ Yawe din mu.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nse"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wɔnse"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "wɔn a wɔretwa fam hɔ fa no"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "wɔ mo so"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "yɛhyira mo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (wɔn a wɔhyira wɔn)"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ ... din mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:25.130422456Z",
+  "model": "glm-5.3"
+}

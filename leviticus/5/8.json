@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "na ɔde ⟨אתם⟩ aba ɔsɔfoɔ no nkyɛn; na ɔbɛde ⟨את⟩ deɛ ɛyɛ bɔne afɔdeɔ no adi kan abɔ, na ɔbɛtwa ⟨את⟩ ne ti no firi n'akongua so, na ɔmmubu mu.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "na ɔde ... aba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... nkyɛn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "na ɔbɛde ... abɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛyɛ bɔne afɔdeɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bɔne afɔdeɔ"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "di kan"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "na ɔbɛtwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ti no"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne ti no"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "firi ... so"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "n'akongua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔn"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "mmubu mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:50.498211295Z",
+  "model": "glm-5.3"
+}

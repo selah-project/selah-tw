@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Reu tenaa ase mfeɛ mmienu ne aduasa, na ɔwoo ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ne aduasa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:23.427504308Z",
+  "model": "glm-5.3"
+}

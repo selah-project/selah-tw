@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Soro anomfo, ne po no mu mpataa, ne deɛ ɛfa po no akwan so.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "anomfo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "soro"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ne mpataa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "po"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "deɛ ɛfa"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "akwan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "po"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:01.422938527Z",
+  "model": "glm-5.3"
+}

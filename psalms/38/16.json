@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Efisɛ wo ho na matwɛn, Yawe; wo ne wobɛbua, Adonai, Eloohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "matwɛn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo ne wo"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "wobɛbua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:50.402812199Z",
+  "model": "glm-5.3"
+}

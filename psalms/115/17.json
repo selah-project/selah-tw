@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Awufoɔ mmɔ Yah anuonyam, na wɔn a wɔsiane kɔ sumina mu nso nyinaa mmɔ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mm"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "awufoɔ"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "mmɔ anuonyam"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nso mm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "wɔn a wɔsiane kɔ"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sumina mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:01.865679947Z",
+  "model": "glm-5.3"
+}

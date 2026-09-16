@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Saul hunuu ⟨את⟩ Peleshtifoɔ asraafoɔ mmoakankye, na ɔsuroo, na n'akoma dirii yie paa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleshtifoɔ asraafoɔ mmoakankye"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "asraafoɔ mmoakankye"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtifoɔ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ɔsuroo"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "na ... dirii yie"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "n'akoma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:04.863794292Z",
+  "model": "glm-5.3"
+}

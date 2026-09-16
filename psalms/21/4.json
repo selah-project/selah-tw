@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ɛfiri sɛ woanim no hyia nhyira pa; wode korɔa a ɛyɛ sikakɔkɔɔ sii ne ti so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "woanim no hyia"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "wode ... sii"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "ne ti so"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korɔa"
+    },
+    {
+      "surface": "פז",
+      "gloss": "sikakɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:52.736182448Z",
+  "model": "glm-5.3"
+}

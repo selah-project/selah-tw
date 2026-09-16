@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Sɛdeɛ wesu wɔ awia bere mu, na te sɛ osuo wɔ awobere mu, saa na anuonyam mfata akwashia.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "te sɛ wesu"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "wɔ awia bere mu"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "na te sɛ osuo"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "wɔ awobere mu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mfata"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "(fata)"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "akwashia"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "anuonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T03:04:00.419254352Z",
+  "model": "glm-5.3"
+}

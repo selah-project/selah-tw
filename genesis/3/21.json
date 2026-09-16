@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe Eloohim yɛɛ Adam ne ne yere atadeɛ a wɔde nwoma ayɛ, na ɔhyɛɛ wɔn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "ne ne yere"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "a wɔde nwoma ayɛ"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "na ɔhyɛɛ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:14.029200701Z",
+  "model": "glm-5.3"
+}

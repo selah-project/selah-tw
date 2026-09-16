@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 98,
+  "translation": "Bɔ nnwom maa Yawe wɔ kinor so; wɔ kinor so ne nnwom ⟨nne⟩.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "bɔ nnwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wɔ kinor so"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wɔ kinor so"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ne ... nne"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "nnwom"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:48.411281774Z",
+  "model": "glm-5.3"
+}

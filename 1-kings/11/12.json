@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Nanso wɔ wo nnɛmu deɛ, mɛnyɛ biara; ɛfiri Dawid wo agya nti; mɛtetew afiri wo ba nsa mu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "wɔ wo nnɛmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔnni bi"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "mɛnyɛ bi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ɛfiri ... nti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi ... nsa mu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "mɛtetew"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:56.586651419Z",
+  "model": "glm-5.3"
+}

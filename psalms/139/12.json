@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Ansumhyɛn nso rentumi nnyɛ sum mfri wo hɔ; anadwo no bɛhyerɛn sɛ owigyinaeɛ; ansumhyɛn te sɛ hann ma wo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ansumhyɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rentumi nn-"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "nyɛ sum"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mfri wo hɔ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "anadwo no nso"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sɛ owigyinaeɛ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "bɛhyerɛn"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ansumhyɛn te sɛ"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:19.912403030Z",
+  "model": "glm-5.3"
+}

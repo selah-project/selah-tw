@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wɔkyɛɛ ⟨את⟩ asase no wɔ wɔn ntam de abrɛ mu; Achab ne ho faa ɔkwan baako so, na Obadia nso ne ho faa ɔkwan baako so.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "wɔkyɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn ntam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "de abrɛ mu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "faa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɔkwan … so"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "na Obadia"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "faa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɔkwan … so"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:13.178847114Z",
+  "model": "glm-5.3"
+}

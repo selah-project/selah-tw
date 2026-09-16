@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 23:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na mɛboaboa ⟨את⟩ me nguankwa nkaeɛ no ano firi amanaman nyinaa a mekɔɔm ⟨את⟩ wɔn hɔ; na made wɔn bɛsan wɔn ahome hɔ, na wɔbɛyɛ nnɔbaeɛ, na wɔdɔɔso.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "bɛboaboa ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nguankwa nkaeɛ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "me nguankwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הדחתי",
+      "gloss": "mekɔɔm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "na made wɔn bɛsan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "נוהן",
+      "gloss": "ahome"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "na wɔbɛyɛ nnɔbaeɛ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na wɔdɔɔso"
+    }
+  ],
+  "timestamp": "2026-09-16T00:16:18.400312534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Samuel kasa kyerɛɛ nnipa no ⟨את⟩ ahenni no mmara, ɔtwerɛɛ wɔ nwoma mu, de sii hɔ gyinaa Yawe anim, na Samuel de ⟨את⟩ nnipa no nyinaa kɔɔ fie, onipa biara kɔɔ ne fie.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ (-direction)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahenni no mmara"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mmara (atemmu)"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ahenni no"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ɔtwerɛɛ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "wɔ nwoma mu"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "de sii hɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gyinaa ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "de ... kɔɔ fie (gyaee)"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kɔɔ ne fie"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:55.606869086Z",
+  "model": "glm-5.3"
+}

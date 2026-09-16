@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Hwɛ wo ho so, sɛ wo werɛ mfi Yawe, deɛ ɔdii wo firii Misraim asase mu, afi akodie fie mu no,",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Hwɛ wo ho so"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛ ... mfi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wo werɛ mfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ɔdii wo firii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "afi ... fie mu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "akodie"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:34.689103876Z",
+  "model": "glm-5.3"
+}

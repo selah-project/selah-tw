@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yawe kaa kyerɛɛ no se: Frɛ no din Yizreel, ɛfiri sɛ kakra bi ara na metua Yizreel mogya no ka wɔ Yehu fie so, na made Israel fie ahenni no agyaw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "no din"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kakra bi ara"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra bi ara"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "metua ... ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel mogya"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "made ... agyaw"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ahenni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T01:04:04.088872416Z",
+  "model": "glm-5.3"
+}

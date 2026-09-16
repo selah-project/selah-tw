@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na wo, hyɛ ⟨את⟩ Yisrael mma sɛ wɔmmfa nsuo a ɛfi anywam mu a ɛteɛ a wɔabɔ ayɛ no abrɛ wo, ama adwera, na ɛde hyerɛn bɛto so daa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "hyɛ ... sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wɔmmfa ... abrɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "abrɛ wo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "זית",
+      "gloss": "anywam"
+    },
+    {
+      "surface": "זך",
+      "gloss": "a ɛteɛ"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "a wɔabɔ ayɛ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ama adwera"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "na ɛde hyerɛn bɛto so"
+    },
+    {
+      "surface": "נר",
+      "gloss": "adwera"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:18.221723169Z",
+  "model": "glm-5.3"
+}

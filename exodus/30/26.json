@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wode bɛsra no so ⟨את⟩ nhyehyɛeɛ dan no, ne ⟨את⟩ adesoa kasamu no adaka no.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "na wode bɛsra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyehyɛeɛ dan no"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "adesoa kasamu no adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adesoa kasamu no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:36.847195634Z",
+  "model": "glm-5.3"
+}

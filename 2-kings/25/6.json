@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wɔkyeree ⟨את⟩ ɔhene no, na wɔde ⟨את⟩ no kɔɔ Babilon ɔhene nkyɛn, wɔ Ribla, na wɔbuu no atenaeɛ.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "wɔkyeree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wɔde ... kɔɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "wɔ Ribla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "wɔbuu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no ho"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atenaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:37:38.043961082Z",
+  "model": "glm-5.3"
+}

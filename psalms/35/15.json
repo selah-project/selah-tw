@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Sɛ me nan yɛɛ pyɛ no, wɔnkommyɛɛ, na wɔboaboaa wɔn ho ano; nkokɔfoɔ no boaboaa wɔn ho ano tia me, na mannim; wɔtetee me, na wɔannya home.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "sɛ me nan yɛɛ pyɛ"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "wɔnkommyɛɛ"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "na wɔboaboaa wɔn ho ano"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "boaboaa wɔn ho ano"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "nkokɔfoɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mannim"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "wɔtetee me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "wɔannya home"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:25.631352105Z",
+  "model": "glm-5.3"
+}

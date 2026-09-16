@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Sorokɔ, Yawe; gye me, me Eloohim; ɛfiri sɛ woabɔ ⟨את⟩ m'atamfoɔ nyinaa wɔ wɔn anim, na woabu abɔnefoɔ no se.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sorokɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gye me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "woabɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'atamfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "wɔ wɔn anim"
+    },
+    {
+      "surface": "שני",
+      "gloss": "se"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ no"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "woabu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:53.348627645Z",
+  "model": "glm-5.3"
+}

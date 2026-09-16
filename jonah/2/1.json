@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Yawe sii sam kɛseɛ sɛ ɔbɛdidi ⟨את⟩ Yona; Yona tenaa sam no mu nna mmiɛnsa ne anadwo mmiɛnsa.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "sii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "sam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "sɛ ɔbɛdidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "sam no"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ne mmiɛnsa"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "anadwo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:16:31.895380222Z",
+  "model": "glm-5.3"
+}

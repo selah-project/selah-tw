@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "M'atamfoɔ de wɔn ani so home me so ɛda biara, ɛfiri sɛ dodoɔ na wɔko me so, Ekorɔ.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "home me so"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "wɔko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Ekorɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:31.651595604Z",
+  "model": "glm-5.3"
+}

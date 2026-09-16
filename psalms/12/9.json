@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Atifi-fɔfoɔ no nam kwanto a ɛfa so nyinaa, sɛnea obuo a wɔde ma abasamtu no, wɔ nnipa mma mu.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "kwanto a ɛfa so nyinaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "atifi-fɔfoɔ no"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "nam"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "sɛnea obuo a wɔde ma"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "abasamtu no"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nipa mma"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:08.849937450Z",
+  "model": "glm-5.3"
+}

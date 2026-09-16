@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "Esiane w'akoa Dawid nti, mmfa wo Mashíach anim nkɔ.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "esiane ... nti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "w'akoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mm"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "wo Mashíach"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:24.215926297Z",
+  "model": "glm-5.3"
+}

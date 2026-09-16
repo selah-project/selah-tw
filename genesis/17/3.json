@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Abram tɔɔ n'ani ase, na Eloohim kasa kyerɛɛ ⟨את⟩ no sɛ:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "tɔɔ ase"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'ani"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na ɔkasa kyerɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne no",
+      "marks": "no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:16.389529657Z",
+  "model": "glm-5.3"
+}

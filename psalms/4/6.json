@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Monbɔ afɔreyɛ a atemmuo wɔ mu, na monhoahoa mo ho wɔ Yawe mu.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "monbɔ afɔreyɛ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "afɔreyɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atemmuo"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "na monhoahoa mo ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:44.846167351Z",
+  "model": "glm-5.3"
+}

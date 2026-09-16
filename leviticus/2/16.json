@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔsɔfoɔ no de ⟨את⟩ nkaeɛ-ba no bɛhyɛ ogya mu — aburoo a wɔatu no mu fa ne ngo mu fa — ne lebona nyinaa; ɔgya afɔreɛ na ɛyɛ ama Yawe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "na … bɛhyɛ ogya mu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkaeɛ-ba no"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "nkaeɛ-ba no"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "aburoo a wɔatu no mu fa"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ne ngo mu fa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne … nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "ne lebona"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔgya afɔreɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:21.362149699Z",
+  "model": "glm-5.3"
+}

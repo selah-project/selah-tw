@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wɔ asase a moawura nyinaa mu, moma ntetee-so (geullah) ma asase no.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "na wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "a moawura"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "ntetee-so (geullah)"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "moma"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ma asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:04.820000505Z",
+  "model": "glm-5.3"
+}

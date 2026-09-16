@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe kasa kɔɔ Moshe so, se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kɔɔ so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ ... so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:21.102709186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Adanseɛ a ɔyɛ nokware no nntoromu; na obi a ɔto torom no bɔ torommɔ nsɛm — ɛyɛ adanseɛ-atoro.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "adanseɛ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "a ɔyɛ nokware"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "toromu"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "na obi a ɔto torom"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "torommɔ nsɛm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "adanseɛ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "atoro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:51:56.141541057Z",
+  "model": "glm-5.3"
+}

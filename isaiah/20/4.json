@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Saa ara na Ashur ɔhene bɛdwenna ⟨את⟩ Misraim nnamfoɔ, ne ⟨את⟩ Kus amantufoɔ — mmabawa ne mmerɛfoɔ — aketefua ne nananso, na wɔabɔ wɔn akyi so da — Misraim animtew.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Saa ara"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "bɛdwenna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim nnamfoɔ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "nnamfoɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Kus amantufoɔ"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "amantufoɔ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kus"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mmabawa"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ne mmerɛfoɔ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "aketefua"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ne nananso"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "na wɔabɔ ... da"
+    },
+    {
+      "surface": "שת",
+      "gloss": "wɔn akyi so"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "animtew"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:48:19.001942053Z",
+  "model": "glm-5.3"
+}

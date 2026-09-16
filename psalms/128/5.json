@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 128,
+  "translation": "Yawe nhyira wo firi Tsiyon mu; na hunu Yerusalem deɛ ɛyɛ papa, wo nkwa nna nyinaa.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "nhyira wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "firi Tsiyon mu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na hunu"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "deɛ ɛyɛ papa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "wo nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:34.849648718Z",
+  "model": "glm-5.3"
+}

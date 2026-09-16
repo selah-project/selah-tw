@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Saa da no mu, Yawe nhwiren bɛba — ɛbɛyɛ anuonyam ne ahotosoɔ; na asase no aba bɛyɛ ahemman ne fɛfɛɛfɛ mma wɔn a wɔaguan wɔ Israel mu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "saa da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "nhwiren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "anuonyam"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "ne ahotosoɔ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na ... aba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ahemman"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ne fɛfɛɛfɛ"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "mma wɔn a wɔaguan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:41:12.873320971Z",
+  "model": "glm-5.3"
+}

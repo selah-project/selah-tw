@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "M'akoma bɔ dede, me ahoɔden agyaw me; na m'ani adeɛ nso, ɛno nso ⟨את⟩ nni me nkyɛn.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "m'akoma"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "bɔ dede"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "agyaw me"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "me ahoɔden"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na ... adeɛ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɛno nso"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me nkyɛn",
+      "marks": "me nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:10.747341769Z",
+  "model": "glm-5.3"
+}

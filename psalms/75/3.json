@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Sɛ megye berɛ a wɔahyɛ da a, mene na mɛbu atɛn pɛpɛɛpɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "megye"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "berɛ a wɔahyɛ da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mene"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pɛpɛɛpɛ \/ tee"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mɛbu atɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:20.680277497Z",
+  "model": "glm-5.3"
+}

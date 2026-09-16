@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔ abɔfra yi ho na mibɔɔ mpaeɛ, na Yawe maa me ⟨את⟩ m'abisɛdeɛ a mabisaa no firii ne nkyɛn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wɔ … ho"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "mibɔɔ mpaeɛ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na … maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'abisɛdeɛ"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "m'abisɛdeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mabisaa no"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "firii ne nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T22:46:46.082298707Z",
+  "model": "glm-5.3"
+}

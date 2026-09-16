@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Yehonatan buaa ⟨את⟩ Saul: Dawid bisaa me paa sɛ ɔmfiri me nkyɛn nkɔ Betlehem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "bisaa paa"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "paa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "firi me nkyɛn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:33.955878280Z",
+  "model": "glm-5.3"
+}

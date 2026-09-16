@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Nea ɔde nsuo si n'ahemfie nsɛnkyerɛnne, ɔde omununkum yɛ ne kɔkɔɔdua, ɔnam mframa ntaban so.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Nea ɔde nsuo si nsɛnkyerɛnne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "n'ahemfie nsɛnkyerɛnne"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ɔde ... yɛ"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "omununkum"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "ne kɔkɔɔdua"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "ɔnam ... so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ntaban"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:03.839826948Z",
+  "model": "glm-5.3"
+}

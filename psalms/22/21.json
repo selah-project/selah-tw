@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Tiw me nkwa fi akofena mu; twitwa me baakofoɔ fi abirekyie no nsa mu.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Tiw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "fi akofena mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fi ... nsa mu"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "abirekyie"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "me baakofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:00.896070894Z",
+  "model": "glm-5.3"
+}

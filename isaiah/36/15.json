@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na mona Hizkiyahu mmɛgya ⟨את⟩mo ho ama Yawe, sɛ: Gyegye — Yawe bɛgyegye yɛn; kurow yi remma Ashur ɔhene nsa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na mona … mm"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "mmɛgya … ho ama"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…so (Yawe so)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Gyegye"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "bɛgyegye yɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "remma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:51.103271367Z",
+  "model": "glm-5.3"
+}

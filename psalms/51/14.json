@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "San de w'ahotɔ nkwigyeɛ no brɛ me, na honhom a ɛde ne ho bɔ mu mmɔ me mu.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "san de … brɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "nkwigyeɛ"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "w'ahotɔ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na honhom"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "a ɛde ne ho bɔ mu"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "mmɔ me mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:10.970344989Z",
+  "model": "glm-5.3"
+}

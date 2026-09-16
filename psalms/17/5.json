@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Me nananom atena wo mirem so; m'annantew annwommɔ.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "atena ... so"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "me nananom"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "wo mirem so"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ann-"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "nnwommɔ"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "m'annantew"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:18.528675842Z",
+  "model": "glm-5.3"
+}

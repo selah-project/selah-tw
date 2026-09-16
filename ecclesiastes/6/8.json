@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɛfiri sɛ, dɛn na ɔnimdefoɔ wɔ kyɛn akwadwofoɔ? Dɛn na ohiani a ɔnim sɛ ɔnam wɔ wɔn a wɔte ase anim no wɔ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "kyɛn"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ɔnimdefoɔ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "akwadwofoɔ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ohiani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ɔnim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "sɛ ɔnam"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wɔn a wɔte ase"
+    }
+  ],
+  "timestamp": "2026-09-16T03:56:25.280558276Z",
+  "model": "glm-5.3"
+}

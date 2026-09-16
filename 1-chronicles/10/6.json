@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Shaul wuiɛ, ne ne mma mmiɛnsa, na ne fie nyinaa — wɔn nyinaa wuiɛ bom.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "na ... wuiɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ne mma mmiɛnsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bom"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "wɔn nyinaa wuiɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:01.000458790Z",
+  "model": "glm-5.3"
+}

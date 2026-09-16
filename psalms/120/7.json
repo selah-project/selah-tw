@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 120,
+  "translation": "Me ⟨ne⟩ asomdwoeɛ; nanso sɛ meka a, wɔpɛ ɔko.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nanso sɛ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "meka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pɛ ɔko"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:57.182445990Z",
+  "model": "glm-5.3"
+}

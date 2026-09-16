@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Sɛdeɛ wɔbɛgye adiyin sɛ Yawe, wɔn agyapadifoɔ Eloohim — Abraham Eloohim, Isak Eloohim, ne Yakob Eloohim — na ada wo ho adi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "wɔbɛgye adiyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ada ... adi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "wɔn agyapadifoɔ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ne ... Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:41.874166694Z",
+  "model": "glm-5.3"
+}

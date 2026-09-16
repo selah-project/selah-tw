@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 112,
+  "translation": "Ne asefoɔ bɛyɛ akokodurufoɔ wɔ asase so; atɛnterɛnee asefoɔ no ⟨will⟩ ⟨be⟩ nkyirafua.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "akokodurufoɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "Ne asefoɔ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "asefoɔ no"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "atɛnterɛnee"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nkyirafua"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:19.518808123Z",
+  "model": "glm-5.3"
+}

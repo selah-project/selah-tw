@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Ɔsoro no — ɔsoro yɛ Yawe dea; nanso asase no ɔade ama adesamma mma.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Ɔsoro no"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "yɛ Yawe dea"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nanso asase no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔade ama"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adesamma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:42.614045179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 33:5",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Wɔreba akasa ⟨את⟩ Kasdim, na sɛdeɛ ɛbɛyɛ a wɔde ⟨את⟩ nnipa nnipadua a wɔatow agu ahyɛ mu — nnipa a mewɔɔ wɔn wɔ me nyeduam mu ne me sumina mu; na mmom mehyee me anim aseɛ firi ⟨the⟩ kuro yi so wɔ wɔn bone nyinaa ho.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "wɔreba"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "akasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kasdim"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "ולמלאם",
+      "gloss": "na wɔde ... ahyɛ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa nnipadua"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "nnipadua a wɔatow agu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "mewɔɔ wɔn"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "wɔ me nyeduam mu"
+    },
+    {
+      "surface": "ובחמתי",
+      "gloss": "ne me sumina mu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "mehyee me anim aseɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "firi kuro no so"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "wɔn bone"
+    }
+  ],
+  "timestamp": "2026-09-16T00:20:44.293426018Z",
+  "model": "glm-5.3"
+}

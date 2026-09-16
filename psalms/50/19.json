@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Wo nom ma ɔbone ho kwan, na wo tɛkɔm daabɔ bɔ so daa.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "wo nom"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ma ho kwan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ɔbone"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "na wo tɛkɔm"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "da so daa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "daabɔ bɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:01.920633881Z",
+  "model": "glm-5.3"
+}

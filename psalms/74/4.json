@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Wo atamfoɔ no resere denden wɔ wo nhyiam ase; wɔde wɔn nsɛnkyerɛnne sii hɔ sɛ nsɛnkyerɛnne.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "resere denden"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "wo atamfoɔ no"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ ... ase"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "wo nhyiam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wɔde ... sii hɔ"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "wɔn nsɛnkyerɛnne"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "sɛ nsɛnkyerɛnne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:42.114225844Z",
+  "model": "glm-5.3"
+}

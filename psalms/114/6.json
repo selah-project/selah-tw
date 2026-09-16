@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 114,
+  "translation": "Mmepɔ, ɛdeɛn na mo bɔ mmɔdɔ sɛ ntire? Mmebɔ nso, sɛ nnwan mma?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Mmepɔ"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "mo bɔ mmɔdɔ"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "sɛ ntire"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "Mmebɔ"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sɛ mma"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nnwan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:44.296882427Z",
+  "model": "glm-5.3"
+}

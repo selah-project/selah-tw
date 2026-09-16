@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Yawe kaa se: Sɛdeɛ me akoadie Isaiah nnam aketefua ne nananso mfeɛ mmiɛnsa no, ɔbɛyɛ nsɛnkyerɛnne ne ɔyɛkyerɛ wɔ Misraim ne Kus so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nnam"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "me akoadie"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Isaiah"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "aketefua"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ne nananso"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "ne ɔyɛkyerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kus"
+    }
+  ],
+  "timestamp": "2026-09-15T23:48:19.001731184Z",
+  "model": "glm-5.3"
+}

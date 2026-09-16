@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Sɛnka na wo papa dɔɔso, a woasie ama wɔn a wɔsuro ⟨wo⟩, a woayɛ ama wɔn a wɔde wɔn ho to ⟨wo⟩ so, wɔ nnipa mma anim!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Sɛnka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "wo papa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "woasie"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ama wɔn a wɔsuro wo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "woayɛ"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "ama wɔn a wɔde wɔn ho to wo so"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:19.357797990Z",
+  "model": "glm-5.3"
+}

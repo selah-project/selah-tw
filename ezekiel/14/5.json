@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Sɛdeɛ Yawe bɛfa ⟨את⟩ Yisraɛl fie no mu wɔ wɔn akoma mu — nea wɔatwa wɔn ho afi me ho wɔ wɔn abosom mu, wɔn nyinaa.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "bɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl fie no mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "wɔ wɔn akoma mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "wɔatwa wɔn ho afi"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "afi me ho"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "wɔ wɔn abosom mu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wɔn nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:41:30.858961349Z",
+  "model": "glm-5.3"
+}

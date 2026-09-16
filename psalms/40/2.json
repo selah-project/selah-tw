@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Metwɛɛ twɛɛ mu maa Yawe, na ɔbrɛɛ ne ho ase hwɛɛ me, na ɔtee m'aserɛ.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "twɛɛ mu"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "metwɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "na ɔbrɛɛ ne ho ase"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hwɛɛ me"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na ɔtee"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "m'aserɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:23.621012806Z",
+  "model": "glm-5.3"
+}

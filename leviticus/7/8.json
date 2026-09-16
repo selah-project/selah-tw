@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɔsɔfoɔ a ɔde ⟨את⟩ onipa bi ola (nhyira afɔre) ba, ola no wedeɛ a ɔde bae no, ɛyɛ ɔsɔfoɔ no dea.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "na ɔsɔfoɔ"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "a ɔde ... ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa bi ola (nhyira afɔre)"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ola (nhyira afɔre)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa bi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wedeɛ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ola no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ɔde bae"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ɛyɛ ɔsɔfoɔ no dea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:11.778613201Z",
+  "model": "glm-5.3"
+}

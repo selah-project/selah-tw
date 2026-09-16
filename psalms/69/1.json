@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Deɛ ɔhwɛ nnwomtoɔ so no: ɛwɔ Shoshanninnim so; Dawid de.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔhwɛ nnwomtoɔ so no"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛwɔ ... so"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshanninnim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:30.014624358Z",
+  "model": "glm-5.3"
+}

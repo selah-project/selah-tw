@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na sɛ yaɔfɛ apue bɛpue ntɛmntɛm wɔ honam ani so, na yaɔfɛ no bɛkata ⟨את⟩ honam ani nyinaa a negerɛ no da so no, firi n'titi so kɔsi n'anan so, baabiara a ɛda ɔsɔfoɔ ani so;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "apue"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "bɛpue ntɛmntɛm"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "yaɔfɛ no"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "honam ani so"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "na ɛbɛkata"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "yaɔfɛ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "honam ani nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "honam ani"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "negerɛ no"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "firi n'itti so"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "n'anan so"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "baabiara"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "a ɛda"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:14:09.962963754Z",
+  "model": "glm-5.3"
+}

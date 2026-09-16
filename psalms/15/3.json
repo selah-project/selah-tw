@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Ɔntɔ nsɛm bɔne wɔ n'ano, ɔnyɛ bɔne de kyea ne yɔnko, na ɔnfa animtia amma ne yɔnko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɔn-"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tɔ nsɛm bɔne"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "n'ano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔn-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "animtia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔn-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "fa … amma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kyea"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ne yɔnko"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:09.624506279Z",
+  "model": "glm-5.3"
+}

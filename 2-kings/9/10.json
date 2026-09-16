@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na akokɔ bɛdi ⟨את⟩ Izebel wɔ Yizreel afuo mu, na obiara nni hɔ a ɔbɛsie no. Na ɔkɔmaa ɔtoa no, na oguanee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bɛdi"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "akokɔ"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "wɔ … afuo mu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na obiara nni hɔ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "a ɔbɛsie no"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "na ɔkɔmaa"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ɔtoa no"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "na oguanee"
+    }
+  ],
+  "timestamp": "2026-09-15T23:29:15.788656254Z",
+  "model": "glm-5.3"
+}

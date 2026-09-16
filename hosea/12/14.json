@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Yawe de ɔdiyifoɔ so maa ⟨את⟩ Israel sɔreɛ firi Misraim mu, na ɔdiyifoɔ so na wɔbɔɔ no ho ban.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "de ɔdiyifoɔ so"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "maa ... sɔreɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "firi Misraim mu"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "na ɔdiyifoɔ so"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "wɔbɔɔ no ho ban"
+    }
+  ],
+  "timestamp": "2026-09-16T01:07:31.532778640Z",
+  "model": "glm-5.3"
+}

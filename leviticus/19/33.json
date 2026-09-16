@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na sɛ ɔhɔhoɔ ba tena ⟨את⟩ mo nkyɛn wɔ mo asase mu, monnyɛ no amane.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ba tena"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ mo nkyɛn"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ɔhɔhoɔ"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "wɔ mo asase mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "monn-"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "nyɛ no amane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (ɔhɔhoɔ no)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:09.807641361Z",
+  "model": "glm-5.3"
+}

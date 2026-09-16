@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Yawe, mpɛ sɛ wobegye me; Yawe, yɛ ntɛm na woaba m'aboabo.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "mpɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "sɛ wobegye me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "m'aboabo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "yɛ ntɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:38.373766928Z",
+  "model": "glm-5.3"
+}

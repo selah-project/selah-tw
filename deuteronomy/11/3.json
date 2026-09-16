@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ne ⟨את⟩ ne nsɛnkyerɛnne ne ⟨את⟩ ne nnwuma a ɔyɛɛ wɔ Misraim mu, tia Paraο Misraim ɔhene, ne tia ne asase nyinaa,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nsɛnkyerɛnne"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "ne nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nnwuma"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ne nnwuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "tia Paraο"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ne tia … nyinaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ne asase"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:00.411540683Z",
+  "model": "glm-5.3"
+}

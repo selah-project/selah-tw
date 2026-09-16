@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na Yisrael mma bɛkora ⟨את⟩ shabbat no so, sɛ wɔyɛ ⟨את⟩ shabbat no wɔ wɔn nnuo mu, apam a ɛtra hɔ daa.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "na wɔbɛkora so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat no"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat no"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ wɔyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat no"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat no"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "wɔ wɔn nnuo mu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛtra hɔ daa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:14.629347437Z",
+  "model": "glm-5.3"
+}

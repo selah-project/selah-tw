@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Sɛnea Yawe hyɛɛ Moshe ⟨את⟩ nyinaa so na Yisraelfo mmamarima yɛɛ ⟨את⟩ adwuma no nyinaa pɛpɛɛpɛ.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pɛpɛɛpɛ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mmamarima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "adwuma no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:36.546163261Z",
+  "model": "glm-5.3"
+}

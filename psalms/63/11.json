@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 63,
+  "translation": "Wɔbɛto wɔn agu wɔ sekan aso; wɔbɛyɛ ɔkraman nom kyɛfa.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "wɔbɛto wɔn agu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ...so"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sekan"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "kyɛfa"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ɔkraman nom"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wɔbɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:16.849599714Z",
+  "model": "glm-5.3"
+}

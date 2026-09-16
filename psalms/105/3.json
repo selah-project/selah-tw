@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Fa ne din kronkron no hoahoa mo ho, akoma a wɔhwehwɛ Yawe no bɛgye ase.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "hoahoa (mo) ho"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "din mu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kronkron (ne dea)"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bɛgye ase"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wɔhwehwɛ (no)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:57.057629351Z",
+  "model": "glm-5.3"
+}

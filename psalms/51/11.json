@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Fa w'ani so firi me mfomasoɔ so, na pepa me nneyeɛ bɔne nyinaa fi hɔ.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "fa w'ani so firi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "me mfomasoɔ so"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "me ... nyinaa"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "nneyeɛ bɔne"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pepa fi hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:35.366358925Z",
+  "model": "glm-5.3"
+}

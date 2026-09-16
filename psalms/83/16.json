@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Saa ara na wode wo asorɔkye di wɔn akyi, na wode wo mframa-bɔne ma wɔsuro.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Saa ara"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "na wodi wɔn akyi"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "wode wo asorɔkye"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "na wode wo mframa-bɔne"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ma wɔsuro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:19.069903100Z",
+  "model": "glm-5.3"
+}

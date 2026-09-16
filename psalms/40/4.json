@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na ɔde dwom foforɔ too me ano, ayɛdeɛ ma yɛn Eloohim; bebree bɛhunu na wɔbɛsuro, na wɔde wɔn ho bɛto Yawe so.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔde ... too"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ayɛdeɛ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ma yɛn Eloohim"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bebree"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "na wɔbɛsuro"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "na wɔde wɔn ho bɛto ... so"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:23.621479941Z",
+  "model": "glm-5.3"
+}

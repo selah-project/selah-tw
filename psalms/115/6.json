@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Aso wɔ wɔn mu nanso wɔntie; hwene wɔ wɔn mu nanso wɔnsusu nka.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Aso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔ wɔn mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "wɔntie"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hwene"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔ wɔn mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "wɔnsusu nka"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:39.511813550Z",
+  "model": "glm-5.3"
+}

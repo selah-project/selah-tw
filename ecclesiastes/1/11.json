@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔn a wɔdi kan no nkaeɛ nni hɔ; na wɔn a wɔbɛba akyire no nso, wɔn nkaeɛ renka wɔn a wɔbɛba wɔ wɔn akyire no ho.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ma wɔn a wɔdi kan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "ma wɔn a wɔbɛba akyire"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "a wɔbɛba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "renka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "a wɔbɛba"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "a wɔbɛba wɔ akyire"
+    }
+  ],
+  "timestamp": "2026-09-16T03:51:58.424762763Z",
+  "model": "glm-5.3"
+}

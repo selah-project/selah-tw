@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na berɛ bi baeɛ, wɔ asɛm yi akyi, na Eloohim sɔɔ Abraham hwɛɛ, na ɔfrɛɛ no se: Abraham. Na ɔkaa se: Mehwn me.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "baeɛ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "asɛm yi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "na Eloohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "sɔɔ hwɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔfrɛɛ no"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa se"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mehwn me"
+    }
+  ],
+  "timestamp": "2026-09-15T20:24:17.561957698Z",
+  "model": "glm-5.3"
+}

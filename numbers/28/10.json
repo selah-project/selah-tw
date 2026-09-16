@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Sabat afɔdeɛ a wɔhye no, wɔ ne Sabat mu no, a ɛka daa afɔdeɛ a wɔhye no ho, ne ne nsu-gu.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "afɔdeɛ a wɔhye"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "wɔ ne Sabat mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ɛka ... ho"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "afɔdeɛ a wɔhye"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "daa no"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ne ne nsu-gu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:47.744599031Z",
+  "model": "glm-5.3"
+}

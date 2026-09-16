@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 21:17",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Kasa kɔ Aharon, ka sɛ: ɔbarima biara a ofi wo aba mu, wɔ wɔn nkyirɛma mu, a mumu bɛwɔ ne mu, ɔmmɔnmmɔn bɛto n'Eloohim aduane.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima biara"
+    },
+    {
+      "surface": "מזרעך",
+      "gloss": "afi wo aba mu"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "wɔ wɔn nkyirɛma mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛwɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne mu"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mm"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "mmɔnmmɔn"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "bɛto"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "n'Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:10.699276538Z",
+  "model": "glm-5.3"
+}

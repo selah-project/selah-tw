@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Yosef yii ⟨את⟩ wɔn firi n'agya anan mu, na ɔkɔgyinaa ase wɔ n'anim, wɔde ne tirii guu asase so.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "firi ... mu"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "n'agya anan"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ɔkɔgyinaa ase"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "wɔ n'anim \/ ne tirii"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:12.859605292Z",
+  "model": "glm-5.3"
+}

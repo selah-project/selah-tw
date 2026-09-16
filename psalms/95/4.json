@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Deɛ ne nsa mu na asase nkyɛnmu wɔ, na mmepɔ atifi ne dea.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Deɛ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ne nsa mu"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "nkyɛnmu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:40.744538204Z",
+  "model": "glm-5.3"
+}

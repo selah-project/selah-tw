@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Yawe din εnkyerɛ hyira, firi ⟨ɛnnɛ⟩ de kɔsi ⟨ntoasoɔ⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "εnkyerɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "hyira"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "firi ɛnnɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ntoasoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:47.632388549Z",
+  "model": "glm-5.3"
+}

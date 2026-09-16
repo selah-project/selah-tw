@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Saa bere no, ahonimfoɔ ani bɛbue, na ebinom aso nso bɛbue.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "bɛbue"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ahonimfoɔ"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "na aso"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ebinom"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "bɛbue"
+    }
+  ],
+  "timestamp": "2026-09-16T05:25:03.510609607Z",
+  "model": "glm-5.3"
+}

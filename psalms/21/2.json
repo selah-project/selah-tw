@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Yawe, ɔhene di anigye wɔ wo ahoɔden mu, na wɔ wo nkwagyeɛ mu sɛnea dɔɔso ara na ɔgye ahomka!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "wɔ wo ahoɔden mu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "di anigye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "na wɔ wo nkwagyeɛ mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ɔgye ahomka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dɔɔso ara"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:52.732957609Z",
+  "model": "glm-5.3"
+}

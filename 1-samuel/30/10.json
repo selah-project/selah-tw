@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na David dii wɔn akyi, ɔno ne mmarima aha ɛnan; na mmarima aha mmienu gyinaa hɔ, wɔn a wɔn ho dwodwoeɛ no, wɔantwa ⟨את⟩ asubɔnten Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "dii wɔn akyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ne ɛnan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "gyinaa hɔ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "aha mmienu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "wɔn ho dwodwoeɛ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "wɔantwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asubɔnten Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:56.499216249Z",
+  "model": "glm-5.3"
+}

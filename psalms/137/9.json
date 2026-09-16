@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 137,
+  "translation": "Nasɛ onipa a ɔbɛsɔ no afiri na ɔbɛto ⟨את⟩ wo mmɔfra ntɛm adi wɔ ɔbo no so.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nasɛ"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "a ɔbɛsɔ no afiri"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "na ɔbɛto ... adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo mmɔfra ntɛm"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "wo mmɔfra ntɛm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ɔbo no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:04.712761279Z",
+  "model": "glm-5.3"
+}

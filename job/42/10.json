@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Na Yawe sesaa ⟨את⟩ Ayub aseraw εberε a na ɔrebɔ mpaeɛ ma ne yɔnko; na Yawe maa ⟨את⟩ deε ɛwɔ Ayub nyinaa yɛɛ mmienu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sesaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayub aseraw"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "aseraw"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "εberε a na ɔrebɔ mpaeɛ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "maa...dodow"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deε ɛwɔ Ayub nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deε"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "mmienu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:42:05.075828794Z",
+  "model": "glm-5.3"
+}

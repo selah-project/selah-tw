@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Sɛ nguan no ara wɔde wɔn ahyɛ Seol mu; owu na ɔbɛhwɛ wɔn so sɛ nguanhwɛfo, na apapafo bɛdi wɔn so wɔ anɔpa mu; wɔn nsɛso ara na Seol bɛdabiri ama no, sɛ atenaeɛ ama no.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "sɛ nguan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ama Seol"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wɔahyɛ wɔn"
+    },
+    {
+      "surface": "מות",
+      "gloss": "owu"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ɔbɛhwɛ wɔn so sɛ nguanhwɛfo"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "na bɛdi so"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "apapafo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "wɔ anɔpa mu"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "wɔn nsɛso"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "bɛdabiri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "atenaeɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ama no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:38.151521919Z",
+  "model": "glm-5.3"
+}

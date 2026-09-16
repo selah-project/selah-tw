@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Mma woanim nkyerɛ me wɔ me haw da mu; brɛ wo aso mmɛhwɛ me so; ɛda a mefrɛ wo no, ntɛm mma m'asɛm so.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mma ... nkyerɛ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "nkyerɛ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "woanim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da mu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "me haw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "brɛ ... mmɛhwɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "wo aso"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ɛda a"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mefrɛ wo no"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ntɛm"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mma m'asɛm so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:09.890079174Z",
+  "model": "glm-5.3"
+}

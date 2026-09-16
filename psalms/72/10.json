@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Tarshis ahemfo ne nsubɔntene mu aman ahemfo bɛde asadeɛ aba; Sheba ne Seba ahemfo bɛde akatua bra.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshis"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ne nsubɔntene mu aman ahemfo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "asadeɛ"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bɛde ... aba"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ne Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "akatua"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bɛde ... bra"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:18.811997509Z",
+  "model": "glm-5.3"
+}

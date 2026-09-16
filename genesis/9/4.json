@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Acha nipsam a ne nkwa wɔ mu — ne mogya no — mo nni no.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Acha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nipsam"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ne nkwa wɔ mu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ne mogya no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nni no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:47.233277781Z",
+  "model": "glm-5.3"
+}

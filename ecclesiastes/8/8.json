@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Onipa nni hɔ a ɔwɔ tumi wɔ honhom so de asiw ⟨את⟩ honhom no ano; na ɔnni tumi wɔ ɔwuo da no mu; na mmae nni ɔko mu; na bɔne nnyegye ⟨את⟩ ne wura.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "ɔwɔ tumi"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "honhom so"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "de asiw ... ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "honhom no"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "honhom no"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "tumi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ɔwuo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ɔko mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... n-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "nyegye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne wura"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ne wura"
+    }
+  ],
+  "timestamp": "2026-09-16T03:56:38.686449784Z",
+  "model": "glm-5.3"
+}

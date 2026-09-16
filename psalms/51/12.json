@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Bɔ akoma kronkron foforɔ ma me, Eloohim, na honhom a ɛgyina pintinn no sɔ wɔ me mu.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "kronkron foforɔ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "a ɛgyina pintinn"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sɔ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "wɔ me mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:35.367488769Z",
+  "model": "glm-5.3"
+}

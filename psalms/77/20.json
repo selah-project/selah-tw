@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "W'akwan no ⟨yɛ⟩ wɔ ɛpo mu, na w'akwansin wɔ nsu dodoɔ mu, nanso wo nan ase nsɛnkyerɛnneɛ no, obiara ⟨annim⟩.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "wɔ ɛpo mu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "w'akwan no"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "w'akwansin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "wɔ nsu dodoɔ mu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "wo nan ase nsɛnkyerɛnneɛ no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nanso... obiara"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "⟨annim⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:57.894223465Z",
+  "model": "glm-5.3"
+}

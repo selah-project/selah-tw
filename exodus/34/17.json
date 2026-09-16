@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Woammɛyɛ wo ho Eloohim a wɔatoow dɔte ayɛ.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "a wɔatoow dɔte ayɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woammɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:02:49.992484013Z",
+  "model": "glm-5.3"
+}

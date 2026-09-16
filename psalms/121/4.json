@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Hwɛ, deɛ ɔhwɛ Israël so no rentwa nkontompo, na ɔrennda.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren- (negation)"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ntwa nkontompo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... ren-"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "nda"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "deɛ ɔhwɛ ... so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:05.692329339Z",
+  "model": "glm-5.3"
+}

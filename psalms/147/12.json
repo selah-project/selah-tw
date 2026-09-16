@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Yerusalem, bɔ ⟨את⟩ Yawe abaso; Zion, kamfo wo Eloohim.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "bɔ ... abaso"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "kamfo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:56.762283450Z",
+  "model": "glm-5.3"
+}

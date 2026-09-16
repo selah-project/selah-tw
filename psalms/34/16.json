@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Yawe ani tua ⟨⟨ɔba⟩⟩ atemmufoɔ so, na n'aso tua wɔn sekan ho.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tua ... so"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atemmufoɔ"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "na n'aso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tua ... ho"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "wɔn sekan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:34.713025546Z",
+  "model": "glm-5.3"
+}

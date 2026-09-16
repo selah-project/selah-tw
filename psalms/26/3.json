@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "ɛfiri sɛ w'ahobammɔ hesed gyina me ani so, na manam w' nokwaredie mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "w'ahobammɔ hesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani so"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "na manam"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "w' nokwaredie mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:07.309315154Z",
+  "model": "glm-5.3"
+}

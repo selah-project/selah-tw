@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Enti wɔde Haman sii ⟨את⟩ dua no so a ɔno ankasa yɛɛ de maa Mordokay, na ɔhene no abufuo no brɛe ase.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "wɔde ... sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "... so"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dua no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "de maa Mordokay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "brɛe ase"
+    }
+  ],
+  "timestamp": "2026-09-16T04:01:03.525656022Z",
+  "model": "glm-5.3"
+}

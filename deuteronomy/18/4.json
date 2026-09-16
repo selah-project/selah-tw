@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wo bayerɛ, wo nsam-nufuɔ ne ngo no mfiaseɛ, ne wo nguanɔ nwoma mfiaseɛ na wo bɛma no.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "mfiaseɛ"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "wo bayerɛ"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "wo nsam-nufuɔ"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "ne ngo"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ne ... mfiaseɛ"
+    },
+    {
+      "surface": "גז",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "wo nguanɔ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wo bɛma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:19.883184056Z",
+  "model": "glm-5.3"
+}

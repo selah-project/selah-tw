@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Shaúl faa no da no ankasa mu, na ɔmmaa no kwan ma ɔnsan nkɔ n'agya fie.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "faa no"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ankasa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... mm"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "maa no kwan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "nsan nkɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:16.055614974Z",
+  "model": "glm-5.3"
+}

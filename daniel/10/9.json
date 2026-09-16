@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na metee ⟨את⟩ nne nsɛm no; na sɛ metee ⟨את⟩ nne nsɛm no a, medae wɔ me anim, na me ani sii asase so.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "na metee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "nsɛm no"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "na sɛ metee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "nsɛm no"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "dae dedaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na me ani"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T04:13:16.851203305Z",
+  "model": "glm-5.3"
+}

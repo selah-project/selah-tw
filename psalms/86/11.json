@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Kyerɛkyerɛ me wo kwan, Yawe, na mede nokorɛ bɛnantew; ɛka me akoma ma ɛnyɛ baako sɛ ɛbɛsuro wo din.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "kyerɛkyerɛ me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "wo kwan"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "bɛnantew"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "wɔ wo nokorɛ mu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ma ɛnyɛ baako"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "sɛ ɛbɛsuro"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:27.587607971Z",
+  "model": "glm-5.3"
+}

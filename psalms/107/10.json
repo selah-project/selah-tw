@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Wɔn a wɔtenaa sum mu ne owu sum ase, nnommum a wɔasɔ wɔn wɔ ahohia ne dadeɛ mu,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Wɔn a wɔtenae"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sum"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ne owu sum"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "nnommum a wɔasɔ wɔn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wɔ ahohia"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ne dadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.311987031Z",
+  "model": "glm-5.3"
+}

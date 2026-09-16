@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Aduan biara a wɔn nkwa dɔ so, na wɔduru awu ɛpono ano.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aduan"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "wɔdɔ so"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn nkwa"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "na wɔduru…ano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ano (kɔsi)"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "מות",
+      "gloss": "awu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:36.794577695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Sɛ me asɛm, Eloohim, na sɔ me atesɛm ano tia ɔman a ɛnyɛ apapafoɔ, na ma menyini afiri ɔbarima a ɔyɛ nniɛ ne awudi mu.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "sɛ me asɛm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "na sɔ... ano"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "me atesɛm"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "afia ɔman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ɛnyɛ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "apapafoɔ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "afiri ɔbarima"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "a ɔyɛ nniɛ"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ne awudi"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ma menyini"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:35.712837540Z",
+  "model": "glm-5.3"
+}

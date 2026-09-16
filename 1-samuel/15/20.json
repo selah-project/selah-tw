@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Saul kaa kyerɛɛ Shemuɛl sɛ: Aane, matiee Yawe nne, na medi ɛkwan a Yawe somaa me no so, na mede ⟨את⟩ Agag, Amalek ɔhene no, baeɛ, na mehyɛɛ ⟨את⟩ Amalek herem mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kaa sɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "matiee"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "na medi ... so"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɛkwan ... so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "somaa me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "na mede ... baeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "mehyɛɛ herem mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:04.632777919Z",
+  "model": "glm-5.3"
+}

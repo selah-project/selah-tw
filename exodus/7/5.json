@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Misraim bɛhu sɛ me ne Yawe, bere a mete me nsa gu Misraim so, na mede Yisrael mma fi wɔn mu no.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bɛhu sɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "bere a mete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "gu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim so"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "na mede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "fi wɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:44:42.475347804Z",
+  "model": "glm-5.3"
+}

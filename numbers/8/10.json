@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na wode ⟨את⟩ Lalifim bɛba Yawe anim, na Israel mma de ⟨את⟩ wɔn nsa bɛto Lalifim so.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "na wode…ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lalifim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lalifim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "na wɔbɛto…gu so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lalifim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:02.282674988Z",
+  "model": "glm-5.3"
+}

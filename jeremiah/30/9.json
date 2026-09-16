@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wɔbɛsom ⟨את⟩ Yawe wɔn Eloohim, ne ⟨את⟩ Dawid wɔn ɔhene, a mɛsɔre sɛ ɛwɔ hɔ ma wɔn.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "na wɔbɛsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe wɔn Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid wɔn ɔhene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "wɔn ɔhene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "mɛsɔre sɛ ɛwɔ hɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ma wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T00:18:55.469232939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ɔkaa sɛ: ɛfiri sɛ nsa da Yah ahemman so, Yawe ne Amalek bɛkɔ ɔko mu firi awoɔ ntoatoaso kɔ awoɔ ntoatoaso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "כס",
+      "gloss": "ahemman"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe dea"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "ne Amalek"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "firi awoɔ ntoatoaso"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kɔ awoɔ ntoatoaso"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:21.141922068Z",
+  "model": "glm-5.3"
+}

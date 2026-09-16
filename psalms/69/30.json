@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Na me de, merɛyɛ ohia na amerɛhyɛdɛ me; wo nkwigyimaeɛ, Eloohim, bɛma me soro.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me de"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ohia"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "amerɛhyɛdɛ"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "wo nkwigyimaeɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "bɛma me soro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:49.128012626Z",
+  "model": "glm-5.3"
+}

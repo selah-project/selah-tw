@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Sommo ⟨את⟩ Yawe wɔ suro mu, na montew anigye wɔ brɛmmɔ mu.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Sommo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "wɔ suro mu"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "na montew anigye"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "wɔ brɛmmɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:46.211538733Z",
+  "model": "glm-5.3"
+}

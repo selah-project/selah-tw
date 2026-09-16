@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ne hwam ne deɛ wɔatɛte no, ɔnnidi mu de abɔ ne ho mfifiri; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "ne hwam (nnwan a ɛwu ankasa)"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ne deɛ wɔatɛte no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔnnidi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nnidi"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "de abɔ ne ho mfifiri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:00.133991949Z",
+  "model": "glm-5.3"
+}

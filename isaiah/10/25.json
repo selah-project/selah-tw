@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Aseɛ sɛ daakye kakra, kakra koraa, na abufuo no bɛwie, na m'anibere bɛba wɔ wɔn sɛeɛ mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Aseɛ sɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daakye"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "kakra koraa"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "na ... bɛwie"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "abufuo no"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "na m'anibere"
+    },
+    {
+      "surface": "על",
+      "gloss": "bɛba wɔ"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "wɔn sɛeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:16.704372555Z",
+  "model": "glm-5.3"
+}

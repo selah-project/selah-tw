@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na mobuabuo no bɛduru mmoa-asie bere so, na mmoa-asie no bɛduru ɔbɔ bere so, na mode mo aduane no bɛdi kɔ ahokyere so, na mote mo asase so wɔ asomdwoeɛ mu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "bɛduru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "mobuabuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmoa-asie"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "mmoa-asie"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "na mmoa-asie"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "bɛduru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbɔ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ɔbɔ"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "na mode mo aduane no bɛdi"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "mo aduane"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kɔ ahokyere so"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "na mote"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "asomdwoeɛ mu"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "mo asase so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:42.499447096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Wɔhwɛɛ no so, na wɔhyerɛnee, na wɔn anim annfusee.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Wɔhwɛɛ ... so"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "na wɔhyerɛnee"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "wɔn ani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ann-"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "fusee"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:30.375942145Z",
+  "model": "glm-5.3"
+}

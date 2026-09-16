@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Yawe daa ⟨את⟩ Samuelo aso adi, ɛda baako ansa na Saforo bae, se:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "daa … adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuelo aso"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bae"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saforo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:22.144612528Z",
+  "model": "glm-5.3"
+}

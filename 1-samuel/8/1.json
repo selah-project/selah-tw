@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɛbaa sɛ, Sɛmuɛl senee no, ɔde ne mma mmarima yɛɛ atemmufoɔ wɔ Israelim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "senee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sɛmuɛl"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma mmarima"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma mmarima"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "atemmufoɔ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wɔ Israelim"
+    }
+  ],
+  "timestamp": "2026-09-16T06:03:18.348279552Z",
+  "model": "glm-5.3"
+}

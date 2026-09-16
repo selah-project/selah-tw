@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Nkum wɔn, na me nkorɔfoɔ nkaeɛ nkyerɛ; ma wɔnwarew wɔnware wɔ wo ahoɔden mu, na sisian wɔn, Adonai, yɛn sumuro.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nkum ... nkyerɛ"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "פן",
+      "gloss": "na ... nkyerɛ"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ma wɔnwarew wɔnware"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "wɔ wo ahoɔden mu"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "na sisian wɔn"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "yɛn sumuro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:42.874802426Z",
+  "model": "glm-5.3"
+}

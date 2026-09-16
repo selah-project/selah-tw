@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "na kɔfrɛ ⟨את⟩ nkurɔfoɔ dɔm no nyinaa bom wɔ Nhyiam Tɛntɛn no aniwa ano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkurɔfoɔ dɔm no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nkurɔfoɔ dɔm no"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kɔfrɛ ... bom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... aniwa ano"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aniwa ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tɛntɛn"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:46.515610602Z",
+  "model": "glm-5.3"
+}

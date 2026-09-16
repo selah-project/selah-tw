@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Asase ahemfo, ne amanaman nyinaa; ahemfo nkyerɛkyerɛfoɔ, ne asase atemmuofoɔ nyinaa,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Asase"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ahemfo nkyerɛkyerɛfoɔ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "atemmuofoɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:53.216717433Z",
+  "model": "glm-5.3"
+}

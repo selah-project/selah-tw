@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Yawe, Eloohim Tsoafoɔ, hwan na ɔte sɛ wo, Otumfoɔ Yah? Na wo nokorɛgyinaeɛ no atwa wo ho ahyia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsoafoɔ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sɛ wo"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "Otumfoɔ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "na wo nokorɛgyinaeɛ"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "atwa wo ho ahyia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:34.075995992Z",
+  "model": "glm-5.3"
+}

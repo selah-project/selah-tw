@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim yɛɛ ⟨את⟩ rakia no, na ɔkyɛɛ nsuo a ɛwɔ rakia no aseɛ firi nsuo a ɛwɔ rakia no so; na ɛbɛyɛɛ saa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na … yɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakia no"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakia no"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "na ɔkyɛɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kyɛ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia no"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "firi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "so"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia no"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na … bɛyɛɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:57.293327226Z",
+  "model": "glm-5.3"
+}

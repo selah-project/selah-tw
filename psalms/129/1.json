@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 129,
+  "translation": "Nkɔsoɔ nnwom. Dodoɔ na wɔyɛɛ me amane firi m'abɔfra berɛ mu — Israel nka se.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nkɔsoɔ"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "wɔyɛɛ me amane"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "firi m'abɔfra berɛ mu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mmpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:18.527789774Z",
+  "model": "glm-5.3"
+}

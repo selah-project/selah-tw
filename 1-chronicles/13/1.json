@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "David bɔɔ afutuo ne apem ne ɔha so akannifoɔ, ne akannifoɔ biara.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "bɔɔ afutuo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akannifoɔ a wɔwɔ"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "apem so"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ne ɔha so"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "biara wɔ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "akannifoɔ (a ɔdi kan)"
+    }
+  ],
+  "timestamp": "2026-09-16T04:42:05.089586919Z",
+  "model": "glm-5.3"
+}

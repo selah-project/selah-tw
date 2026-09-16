@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Nkwafuo ne wɔn a wɔhwɛ atemmu so, wɔyɛ atɛntrenee wɔ ɛberɛ nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nkwafuo ne"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "wɔn a wɔhwɛ ... so"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "atɛntrenee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ɛberɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:49.777488427Z",
+  "model": "glm-5.3"
+}

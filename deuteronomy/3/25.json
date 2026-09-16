@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ma me ntena mu nkɔso na me nhwɛ ⟨את⟩ asase pa no a ɛda Yordan no akyi, bepɔ pa yi, ne Lebanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ma me nkɔso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "me ti, me ntena mu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "na me nhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase pa no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "pa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ɛda ... akyi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan no"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ne Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:21.115154755Z",
+  "model": "glm-5.3"
+}

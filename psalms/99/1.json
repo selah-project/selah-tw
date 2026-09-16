@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 99,
+  "translation": "Yawe adi hene, mman no mmoroso; ɔte kerubim so ntɔmmɔ, asase no mmununkum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "adi hene"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "mmoroso"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mman no"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ɔte"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim so ntɔmmɔ"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "mmununkum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:25.063874655Z",
+  "model": "glm-5.3"
+}

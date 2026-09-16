@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Awurade Yawe, mepa wo kyɛw, εno ara, meyɛ wo akoa; meyɛ wo akoa, wo abayewa ba; woabue me nnamtee.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Awurade, mepa wo kyɛw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "εno ara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "meyɛ wo akoa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "meyɛ wo akoa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wo abayewa"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "woabue"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "me nnamtee"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:18.560279588Z",
+  "model": "glm-5.3"
+}

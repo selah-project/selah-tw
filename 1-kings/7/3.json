@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na wɔde sedua kataa so wɔ soro, wɔ mpɔtam a ɛda kɔlɔm aduanan ne num (aduanannum) no so — dumiɛnsa wɔ toa biara mu.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "na wɔde sedua kataa so"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sedua"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "wɔ soro"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "mpɔtam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kɔlɔm"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ne num"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "num"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "toa no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:18.439636693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 1:12",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔhemmaa Washti annye annyɛ sɛ ɔbɛba wɔ ɔhene no asɛm a ɔde akwammafoɔ no nsa baa no so; na ɔhene no bo yɛɛ den dodo, na ne abufuo hyɛɛ ogya mu wɔ ne mu.",
+  "tokens": [
+    {
+      "surface": "ותמאן",
+      "gloss": "annye annyɛ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ɔhemmaa"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washti"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sɛ ɔbɛba"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "wɔ ... asɛm mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa so"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "akwammafoɔ"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ne bo yɛɛ den"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "וחמתו",
+      "gloss": "ne abufuo"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "hyɛɛ ogya mu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wɔ ne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:28.433497693Z",
+  "model": "glm-5.3"
+}

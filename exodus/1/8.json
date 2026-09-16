@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Afei ɔhene foforɔ sɔree dii Misraim so, a ɔnnim ⟨את⟩ Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "di ... so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "(nim)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:54.928099590Z",
+  "model": "glm-5.3"
+}

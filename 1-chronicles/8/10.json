@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ne ⟨את⟩ Yeuts ne ⟨את⟩ Sakhia ne ⟨את⟩ Mirmah. Wɔn ne ne mma, ahemfo a wɔyɛ agyapadie afanu awfoɔ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Sakhia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wɔn ne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ahemfo (ti)"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "afanu awfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:33.153387017Z",
+  "model": "glm-5.3"
+}

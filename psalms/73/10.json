@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Ɛno nti ne man no sesan ba ha, na nsuo a ɛdɔɔso no wɔbɔ wobu gu wɔn so.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ɛno nti"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "sesan de ba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne man"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na nsuo a"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ɛdɔɔso"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "wɔbɔ wobu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "gu wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:57.409563123Z",
+  "model": "glm-5.3"
+}

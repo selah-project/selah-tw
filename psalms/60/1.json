@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Deɛ ɔdi nkwagyinafoɔ anim no de: wɔ Shushan-Eduth so; mikhtam a ɛyɛ Dawid dea, a wɔde kyerɛkyerɛ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔdi nkwagyinafoɔ anim no de"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a ɛyɛ Dawid dea"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "a wɔde kyerɛkyerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:28.674066943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Mma wo mfa me nkwa nkabom bɔnefoɔ ho, na mfa me nwuma nkabom mogya-ayɛfoɔ ho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mma"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "mfa …nkabom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…ho"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na …ho"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mogya-ayɛfoɔ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "me nwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:30.837006913Z",
+  "model": "glm-5.3"
+}

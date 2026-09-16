@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Yawe ka kyerɛɛ Mosɛ: Kɔkɔ Farao nkyɛn, na kasa nkyerɛ no sɛ: Sɛnea Yawe, Eloohim a ɔwɔ Hebrifoɔ no, seɛ esi: Soma ⟨את⟩ me nkomɔdeɛ ma wɔnkɔ, na wɔnsom me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yawe ka kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ … nkyɛn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Kɔkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na kasa nkyerɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛ: Sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "seɛ esi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim a ɔwɔ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrifoɔ no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Soma … ma wɔnkɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkomɔdeɛ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkomɔdeɛ"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "na wɔnsom me"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:49.705059603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Deɛ ɔdi nnwom no so; ɛwɔ Shoshannim-Edut (Sukɔfrɛ-Adanseɛ) so; adanseɛ; Asaf ayɛsɛm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔdi nnwom no so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛwɔ ... so"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut (adanseɛ)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf dea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ayɛsɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:47.879406365Z",
+  "model": "glm-5.3"
+}

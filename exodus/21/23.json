@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na sɛ ɔhaw ba a, wo de nkwa bɛma ma ⟨את⟩ nkwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "wo ... bɛma"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ma ... ⟨את⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:53:47.779249248Z",
+  "model": "glm-5.3"
+}

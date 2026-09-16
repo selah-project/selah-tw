@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na Saul hwehwɛɛ sɛ ɔde pɛnkɛm bɛto Dauid wɔ dam no mu; na ɔdwann firi Saul anim, na ɔtoaa ⟨את⟩ pɛnkɛm no wɔ dam no mu; na Dauid guanee, na ɔdwannee anadwo no mu.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "na ɔhwehwɛɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "sɛ ɔbɛto"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "pɛnkɛm"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "wɔ dam no mu"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "na ɔdwann"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na ɔtoaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pɛnkɛm no"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "pɛnkɛm no"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "wɔ dam no mu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dauid"
+    },
+    {
+      "surface": "נס",
+      "gloss": "guanee"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "na ɔdwannee"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo no mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:41.740491305Z",
+  "model": "glm-5.3"
+}

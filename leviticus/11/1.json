@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yawe kaa kyerɛɛ Mose ne Aharon, se kyerɛɛ wɔn:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne ... kyerɛɛ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kyerɛɛ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:42.620104844Z",
+  "model": "glm-5.3"
+}

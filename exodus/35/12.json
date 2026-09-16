@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "⟨את⟩ adaka no, ne ⟨את⟩ ne mma a wɔde fa no, ⟨את⟩ atifi no (kaporet), ne ⟨את⟩ ntrama no a ɛda (parochet), ɛyɛ ntokorɔ no.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ne mma a wɔde fa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atifi no"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "atifi no (kaporet)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ntrama no"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ntrama no (parochet)"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ntokorɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:02:44.449894151Z",
+  "model": "glm-5.3"
+}

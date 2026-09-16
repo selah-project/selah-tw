@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 98,
+  "translation": "Wakae ne hesed ne ne nokwaredie a ɔwɔ ma Yisrael fie; asase ntamatan nyinaa ahunu ⟨את⟩ yɛn Eloohim nkwagyeɛ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "wakae"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ne nokwaredie"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ma ... fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ahunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ntamatan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn Eloohim nkwagyeɛ"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "nkwagyeɛ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:42.728442162Z",
+  "model": "glm-5.3"
+}

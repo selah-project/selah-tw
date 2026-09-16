@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Daavid dea. Sɛ me asɛm, Yawe, ɛfiri sɛ menam me nokwaredie mu na mahyɛ Yawe mu, enti mpaemu da.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daavid dea"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "sɛ me asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "me nokwaredie mu"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "menam"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "na Yawe mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mahyɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "mpaemu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:07.305006009Z",
+  "model": "glm-5.3"
+}

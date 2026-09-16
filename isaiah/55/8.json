@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Ɛfiri sɛ me nsusuwii nyɛ mo nsusuwii, na mo nkwantennɔ nnyɛ me nkwantennɔ, Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "me nsusuwii"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "mo nsusuwii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nnyɛ"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mo nkwantennɔ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "me nkwantennɔ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:46.782523651Z",
+  "model": "glm-5.3"
+}

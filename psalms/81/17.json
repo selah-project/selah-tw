@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Na ɔmaa no diid wɔ aburoo ⟨mu papa⟩, na obuo mu adɛ mɛma wo kɔ ma.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "na ɔmaa no dii"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "mu papa (deɛ ɛyɛ dɛ paa)"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "aburoo"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "na wɔ obuo mu"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "adɛ"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "mɛma wo kɔ ma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:20.614269111Z",
+  "model": "glm-5.3"
+}

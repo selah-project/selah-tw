@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Nneɛma mmienu na misrɛɛ firi wo ⟨את⟩ nkyɛn; ampere me ansa na mawuwu.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Nneɛma mmienu"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "misrɛɛ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "firi wo ⟨את⟩",
+      "marks": "nkyɛn — wo (Eloa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ampere"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "me"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "me"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mawuwu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:07:21.285025257Z",
+  "model": "glm-5.3"
+}

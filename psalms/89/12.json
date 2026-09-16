@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Ɔsoro ⟨yɛ⟩ wo dea, asase nso ⟨yɛ⟩ wo dea; wiase ne deɛ ɛhyɛ mu nyinaa, wo na wode sii hɔ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "yɛ wo dea"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Ɔsoro"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yɛ wo dea"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wiase"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ne deɛ ɛhyɛ mu nyinaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "wode sii hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:34.080548481Z",
+  "model": "glm-5.3"
+}

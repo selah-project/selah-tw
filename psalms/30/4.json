@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Yawe, wode me nkwa firii Seol sɔre; wo maa me nkwa, na mankɔ asukorɔ mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "wode ... sɔre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "wo maa me nkwa"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "mankɔ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "asukorɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:31.062568376Z",
+  "model": "glm-5.3"
+}

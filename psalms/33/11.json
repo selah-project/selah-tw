@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Yawe adwene gyina daa; ne akoma nhyehyɛeɛ firi awodeɛ so kɔ awodeɛ so.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "adwene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne akoma"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "firi awodeɛ so"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kɔ awodeɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:09.775744356Z",
+  "model": "glm-5.3"
+}

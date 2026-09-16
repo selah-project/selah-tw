@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "He wɔhe na Hamat ɔhene, ne Arpad ɔhene, ne Sefarwaim kurow no ɔhene, Hena ne Iwa?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "he wɔhe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ne ɔhene"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ne ɔhene"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwaim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ne Iwa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:42.922342572Z",
+  "model": "glm-5.3"
+}

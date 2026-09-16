@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "⟨את⟩ me Sobbɔda da so wɔbɛsohwɛ, na m'asɔredan mu wɔbɛsuro; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me Sobbɔda da"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "me Sobbɔda da"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "wɔbɛsohwɛ so"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "na m'asɔredan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wɔbɛsuro (animuonyam)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:15.944122263Z",
+  "model": "glm-5.3"
+}

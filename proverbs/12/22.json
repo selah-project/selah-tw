@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Se-nokwannom yɛ Yawe ntwahɔdeɛ, na wɔ a wɔyɛ nokware no yɛ ne dɔ.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ntwahɔdeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "se-nokwannom"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "anokwannom (nokwannom bɔne)"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "na wɔ a wɔyɛ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "nokware"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ne dɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:52:08.249274189Z",
+  "model": "glm-5.3"
+}

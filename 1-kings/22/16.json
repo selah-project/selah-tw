@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ɔhene no ka kyerɛɛ no sɛ: Dɛn na ɛsɛ sɛ mɛbɔ wo tirim dodow ahaa sɛ ɔnkasa nkyerɛ me nokwasɛm nko ara wɔ Yawe din mu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dɛn na"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "dodow ahaa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mprenu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "mɛbɔ wo tirim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnkasa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nkasa nkyerɛ me"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mekyerɛ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokwasɛm"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ ... din mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:24:25.893868420Z",
+  "model": "glm-5.3"
+}

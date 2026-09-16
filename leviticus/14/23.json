@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wɔ da a ɛtɔ so nnwɔtum no, wɔ ne ho-asɔw mu, ɔde ⟨את⟩ wɔn bɛbrɛ ɔsɔfo no, wɔ hyiaeɛ dangwan no ano, Yawe anim.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ɔde ... bɛba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (nneɛma no nyinaa)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "a ɛtɔ so nnwɔtum"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "wɔ ne ho-asɔw mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔma"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfo no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dangwan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hyiaeɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:15:19.925483767Z",
+  "model": "glm-5.3"
+}

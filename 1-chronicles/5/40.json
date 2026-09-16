@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Azarjah woo ⟨את⟩ Serajah, na Serajah woo ⟨את⟩ Yehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "na Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:34.347442463Z",
+  "model": "glm-5.3"
+}

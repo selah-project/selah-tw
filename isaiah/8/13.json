@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yawe Tsabaoth, no na moyɛ no kronkron; ɔno na ɔyɛ deɛ mosuro, na ɔno na ɔyɛ deɛ modwodwo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Tsabaoth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaoth"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "moyɛ no kronkron"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "moyɛ no kronkron"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "deɛ mosuro"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "deɛ modwodwo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:40.720757332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Wantɛ yɛn sɛdeɛ yɛn bɔne no teɛ; na wamma yɛn asotwe sɛdeɛ yɛn ayamyie no teɛ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "sɛdeɛ yɛn bɔne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tɛɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wamma"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "sɛdeɛ yɛn ayamyie"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "asotwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:33.268468428Z",
+  "model": "glm-5.3"
+}

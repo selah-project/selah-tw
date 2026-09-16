@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ɔyɛɛ ⟨את⟩ Habɛderɔ no ano ano — anoa a wɔde aburoo dwuma ayɛ — na akoradeɛ no gyinabea ne ne ntamsoɔ yɛ nkyɛmu anum (a ɛyɛ fam nkyɛmu).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ano ano"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Habɛderɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "anoa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aburoo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "akoradeɛ"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ntamsoɔ"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "nkyɛmu anum"
+    }
+  ],
+  "timestamp": "2026-09-15T23:14:29.433653460Z",
+  "model": "glm-5.3"
+}

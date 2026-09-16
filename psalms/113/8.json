@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Sɛ ɔde wɔn bɛtena ahemfo nkyɛn, nkyɛn ahemfo a wɔfiri n'amanom mu.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Sɛ ɔde wɔn bɛtena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'amanom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:17.719343897Z",
+  "model": "glm-5.3"
+}

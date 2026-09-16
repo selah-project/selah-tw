@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 120,
+  "translation": "Nnwom a wɔto de kɔ soro. Mefrɛɛ Yawe wɔ me ɔhaw mu, na ɔbuae me.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a wɔto de kɔ soro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "wɔ ɔhaw mu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mefrɛɛ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "na ɔbuae me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:49.057513868Z",
+  "model": "glm-5.3"
+}

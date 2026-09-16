@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na mɛde wɔn sii adesua mu, mahyɛ wɔn nsaase mu den; nanso wɔdi me ho dwuma bɔne.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "de wɔn sii adesua mu"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "hyɛ wɔn mu den"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "wɔn nsaase"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "nanso me"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "wɔdi ... dwuma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:59.048254423Z",
+  "model": "glm-5.3"
+}

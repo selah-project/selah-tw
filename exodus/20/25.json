@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na sɛ wode aboɔ ayɛ mizbea m'a me ho a, wonnye no gizit ⟨את⟩; ɛfiri sɛ sɛ wo wuo hyɛn wo nsam so a, na wode ato mu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbea"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wode ayɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'a me ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonnye"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wobɛsisi"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "gizit"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gizit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "wo wuo"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "sɛ wohyɛn"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "so"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "wode ato mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:53:33.068782184Z",
+  "model": "glm-5.3"
+}

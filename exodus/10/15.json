@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɛkataa ⟨את⟩ asase no ani nyinaa so, na asase no yɛɛ sum; na ɛwee ⟨את⟩ asase no nwura nyinaa ne ⟨את⟩ nnua no aba nyinaa a osukɔkɔ no de agyaw; na ahabanmono biara nngyaw wɔ dua mu anaa afuo no nwura mu wɔ Misraim asase nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "na ɛkataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no ani nyinaa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "na ... yɛɛ sum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "na ɛwee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no nwura nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "nwura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nnua no aba nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "nnua no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "de agyaw"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "osukɔkɔ no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hwee"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nngyaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "ahabanmono"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "wɔ dua mu"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "anaa nwura"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "afuo no"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:11.059995607Z",
+  "model": "glm-5.3"
+}

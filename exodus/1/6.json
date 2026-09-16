@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Yosef wuiɛ, ne ne nuanom nyinaa, ne dɔm a wɔdii hɔ no nyinaa.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Na ... wuiɛ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "dɔm"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "a wɔdii hɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:54.927668336Z",
+  "model": "glm-5.3"
+}

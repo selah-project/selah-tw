@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɔware no woo ɔbarima, na ɔtoo ⟨את⟩ ne din Gershom, ɛma ɔkaa se: “Ahɔhoɔ na meyɛɛ wɔ aman-asase mu.”",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔtoo…din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "meyɛɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "aman-asase mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:43:28.563199003Z",
+  "model": "glm-5.3"
+}

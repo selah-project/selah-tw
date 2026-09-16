@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Dan wo ani hwɛ me so, na hu me mmɔborɔ, ma wo ahoɔden ma wo akoa, na gyew wo afufoɔ ba.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Dan wo ani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hwɛ me so"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "na hu me mmɔborɔ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "wo ahoɔden"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ma wo akoa"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "na gyew"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "wo ... ba"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "afufoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:42.135074591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Nokware, onipa bufuo bɛka wo animuonyam; bufuo nkaeɛ deɛ, wobɛhyɛ wo ho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokware"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bufuo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "bɛka wo animuonyam"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bufuo"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "wobɛhyɛ wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:45.631350630Z",
+  "model": "glm-5.3"
+}

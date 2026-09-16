@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Aheman a ɛwɔ asase so no, monyi nnwom mma Eloohim; momɔ ayɛmmoa mma Adonai — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "aheman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "monyi nnwom"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "mma Eloohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "momɔ ayɛmmoa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:17.440400247Z",
+  "model": "glm-5.3"
+}

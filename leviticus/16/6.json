@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Aharon bɛde ⟨את⟩ anantwie a ɛyɛ bɔne-yɛsɛe a ɛwɔ ne dea no abrɛ; na ɔbɛyɛ nnu-do-ma ama ne ho ne n'afi.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "bɛde ... abrɛ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anantwie"
+    },
+    {
+      "surface": "פר",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bɔne-yɛsɛe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "bɛyɛ nnu-do-ma"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "afi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:51.235324134Z",
+  "model": "glm-5.3"
+}

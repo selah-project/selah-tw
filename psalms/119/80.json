@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ma me akoma nyɛ pefee wɔ wo nhyehyɛeɛ mu, na me nnyɛ me ani so.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ma ... nyɛ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "pefee"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "wo nhyehyɛeɛ mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nyɛ me ani so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:58.321401131Z",
+  "model": "glm-5.3"
+}

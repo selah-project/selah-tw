@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Ɛde hwan na mode Yawe no to ho, monye no sɛ, mode no toto ho, na yɛayɛ sɛ?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "ɛde hwan na"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mode me to ho"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "monye me sɛ"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "mode me toto ho"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "na yɛayɛ sɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:56:31.506896637Z",
+  "model": "glm-5.3"
+}

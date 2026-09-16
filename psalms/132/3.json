@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "Sɛ mewɔ me fie atena mu, sɛ mekɔ me mpa a wɔatrɛw so —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "mewɔ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "atena mu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "me fie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mekɔ … so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "mpa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "a wɔatrɛw (me dea)"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:08.694176071Z",
+  "model": "glm-5.3"
+}

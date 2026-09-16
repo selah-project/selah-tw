@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 50:30",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ɛno nti, ne mmeranteɛ bɛtɔ wɔ n'akwan tenten mu, na ne ɔko asraafoɔ nyinaa bɛda hintidua ɛda no; Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ɛno nti"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bɛtɔ"
+    },
+    {
+      "surface": "בחוריה",
+      "gloss": "ne mmeranteɛ"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "wɔ n'akwan tenten mu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "מלחמתה",
+      "gloss": "ɔko de"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bɛda hintidua"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ɛda no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:32:14.763546346Z",
+  "model": "glm-5.3"
+}

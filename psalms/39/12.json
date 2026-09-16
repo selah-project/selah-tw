@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Wode aniwere ne nkyerɛkyerɛma sua onipa wɔ bɔne ho; na wode nwansena te sɛe de ɔ ani gye ho; ampa, onipa biara yɛ nwonwa. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "de aniwere ne nkyerɛkyerɛma"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … ho"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "wo sua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "na wo te sɛe"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "sɛ nwansena"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "de ɔ ani gye ho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ampa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nwonwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:54.751412230Z",
+  "model": "glm-5.3"
+}

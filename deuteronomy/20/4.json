@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "ɛfiri sɛ Yawe mo Eloohim, Ɔno na Ɔnam mo ho, sɛ Ɔbɛko mo ho ama mo atia mo atamfoɔ, de agye mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ɔno na Ɔnam"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "bɛko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo ho ama mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "atia"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mo atamfoɔ"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "de agye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:46.107481419Z",
+  "model": "glm-5.3"
+}

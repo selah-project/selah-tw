@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Eloohim kaa kyerɛɛ Mosheh se: Ehyeh deɛ Ehyeh. Ɔkaa se: saa na wobɛka akyerɛ Yisraël mma no: Ehyeh na ɔasoma me mo ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔkaa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wobɛka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "akyerɛ ... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "asoma me"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:22.230315568Z",
+  "model": "glm-5.3"
+}

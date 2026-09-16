@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "Mɛda wo nokorɛ ne ⟨את⟩ w'nnwuma adi; na ɛnnyɛ wo mfasoɔ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mɛ-"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "da ... adi"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "wo nokorɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "w'nnwuma"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "w'nnwuma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnnyɛ"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "wo mfasoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:54.060776522Z",
+  "model": "glm-5.3"
+}

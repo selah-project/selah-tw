@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Na ɔmaa ⟨את⟩ ne nkorɔfoɔ dɔɔso yie dodo, na ɔmaa wɔn ho yɛ den sen wɔn atamfoɔ.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Na ɔmaa ... dɔɔso yie dodo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkorɔfoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nkorɔfoɔ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yie dodo"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "na ɔmaa ... ho yɛ den"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "sen wɔn atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:34.384908693Z",
+  "model": "glm-5.3"
+}

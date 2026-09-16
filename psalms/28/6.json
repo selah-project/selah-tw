@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Nkyɛkyɛmu wɔ Yawe so, ɛfiri sɛ ɔtee me mpaebɔ nne.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nkyɛkyɛmu wɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ɔtee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "me mpaebɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:27.107622238Z",
+  "model": "glm-5.3"
+}

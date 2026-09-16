@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Aharon mma de ⟨את⟩ mogya no baa ne nkyɛn, na ɔtoɔ ne menua dua wɔ mogya no mu, de sii asɔrepon no nkuruma so, na ⟨את⟩ mogya no guu asɔrepon no nnyinasoɔ so.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "wɔde baa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogya no"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "ɔtoɔ"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ne menua dua"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "wɔ mogya no mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "de siiɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "nkuruma"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "asɔrepon no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mogya no"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "guu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "asɔrepon no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:08.136386810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wobɛgye ⟨את⟩ oguan a ɛtɔ so mmienu no, na Aharon ne ne mma bɛde ⟨את⟩ wɔn nsa asi oguan no ti so.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na wobɛgye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oguan a ɛtɔ so mmienu no"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oguan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "na ... bɛde asi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oguan no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:53.531611304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Mebɔ wɔn denteente na wɔntumi nnsɔre, wɔtɔ fam wɔ me nan ase.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Mebɔ wɔn denteente"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nn"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "wɔntumi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "nnsɔre"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "wɔtɔ fam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wɔ ... ase"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "me nan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:02.338196297Z",
+  "model": "glm-5.3"
+}

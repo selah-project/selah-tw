@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Sɛnea aboɔ-twafoɔ adwuma te — nkyerɛwee a ɛte sɛ ngua kyerɛwde — na wo twa ⟨את⟩ aboɔ mmienu no mu Yisrael mma no din; wode sika kɔkɔɔ mu nsiesie a wɔasie mu ayɛ, na wo yɛ ⟨את⟩ wɔn.",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "aboɔ-twafoɔ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "nkyerɛwee"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "ngua"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "wo twa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aboɔ mmienu no"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "aboɔ ... no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "din"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "a wɔasie mu"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "nsiesie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wo yɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:20.025534491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔkaa asɛm, na nkokoɔ baa, ne yeleyɛ nkokoɔ, a wɔn nkontabuo nni hɔ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ɔkaa asɛm"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na ... baa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "nkokoɔ"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "ne yeleyɛ nkokoɔ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a ... nni hɔ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nkontabuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:31.335507931Z",
+  "model": "glm-5.3"
+}

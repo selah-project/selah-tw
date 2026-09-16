@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "Wɔ Eloohim mu yɛbɛyɛ ahoɔden, na ɔno na ɔbɛto yɛn atamfoɔ nan ase.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Wɔ Eloohim mu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yɛbɛyɛ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ɔbɛto ... nan ase"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "yɛn atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:49.873049065Z",
+  "model": "glm-5.3"
+}

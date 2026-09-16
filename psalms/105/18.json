@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Wɔde nnawerɛ animaa wɔ nan ase; dadeɛ hyɛɛ ne kra mu.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "animaa"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "nnawerɛ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nan ase"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dadeɛ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ne kra mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:42.589578620Z",
+  "model": "glm-5.3"
+}

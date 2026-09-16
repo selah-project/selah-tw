@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ɔba no nyinii, na wɔwie no firi nufuom, na Abraham yɛɛ aponto kɛseɛ wɔ da a wɔwiee ⟨את⟩ Yitschak firi nufuom no.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "nyinii"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Ɔba no"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "wɔwie no firi nufuom"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "aponto"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "a wɔwiee firi nufuom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:09.237707049Z",
+  "model": "glm-5.3"
+}

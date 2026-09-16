@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Me werɛ anohaw dedeɛ El Chai ho; sɛn na mɛba a mɛhunu Eloohim anim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "anohaw dedeɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me werɛ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim ho"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Chai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "sɛn na"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mɛba"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "a mɛhunu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:36.584932550Z",
+  "model": "glm-5.3"
+}

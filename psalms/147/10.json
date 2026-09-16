@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɛnyɛ ɔpɔnim ahoɔden mu na ⟨Ɔno⟩ pɛ; ɛnyɛ onipa nan mu na ⟨Ɔno⟩ pɛ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ahɔden mu"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ɔpɔnim"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "na Ɔno pɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "nan mu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "na Ɔno pɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:56.759045691Z",
+  "model": "glm-5.3"
+}

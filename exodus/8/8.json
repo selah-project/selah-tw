@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Mosheh ne Aharon firi Paroh anim; na Mosheh sui kyerɛɛ Yawe wɔ apɔtamante a wayi asii Paroh so no ho.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "firi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "na ɔsui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "apɔtamante"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wayi asii"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroh so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:09.082211050Z",
+  "model": "glm-5.3"
+}

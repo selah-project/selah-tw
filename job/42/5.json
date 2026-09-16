@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Asotie nnua no na m'aso tiee wo, na seɛ yi m'aniahunu wo.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "asotie nnua"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "metiee wo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na seɛ yi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "ahunu wo"
+    }
+  ],
+  "timestamp": "2026-09-16T03:41:53.304405510Z",
+  "model": "glm-5.3"
+}

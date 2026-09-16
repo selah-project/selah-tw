@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wobesra ⟨את⟩ nsuo-pon no ne ⟨את⟩ ne nnyinasoɔ, na wode ayɛ kronkron ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "na wobesra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsuo-pon no"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nsuo-pon no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnyinasoɔ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ne nnyinasoɔ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na wode ayɛ kronkron"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nsuo-pon no ne ne nnyinasoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:24.961290491Z",
+  "model": "glm-5.3"
+}

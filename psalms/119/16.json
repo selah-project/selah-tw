@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo mmara mu na m'ani bɛgye ho; mɛrenwerɛ wo asɛm.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "wo mmara mu"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "m'ani bɛgye … ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mɛren-"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "nwerɛ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wo asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:34.114051327Z",
+  "model": "glm-5.3"
+}

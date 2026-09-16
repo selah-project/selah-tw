@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 53,
+  "translation": "Deɛ ɔdi asɔredwuma no so ma: wɔ Machalat so; ɔkyerɛkyerɛ-sɛm, Dawid de.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔdi asɔredwuma no so ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ɔkyerɛkyerɛ-sɛm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:36.612561069Z",
+  "model": "glm-5.3"
+}

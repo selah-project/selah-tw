@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "na meyɛ hesed (adɔeɛ a ɛtra hɔ daa) kɔ nkɔdu apem so, mma wɔn a wɔdɔ me ne wɔn a wɔdi me nhyehyɛeɛ so no.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "na meyɛ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (adɔeɛ a ɛtra hɔ daa)"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kɔ nkɔdu apem so"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "mma wɔn a wɔdɔ me"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ne wɔn a wɔdi ... so"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "me nhyehyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:27.459627623Z",
+  "model": "glm-5.3"
+}

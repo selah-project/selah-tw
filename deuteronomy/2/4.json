@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na mo hyɛ ⟨את⟩ nkorɔfo no fo se: Moretwamu kɔ mo nuanom, Esav mma, a wɔte Seir no ase hye so, na wɔbɛsuro mo; enti monbɔ mo ho ban yie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkorɔfo no"
+    },
+    {
+      "surface": "צו",
+      "gloss": "hyɛ fo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "retwamu kɔ"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "ase hye so"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mo nuanom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "a wɔte"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "wɔ Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "wɔbɛsuro"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "monbɔ mo ho ban"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yie"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:18.300476882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 53,
+  "translation": "Wɔn nyinaa dane wɔn ho; wɔbom ayɛ mfɛfoɔ; obiara nni hɔ a ɔyɛ papa — ɛnyɛ baako pɛ.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Wɔn nyinaa"
+    },
+    {
+      "surface": "סג",
+      "gloss": "dane wɔn ho"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wɔbom"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ayɛ mfɛfoɔ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɛnyɛ ... nni hɔ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:36.613634896Z",
+  "model": "glm-5.3"
+}

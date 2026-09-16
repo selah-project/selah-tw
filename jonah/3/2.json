@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Sɔre, kɔ Ninwe, kuro kɛseɛ no mu, na bɔ ⟨את⟩ dawuru no de kasa a mede wo bɛka no bɔ ho dawuru.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kɛseɛ no"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "na bɔ dawuru"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "de ho dawuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawuru no"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "dawuru no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-16T05:37:09.846150416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Adwuma no mmorua nnipa no so, na wɔnyɛ no; na wɔnhwɛ nkontompo nsɛm so.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "mmorua"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "adwuma no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na wɔnyɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "no (wɔ mu)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wɔnm"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "hwɛ so"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nkontompo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:38.254057064Z",
+  "model": "glm-5.3"
+}

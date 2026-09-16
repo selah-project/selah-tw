@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Gilad de me dea, na Manasse nso de me dea; Efrayim yɛ me ti mmoaɔdenbɔ, Yehuda yɛ me mmara-hyɛfoɔ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "de me dea"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "nso de me dea"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim nso"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mmoaɔdenbɔ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "me ti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "me mmara-hyɛfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:28.785572087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Deɛ ɔdi nnwom no anim no de; wɔ Gittith nnwom no so; Asaph de.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔdi nnwom no anim no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaph de"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:20.065621688Z",
+  "model": "glm-5.3"
+}

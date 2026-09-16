@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Sɛ ahomasoɔ ba a, animtia ba; na ⟨את⟩ ahobrɛaseɛfoɔ nyansa wɔ.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ahomasoɔ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a, ... ba"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "animtia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahobrɛaseɛfoɔ"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "ahobrɛaseɛfoɔ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:50:55.080286477Z",
+  "model": "glm-5.3"
+}

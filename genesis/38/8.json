@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na Yuda ka kyerɛɛ Onan se: “Kɔ wo nua bea nkyɛn, na yɛ kunu-nua asɛyɛdea ⟨את⟩ no, na sian aba ma wo nua.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bea\/ɔyere"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "yɛ kunu-nua asɛyɛdea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "na sian"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "aba"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ma wo nua"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:20.576474514Z",
+  "model": "glm-5.3"
+}

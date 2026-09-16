@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔbɛhyɛ wo adan-sie ma ahotɔ, na nsam foforɔ bɛtetew wo nsam-mma mu.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "na wɔbɛhyɛ...ma"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "wo adan-sie"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ahotɔ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na nsam foforɔ"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "wo nsam-mma"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "bɛtetew mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:42:55.898595747Z",
+  "model": "glm-5.3"
+}

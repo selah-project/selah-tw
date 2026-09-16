@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔko bio sii ⟨את⟩ Peleshtim ho, na Elchanan, Yaur ba, kunkumii ⟨את⟩ Lahmi, Goliyat Gat-ni no nuabarima, na ne pire dua no tenten sɛ ntokurofoɔ dɔn.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "sii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleshtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kunkumii"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elchanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yaur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lahmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lahmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuabarima"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliyat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gat-ni"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na ... dua"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "ne pire"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "sɛ ... dɔn"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ntokurofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:46:24.976564862Z",
+  "model": "glm-5.3"
+}

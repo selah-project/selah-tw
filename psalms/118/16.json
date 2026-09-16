@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Yawe nsa nifa kɔ soro; Yawe nsa nifa yɛ ahoɔden.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "kɔ soro"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:06.908508403Z",
+  "model": "glm-5.3"
+}

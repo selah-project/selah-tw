@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Anaasɛ ɔbɛtetew me nkwa ayɛ sɛ gyata, a ɔbɛtetew mu na obiara nni hɔ a ɔbɛgya.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ɔbɛtetew"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sɛ gyata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "a ɔbɛtetew mu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na obiara nni hɔ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "a ɔbɛgya"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:27.334847515Z",
+  "model": "glm-5.3"
+}

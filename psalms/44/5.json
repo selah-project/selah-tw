@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Wo na wo yɛ me ɔhene, Eloohim; hyɛ nkonyahyie nhyɛ ma Yákob.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na wo yɛ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "me ɔhene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛ nhyɛ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "nkonyahyie"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yákob"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:30.653922383Z",
+  "model": "glm-5.3"
+}

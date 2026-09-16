@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Mo nso moahunu sɛ na mayɛ mo agya ⟨את⟩ adwuma wɔ me ahoɔden nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mo nso"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "moahunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "me ahoɔden"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mayɛ adwuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo agya"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "mo agya"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:39.340001083Z",
+  "model": "glm-5.3"
+}

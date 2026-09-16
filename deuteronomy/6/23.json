@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ɔde yɛn ⟨את⟩ firii hɔ sɛ ɔde yɛn ⟨את⟩ bɛba, na ɔde asase no ⟨את⟩ ama yɛn — deɛ ɔhyɛɛ yɛn nuanom nkɔm sɛ ɔde bɛma wɔn.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ na yɛn",
+      "marks": "yɛn"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ɔfirii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ɔde bɛba"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn",
+      "marks": "yɛn"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "na ɔde ama"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ɔhyɛɛ nkɔm"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "yɛn nuanom"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:39.327735476Z",
+  "model": "glm-5.3"
+}

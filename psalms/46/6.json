@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Eloohim wɔ ne mu, enti ɛrentwa mu da; Eloohim bɛboa no ansa na anɔpa bɛto.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "wɔ ne mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "koraa ... da"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ɛrentwa mu"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "bɛboa no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ansa na ... bɛto"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:31.048417632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "na sɛ ɛnyɛ saa a, momma ogya ne nfi Abimelek mu, na ɛnyɛ ⟨את⟩ Sḥekem wura ne ⟨את⟩ Milo fie; na momma ogya nfi Sḥekem wura ne Milo fie mu, na ɛnyɛ ⟨את⟩ Abimelek.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɛnyɛ saa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "momma ... nfi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Abimelek mu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sḥekem wura"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "wura"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sḥekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Milo fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "na momma ... nfi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "Sḥekem wura ... mu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sḥekem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ne Milo fie mu"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    }
+  ],
+  "timestamp": "2026-09-15T22:39:10.289612581Z",
+  "model": "glm-5.3"
+}

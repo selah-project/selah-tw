@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Wo, Yawe, nnyɛ wo mmɔborɔhunu afiri me so; wo hesed ne wo nokware bɔ me ho ban daa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "nnyɛ ... afiri"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "wo mmɔborɔhunu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me so"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "ו אמתך",
+      "gloss": "ne wo nokware"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "bɔ me ho ban"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:04.670047640Z",
+  "model": "glm-5.3"
+}

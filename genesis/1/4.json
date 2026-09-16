@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim hunuu ⟨את⟩ nhyerɛn no sɛ ɛyɛ papa, na Eloohim pii nhyerɛn no ne sum no ntam.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyerɛn no"
+    },
+    {
+      "surface": "האור",
+      "gloss": "nhyerɛn no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "pii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "האור",
+      "gloss": "nhyerɛn no"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "sum no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:36.208913698Z",
+  "model": "glm-5.3"
+}

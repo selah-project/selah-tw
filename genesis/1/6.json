@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim kaa se: nnyɛ rakia ⟨kankane a ɛtrɛ⟩ wɔ nsuo no mu, na ɛnyɛ deɛ ɛkyɛ nsuo firi nsuo mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na … kaa se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakia ⟨kankane a ɛtrɛ⟩"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "deɛ ɛkyɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kyɛ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "למים",
+      "gloss": "firi nsuo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:57.293124729Z",
+  "model": "glm-5.3"
+}

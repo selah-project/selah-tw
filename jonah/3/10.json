@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Eloohim huu ⟨את⟩ wɔn nyinaa adwuma, sɛ wɔsan firii wɔn ɔkwan bɔne so; na Eloohim bɔɔ ne ho dwom wɔ bɔne a ɔkae sɛ ɔbɛyɛ wɔn ho no ho, na ɔannya yɛ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Na ... huu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nyinaa adwuma"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "wɔn nyinaa adwuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "wɔsan firii"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "wɔn ɔkwan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "na ... bɔɔ ne ho dwom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkae"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ ɔbɛyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nnyɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:14:43.099269278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Yawe ⟨yɛ⟩ kɛseɛ, na wɔkam no fo paa wɔ yɛn Eloohim kurow mu, ⟨ɛyɛ⟩ ne kronkron bepɔ.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na wɔkam no fo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ ... kurow mu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ne kronkron"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:33.297805346Z",
+  "model": "glm-5.3"
+}

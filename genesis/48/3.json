@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Na Yakob kaa Yosef se: El Shadai daa ne ho adi ama me wɔ Luz, wɔ Kenan asase so, na ɔhyiraa me ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "daa ne ho adi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ama me"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "wɔ Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ɔhyiraa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:21.743619632Z",
+  "model": "glm-5.3"
+}

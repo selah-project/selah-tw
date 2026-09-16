@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Wɔn a wɔte ne nwinima ase bɛsan aba; wɔbɛma aburoo ayɛ, na wɔbɛtetew sɛ mpata dua; ne nkaeɛ bɛyɛ sɛ Lebanon nsam.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "bɛsan aba"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "ne nwinima ase"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "wɔbɛma ... ayɛ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "aburoo"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "na wɔbɛtetew"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "sɛ mpata dua"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ne nkaeɛ"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "sɛ ... nsam"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-16T01:07:49.667758155Z",
+  "model": "glm-5.3"
+}

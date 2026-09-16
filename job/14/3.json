@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ana ɛno so woabue wo ani ahwɛ, na wode ⟨את⟩ me reba wo atemmuo mu?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ɛno so mpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "woabue"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "wo ani"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me (Yob)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "wode … reba"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "atemmuo mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T05:46:23.121243118Z",
+  "model": "glm-5.3"
+}

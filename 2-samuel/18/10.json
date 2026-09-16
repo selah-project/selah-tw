@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Onipa baako bi hwɛɛ no, na ɔka kyerɛɛ Yoab se: Hwɛ, mahunu ⟨את⟩ Abshalom a wɔa no wɔ ɛla no mu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hwɛɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako bi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mahunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "a wɔa no"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "wɔ ɛla no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:12.992762569Z",
+  "model": "glm-5.3"
+}

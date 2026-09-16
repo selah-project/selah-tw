@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "N'ahohoraeɛ mu mefrɛɛ Yawe, na mɛfrɛ me Eloohim; ɔtee m'nne fi n'asɔredan mu, na m'asɔwsɛm duruu n'aso mu.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ahohoraeɛ mu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mefrɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mɛfrɛ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ɔtee"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "fi n'asɔredan mu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "m'nne"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "na m'asɔwsɛm"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "duruu n'aso mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:35.715874025Z",
+  "model": "glm-5.3"
+}

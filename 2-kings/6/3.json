@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na baako bi kaa se: Yɛ m'adwene, me tie, na kɔ ⟨את⟩ wo akoa nkurɔfoɔ no ho. Na ɔkaa se: Mekɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa se"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako bi"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Yɛ m'adwene"
+    },
+    {
+      "surface": "נא",
+      "gloss": "me tie"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na kɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo akoa nkurɔfoɔ no"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo akoa nkurɔfoɔ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mekɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:29:06.617452352Z",
+  "model": "glm-5.3"
+}

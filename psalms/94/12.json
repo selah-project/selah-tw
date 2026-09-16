@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Nhyira wo ɔbarima a Yawe, wo de no hyɛ nwuma mu, na wo firi wo Mmara mu kyerɛ no.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nhyira wo"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "wo de no hyɛ nwuma mu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "na firi wo Mmara mu"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "wo kyerɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:53.583102270Z",
+  "model": "glm-5.3"
+}

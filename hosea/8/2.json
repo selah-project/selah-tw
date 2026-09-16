@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Me na wɔfrɛ me sɛ: Eloohim yɛn, yɛ Yisrael nim wo!",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Me na"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "wɔfrɛ me sɛ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim yɛn"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "yɛ nim wo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-16T01:05:41.073760176Z",
+  "model": "glm-5.3"
+}

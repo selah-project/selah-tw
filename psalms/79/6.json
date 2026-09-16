@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Tɔ wo abufuo gu ⟨ha⟩ amanaman a wɔnnim wo so, ne ⟨ha⟩ ahennie a wɔampɛfrɛ wo din no so.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "tɔ gu"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "wo abufuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨ha⟩ amanaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim-"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "wɔnnim wo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "⟨ha⟩ ahennie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "wɔ wo din mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mpɛ-"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wɔampɛfrɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:35.080662190Z",
+  "model": "glm-5.3"
+}

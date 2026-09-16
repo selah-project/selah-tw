@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Na wɔnnim sɛ wo nsa na ɛyɛ saa; wo, Yawe, na woyɛɛ no.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "na wɔnnim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "woyɛɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:03.698813146Z",
+  "model": "glm-5.3"
+}

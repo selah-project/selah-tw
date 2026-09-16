@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Abraham kaa n'adeɛ ne yere Sarah ho sɛ, \"Ɔyɛ me nua baa.\" Enti Abimelek, Gerar hene, somaa wɔn ma wɔfaa ⟨את⟩ Sarah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa n'adeɛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "n'yere"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "me nua baa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "somaa wɔn"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    }
+  ],
+  "timestamp": "2026-09-15T20:24:00.799824164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Mekaa kyerɛɛ Yawe: Adonai, wone ⟨wo⟩; m'papa nyinaa nni hɔ wɔ ⟨wo ho⟩ akyiri.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Mekaa kyerɛɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wone wo"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "m'papa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nni hɔ (da)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wɔ wo ho akyiri"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:52.379545545Z",
+  "model": "glm-5.3"
+}

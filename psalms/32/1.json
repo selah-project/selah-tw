@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Daawid asɛm, kyerɛkyerɛ asɛm. Ahonya wɔ mu ne deɛ wɔayi pɛsɛ firi no so, deɛ wɔakata yɛ mu bɔne no so.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daawid asɛm"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kyerɛkyerɛ asɛm"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ahonya wɔ mu ne"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "wɔayi ... firi no so"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pɛsɛ"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "wɔakata ... so"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "yɛ mu bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:23.794375720Z",
+  "model": "glm-5.3"
+}

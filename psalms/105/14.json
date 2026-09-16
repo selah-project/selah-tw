@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔmmaa onipa kwan ma ɔyɛɛ wɔn amimsoɔ, na ɔkaa ahemfo anim wɔ wɔn ho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ɔmmaa"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "kwan ma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ma ɔyɛɛ wɔn amimsoɔ"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "na ɔkaa anim"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔ wɔn ho"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ahemfo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:03.197679740Z",
+  "model": "glm-5.3"
+}

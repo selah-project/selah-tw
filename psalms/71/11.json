@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Se: “Eloohim agya no; mon-di no akyi na monkye no, ɛfiri sɛ obiara nni hɔ a ɔbɛgya no.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "agya no"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "mon-di no akyi"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "na monkye no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "obi a ɔbɛgya no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:44.960645497Z",
+  "model": "glm-5.3"
+}

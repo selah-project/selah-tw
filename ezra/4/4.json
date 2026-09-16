@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na asase dɔm no tee Yuda dɔm no nsa so, na wɔmaa wɔn ho dwirii wɔn wɔ siesie mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... no"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dɔm"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "tee ... nsa so"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dɔm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "na wɔmaa wɔn ho dwirii wɔn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "wɔ siesie mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:19:26.761833045Z",
+  "model": "glm-5.3"
+}

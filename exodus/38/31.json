@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Ne ⟨את⟩ atifi a ɛwɔ efie a atwa ho hyia no mu, ne ⟨את⟩ atifi a ɛwɔ efie no ɛpono ano, ne ⟨את⟩ tɛnt no mmɔden nyinaa, ne ⟨את⟩ efie a atwa ho hyia no mmɔden nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "atifi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "efie a atwa ho hyia no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "(a atwa ho hyia)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "atifi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɛpono ano"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "efie no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "mmɔden nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mmɔden"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tɛnt no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "mmɔden nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mmɔden"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "efie no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a atwa ho hyia"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:40.282493451Z",
+  "model": "glm-5.3"
+}

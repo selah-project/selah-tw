@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Yawe, wɔ wo apɛdeɛ mu, wo de ahoɔden sii me bepɔ so; wo sera wo anim, na mekɔɔ nihu mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "wɔ wo apɛdeɛ mu"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "wo sii"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "me bepɔ so"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "wo sera"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mekɔɔ"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "nihu mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:43.884371187Z",
+  "model": "glm-5.3"
+}

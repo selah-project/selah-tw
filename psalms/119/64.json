@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Yawe, asase no ayɛ ma wo hesed; tua me kyerɛ wo mmara.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ayɛ ma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "wo mmara"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tua me kyerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:16.036556624Z",
+  "model": "glm-5.3"
+}

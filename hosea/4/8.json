@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Wɔdi me man no bɔne, na wɔde wɔn akoma si wɔn bɔne so.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man no"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wɔdi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "wɔn bɔne"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wɔde ... si"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "wɔn akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:05:24.770071307Z",
+  "model": "glm-5.3"
+}

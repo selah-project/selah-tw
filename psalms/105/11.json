@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Se ɔreka sɛ: Mehwehwɛ wo, mede ⟨את⟩ Kenaan asase bɛma wo — ɛyɛ mo agyapadeɛ twerɛdeɛ.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Se ɔreka sɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mehwehwɛ wo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mede ... bɛma wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaan asase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "twerɛdeɛ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "mo agyapadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:53.921998502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ɔmpaee osuo paɔ no da no mu, na ɔmpaee ogya paɔ no anadwo mu, wɔ nnipa no anim;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ɔn-"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "paee"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "paɔ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "osuo no"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "na ogya paɔ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogya no"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo mu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ anim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:51.757864609Z",
+  "model": "glm-5.3"
+}

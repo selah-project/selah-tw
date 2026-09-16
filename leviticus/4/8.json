@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔbɛyi ⟨את⟩ bɔne-afɔdeɛ mmɔneɛ no ngyensuam nyinaa afiri ne so — ⟨את⟩ ngyensuam a ɛdekata atoko no so, ne ⟨את⟩ ngyensuam nyinaa a ɛwɔ atoko no so.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngyensuam nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ngyensuam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mmɔneɛ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bɔne-afɔdeɛ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ɔbɛyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "afiri ne so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngyensuam a ɛdekata atoko no so"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ngyensuam"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "a ɛdekata"
+    },
+    {
+      "surface": "על",
+      "gloss": "… so"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "atoko no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngyensuam nyinaa a ɛwɔ atoko no so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ngyensuam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ɛwɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "… so"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "atoko no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:25.487558160Z",
+  "model": "glm-5.3"
+}

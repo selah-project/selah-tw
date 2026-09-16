@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ɛfiri sɛ m'abrabɔ awu awerɛhoɔ mu, me afe nso wɔ ɔsɛeɛ mu; m'ahoɔden abɔ mmɔden wɔ me bɔne mu, me nnapɔn nso ahyɛ dedaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "awu"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "wɔ awerɛhoɔ mu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "m'abrabɔ"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "me afe nso"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "wɔ ɔsɛeɛ mu"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "abɔ mmɔden"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "wɔ me bɔne mu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "m'ahoɔden"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "me nnapɔn nso"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "ahyɛ dedaw"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:58.880020729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Asase a amuane ne aburoo wɔ mu, ne bɔɔlo, ne mpataa dua, ne ankaa, ne kyene; asase a ngo nhwi ne dua mmɔne wɔ mu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "amuane"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ne aburoo"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ne mpataa dua"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ne bɔɔlo"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ne kyene"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ngo nhwi ne dua"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ne dua mmɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:45.542399375Z",
+  "model": "glm-5.3"
+}

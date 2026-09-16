@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ne ⟨את⟩ Daah ne ⟨את⟩ Ayah, wɔ n'abusua mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "Daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ayah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "Ayah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "wɔ n'abusua mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:39.247986186Z",
+  "model": "glm-5.3"
+}

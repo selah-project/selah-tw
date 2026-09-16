@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Sɛ mohwɛ mo asase no aba a, εnnyε hwee na wobεbɔ wo pɔno afuo ano mma aba nyinaa, na wo aba ntokuro nso εnnyε hwee na wo bεboaboa ano.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "sɛ mo rehwɛ (mo aba)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aba"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "mo asase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "εnnyε hwee"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "wobεbɔ ho awieeɛ (nyinaa)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "afuo ano (nkyɛn)"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "wo afuo"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "mma aba"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "na ntokuro"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "wo aba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "εnnyε hwee"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "wobεboaboa ano"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:03.538835944Z",
+  "model": "glm-5.3"
+}

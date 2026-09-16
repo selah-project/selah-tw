@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na Yawe baa ⟨את⟩ Yosef ho, na ɔbɛyɛɛ onipa a n'adwuma tire; na ɔtraa n'awuraa, Misrini no, fie mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɔbaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef ho"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɔbɛyɛɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "a n'adwuma tire"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɔtraa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fie mu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "n'awuraa"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misrini no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:45.753971852Z",
+  "model": "glm-5.3"
+}

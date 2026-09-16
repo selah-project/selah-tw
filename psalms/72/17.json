@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Ne din ntena hɔ daa; ansa na ⟨owia⟩ no bɛto so, ne din nnyini so; na amanaman nyinaa nhyira wɔn ho wɔ ne mu, na wɔnkyerɛ no nnu pa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nka (nea ɛbɛyɛ)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa (kɔ akyire)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "nnyini so"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "na wɔnhyira wɔn ho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wɔ ne mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "nkyerɛ no nnu pa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:02.100311884Z",
+  "model": "glm-5.3"
+}

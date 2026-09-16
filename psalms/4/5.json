@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Momiriyɛ na mo nnyɛ bɔne; monka wɔ mo akoma mu wɔ mo mpa so, na monyɛ komm. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "momiriyɛ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mo nnyɛ"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "monka"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "wɔ mo akoma mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "mo mpa so"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "na monyɛ komm"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:44.837543685Z",
+  "model": "glm-5.3"
+}

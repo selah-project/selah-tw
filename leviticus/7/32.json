@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ wo nsa nhwiaban (right thigh) no, momma mo de sɛ nkyerɛkyerɛmu-afɔdeɛ (terumah) ma ɔsɔfɔ no, firi mo shelamim afɔdeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa nhwiaban no"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "nsa nhwiaban"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ɔfa a ɛwɔ nsa nifa so"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "momma mo de ... ma"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumah (nkyerɛkyerɛmu-afɔdeɛ)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ɔsɔfɔ no"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "firi ... afɔdeɛ mu"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "mo shelamim afɔdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:13.582577888Z",
+  "model": "glm-5.3"
+}

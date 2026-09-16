@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Nimdee nwonwa sen me; wɔama so soro, mentumi nnya no.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "nwonwa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdee"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sen me"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "wɔama so soro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mentumi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nnya no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:34.498335157Z",
+  "model": "glm-5.3"
+}

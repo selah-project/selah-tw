@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "M'adɔfoɔ ne me yɔnkofoɔ gyina me yadeɛ ho bɔ hɔ; na m'abusuafoɔ nso gyina akyirikyiri.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "m'adɔfoɔ"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ne me yɔnkofoɔ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "gyina ... ho bɔ hɔ"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "me yadeɛ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "na m'abusuafoɔ nso"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "akyirikyiri"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "gyina"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:10.747902220Z",
+  "model": "glm-5.3"
+}

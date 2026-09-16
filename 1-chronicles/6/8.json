@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Elkana ne ba, Evyasaf ne ba, na Asir ne ba.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "na Evyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "na Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:56.237188488Z",
+  "model": "glm-5.3"
+}

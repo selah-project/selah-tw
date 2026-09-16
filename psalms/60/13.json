@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Ma yɛn mmoa wɔ ɔhaw mu, ɛfiri sɛ onipa mmoayɛ yɛ ɛkwa.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "wɔ ɔhaw mu"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ɛfiri sɛ ... yɛ ɛkwa"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "mmoayɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:49.366688227Z",
+  "model": "glm-5.3"
+}

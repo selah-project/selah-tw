@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Reuben mma bɔɔ ⟨את⟩ Heshbon ne ⟨את⟩ Eleale ne ⟨את⟩ Kiryataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ... mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eleale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Eleale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:41:43.278188302Z",
+  "model": "glm-5.3"
+}

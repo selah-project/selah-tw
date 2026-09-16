@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "ɛfiri sɛ mɛwu wɔ asase yi mu; mɛnnatwa ⟨את⟩ Yarden no, na mo mmoapatwa na mo bɛdi ⟨את⟩ asase pa yi so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mɛwu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi mu"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "mɛnn-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "atwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na mo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mmoapatwa"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "na mo bɛdi so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase pa yi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:58.656698563Z",
+  "model": "glm-5.3"
+}

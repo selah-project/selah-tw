@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Deɛ ɔdi animuonyam no dea, de Yedutun dea; Dwom a Dawid de mae.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔdi animuonyam no dea"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "de Yedutun dea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Dwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid de mae"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:55.212437309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na wɔatoto, na wɔn ani abere wɔ Kuush, wɔn ahwɛso, ne Misraim, wɔn animuonyam.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "na wɔatoto"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "wɔn ani abere"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "wɔn ahwɛso"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "wɔn animuonyam"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:42.387116154Z",
+  "model": "glm-5.3"
+}

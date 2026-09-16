@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Ɛfiri sɛ menim sɛ wo yɛ den, na w'akyikyiri yɛ dadeɛ ntini, na w'anim yɛ nnɛboɔ.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Ɛfiri sɛ menim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "den"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ntini"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dadeɛ"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "w'akyikyiri"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "nnɛboɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:11.499293525Z",
+  "model": "glm-5.3"
+}

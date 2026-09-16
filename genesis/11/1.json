@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɛbae sɛ asase nyinaa yɛ kasa baako, ne nsɛm baako.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbae sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ne nsɛm"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:41.816285031Z",
+  "model": "glm-5.3"
+}

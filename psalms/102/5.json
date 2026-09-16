@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Wɔabɔ ⟨את⟩ no sɛnea wɔbɔ esew, na me akoma awow; ɛfiri sɛ mawerɛhoɔ sɛ mɛdi me duane.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "wɔabɔ"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sɛnea esew"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "awow"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "mawerɛhoɔ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sɛ mɛdi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "me duane"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:15.612025135Z",
+  "model": "glm-5.3"
+}

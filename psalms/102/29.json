@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Wo akuafoɔ mma bɛtena hɔ daa, na wɔ ase wɔ wo anim bɛgyina mu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo akuafoɔ"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "bɛtena hɔ daa"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "na wɔ ase"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wɔ wo anim"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "bɛgyina mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:07.413232686Z",
+  "model": "glm-5.3"
+}

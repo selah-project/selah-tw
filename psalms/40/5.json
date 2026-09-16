@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Akoma pa na ɛwɔ onipa a ɔde Yawe ayɛ ne n'agyinabea, na ɔandane n'ani nkɔ ahonyafoɔ so, na ɛnne wɔn a wɔdane kɔ nkontompo mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "akoma pa na ɛwɔ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ne n'agyinabea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ɔandane n'ani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ahonyafoɔ so"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "na wɔn a wɔdane"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kɔ nkontompo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:24.910708261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Reu tenaa aseɛ, sɛ ɔwoo ⟨את⟩ Serug akyi, mfeɛ ɔha mmienu ne nson, na ɔwoo mma barima ne mma baa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "sɛ ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ne ɔha mmienu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma barima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma baa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:39.610917870Z",
+  "model": "glm-5.3"
+}

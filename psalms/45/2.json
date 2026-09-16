@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Me akoma buru mu ma asɛm pa; mereka me nneyeɛ ho asɛm fa ɔhene ho; me tɛkyerɛw ⟨yɛ⟩ ɔtwerɛfoɔ ntɛmma no pɛn.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "buru mu ma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "me nneyeɛ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fa ɔhene ho"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "me tɛkyerɛw"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pɛn"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ɔtwerɛfoɔ"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "ntɛmma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:13.842022457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Sɛ meforo ɔsoro a, wɔwɔ hɔ; na sɛ meto me mpa wɔ Seol a, hwɛ, wɔwɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "meforo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wɔwɔ"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "na meto me mpa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "hwɛ, wɔwɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:34.505059051Z",
+  "model": "glm-5.3"
+}

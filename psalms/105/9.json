@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Apam a ɔtwaa ⟨את⟩ Abraham, ne ne ntam a ɔbɔeɛ ma Isak;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "twaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ne ne ntam"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "ma Isak"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:39.066101012Z",
+  "model": "glm-5.3"
+}

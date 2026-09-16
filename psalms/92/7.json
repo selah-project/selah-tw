@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Ɔbarima a ɔyɛ aboa no nim hwee, na ɔkwasea nnte ⟨את⟩ eyi aseɛ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "בער",
+      "gloss": "a ɔyɛ aboa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "na ɔkwasea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnte... aseɛ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "te aseɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eyi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:50.022467923Z",
+  "model": "glm-5.3"
+}

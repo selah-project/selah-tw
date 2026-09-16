@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Saa ara na El bɛbubu wo daa; ɔbɛfa wo na ɔbɛtew wo fi wo fidan mu, na ɔbɛtetew wo nyini afiri asase a wɔte mu. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "bɛbubu wo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "daa"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "bɛfa wo"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "bɛtew wo fi"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "wo fidan"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "bɛtetew wo nyini"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "afiri asase"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a wɔte mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:41.911105046Z",
+  "model": "glm-5.3"
+}

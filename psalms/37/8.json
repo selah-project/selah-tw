@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Gyae ɔtan, na gyae abufuo; nnyɛ abufuo akɔ bɔneyɛ mu.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Gyae"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "ɔtan"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "na gyae"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "bɔneyɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:22.330669111Z",
+  "model": "glm-5.3"
+}

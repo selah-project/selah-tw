@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Atifiayɛfoɔ no twɛn me na wɔpɛ sɛ ɛsɛe me; nanso mehwɛ wo adansedie no mu yiye.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "twɛn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "atifiayɛfoɔ no"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "na wɔpɛ sɛ ɛsɛe me"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "wo adansedie no"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mehwɛ ... mu yiye"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:14.592266358Z",
+  "model": "glm-5.3"
+}

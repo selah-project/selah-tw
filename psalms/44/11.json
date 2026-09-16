@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Wowɔ yɛn ahoɔden no ma yɛdane yɛn ho akyi fi ɔtamfoɔ hɔ, na wɔn a wɔkye yɛn no wɔasɛe yɛn sɛnea wɔpɛ.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "yɛdane yɛn ho akyi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɔtamfoɔ hɔ"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "na wɔn a wɔkye yɛn"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "wɔasɛe yɛn"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sɛnea wɔpɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:44.440116239Z",
+  "model": "glm-5.3"
+}

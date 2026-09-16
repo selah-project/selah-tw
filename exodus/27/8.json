@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Wobɛyɛ ⟨את⟩ no sɛ akwanwa a mmorɔtɔ ayɛ; sɛnea wɔkyerɛɛ ⟨את⟩ wo wɔ bepɔ no so no, saa na wɔbɛyɛ.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "akwanwa"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mmorɔtɔ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "wɔkyerɛɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bepɔ no so"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wɔbɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:21.527257339Z",
+  "model": "glm-5.3"
+}

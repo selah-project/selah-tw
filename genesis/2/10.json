@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na asubɔnten bi firi Eden mu bae de too ⟨את⟩ afuo no nsuo; na ɛfiri hɔ no, ɛkyɛɛ mu yɛɛ atifi aanan.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Na asubɔnten"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "firi … bae"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Eden mu"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "de too … nsuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afuo no"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "afuo no"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "na ɛfiri hɔ"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ɛkyɛɛ mu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "atifi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:05.031894733Z",
+  "model": "glm-5.3"
+}

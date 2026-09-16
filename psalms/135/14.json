@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Ɛfiri sɛ Yawe bɛbu ne manfoɔ atɛn, na ɔbɛsesa ne adwene fa n'akoa ho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bɛbu...atɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne manfoɔ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na fa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoa"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "bɛsesa ne adwene...ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:20.609351171Z",
+  "model": "glm-5.3"
+}

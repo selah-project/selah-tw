@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Ɔde ɛserɛ yɛ nsuo bo, na susu asase yɛ nsuo mfitiaseɛ.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Ɔde … yɛ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ɛserɛ"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "nsuo bo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na asaase"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "susu"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "yɛ nsuo mfitiaseɛ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:19.650176005Z",
+  "model": "glm-5.3"
+}

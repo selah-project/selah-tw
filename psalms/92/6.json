@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Yawe, wo nnwuma akɛse dɛn! Wo nsusuwii mu duru yie pa ara.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "akɛse"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "wo nnwuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yie pa ara"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "mu duru"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "wo nsusuwii"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:50.020992126Z",
+  "model": "glm-5.3"
+}

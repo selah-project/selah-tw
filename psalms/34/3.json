@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Wɔ Yawe mu na me nkwa bɔ ne ho; na ahobrɛasefoɔ nte aseɛ na wɔnnyɛ wɔn ani.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Wɔ Yawe mu"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bɔ ne ho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nte aseɛ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ahobrɛasefoɔ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "wɔnnyɛ wɔn ani"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:26.499680562Z",
+  "model": "glm-5.3"
+}

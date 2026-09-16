@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Mframa no abɔ ⟨את⟩ no hyɛ n'apampam mu, na wɔbehunu ani wɔ wɔn afɔre ho.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "abɔ ... hyɛ ... mu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "no (Efraim no)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "n'apampam mu"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "na wɔbehunu ani"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "wɔn afɔre"
+    }
+  ],
+  "timestamp": "2026-09-16T01:04:18.482603037Z",
+  "model": "glm-5.3"
+}

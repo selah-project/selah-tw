@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Misraim ɔhene yii no firi hene mu wɔ Yerusalem, na ɔde asoteɛ bɔɔ ⟨את⟩ asase no: sikadwa ɔha a ɛyɛ dwetɛ, ne sikakɔkɔɔ sikadwa baako.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "yii no firi hene mu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "na ɔde asoteɛ bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "sikadwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ne sikadwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sikakɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:12:47.997487283Z",
+  "model": "glm-5.3"
+}

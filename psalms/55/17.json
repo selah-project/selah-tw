@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Mene, mɛfrɛ Eloohim, na Yawe bɛgye me.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mɛfrɛ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "bɛgye me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:02.090933227Z",
+  "model": "glm-5.3"
+}

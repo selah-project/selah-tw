@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Wɔn nsam no ama wɔatoto wɔn ho; wɔn ano de ahantan na wɔkasa.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "wɔn nsam"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "wɔatoto wɔn ho"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "wɔn ano"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wɔkasa"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ahantan mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:07.635404632Z",
+  "model": "glm-5.3"
+}

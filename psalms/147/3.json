@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɔsa akoma abubuofoɔ, na ɔde ntɛmtɛm som wɔn amanehunu.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Ɔsa"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "abubuofoɔ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "na ɔde ntɛmtɛm som"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "wɔn amanehunu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:00.640427232Z",
+  "model": "glm-5.3"
+}

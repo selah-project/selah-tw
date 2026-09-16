@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔyɛɛ kerubim mmienu, mfoniniyɛ adwuma, wɔ asɔre fi kronkron a ɛyɛ kronkron paa mu; na wɔde sika kɔkɔɔ hyɛɛ ⟨את⟩ wɔn ase.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fi mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a ɛyɛ kronkron paa"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "mfoniniyɛ"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "na wɔhyɛɛ ase"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:52:24.554715580Z",
+  "model": "glm-5.3"
+}

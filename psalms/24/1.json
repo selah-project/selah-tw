@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Dawid asɛm. Nnwom. Yawe dea ne asase ne ne ho ma; wiase no ne wɔn a wɔte mu no.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid asɛm"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nnwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe dea"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ne ne ho ma"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wiase no"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "wɔn a wɔte mu no"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:33.485843140Z",
+  "model": "glm-5.3"
+}

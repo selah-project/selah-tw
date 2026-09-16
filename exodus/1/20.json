@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Eloohim yɛɛ awofoɔ no papa; nnipa no dɔɔso, na wɔdenam yeɛ berɛ tenten.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yɛɛ...papa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "awofoɔ no"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "wɔdenam yeɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "berɛ tenten"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:56.057902779Z",
+  "model": "glm-5.3"
+}

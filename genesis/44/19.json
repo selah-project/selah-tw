@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Adonai bisaa ⟨את⟩ n'akoafoɔ sɛ: So mo wɔ agya anaa nuanom?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'akoafoɔ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoafoɔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "So ... wɔ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "agya"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "אח",
+      "gloss": "nuanom"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:53.571615619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Wo hyira wɔ wo bra mu, na wo hyira wɔ wo kɔ mu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wo hyira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "wɔ wo bra mu"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "na wo hyira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "wɔ wo kɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:46.622610351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim yɛɛ ⟨את⟩ nhyerɛnne akɛseɛ mmienu — ⟨את⟩ nhyerɛn kɛseɛ no de ɛdi da no so, na ⟨את⟩ nhyerɛn ketewa no de ɛdi anadwo no so — ne ⟨את⟩ nsoromma no.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyerɛnne akɛseɛ mmienu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "nhyerɛnne"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyerɛn kɛseɛ no"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "nhyerɛn"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "de ɛdi ... so"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nhyerɛn ketewa no"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "nhyerɛn"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ketewa"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "de ɛdi ... so"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nsoromma no"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "nsoromma"
+    }
+  ],
+  "timestamp": "2026-09-15T20:14:59.623447493Z",
+  "model": "glm-5.3"
+}

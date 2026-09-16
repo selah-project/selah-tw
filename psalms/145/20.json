@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Yawe bɔ wɔn a wɔdɔ no nyinaa ho ban, na ⟨את⟩ atorɔfoɔ nyinaa ɔbɛsɛe wɔn.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "bɔ ho ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔdɔ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "wɔn a wɔdɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atorɔfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "atorɔfoɔ"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ɔbɛsɛe wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:35.432822389Z",
+  "model": "glm-5.3"
+}

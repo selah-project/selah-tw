@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Wo ahennwa, Eloohim, gyina fapem so daa, wo ahennie ahantan yɛ ɔtreneɛ ahantan.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "wo ahennwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fapem so"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ahantan"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ɔtreneɛ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ahantan"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "wo ahennie"
+    }
+  ],
+  "timestamp": "2026-09-16T01:54:02.443386037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Na mɛkɔ Eloohim bɔfoo so, kɔ El a ɔyɛ me anigyeɛ ne me agyinaeɛ; na mede kinnor bɛda w'ase, Eloohim, m'Eloohim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "na mɛkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bɔfoo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "a ɔyɛ me anigyeɛ"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "ne me agyinaeɛ"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "na mɛda w'ase"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "de kinnor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "m'Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:35.713698403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 35:33",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Ne ⟨i⟩ aboɔ twa, de ahyɛ mu, ne dua twa, ayɛ mfomaa adwuma biara a wɔabɔ no dwuma.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "ne dua twa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "de ahyɛ mu"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "ne twatwa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "adwuma biara mu"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "a wɔabɔ no dwuma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:45.521528516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Mihwehwɛɛ ⟨את⟩ Yawe, na ɔbuaeɛ me, na ɔgyee me firi mihunahuna nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Mihwehwɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "na ɔbuaeɛ me"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "firi ... nyinaa"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mihunahuna"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ɔgyee me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:30.373896754Z",
+  "model": "glm-5.3"
+}

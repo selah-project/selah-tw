@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 96,
+  "translation": "Ka ne animuonyam ho asɛm wɔ amanaman mu, wɔ nnipa dodoɔ nyinaa mu ka n'ananmusɛm a ɛyɛ nwononwono.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "ka ho asɛm"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanaman mu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ne animuonyam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "nnipa dodoɔ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "n'ananmusɛm a ɛyɛ nwononwono"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:57.318373798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Kwa na me bɔɔ ⟨את⟩ mo mma; wɔannye ntɛmso: mo afena dii mo adiyifoɔ sɛ gyata a ɛsɛe nneɛma.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "me bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo mma"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ntɛmso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔan-"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nye"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "dii"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "mo afena"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "mo adiyifoɔ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sɛ gyata"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "a ɛsɛe nneɛma"
+    }
+  ],
+  "timestamp": "2026-09-16T00:05:59.286384446Z",
+  "model": "glm-5.3"
+}

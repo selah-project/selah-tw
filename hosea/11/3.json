@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na me nko ara matirigu Efraim nanteɛ, mekyeree wɔn ntihye so; nanso wɔannim sɛ meyɛɛ wɔn aduro.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "na me nko ara"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "matirigu ... nanteɛ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "mekyeree wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "ntihye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... annim"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔannim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "meyɛɛ wɔn aduro"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:30.115055522Z",
+  "model": "glm-5.3"
+}

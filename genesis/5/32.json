@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Noa bɛyɛ mfeɛ ahannum, na Noa woo ⟨את⟩ Sem, ⟨את⟩ Ham, ne ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bɛyɛ mfeɛ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:05.809911775Z",
+  "model": "glm-5.3"
+}

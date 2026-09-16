@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Ɛfiri sɛ mentenaa fie mu firi da a mede ⟨את⟩ Yisrael baeɛ de besi nnɛ yi da; na metuaa tɛnt, kɔɔ tɛnt mu, na (kɔɔ) tenabea mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m-"
+    },
+    {
+      "surface": "יָשַׁבְתִּי",
+      "gloss": "mentenaa"
+    },
+    {
+      "surface": "בְּבַיִת",
+      "gloss": "wɔ fie mu"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הֶעֱלֵיתִי",
+      "gloss": "mede baeɛ"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "de besi"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "yi da"
+    },
+    {
+      "surface": "וָאֶהְיֶה",
+      "gloss": "na meyɛɛ"
+    },
+    {
+      "surface": "מֵאֹהֶל",
+      "gloss": "firi tɛnt mu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "tɛnt mu"
+    },
+    {
+      "surface": "וּמִמִּשְׁכָּן",
+      "gloss": "na (firi) tenabea mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:45:31.502599117Z",
+  "model": "glm-5.3"
+}

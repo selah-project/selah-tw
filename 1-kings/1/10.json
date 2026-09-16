@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nanso ⟨את⟩ Natan ɔnanfoɔ no ne Benaya ne ⟨את⟩ akokodurufoɔ no ne ⟨את⟩ ne nuabarima Shelomoh, ɔannfrɛ wɔn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nanso ⟨את⟩",
+      "marks": "Natan ɔnanfoɔ no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ɔnanfoɔ no"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ne Benaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "akokodurufoɔ no"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "akokodurufoɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nuabarima Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuabarima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ɔfrɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:02.435938705Z",
+  "model": "glm-5.3"
+}

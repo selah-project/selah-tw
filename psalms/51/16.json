@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Eloohim, Eloohim a ⟨ɔyɛ⟩ me nkwagyeɛ, gye me firi mogya mu, na me tɛkrɛma bɛto dwom fa wo atɛntrenee ho.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "gye me"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "firi mogya mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim a"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "me nkwagyeɛ"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "bɛto dwom (akyerɛ anigyeɛ)"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "me tɛkrɛma"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "wo atɛntrenee"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:07.047069650Z",
+  "model": "glm-5.3"
+}

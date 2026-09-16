@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Yawe baa aseɛ sɛ ɔmmɛhwɛ ⟨את⟩ kuro no ne ⟨את⟩ toro no a nnipa mma bɔeɛ no.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "baa aseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "sɛ ɔmmɛhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuro no"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toro no"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "toro no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bɔeɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:41.368050568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Asase no ahemfo ne wiase nyinaa tenaafoɔ no annye annyɛ sɛ ɔtamfo ne ɔatamfo bɛtwa Yerusalem anonnwa mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "annye"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "annyɛ bio"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne wiase nyinaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tenaafoɔ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wiase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛtwa mu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɔtamfo"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ne ɔatamfo"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "anonnwa mu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T03:51:55.824579811Z",
+  "model": "glm-5.3"
+}

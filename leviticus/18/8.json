@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wo agya yere ahoyaa, wo nnyi adi da; ne ɔno yɛ wo agya ahoyaa.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ahoyaa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da (nnyi)"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "wo nnyi ... adi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ahoyaa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne ɔno"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:38.739378218Z",
+  "model": "glm-5.3"
+}

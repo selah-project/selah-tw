@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wɔbuaa ⟨את⟩ Yawe malaafoɔ a ɔgyinaa hadua no ntam no, na wɔkaa sɛ: \"Yɛnanteantee asase no so, na hwɛ, asase no nyinaa tena hɔ wɔ kommyɛm.\"",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "wɔbuaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe malaafoɔ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaafoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ɔgyinaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "hadua no"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔkaa sɛ"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "yɛnanteantee"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "tena hɔ"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "kommyɛm mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:26:18.345495737Z",
+  "model": "glm-5.3"
+}

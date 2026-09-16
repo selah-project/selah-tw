@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Wo ayɛmyie anuonyam, ne wo nnyinasoɔ a ɛyɛ nwonwa no, mɛbɔ mu asusu ho.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "anuonyam"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ayɛmyie"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "wo kɛseyɛ"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ne wo nsɛm"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "a ɛyɛ nwonwa"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mɛbɔ mu asusu ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:01.263691565Z",
+  "model": "glm-5.3"
+}

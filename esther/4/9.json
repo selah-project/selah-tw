@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Hatak baa na ɔkaa Ester nkyerɛ ⟨את⟩ Mordekai nsɛm no.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ɔkaa nkyerɛ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai nsɛm no"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm no"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    }
+  ],
+  "timestamp": "2026-09-16T04:01:22.880773807Z",
+  "model": "glm-5.3"
+}

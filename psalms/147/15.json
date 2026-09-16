@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɔsom ne命令 no gu asase so; ne asɛm tu mmirika ntɛm ara.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Ɔsom ... gu"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "ne命令"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔpem"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ntɛm ara"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "tu mmirika"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:21.020466402Z",
+  "model": "glm-5.3"
+}

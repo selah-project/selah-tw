@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Mosheh kasaaye wɔ Yawe anim se: Hwɛ, Israel mma no ntie me, na Paroh de bɛtie me sɛn, na me nso m'ano yɛ ntwafoɔ?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasaaye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na ... sɛn"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "bɛtie me"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me nso"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "yɛ ntwafoɔ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "m'ano"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:01.115629744Z",
+  "model": "glm-5.3"
+}

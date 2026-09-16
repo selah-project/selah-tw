@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Bɔ me ho ban sɛ aniwa no mu ɔba; sum me wɔ wo ntaban nkyɛn sum mu.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "bɔ me ho ban"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "sɛ ... ɔba a ɔwɔ aniwa no mu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "עין",
+      "gloss": "aniwa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "wɔ ... sum mu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wo ntaban"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "sum me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:18.531772301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Aniafoɔ, anifwaeɛfoɔ nso, wɔn kra wɔ wɔn mu toroɔ.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Aniafoɔ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "anifwaeɛfoɔ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn kra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ wɔn mu"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "toroɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:00.320398367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Hene no sii n'ani hwɛɛ, na ɔhyiraa ⟨את⟩ Yisrael nhyiam nyinaa; na Yisrael nhyiam nyinaa gyina.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "sii n'ani hwɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ani"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'ani"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ɔhyiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael nhyiam nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na Yisrael nhyiam nyinaa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "gyina"
+    }
+  ],
+  "timestamp": "2026-09-16T04:56:19.280276961Z",
+  "model": "glm-5.3"
+}

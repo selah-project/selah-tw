@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 28:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Ne ephi no mu nkyekyɛm edu, esikyiri fĩ, de ama minca, a wɔaka ngo a wɔayam ho, hin no mu ɛnan mu baako.",
+  "tokens": [
+    {
+      "surface": "ועשירית",
+      "gloss": "na ... nkyekyɛm edu"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ephi no mu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "esikyiri fĩ"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "de ama minca"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "a wɔaka abom"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "a wɔayam"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "ɛnan mu baako"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hin no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:57.422274577Z",
+  "model": "glm-5.3"
+}

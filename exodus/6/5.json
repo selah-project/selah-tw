@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Medeε nso mate ⟨את⟩ Israel mma no sueε, a Misraim reyε wɔn akowa, na makae me nhyehyεe no.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Medeε nso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel mma no sueε"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "sueε"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "reyɛ wɔn akowa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "na makae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nhyehyɛe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me nhyehyɛe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:17.092637696Z",
+  "model": "glm-5.3"
+}

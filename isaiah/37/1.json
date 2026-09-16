@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na ɛbaa sɛ, sɛ ɔhene Hizkia tee no, ɔboo ⟨את⟩ ne ntomaw, ɔkataa ne ho bɔsāā, na ɔkɔɔ Yawe fie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sɛ ... tee no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ɔboo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ntomaw"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ne ntomaw"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ɔkataa ne ho"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "bɔsāā"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:53:06.007022517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na mo ahoɔdekɛse bɛsã hwee; na mo asase rema ne nnɔbaeɛ ⟨את⟩, na asase no nnua nso rennora ne ba.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "bɛsã hwee"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ama hwee"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "mo ahoɔdekɛse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nnyɛ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "rema"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "mo asase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnɔbaeɛ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "nnɔbaeɛ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na ... nnua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nnora"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:26.316892946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "na ababaawa no agya no aka kyerɛ mpanimfoɔ no sɛ: ⟨את⟩ me ba na mede maa ɔbarima yi sɛ yere, na wayi no atam.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "aka kyerɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ababaawa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mpanimfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ba"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede maa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sɛ yere"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "na wayi no atam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:56.384604198Z",
+  "model": "glm-5.3"
+}

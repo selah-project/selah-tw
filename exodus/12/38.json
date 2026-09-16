@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Nnipa ahorow dodoɔ bi nso kɔɔ ⟨את⟩ wɔn ho: nguan ne anantwie, anonne akɛseɛ paa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nnipa ahorow"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dodoɔ bi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn ho",
+      "marks": "⟨אתם⟩"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nguan ne"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "anonne"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "akɛseɛ paa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:02.595237665Z",
+  "model": "glm-5.3"
+}

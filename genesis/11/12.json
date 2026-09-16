@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Arfakshad tenaa ase mfeɛ enum ne aduasa, na ɔwoo ⟨את⟩ Shelakh.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Na Arfakshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ne aduasa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:53.493081759Z",
+  "model": "glm-5.3"
+}

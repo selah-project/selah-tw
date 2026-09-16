@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Paroh teεɛ ntεm frɛɛ Mosheh ne Aharon, na ɔkaa sɛ: “Mayɛ mfomɔɔ atia Yawe, mo Eloohim, ne mo.”",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "teεε ntεm"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Mayɛ mfomɔɔ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "atia Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ne mo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:11.060243222Z",
+  "model": "glm-5.3"
+}

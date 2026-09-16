@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɔhwɛ — Yawe fri ne baabi ba, na ɔsiane na ɔnam asase mmɔntene so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɔhwɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fri ... ba"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ne baabi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "na ɔsiane"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na ɔnam ... so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "mmɔntene"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:17:13.447889337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wɔfirii mu hwɛe wɔn nsa ne wɔn nan — Moshe ne Aharon ne ne mma.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Na wɔhwɛe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firii mu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nan"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "wɔn nan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:07.244544832Z",
+  "model": "glm-5.3"
+}

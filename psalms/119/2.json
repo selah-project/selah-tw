@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ahonya wɔ wɔn a wɔbɔ ne adansedie so so, wɔn a wɔhwehwɛ no wɔ wɔn akoma nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ahonya"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "wɔn a wɔbɔ ... so so"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ne adansedie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "wɔhwehwɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:15.859977868Z",
+  "model": "glm-5.3"
+}

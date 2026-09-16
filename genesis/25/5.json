@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Abraham maa ⟨את⟩ biribiara a na ɔwɔ ma ɔyɛ Yitsak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biribiara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ɔwɔ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ma ɔyɛ Yitsak"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:35.127531171Z",
+  "model": "glm-5.3"
+}

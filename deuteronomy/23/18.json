@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Israel mmabea no mu ⟨qedeshah⟩ nni hɔ, na Israel mmarima no mu ⟨qadesh⟩ nni hɔ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨asɛm⟩"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "qedeshah (abosomsɔfoɔ basiabaa)"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "Israel mmabea no mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨asɛm⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadesh (abosomsɔfoɔ basiabarima)"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Israel mmarima no mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:46.316192888Z",
+  "model": "glm-5.3"
+}

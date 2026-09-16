@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ne akyi Eylon Zebulonni no dii ⟨את⟩ Yisraɛl so atemmamu, na ɔdii ⟨את⟩ Yisraɛl atemmamu mfeɛ du.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dii atemmamu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ne akyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eylon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zebulonni no"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ɔdii atemmamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:39:46.567682131Z",
+  "model": "glm-5.3"
+}

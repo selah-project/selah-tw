@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo na wɔhyira wo, Yawe; kyerɛ me wo nhyehyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "wɔhyira wo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kyerɛ me"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "wo nhyehyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:55.364664006Z",
+  "model": "glm-5.3"
+}

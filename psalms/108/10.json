@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "Moab yɛ me ho atew sir; Edom so na mede m'anansee bɛto; Felistia so na mɛbɔ me teɛteɛ.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "sir"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "me ho atew"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "na mɛto"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "m'anansee"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "so"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Felistia"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "na mɛbɔ me teɛteɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.497326581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Yɛde nsam maa Misraim, maa Ashur, sɛ yɛbɛsɔ anyinam.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "yɛde...maa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sɛ yɛbɛsɔ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "anyinam"
+    }
+  ],
+  "timestamp": "2026-09-16T03:51:13.538627794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Yawe Honhom kasa tiaa me mu, na n'asɛm da me tɛkrɛma so.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Honhom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa tiaa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me mu"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "na n'asɛm"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "me tɛkrɛma"
+    }
+  ],
+  "timestamp": "2026-09-16T05:18:43.480544337Z",
+  "model": "glm-5.3"
+}

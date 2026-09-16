@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Nanso Yawe amma mo akoma a ɛbɛsuahunu, ani a ɛbɛhunu, na aso a ɛbɛte, kɔsi ɛnnɛ yi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... amma"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "a ɛbɛsuahunu"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a ɛbɛhunu"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "aso"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "a ɛbɛte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:58:08.696230850Z",
+  "model": "glm-5.3"
+}

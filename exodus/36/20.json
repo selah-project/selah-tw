@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na ɔyɛɛ ⟨את⟩ ntuatwa no de yɛɛ Asɔredan no — Sitim dua, a ɛgyina.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntuatwa no"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ntuatwa no"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "de yɛɛ Asɔredan no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Sitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "a ɛgyina"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:58.099465640Z",
+  "model": "glm-5.3"
+}

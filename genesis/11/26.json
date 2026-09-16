@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Terah tenaa ase mfeɛ aduonum, na ɔwoo ⟨את⟩ Abram, ⟨את⟩ Nahor, ne ⟨את⟩ Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:50.503551157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Yawe Eloohim faa ⟨את⟩ onipa no, de no tenaa Eden afuo mu sɛ ɔnyɛ adwuma wɔ mu na ɔnhwɛ so.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa no"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "de no tenaa"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "wɔ afuo mu"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "sɛ ɔnyɛ adwuma wɔ mu"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "na ɔnhwɛ so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:50.617731697Z",
+  "model": "glm-5.3"
+}

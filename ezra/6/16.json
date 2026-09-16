@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Israel mma — asɔfoɔ, Laevifoɔ, ne nhyɛso mma a wɔaka no — yɛɛ Elaha fie yi pɛpa anigyeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "Laevifoɔ"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "ne deɛ wɔaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "nhyɛso"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pɛpa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "anigyeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:21:30.107669808Z",
+  "model": "glm-5.3"
+}

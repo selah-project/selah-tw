@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na akyire yi Yisrael mma nyinaa bɛɛn no, na ɔhyɛɛ wɔn mmara — ⟨את⟩ deɛ Yawe ne ⟨את⟩ no kasaɛ wɔ Sini bepɔ no so no nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Na akyire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yi"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "bɛɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ɔhyɛɛ wɔn mmara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ … nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasaɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bepɔ no so"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sini"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:30.091131417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 96,
+  "translation": "Ka wɔ amanmu sɛ Yawe adi ɔhene; wiase nso de ne ho si pintinn, ɛnyɛ sɛ ɛbɛmegu; ⟨ɔno⟩ bɛbu aman atemmuo pɛpɛɛpɛ.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "adi ɔhene"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nso"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "de ne ho si pintinn"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wiase"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ɛbɛmegu"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bɛbu atemmuo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "pɛpɛɛpɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:04.201176276Z",
+  "model": "glm-5.3"
+}

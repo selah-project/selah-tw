@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Wo bufuo ne wo kotokuo nti; ɛfiri sɛ wodɔɔ so na woguu me guu fam.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "nti"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "wo bufuo"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "ne wo kotokuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "wodɔɔ so"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "na woguu me guu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:11.634248713Z",
+  "model": "glm-5.3"
+}

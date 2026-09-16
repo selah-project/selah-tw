@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 120,
+  "translation": "Aweregyeɛ me mmɔho sɛ metena Meshek, methɔ Qedar ahemdan mu.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Aweregyeɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me mmɔho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "metena"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "methɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ahemdan"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:57.178740605Z",
+  "model": "glm-5.3"
+}

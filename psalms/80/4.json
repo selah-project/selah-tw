@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Eloohim, twe yɛn san aba, ma wo anim hyerɛn, na yɛnkwɔ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "twe yɛn san aba"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ma ... hyerɛn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "na yɛnkwɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:47.885008654Z",
+  "model": "glm-5.3"
+}

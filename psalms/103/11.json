@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Ɛfiri sɛ, sɛnea ɔsoro soro sen asase no, saa ara nso ne hesed ⟨ahonya⟩ sene wɔn a wɔsuro no no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sɛnea ... soro"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "sene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wɔn a wɔsuro no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:33.268839456Z",
+  "model": "glm-5.3"
+}

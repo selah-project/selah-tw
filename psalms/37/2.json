@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Ɛfiri sɛ sɛszerɛ so na wɔte, ntɛm na wɔtwawɔn, na sɛ ahahamɔa a ɛgu so na wɔwowo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sɛ sɛszerɛ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ntɛm"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "wɔtwawɔn"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "na sɛ ahahamɔa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "a ɛgu so"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "wɔwowo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:02.786690472Z",
+  "model": "glm-5.3"
+}

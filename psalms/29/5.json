@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yawe nnebɔ no bubu cedar nnua; na Yawe bubu ⟨את⟩ Lebanon cedar nnua.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "nnebɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bubu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar nnua"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "na ... bubu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lebanon cedar nnua"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedar nnua"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:10.236396111Z",
+  "model": "glm-5.3"
+}

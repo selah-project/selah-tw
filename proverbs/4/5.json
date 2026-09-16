@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Sɔ nyansa, sɔ nteaseɛ; nkaeɛ, na wo nntwa w'ani so afiri me ano nsɛm no mu.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Sɔ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sɔ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "nteaseɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kae"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wo nn"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ntwa w'ani so"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "afiri ... nsɛm"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    }
+  ],
+  "timestamp": "2026-09-16T02:44:18.723407257Z",
+  "model": "glm-5.3"
+}

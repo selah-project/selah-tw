@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛfiri sɛ sɛ baako no gyegye a, baako no bɛsɔ ⟨את⟩ ne yɔnko so; na baako no a ɔbɛgyegye no, ɔnni ɔbaafoɔ a ɔbɛsɔ no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "gyegye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "bɛsɔ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yɔnko"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "na (baako a)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ɔbɛgyegye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ɔnni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɔbaafoɔ"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "a ɔbɛsɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:54:05.332398899Z",
+  "model": "glm-5.3"
+}

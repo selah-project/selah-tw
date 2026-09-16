@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 53,
+  "translation": "Hwan na ɔgyee yɛn asɛmtie no dii? na Yawe yam no, hwan na wɔdaa no adi no?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "gyee ... dii"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "yɛn asɛmtie"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "na yam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "wɔdaa no adi"
+    }
+  ],
+  "timestamp": "2026-09-16T05:27:46.957753621Z",
+  "model": "glm-5.3"
+}

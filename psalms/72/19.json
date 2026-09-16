@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Na yɛnhyira n'animuonyam din no daa; na ɛnsɛ sɛ n'animuonyam hyɛ ⟨את⟩ asase no nyinaa ma; Amen, na Amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "na yɛnhyira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "n'animuonyam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "na ɛnsɛ sɛ ... hyɛ ma"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "n'animuonyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amen"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:14.434285735Z",
+  "model": "glm-5.3"
+}

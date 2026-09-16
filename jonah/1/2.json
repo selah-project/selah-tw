@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Sɔre, kɔ Ninwe, kuro kɛseɛ no mu, na frɛ wɔn so asɛm, wɔ awerɛhoɔ atena me anim.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–mu (kɔ...mu)"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(efisɛ)"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "atena (asɔ)"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "wɔ awerɛhoɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "me anim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:16:46.540271015Z",
+  "model": "glm-5.3"
+}

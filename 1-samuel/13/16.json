@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Shaoul ne Yonatan ne ba, ne nnipa a wɔne wɔn wɔ hɔ no, tenaa Binjamin Geba; na Palestinafoɔ no bɔɔ wɔn tenatenaa Mikhmash.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Na Shaoul"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ne Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ne nnipa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a wɔwɔ hɔ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ne wɔn"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "wɔ Geba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na Palestinafoɔ no"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "bɔɔ wɔn tenatenaa"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "Mikhmash"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:24.827417171Z",
+  "model": "glm-5.3"
+}

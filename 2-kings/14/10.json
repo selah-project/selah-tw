@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "\"Woakum Edom ⟨את⟩ no ara, na wo akoma apagya wo; pra wo ho na tena wo fie. Adɛn na wobɛko atia ɔhaw, na wo atena ase — wo ne Yuda a ɔka wo ho nyinaa?\"",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Adeyɛ a woyɛe"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "Woakum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "apagya wo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pra wo ho"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "tena"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wo fie"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Adɛn na"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "wobɛko atia"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "wo tena ase"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yuda nso"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a ɔka wo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:17.568222193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 58,
+  "translation": "Wɔn du no te sɛ nnanswa du; te sɛ nnanswa a ɔyera no a, ɔda ne aso so.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "du"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wɔn de"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "te sɛ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "du"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nnanswa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "te sɛ"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "nnanswa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "a ɔyera"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ɔda … so"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ne aso"
+    }
+  ],
+  "timestamp": "2026-09-16T02:00:30.393916955Z",
+  "model": "glm-5.3"
+}

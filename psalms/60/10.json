@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Moab yɛ me ahotewdeɛ ahina; Edom so na mede me sandal bɛto; Peleshet, ka anigye wɔ me ho.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ahina"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "me ahotewdeɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "na mede ... bɛto"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "me sandal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ me ho"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "ka anigye"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:28.785893662Z",
+  "model": "glm-5.3"
+}

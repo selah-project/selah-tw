@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 96,
+  "translation": "To dwom maa Yawe, hyira ne din; bɔ ne nkwagyeɛ amaneɛɛ foforɔ da biara da.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "to dwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hyira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bɔ amaneɛɛ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "firi ɛda"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kɔsi ɛda"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ne nkwagyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:57.317702638Z",
+  "model": "glm-5.3"
+}

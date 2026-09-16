@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Ma yɛn akomɔ sɛdeɛ nna a wo de yɛn amaneɛ, ne afe a yɛahunu bɔne no.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "ma yɛn akomɔ"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "sɛdeɛ nna a"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "wo de yɛn amaneɛ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ne afe a"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "yɛahunu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:06.614808480Z",
+  "model": "glm-5.3"
+}

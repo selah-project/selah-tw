@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Fa aben no kɔ w'ano mu; sɛ ɔpetɛ ⟨bere⟩ Yawe fie so, ɛfiri sɛ wɔbuu me apam so, na wɔsoa tia me Torah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "w'ano mu"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "aben no"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "sɛ ɔpetɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨bere⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wɔbuu so"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "tia"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "me Torah"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "wɔsoa (soa tia)"
+    }
+  ],
+  "timestamp": "2026-09-16T01:05:41.073531357Z",
+  "model": "glm-5.3"
+}

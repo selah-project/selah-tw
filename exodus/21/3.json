@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Sɛ ne ho ara na ɔbaeɛ a, ne ho ara na ɔfirimu; sɛ ɔyɛ ɔwarefoɔ a, ne yere nso firimu ne ho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ne ho ara"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ɔbaeɛ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ne ho ara"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ɔfirimu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ɔwarefoɔ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "firimu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:55:02.729768762Z",
+  "model": "glm-5.3"
+}

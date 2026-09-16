@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Eloohim kaa sɛ: “Nsuo a ɛwɔ ɔsoro ase no munta baako bea, na asase-kwa mpue.” Na ɛbɛyɛɛ saa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na-kaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "munta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "bea"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "na-mpue"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "asase-kwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na-ɛbɛyɛɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:07.865385652Z",
+  "model": "glm-5.3"
+}

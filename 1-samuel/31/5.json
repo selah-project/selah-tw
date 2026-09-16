@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ne asodeɛ-sofoɔ no hunuu sɛ Shaool awu, na ɔno nso too ne ho wɔ n'afena so, na ɔwuiɛ ne ho.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "asodeɛ-sofoɔ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nneɛma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "awu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaool"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "too ne ho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "n'afena"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ɔwuiɛ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:53.120353351Z",
+  "model": "glm-5.3"
+}

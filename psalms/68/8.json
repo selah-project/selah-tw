@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Eloohim, wɔ berɛ a wode w'ani sii adi kan wɔ w'amanfoɔ anim, wɔ berɛ a wotwaa mu kwan wɔ asɛsoɔ mu — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "wɔ berɛ a wode w'ani sii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "adi kan ... anim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "w'amanfoɔ"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "wɔ berɛ a wotwaa mu kwan"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "wɔ asɛsoɔ mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:38.683391379Z",
+  "model": "glm-5.3"
+}

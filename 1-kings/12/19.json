@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Israel sɔre tiaa David fi no, kɔsi da yi.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "sɔre tiaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:43.590267579Z",
+  "model": "glm-5.3"
+}

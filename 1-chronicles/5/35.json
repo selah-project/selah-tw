@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Achimaats woo ⟨את⟩ Azarjah, na Azarjah woo ⟨את⟩ Yochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "na Achimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:58.438829694Z",
+  "model": "glm-5.3"
+}

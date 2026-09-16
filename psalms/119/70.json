@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wɔn akoma atɛtɛ sɛ ngo; na mani agye wɔ wo Torat mu.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "atɛtɛ"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "sɛ ngo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "wo Torat"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "mani agye … mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:43.309060723Z",
+  "model": "glm-5.3"
+}

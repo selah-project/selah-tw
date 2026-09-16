@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Dawid de, berɛ a ɔsɛsaee ⟨את⟩ n'adwene wɔ Abimelek anim, na ɔpam no, na ɔkɔeɛ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "berɛ a ɔsɛsaee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'adwene"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "n'adwene"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "na ɔpam no"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:26.496334485Z",
+  "model": "glm-5.3"
+}

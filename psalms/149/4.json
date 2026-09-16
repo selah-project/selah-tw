@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 149,
+  "translation": "Ɛfiri sɛ Yawe pɛ ne manfoɔ; ɔma ahobraseɛfoɔ yɛ ahonya wɔ nkwigyeɛ mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ne manfoɔ"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ɔma ... yɛ ahonya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ahobraseɛfoɔ"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "wɔ nkwigyeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:37.769434998Z",
+  "model": "glm-5.3"
+}

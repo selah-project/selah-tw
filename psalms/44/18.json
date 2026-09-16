@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Saa nyinaa adwo yɛn so, na yɛannwerɛ Wo, na yɛannyɛ atoro wɔ Wo apam mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "adwo yɛn so"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... -nn"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "yɛannwerɛ Wo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... -nn"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "yɛannyɛ atoro"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "wɔ Wo apam mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:06.854921179Z",
+  "model": "glm-5.3"
+}

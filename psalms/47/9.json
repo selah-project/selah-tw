@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Eloohim ayɛ ɔhene wɔ amanaman so; Eloohim atena n'akonnwa kronkron so.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ayɛ ɔhene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "atena"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "akonnwa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "n' ... kronkron"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:44.612815915Z",
+  "model": "glm-5.3"
+}

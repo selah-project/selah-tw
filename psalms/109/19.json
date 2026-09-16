@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ɛnyɛ ne dea sɛ ntadeɛ a ɔde hyɛ ne ho, ne mframa a ɔde bɔ ne ho daa.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Ɛnyɛ ne dea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "sɛ ntadeɛ"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ɔde hyɛ ne ho"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "ne mframa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "ɔde bɔ ne ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:31.187958168Z",
+  "model": "glm-5.3"
+}

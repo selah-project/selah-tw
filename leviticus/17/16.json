@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na sɛ ɔnhohoro n'atadeɛ, na n'aham nnsu nsuo mu a, ɔbɛsoa ne bɔne.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "hohoro"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "n'aham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "nsu nsuo mu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "bɛsoa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ne bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:38.874074770Z",
+  "model": "glm-5.3"
+}

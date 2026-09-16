@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Yawe Eloohim yɛɛ ⟨את⟩ onipa no firi asase no amannwini mu, na ɔde home a nkwa wɔ mu bɔɔ nehome mu, na onipa no bɛyɛɛ nipadua a nkwa wɔ mu.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa no"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "amannwini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "na ɔbɔɔ home"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "nehome mu"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "home"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a nkwa wɔ mu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɔbɛyɛɛ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nipadua a"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nkwa wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:11.972159972Z",
+  "model": "glm-5.3"
+}

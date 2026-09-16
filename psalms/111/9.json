@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 111,
+  "translation": "Okuahyɛde a ɔde gyee wɔn no, wasoma ama ne man; wayɛ ne apam hyɛ daa; kronkron na ahodwiriw ne din.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "okuahyɛde a ɔde gyee wɔn"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wasoma"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ama ne man"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayɛ hyɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "na ahodwiriw"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:00.196341637Z",
+  "model": "glm-5.3"
+}

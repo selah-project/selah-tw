@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ne ⟨את⟩ ɛpo baako, ne ⟨את⟩ anantwie dunsia a ɛda ɛpo no ase.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ɛpo baako"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "anantwie dunsia"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dunsia"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(du-mmienu)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:15:39.108181430Z",
+  "model": "glm-5.3"
+}

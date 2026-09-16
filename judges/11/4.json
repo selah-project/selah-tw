@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛbaa sɛ berɛ bi akyi, na Amon mma koɔe tia Israely.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "berɛ bi akyi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "koɔe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israely"
+    }
+  ],
+  "timestamp": "2026-09-15T22:40:58.256466481Z",
+  "model": "glm-5.3"
+}

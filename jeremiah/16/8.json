@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na anom fie mu nhyɛ wo: ntena hɔ ne ⟨את⟩ wɔn sɛ wobɛdi na wobɛnom.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "na fie"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "anom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnhyɛ wo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kɔ mu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sɛ wobɛtena hɔ ne"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sɛ wobɛdi"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "na wobɛnom"
+    }
+  ],
+  "timestamp": "2026-09-16T00:12:47.404149904Z",
+  "model": "glm-5.3"
+}

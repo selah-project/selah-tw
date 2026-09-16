@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "wobɛkum kurow no mu atenafoɔ a ɛwɔ asuma ano, ⟨את⟩ hɔ nyinaa na ⟨את⟩ deɛ ɛwɔ mu nyinaa, ne ⟨את⟩ n'ananom, asuma ano kɔkɔɔ.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "wobɛkum"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow no mu atenafoɔ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kurow no mu atenafoɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "asuma"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "hɔ nyinaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hɔ nyinaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "deɛ ɛwɔ mu nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ɛwɔ mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'ananom"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "n'ananom"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "asuma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:06.699870618Z",
+  "model": "glm-5.3"
+}

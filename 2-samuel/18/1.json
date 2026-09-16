@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Davide sɔɔ ⟨את⟩ nnipa no a na wɔ ⟨את⟩ ne ho hwɛ, na ɔde wɔn a wɔdi wɔn anim wɔ apem mu ne wɔn a wɔdi wɔn anim wɔ ɔha mu sii wɔn so.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "sɔɔ hwɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne ho"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na ɔde sii"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "a wɔdi wɔn anim"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "apem mu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ne a wɔdi wɔn anim"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:08:21.506178386Z",
+  "model": "glm-5.3"
+}

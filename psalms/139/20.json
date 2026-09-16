@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Wɔn a wɔka wo ho akwaadworɔ, wɔde wo din di dwuma kwa, wo atamfoɔ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wɔn a"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "wɔka wo ho"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "akwaadworɔ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wɔde wo din di dwuma"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "wo atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:15.123613624Z",
+  "model": "glm-5.3"
+}

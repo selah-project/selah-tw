@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nna saa na mmarima no nnipa din: wɔbɛgyina ⟨את⟩ mo ho; wɔ Reuben: Elitsur, Shedeyor ba.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Nna saa na"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "din"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mmarima no nnipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bɛgyina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo ho",
+      "marks": "mo"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "wɔ Reuben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeyor"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:10.785938115Z",
+  "model": "glm-5.3"
+}

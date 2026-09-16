@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Saa ara na masan aba; me pɛ wɔ nnɛ yi mu sɛ mayɛ Yerusalem ne fie Yehuda papa; monnsuro.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "masan aba"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "me pɛ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "wɔ …nnɛ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi mu"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "sɛ mayɛ…papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "fie Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mon"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nsuro"
+    }
+  ],
+  "timestamp": "2026-09-16T01:32:13.692663805Z",
+  "model": "glm-5.3"
+}

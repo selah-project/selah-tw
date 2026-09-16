@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "⟨את⟩ Mishkan no nwoma, ne ⟨את⟩ abɔnten no nwoma, ne ⟨את⟩ wɔn nkabɔnsɛm.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan no nwoma"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abɔnten no nwoma"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "abɔnten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkabɔnsɛm"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "nkabɔnsɛm"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:03.080170225Z",
+  "model": "glm-5.3"
+}

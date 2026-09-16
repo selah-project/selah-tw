@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "na ababaawa no agya ne ne ɛna bɛfa ⟨את⟩ ababaawa no awerɛeɛ nsɛnkyerɛnne akɔma kuro no mpanimfoɔ wɔ ɛpono no ano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bɛfa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ababaawa no"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ne ne ɛna"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "akɔma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababaawa no awerɛeɛ nsɛnkyerɛnne"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "awerɛeɛ nsɛnkyerɛnne"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ababaawa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔma"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "wɔ ɛpono no ano"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:56.384481958Z",
+  "model": "glm-5.3"
+}

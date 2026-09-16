@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Dawid bɔɔ ⟨את⟩ Hadadezer, Rehob ba, Soba ɔhene, berɛ a na ɔrekɔ sɛ ɔbɛsan de ne nsa asisi asubɔnten no mu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ɔbɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Soba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "berɛ a na ɔrekɔ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sɛ ɔbɛsan de"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "asubɔnten no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:34.564912477Z",
+  "model": "glm-5.3"
+}

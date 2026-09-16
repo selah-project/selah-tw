@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wɔ guareɛ ahaban mono mu no, ɔma me da; wɔ nsuo a egyina hoyaa so no, ɔkyerɛ me kwan.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "wɔ guareɛ mu"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ahaban mono"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "ɔma me da"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "a egyina hoyaa so"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "ɔkyerɛ me kwan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:44.425076209Z",
+  "model": "glm-5.3"
+}

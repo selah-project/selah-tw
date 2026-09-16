@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Shaul dwirii ani hwɛɛ ⟨את⟩ Davide ⟨ahonya⟩, firi ɛda no mu de baakyire.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbɛyɛɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dwirii ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "firi ɛda no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "de baakyire"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:51.544008420Z",
+  "model": "glm-5.3"
+}

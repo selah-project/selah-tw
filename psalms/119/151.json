@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo ⟨yɛ⟩ bɛn, Yawe; na wo nhyehyɛe nyinaa ⟨yɛ⟩ nokorɛ.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "wo nhyehyɛe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:21.864959541Z",
+  "model": "glm-5.3"
+}

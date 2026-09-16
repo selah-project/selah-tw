@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Yawe ɔsomafoɔ tena wɔn a wɔsuro no no ho asɛso, na ɔgye wɔn.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "tena ... asɛso"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ɔsomafoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho asɛso"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wɔn a wɔsuro no no"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "na ɔgye wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:30.379451664Z",
+  "model": "glm-5.3"
+}

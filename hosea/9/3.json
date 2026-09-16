@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wɔnrentena Yawe asase mu; Efrayim bɛsan akɔ Misraim, na wɔbɛdi ahuntahun adeɛ wɔ Ashur.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wɔnrentena"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "bɛsan akɔ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "wɔ Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ahuntahun"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wɔbɛdi … adeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:30.872563011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Eloohim de nsuo a ɛyɛ ⟨apɛdeɛ⟩ bɔ guu hɔ; wo agyapadeɛ a ⟨ɔbrɛeɛ⟩ no, wo sii no gyinabea.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "apɛdeɛ (ahofadi mu adɔeɛ)"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "bɔ guu hɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "wo agyapadeɛ"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "a ɔbrɛeɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "sii no gyinabea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:35.967602488Z",
+  "model": "glm-5.3"
+}

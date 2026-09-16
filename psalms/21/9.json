@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wo nsa bɛhunu wo atamfoɔ nyinaa, wo nsa nifa bɛhunu wɔn a wɔtan wo.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "wo atamfoɔ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nsa nifa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wɔn a wɔtan wo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:08.434454864Z",
+  "model": "glm-5.3"
+}

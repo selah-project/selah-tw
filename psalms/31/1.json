@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ma ɔdi nnwomtofo no so; Dawid asawdwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ma ɔdi nnwomtofo no so"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asawdwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:03.622399558Z",
+  "model": "glm-5.3"
+}

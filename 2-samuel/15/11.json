@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na nnipa aha mmienu a wɔfrɛɛ wɔn no firi Yerusalem kɔɔ ne ⟨את⟩ Absalom; wɔkɔɔ wɔ ahotosoɔ mu, na wɔannim asɛm nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "aha mmienu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "firi Yerusalem"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "a wɔfrɛɛ wɔn"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "na wɔrekɔ"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "wɔ ahotosoɔ mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔannim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:28.265735729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Wode yɛn bɔne ahyɛ wo anim, yɛn sum nsɛm wɔ w'anim hann mu.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "wode ... ahyɛ"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "yɛn bɔne"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "yɛn sum nsɛm"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "wɔ ... hann mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:29.938556780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yawe nnebɔ no ma asasebura no yɛgoro; Yawe ma Kadesh asasebura no yɛgoro.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "nnebɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ma ... yɛgoro"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "asasebura"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ma ... yɛgoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "asasebura"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:10.241382073Z",
+  "model": "glm-5.3"
+}

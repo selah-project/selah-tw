@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Solomone dɔɔ ⟨את⟩ Yawe, na ɔde n'ani so tee Davida a ɔyɛ n'agya mmara so; nanso wɔ bammɔso na ɔbɔɔ afɔdeɛ ne nyunmu.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dɔɔ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "na ɔde n'ani so tee"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "mmara so"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a ɔyɛ n'agya"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "wɔ bammɔso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɔ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bɔɔ afɔdeɛ"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ne nyunmu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:14:56.738429645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na wɔgyaee wɔ ⟨את⟩ wɔn abosodie wɔ hɔ, na Dawid ne ne mmarimaa de kɔeɛ.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "wɔgyaee"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn abosodie"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "wɔn abosodie"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "de kɔeɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ne mmarimaa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:32.141874666Z",
+  "model": "glm-5.3"
+}

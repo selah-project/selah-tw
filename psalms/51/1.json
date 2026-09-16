@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Deɛ ɔdi animuonyam no dea. Dawid asɛmnya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔdi animuonyam no dea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asɛmnya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:20.778152332Z",
+  "model": "glm-5.3"
+}

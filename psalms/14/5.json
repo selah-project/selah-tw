@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Hɔ na wɔbɔɔ suro ⟨suro⟩, ɛfiri sɛ Eloohim wɔ atemfoɔ dɔmu mu.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Hɔ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "wɔbɔɔ suro"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "suro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "wɔ dɔmu mu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "atemfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:01.980224068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Yawe ⟨yɛ⟩ soro sene amanaman nyinaa, n'anuonyam wɔ ɔsoro so.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "soro"
+    },
+    {
+      "surface": "על",
+      "gloss": "sene ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "n'anuonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:47.637082757Z",
+  "model": "glm-5.3"
+}

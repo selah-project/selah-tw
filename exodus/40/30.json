@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na ɔde ⟨את⟩ nsuo-pɛto no sii tenti a ɛyɛ Ɔfrɛ Forama no ne ɔhyia no ntam, na ɔde nsuo hyɛɛ mu hɔ ma wɔde hwɛe ho.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Na ɔde ... sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsuo-pɛto no"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nsuo-pɛto no"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ɔfrɛ Forama"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ɔhyia no"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔde nsuo hyɛɛ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "mu hɔ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "ma wɔde hwɛe ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:07.244420448Z",
+  "model": "glm-5.3"
+}

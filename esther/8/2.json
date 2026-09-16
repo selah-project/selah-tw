@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔhene no yii ⟨את⟩ n'anom ogyaframa (signet) a ɔdii Haman so yii no no maa Mordokay; na Ester de Mordokay sii ⟨את⟩ Haman fie so.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "na ... yii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'anom ogyaframa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "n'anom ogyaframa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ɔdii ... so yii"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "maa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordokay"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "na ... de ... sii so"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordokay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokay"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-09-16T04:02:10.073409824Z",
+  "model": "glm-5.3"
+}

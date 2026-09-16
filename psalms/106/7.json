@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Yɛn awofoɔ a wɔwɔ Misraim, wɔannim wo nneɛma nwononwono; wɔankae ⟨את⟩ wo hesed a ɛdɔɔso; na wɔyɛɛ asoɔden wɔ ɛpo no so, wɔ Supf ɛpo mu.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "yɛn awofoɔ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔannim"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "wɔannye w'adwene annye"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "wo nneɛma nwononwono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔankae"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "wɔankae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo hesed a ɛdɔɔso"
+    },
+    {
+      "surface": "רב",
+      "gloss": "a ɛdɔɔso"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "na wɔyɛɛ asoɔden"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "בים",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Supf ɛpo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:29.572131140Z",
+  "model": "glm-5.3"
+}

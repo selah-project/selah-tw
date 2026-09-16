@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "⟨את⟩ me Homakunnu da no munnye so, na me Asɔredan no mommɔ no ho dwuma; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me Homakunnu da no"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "me Homakunnu da no"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "munnye so"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "na me Asɔredan no"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mommɔ no ho dwuma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:46.626717321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Mebɛnye Yawe wɔ m'asetena mu; mɛbɔ nnwom ma Eloohim wɔ berɛ a mewu hɔ.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Mebɛnye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "wɔ m'asetena mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mɛbɔ nnwom"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ma Eloohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "wɔ berɛ a mewu hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:10.652858442Z",
+  "model": "glm-5.3"
+}

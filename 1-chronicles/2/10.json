@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Ram woo ⟨את⟩ Aminadab, na Aminadab woo ⟨את⟩ Nachshon, Yuda mma no panin.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "na Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "na Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "panin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:53.798222821Z",
+  "model": "glm-5.3"
+}

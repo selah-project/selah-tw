@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Ɛfiri sɛ wɔabɔ kɔkɔɔ amena ani, na watwa dadeɛ nnua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wɔabɔ ... ani"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "amena"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kɔkɔɔ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "na ... nnua"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dadeɛ"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "watwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:16.055626284Z",
+  "model": "glm-5.3"
+}

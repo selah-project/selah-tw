@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Wo bɛka ampam anum no bom sɛ ɔfa baako, na ⟨את⟩ ampam nsia no nso sɛ ɔfa baako, na wo bɛduple ⟨את⟩ ampam a ɛtɔ so nsia no kɔ abansra no anim.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "Wo bɛka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ampam anum"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "anum"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ampam"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sɛ ɔfa baako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ampam nsia"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ampam"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sɛ ɔfa baako"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "Wo bɛduple"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ampam a ɛtɔ so nsia"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ampam"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "a ɛtɔ so nsia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "abansra"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:56.413064358Z",
+  "model": "glm-5.3"
+}

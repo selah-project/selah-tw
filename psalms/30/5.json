@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Monnimdwom ma Yawe, ne ahokokwawfoɔ, na monkam ne kronkronyɛ aseɛ wɔ n'akɔwabɔ mu.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "monnimdwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ne ahokokwawfoɔ"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "na monkam aseɛ"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "wɔ n'akɔwabɔ mu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ne kronkronyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:43.878597839Z",
+  "model": "glm-5.3"
+}

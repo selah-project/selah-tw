@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na saa na mobɛdi ⟨את⟩ no: mo mpaboa a wɔabɔ, mo nan asehyɛn wɔ so, na mo poma wɔ mo nsa mu; na mordi ⟨את⟩ no ntɛm hwee; Pesakh no yɛ Yawe dea.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "na saa na"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mobɛdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Paskha no nan)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "mo mpaboa"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "a wɔabɔ"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "asehyɛn"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "mo nan so"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "na mo poma"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "wɔ mo nsa mu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "na mordi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Paskha no nan)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ntɛm hwee"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no yɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe dea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:44.555515372Z",
+  "model": "glm-5.3"
+}

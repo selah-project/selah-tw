@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Wɔn a wɔsuro Yawe, mmoa wɔn ho wɔ Yawe mu; ⟨ɔno⟩ ne wɔn mmoa ne wɔn banbɔ.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "wɔn a wɔsuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "mmoa wɔn ho"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "wɔ Yawe mu"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "wɔn mmoa"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ne wɔn banbɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ɔno⟩ ne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:25.778884519Z",
+  "model": "glm-5.3"
+}

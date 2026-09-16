@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Sɛ́ menyɛ w'ahotommɔ, me Eloohim, m'ani agye ho; na wo Mmara no wɔ me komam.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ́ menyɛ"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "w'ahotommɔ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "m'ani agye ho"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "na wo Mmara no"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "me komam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:04.669343165Z",
+  "model": "glm-5.3"
+}

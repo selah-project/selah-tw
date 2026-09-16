@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Ne su yɛ sɛ gyata a ɔhoɔhɔ sɛ ɔbɛtetew, na sɛ gyata ba a ɔte summuo mu.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ne su"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sɛ gyata"
+    },
+    {
+      "surface": "יככוף",
+      "gloss": "ɔhoɔhɔ"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "sɛ ɔbɛtetew"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "na sɛ gyata ba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ɔte"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "summuo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:07.635866880Z",
+  "model": "glm-5.3"
+}

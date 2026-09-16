@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔbarima a ɔde ne muda ma mmoa, ɛsɛ sɛ wɔkum no; na ⟨את⟩ mmoa no nso monkum no.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ɔde ... ma"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ne muda"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ɛsɛ sɛ wɔkum"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mmoa no"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mmoa no"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "monkum no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:43.020904183Z",
+  "model": "glm-5.3"
+}

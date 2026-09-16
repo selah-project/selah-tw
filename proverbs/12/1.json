@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Obi a ɔdɔ nteteɛ no dɔ nimdeɛ, nanso obi a ɔtan nteɛsoɔ no yɛ mmoasɛm.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ɔdɔ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "nteteɛ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "nanso ɔtan"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "nteɛsoɔ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yɛ mmoasɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:51:47.600898512Z",
+  "model": "glm-5.3"
+}

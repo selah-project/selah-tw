@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Ɛfiri sɛ ɔno ne yɛn Eloohim, na yɛn yɛ n'adwadifoɔ aman, ne aprɔma a ne nsa hwɛ so; ɛnnɛ, sɛ mote ne nne,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na yɛn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aman"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "n'adwadifoɔ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ne aprɔma"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa hwɛ so"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ne nne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mote"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:52.769830562Z",
+  "model": "glm-5.3"
+}

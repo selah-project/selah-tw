@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yawe, mo Eloohim, adɔ mo ⟨את⟩-mo so dodo, na hwɛ, mɔnnɛ mo yɛ te sɛ ɔsoro nsoromma wɔ dodo mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "adɔ dodo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "na hwɛ, mo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mɔnnɛ"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "te sɛ nsoromma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "wɔ dodo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:44:41.220135129Z",
+  "model": "glm-5.3"
+}

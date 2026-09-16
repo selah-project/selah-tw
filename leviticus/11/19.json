@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ne ⟨את⟩ hasidah no, ne anafah no ne awurade, ne ⟨את⟩ dukhiphat no, ne ⟨את⟩ atallef no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "hasidah no"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "hasidah no"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anafah no"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ne awurade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "dukhiphat no"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "dukhiphat no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "atallef no"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "atallef no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:20.961728107Z",
+  "model": "glm-5.3"
+}

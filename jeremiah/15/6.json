@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Wo hwɛɛ ⟨את⟩ me guu, Yawe asɛm no; wo kɔɔ ⟨akyire⟩; meseɛɛ me nkaeɛ sii wo so, na mesɛee ⟨את⟩ wo; m'ani abere sɛ me bɔ hwɛ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "wo"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "hwɛɛ guu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me (Yawe)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "akyire"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "wo kɔɔ"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "meseɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkaeɛ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nkaeɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "na mesɛee wo"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "m'ani abere"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "sɛ me bɔ hwɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:12:49.047832522Z",
+  "model": "glm-5.3"
+}

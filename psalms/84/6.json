@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 84,
+  "translation": "Ahonya wɔ onipa a ne ahoɔden gyina wo mu; n'akoma mu na mmɔnten dada wɔ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ahonya wɔ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "mmɔnten"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "wɔn akoma mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:56.153500434Z",
+  "model": "glm-5.3"
+}

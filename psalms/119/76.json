@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Mepɛ sɛ wo ⟨hesed⟩ (adɔeɛ) ba na ɛhwɛ me so ama m'akoma tum na wo asɛm a wohyɛɛ wo akɔda no so.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mepɛ sɛ ... ba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepɛ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo ⟨hesed⟩ (adɔeɛ)"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "na ɛhwɛ me so ama m'akoma tum"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sɛnea wo asɛm"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "wo akɔda"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:02.854538862Z",
+  "model": "glm-5.3"
+}

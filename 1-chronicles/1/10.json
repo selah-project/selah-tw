@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Kush woo ⟨את⟩ Nimrod; ɔno na ɔhyɛɛ aseɛ yɛɛ ɔtumfoɔ wɔ asase so.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ɔhyɛɛ aseɛ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ɔtumfoɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:10.164385059Z",
+  "model": "glm-5.3"
+}

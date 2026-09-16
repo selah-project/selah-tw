@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Bɔ dwom ma Yawe wɔ aseda mu; bɔ nnwom ma yɛn Eloohim wɔ kɔnnɛ so.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "bɔ dwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "wɔ aseda mu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bɔ nnwom"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ma yɛn Eloohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wɔ kɔnnɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:55.981652133Z",
+  "model": "glm-5.3"
+}

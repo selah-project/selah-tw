@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Na me de, meta sɛ dua kyɛ a aniware wɔ so wɔ Eloohim fie; me de me ho toɔ Eloohim hesed ⟨adamfua⟩ mu, wɔ berɛ nyinaa ne daa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me de"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "sɛ dua kyɛ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "a aniware wɔ so"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ ... fie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "me de me ho toɔ"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "wɔ hesed mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "berɛ nyinaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ne daa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:24.040299159Z",
+  "model": "glm-5.3"
+}

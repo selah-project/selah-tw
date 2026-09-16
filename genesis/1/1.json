@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ahyɛaseɛ mu Eloohim bɔɔ ⟨את⟩ ɔsoro ne ⟨את⟩ asase.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Ahyɛaseɛ mu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:36.208037282Z",
+  "model": "glm-5.3"
+}

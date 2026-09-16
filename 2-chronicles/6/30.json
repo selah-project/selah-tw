@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 6:30",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "na wobɛte fi ɔsoro, fi wo tenabea hɔ, na wode bɔne befiri, na wɔma onipa biara sɛdeɛ ne kwan nyinaa te, a wonim ⟨את⟩ ne akoma; ɛfiri sɛ wo nko ara na wonim ⟨את⟩ nnipa mma akoma —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "bɛte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tenabea"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "wo tenabea"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "na wode bɔne befiri"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na wɔma"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛdeɛ ne ... nyinaa te"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wonim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne akoma"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ne akoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wonim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa mma akoma"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:57:19.030327505Z",
+  "model": "glm-5.3"
+}

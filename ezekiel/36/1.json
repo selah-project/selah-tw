@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na wo, onipa ba, di amanbɔ kɔ Yisrael mmepɔ so, na kyerɛ sɛ: Mmepɔ a mo wɔ Yisrael, munte Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "di amanbɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na kyerɛ sɛ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "Mmepɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "munte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:54:38.534903698Z",
+  "model": "glm-5.3"
+}

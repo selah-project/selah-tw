@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Sɛ meka dɛ, 'Mɛka asɛm yi a, hwɛ, ɛno ara na mekɔɔ wɔ mmerɛwyɛ mu wɔ wo mma dɔm no ho.'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sɛ meka dɛ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "mɛka asɛm yi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "saa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dɔm\/nkorɔfoɔ ase"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wo mma"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "mekɔɔ wɔ mmerɛwyɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:53.144037653Z",
+  "model": "glm-5.3"
+}

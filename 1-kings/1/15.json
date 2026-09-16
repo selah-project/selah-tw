@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Bat-Sheba kɔɔ ɔhene no nkyɛn, ɔhene no afie no mu; na ɔhene no ayɛ akɔkoraa paa; na Abishag, Shunamni no, na ⟨את⟩ ɔhene no som.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "afie no mu"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "na ɔhene no"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ayɛ akɔkoraa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "na Abishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shunamni no"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "som"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:49.515139759Z",
+  "model": "glm-5.3"
+}

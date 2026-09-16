@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɔkɔɔ na ɔfaa ⟨את⟩ Gomer, Diblayim babaa, na ɔnyaa nyinsɛne na ɔwoo ba barima maa no.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ɔkɔɔ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babaa"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ɔnyaa nyinsɛne"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba barima"
+    }
+  ],
+  "timestamp": "2026-09-16T01:04:04.088654982Z",
+  "model": "glm-5.3"
+}

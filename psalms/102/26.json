@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Tete na wode ⟨את⟩ asase ⟨the⟩ no sii hɔ; ɔsoro yɛ wo nsa adwuma.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "tete"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase ⟨the⟩ no"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "wode … sii hɔ"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:30.904389308Z",
+  "model": "glm-5.3"
+}

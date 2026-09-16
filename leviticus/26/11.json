@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Mɛde m'atenaeɛ no si mo mu, na me kra nnpopa mo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mɛde ... asi"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "m'atenaeɛ no"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mo mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nn"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "npopa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:37.452534882Z",
+  "model": "glm-5.3"
+}

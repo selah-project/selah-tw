@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Eloohim a ɔwɔ me hesed bɛdi me anim; Eloohim bɛma mahunu me atamfoɔ (sɛ wɔadi nkoguo).",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a ɔwɔ me hesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "bɛdi me anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "bɛma mahunu"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "me atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:42.874585621Z",
+  "model": "glm-5.3"
+}

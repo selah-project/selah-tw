@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɔnmmu firii asɔredan kronkron no mu, na ɔnhyɛ ⟨את⟩ ne Eloohim asɔredan kronkron fɔ; ɛfiri sɛ ahotam a wɔde sɔ ngo no yɛ ne Eloohim dea no da ne so; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "na ɔnmmu firii"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "asɔredan kronkron no mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ɔmmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnnsɛ sɛ"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "ɔhyɛ fɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Eloohim asɔredan kronkron"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "asɔredan kronkron"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ne Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ahotam"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "a wɔde sɔ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ne Eloohim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:02.324510570Z",
+  "model": "glm-5.3"
+}

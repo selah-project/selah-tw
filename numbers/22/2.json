@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Balak, Tsipor ba, hunuu ⟨את⟩ deɛ Yisrael yɛe maa Emorifoɔ no nyinaa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yisrael yɛe no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "maa Emorifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:37:07.373846990Z",
+  "model": "glm-5.3"
+}

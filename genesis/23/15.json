@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Me wura, tie me: asase no ⟨yɛ⟩ sika ɔha anan (sikle 400) — nea ɛda me ne wo ntam no, deɛ ɛyɛ dɛn? Enti bere ⟨את⟩ wo awufoɔ.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Me wura"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "tie me"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikle"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "me ... ntam"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ne wo ntam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ ɛyɛ dɛn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "(ɛyɛ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wo awufoɔ"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "wo awufoɔ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "bere"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:17.732946804Z",
+  "model": "glm-5.3"
+}

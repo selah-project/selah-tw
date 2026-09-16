@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Yawe hwɛ nkɔkɔɔfoɔ so; na me yɛɛ amammɔ, na ɔgyee me.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "hwɛ ... so"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "nkɔkɔɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "me yɛɛ amammɔ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "ɔgyee me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:50.292920619Z",
+  "model": "glm-5.3"
+}

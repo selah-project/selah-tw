@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Menim, Yawe, sɛ wo atemmu yɛ ⟨atɛne⟩, na wodi nokware so na woahu me ya.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "menim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨atɛne⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "wo atemmu"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "na wodi nokware so"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "woahu me ya"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:02.852902626Z",
+  "model": "glm-5.3"
+}

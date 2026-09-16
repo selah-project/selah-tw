@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Adɛn na mɛsuro nna bɔne mu, bɔne a ɛdi m'akyi bɛhyɛ me akyirikyiri?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mɛsuro"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nna ... mu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "m'akyi"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "bɛhyɛ me akyirikyiri"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:23.787718845Z",
+  "model": "glm-5.3"
+}

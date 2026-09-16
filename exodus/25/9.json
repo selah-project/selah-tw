@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Sɛdea biribiara a me rekyerɛ ⟨את⟩ wo no teɛ — ⟨את⟩ aduruyɛ a Makan no ne ⟨את⟩ aduruyɛ a n'akwaa nyinaa teɛ — saa na mo bɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sɛdea biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rekyerɛ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduruyɛ a Makan no"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "aduruyɛ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a Makan no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aduruyɛ a n'akwaa nyinaa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "aduruyɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "n'akwaa"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mo bɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:17.606895783Z",
+  "model": "glm-5.3"
+}

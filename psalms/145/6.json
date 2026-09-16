@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Wɔbɛka wo nnyinasoɔ a ɛma wɔsuro no akyi, na mɛkan wo kɛseyɛ.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "wo ahoɔden"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "a ɛma wɔsuro no"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wɔbɛka"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "wo kɛseyɛ"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "mɛkan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:01.265561789Z",
+  "model": "glm-5.3"
+}

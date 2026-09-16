@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɔsɔfoɔ no maa ɔhafoɔ akyirinkyirimfoɔ ⟨את⟩ pɛnnɔn no ne ⟨את⟩ akumaa ahodoɔ a na ɛyɔ ɔhene Dawid dea, a ɛwɔ Yawe fie mu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "akyirinkyirimfoɔ"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "ɔhafoɔ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pɛnnɔn no"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "pɛnnɔn no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akumaa ahodoɔ"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "akumaa ahodoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ɛwɔ fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:31:29.499148559Z",
+  "model": "glm-5.3"
+}

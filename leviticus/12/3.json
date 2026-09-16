@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛda a ɛtwa toɔ no, wɔbɛyɛ n'adwene twa wɔ ne kotoku du ano.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "na ... da"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "a ɛtwa toɔ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "wɔbɛyɛ ... twa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "[nam]"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "n'adwene ano kotoku"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:06.042156628Z",
+  "model": "glm-5.3"
+}

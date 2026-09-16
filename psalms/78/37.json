@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Na wɔn akoma annyina pintinn ne no ho, na wɔannyina nokorɛ mu wɔ n'apam no mu.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "na wɔn akoma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annye"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "annyina pintinn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne no ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔannye"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "wɔannyina nokorɛ mu"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "wɔ n'apam no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:24.572034884Z",
+  "model": "glm-5.3"
+}

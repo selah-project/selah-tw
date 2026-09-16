@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na ɔkaa sɛ: mepa wo kyɛw, kyerɛ me ⟨את⟩ wo animuonyam.",
+  "tokens": [
+    {
+      "surface": "ויאאמר",
+      "gloss": "Ɔkaa"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "kyerɛ me"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo animuonyam"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "wo animuonyam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:04.269261009Z",
+  "model": "glm-5.3"
+}

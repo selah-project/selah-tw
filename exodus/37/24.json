@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Sika kɔkɔɔ a ɛteɛ, kikkar baako mu na ɔyɛɛ ⟨את⟩ no, ne ⟨את⟩ ne n'adeɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kikkar baako"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "a ɛteɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (kanea no)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne n'adeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "n'adeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:02.979444766Z",
+  "model": "glm-5.3"
+}

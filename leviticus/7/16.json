@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na sɛ ne korban Zebakh yɛ Neder anaasɛ Nedavah a, wɔ da a ɔde ⟨את⟩ ne Zebakh bae no mu na wɔdi; na akyɛ no a, deɛ ɛkaa no mu no, wɔbɛdi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ ... a"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "Neder"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "Nedavah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zebakh"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ne korban"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "a ɔde ... bae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Zebakh"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ne Zebakh"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wɔdi"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "na akyɛ no a"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "deɛ ɛkaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wɔbɛdi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:26.689162442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔkum wɔn a wɔdi kan wɔ wɔn asase so nyinaa, wɔn ahoɔden nyinaa baasofoɔ.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ɔkum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "a wɔdi kan wɔ ... wɔn"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "wɔn asase so"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "baasofoɔ (kan)"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:31.336024379Z",
+  "model": "glm-5.3"
+}

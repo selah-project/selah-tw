@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ Aharon ne ⟨את⟩ ne mma na wobɛhwɛ wɔn so, na wɔbɛhwɛ ⟨את⟩ wɔn asɔfoɔ som so; ɔhɔhoɔ a ɔbɛbɛn no bɛwuo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "wobɛhwɛ wɔn so"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "na wɔbɛhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asɔfoɔ som"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "wɔn asɔfoɔ som"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "na ɔhɔhoɔ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a ɔbɛbɛn"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bɛwuo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:52.291392821Z",
+  "model": "glm-5.3"
+}

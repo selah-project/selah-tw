@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Me nkwa so — Adonai Yawe nkyerɛkyerɛmu — ɛnyɛ ara: wɔ baabi a ɔhene a ɔde ⟨את⟩ no sii hene, a ɔhwɛɛ ⟨את⟩ ne nduabɔ no so, ne a ɔbubui ⟨את⟩ ne apam no de, no ara mu, wɔ Babel mu, ɔbɛwu.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkyerɛkyerɛmu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nyɛ ara"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ baabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "a ɔde no sii hene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "ɔhene a ɔde no sii hene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ɔhwɛɛ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nduabɔ"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "ne nduabɔ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ne a"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ɔbubui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne apam no"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ɔbɛwu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:43:31.983016256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Dawid yɛɛ saa, sɛnea Yawe hyɛɛ no; na ɔbɔɔ ⟨את⟩ Filistifoɔ, firi Geba kɔsii sɛ worebɛkɔ Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na yɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hyɛɛ no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistifoɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "firi Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "באך",
+      "gloss": "sɛ wobɛkɔ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:06.007218671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na Babilon mmarima no yɛɛ ⟨את⟩ Sukot-Benot, na Ku mmarima no yɛɛ ⟨את⟩ Nergal, na Hamat mmarima no yɛɛ ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "na mmarima a wɔwɔ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "na mmarima a wɔwɔ"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "na mmarima a wɔwɔ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-15T23:34:22.648906749Z",
+  "model": "glm-5.3"
+}

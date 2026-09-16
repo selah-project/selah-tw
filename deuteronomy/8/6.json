@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na woabɔ Yawe wo Eloohim nhyehyɛeɛ so ⟨את⟩, na woadi n'akwammirensam so, na woasuro ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "na woabɔ...so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "na woadi...so"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "n'akwammirensam"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "na woasuro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:45.542064019Z",
+  "model": "glm-5.3"
+}

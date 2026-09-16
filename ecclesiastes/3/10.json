@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Mahunu ⟨את⟩ adwumayadeɛ a Eloohim de ama onipa mma no ma wɔbɛyɛ adwuma wɔ mu.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mahunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwumayadeɛ"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "adwumayadeɛ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de ama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ma wɔbɛyɛ adwuma"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:54:18.938878133Z",
+  "model": "glm-5.3"
+}

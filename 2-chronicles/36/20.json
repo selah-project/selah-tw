@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na wɔn a wɔdurrɛ anoaa no mu no, ɔdɔɔ wɔn kɔɔ Babilon; na wɔyɛɛ no ne ne mma nkoa kɔsii bere a Persia ahendom sii so dua no.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "na ɔdɔɔ wɔn"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "wɔn a wɔdurrɛ ... no mu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "anoaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii bere a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sii so dua"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ahendom"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Persia"
+    }
+  ],
+  "timestamp": "2026-09-16T05:13:25.235145376Z",
+  "model": "glm-5.3"
+}

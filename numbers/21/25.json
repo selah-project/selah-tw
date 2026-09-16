@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Israel faa ⟨את⟩ nkuro yi nyinaa, na Israel tenaa Amorifoɔ nkuro no nyinaa mu, wɔ Hesbon ne nkuraa no nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkuro yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorifoɔ"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "wɔ Hesbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne wɔ ... nyinaa"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "nkuraa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:55.591048953Z",
+  "model": "glm-5.3"
+}

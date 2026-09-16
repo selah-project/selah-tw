@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Mennɛtwɛ me apam, na deɛ efiri me ano mu no mennɛsesa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mennɛ"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "twɛ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "na deɛ efiri"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "me ano mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mennɛ"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "sesa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:03.980408361Z",
+  "model": "glm-5.3"
+}

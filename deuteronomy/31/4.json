@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na Yawe bɛyɛ wɔn de sɛnea ɔyɛɛ ma Sihon ne Og, Amori ahemfo, ne wɔn asase no — deɛ ɔsɛee no.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "na ... bɛyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ma Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ne Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "ne wɔn asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "ɔsɛee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no (wɔn)"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:07.243419774Z",
+  "model": "glm-5.3"
+}

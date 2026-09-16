@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Hur woo ⟨את⟩ Uri, na Uri woo ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Na Hur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "na Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:16.584373549Z",
+  "model": "glm-5.3"
+}

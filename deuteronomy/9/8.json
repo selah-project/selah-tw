@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wɔ Horeb so mamoa ⟨את⟩ Yawe bo yɛɛ no, na Yawe bo fui mo ho de bɛsɛe ⟨אתכם⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Wɔ Horeb so"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "mamoa ... bo yɛɛ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "na ... bo fui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "de bɛsɛe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:13.484430724Z",
+  "model": "glm-5.3"
+}

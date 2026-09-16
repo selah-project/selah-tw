@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Nokorɛ bɛsɔ aduaduro afiri asase mu, na atemdemudee bɛhwɛ ase firi ɔsoro.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Nokorɛ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "afiri asase mu"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "bɛsɔ aduaduro"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "na atemdemudee"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "firi ɔsoro"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "bɛhwɛ ase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:23.653903057Z",
+  "model": "glm-5.3"
+}

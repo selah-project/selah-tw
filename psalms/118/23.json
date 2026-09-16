@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Ɛfiri ⟨את⟩ Yawe nkyɛn na ɛbaa; ɛyɛ nneɛma a ɛyɛ nwanwa yɛn ani so.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "ɛfiri ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "na ɛbaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛno ara"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "yɛ nwanwa"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "yɛn ani so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:15.278260281Z",
+  "model": "glm-5.3"
+}

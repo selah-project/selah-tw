@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na Esav tenaa Seir bepɔ so; Esav no ara ne Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Na ... tenaa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bepɔ so"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no ara"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:28.647142186Z",
+  "model": "glm-5.3"
+}

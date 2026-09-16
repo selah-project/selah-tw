@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Noa woo mma mmiɛnsa: ⟨את⟩ Shem, ⟨את⟩ Cham, ne ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:08.051481093Z",
+  "model": "glm-5.3"
+}

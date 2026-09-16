@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Nnomaa biara a ɛsrɛ na ɛnam wɔ anan so, ɛyɛ ɔhaw kɛseɛ mo moara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "a ɛsrɛ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "nnomaa"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "a ɛnam"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ɔhaw kɛseɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo moara"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:20.961862781Z",
+  "model": "glm-5.3"
+}

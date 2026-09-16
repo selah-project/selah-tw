@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Shemuël frɛɛ ⟨את⟩ ɔman no baa Yawe nkyɛn wɔ Mitzpah.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa … nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpah"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:49.277190800Z",
+  "model": "glm-5.3"
+}

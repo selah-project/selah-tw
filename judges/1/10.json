@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yuda kɔɔ Kenkani a ɔte Hebrɔn no so; na Hebrɔn din dadaaye na Kiryat-Arba; na wɔbɔɔ ⟨את⟩ Sheshai ne ⟨את⟩ A himan ne ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ … so"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenkani no"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "a ɔte"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebrɔn"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na din"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrɔn"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dadaaye"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "na wɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "A himan"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "A himan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:00.601608558Z",
+  "model": "glm-5.3"
+}

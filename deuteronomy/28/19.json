@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Adua ɛda wo so wɔ wo bra mu, na adua ɛda wo so wɔ wo kɔ mu.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Adua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "wɔ wo bra mu"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "na adua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "wɔ wo kɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:08.081615541Z",
+  "model": "glm-5.3"
+}

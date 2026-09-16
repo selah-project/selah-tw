@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Nnɔnhunu mmienu na wobɛyɛ adwuma, na wobɛyɛ wo nnyɛadwuma nyinaa;",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "nnɔnhunu mmienu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnɔnhunu mmienu"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "wobɛyɛ adwuma"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "wo nnyɛadwuma nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:26.804300271Z",
+  "model": "glm-5.3"
+}

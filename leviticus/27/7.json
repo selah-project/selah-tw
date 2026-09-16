@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na sɛ ɛyɛ ɔba a ɔadi mfeɛ aduosia ne deɛ ɛboro so; sɛ ɔyɛ ɔbarima, na wo boɔ no bɛyɛ shekel dunum; na ɔbea no deɛ, shekel du.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ɔba a ɔadi"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "aduosia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ne deɛ ɛboro so"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ɔyɛ ɔbarima"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na wo boɔ no bɛyɛ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "wo boɔ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dunum"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(du-num)"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "na ɔbea no deɛ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:04.417385858Z",
+  "model": "glm-5.3"
+}

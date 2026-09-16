@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "El a nteesom yɛ no dea, Yawe; El a nteesom yɛ no dea, da wo ho adi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "a nteesom yɛ no dea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "a nteesom yɛ no dea"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "da wo ho adi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:42.584475414Z",
+  "model": "glm-5.3"
+}

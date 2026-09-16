@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Me nso mewo akoma sɛ mo ara; ɛnyɛ me a metoo mo ase; na ⟨את⟩ hwan na deɛ ɛte sɛ yi nni ne so?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "me nso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "sɛ mo ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "metoo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mo ase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "deɛ ɛte sɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T03:15:55.807619396Z",
+  "model": "glm-5.3"
+}

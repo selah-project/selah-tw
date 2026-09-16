@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na deɛ ɔbɔ ne papa anaasɛ ne maame, kum ara na wɔnkum no.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "na deɛ ɔbɔ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "anaasɛ ne maame"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kum ara"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "na wɔnkum no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:09.044516239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ka w’adwene ho sɛ deɛ Amalek yɛɛ wo wɔ ɔkwan no so, berɛ a mo firii Misraim no.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ka w’adwene ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Amalek yɛɛ wo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ɔkwan no so"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "berɛ a mo firii"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:15.252816939Z",
+  "model": "glm-5.3"
+}

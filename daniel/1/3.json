@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔhene no kasa kyerɛɛ Ashpenaz, ne akwadifoɔ no panin, sɛ ɔmmfa Yisrael mma bi, ne ahennie ase mma, ne ahemfo mma bi mmra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kasa kyerɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "Ashpenaz"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panin"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "ne akwadifoɔ no"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "sɛ ɔmmfa ... mmra"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mma bi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "ne ... ase mma"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne ... bi"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "ahemfo"
+    }
+  ],
+  "timestamp": "2026-09-16T04:07:53.935029697Z",
+  "model": "glm-5.3"
+}

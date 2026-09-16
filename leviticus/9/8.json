@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Afei Aharon bɛn kɔɔ afɔrefa no so, ɔtɔɔ ⟨את⟩ nantwie no — bɔne afɔre no — a ɛyɛ ne dea.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "bɛn kɔɔ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔrefa no"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ɔtɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nantwie no"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nantwie"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bɔne afɔre no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ɛyɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:32.148997610Z",
+  "model": "glm-5.3"
+}

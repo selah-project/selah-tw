@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Na me de, wo ho na masu frɛ, Yawe; na anɔpa no me mpae bɛkan wo anim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me de"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "na masu frɛ"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "na anɔpa no"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpae"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "bɛkan wo anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:18.944783618Z",
+  "model": "glm-5.3"
+}

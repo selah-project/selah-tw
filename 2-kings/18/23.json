@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na seisia, mepa wo kyɛw, bɔ bɔhyɛ ma ⟨את⟩ me wura, ⟨את⟩ Ashur ɔhene, na mede anantwie aha mmienu bɛma wo, sɛ wotumi sɛ wo bɛto akurafoɔ wɔn so.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seisia"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "bɔ bɔhyɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me wura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur ɔhene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na mede... bɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "aha mmienu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "wotumi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ wo bɛto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "akurafoɔ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:36:56.447710776Z",
+  "model": "glm-5.3"
+}

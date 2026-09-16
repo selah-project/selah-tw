@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɔwoo mma maa no: ⟨את⟩ Zimran ne ⟨את⟩ Yokshan ne ⟨את⟩ Medan ne ⟨את⟩ Midyan ne ⟨את⟩ Yishbak ne ⟨את⟩ Suah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Na ɔwoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Suah"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Suah"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:50.349818759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na metee onipa nne wɔ Ulai mpoano mmienu ntam, na ɔfrɛɛ, na ɔkaa sɛ: Gabriyel, ma ɔha yi nte ⟨את⟩ ahunufoɔ no.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "na metee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ ... ntam"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulai"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gabriyel"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ma ... nte"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "ɔha yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahunufoɔ no"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ahunufoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:13:25.346328118Z",
+  "model": "glm-5.3"
+}

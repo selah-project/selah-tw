@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Eloohim, wunim me nkwaseasɛm, na me mfomsoɔ nyinaa nnsi wo ho wɔ wɔn a wɔde wɔn ani hu no mu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wunim"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "me nkwaseasɛm"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "me mfomsoɔ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "fi wo nkyɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "nsie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:50.987159330Z",
+  "model": "glm-5.3"
+}

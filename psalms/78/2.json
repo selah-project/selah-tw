@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Mebue me ano wɔ mfatohoɔ mu; mɛto nsɛm a ahintaw a ɛfiri tete mu gu.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Mebue"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "wɔ mfatohoɔ mu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "mɛto … gu"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "nsɛm a ahintaw"
+    },
+    {
+      "surface": "מני",
+      "gloss": "firi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tete mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:07.441794193Z",
+  "model": "glm-5.3"
+}

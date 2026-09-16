@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Ɛfiri sɛ wohwɛɛ yɛn hwɛɛ, Eloohim; wode yɛn bɔɔ sɛnea wɔbɔ sika kɔkɔɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "wohwɛɛ yɛn hwɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "wode yɛn bɔɔ"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "sɛnea wɔbɔ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:01:39.339902204Z",
+  "model": "glm-5.3"
+}

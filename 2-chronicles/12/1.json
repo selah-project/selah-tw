@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛbae sɛ bere a Rechabam ahenni no si hɔ yɛ den na ɔno ara ahoɔden no, ɔgyaaw ⟨את⟩ Yawe Nhɔmɔmmara, ne Israel nyinaa a na wɔne no wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbae sɛ"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "bere a ... asii hɔ yɛ den"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ahenni"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "na ɔhoɔden"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ɔgyaaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Nhɔmɔmmara"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Nhɔmɔmmara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a wɔne no wɔ hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:59:12.900114033Z",
+  "model": "glm-5.3"
+}

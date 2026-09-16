@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Bnei Yisrael somm ⟨את⟩ Eglon, Moab hene, mfeɛ dunnwɔtwe.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "na wɔsomm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bnei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "nswɔtwe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:10.552181614Z",
+  "model": "glm-5.3"
+}

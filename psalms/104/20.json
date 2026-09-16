@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Wode sum asie, ɛyɛ anadwo; mu na kwae mmoa nyinaa nam kakra.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Wode sum asie"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sum"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "nam kakra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kwae"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:02.506619915Z",
+  "model": "glm-5.3"
+}

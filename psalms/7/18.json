@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Meda Yawe ase sɛnea n'atɛntɛm teɛ, na mɛbɔ Yawe, Ɔsorosorofoɔ no, din.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Meda ... ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "sɛnea n'atɛntɛm teɛ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "na mɛbɔ ... din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɔsorosorofoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:02.580920071Z",
+  "model": "glm-5.3"
+}

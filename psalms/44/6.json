@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Wo mu na yɛbɛto yɛn atamfoɔ; wɔ wo din mu na yɛbɛporo wɔn a wɔsɔre tia yɛn.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Wo mu"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "yɛn atamfoɔ"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "yɛbɛto"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "wɔ wo din mu"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "yɛbɛporo"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "wɔn a wɔsɔre tia yɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:30.654278602Z",
+  "model": "glm-5.3"
+}

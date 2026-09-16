@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Manu bɔnefoɔ nnipa dodoɔ no, na mmɛnefoɔ ho mɛtena hɔ da.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Manu"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nnipa dodoɔ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na mmɛnefoɔ ho"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mmɛnefoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mɛ… da"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "metena hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:26.923828765Z",
+  "model": "glm-5.3"
+}

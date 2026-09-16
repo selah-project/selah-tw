@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Wɔde bosooro hyɛɛ me aduane mu, na me komu dware no, wɔde viniga maa me nom.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "wɔde ... maa"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "me aduane mu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosooro"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "na me komu dware"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "wɔmaa me nom"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "viniga"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:17.961119577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Woredi ɛnnɛ no, wo retwa ⟨את⟩ Moab ahyeɛ so, ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "retwa so"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab ahyeɛ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ahyeɛ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:12.184972473Z",
+  "model": "glm-5.3"
+}

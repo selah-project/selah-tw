@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 142,
+  "translation": "Hwɛ nsa nifa na hwɛ, ɛfiri sɛ obi a ohu me nni hɔ; m'ahobammɔ asɛe fri me so; obiara nhwehwɛ m'nkwa.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ɛfiri sɛ ... nni hɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "obi a ohu"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "m'ahobammɔ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fri me so"
+    },
+    {
+      "surface": "אין",
+      "gloss": "obiara nni hɔ"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "nhwehwɛ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "m'nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:25.472220321Z",
+  "model": "glm-5.3"
+}

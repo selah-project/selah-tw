@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Meda w'ase, ɛfiri sɛ wɔbɔ me wɔ ɛsuro mu na sɛdeɛ nwonwa so; w'nnwuma no yɛ nwonwa dedaw, na me kra nim no yiye.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Meda w'ase"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "wɔ ɛsuro mu"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "na sɛdeɛ nwonwa so"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "yɛ nwonwa dedaw"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "w'nnwuma no"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "na me kra"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no yiye"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:13.323470217Z",
+  "model": "glm-5.3"
+}

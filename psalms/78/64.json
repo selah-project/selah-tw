@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "N'asɔfoɔ wɔ asiem so hui, na n'akɔlaa nda awu ase nsu.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "N'asɔfoɔ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wɔ asiem so"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "hui"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "na n'akɔlaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n..."
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "nsu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:54.661795029Z",
+  "model": "glm-5.3"
+}

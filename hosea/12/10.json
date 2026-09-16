@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na me ne Yawe, wo Eloohim, firi Misraim asase mu; mɛsan de wo atena abɔdan mu, sɛ nnɛ a yɛhyia wɔ ⟨afahyɛ⟩ berɛ no.",
+  "tokens": [
+    {
+      "surface": "וְאָנֹכִי",
+      "gloss": "na me ne"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "מֵאֶרֶץ",
+      "gloss": "firi asase mu"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "mɛsan"
+    },
+    {
+      "surface": "אוֹשִׁיבְךָ",
+      "gloss": "de wo atena"
+    },
+    {
+      "surface": "בָּאֹהָלִים",
+      "gloss": "wɔ abɔdan mu"
+    },
+    {
+      "surface": "כִּימֵי",
+      "gloss": "sɛ nnɛ a"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "afahyɛ berɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:08:00.201491665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Ɛfiri sɛ hwɛ, wɔasɔ m'ankwa ano wɔ akwantu mu; ahonyafoɔ abɔ mu aba atia me; ɛnyɛ me bɔne, na ɛnyɛ me mfomsoɔ, Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "wɔasɔ ano"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "m'ankwa (nkwa)"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "wɔabɔ mu atra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ahonyafoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "me basabasayɛ (bɔne)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "me mfomsoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:00:12.777961234Z",
+  "model": "glm-5.3"
+}

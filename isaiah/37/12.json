@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "So amanaman no Eloohim no gyee wɔn a m'agyafoɔ sɛee wɔn — ⟨את⟩ Gozan ne ⟨את⟩ Haran, Retsef, ne Eden mma a wɔwɔ Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "So ... gyee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "amanaman no Eloohim no"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanaman no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "sɛee"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "m'agyafoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ne ... mma"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "wɔ Telassar"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:22.528733051Z",
+  "model": "glm-5.3"
+}

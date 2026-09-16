@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Sɛ wohunu ɔkorɔfoɔ a, wodi ne ho, na wo kyɛfa ne akɔgyeɛfoɔ no dea.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "wohunu"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ɔkorɔfoɔ"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "wodi ne ho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "akɔgyeɛfoɔ"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "wo kyɛfa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:01.920280665Z",
+  "model": "glm-5.3"
+}

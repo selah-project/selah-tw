@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 130,
+  "translation": "Israel, nnyaw Yawe ho nwomu, ɛfiri sɛ hesed wɔ Yawe nkyɛn, na nnuma dɔɔso ne nkyɛn.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "nnyaw nwomu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yawe ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ ... nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "na ... dɔɔso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "nnuma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:08.169928967Z",
+  "model": "glm-5.3"
+}

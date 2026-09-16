@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Ɛnyɛ yɛn dea, Yawe, ɛnyɛ yɛn dea, na mmom fa wo din mu ma anuonyam, wɔ wo hesed ⟨mu⟩, wɔ wo nokorɛ ⟨mu⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn dea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn dea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na mmom (ɛfiri sɛ)"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "fa wo din mu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "anuonyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wo nokorɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:59.349628206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 64,
+  "translation": "Na nnipa nyinaa bɛsuro, na wɔbɛka Eloohim nnyinasoɔ-adwuma, na wɔbɛte Ne nneyɛeɛ ase yie.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "na wɔbɛsuro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "na wɔbɛka"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nnyinasoɔ-adwuma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "Ne nneyɛeɛ"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "wɔbɛte ... ase yie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:01:43.621631942Z",
+  "model": "glm-5.3"
+}

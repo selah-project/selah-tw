@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na Moshe de wɔn asɛm no baa ⟨את⟩ wɔn atemmuo anim wɔ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "de ... baa anim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn atemmuo"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "wɔn atemmuo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:40:17.508161882Z",
+  "model": "glm-5.3"
+}

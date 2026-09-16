@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Nea ɔyɛ hyerɛn sɛ ntoma, ɔtrɛw ɔsoro sɛ atɔre.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ɔyɛ sɛ ntoma"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hyerɛn"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "sɛ ntoma"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "ɔtrɛw"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "sɛ atɔre"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:03.836189595Z",
+  "model": "glm-5.3"
+}

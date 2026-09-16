@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Elasa woo ⟨את⟩ Sismai, na Sismai woo ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "na Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:45.807147134Z",
+  "model": "glm-5.3"
+}

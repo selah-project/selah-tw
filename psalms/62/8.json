@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Wɔ Eloohim so na me nkwigyeɛ ne me animuonyam wɔ; me ahoɔden ɔboɔ, me guankɔbea wɔ Eloohim nkyɛn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "me nkwigyeɛ"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ne me animuonyam"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ɔboɔ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "me ahoɔden"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "me guankɔbea"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "wɔ Eloohim nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:31.656474553Z",
+  "model": "glm-5.3"
+}

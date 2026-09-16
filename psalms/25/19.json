@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Hwɛ m'atamfoɔ, ɛfiri sɛ wɔdɔɔso, na wɔtan me tan a ɛyɛ basabasa.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "wɔdɔɔso"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "basabasa"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "wɔtan me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:21.631561731Z",
+  "model": "glm-5.3"
+}

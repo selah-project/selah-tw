@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Meyɛɛ me ho afuo ne nnwuma, na mihyɛɛ mu duaduaa aba biara.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "mihyɛɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me ho dea"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "afuo"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ne nnwuma"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "na mihyɛɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "duaduaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aba"
+    }
+  ],
+  "timestamp": "2026-09-16T03:53:17.178062194Z",
+  "model": "glm-5.3"
+}

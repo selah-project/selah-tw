@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 54,
+  "translation": "Eloohim, tie m'abɔfrɛ, ma wo aso nhyɛ m'ano nsɛm so.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "m'abɔfrɛ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ma wo aso nhyɛ...so"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "m'ano nsɛm"
+    },
+    {
+      "surface": "פי",
+      "gloss": "m'ano"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:02.740404544Z",
+  "model": "glm-5.3"
+}

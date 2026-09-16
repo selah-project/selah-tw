@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔkaa kyerɛɛ Yeter, ne bkɔro ba, se: Sɔre, kum ⟨את⟩ wɔn. Nanso ɔbarima no antwa ne sekan, ɛfiri sɛ ɔsuro, ɛfiri sɛ na ɔda so yɛ ɔbarima ketewa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ne bkɔro ba"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Nanso ... an-"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "antwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ne sekan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ɔsuro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "na ɔda so"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ɔbarima ketewa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:37:59.875537030Z",
+  "model": "glm-5.3"
+}

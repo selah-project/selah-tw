@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Ampa sɛ atrentenefoɔ bɛda wo din edin, na pɛpɛɛpɛfoɔ bɛtena ⟨את⟩ wo anim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ampa sɛ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atrentenefoɔ"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bɛda edin"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "pɛpɛɛpɛfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo anim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:33.685476765Z",
+  "model": "glm-5.3"
+}

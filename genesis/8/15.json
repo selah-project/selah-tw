@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Eloohim kasa kyerɛɛ Noa se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:04.592650259Z",
+  "model": "glm-5.3"
+}

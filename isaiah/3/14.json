@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe bɛba atemmuo mu ne ne amanfoɔ mpanyimfoɔ ne wɔn akandifoɔ: moyɛ mo — moate ⟨את⟩ kuadua no ase, na ahiafoɔ no agyapadeɛ a wɔadia so no wɔ mo afie mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "atemmuo mu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne amanfoɔ"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ne wɔn akandifoɔ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "moyɛ mo"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "moate ... ase"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "⟨את⟩ kuadua no",
+      "marks": "kuadua no"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "agyapadeɛ a wɔadia so"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ahiafoɔ no"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "wɔ mo afie mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:51.321692243Z",
+  "model": "glm-5.3"
+}

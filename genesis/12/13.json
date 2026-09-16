@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Ka, mepa wo kyɛw, sɛ wo yɛ me nua baa, na wɔayɛ me yie wɔ wo ho, na me nkwa nware wɔ wo nkyɛn.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "me nua baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "wo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "wɔayɛ ... yie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "wɔ wo ho"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "na ... nware"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "wɔ wo nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:06.486448621Z",
+  "model": "glm-5.3"
+}

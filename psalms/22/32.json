@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Wɔbɛba na wɔbɛka n'atrentemmɔdeɛ kyerɛ aman a wobɛwo wɔn, efisɛ wayɛ no.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "wɔbɛba"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "na wɔbɛka ... kyerɛ"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "n'atrentemmɔdeɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "aman"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "a wobɛwo wɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:06.578942622Z",
+  "model": "glm-5.3"
+}

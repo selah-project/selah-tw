@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Mfrafra na obiara da ne yɔnko ⟨את⟩ ho, ano a ɛte sɛ toro; na wɔkasa kyerɛ akoma ne akoma.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "mfrafra"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wɔda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yɔnko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "a ɛte sɛ toro"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ne akoma"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wɔkasa kyerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:14.863706461Z",
+  "model": "glm-5.3"
+}

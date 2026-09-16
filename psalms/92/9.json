@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Na wo, Yawe, wote soro dã.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "soro"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "dã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:15.538039777Z",
+  "model": "glm-5.3"
+}

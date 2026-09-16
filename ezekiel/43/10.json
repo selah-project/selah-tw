@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Wo, onipa ba, kyerɛ Yisrael fie no ⟨את⟩ fie no nsusuiɛ, na wɔn anim abere wɔ bɔne a wɔayɛ nyinaa ho, na wɔnsusu ⟨את⟩ ne nsusuiɛ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael fie no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "na wɔn anim abere"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "wɔ bɔne nyinaa ho"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "na wɔnsusu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsusuiɛ"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "ne nsusuiɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:59:56.241058624Z",
+  "model": "glm-5.3"
+}

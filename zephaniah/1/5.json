@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ne ⟨את⟩ wɔn a wɔbutuw wɔn ho wɔ efie ntaaso so maa tsɛba a ɛwɔ ɔsoro no; ne ⟨את⟩ wɔn a wɔbutuw wɔn ho, wɔn a wɔbɔ Yawe ntam, na wɔde wɔn Malkam so bɔ ntam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔbutuw wɔn ho wɔ efie ntaaso so"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "wɔn a wɔbutuw wɔn ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "efie ntaaso"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "maa tsɛba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a ɛwɔ ɔsoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔbutuw wɔn ho na wɔbɔ ntam"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "wɔn a wɔbutuw wɔn ho"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "wɔn a wɔbɔ ntam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "na wɔn a wɔde … bɔ ntam"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "wɔn Malkam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:23:51.442044247Z",
+  "model": "glm-5.3"
+}

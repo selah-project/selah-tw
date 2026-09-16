@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na ɔbɔɔ ⟨את⟩ Moab, na Moabfoɔ bɛyɛɛ nkoa maa Dawid, de afɔdsee brɛɛ no.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Na ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na ... bɛyɛɛ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabfoɔ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "maa Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "de ... brɛɛ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "afɔdsee"
+    }
+  ],
+  "timestamp": "2026-09-16T04:43:49.793476282Z",
+  "model": "glm-5.3"
+}

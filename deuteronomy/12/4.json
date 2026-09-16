@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Mo nnyɛ saa ma Yawe, mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mo ... saa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:39.810069966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Ɔhyehyɛɛ ⟨את⟩ asase wɔ ne nnyinaso so; ɛrenkyin da, kɔ fɛreɛ ne daabida.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "Ɔhyehyɛɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "ne nnyinaso"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ɛrenkyin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fɛreɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ne daabida"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:47.875299137Z",
+  "model": "glm-5.3"
+}

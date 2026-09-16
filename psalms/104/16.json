@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Yawe nnua no ho tɔw; Lebanon nnua denden a watete no.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ho tɔw"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "nnua denden"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "watete no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:42.747353043Z",
+  "model": "glm-5.3"
+}

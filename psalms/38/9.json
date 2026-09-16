@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Me ho atrɛw, na wɔabu me ⟨kɛseɛ ara⟩; metee fɛm efiri m'akoma awerɛhoɔ mu.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "me ho atrɛw"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "na wɔabu me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨kɛseɛ⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨ara⟩"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "metee fɛm"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "efiri awerɛhoɔ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "m'akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:10.745980385Z",
+  "model": "glm-5.3"
+}

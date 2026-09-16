@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔde ne nsa bɛto nnoboa no ti so, na wɔagye no atom ama no, sɛde ɛbɛbɔ mpata wɔ ne ho.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ɔde ... bɛto"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nnoboa no"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "na wɔagye no atom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ama no"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "bɔ mpata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:49.939746071Z",
+  "model": "glm-5.3"
+}

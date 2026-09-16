@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 6:5",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ɛbɛba sɛ, berɛ a wɔbɔ yubal kɔkɔ no tenten, na mo te ⟨את⟩ sɔkɔfɔ no nne, nnipa no nyinaa bɛteɛw teɛw kɛseɛ, na kurow no fasuo bɛtɔ ase wɔ ne ase, na nnipa no bɛforo, onipa biara n'anim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "במשך",
+      "gloss": "berɛ a wɔbɔ no tenten"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "wɔ kɔkɔ"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yubal"
+    },
+    {
+      "surface": "בשמעכם",
+      "gloss": "sɛ mo te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sɔkɔfɔ no nne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "sɔkɔfɔ no"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "bɛteɛw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teɛw"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "na ɛbɛtɔ ase"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "fasuo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "wɔ ne ase"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "na wɔbɛforo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "n'anim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:01:49.094626263Z",
+  "model": "glm-5.3"
+}

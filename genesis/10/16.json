@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ne ⟨את⟩ Yebusifoɔ ne ⟨את⟩ Amorifoɔ ne ⟨את⟩ Girgashifoɔ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yebusifoɔ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusifoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amorifoɔ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorifoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girgashifoɔ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:08.512365248Z",
+  "model": "glm-5.3"
+}

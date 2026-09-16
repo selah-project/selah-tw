@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Deɛ ɛkyerɛne no, wontumi ntew no; deɛ ɛka no, wontumi nnkan no.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "deɛ ɛkyerɛne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wontumi n-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ntumi"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ntew"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "deɛ ɛka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wontumi n-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ntumi"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "nnkan"
+    }
+  ],
+  "timestamp": "2026-09-16T03:52:18.552407223Z",
+  "model": "glm-5.3"
+}

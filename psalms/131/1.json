@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 131,
+  "translation": "Anwensɔm a wɔto de kɔ soro, Dawid dea. Yawe, m'akoma nnyeɛ dodo, na m'ani nnyinii, na mennantew amammerɛ akɛseɛ mu, na nneɛma a ɛyɛ nwononwono a ɛborom so mu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "anwensɔm"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a wɔto de kɔ soro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "nyeɛ dodo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "m'akoma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nn-"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "nyiinii"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na men-"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nantew"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "amammerɛ akɛseɛ mu"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "na nneɛma nwononwono mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "a ɛborom so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:50.058253482Z",
+  "model": "glm-5.3"
+}

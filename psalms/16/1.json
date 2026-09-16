@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Miktam, Dawid dea. Bɔ me ho ban, El, ɛfiri sɛ makɔ ahobammɔ mu wɔ wo nkyɛn.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Bɔ me ho ban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "makɔ ahobammɔ mu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:52.377806563Z",
+  "model": "glm-5.3"
+}

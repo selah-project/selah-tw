@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Woahyɛ wo nhyehyɛeɛ sɛ yɛmmɛhwɛ so yiye.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "Woahyɛ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "wo nhyehyɛeɛ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sɛ yɛmmɛhwɛ so"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yiye"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:15.862428660Z",
+  "model": "glm-5.3"
+}

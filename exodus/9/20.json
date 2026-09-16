@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ne obi a ɔsuroo ⟨את⟩ Yawe asɛm, wɔ Parho akɔmmɔfoɔ mu no, de ⟨את⟩ n'akɔmmɔfoɔ ne ⟨את⟩ n'mmoa dwanee kɔɔ afie mu.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Ne obi a ɔsuroo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe asɛm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "de dwanee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'akɔmmɔfoɔ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akɔmmɔfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'mmoa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "n'mmoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "afie mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:03.481516074Z",
+  "model": "glm-5.3"
+}

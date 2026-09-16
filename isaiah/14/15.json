@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Nanso wɔbɛsɛre wo akɔ Seol, akɔ wowura mu nfua.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nanso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "wɔbɛsɛre wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "nfua"
+    },
+    {
+      "surface": "בור",
+      "gloss": "wowura mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:45:20.115080441Z",
+  "model": "glm-5.3"
+}

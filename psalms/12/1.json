@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Deɛ ɔda nnwom no aseɛ no, wɔ ɔsɔreda nwɔtwe so, dwom a Dawid de mae.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔda nnwom no aseɛ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ɔsɔreda nwɔtwe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid de mae"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:14.862658476Z",
+  "model": "glm-5.3"
+}

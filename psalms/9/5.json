@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Efisɛ woayɛ me atemmu ne me asɛmdin; woatena ahennwa so retem atɛn atɛntrenee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Efisɛ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "woayɛ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "me atemmu"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "ne me asɛmdin"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "woatena"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ahennwa so"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "retem atɛn"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atɛntrenee"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:41.294677912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Ɔhene Dawid somaa maa wɔkɔfaa no fii Makir, Ammiel ba, fie mu wɔ Lo-Debar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa maa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "kɔfaa no"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fii fie mu"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Debar"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:00.049141487Z",
+  "model": "glm-5.3"
+}

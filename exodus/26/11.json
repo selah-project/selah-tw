@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Wo bɛyɛ akode a wɔde kɔberɛ ayɛ aduonum, na wo de ⟨את⟩ akode no bɛhyɛ ntrɛwmo no mu, na wo ka ⟨את⟩ abansra no bom, na ɛbɛyɛ baako.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Wo bɛyɛ"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "akode"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kɔberɛ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "na wo de bɛhyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akode no"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "akode no"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "wɔ ntrɛwmo no mu"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "na wo ka bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abansra no"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "abansra no"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:56.413523575Z",
+  "model": "glm-5.3"
+}

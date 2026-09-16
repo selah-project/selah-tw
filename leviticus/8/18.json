@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔde ⟨את⟩ oguan a wɔde yɛ afɔde a wɔto gu ogya mu no bɛduruu hɔ, na Aharon ne ne mma de ⟨את⟩ wɔn nsa hyɛɛ oguan no tirim so.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɔde bɛduruu hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oguan no"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oguan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "afɔde a wɔto gu ogya mu"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "de hyɛɛ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tirim"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oguan no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:14.142738256Z",
+  "model": "glm-5.3"
+}

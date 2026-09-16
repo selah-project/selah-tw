@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Deɛ Gasam gyaw no, na Arebeh dum; deɛ Arebeh gyaw no, na Yeleq dum; deɛ Yeleq gyaw no, na Chasil dum.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Deɛ … gyaw no"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "Gasam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "Arebeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na deɛ … gyaw no"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "Arebeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "Yeleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na deɛ … gyaw no"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "Yeleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "Chasil"
+    }
+  ],
+  "timestamp": "2026-09-16T01:09:35.354852211Z",
+  "model": "glm-5.3"
+}

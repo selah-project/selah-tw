@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Yawe ne me kyɛfa ne me kuruwa mu dea; wo na woama me gorɔ no gyina.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "kyɛfa"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "me kyɛfa mu dea"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ne me kuruwa mu dea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "woama ... gyina"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "me gorɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:20.501816343Z",
+  "model": "glm-5.3"
+}

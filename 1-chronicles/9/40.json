@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Yehonatan ba ne Merib-Baal, na Merib-Baal woo ⟨את⟩ Mika.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Merib-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "na Merib-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mika"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    }
+  ],
+  "timestamp": "2026-09-16T04:39:09.289474187Z",
+  "model": "glm-5.3"
+}

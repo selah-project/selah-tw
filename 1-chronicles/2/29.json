@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Abishur yere no din de Abihail, na ɔwoo ⟨את⟩ Ahaban ne ⟨את⟩ Molid ma no.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na … din de"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere no"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Abishur"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Abihail"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahaban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Ahaban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molid"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:53.254513388Z",
+  "model": "glm-5.3"
+}

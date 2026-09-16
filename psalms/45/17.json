@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "W'agyanom ananmu no, wo mma na bɛyɛ; wobɛyɛ wɔn ahemfo wɔ asase nyinaa so.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ananmu"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "w'agyanom"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wo mma"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "wobɛyɛ wɔn"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:38.193900471Z",
+  "model": "glm-5.3"
+}

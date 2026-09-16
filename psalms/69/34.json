@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Ɛfiri sɛ Yawe tie ahiafoɔ asɛm, na ⟨את⟩ ne nnommumfoɔ no wantew so ani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…asɛm"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnommumfoɔ no"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ne nnommumfoɔ no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann…"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "tew so ani"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:35.890460139Z",
+  "model": "glm-5.3"
+}

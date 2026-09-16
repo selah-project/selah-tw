@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 18:22",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Elia kaa kyerɛɛ amanfoɔ no sɛ: Me nko ara na meyɛ Yawe nkɔmhyɛni a ɔwɔ hɔ; na Baal nkɔmhyɛnifoɔ no yɛ nnipa ahannum ne aduonum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נותרתי",
+      "gloss": "nko ara na meyɛ … a ɔwɔ hɔ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nkɔmhyɛni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "me nko ara"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "nkɔmhyɛnifoɔ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ahannum"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:17.280200214Z",
+  "model": "glm-5.3"
+}

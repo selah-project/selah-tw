@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Hwehwɛ Yawe ne ne ahoɔden, hwehwɛ ne anim daa.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "hwehwɛ (mo)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ne ahoɔden"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hwehwɛ (mo)"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:57.059828345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Eloah ahome mu na wɔyera kɔ sɛeɛ, na ne yam mframa mu na wɔhwie.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "ahome mu"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wɔyera kɔ sɛeɛ"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "na ... mframa mu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ne yam"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "wɔhwie"
+    }
+  ],
+  "timestamp": "2026-09-16T03:09:32.123572413Z",
+  "model": "glm-5.3"
+}

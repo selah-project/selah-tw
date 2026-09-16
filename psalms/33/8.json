@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Nnyɛ Yawe ho amane, asase nyinaa; nsuro no, wiase no mu nkyɛn wɔn a wɔte mu nyinaa.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Nnyɛ ... ho amane"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ייגורו",
+      "gloss": "nsuro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔn a wɔte mu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wiase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:11.571570678Z",
+  "model": "glm-5.3"
+}

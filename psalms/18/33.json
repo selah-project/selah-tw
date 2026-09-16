@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "El a ɔde ahoɔden sɔ me ase, na ɔma m'akwan yɛ tiawa.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "ɔde ahoɔden sɔ me ase"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔma"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tiawa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "m'akwan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:08.652365151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Na ɔhyɛɛ ⟨את⟩ nea ɔda ne fie so ase sɛ: Ma mmarima no kotokuu hyɛ aduane ma sɛnea wɔbɛtumi soa, na fa onipa biara sika hyɛ ne kotokuu ano.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Na ɔhyɛɛ ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nea ɔda ne fie so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "על",
+      "gloss": "da … so"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Ma … hyɛ ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmarima no kotokuu"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "kotokuu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mmarima no"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "wɔbɛtumi"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "soa"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "na fa hyɛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "wɔ … ano"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ne kotokuu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:39:15.099642869Z",
+  "model": "glm-5.3"
+}

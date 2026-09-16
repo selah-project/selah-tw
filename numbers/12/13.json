@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Mosheh teɛɛ Yawe ho sɛ: El, mepa wo kyɛw, sa yadeɛ ma no, mepa wo kyɛw.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "teɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "sa yadeɛ ma no"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ma no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:29:57.375214147Z",
+  "model": "glm-5.3"
+}

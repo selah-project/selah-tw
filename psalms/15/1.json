@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Mizmor ma Dawid. Yawe, hwan na ɔbɛyɛ ahɔhoɔ wɔ wo ntwamu mu? Hwan na ɔbɛtena wo bepɔ kronkron no so?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bɛyɛ ahɔhoɔ"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "wɔ wo ntwamu mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "wɔ bepɔ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kronkron no so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:09.621163120Z",
+  "model": "glm-5.3"
+}

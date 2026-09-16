@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Sɔre, Yawe; ɛnnɛ sɛ onipa bɛhoahoa; ɛnnɛ sɛ amanaman bɛdii atemmu wɔ W'anim.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛnnɛ sɛ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "bɛhoahoa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "bɛdii atemmu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "W'anim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:12.270121760Z",
+  "model": "glm-5.3"
+}

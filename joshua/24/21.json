@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ɛmanfoɔ no kaa kyerɛɛ Yehoshua sɛ: Dabi; ⟨את⟩ Yawe na yɛbɛsom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɛmanfoɔ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Dabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "yɛbɛsom"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:01.062934452Z",
+  "model": "glm-5.3"
+}

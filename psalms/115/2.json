@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Adɛn nti na amanfoɔ bɛka sɛ, «Ɛhe na wɔn Eloohim wɔ?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "adɛn nti"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ɛhe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na (mmɔdenfoɔ asɛmfua)"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:59.351742755Z",
+  "model": "glm-5.3"
+}

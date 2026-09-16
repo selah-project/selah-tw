@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛbɛba sɛ, Misraimfoɔ no bɛhunu ⟨את⟩ wo, na wɔbɛka sɛ, 'Ne yere ne yi,' na wɔbɛkum ⟨את⟩ me, na wɔbɛma ⟨את⟩ wo nkwa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Misraimfoɔ no"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "na wɔbɛka sɛ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "na wɔbɛkum"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bɛma nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:53.480401678Z",
+  "model": "glm-5.3"
+}

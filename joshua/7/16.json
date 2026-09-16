@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yehoshua sɔre anɔpa no ntɛm, de ⟨את⟩ Israel bɛn wɔn shibta dodo so; na Yehuda shibta no na wɔkyere no.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "sɔre anɔpa no ntɛm"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa no"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "de ... bɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "shibta dodo so"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "na wɔkyere"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "shibta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:26.462634689Z",
+  "model": "glm-5.3"
+}

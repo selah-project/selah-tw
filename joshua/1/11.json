@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 1:11",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Momfa mo ho ntu mmɔneam no mfimfini, na momhyɛ ⟨את⟩ ɔman no hyɛ sɛ: Mɔnoa mo aduane; ɛfiri sɛ nnansa akyi no, morefa ⟨את⟩ Yarden yi so, mo bɛkɔfa ⟨את⟩ asase no a Yawe mo Eloohim reyɛ mo de wɔbɛkɔso no.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "momfa mo ho ntu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mfimfini"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "mmɔneam no"
+    },
+    {
+      "surface": "וצוו",
+      "gloss": "na momhyɛ hyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "mɔnoa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "nnansa akyi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "nnansa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnansa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "morefa so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden yi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kɔfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "reyɛ mo de"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "wɔbɛkɔso no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:01:10.430166143Z",
+  "model": "glm-5.3"
+}

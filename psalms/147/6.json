@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Yawe gyina ahobrasefoɔ ho, na ɔda abɔnefoɔ so ase kɔsi asase so.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "ɔgyina ... ho"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ahobrasefoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ɔda ... so ase"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:55.979683495Z",
+  "model": "glm-5.3"
+}

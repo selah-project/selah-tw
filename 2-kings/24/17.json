@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na Babilon ɔhene maa ⟨את⟩ Matania, n'agya nuabarima, bɛyɛɛ ɔhene wɔ ne ananmu, na ɔsesaa ⟨את⟩ ne din bɛyɛɛ Tsidkiahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "maa ... bɛyɛɛ ɔhene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matania"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matania"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "n'agya nuabarima"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "wɔ ne ananmu"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ɔsesaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:37:39.673444482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Ashur nso ka wɔn ho, wɔyɛɛ ⟨abɔn⟩ mma Lot mma. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "abɔn"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:39.839818880Z",
+  "model": "glm-5.3"
+}

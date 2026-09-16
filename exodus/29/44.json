@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Mɛma Ohel Moed ne ⟨את⟩ mombɔ no ayɛ kronkron; ⟨את⟩ Aharon ne ⟨את⟩ ne mma no nso mɛma wɔayɛ kronkron sɛ wɔnyɛ asɔfoɔ m'ankasa.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Mɛma ... ayɛ kronkron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ohel Moed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "mombɔ no"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mombɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "mɛma wɔayɛ kronkron"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sɛ wɔnyɛ asɔfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'ankasa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:27.972579911Z",
+  "model": "glm-5.3"
+}

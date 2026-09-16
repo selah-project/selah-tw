@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔnnim deɛ ɛteɛ no yɛ, Yawe asɛm; wɔn na wɔboaboa ɔha ne nnefuo ano wɔ wɔn ahemfie mu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na wɔnnim"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔnnim"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "deɛ ɛteɛ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "wɔboaboa ... ano"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ne nnefuo"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "wɔ wɔn ahemfie mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:11:48.688294691Z",
+  "model": "glm-5.3"
+}

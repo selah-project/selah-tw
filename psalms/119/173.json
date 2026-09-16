@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo nsa ɔmmoa me, ɛfiri sɛ wo apɛdeɛ na mepawɛ.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ɔmmoa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "mma me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "wo apɛdeɛ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mepawɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:27.666376069Z",
+  "model": "glm-5.3"
+}

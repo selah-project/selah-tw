@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Dawid kaa Yawe nkyɛn ⟨את⟩ asɛm a ɛwɔ dwom yi mu, wɔ ɛda a Yawe gyee ⟨את⟩ no firi n'atamfoɔ nyinaa nsam, ne firi Sawl nsam no.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe nkyɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda a"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gyee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "firi ... nsam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "n'atamfoɔ"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "ne firi ... nsam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    }
+  ],
+  "timestamp": "2026-09-15T23:10:19.634998511Z",
+  "model": "glm-5.3"
+}

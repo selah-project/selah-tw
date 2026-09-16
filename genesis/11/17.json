@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Eber tenaa ase wɔ ne wo ⟨את⟩ Peleg akyi mfeɛ aduasa ne ɔhaanum, na ɔwoo mma mmarima ne mma mmaa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wɔ ... akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ne wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ne ɔhaanum"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔhaanum"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mma mmaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:23.426535040Z",
+  "model": "glm-5.3"
+}

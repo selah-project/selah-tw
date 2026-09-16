@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Mokyɛ dodo wɔ ⟨את⟩ bepɔ yi ho ntwaho mu; monsan mo ho monkɔ atifi fam.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "kyɛ dodo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "סב",
+      "gloss": "n_twaho mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ yi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "monsan mo ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "monkɔ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "atifi fam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:18.300298192Z",
+  "model": "glm-5.3"
+}

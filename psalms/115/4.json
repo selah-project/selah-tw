@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Wɔn abosom yɛ sika ne kɔkɔɔ, adwuma a nnipa nsa ayɛ.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "wɔn abosom"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ne kɔkɔɔ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:59.354916813Z",
+  "model": "glm-5.3"
+}

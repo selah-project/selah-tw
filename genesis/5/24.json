@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Henok ⟨את⟩ ne Eloohim nam kɔɔ, na ɔnnyɛ hɔ bio, ɛfiri sɛ Eloohim faa ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "nam kɔɔ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Henok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "na ɔnnyɛ hɔ bio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Henok)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:40.062268340Z",
+  "model": "glm-5.3"
+}

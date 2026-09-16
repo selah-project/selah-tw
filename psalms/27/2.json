@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Sɛ nnebɔnefoɔ bɛto me so sɛ wɔbɛdi ⟨את⟩ me nam — me atamfoɔ ne m'atiafoɔ — wɔtetew na wɔhwee ase.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "sɛ wɔbɛbɛn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "to me so"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nnebɔnefoɔ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sɛ wɔbɛdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nam"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "me nam"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "me atamfoɔ"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ne me atiafoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn ara"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "wɔtetew"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "na wɔhwee ase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:34.941389116Z",
+  "model": "glm-5.3"
+}

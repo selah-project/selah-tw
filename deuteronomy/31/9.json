@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na Mosheh twerɛɛ ⟨את⟩ Tora yi, na ɔde maa asɔfoɔ no, Levini mma, a wɔsoa ⟨את⟩ Yawe apam adaka no, ne Yisraelfoɔ mpanyimfoɔ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "na ɔtwerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora yi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "na ɔde maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levini"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "a wɔsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe apam adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:46.449210774Z",
+  "model": "glm-5.3"
+}

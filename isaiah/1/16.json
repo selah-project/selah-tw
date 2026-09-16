@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Momɔ mo ho hɔ, momɔ mo ho foforɔ; motu mo nnwuma bɔne firi me ani so; momgyae bɔne yɛ.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "momɔ mo ho hɔ"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "momɔ mo ho foforɔ"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "motu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "mo nnwuma"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "firi me ani so"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "momgyae"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne yɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:39:57.466169492Z",
+  "model": "glm-5.3"
+}

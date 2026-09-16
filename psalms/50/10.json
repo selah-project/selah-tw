@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ɛfiri sɛ kwae mu mmoa no nyinaa yɛ me dea, na mmoa a wɔtu mmepɔ apem so no nso yɛ me dea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yɛ me dea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kwae mu"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "a wɔtu mmepɔ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:29.364350770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Ɔkaa kyinnɛ buaa sɛ, 'So ɛnyɛ ⟨את⟩ deɛ Yawe de besi me ano mu no, ⟨את⟩ no na ɛsɛ sɛ mekora so sɛ meka anaa?'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyinnɛ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "So ɛnyɛ … anaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yawe de besi me ano mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "de besi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "me ano mu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "ɛsɛ sɛ mekora so sɛ meka"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "mekora so"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sɛ meka"
+    }
+  ],
+  "timestamp": "2026-09-15T21:38:06.008553772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Mɛka kyerɛ El, m'abotan: “Adɛn na wo werɛ afiri me? Adɛn na metu awerɛhoɔ rekɔ ɔtamfo no mmɔdenmɔ mu?”",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "mɛka"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kyerɛ El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "m'abotan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn na"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "wo werɛ afiri me"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn na"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "metu awerɛhoɔ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "rekɔ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "mmɔdenmɔ mu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtamfo"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:50.008533044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Adɛn, Yawe, wogyina akyirikyiri, wosie wo ho wɔ ɔhaw mmere mu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "wogyina"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "akyirikyiri"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "wosie wo ho"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "mmere mu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ɔhaw"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:05.506465773Z",
+  "model": "glm-5.3"
+}

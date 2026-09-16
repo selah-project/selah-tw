@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Matwa apam maa m'apawfoɔ; mari me nkwa sɛ nsɔm Dawid, me akoa.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Matwa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "maa m'apawfoɔ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mari me nkwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sɛ nsɔm ... Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "me akoa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:53.866430910Z",
+  "model": "glm-5.3"
+}

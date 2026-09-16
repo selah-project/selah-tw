@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Obi a ɔwɔ hesed, wode hesed hwɛ no; obi a ɔyɛ tamim, wode tamim hwɛ no.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Obi a ɔwɔ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "wode hesed hwɛ no"
+    },
+    {
+      "surface": "עם",
+      "gloss": "obi a ɔyɛ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tamim"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "wode tamim hwɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:25.293284794Z",
+  "model": "glm-5.3"
+}

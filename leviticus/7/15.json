@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Zebakh-Todah ne Shelamim no nam no, wɔ ne korban da no mu na wɔdi; wɔnngya biara firi mu kɔpem anɔpa.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "na ... nam"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zebkh"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "Todah"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ne Shelamim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ne korban"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wɔdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔnn-"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "gya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firi mu biara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔpem"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:26.688976859Z",
+  "model": "glm-5.3"
+}

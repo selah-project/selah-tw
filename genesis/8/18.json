@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Noa ne ne mma ne ne yere ne ne mma yere ⟨את⟩ no firi (tekwan so).",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "firi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ne ne yere"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Noa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:39.290516565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ma me nte, na mɛdi wo Tora no so, na mɛhwɛ so akoma nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "ma me nte"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "na mɛdi so"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "wo Tora"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "na mɛhwɛ so"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:50.776255788Z",
+  "model": "glm-5.3"
+}

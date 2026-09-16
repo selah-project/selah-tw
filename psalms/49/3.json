@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Saa ara nnipa mma ne mmabarima mma, adefoɔ ne ahiafoɔ bom.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmabarima"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bom"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "adefoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ne ahiafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:53.655052161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Me nantehɔ no, Wone na wobisaase ho ama; fa me nsuɔ no gu wo mena mu; ɛnyɛ wo nwoma mu anaa?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "me nantehɔ"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "wobisaase ho ama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wone"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "fa … gu"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "me nsuɔ"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "wo mena mu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ɛnyɛ … anaa"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "wo nwoma mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:32.229852074Z",
+  "model": "glm-5.3"
+}

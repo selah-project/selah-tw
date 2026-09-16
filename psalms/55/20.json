@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "El bɛtie na ɔbɛbua wɔn so, Nea ɔtena firi tete — Selah — wɔn a wɔnni nsesaeɛ wɔ wɔn ho, na wɔnsuro Eloohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "bɛtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "na ɔbɛbua wɔn so"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Nea ɔtena"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "firi tete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wɔnni"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "nsesaeɛ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔn"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nsuro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:30.681902869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Yawe ne wo bɔfoɔ, Yawe ⟨ɔyɛ⟩ wo sum wɔ wo nsa nifa so.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "wo bɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "wo sum"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:38.134330565Z",
+  "model": "glm-5.3"
+}

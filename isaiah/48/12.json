@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Tie me, Yaqob, ne Israel, mɛfrɛfoɔ: me ne ⟨no⟩; me ne deɛ ɛdi kan, na me ne deɛ ɛdi akyire.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ne Israael"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mɛfrɛfoɔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "deɛ ɛdi kan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "deɛ ɛdi akyire"
+    }
+  ],
+  "timestamp": "2026-09-15T23:57:39.142695177Z",
+  "model": "glm-5.3"
+}

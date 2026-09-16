@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Nhyira-bɔne ase ɔhɔ a ɔda ne papa yere; ɛma ɔbuee ne papa ntaba; na ɔman no nyinaa bɛka sɛ: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "nhyira-bɔne ase"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ɔda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛma"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ɔbuee"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ntaba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ... bɛka sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:30.019049568Z",
+  "model": "glm-5.3"
+}

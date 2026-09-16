@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Betsalel yɛɛ ⟨את⟩ adaka no firi shittim nnua mu — ne tenten bɛyɛ amma mmienu ne fa, ne tɛtrɛtɛ bɛyɛ amma baako ne fa, na ne sorokɔ bɛyɛ amma baako ne fa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nnua mu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amma mmienu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "amma baako"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fa"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ne tɛtrɛtɛ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "amma baako"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fa"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ne sorokɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:01.724597448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Mfasoɔ bɛn na ɛwɔ me mogya mu, sɛ metu amane kɔ ɔwow mu? Wobɛda wo animuonyam adi wɔ efuo no so ana? Wobɛka wo nokorɛ no ana?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "me mogya mu"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "sɛ metu amane kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ɔwow mu"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Wobɛda wo animuonyam adi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "efuo no so"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Wobɛka"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wo nokorɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:19.314994940Z",
+  "model": "glm-5.3"
+}

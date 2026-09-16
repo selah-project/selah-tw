@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Dawid asɛm, dwom no kwankyerɛfoɔ. Ninyinaa-ɔbarima no kaa ne akoma mu se, Eloohim nni hɔ. Wɔsɛee wɔn ho, wɔyɛɛ nneɛma a ɛyɛ nkwaseasɛm; obiara a ɔyɛ papa nni hɔ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dwom no kwankyerɛfoɔ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ninyinaa-ɔbarima"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ne akoma mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "wɔsɛee wɔn ho"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "wɔyɛɛ nneɛma a ɛyɛ nkwaseasɛm"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "nneɛma a wɔyɛe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:32.710781995Z",
+  "model": "glm-5.3"
+}

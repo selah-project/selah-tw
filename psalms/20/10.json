@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Yawe, gye ɔhene no nkwa; ɔmmua yɛn wɔ da a yɛfrɛ no mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "gye nkwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ɔmmua yɛn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da ... mu"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "a yɛfrɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:41.488433052Z",
+  "model": "glm-5.3"
+}

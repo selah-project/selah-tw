@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 15:25",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na seesei, mepa wo kyɛw, fa ⟨את⟩ me mfomaseɛ so, na san bra me nkyɛn, na makɔ m'ayi Yawe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "שא",
+      "gloss": "fa ... so"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me mfomaseɛ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "me mfomaseɛ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "na san bra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "na makɔ m'ayi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:46.732942376Z",
+  "model": "glm-5.3"
+}

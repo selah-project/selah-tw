@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Yawe Eloohim sii ⟨את⟩ abɔnwoma a ɔfaa firi Adam hɔ no ayɛ ɔbaa, na ɔde baa Adam hɔ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "sii (yɛɛ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔnwoma"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "abɔnwoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ayɛ ɔbaa"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "na ɔde baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:20.415128532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Me ba, sɛ wode me nsɛm gyia na wo sie me nhyehyɛeɛ ⟨את⟩ wo ho,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Me ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wode … gyia"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "me nsɛm"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "me nhyehyɛeɛ"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "wo sie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo ho",
+      "marks": "wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:12.687361858Z",
+  "model": "glm-5.3"
+}

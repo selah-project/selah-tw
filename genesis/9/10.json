@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ne ⟨את⟩ abɔdeɛ a nkwa wɔ mu nyinaa a ɛwɔ mo nkyɛn — nnom mu, anantwinnyeɛ mu, ne asase mmoa nyinaa a ɛwɔ mo nkyɛn mu; ne deɛ wɔfiri ɔhyɛn no mu baeɛ nyinaa, kɔsi asase mmoa nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "abɔdeɛ a nkwa wɔ mu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "a nkwa wɔ mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo nkyɛn"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "nnom mu"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "anantwinnyeɛ mu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo nkyɛn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "a wɔfiri ... baeɛ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ɔhyɛn no"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kɔsi ... nyinaa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:41.069852253Z",
+  "model": "glm-5.3"
+}

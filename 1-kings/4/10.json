@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ben-Chesed, wɔ Arubot; Sokoh ne Chefer asase nyinaa yɛ ⟨no dea⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "wɔ Arubot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨no dea⟩"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chepher"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:20.395768926Z",
+  "model": "glm-5.3"
+}

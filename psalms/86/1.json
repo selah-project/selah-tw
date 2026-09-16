@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Mpaeɛbɔ a Dawid de bɔɔ. Yawe, twe wo aso bɛsɔn; bu me, ɛfiri sɛ me yɛ ahiafoɔ ne ahiafoɔ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Mpaeɛbɔ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid de bɔɔ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "twe bɛsɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "wo aso"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bu me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ne ahiafoɔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me yɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T06:06:55.244130250Z",
+  "model": "glm-5.3"
+}

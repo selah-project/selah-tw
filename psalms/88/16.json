@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Abrasoa me, na mewu firi m'abɔfra berɛ; misoa wo hu, na meserae.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Abrasoa me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "na mewu"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "firi m'abɔfra berɛ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "misoa"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "wo hu"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "na meserae"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:18.948291964Z",
+  "model": "glm-5.3"
+}

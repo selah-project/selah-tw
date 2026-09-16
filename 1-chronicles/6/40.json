@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔmaa wɔn ⟨את⟩ Hebron wɔ Yuda asase mu, ne ⟨את⟩ ne mfuo a atwa ho ahyia.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Na wɔmaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asase mu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mfuo a atwa ho ahyia"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne mfuo"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "a atwa ho ahyia"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:09.019829696Z",
+  "model": "glm-5.3"
+}

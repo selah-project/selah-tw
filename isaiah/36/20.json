@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Hwan na wɔ asan yi nyinaa Eloohim mu na wɔagye ⟨את⟩ wɔn asase firi me nsa mu, sɛ Yawe mpo bɛgye ⟨את⟩ Yerusalem afiri me nsa mu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "asan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "wɔagye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asase"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "firi me nsa mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "mpo bɛgye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "afiri me nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:33.035833124Z",
+  "model": "glm-5.3"
+}

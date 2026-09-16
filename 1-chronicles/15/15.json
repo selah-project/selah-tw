@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Levi mma no de ⟨את⟩ Eloohim adaka no, sɛnea Mose hyɛɛ no sɛ, sɛnea Yawe asɛm no teɛ, dii wɔn mma so wɔ nnua a wɔde toa no so.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "dii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ no sɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛnea ... asɛm no teɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "wɔn mma so"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "nnua a wɔde toa no"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-16T04:45:07.071032287Z",
+  "model": "glm-5.3"
+}

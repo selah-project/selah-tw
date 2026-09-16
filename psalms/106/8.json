@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Nanso ɔde wɔn ho hyɛɛ mu, ne din nti, na ɔde ⟨את⟩ ne ahoɔden kɛseɛ daa adi.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "nanso ɔde wɔn ho hyɛɛ mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "na ɔdaa adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ahoɔden kɛseɛ"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ne ahoɔden kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:29.572452925Z",
+  "model": "glm-5.3"
+}

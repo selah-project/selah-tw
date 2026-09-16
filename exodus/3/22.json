@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔbaa biara bɛbisa ne yɔnko ne ɔhɔhoɔ a ɔte ne fie: deɛ sika, deɛ sikakɔkɔɔ, ne ntadeɛ; na mode bɛto gu mo mma mmarima ne mo mma mmea so, na mode bɛsɔ ⟨את⟩ Misraim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "na ɔbɛbisa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "ɔhɔhoɔ a ɔte ne fie"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sikakɔkɔɔ"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ne ntadeɛ"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "na mode bɛto"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "mo mma mmarima"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "mo mma mmea"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "na mode bɛsɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:44:53.811385533Z",
+  "model": "glm-5.3"
+}

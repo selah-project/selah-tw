@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ɛno nti, ka se: Mete ⟨הנני⟩, mede me nhyehyɛeɛ — ⟨את⟩ my hyeɛ no — bɛma no; asomdwoeɛ nhyehyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ɛno nti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "⟨הנני⟩ (hwɛ, me wo ha)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nhyehyɛeɛ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me nhyehyɛeɛ (hyeɛ)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:37:52.412425202Z",
+  "model": "glm-5.3"
+}

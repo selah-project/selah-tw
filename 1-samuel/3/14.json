@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Enti madi nkɔm hyɛ Elyi fie sɛ: Elyi fie bɔne rennya fɔ wɔ afɔre anaa minca mu — kɔsi daa.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "madi nkɔm hyɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "hyɛ fie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elyi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "rennya fɔ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elyi"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "wɔ afɔre mu"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "anaa minca mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:11.800160133Z",
+  "model": "glm-5.3"
+}

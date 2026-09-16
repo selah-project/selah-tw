@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Yawe ma Pare akoma no yɛɛ den, na wantie wɔn, sɛnea Yawe kyerɛɛ Mosye no.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Na ... ma ... yɛɛ den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pare akoma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... an"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wantie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosye"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:57.612006179Z",
+  "model": "glm-5.3"
+}

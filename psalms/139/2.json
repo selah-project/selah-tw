@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Wunim m'atena ne mesɔre; wote ase sɛnea me tirim hyɛ den wɔ m'adwene mu fi kwan tenten so.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wunim"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "m'atena"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "ne mesɔre"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "wote ase"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "m'adwene mu tirim"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fi kwan tenten so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:03.120789182Z",
+  "model": "glm-5.3"
+}

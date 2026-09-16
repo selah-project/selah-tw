@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 138,
+  "translation": "Mɛbrɛ m'anim ase kɔ wo kronkron ahyennde mu, na mɛda w'ase wɔ ⟨את⟩ wo din mu, w'ahotoso ⟨hesed⟩ ne wo nokorɛ nti; ɛfiri sɛ woama wo asɛm ayɛ kɛseɛ sene wo din nyinaa.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "mɛbrɛ m'anim ase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ahyennde"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "wo kronkron"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "na mɛda w'ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo din"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "על",
+      "gloss": "... nti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "w'ahotoso ⟨hesed⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... nti"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wo nokorɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "woama ... ayɛ kɛseɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "wo asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:21.285996337Z",
+  "model": "glm-5.3"
+}

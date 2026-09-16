@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 97,
+  "translation": "Yawe adi hene; ⟨asase⟩ no mmɔ ngyegyee, na mpoano pii mmɔ anigyeɛ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "adi hene"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "mmɔ ngyegyee"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mmɔ anigyeɛ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mpoano"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:29.766196841Z",
+  "model": "glm-5.3"
+}

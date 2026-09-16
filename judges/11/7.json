@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 11:7",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Yifta kaa kyɛw kyerɛɛ Gilɛad mpanimfoɔ: “⟨את⟩ Mompɛnnyeɛ, mo nu me tan, na mo pampam me firi m'agya fie; adɛn nti na mo aba me nkyɛn seesei, ɛberɛ a ɛyɛ ya mo?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛw"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifta"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "kyerɛɛ ... mpanimfoɔ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Mompɛnnyeɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "nu me tan"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me (wɔ 'nu me tan' mu)"
+    },
+    {
+      "surface": "ותגרשוני",
+      "gloss": "mo pampam me"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi ... fie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "adɛn nti na"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mo aba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "seesei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ɛberɛ a"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɛyɛ ya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:40:36.367869363Z",
+  "model": "glm-5.3"
+}

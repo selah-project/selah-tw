@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 14:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na akwan mmienu a Yonatan pɛ sɛ ɔfa so kɔ Pelistim atareɛ no ntam: sradeɛ ɔboɔ wɔ ɛfa yi so, na sradeɛ ɔboɔ wɔ ɛfa no so; baako din de Botsets, na ɔbaako din de Seneh.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "המעברות",
+      "gloss": "akwan mmienu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "fa so kɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "atareɛ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistim"
+    },
+    {
+      "surface": "שן",
+      "gloss": "sradeɛ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ɔboɔ"
+    },
+    {
+      "surface": "מהעבר",
+      "gloss": "ɛfa yi so"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ושן",
+      "gloss": "sradeɛ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ɔboɔ"
+    },
+    {
+      "surface": "מהעבר",
+      "gloss": "ɛfa no so"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "no"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "din"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "בוצץ",
+      "gloss": "Botsets"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "din"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɔbaako"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "Seneh"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:15.485268812Z",
+  "model": "glm-5.3"
+}

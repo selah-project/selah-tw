@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Dawid faa ⟨את⟩ sikakɔkɔɔ banbɔ nnwuma a ɛda Hadadezer nkoa so no, na ɔde baa Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikakɔkɔɔ banbɔ nnwuma"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "banbɔ nnwuma"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sikakɔkɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "de baa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T04:44:39.081378081Z",
+  "model": "glm-5.3"
+}

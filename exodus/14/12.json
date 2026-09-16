@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "“Sɛ́ ɛnyɛ asɛm yi a yɛka kyerɛɛ wo wɔ Misraim sɛ: ‘Gyae yɛn, na yɛnni Misraimfoɔ ayie,’ na ɛyɛ papa mma yɛn sɛ yɛdi Misrafoɔ ayie kyɛn sɛ yɛwuw kwaeɛ mu no?”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sɛ́ ɛnyɛ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "yɛka kyerɛɛ wo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "gyae"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "na yɛnni ... ayie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraimfoɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraimfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mma yɛn"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yɛdi ... ayie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraimfoɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraimfoɔ"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "kyɛn sɛ yɛwuw"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwaeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:26:09.047556130Z",
+  "model": "glm-5.3"
+}

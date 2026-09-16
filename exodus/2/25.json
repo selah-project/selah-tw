@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Eloohim hunuu ⟨את⟩ Yisraelfoɔ mma, na Eloohim nim wɔn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraelfoɔ mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:16.446942625Z",
+  "model": "glm-5.3"
+}

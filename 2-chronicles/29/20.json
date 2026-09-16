@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ɔhene Hizkia sɔɔ anɔpa ntɛm, ɔboaa kurow no mpanimfoɔ ⟨את⟩, na ɔkɔɔ soro kɔɔ Yawe fie.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "sɔɔ anɔpa ntɛm"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ɔboaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow no mpanimfoɔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ɔkɔɔ soro kɔɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:07:57.196168067Z",
+  "model": "glm-5.3"
+}

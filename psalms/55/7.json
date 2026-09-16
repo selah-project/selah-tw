@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Na mekae sɛ: Hwan na ɔbɛma me ntaban te sɛ abrowa deɛ? Matu mpɔn hyɛn, na makɔtena hɔ asomdwoeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Na mekae sɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na ɔbɛma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "ntaban"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "te sɛ abrowa deɛ"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "Matu mpɔn hyɛn"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "na makɔtena hɔ asomdwoeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:15.092451414Z",
+  "model": "glm-5.3"
+}

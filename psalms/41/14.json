@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Nhyira wo Yawe, Eloohim a ɔwɔ Yisrael, firi tete bere mu de kɔsi daa bere mu. Amen, na Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim a ɔwɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "firi tete bere mu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "daa bere mu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amen"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:04.222361767Z",
+  "model": "glm-5.3"
+}

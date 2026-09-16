@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Ne a ɔyɛ adwuma wɔ n'asase so benya aduane dɔɔso, nanso ne a ɔdi nkwaseasɛm a ɛnni mu biara ho dwuma no, ne tirim nni mu.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "ne a ɔyɛ adwuma"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "wɔ n'asase so"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "benya ... dɔɔso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "nanso ne a ɔdi ... ho dwuma"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "nkwaseasɛm a ɛnni mu biara"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ne tirim ... mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:48:53.686102171Z",
+  "model": "glm-5.3"
+}

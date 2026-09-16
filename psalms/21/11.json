@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wobɛsɛe wɔn aba firi asase so, na wɔn nkorɔmɔ firi nnipa mma mu.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "wɔn aba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase so"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "Wobɛsɛe"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "na wɔn nkorɔmɔ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "firi ... mma mu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:08.438231704Z",
+  "model": "glm-5.3"
+}

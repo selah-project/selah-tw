@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Hwɛ firi me so, na m'ani nnye bio, ansa na mɛkɔ na menyɛ hɔ bio.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me so"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "na m'ani nnye bio"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mɛkɔ"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "na menyɛ hɔ bio"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:19.242067129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Da nyinaa m'atamfoɔ di m'animuonyam; wɔn a wɔde me abufuo ayɛ basabasa no de me asɔ dua.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "di m'animuonyam"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "wɔn a wɔde me abufuo ayɛ basabasa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "de me"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "asɔ dua"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:11.632642162Z",
+  "model": "glm-5.3"
+}

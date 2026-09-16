@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔhaw kɛseɛ baa Yona so, na abufuo hyɛɛ no ma.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "baa ɔhaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "na abufuo hyɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no ma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:15:40.142735647Z",
+  "model": "glm-5.3"
+}

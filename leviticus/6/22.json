@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Akohene mmarima nyinaa bɛdi ⟨את⟩ no; kronkron ma kronkron paa na ɛyɛ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "akohene mu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bɛdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kronkron paa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:17.200314623Z",
+  "model": "glm-5.3"
+}

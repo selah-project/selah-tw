@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "ɛma atemsodeɛ bɛsan akɔ tɛneeni so, na wɔn a wɔwɔ akoma tee nyinaa bɛdi n'akyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tɛneeni"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bɛsan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemsodeɛ"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "na ... n'akyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wɔn a wɔwɔ ... tee"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:31.067539698Z",
+  "model": "glm-5.3"
+}

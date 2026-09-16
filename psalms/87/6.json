@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 87,
+  "translation": "Yawe bɛkan wɔn sɛ ɔretwerɛ amanfoɔ no din: “Wɔwoo ɔyi wɔ hɔ.” Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bɛkan wɔn"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "sɛ ɔretwerɛ… no din"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɔyi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wɔwoo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:00.516876688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Ɔbɛma aman ahodoɔ ase yɛn, ɔman nso ase yɛn nan.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Ɔbɛma ... ase"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman ahodoɔ"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ase yɛn"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ɔman nso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "yɛn nan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:05.790623958Z",
+  "model": "glm-5.3"
+}

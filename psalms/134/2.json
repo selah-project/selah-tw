@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 134,
+  "translation": "Ma mo nsa so nwini kɔ kronkronbea, na momhyira ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ma mo nsa so nwini"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "mo nsa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kɔ kronkronbea"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "na momhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:41.188383159Z",
+  "model": "glm-5.3"
+}

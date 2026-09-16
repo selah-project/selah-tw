@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔn nkanee, wɔ Efrayim abusuakuo mu, yɛ mpem aduanan ne ahanum.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "wɔn nkanee"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wɔ abusuakuo mu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mpem"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ne enum"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ahanum"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:55.903117749Z",
+  "model": "glm-5.3"
+}

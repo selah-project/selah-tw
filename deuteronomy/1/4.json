@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Akyi no, sɛ ɔbɔɔ ⟨את⟩ Sihon, Amorfoɔ hene a ɔte Heshbon, ne ⟨את⟩ Og, Bashan hene a ɔte Ashtarot wɔ Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Akyi no"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "sɛ ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ɔte"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "wɔ Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ɔte"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "wɔ Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "wɔ Edrei"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:31.569993929Z",
+  "model": "glm-5.3"
+}

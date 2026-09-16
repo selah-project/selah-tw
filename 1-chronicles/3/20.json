@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "ne Hashuba, ne Ohel, ne Berekya, ne Hasadya, ne Yushab-Hesed — enum.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ne Hashuba"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ne Ohel"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ne Berekya"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ne Hasadya"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Yushab-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:13.111139839Z",
+  "model": "glm-5.3"
+}

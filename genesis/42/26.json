@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Na wɔde wɔn bɔrɔ too wɔn mfuroto so, na wɔfirii hɔ.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wɔtoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn bɔrɔ"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "wɔn bɔrɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "wɔn mfuroto"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na wɔfirii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:56.735453837Z",
+  "model": "glm-5.3"
+}

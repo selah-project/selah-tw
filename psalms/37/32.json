@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Bɔnefoɔ da atrenefoɔ so hwɛ, na ɔhwehwɛ sɛ ɔkum no.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "da ... so hwɛ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Bɔnefoɔ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "atrenefoɔ"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "na ɔhwehwɛ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "sɛ ɔkum no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:29.394549232Z",
+  "model": "glm-5.3"
+}

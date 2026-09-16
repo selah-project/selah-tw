@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na sɛ minchah a wɔnoaa wɔ kukurow mu na wode bɛba sɛ wo afɔdeɛ, wɔde ɛtɔ ne ngo na wɔbɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "kukurow"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "wo afɔdeɛ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ɛtɔ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo mu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wɔbɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:13.514359443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Me nyinam nyinaa bɛka sɛ: Yawe, hwan na ɔte sɛ wo, a wode wo tumi gyaa ɔhawfoɔ firi ɔdenfoɔ a ɔyɛ no den no nsam, ɔhawfoɔ ne ɔhiafoɔ nso firi obi a ɔsɛe wɔn no nsam?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "me nyinam"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "te sɛ wo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "gyaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ɔhawfoɔ"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "firi ɔdenfoɔ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no nsam"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ne ɔhawfoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ne ɔhiafoɔ"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "firi obi a ɔsɛe wɔn no nsam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:18.584425599Z",
+  "model": "glm-5.3"
+}

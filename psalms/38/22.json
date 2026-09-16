@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Mma wo ngya me, Yawe, me Eloohim; mma wo ho mmɛn firi me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "wo ngya me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "wo ho mmɛn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:41.230996509Z",
+  "model": "glm-5.3"
+}

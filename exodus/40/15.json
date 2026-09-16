@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wo de ngo asra ⟨את⟩ wɔn, sɛnea wo asra ⟨את⟩ wɔn agya no; na wɔbɛyɛ asɔfoɔ ama me, na wɔn ngo-sraeɛ no bɛyɛ wɔn de sɛ asɔfoɔ asetena nyinaa, nkyirimmaa dɔɔso a wɔn nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "na wo de ngo asra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "wo asra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn agya no"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "wɔn agya no"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "na wɔbɛyɛ asɔfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ... bɛyɛ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn de"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "wɔn ngo-sraeɛ no"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "sɛ asɔfoɔ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "asetena nyinaa"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nkyirimmaa dɔɔso a wɔn nyinaa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:11.961671381Z",
+  "model": "glm-5.3"
+}

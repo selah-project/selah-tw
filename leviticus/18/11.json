@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wo agya yere babea nwanwa — a wo agya woo no — ɔno ne wo nuabea; wunniae ne nwanwa.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nwanwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babea"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "a ... woo no"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "wo nuabea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wunn"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "iae"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ne nwanwa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:27.777528291Z",
+  "model": "glm-5.3"
+}

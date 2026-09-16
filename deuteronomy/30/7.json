@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na Yawe wo Eloohim bɛto ⟨את⟩ duanan bɔne yi nyinaa agu wo atanfoɔ so, ne wɔn a wɔtan wo so — wɔn a wɔdi wo akyi.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "bɛto ... agu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duanan bɔne yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "duanan bɔne"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "wo atanfoɔ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wɔn a wɔtan wo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "di wo akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:26.238478338Z",
+  "model": "glm-5.3"
+}

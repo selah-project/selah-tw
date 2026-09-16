@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Wɔ asomdwoeɛ mu, yɛnnyinaa, mɛda m'ase na mɛda; ɛfiri sɛ wo nko ara, Yawe, na wohyɛ me ⟨na⟩ metena ahotosoɔ mu.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "wɔ asomdwoeɛ mu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yɛnnyinaa"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "mɛda m'ase"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "na mɛda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ahotosoɔ mu"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "wohyɛ me tena"
+    }
+  ],
+  "timestamp": "2026-09-16T01:36:48.630648162Z",
+  "model": "glm-5.3"
+}

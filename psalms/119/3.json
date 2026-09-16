@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Afei, wɔnnɔ atɛntrenee-bɔne biara da; wɔnam n'akwan so.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Afei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "wɔnnɔ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "atɛntrenee-bɔne"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "n'akwan so"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wɔnam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:15.861252716Z",
+  "model": "glm-5.3"
+}

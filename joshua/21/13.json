@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wɔmaa Aharon mma, ɔsɔfoɔ no, ⟨את⟩ kuro a ɛyɛ ehobam ma ɔkumfoɔ, ⟨את⟩ Hebron ne ne mmea afuo, ne ⟨את⟩ Libna ne ne mmea afuo.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ma ... mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "wɔmaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuro a ɛyɛ ehobam"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ehobam"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ɔkumfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:41.737558426Z",
+  "model": "glm-5.3"
+}

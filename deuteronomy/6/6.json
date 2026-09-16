@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na nsɛm yi a mede hyɛ wo wo dwuma ɛnnɛ no nkyɛ, ɛbɛda wo akoma so.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "na ɛbɛda ... so"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm yi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "de hyɛ wo wo dwuma"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:30.701073509Z",
+  "model": "glm-5.3"
+}

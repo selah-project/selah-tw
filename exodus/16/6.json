@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Moshe ne Aaron kaa kyɛw sɛ: Israil mma nyinaa, anwummerɛ no na mobehunu sɛ Yawe na ɔde mo firi Misraim asase mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛw sɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sɛ:"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "na mobehunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "na ɔde mo firi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Israil mma)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:58.979675283Z",
+  "model": "glm-5.3"
+}

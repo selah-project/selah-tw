@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na sɛ nuanom nni hɔ ma no, mo de ⟨את⟩ n'agyaapadeɛ ma n'agya nuanom.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "nuanom"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mo de ... ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'agyaapadeɛ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "n'agyaapadeɛ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ma n'agya nuanom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    }
+  ],
+  "timestamp": "2026-09-15T21:40:16.534402695Z",
+  "model": "glm-5.3"
+}

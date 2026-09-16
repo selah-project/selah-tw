@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 29:2",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Wɔ Yekonya hene no, ne ɔhemmaa no, ne akwafoɔ no, Yuda ne Yerusalem ahemfo, ne duafrani no ne dadeɛyɛfoɔ no firi Yerusalem akyi.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "firi"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "והגבירה",
+      "gloss": "ne ɔhemmaa no"
+    },
+    {
+      "surface": "והסריסים",
+      "gloss": "ne akwafoɔ no"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ne Yerusalem"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ne duafrani no"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "ne dadeɛyɛfoɔ no"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "firi Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T00:18:25.886648498Z",
+  "model": "glm-5.3"
+}

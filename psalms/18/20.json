@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɔde me baa trɛmu, Ɔgyee me, ɛfiri sɛ Ɔpɛ me.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Ɔde me baa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "trɛmu"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Ɔgyee me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ɔpɛ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:22.437457346Z",
+  "model": "glm-5.3"
+}

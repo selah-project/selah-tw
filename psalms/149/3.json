@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 149,
+  "translation": "Wɔmmɔ ne din mu wɔ asaw mu; wɔmmɔ nnwom maa no wɔ timbrel ⟨abɔneɛ⟩ ne serewa so.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Wɔmmɔ ... mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "wɔ asaw mu"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "wɔ timbrel ⟨abɔneɛ⟩ so"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ne serewa"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "wɔmmɔ nnwom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:37.768313115Z",
+  "model": "glm-5.3"
+}

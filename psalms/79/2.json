@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Wɔde ⟨את⟩ wo nkoa no wowuo maa aduane ma ɔsoro nnomaa, wɔn a wɔyɛ wo apapafoɔ no nam maa asase mmoa.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "wɔde ... maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nkoa no wowuo"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "wowufoɔ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo nkoa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "nnomaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "wo apapafoɔ"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:51.072717364Z",
+  "model": "glm-5.3"
+}

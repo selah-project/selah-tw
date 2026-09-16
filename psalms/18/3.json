@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Yawe ⟨yɛ⟩ me botan, ne me twerɛbea, ne me ahotwee; El, me botan, mɛma me ho agu ne mu; me kyinieɛ, ne me abɔdwiremdua — me nkwa, ne me ban tensen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "me botan"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ne me twerɛbea"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ne me ahotwee"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "me botan"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mɛma me ho agu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne mu"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "me kyinieɛ"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ne me abɔdwiremdua"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ne me ban tensen"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:49.001722656Z",
+  "model": "glm-5.3"
+}

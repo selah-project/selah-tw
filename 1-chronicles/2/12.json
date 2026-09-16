@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Boaz woo ⟨את⟩ Obed, na Obed woo ⟨את⟩ Yishai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "na Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "na Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:53.798470568Z",
+  "model": "glm-5.3"
+}

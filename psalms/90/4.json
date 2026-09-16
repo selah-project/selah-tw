@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Ɛfiri sɛ afi apem wɔ wo nsan mu yɛ sɛ nnawɔtwe a atwam, sɛ awia a ɛretwa mu, anaa anadwo mu ntɛm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "wɔ wo nsan mu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sɛ nnawɔtwe"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "a atwam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "a ɛretwa mu"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "anaa anadwo mu ntɛm"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:29.833043611Z",
+  "model": "glm-5.3"
+}

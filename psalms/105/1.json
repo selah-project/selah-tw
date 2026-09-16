@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Da Yawe ase, frɛ mo ne din, kyerɛ nnipa aman ne nneyɛeɛ a ɔyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "da ase"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe (mma no)"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "frɛ (mo)"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ne din mu"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "kyerɛ (mo)"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "nnipa aman mu"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ne nneyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:57.053065547Z",
+  "model": "glm-5.3"
+}

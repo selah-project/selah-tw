@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Na wɔanwinyi ɛma wɔadwo, na ɔde wɔn kɔɔ ɔhyɛn gyinabea a wɔpɛ.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Na wɔanwinyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛma"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "wɔadwo"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "na ɔde wɔn kɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "ɔhyɛn gyinabea"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "a wɔpɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:00.767849402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Atam kasa atwa me ho ahyia, na wɔako atia me kwa.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "atam kasa"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "atam"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "atwa me ho ahyia"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "wɔako atia me"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "kwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:21.953437060Z",
+  "model": "glm-5.3"
+}

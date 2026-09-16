@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na mobɛsɛe wɔ amanaman mu, na mo atamfoɔ asase bɛdi ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "mobɛsɛe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanaman mu"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "bɛdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mo atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:20.498763593Z",
+  "model": "glm-5.3"
+}

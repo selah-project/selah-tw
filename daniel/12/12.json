@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Nhyira ne nea ɔtwɛn na ɔduru nna apem, aha-mmesa ne aduasa-num so.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nhyira ne nea"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "ɔtwɛn"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "na ɔduru ... so"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "aha-mmesa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(aha)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "-num"
+    }
+  ],
+  "timestamp": "2026-09-16T04:13:25.231057010Z",
+  "model": "glm-5.3"
+}

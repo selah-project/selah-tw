@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 19:16",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Da no ara mu no, Misraim bɛyɛ sɛ mmaa na wɔbɛyɛ toro toro na wɔahunu esiane Yawe, Sabaoth asa a Ɔbɔ so wɔ wɔn so no nti.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Da no ara mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "sɛ mmaa"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "na wɔbɛyɛ toro toro"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "na wɔahunu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "esiane...nti"
+    },
+    {
+      "surface": "תנופת",
+      "gloss": "asa a wɔbɔ so"
+    },
+    {
+      "surface": "יד",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ɔ"
+    },
+    {
+      "surface": "מניף",
+      "gloss": "bɔ so"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wɔ wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:24.684535042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na ɔde ⟨את⟩ ɛhyɛn akwa a ɛwɔ Mishkan no ano no sii hɔ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "sii hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛhyɛn akwa no"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ɛhyɛn akwa"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:54.940036283Z",
+  "model": "glm-5.3"
+}

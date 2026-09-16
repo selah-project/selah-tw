@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Fa biara a ɔdi kan bue yafunu no siesie m'akyi sɛ kronkron wɔ Yisrael mma mu, wɔ onipa mu ne wɔ mmoa mu — ma me na ɔyɛ.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "siesie sɛ kronkron"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'akyi ma me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ɔdi kan (abakan)"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "bue (abakan a ɔbue)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara a"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "yafunu"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wɔ ... mma mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "wɔ onipa mu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ne wɔ mmoa mu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:03.731668743Z",
+  "model": "glm-5.3"
+}

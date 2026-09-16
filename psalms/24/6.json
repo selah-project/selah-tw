@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Saa na nnipa dɔm a wɔhwehwɛ no — a wɔhwehwɛ w'anim — Yaakob. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nnipa dɔm"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "a wɔhwehwɛ no"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "a wɔhwehwɛ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:57.700438770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Sɛ ɔbɛyɛ nkyerɛkyerɛmu adwuma — sɛ ɔde sika kɔkɔɔ, ne dwetɛ, ne nkɔnsenkɔnsɛn bɛyɛ adwuma.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "Sɛ ɔbɛyɛ ... nkyerɛkyerɛmu"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "nkyerɛkyerɛmu adwuma"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bɛyɛ adwuma"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "sika kɔkɔɔ mu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ne dwetɛ mu"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ne nkɔnsenkɔnsɛn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:52.310950099Z",
+  "model": "glm-5.3"
+}

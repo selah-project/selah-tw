@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Sɛdeɛ wɔretwetwɛ m'apɔmu mprɛw mu so, m'atamfoɔ reserɛ me, berɛ a wɔka kyerɛ me ⟨את⟩ da no mu nyinaa sɛ, Wɔhe na wo Eloohim wɔ?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "sɛdeɛ wɔretwetwɛ (mmusubunu)"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "wɔ m'apɔmu mprɛw mu"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "wɔreserɛ me"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "berɛ a wɔka sɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛ me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "wɔhe?"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:16.098227874Z",
+  "model": "glm-5.3"
+}

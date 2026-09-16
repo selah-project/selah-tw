@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na ɔde ⟨את⟩ adaka no baa ahemfie hema no mu, na ɔde ⟨את⟩ paroket amanseɛ no sii so, na ɔde siee adanseɛ adaka no so; sɛnea Yawe hyɛɛ ⟨את⟩ Mosɛɛ no.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na ɔde...baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa...mu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ahemfie hema no"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na ɔde...sii so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paroket amanseɛ no"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "amanseɛ no"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "na ɔde siee"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "adanseɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosɛɛ no"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:13.918233626Z",
+  "model": "glm-5.3"
+}

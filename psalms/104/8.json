@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Mmepɔ no foroe, atolobruwa no sesee, kɔɔ baabi a wohyehyɛɛ maa wɔn.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "foroe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Mmepɔ no"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sesee"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "atolobruwa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "a"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "wohyehyɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maa wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:47.876266518Z",
+  "model": "glm-5.3"
+}

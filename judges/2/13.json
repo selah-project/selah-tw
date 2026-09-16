@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na wogyaee ⟨את⟩ Yawe, na wosom Baal ne Ashtaroth.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Na wogyaee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "na wosom"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "ne Ashtaroth"
+    }
+  ],
+  "timestamp": "2026-09-15T22:35:10.403414407Z",
+  "model": "glm-5.3"
+}

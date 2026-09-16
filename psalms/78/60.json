@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Ɔgyaee Shilo asɔredan, ɔtɛntan a ɔde sii nnipa mu.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Ɔgyaee"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "asɔredan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ɔtɛntan"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ɔde sii"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nnipa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:14.368778588Z",
+  "model": "glm-5.3"
+}

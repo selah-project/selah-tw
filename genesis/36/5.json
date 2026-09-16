@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na Oholibama woo ⟨את⟩ Yeush ne ⟨את⟩ Yalam ne ⟨את⟩ Korach; nnipa yi ne Esav mma, a wɔwoo wɔn wɔ Kenan asase so.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "na Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nnipa yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "wɔwoo wɔn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:28.646409511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Bio, Yawe wo Eloohim bɛsoma ⟨את⟩ nsamankwaa no brɛ wɔn so, kɔsɛ deɛ aka ne deɛ asuma afiri wo anim bɛsɛe nyinaa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Bio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsamankwaa no"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nsamankwaa"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bɛsoma ... brɛ wɔn so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsɛ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bɛsɛe"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "deɛ aka"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "ne deɛ asuma"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "afiri wo anim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:48.450355624Z",
+  "model": "glm-5.3"
+}

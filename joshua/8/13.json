@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 8:13",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Nnooma no de ⟨את⟩ asraafoɔ no nyinaa a ɛwɔ kurow no atifi fam ne ⟨את⟩ ne akyi asraa a ɛwɔ kurow no atɔeɛ fam sii hɔ; na Yehoshua kɔeɛ anadwo no mu wɔ bon no mfitimfiti.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "wɔde sii hɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnooma no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asraafoɔ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "asraafoɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "atifi fam"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kurow no ho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne akyi asraa"
+    },
+    {
+      "surface": "עקבו",
+      "gloss": "ne akyi asraa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "atɔeɛ fam"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kurow no ho"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔeɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mfitimfiti"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "bon no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:36.369341870Z",
+  "model": "glm-5.3"
+}

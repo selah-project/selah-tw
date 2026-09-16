@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Woguu me gu wo so firi mukyia mu; firi me maame yafunu mu no, wo ⟨ne⟩ me El.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "woguu me guu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "firi mukyia mu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "firi yafunu mu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me maame"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:31.896638994Z",
+  "model": "glm-5.3"
+}

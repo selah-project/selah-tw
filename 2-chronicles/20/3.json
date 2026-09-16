@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Yehoshafat suroeɛ, ɔde ⟨את⟩ n'ani sii so hwehwɛɛ Yawe, ɔfrɛɛ ɔkɔm wɔ Yuda nyinaa so.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "suroeɛ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde ... sii so"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ani"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'ani"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hwehwɛɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ɔfrɛɛ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ɔkɔm"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-16T05:02:21.050176933Z",
+  "model": "glm-5.3"
+}

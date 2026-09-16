@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Yehoshua, Nun ba, Yawe akɔfoɔ, wuiɛ; na wadi mfeɛ ɔha ne du.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "na wuiɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wadi mfeɛ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ne du"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:37.384990377Z",
+  "model": "glm-5.3"
+}

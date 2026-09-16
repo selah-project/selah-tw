@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɛbaa sɛ akyire yi, Dawid bɔɔ ⟨את⟩ Peleshtifoɔ, na ɔdi wɔn so nkonim, na ɔfaa ⟨את⟩ Gat ne n'akuraa nnua afiri Peleshtifoɔ nsam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleshtifoɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtifoɔ"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "na ɔdi wɔn so nkonim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ne n'akuraa nnua"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "afiri ... nsam"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:43:49.792975339Z",
+  "model": "glm-5.3"
+}

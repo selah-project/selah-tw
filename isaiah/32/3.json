@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na wɔhunufoɔ no ani remmubu, na wɔtefoɔ no aso bɛtie yie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ... rem"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "mmubu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "wɔhunufoɔ no"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "na ... aso"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "wɔtefoɔ no"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "bɛtie yie"
+    }
+  ],
+  "timestamp": "2026-09-16T05:25:35.988419262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 124,
+  "translation": "Ascente dwom, Dawid dea. Sɛ Yawe nkaa na ɔnyɛɛ yɛn dea a, — Israel mbɛka se:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ascente"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "sɛ ... nkaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ɔnyɛɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn dea"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mbɛka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:30.855870724Z",
+  "model": "glm-5.3"
+}

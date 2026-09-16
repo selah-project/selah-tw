@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wɔkaa kyerɛɛ no sɛ: nokorɛ, yɛne ⟨את⟩ wo nkyɛn na yɛbɛsan akɔ wo nman mu.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "na wɔkaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo nkyɛn"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "yɛbɛsan akɔ"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "wo nman mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:20.123343806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Enti Yosef nuanom baanu bɛsenee nkɔtɔ aduane wɔ Misraim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "bɛsenee"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuanom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "baanu"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "nkɔtɔ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "wɔ Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:23.781846280Z",
+  "model": "glm-5.3"
+}

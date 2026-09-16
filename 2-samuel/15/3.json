@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Absalom kaa kyerɛɛ no sɛ, Hwɛ, wo nsɛm no yɛ papa na ɛteɛ; nanso obiara nni hɔ a ɔbɛtie wo a ɔfiri ⟨את⟩ ɔhene no nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ no sɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wo nsɛm"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "na ɛteɛ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "bɛtie"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ obiara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:19.736218189Z",
+  "model": "glm-5.3"
+}

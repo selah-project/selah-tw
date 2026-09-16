@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ɛbɛyɛ sɛ wobɛnom firi asuo no mu, na mahyɛ ⟨את⟩ anummɔrene no sɛ wɔmmoa wo wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ sɛ"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "firi asuo no mu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "wobɛnom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anummɔrene no"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "anummɔrene no"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mahyɛɛ"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "sɛ wɔmmoa wo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:32.034932102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Eloohim kaee ⟨את⟩ Rael, na Eloohim tiee no, na ɔbuee ⟨את⟩ ne yam.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "kaee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rael"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rael"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na ɔtiee"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "no asɛm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "na ɔbuee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yam"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ne yam"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:26.184155144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Woadwene wɔn a wɔayera afi wo mmara mu nyinaa sɛ hwee, ɛfiri sɛ atoro na wɔn ayɛsɛm yɛ.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "woadwene wɔn sɛ hwee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "wɔn a wɔayera"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "afi wo mmara mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "atoro"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "wɔn ayɛsɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:15.799049039Z",
+  "model": "glm-5.3"
+}

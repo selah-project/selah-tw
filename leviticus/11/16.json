@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ne ⟨את⟩ Hayaanah babea ne ⟨את⟩ Tachmas ne ⟨את⟩ Shachaf ne ⟨את⟩ Nets, wɔ n'abusua mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hayaanah babea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babea"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "Hayaanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "Tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "Shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "Nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "wɔ n'abusua mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:39.248349887Z",
+  "model": "glm-5.3"
+}

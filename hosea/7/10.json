@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Israel ahantan buaa n'anim; wɔansan nkɔ Yawe, wɔn Eloohim nkyɛn, na wɔanhwehwɛ no wɔ ne nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ahantan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wɔansan"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔanhwehwɛ"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ne nyinaa mu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-16T01:05:01.855264184Z",
+  "model": "glm-5.3"
+}

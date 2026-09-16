@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 61:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 61,
+  "translation": "Na mo deɛ, wɔbɛfrɛ mo Yawe asɔfoɔ; wɔbɛka mo ho sɛ yɛn Eloohim asomfoɔ. Mo bɛdi aman ahonya, na mo bɛde wɔn animuonyam ayɛ mo ho dɔm.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na mo deɛ"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "wɔbɛfrɛ mo"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "asomfoɔ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wɔbɛka mo ho sɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahonya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mo bɛdi"
+    },
+    {
+      "surface": "ובכבודם",
+      "gloss": "na ... wɔn animuonyam"
+    },
+    {
+      "surface": "תתימרו",
+      "gloss": "mo bɛde ... ayɛ mo ho dɔm"
+    }
+  ],
+  "timestamp": "2026-09-16T00:03:36.411578124Z",
+  "model": "glm-5.3"
+}

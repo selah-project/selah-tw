@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ma Yawe animuonyam firi wo agyapadeɛ mu, na firi wo nnɔbaeɛ nyinaa ahyɛaseɛ mu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ma...animuonyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "firi wo agyapadeɛ mu"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "na firi ahyɛaseɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "wo nnɔbaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:42:55.896357779Z",
+  "model": "glm-5.3"
+}

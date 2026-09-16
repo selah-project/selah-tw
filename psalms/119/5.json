@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Akɔnnim sɛ me nkwadaa bɛgyina pintinn na makora wo nhyehyɛeɛ so!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "akɔnnim sɛ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "bɛgyina pintinn"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "me nkwadaa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "na makora"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "wo nhyehyɛeɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:56.617585721Z",
+  "model": "glm-5.3"
+}

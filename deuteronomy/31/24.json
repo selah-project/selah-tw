@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na ɛbaa sɛ, berɛ a Moshe wiee twerɛ ⟨את⟩ nsɛm a ɛwɔ Tora yi mu no so wɔ nhoma mu, kɔpem sɛ ɛwiee nyinaa biara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "berɛ a ... wiee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "twerɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm a ɛwɔ Tora yi mu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "על",
+      "gloss": "so wɔ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nhoma mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔpem sɛ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ɛwiee nyinaa biara"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:02.082195118Z",
+  "model": "glm-5.3"
+}

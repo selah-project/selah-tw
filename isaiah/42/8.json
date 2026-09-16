@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Me ne Yawe; ɔno ne me din; m'animuonyam remfa mma ɔfoforɔ, na m'ayɛyie nremma susuonwuma.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "me din"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "m'animuonyam"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "mma ɔfoforɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "remma"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "remfa"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "m'ayɛyie"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "susuonwuma"
+    }
+  ],
+  "timestamp": "2026-09-15T23:55:10.867064112Z",
+  "model": "glm-5.3"
+}

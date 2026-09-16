@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "na Yoyada woo ⟨את⟩ Yonatan, na Yonatan woo ⟨את⟩ Yaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "na Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "na Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaddua"
+    }
+  ],
+  "timestamp": "2026-09-16T04:32:36.600102372Z",
+  "model": "glm-5.3"
+}

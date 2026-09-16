@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wɔfaa ⟨את⟩ Sodom ne Gomorrah agyapadeɛ nyinaa ne ⟨את⟩ wɔn aduane nyinaa, na wɔkɔeɛ.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agyapadeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "agyapadeɛ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ne Gomorrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aduane nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wɔkɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:02.383009456Z",
+  "model": "glm-5.3"
+}

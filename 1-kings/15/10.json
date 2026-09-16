@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Ɔdii ahennie mfeɛ aduanan ne baako wɔ Yerusalem. Ne maame din de Maakaa, Abishalom ba.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ne baako"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dii ahennie"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "din de"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abishalom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:02.957673348Z",
+  "model": "glm-5.3"
+}

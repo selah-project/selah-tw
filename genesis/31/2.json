@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Yakob hwɛɛ ⟨את⟩ Laban anim, na hwɛ, ɛnyɛ ne so sɛ ɛnnora anaa nnora a ɛtwaam no.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hwɛɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ɛnyɛ ne so"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ɛnnora"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "anaa nnora a ɛtwaam"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:08.138609267Z",
+  "model": "glm-5.3"
+}

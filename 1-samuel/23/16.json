@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Yehonatan, Sawla ba, sɔree kɔɔ Dawid nkyɛn Horeša, na ɔhyɛɛ ⟨את⟩ ne nsa den wɔ Eloohim mu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawla"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Horeša"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "hyɛɛ ... den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "wɔ Eloohim mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:28.925259590Z",
+  "model": "glm-5.3"
+}

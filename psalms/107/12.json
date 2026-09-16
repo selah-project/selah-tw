@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "na ɔde ɛhaw maa wɔn akoma so frii ase; wɔpɔɔ ase, na obiara nni hɔ sɛ ɔbɛboa wɔn.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "na ɔmaa ... frii ase"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "de ɛhaw"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma so"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "wɔpɔɔ ase"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na obiara nni hɔ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "sɛ ɔbɛboa wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.316264462Z",
+  "model": "glm-5.3"
+}

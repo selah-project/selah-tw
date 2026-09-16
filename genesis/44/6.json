@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Na ɔhyehyɛɛ wɔn, na ɔkaa ⟨את⟩ nsɛm yi kyerɛɛ wɔn.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "na ɔhyehyɛɛ wɔn"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ɔkaa asɛm"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kyerɛɛ wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:02.982651822Z",
+  "model": "glm-5.3"
+}

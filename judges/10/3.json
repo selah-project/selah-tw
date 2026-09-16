@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na n'akyi no ɔsɔree Yair, Gilɛadni no, ɔdii Yisraɛl ⟨את⟩ amanterɛ mfeɛ aduonu ne mmienu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ɔsɔree"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "n'akyi"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gilɛadni"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ɔdii amanterɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ne mmienu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:40:52.284772878Z",
+  "model": "glm-5.3"
+}

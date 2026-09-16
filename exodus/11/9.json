@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yawe kaa kyerɛɛ Moshe sɛ: \"Paro ntie mo, sɛnea m'nsɛnke dodow no bɛdɔɔso wɔ Misraim asase mu no de.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ntie"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bɛdɔɔso"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "m'nsɛnke dodow"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:47.078916563Z",
+  "model": "glm-5.3"
+}

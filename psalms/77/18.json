@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Osuo dodoɔ no too nsu guu ase, soro maa ⟨nne⟩; apoɔ, wo opira no faako na faako.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "too nsu guu ase"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsu"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "osuo dodoɔ no"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨nne⟩"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "soro"
+    },
+    {
+      "surface": "אף",
+      "gloss": "apoɔ"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "wo opira no"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "faako na faako"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:57.890496150Z",
+  "model": "glm-5.3"
+}

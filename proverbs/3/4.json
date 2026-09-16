@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na woahunu adɔeɛ ne nyansa pa wɔ Eloohim ne nnipa anim.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "na woahunu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "adɔeɛ"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ne nyansa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ne nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:13.260289253Z",
+  "model": "glm-5.3"
+}

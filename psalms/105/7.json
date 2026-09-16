@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔno ne Yawe, yɛn Eloohim; ne atemmu wɔ ⟨asase no⟩ nyinaa so.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ɔno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ne atemmu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:59.391623763Z",
+  "model": "glm-5.3"
+}

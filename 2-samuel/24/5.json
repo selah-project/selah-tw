@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Wɔtwaa ⟨את⟩ Yorodan no mu, wɔtenaa ase wɔ Aroer, kuro no nifa fam, a ɛwɔ Gad asukorɔgyeen no mu, na wɔkɔɔ Yazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "wɔtwaa mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wɔtenaa ase"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nifa fam"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "asukorɔgyeen no"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    }
+  ],
+  "timestamp": "2026-09-15T23:11:58.121783292Z",
+  "model": "glm-5.3"
+}

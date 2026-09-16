@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "na ɔsɔfoɔ no de ⟨את⟩ no bɛn, na ɔde no gyina Yawe anim",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "de ... bɛn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (ɔbaa no)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "de no gyina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:54.356236878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Sɛdeɛ yɛn ara bɛyɛ sɛ amanaman nyinaa, na yɛn ɔhene bɛte yɛn asɛm, na ɔdi yɛn anim kɔ, na ɔsa ⟨את⟩ yɛn akoɔ.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "yɛn bɛyɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛ ... nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "bɛte yɛn asɛm"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "yɛn ɔhene"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "yɛn anim"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "bɛsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn akoɔ"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "yɛn akoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:06.901255920Z",
+  "model": "glm-5.3"
+}

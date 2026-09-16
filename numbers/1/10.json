@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ma Yosef mma: ma Efrayim, Elishama, Ammihud ba; ma Menashe, Gamliel, Pedahzur ba.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ma ... mma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ma Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ma Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahzur"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:29.962897589Z",
+  "model": "glm-5.3"
+}

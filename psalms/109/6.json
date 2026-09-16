@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Fa ɔbɔnefoɔ si ne so, na satan ngyina nɛ nifa so.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Fa ... si"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔbɔnefoɔ"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ngyina"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "nɛ nifa so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:28.356287792Z",
+  "model": "glm-5.3"
+}

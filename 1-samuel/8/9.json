@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na seɛ yi de, tie wɔn nne; nanso ɛsɛ sɛ wobɔ wɔn kɔkɔ den, na wo-ka ɔhene nhyehyɛeɛ a ɔbɛdi wɔn so ⟨no⟩ ase kyerɛ wɔn.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seɛ yi de"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "wɔn nne"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "העד",
+      "gloss": "bɔ kɔkɔ den"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "wobɛbɔ wɔn kɔkɔ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "na wo-ka … ase kyerɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ɔbɛdi … so"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:14.685045300Z",
+  "model": "glm-5.3"
+}

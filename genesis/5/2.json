@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ɔbarima ne ɔbea na ɔbɔɔ ⟨את⟩ wɔn, na ɔhyiraa ⟨את⟩ wɔn, na ɔfrɛɛ ⟨את⟩ wɔn din Adam, ɛda a wɔbɔɔ wɔn no.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ne ɔbea"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "na ɔbɔɔ wɔn"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na ɔhyiraa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn din"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "wɔn din"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ɛda a"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "wɔbɔɔ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:13.984844910Z",
+  "model": "glm-5.3"
+}

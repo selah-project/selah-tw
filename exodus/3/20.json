@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na mɛtrɛw me nsa, na mɛbɔ ⟨את⟩ Misraim wɔ me nwononwodoɔ nyinaa a mɛyɛ wɔ ne mu; na ne akyi no, ɔbɛma ⟨את⟩ mo akɔ.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mɛtrɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "me nwononwodoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mɛyɛ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "wɔ ne mu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na ne akyi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ɔbɛma mo akɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:28.582125028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na Yisraelfoɔ akannifoɔ so ɔanseraa wɔn nsa; wɔhunuu ⟨את⟩ Eloohim, na wɔdii aduane, na wɔnom asa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na ... so"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "foɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annye"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "anseraa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "na wɔdii aduane"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "na wɔnom asa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:13.849672013Z",
+  "model": "glm-5.3"
+}

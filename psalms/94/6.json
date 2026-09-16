@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Wɔkum akunafoɔ ne akwantufoɔ, na wɔto awu akɔkorɔfoɔ.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "akunafoɔ"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ne akwantufoɔ"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "wɔkum"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "na akɔkorɔfoɔ"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "wɔto awu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:23.475505227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na wo nkyerɛwo mu biara mma no anya kwan akɔ Mogrom; wo nnsɛe wo Eloohim din no; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "na wo nkyerɛwo mu biara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mma"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "anya kwan nkɔ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Mogrom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wo nn"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "sɛe agu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo Eloohim din no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:49.159422825Z",
+  "model": "glm-5.3"
+}

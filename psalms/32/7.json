@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Wo ne m'akɔdeɛ; wofi ɔhaw mu bɔ me ho ban; wode nkwa-denom nnwom atwa me ho ahyɛ. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ne m'akɔdeɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "bɔ me ho ban"
+    },
+    {
+      "surface": "רני",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "nkwa-denom"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "atwa me ho ahyɛ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:32.906422649Z",
+  "model": "glm-5.3"
+}

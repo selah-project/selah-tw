@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Hwɛ, Yawe ani da wɔn a wɔsuro Ne no so, ne wɔn a wɔtwɛn Ne hesed ⟨no⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wɔn a wɔsuro Ne no"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "wɔn a wɔtwɛn"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "Ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:11.530632371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Yawe mmua wo wɔ ɔhaw ⟨da⟩ mu; Yaaqob Eloohim no din nsɔ wo soro.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "mmua wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɔhaw ⟨da⟩ mu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "nsɔ wo soro"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:10.434669403Z",
+  "model": "glm-5.3"
+}

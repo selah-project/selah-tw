@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Sɛ ɛyɛ papa sɛ ɔbɛhwehwɛ mo mu? anaasɛ sɛdeɛ obi sesa onipa no, mo nso mosesa no?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ɔbɛhwehwɛ mu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "sɛdeɛ obi sesa"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "mosesa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:17:42.483864894Z",
+  "model": "glm-5.3"
+}

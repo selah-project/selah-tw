@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔhwiee ngo a wɔde mahyɛ no bi guu Aharon tiri so, na ɔhyiraa ⟨את⟩ no de terɛ no kronkron.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "na ɔhwiee"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "bi"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ngo a wɔde mahyɛ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "na ɔhyiraa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "de terɛ no kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:58.743607773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Eloohim kaa kyerɛɛ Noa sɛ: \"Saa na ɛyɛ nsɛnkyerɛnne a ɛda birim no mu a mayɛ wɔ me ne nea ɔyɛ nyinaa oni-fifi nyinaa a ɔwɔ asase no so ntam.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "apam no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "wɔ me ntam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "oni-fifi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T06:22:36.207214089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na fa bi kakra bi wɔ hɔn mu na bɔ wɔn mu wɔ wo ntoma ntokuro mu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Na fa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "bi wɔ hɔn mu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra bi"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "wɔ dodow mu"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "na bɔ mu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "wɔ wo ntoma ntokuro mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:35:23.988849059Z",
+  "model": "glm-5.3"
+}

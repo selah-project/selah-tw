@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na mɛma ⟨את⟩ Yehuda nkurɔfoɔ a wɔakɔso no ne ⟨את⟩ Yisrael nkurɔfoɔ a wɔakɔso no asan aba, na mɛsisi wɔn sɛnea ɛdi kan no.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "na mɛma ... asan aba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda nkurɔfoɔ a wɔakɔso"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nkurɔfoɔ a wɔakɔso"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yisrael nkurɔfoɔ a wɔakɔso"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nkurɔfoɔ a wɔakɔso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "na mɛsisi wɔn"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "sɛnea ɛdi kan no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:20:44.293823447Z",
+  "model": "glm-5.3"
+}

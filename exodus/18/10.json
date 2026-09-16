@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Yitro kaa sɛ: Nhyira nka Yawe, a ɔgyee ⟨את⟩ mo firii Misraim nsa mu ne Paroh nsa mu, ɔno a ɔgyee ⟨את⟩ nnipadɔm no firii Misraim nsa ase.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ɔgyee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firii ... nsa mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ne ... nsa mu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɔno a"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ɔgyee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipadɔm no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "firii ... ase"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:15.085484090Z",
+  "model": "glm-5.3"
+}

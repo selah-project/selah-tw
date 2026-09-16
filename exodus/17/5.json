@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Yawe kaa kyerɛɛ Mose: Kɔ ⟨nnipa⟩ no anim, na fa wo ho mpanimfoɔ bi firi Yisrael mu, ne wo dua a wode bɔɔ ⟨את⟩ asubɔnten no — fa no wɔ wo nsam na kɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עֲבֹר",
+      "gloss": "Kɔ"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "וְקַח",
+      "gloss": "na fa"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "⟨את⟩ wo ho",
+      "marks": "mpanimfoɔ bi firi Yisrael mu"
+    },
+    {
+      "surface": "מִזִּקְנֵי",
+      "gloss": "mpanimfoɔ bi firi"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וּמַטְּךָ",
+      "gloss": "ne wo dua"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הִכִּיתָ",
+      "gloss": "wode bɔɔ"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "no"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "asubɔnten no"
+    },
+    {
+      "surface": "הַיְאֹר",
+      "gloss": "asubɔnten no"
+    },
+    {
+      "surface": "קַח",
+      "gloss": "fa no"
+    },
+    {
+      "surface": "בְּיָדְךָ",
+      "gloss": "wɔ wo nsam"
+    },
+    {
+      "surface": "וְהָלָכְתָּ",
+      "gloss": "na kɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:34.427103105Z",
+  "model": "glm-5.3"
+}

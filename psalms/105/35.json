@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɛwee nwura nyinaa a ɛwɔ wɔn asase so, na ɛwee wɔn asase no aduaba.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Ɛwee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "nwura"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "a ɛwɔ wɔn asase so"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "na ɛwee"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aduaba"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "wɔn asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:31.335781871Z",
+  "model": "glm-5.3"
+}

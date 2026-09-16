@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "⟨את⟩ menora no a ɛteɛ, ⟨את⟩ ne kanea, kanea a wɔasiesie, ne ⟨את⟩ ne nneɛma nyinaa, ne ⟨את⟩ ngo a wɔde hyerɛn.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora no a ɛteɛ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora no"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "a ɛteɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kanea"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ne kanea"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "kanea"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "a wɔasiesie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nneɛma nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ne nneɛma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ngo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "a wɔde hyerɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:06.846014413Z",
+  "model": "glm-5.3"
+}

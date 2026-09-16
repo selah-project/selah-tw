@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na sɛ mo bɛn ɔko no a, ɔsɔfɔ no bɛbɛn, na ɔbɛkasa akyerɛ nnipa no,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na sɛ ... a"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "mo bɛn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ɔko no"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "bɛbɛn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfɔ no"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "bɛkasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:46.107083530Z",
+  "model": "glm-5.3"
+}

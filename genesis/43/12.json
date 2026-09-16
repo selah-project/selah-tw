@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 43:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Na monfa sika mmɔhoɔ no fa mo nsa; na ⟨את⟩ sika no a wɔasan de ahyɛ mo nkotodwe ano no, monsan de mo nsa nkɔfa; ebia ɛyɛ mfomsoɔ.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "na sika"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mmɔhoɔ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "monfa ... fa"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mo nsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sika no"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sika no"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "a wɔasan de ahata"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ahyɛ ... ano"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "mo nkotodwe"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "monsan de nkɔfa"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mo nsa"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ebia"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "mfomsoɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:34.850690328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ne ⟨את⟩ Resen, a ɛda Nineveh ne Kalach ntam — ɔno ne kurow kɛseɛ no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "a ɛda ... ntam"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "kɛseɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:05.093639505Z",
+  "model": "glm-5.3"
+}

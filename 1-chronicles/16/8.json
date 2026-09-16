@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Monhyɛ Yawe da aseɛ, monfrɛ ne din, monma aman nyinaa nim ne nneyɛeɛ a ɔyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "monhyɛ da aseɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "monfrɛ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "monma ... nim"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "aman nyinaa mu"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "ne nneyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:12.294263922Z",
+  "model": "glm-5.3"
+}

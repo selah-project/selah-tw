@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "ogya ne santene, sugyerɛ ne parapa, mframa a ɛrebɔ kyerɛkyerɛ, a wɔyɛ ne asɛm.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ne santene"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sugyerɛ"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ne parapa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "a ɛrebɔ kyerɛkyerɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a wɔyɛ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:27.194730845Z",
+  "model": "glm-5.3"
+}

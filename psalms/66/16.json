@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Momra, tie, na mɛka nea Eloohim ayɛ me nkwa ho asɛm, mo a moyɛ Eloohim afearedifoɔ nyinaa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Momra"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "na mɛka ... asɛm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "afearedifoɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "me nkwa ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:00.430135904Z",
+  "model": "glm-5.3"
+}

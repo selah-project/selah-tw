@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Yawe, twe w'asorokyɛ so na woansia asase; ka bepɔ no so, na ɛbɛsigyani.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "twe so"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "w'asorokyɛ"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "na woansia asase"
+    },
+    {
+      "surface": "גע",
+      "gloss": "ka so"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "na ɛbɛsigyani"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:09.411393728Z",
+  "model": "glm-5.3"
+}

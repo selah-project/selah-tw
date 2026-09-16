@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɛnna ara, na sesa, na mesrɛ wo, mɛma wo afutuo, na wo dwudwo wo ho, ⟨את⟩ wo ho ara ne ⟨את⟩ wo ba Shelomoh ho, na wɔn nyinaa nkɔsɛm.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ɛnna ara"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bra"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "mɛma wo afutuo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mesrɛ wo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "afutuo"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "na wo dwudwo wo ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ho ara"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo ho ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wo ba Shelomoh ho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:02.436347451Z",
+  "model": "glm-5.3"
+}

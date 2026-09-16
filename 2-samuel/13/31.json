@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔhene no sɔree, tetee ⟨את⟩ n'atadeɛ, na odasui fam; na n'asomfoɔ nyinaa gyinae hɔ a wɔatete wɔn atadeɛ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "tetee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'atadeɛ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "n'atadeɛ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "odasui"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'asomfoɔ"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "gyinae hɔ"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "a wɔatete"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "atadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:50.484306246Z",
+  "model": "glm-5.3"
+}

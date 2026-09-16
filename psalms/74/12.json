@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Na Eloohim ne me Ɔhene firi tete, ɔyɛ nkwagyeɛ wɔ asase no mu.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Na Eloohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "me Ɔhene"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "firi tete"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "nkwagyeɛ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:32.371484531Z",
+  "model": "glm-5.3"
+}

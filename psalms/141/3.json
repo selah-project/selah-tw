@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 141,
+  "translation": "Yawe, hyɛ hwɛfoɔ ma ɔhyɛ me ano so; bɔ ɛpono a ɛda me se so ho ban.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "hwɛfoɔ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "me ano so"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "bɔ ho ban"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "me se"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:57.089621265Z",
+  "model": "glm-5.3"
+}

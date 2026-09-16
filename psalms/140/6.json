@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Ahonyafoɔ asie asa ama me, ne nnyensin; wɔatrnɛw mpoa wɔ ɔkwan nkyɛn; wɔde ntrapa ahyɛ m'anim. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "asie"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ahonyafoɔ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "asa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "ne nnyensin"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "wɔatrɛw"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "mpoa"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "ntrapa"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wɔde sii guu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'anim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:29.463727390Z",
+  "model": "glm-5.3"
+}

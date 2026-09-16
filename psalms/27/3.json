@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Sɛ asraafoɔ toa me so a, me akoma nnsuro; sɛ ɔko sɔre tia me a, megye me ho di wɔ ne mu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "toa so"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bɛsɔre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "wɔ ne mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "gye me ho di"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:34.943855066Z",
+  "model": "glm-5.3"
+}

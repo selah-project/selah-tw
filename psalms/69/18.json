@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Na ɛnsɛ sɛ wo ani hwɛ so wɔ wo akodie fam; ɛfiri sɛ ɔhaw atena me so — ntɛm ara, bua me.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na ɛnsɛ sɛ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "hwɛ so"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo ani"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "wɔ wo akodie fam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɔhaw atena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ntɛm ara"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bua me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:14.960792062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ɛfiri sɛ da ba wɔ adwuma dodoɔ mu, na kwasea nne ba wɔ nsɛm dodoɔ mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "da"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "wɔ dodoɔ mu"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na … nne"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kwasea"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "wɔ dodoɔ mu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "nsɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T03:56:53.642069621Z",
+  "model": "glm-5.3"
+}

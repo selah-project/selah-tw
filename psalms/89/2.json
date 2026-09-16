@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Yawe ne ⟨hesed⟩ (adɔeɛ) ho na mɛto dwom kɔ mmerɛ nyinaa mu; wɔ awoɔ ntoatoasoɔ ne awoɔ ntoatoasoɔ mu no, mɛda wo nokorɛduruyɛ adi wɔ me ano mu.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "⟨hesed⟩ (adɔeɛ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mmerɛ nyinaa mu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mɛto dwom"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wɔ awoɔ ntoatoasoɔ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ne awoɔ ntoatoasoɔ"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "mɛda ... adi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "wo nokorɛduruyɛ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "wɔ me ano mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:53.862266142Z",
+  "model": "glm-5.3"
+}

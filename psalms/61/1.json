@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 61,
+  "translation": "Deɛ ɔdi nkonim no, wɔ nnwomtoɔ so — Dawid asɛm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔdi nkonim no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "nnwomtoɔ so"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:00:01.969684400Z",
+  "model": "glm-5.3"
+}

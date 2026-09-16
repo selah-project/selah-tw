@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Din pa kyɛn ngo pa, na owu da kyɛn awoda. Asɛmfua 'tov' (pa) mmienu a ɛwɔ asɛm no mu no yɛ nkyerɛaseɛ kyerɛwtohɔ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "pa kyɛn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "na da"
+    },
+    {
+      "surface": "המות",
+      "gloss": "owu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kyɛn da"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "a wɔwoo no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:41.235710629Z",
+  "model": "glm-5.3"
+}

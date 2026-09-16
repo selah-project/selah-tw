@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Kɔ, na boaboa Yisraël mpanyimfoɔ ⟨את⟩ ano, na kaa akyerɛ wɔn se: Yawe, mo agyafoɔ Eloohim — Abraham, Yitsak ne Yaakob Eloohim — ada ne ho adi kyerɛ me, se: Mahwɛ mo ⟨את⟩ ama, na mahwɛ deɛ wɔyɛ mo ⟨את⟩ ho wɔ Misraim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kɔ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "boaboa ... ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraël mpanyimfoɔ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kaa akyerɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "mo agyafoɔ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ada ne ho adi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛ me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ne Yaakob"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mahwɛ"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mo ama"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "deɛ wɔyɛ mo ho"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "deɛ wɔyɛ mo ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:22.236529274Z",
+  "model": "glm-5.3"
+}

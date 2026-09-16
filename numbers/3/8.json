@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔbɛhwɛ ⟨את⟩ Ohia Nhyiam no nneɛma nyinaa ne ⟨את⟩ Yisrael mma no hwɛso, na wɔayɛ ⟨את⟩ Mishikan no adwuma no.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Na wɔbɛhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nneɛma nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nneɛma"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohia"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hwɛso"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "hwɛso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "na wɔayɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma no"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adwuma no"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:21.103750173Z",
+  "model": "glm-5.3"
+}

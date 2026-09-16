@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɛbaa sɛ, efisɛ nnwumafoɔ no suroo ⟨את⟩ Eloohim, na ɔyɛɛ wɔn afie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "suroo"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "nnwumafoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "afie"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:36.698523072Z",
+  "model": "glm-5.3"
+}

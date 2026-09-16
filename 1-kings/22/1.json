@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Wɔtenaa ase mfeɛ mmiɛnsa; ɔko biara nni hɔ wɔ Aram ne Yisraɛl ntam.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Wɔtenaa ase"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ … ntam"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne … ntam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T23:25:16.249546417Z",
+  "model": "glm-5.3"
+}

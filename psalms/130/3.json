@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 130,
+  "translation": "Sɛ Wokura mfomsoɔ so, Yah, Adonai, hena na obɛtumi agyina?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "mfomsoɔ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "Wokura ... so"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hena"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "obɛtumi agyina"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:50.761273819Z",
+  "model": "glm-5.3"
+}

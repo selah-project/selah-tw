@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Yɛayɛ aniha ma yɛn a yɛne wɔn bɛn, serɛwɛ ne aseyɛ ma wɔn a wɔte yɛn ho.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "yɛayɛ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "aniha"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "yɛn a yɛne wɔn bɛn"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "serɛwɛ"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "aseyɛ"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "wɔn a wɔte yɛn ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:51.076380700Z",
+  "model": "glm-5.3"
+}

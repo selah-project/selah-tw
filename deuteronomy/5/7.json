@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Eloohim afoforɔ nni wo sɛ me anim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "afoforɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:34.488739613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Na Jaakob hyiraw ⟨את⟩ Paroh, na ɔfirii Paroh anim.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "hyiraw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na ɔfirii"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:10.926075857Z",
+  "model": "glm-5.3"
+}

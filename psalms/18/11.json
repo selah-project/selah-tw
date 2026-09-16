@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na ɔforoɔ kerub so, na ɔtuu ho; ɔsrannaa wɔ mframa apampam so.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "na ɔforoɔ so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "na ɔtuu ho"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ɔsrannaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "apampam"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:03.803029635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Yawe de me gyinapɛn bɔɔ me pɛn; sɛnea me nsa ho teɛ no, ɔsan de maa me.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ɔbɔɔ me pɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sɛnea me gyinapɛn teɛ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sɛnea ... ho teɛ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ɔsan de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maa me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:33.216575255Z",
+  "model": "glm-5.3"
+}

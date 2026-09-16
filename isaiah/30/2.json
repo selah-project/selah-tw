@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Wɔnom a wɔrekɔ Misraim, na wɔmpɛ Yawe ano; sɛ wɔde ho behyɛ Parao ahoɔden mu, na wɔakɔsam wɔ Misraim sum mu.",
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "wɔnom a wɔrekɔ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na wɔmpɛ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "sɛ wɔde ho behyɛ ... mu"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "ahoɔden mu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "na wɔakɔsam"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "... sum mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:50:22.375882287Z",
+  "model": "glm-5.3"
+}

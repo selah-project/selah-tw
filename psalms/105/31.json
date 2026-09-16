@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔkaa, na mmoawa nnɔmaeɛ baeɛ; nsonso wɔ wɔn ahyeɛ nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ɔkaa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na ... baeɛ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mmoawa nnɔmaeɛ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "nsonso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "wɔn ahyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:09.286255181Z",
+  "model": "glm-5.3"
+}

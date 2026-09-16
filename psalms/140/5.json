@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Yawe, bɔ me ho firi bɔneyɛfoɔ nsam; hwɛ me so firi ɔbarima a ɔyɛ basabasayɛ mu, nea wɔhyɛɛ da sɛ wɔbɛsisige me nananom.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "bɔ me ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "firi nsa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bɔneyɛfoɔ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "firi ɔbarima"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "basabasayɛ"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "hwɛ me so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "wɔhyɛɛ da"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "sɛ wɔbɛsisige"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "me nananom"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:29.463480761Z",
+  "model": "glm-5.3"
+}

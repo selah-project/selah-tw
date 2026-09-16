@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Nanso Yawe bɛyɛɛ me ⟨ahobanmɔ kɛseɛ⟩, na m'Eloohim yɛ ⟨abotan a ɛyɛ⟩ m'ahobammɔ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nanso ... bɛyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ahobanmɔ kɛseɛ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na m'Eloohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "abotan"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "m'ahobammɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:19.123160656Z",
+  "model": "glm-5.3"
+}

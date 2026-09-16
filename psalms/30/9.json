@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Wo ho Yawe mɛfrɛ, na wo ho Adonai mɛbɔ mpaeɛ.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mɛfrɛ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wo ho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mɛbɔ mpaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:19.313015833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔbɛyi ⟨את⟩ ɔhye afɔreɛ no hosu, na ɔbɛtwam mu ayɛ ne nkyekyɛmu.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ɔbɛyi ... hosu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhye afɔreɛ no"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɔhye afɔreɛ no"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "ɔbɛtwam mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkyekyɛmu"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ayɛ ne nkyekyɛmu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:11.534589724Z",
+  "model": "glm-5.3"
+}

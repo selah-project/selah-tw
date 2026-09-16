@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Ne sɛ ɔbɛto wɔn asefoɔ agu aman mu, na ɔbɛsan wɔn ahsen aman ahodoɔ mu.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "ne sɛ ɔbɛto agu"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "wɔn asefoɔ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "aman mu"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "na ɔbɛsan wɔn ahsen"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "aman ahodoɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:48.165917327Z",
+  "model": "glm-5.3"
+}

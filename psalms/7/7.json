@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yawe, sɔre w'abufuo mu; gyina wɔ m'akanfoɔ abufuo so; sɔre gyegye me sɔre — atemmuo a woahyɛ no so.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "w'abufuo mu"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "gyina ... so"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "m'akanfoɔ"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "sɔre gyegye sɔre"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmuo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "a woahyɛ no so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:50.054047335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na onipa no hunuu ⟨את⟩ Hawa ne yere, na ɔnye nyinsɛnee, na ɔwoo ⟨את⟩ Kain, na ɔkaa sɛ: \"Menya onipa ⟨את⟩ Yawe.\"",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Na onipa no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "na ɔnye nyinsɛnee"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kain"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Menya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:11.148907572Z",
+  "model": "glm-5.3"
+}

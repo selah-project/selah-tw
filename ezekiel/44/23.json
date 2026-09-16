@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Na ⟨את⟩ m'amanfoɔ no wɔkyerɛkyerɛ wɔn: nsonsonoeɛ a ɛda Kronkron ne dabiara ntam, ne deɛ ɛyɛ fi ne deɛ ɛho te ntam — wɔma wɔn hu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "m'amanfoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "m'amanfoɔ"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "wɔkyerɛkyerɛ wɔn"
+    },
+    {
+      "surface": "בין",
+      "gloss": "nsonsonoeɛ a ɛda… ne… ntam"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kronkron"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "ne dabiara"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne deɛ ɛda… ne… ntam"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "deɛ ɛyɛ fi"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "ne deɛ ɛho te"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "wɔma wɔn hu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:59:58.220199611Z",
+  "model": "glm-5.3"
+}

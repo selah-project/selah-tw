@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Arfakshad woo ⟨את⟩ Shelah, na Shelah nso woo ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na Shelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:39.651782027Z",
+  "model": "glm-5.3"
+}

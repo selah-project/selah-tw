@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Da no mu biara wɔkyɛw me nsɛm; wɔn adwene nyinaa twe kɔ me so wɔ bɔne mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "me nsɛm"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "wɔkyɛw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "wɔn adwene"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "wɔ bɔne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:36.799292269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Hyɛ mo nkɔmmɔden, hyɛ mo nkɔmmɔden me nkorɔfoɔ, wo Eloohim bɛka.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "hyɛ mo nkɔmmɔden"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "hyɛ mo nkɔmmɔden"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:54:30.048981962Z",
+  "model": "glm-5.3"
+}

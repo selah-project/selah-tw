@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 125,
+  "translation": "Na wɔn a wɔdan wɔn akyi kɔ wɔn akwammɔnsɛm so no, Yawe de ⟨את⟩ wɔn a wɔyɛ bɔne ayɔnkwa no bɛkɔ; asomdwiɛ nka Yisrael so.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "na wɔn a wɔdan wɔn akyi"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "wɔn akwammɔnsɛm"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "bɛkɔde wɔn akɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔyɛ bɔne ayɔnkwa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wɔn a wɔyɛ"
+    },
+    {
+      "surface": "האון",
+      "gloss": "bɔne ayɔnkwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwiɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nka ... so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:49.655150670Z",
+  "model": "glm-5.3"
+}

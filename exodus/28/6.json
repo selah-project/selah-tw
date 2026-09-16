@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na wɔbɛyɛ ⟨את⟩ Efod no — sikakɔkɔɔ, bruu, pɔpolɛ, tɛkerɛ, ne hyire a wɔabɔ; adwumaden adwuma.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "na wɔbɛyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efod no"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "Efod no"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sikakɔkɔɔ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bruu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "pɔpolɛ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tɛkerɛ"
+    },
+    {
+      "surface": "שני",
+      "gloss": ""
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ne hyire"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a wɔabɔ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "adwumaden"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:19.636207387Z",
+  "model": "glm-5.3"
+}

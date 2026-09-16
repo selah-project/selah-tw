@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na Nebuzaradan, nnwumfoɔ panin no, kyeree ⟨את⟩ wɔn, na ɔde wɔn baa Babilon ɔhene no hɔ, Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na ɔkyeree"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panin"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "nnwumfoɔ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na ɔde wɔn baa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    }
+  ],
+  "timestamp": "2026-09-15T23:38:54.755402665Z",
+  "model": "glm-5.3"
+}

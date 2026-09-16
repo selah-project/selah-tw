@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "sɛ Yawe daa no adi kyerɛɛ Shelomoh ɔkwan a ɛtɔ so mmienu so, sɛnea ɔdaa no adi kyerɛɛ no wɔ Gibon no.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "daa no adi kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ɔkwan a ɛtɔ so mmienu so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "daa no adi kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "wɔ Gibon"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:18.209489217Z",
+  "model": "glm-5.3"
+}

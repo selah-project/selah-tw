@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "ne ⟨את⟩ Hivini no, ne ⟨את⟩ Arkini no, ne ⟨את⟩ Sinini no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hivini no"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivini no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Arkini no"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkini no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Sinini no"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinini no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:09.216942915Z",
+  "model": "glm-5.3"
+}

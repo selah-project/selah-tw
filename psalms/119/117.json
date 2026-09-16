@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Hyɛ me den na woabɔ me ho ban, na m'ani bɛhwɛ wo mmara so daa.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "hyɛ me den"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "na woabɔ me ho ban"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "na m'ani bɛhwɛ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "wo mmara so"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:15.796601180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na me de, makam wo ho, Yawe; maka sɛ: Wo ne me Eloohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me de"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "makam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "maka sɛ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wo ne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:24.884479654Z",
+  "model": "glm-5.3"
+}

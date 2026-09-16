@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Wɔn na amanfoɔ no mmoa kyekyaa wɔn nsase so, ɔkra kasa biara mu, wɔn abusua biara mu, wɔn aman mu.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "kyekyaa"
+    },
+    {
+      "surface": "איי",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "wɔn nsase so"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔkra"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "kasa biara mu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "abusua biara mu"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "wɔn aman mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:56.328324520Z",
+  "model": "glm-5.3"
+}

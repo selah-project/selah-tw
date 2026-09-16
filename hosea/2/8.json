@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɛno enti, hwɛ, mebɛtoa wo kwan mu nnwinnie ⟨את⟩, na mɛbɔ ɔfasuo ⟨את⟩ bɔhyɛ, na ɔnhunu sɛ ɔbɛfa n'akwan mu biara.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ɛno enti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hwɛ, mebɛ"
+    },
+    {
+      "surface": "שך",
+      "gloss": "toa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo kwan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "wo kwan"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "mu nnwinnie"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "na mɛbɔ ɔfasuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔhyɛ"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "bɔhyɛ"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "na ... n'akwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nhunu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sɛ ɔbɛfa ... mu biara"
+    }
+  ],
+  "timestamp": "2026-09-16T05:34:25.964458617Z",
+  "model": "glm-5.3"
+}

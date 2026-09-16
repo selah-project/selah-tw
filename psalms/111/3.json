@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 111,
+  "translation": "N'adwuma yɛ anuonyam ne ahotoso; ne trede gyina hɔ kɔ daa.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "anuonyam"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ne ahotoso"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "N'adwuma"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ne trede"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "gyina hɔ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kɔ daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:14.703741862Z",
+  "model": "glm-5.3"
+}

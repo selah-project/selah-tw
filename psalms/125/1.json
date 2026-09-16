@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 125,
+  "translation": "Dwom a wɔto wɔ mpɔso so. Wɔn a wɔde wɔn ho to Yawe mu no yɛ sɛ Zion bepɔ; ɛrenkenkan da, na ɛtena hɔ daa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a wɔto wɔ mpɔso so"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "wɔn a wɔde wɔn ho to"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe mu"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "yɛ sɛ bepɔ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛren… da"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kenkan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ɛtena hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:03.739614651Z",
+  "model": "glm-5.3"
+}

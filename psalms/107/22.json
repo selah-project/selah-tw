@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Wɔmmɔ aweredie afɔrebɔ, na wɔka ne nneyɛeɛ ase wɔ nnwontoɔ mu.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "wɔmmɔ ... afɔrebɔ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "afɔrebɔ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "aweredie"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "wɔka ... ase"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ne nneyɛeɛ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "wɔ nnwontoɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.446856733Z",
+  "model": "glm-5.3"
+}

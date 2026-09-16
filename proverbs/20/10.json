@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ɔbo ne ɔbo, susu ne susu — deɛ Yawe kyiri no ara; wɔn baanu no nyinaa.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Ɔbo (sika-susuboɔ)"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ne ɔbo"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ne susu"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "deɛ ... kyiri no ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "seesei"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu no nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:54:37.599605086Z",
+  "model": "glm-5.3"
+}

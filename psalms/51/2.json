@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Bere a ɔdi kan Netan ɔprofeta no baa ne nkyɛn, berɛ a ɔkɔɔ Bet-Sheba nkyɛn no.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Bere a ɔdi kan ... baa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ɔprofeta no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ɔkɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:20.778470974Z",
+  "model": "glm-5.3"
+}

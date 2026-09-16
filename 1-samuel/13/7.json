@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Ebrifoɔ bi twaa ⟨את⟩ Yarden kɔɔ Gad ne Gilead asaase; na Saul da so wɔ Gilgala, na nnipa no nyinaa dii n'akyi wɔ osurow mu.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Na Ebrifoɔ bi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "twaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asaase"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ne Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Saul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "da so"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "wɔ Gilgala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "osurow mu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "di n'akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:14.676578393Z",
+  "model": "glm-5.3"
+}

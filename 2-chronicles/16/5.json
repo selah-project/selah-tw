@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Ɛbaa sɛ, sɛ Baasa teeɛ a, ɔgyaee Rama sisi, na ɔmaa ne dwuma no soaeɛ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sɛ Baasa teeɛ a"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ɔgyaee"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ɔmaa ... soaeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne dwuma"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ne dwuma no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:00:11.118198359Z",
+  "model": "glm-5.3"
+}

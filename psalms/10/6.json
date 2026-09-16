@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔkaa wɔ n'akoma mu sɛ, 'Mennɔba kora; awosuo kɔsi awosuo me nsɛra haw da.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "wɔ n'akoma mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da\/mma"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mennɔba"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kɔsi awosuo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ne awosuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni\/da"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "haw"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:17.041403132Z",
+  "model": "glm-5.3"
+}

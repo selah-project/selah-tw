@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Amanaman atotɔsane wɔ abura a wɔyɛeɛ mu; wɔn nan adane wɔ sumina a wɔde sumina mu.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "atotɔsane"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "abura mu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛeɛ"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "sumina mu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nea"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "wɔde sumina"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "adane"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "wɔn nan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:19.126134423Z",
+  "model": "glm-5.3"
+}

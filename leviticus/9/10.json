@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ ngo no ne ⟨את⟩ akwaa no ne ⟨את⟩ akwaduru no afã ketewa, a ɛfiri bɔne afɔdeɛ no mu, no de hyɛɛ ogya mu wɔ asɔrepon no so, sɛnea Yawe hyɛɛ ⟨את⟩ Mosɛ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngo no"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ngo no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akwaa no"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akwaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "afã ketewa no"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "afã ketewa no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "akwaduru"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bɔne afɔdeɛ"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "de hyɛɛ ogya mu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "asɔrepon no so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:08.136655115Z",
+  "model": "glm-5.3"
+}

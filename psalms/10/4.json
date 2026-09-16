@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔyɛfoɔ no, sɛdeɛ n'ani so sɔ kenkene no, ɔnhwehwɛ ⟨Eloohim⟩; 'Eloohim nni hɔ' na ɛwɔ ne nnware nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Ɔyɛfoɔ"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sɛdeɛ ... sɔ kenkene"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "n'ani so"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "hwɛhwɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "ne nnware"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:05.507527937Z",
+  "model": "glm-5.3"
+}

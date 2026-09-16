@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Ɔde Yisrael fii wɔn mfimfini; ɛfiri sɛ n’hesed gyina kɔ daa.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ɔde ... fii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "wɔn mfimfini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "n’hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:46.922449800Z",
+  "model": "glm-5.3"
+}

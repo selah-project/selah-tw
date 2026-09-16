@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Yawe bɛbɔ wo fi bɔne nyinaa mu, ɔbɛbɔ ⟨את⟩ wo nkwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "bɛbɔ wo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fi ... nyinaa mu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ɔbɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nkwa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:38.138839958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Sara hunuu ⟨את⟩ Hagar Misraimni ba, de ɔwoo Abraham no, sɛ ɔresere.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar Misraimni ba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Misraimni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "sɛ ɔresere"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:17.019237114Z",
+  "model": "glm-5.3"
+}

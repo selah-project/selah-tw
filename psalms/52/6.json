@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Wodɔ nsɛm a ɛtupa nyinaa, akorɔmfoɔ tɛkrɛma!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "wodɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "a ɛtupa (a ɛdum)"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tɛkrɛma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "akorɔmfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:41.910881257Z",
+  "model": "glm-5.3"
+}

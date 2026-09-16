@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na ɔde yɛbaa beaeɛ yi, na ɔmaa yɛ ⟨את⟩ asase yi — asase a ɛtu nufusuo ne srɔbɛ.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "Na ɔde yɛbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "beaeɛ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "a ɛtu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nufusuo"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ne srɔbɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:28.656688901Z",
+  "model": "glm-5.3"
+}

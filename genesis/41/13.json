@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Ɛbaeɛ sɛ deɛ ɔpatee maa yɛn no, saa na ɛyɛɛ: ⟨את⟩ me ɔhyɛɛ wɔ m'asɛso so, na ⟨את⟩ no wɔsii no.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaeɛ sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ɔpatee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maa yɛn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ɛyɛɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ɔhyɛɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "כני",
+      "gloss": "m'asɛso so"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (ɔyɔkyerɛni no)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "wɔsii"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:06.728459951Z",
+  "model": "glm-5.3"
+}

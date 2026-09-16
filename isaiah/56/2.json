@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Nkonimdie wɔ onipa a ɔyɛ saa, nnipa ba a ɔkora so: ɔbɔ ⟨את⟩ Memeneda sɛ ɔrensegua no, na ɔkora ne nsa so na ɔnyɛ bɔne biara.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nkonimdie"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na … ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ɔkora so"
+    },
+    {
+      "surface": "בה",
+      "gloss": "so"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ɔbɔ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Memeneda"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "sɛ ɔrensegua no"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "na ɔkora"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "na ɔnyɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T00:01:23.238730526Z",
+  "model": "glm-5.3"
+}

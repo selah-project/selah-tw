@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na mɛgu ⟨את⟩ m'ahomka agu nkoa so ne akɔnnɔmmaa so nso wɔ nnɛma no mu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "akɔnnɔmmaa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "wɔ nna"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "mɛgu...agu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'ahomka"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "m'ahomka"
+    }
+  ],
+  "timestamp": "2026-09-16T05:36:11.065270551Z",
+  "model": "glm-5.3"
+}

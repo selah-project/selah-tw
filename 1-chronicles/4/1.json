@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Yehuda mma ne Perets, Chetsron, Karmi, Chur ne Shobal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ne Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ne Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ne Shobal"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:59.427887671Z",
+  "model": "glm-5.3"
+}

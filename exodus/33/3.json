@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "kɔ asase a nono ne mmoanwono sen fa so; ɛfiri sɛ merennenko wo mu, ɛfiri sɛ wo kɔn yɛ den, na ebia mesɛe wo wɔ ɔkwan so.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "sen fa so"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ne mmoanwono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "menn-"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "enko"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "yɛ den"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kɔn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "na ebia"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "mesɛe wo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ɔkwan so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:40.807048146Z",
+  "model": "glm-5.3"
+}

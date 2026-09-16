@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Munyɛ ayɔnkoɔ, Yah! Munyɛ ayɔnkoɔ ma Yawe firi ɔsoro mu; munyɛ no ayɔnkoɔ wɔ nsɔredeɛ so.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Munyɛ ayɔnkoɔ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Munyɛ ayɔnkoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro mu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "munyɛ no ayɔnkoɔ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "wɔ nsɔredeɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:49.219706698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Mommtwa mo ti ano ntɔmmo; na mommsɛe ⟨את⟩ wo ntwam ano.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "momm-"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ntwa ntɔmmo"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "mo ti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na momm-"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "nsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ntwam ano"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "wo ntwam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:01.180082925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Set tenaeɛ, ɔwoo ⟨את⟩ Enosh akyi no, mfie aha nwɔtwe ne nson, na ɔwoo mma mmarima ne mma mmea.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaeɛ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ɔwoo ... no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfie"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "aha nwɔtwe ne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfie"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma mmea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:59.496848667Z",
+  "model": "glm-5.3"
+}

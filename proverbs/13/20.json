@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Obi a ɔnantew ⟨את⟩ nyansafoɔ kyɛ bɛyɛ nyansafoɔ; na obi a ɔne akokɔfoɔ bɔ mu no bɛsɛe.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "nantew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyansafoɔ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nyansafoɔ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "bɛyɛ nyansafoɔ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "na obi a ɔne ... bɔ mu"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akokɔfoɔ"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bɛsɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:53:51.369627511Z",
+  "model": "glm-5.3"
+}

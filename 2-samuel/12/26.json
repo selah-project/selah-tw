@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yowab ko tiaa Rabba a ɛyɛ Amɔn mma dea, na ɔsɛee ⟨את⟩ kurow a ɔhene no wɔ mu.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "ko tiaa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amɔn"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ɔsɛee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "a ɔhene no wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:56.859125759Z",
+  "model": "glm-5.3"
+}

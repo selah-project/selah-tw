@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Dawid ka kyerɛɛ Abiatar ɔsɔfɔ, Okyimaalek ba no sɛ: “Mepa wo kyɛw, fa ɛforɔ no bra me.” Abiatar de ⟨את⟩ ɛforɔ no baa Dawid nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfɔ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Okyimaalek"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "fa ... bra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ɛforɔ"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "de ... baa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛforɔ no"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ɛforɔ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa ... nkyɛn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:02.005068542Z",
+  "model": "glm-5.3"
+}

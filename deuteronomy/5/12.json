@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Bɔ ⟨את⟩ Shabbat da no ho ban de kɔdwo mu, sɛnea Yawe wo Eloohim hyɛɛ wo no.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "bɔ ... ho ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat da no"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat no"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "de kɔdwo mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "hyɛɛ wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:53.201744551Z",
+  "model": "glm-5.3"
+}

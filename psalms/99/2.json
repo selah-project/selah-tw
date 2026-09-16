@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 99,
+  "translation": "Yawe kɛse wɔ Tsiyon, na ɔsorokyinn wɔ nnipa nyinaa so.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "wɔ Tsiyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛse"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "na ɔsorokyinn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:25.064209222Z",
+  "model": "glm-5.3"
+}

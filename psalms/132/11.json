@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "Yawe bɔɔ Dawid tirimpa apam; ɔrennsan nkɔ: 'W'ayamoa aba mu de mɛhyɛ ahennwa ma wo.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "bɔɔ ... tirimpa apam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tirimpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "renn"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "nsan nkɔ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "firi mu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "w'ayamoa"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mɛhyɛ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ahennwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:24.218254647Z",
+  "model": "glm-5.3"
+}

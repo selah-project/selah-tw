@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Wɔnnipa-haw mu wɔn nni hɔ, na wɔ nnipa mu wɔnnsɛe.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "wɔ nnipa-haw mu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nipa"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "wɔn nni hɔ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na wɔ (nnipa) mu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "wɔnnsɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:41.052618976Z",
+  "model": "glm-5.3"
+}

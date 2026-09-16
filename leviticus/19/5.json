@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Sɛ mobɔ asomdwoeɛ afɔdeɛ ama Yawe, monkam no so sɛdeɛ mopɛ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "mobɔ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "afɔdeɛ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "monkam no so sɛdeɛ mopɛ"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "mobɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:01.740443417Z",
+  "model": "glm-5.3"
+}

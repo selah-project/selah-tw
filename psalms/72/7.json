@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Atreneefoɔ bɛnyini n'ahennuo bere mu, na asomdwoe dɔɔso kɔsi sɛ bosuo bɛtwa.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "bɛnyini"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "n'ahennuo bere mu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Atreneefoɔ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na ... dɔɔso"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi sɛ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "... bɛtwa"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bosuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:03.221951985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na ɔyɛɛ ntuana no firi Sitim dua mu, na ɔde sika kɔkɔɔ hyɛɛ mu sɛdea ɛbɛyɛ a wɔbɛtumi de asoa aduane no.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntuana no"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ntuana no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Sitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ɔde sika kɔkɔɔ hyɛɛ mu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "wɔde asoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduane no"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "aduane no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:21.797652676Z",
+  "model": "glm-5.3"
+}

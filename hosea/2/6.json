@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ⟨את⟩ ne mma no, mɛnyɛ wɔn mmɔborɔhunu da, efisɛ wɔyɛ mma a wɔfiri agyedeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da ... mɛnyɛ"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "mmɔborɔhunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "agyedeɛ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:35:24.472633450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Wobɛyɛ nwonwonw nhaban a mframa abɔ no mu, na wobɛtoa ⟨את⟩ mune a ɛwow no so?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "Wobɛ"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "nhaban a mframa abɔ no mu"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "yɛ nwonwonw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mune a ɛwow no"
+    },
+    {
+      "surface": "קש",
+      "gloss": "mune"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "a ɛwow"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "wobɛtoa no so"
+    }
+  ],
+  "timestamp": "2026-09-16T03:19:44.233266557Z",
+  "model": "glm-5.3"
+}

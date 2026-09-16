@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Menhwɛ, mɛhye Baasha ne fie no nyinaa fi hɔ, na mɛma ⟨את⟩ w'fie no ayɛ sɛ Yaroboam, Nebat ba, fie.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Menhwɛ"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "mɛhye ... fi hɔ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na mɛma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'fie no"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "w'fie no"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ayɛ sɛ ... fie"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:48.516111443Z",
+  "model": "glm-5.3"
+}

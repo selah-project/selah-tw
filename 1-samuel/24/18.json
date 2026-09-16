@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na ɔkaa sɛ kɔmaa Dawid: Wo yɛ tramientie sene me, ɛfiri sɛ wode papa yɛɛ me, na me nso mede bɔne yɛɛ wo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔmaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tramientie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sene me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "wode … yɛɛ me"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me nso"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "mede … yɛɛ wo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T22:57:38.586614486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Kasa kɔ Yisrael mma so, na ka akyerɛ wɔn sɛ: Me ne Yawe, mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ ... so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ka akyerɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:30.113809664Z",
+  "model": "glm-5.3"
+}

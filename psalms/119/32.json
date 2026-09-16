@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Mɛtu mmirika wɔ wo nhyehyɛeɛ kwan so, ɛfiri sɛ woretrɛw me akoma.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "wo nhyehyɛeɛ"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "mɛtu mmirika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "woretrɛw"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:32.347656989Z",
+  "model": "glm-5.3"
+}

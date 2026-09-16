@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "El a wɔsuro no dendeenden wɔ akronkronfoɔ no sod ⟨badwam⟩ mu, na ɔyɛ obi a wɔsuro no dendeenden wɔ ne ho atifi nyinaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "a wɔsuro no dendeenden"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "wɔ ... sod badwam mu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "akronkronfoɔ no"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dendeenden"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "na ɔyɛ obi a wɔsuro no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ne ho atifi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:00.776198537Z",
+  "model": "glm-5.3"
+}

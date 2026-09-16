@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na mɛto ⟨את⟩ wo nyama agu mmepɔ no so, na mɛma mmea emu atifi no ayɛ ma wɔdɔɔso wo mfuw nnidua de.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "na mɛto agu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nyama"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "wo nyama"
+    },
+    {
+      "surface": "על",
+      "gloss": "agu ... so"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mmepɔ no"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "mɛma ayɛ ma dɔɔso"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "mmea emu atifi no"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "wo mfuw nnidua de"
+    }
+  ],
+  "timestamp": "2026-09-16T00:50:15.128077238Z",
+  "model": "glm-5.3"
+}

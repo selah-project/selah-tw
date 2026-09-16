@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na mayɛ kronkron ne no, na mabɔ me ho ban firi me bɔne ho.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "na mayɛ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kronkron (amammerɛ mu nyɛ) — nokorɛ mu: 'tamim' = a onni dabodabo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne no"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "na mabɔ me ho ban"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "firi me bɔne ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:33.218308650Z",
+  "model": "glm-5.3"
+}

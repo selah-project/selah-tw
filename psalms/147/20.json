@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɔnyɛɛ saa mman biara; na wɔn atemmu adwuma no, wɔannim. Monhyira Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ɔnnɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyɛɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mman biara"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "atemmu adwuma no"
+    },
+    {
+      "surface": "בל",
+      "gloss": "annwɛ"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "wɔannim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Monhyira"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:13.957749666Z",
+  "model": "glm-5.3"
+}

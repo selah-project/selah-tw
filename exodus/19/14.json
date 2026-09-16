@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na Mose firii bepɔ no so baa ⟨את⟩ nkorɔfoɔ no ho, na ɔde ⟨את⟩ nkorɔfoɔ no sii ayɛ kronkron, na wɔhohoroo wɔn atadeɛ.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "firii ... baa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "de ... sii ayɛ kronkron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "hohoroo"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "wɔn atadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:04.460499237Z",
+  "model": "glm-5.3"
+}

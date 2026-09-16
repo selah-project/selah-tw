@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 93,
+  "translation": "Nsubɔn no de wɔn ho atɔ soro, Yawe; nsubɔn no de wɔn nne atɔ soro; nsubɔn no bɛde wɔn nsuo-nnyigyei atɔ soro.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "de wɔn ho atɔ soro"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nsubɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "de wɔn nne atɔ soro"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nsubɔn"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "wɔn nne"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bɛde wɔn nsuo-nnyigyei atɔ soro"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nsubɔn"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "wɔn nsuo-nnyigyei"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:35.402512374Z",
+  "model": "glm-5.3"
+}

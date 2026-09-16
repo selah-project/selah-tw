@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "Ponsu no ne ne ntam akyi na wode wo nkae sii; ɛfiri sɛ firi me nkyɛn ⟨את⟩ na woyiyɛ wo ho na wokɔɔ soro, wotrɛw wo mpa, na wo ne wɔn mu bi yɛɛ apam; wɔn mpa na wo dɔ, nsa a wohwɛɛ.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ponsu no"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "ne ntam"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wodɛɛ"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "wo nkae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "firi me nkyɛn ⟨את⟩"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "woyiyɛ wo ho"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "na wokɔɔ soro"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "wotrɛw"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "wo mpa"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "na woyɛɛ apam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "firi wɔn mu bi"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "wo dɔ"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "wɔn mpa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "a wohwɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:54.655207296Z",
+  "model": "glm-5.3"
+}

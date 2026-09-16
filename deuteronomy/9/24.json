@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Asoɔdenfoɔ na moyɛɛ wɔ Yawe nkyɛn firi ɛda a menyaa mo mu.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "asoɔdenfoɔ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "moyɛɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ ... nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "firi ɛda"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "a menyaa ... mu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:50.327808808Z",
+  "model": "glm-5.3"
+}

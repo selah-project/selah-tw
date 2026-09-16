@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "M'ahoɔden no sisi wɔ w'ehuɛ mu, na mesuro wo atemmuo.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "sisi (yɛ serɛ)"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "w'ehuɛ mu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "m'ahoɔden"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "wo atemmuo"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "mesuro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:15.803313618Z",
+  "model": "glm-5.3"
+}

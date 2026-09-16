@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Moshe ne Aharon yɛɛ sɛnea Yawe hyɛɛ ⟨את⟩ wɔn no; saa na wɔyɛɛeɛ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "na wɔyɛɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:44:42.475668592Z",
+  "model": "glm-5.3"
+}

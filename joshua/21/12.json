@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na wɔmaa Kalev, Yefune ba, ⟨את⟩ kurow no afuo ne ⟨את⟩ n'akurase sɛ ne agyapadeɛ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurow no afuo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "afuo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'akurase"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "n'akurase"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "wɔmaa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "sɛ ne agyapadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:34.623242216Z",
+  "model": "glm-5.3"
+}

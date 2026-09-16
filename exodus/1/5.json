@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na deɛ efiri Yakob yɛla mu baeɛ no nyinaa yɛ nkwa dɔnsɔn; na Yosef nso daa Misraim hɔ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... yɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "deɛ efiri ... baeɛ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yɛla mu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "dɔnsɔn"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "daa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misraim hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:54.927380382Z",
+  "model": "glm-5.3"
+}

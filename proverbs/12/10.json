@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Ɔtrenee nim ne mmoa nkwa, nanso abɔnefoɔ mmɔborɔhunu yɛ ehye.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔtrenee"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ne mmoa"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "nanso ... mmɔborɔhunu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "yɛ ehye"
+    }
+  ],
+  "timestamp": "2026-09-16T02:48:53.685848836Z",
+  "model": "glm-5.3"
+}

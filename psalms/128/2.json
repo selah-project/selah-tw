@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 128,
+  "translation": "Wo nsa adwuma no, wobɛdi; wo ho bɛdwo, na biribiara bɛyɛ pɛpɛɛpɛ mma wo.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "Wo nsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wobɛdi"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "wo ho bɛdwo"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "na biribiara bɛyɛ pɛpɛɛpɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mma wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:55.672593038Z",
+  "model": "glm-5.3"
+}

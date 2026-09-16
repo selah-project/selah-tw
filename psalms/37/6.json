@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na ɔbɛma wo nokwaredie no ada adi sɛ hann, ne wo atemmuo sɛ awia.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Na ɔbɛma ... da adi"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "sɛ hann"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "wo nokwaredie"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ne wo atemmuo"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "sɛ awia"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:13.244960372Z",
+  "model": "glm-5.3"
+}

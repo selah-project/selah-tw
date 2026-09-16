@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Dwom no kwankyerɛfoɔ de. Dawid ayɛsɛm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dwom no kwankyerɛfoɔ de"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ayɛsɛm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:16.210038785Z",
+  "model": "glm-5.3"
+}

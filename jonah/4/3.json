@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na seesei, Yawe, fa ⟨את⟩ me nkwa firi me hɔ, ɛfiri sɛ m'awu yɛ papa sen m'nkwa ho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me hɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yɛ papa sen"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "m'awu"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "m'nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:15:40.143312792Z",
+  "model": "glm-5.3"
+}

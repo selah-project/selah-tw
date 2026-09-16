@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Obwed-Edom nso wɔ mma: Shemaya ⟨ne⟩ ba kɛseɛ, Yehozabad ⟨ne⟩ ɛtɔ so mmienu, Yoach ⟨ne⟩ ɛtɔ so mmiɛnsa, Sakar nso ⟨ne⟩ ɛtɔ so ɛnan, Netanel nso ⟨ne⟩ ɛtɔ so enum.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "na Obwed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemaya"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ba kɛseɛ"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozabad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɛtɔ so mmienu"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoach"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ɛtɔ so mmiɛnsa"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na Sakar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ɛtɔ so ɛnan"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "na Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ɛtɔ so enum"
+    }
+  ],
+  "timestamp": "2026-09-16T04:49:27.277157105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Ɛfiri sɛ Yawe Ɛsorosoro yɛ ne wɔsuro, Ɔhene kɛseɛ wɔ asase nyinaa so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɛsorosoro"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "yɛ ne wɔsuro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ɔhene"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:05.788884981Z",
+  "model": "glm-5.3"
+}

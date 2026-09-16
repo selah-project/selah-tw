@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 84,
+  "translation": "Yawe Eloohim Tsoafoɔ, tie me mpaeɛbɔ; tintiw aso, Yaqob Eloohim. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsoafoɔ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpaeɛbɔ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tintiw aso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:52.598485818Z",
+  "model": "glm-5.3"
+}

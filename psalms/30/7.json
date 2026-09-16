@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na me kaa sɛ wɔ me ahotɔ mu: 'Mennwintwam da.'",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "me kaa sɛ"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "wɔ me ahotɔ mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da... mm"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mennwintwam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:43.882673834Z",
+  "model": "glm-5.3"
+}

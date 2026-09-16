@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Tehom no na wode sɛ atadeɛ bɔɔ asase; nsuo gyinaa mmepɔ no so.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sɛ atadeɛ"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "wode bɔɔ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:47.875736030Z",
+  "model": "glm-5.3"
+}

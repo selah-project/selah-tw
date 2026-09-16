@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Yoktan woo ⟨את⟩ Almodad ne ⟨את⟩ Shelef ne ⟨את⟩ Hatsarmavet ne ⟨את⟩ Yerak.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "na Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yerak"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerak"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:12.977402396Z",
+  "model": "glm-5.3"
+}

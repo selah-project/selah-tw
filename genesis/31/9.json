@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Eloohim yii ⟨את⟩ mo agya mmoa no mu na ɔde maa me.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "yii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo agya mmoa no"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mo agya mmoa no"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "mo agya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde maa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:22.244550406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Me ani abere wo nkwigyeɛ ho, ne wo atremmu asɛm no ho.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Me ani"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "abere"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "wo nkwigyeɛ ho"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ne wo asɛm"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "wo atremmu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:34.390558853Z",
+  "model": "glm-5.3"
+}

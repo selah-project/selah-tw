@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Mɛbɔ mmirika ntɛm ama me nkɔguo, afiri mframa a ɛrebubu ne mframa-kɛseɛ mu.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "mɛbɔ mmirika ntɛm"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "nkɔguo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "afiri mframa"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "a ɛrebubu"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "afiri mframa-kɛseɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:32.801855327Z",
+  "model": "glm-5.3"
+}

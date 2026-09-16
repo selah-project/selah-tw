@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 36:13",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Rabshakeh gyinaa, na ɔfrɛɛ wɔ nne kɛseɛ mu wɔ Yuda kasa mu, na ɔkaa sɛ: Tie ⟨את⟩ asɛmfua a ɔhene kɛseɛ no — Ashur ɔhene — ka no.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shakeh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ɔfrɛɛ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "wɔ nne…mu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Yuda kasa mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛmfua"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛmfua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:51.102818129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Bɔ no dwom foforɔ; bɔ nnwinnadeɛ no yie wɔ teaserɛ mu.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "bɔ dwom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "bɔ yie"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "nnwinnadeɛ no"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "wɔ teaserɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:55.693787722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na berɛ a Israel nyinaa tee sɛ Yeroboam asan aba no, wɔsomaa wɔfrɛɛ ⟨את⟩ no kɔɔ badwam no, na wɔyɛɛ ⟨את⟩ no ɔhene wɔ Israel nyinaa so; obiara nkaa akyirido wɔ David fi akyi, gye Yuda abusua nko ara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na berɛ a"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "asan aba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "wɔsomaa"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "wɔfrɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Yeroboam)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "badwam no"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "wɔyɛɛ ɔhene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Yeroboam)"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "biara nkaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nkaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "gye"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nko ara"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:43.590487319Z",
+  "model": "glm-5.3"
+}

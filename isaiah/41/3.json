@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Ɔtoa wɔn ase, ɔfa mu wɔ asomdwoeɛ mu; ɔkwan a ɔde n'anan nam no, ɔnnam mu.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "ɔtoa wɔn ase"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ɔfa mu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wɔ asomdwoeɛ mu"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ɔde n'anan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔn-"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nam mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:55:03.747833093Z",
+  "model": "glm-5.3"
+}

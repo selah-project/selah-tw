@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Abraham faa ⟨את⟩ nwoma a wɔde bɛhyɛ no afɔreɛ no, de sii ne ba Yitsak so; ɔfaa nsa mu ⟨את⟩ ogya no ne ⟨את⟩ sekan no; na wɔmmienu no kɔɔ tire kɔkɔɔ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoma a wɔde bɛhyɛ no afɔreɛ no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "afɔreɛ a wɔhyɛ no ma ɛhye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "de sii ... so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogya no"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogya no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "sekan no"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "sekan no"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔmmienu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tire kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:22.096639387Z",
+  "model": "glm-5.3"
+}

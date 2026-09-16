@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Aman a wɔma Yawe sɔ lwɛ wɔn so daa, wɔ ne anim so; wɔbɔ afɔre wɔ afuo mu, na wɔhyɛ nkyene wɔ amma so.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "aman"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "a wɔma ... sɔ lwɛ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "wɔbɔ afɔre"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "wɔ afuo mu"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na wɔhyɛ nkyene"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "amma"
+    }
+  ],
+  "timestamp": "2026-09-16T00:04:19.785422545Z",
+  "model": "glm-5.3"
+}

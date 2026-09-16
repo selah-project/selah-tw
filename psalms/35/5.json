@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Momma wɔnnyɛ sɛ ntutuu wɔ mframa anim, na Yawe bɔfoɔ ntow wɔn gu.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "momma wɔnnyɛ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sɛ ntutuu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "na ... bɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ntow wɔn gu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:51.639852329Z",
+  "model": "glm-5.3"
+}

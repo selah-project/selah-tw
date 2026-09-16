@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 30:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Sɛ wɔba nhyiam ahɛntrae no mu, wɔbɛsu nsuo ho na wɔnnwu; anaasɛ sɛ wɔbɛbɛbisa bɔne no ho de som, de hye ogya-afɔre kyerɛ Yawe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "sɛ wɔba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahɛntrae"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "wɔbɛsu ho"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔnnwu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "wu"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "בגשתם",
+      "gloss": "sɛ wɔbɛbɛbisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bɔne no"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "de som"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "de hye"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ogya-afɔre"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kyerɛ Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:31.222600956Z",
+  "model": "glm-5.3"
+}

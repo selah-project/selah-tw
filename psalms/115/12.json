@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Yawe kae yɛn; ɔhyira, ɔhyira ⟨את⟩ Yisraël fie, ɔhyira ⟨את⟩ Aharon fie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "kae yɛn"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ɔhyira"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ɔhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraël fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ɔhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:25.780586132Z",
+  "model": "glm-5.3"
+}

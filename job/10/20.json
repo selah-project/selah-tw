@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɛnyɛ sɛ me nna yɛ kakra anaa? Gyae, na fa wo ho firi me so, na mɛdɔ me ho kakra.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ɛnyɛ sɛ... anaa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "me nna"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Gyae"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me so"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "na mɛdɔ me ho"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra"
+    }
+  ],
+  "timestamp": "2026-09-16T03:14:22.296152048Z",
+  "model": "glm-5.3"
+}

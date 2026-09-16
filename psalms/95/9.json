@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Baabi a mo nnanom sɔɔ me hwɛe, bɔɔ me hwɛe, na wɔhunuu me nnwuma mpo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Baabi a"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "sɔɔ me hwɛe"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "mo nnanom"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "bɔɔ me hwɛe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "me nnwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:16.796299517Z",
+  "model": "glm-5.3"
+}

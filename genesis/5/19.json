@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Yared tenaa aseɛ mfeɛ awɔtwe ɔha berɛ a ɔwoo ⟨את⟩ Khanokh no akyi, na ɔwoo mma mmarima ne mma mmea.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yared"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a ɔwoo ... no akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "awɔtwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma mmea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:32.302759064Z",
+  "model": "glm-5.3"
+}

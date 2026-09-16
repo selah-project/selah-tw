@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 110,
+  "translation": "Ɔbɛnom nsuo firi asubɔnten mu wɔ ɔkwan no so; ɛno nti ɔbɛma ne ti so.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "firi asubɔnten mu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ɔkwan no so"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "Ɔbɛnom nsuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ɔbɛma ... so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ne ti"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:10.265574814Z",
+  "model": "glm-5.3"
+}

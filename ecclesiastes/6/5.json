@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Awia no mpo ɔanhunu, na ɔannim; deɛ yi wɔ ahomegye kyɛn deɛ ɔno.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "awia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔann-"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔann-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ahomegye"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "deɛ yi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kyɛn deɛ ɔno"
+    }
+  ],
+  "timestamp": "2026-09-16T03:56:25.279933565Z",
+  "model": "glm-5.3"
+}

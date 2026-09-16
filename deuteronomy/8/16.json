@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "deɛ ɔmaa wo dii man wɔ kwae mu, deɛ wo nkyirifyiɛ ampɛ; sɛdeɛ ɔbɛma woadi aseɛ, na ɔsɔ wo hwɛ, na ɔyɛ wo papa wo akyi asetena mu,",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "deɛ ɔmaa wo dii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwae ... mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ampɛ"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "kyirifyiɛ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "wo nkyirifyiɛ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ ɔbɛma woadi aseɛ"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "woadi aseɛ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na ɔsɔ wo hwɛ"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "ɔsɔ wo hwɛ"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "na ɔyɛ wo papa"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "wo akyi asetena mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:18.505871151Z",
+  "model": "glm-5.3"
+}

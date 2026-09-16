@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Achaz daa ne nyanom ase, na wɔsiee no ne nyanom ase wɔ Dawid kurow mu, na ne ba Hizikia dii n'adeɛ.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "daa ne nyanom ase"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nyanom ase"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wɔsiee no"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nyanom ase"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ kurow mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "di n'adeɛ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'adeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:34:11.537806641Z",
+  "model": "glm-5.3"
+}

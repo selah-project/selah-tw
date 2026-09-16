@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na ɛmanfoɔ no kaa kyerɛɛ Yehoshua sɛ: ⟨את⟩ Yawe, yɛn Eloohim na yɛbɛsom, na yɛbɛtie ne nne.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɛmanfoɔ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe, yɛn Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "yɛbɛsom"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ne nne"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "yɛbɛtie"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:01.063956932Z",
+  "model": "glm-5.3"
+}

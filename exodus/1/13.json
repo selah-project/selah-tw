@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Misraim maa ⟨את⟩ Yisrael mma no yɛɛ adwuma wɔ ahohorɔ mu.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "na Misraim maa ... yɛɛ adwuma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "wɔ ahohorɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:46.674615186Z",
+  "model": "glm-5.3"
+}

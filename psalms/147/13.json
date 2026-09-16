@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɛfiri sɛ Ɔwatena wo amena mmebusuo mu ama ayɛ den, na Ɔde nhyira ahyɛ wo mma a wɔwɔ wo mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "watena mu ama ayɛ den"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "mmebusuo"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "wo amena"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "de nhyira ahyɛ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wo mma"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "wɔ wo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:21.017307152Z",
+  "model": "glm-5.3"
+}

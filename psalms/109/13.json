@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ne akyirinyɛ no nnyera wɔ awoɔ ntoatoasoɔ a ɛdi so no mu; wɔmmɔ wɔn din wɔ dɔɔso a ɛdi so no mu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nnyera"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "ne akyirinyɛ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "mmɔpɛ sɛ wobɛtwatwa afiri hɔ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "wɔ dɔɔso mu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a ɛdi so"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "wommɔ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "wɔn din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:41.875946009Z",
+  "model": "glm-5.3"
+}

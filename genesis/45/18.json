@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Fa mo agya ne mo afie, na mombra mem nkyɛn; na mɛma mo ⟨את⟩ Misraim asase no papa, na moawe ⟨את⟩ asase no borɔsoɔ.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo agya"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "mo agya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo afie"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "mo afie"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na mombra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mem nkyɛn"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na mɛma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no papa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "na moawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no borɔsoɔ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "borɔsoɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:52.955318443Z",
+  "model": "glm-5.3"
+}

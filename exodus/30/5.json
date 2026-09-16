@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wobɛyɛ ⟨את⟩ ntamtie no firɛ shittim, na wode sika kɔkɔɔ bɛkyekye ⟨את⟩ so.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntamtie no"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ntamtie no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "na wode sika kɔkɔɔ bɛkyekye so"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:53.454886463Z",
+  "model": "glm-5.3"
+}

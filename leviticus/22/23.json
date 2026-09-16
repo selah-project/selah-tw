@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Nanso mmɔne anaa ɔwan a ne ntini tenten dɔɔso anaa ɛtaa mu bɛtumi ayɛ nokwafoo bɔhyɛ — ⟨את⟩ — nanso ɛnyɛ bɔhyɛ-bɔ deɛ, ɛnnye ntom.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "mmɔne"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ɔwan"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ne ntini tenten dɔɔso"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ɛtaa mu"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nokwafoo bɔhyɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bɛtumi ayɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nokwafoo bɔhyɛ (ɔwan\/mmɔne no)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "nanso ɛnyɛ bɔhyɛ-bɔ deɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ennye"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ntom"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:45.582431457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Deɛ ɔdi dwom no anim, ɛwɔ Shoshannim so, ma Korach mma; Maskil, dwom a ɛfa ɔdɔ ho.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔdi dwom no anim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛwɔ ... so"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ma ... mma"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "a ɛfa ɔdɔ ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:13.841528081Z",
+  "model": "glm-5.3"
+}

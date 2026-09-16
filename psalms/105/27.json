@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Wɔde ne nsɛnkyerɛnne nsɛm sii wɔn mu, ne nwonwadeɛ wɔ Kam asaase so.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Wɔde ... sii"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔ wɔn mu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ne nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ne nwonwadeɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asaase so"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:31.476652837Z",
+  "model": "glm-5.3"
+}

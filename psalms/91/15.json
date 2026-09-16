@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Ɔbɛfrɛ Me, na Mɛbua no; Mɛne no wɔ ɔhaw mu; Mɛgya no, na Mɛhyɛ no animuonyam.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Ɔbɛfrɛ Me"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "na Mɛbua no"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Mɛne no"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Me ankasa"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "wɔ ɔhaw mu"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Mɛgya no"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "na Mɛhyɛ no animuonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:01.771656611Z",
+  "model": "glm-5.3"
+}

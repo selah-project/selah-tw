@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ana wɔbɔɔ no sɛnea wɔbɔɔ wɔn a wɔbɔɔ no? Ana wɔkum no sɛnea wɔkum wɔn a wɔkum wɔn no?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "sɛnea wɔbɔɔ"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "wɔn a wɔbɔɔ no"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "wɔbɔɔ no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "sɛnea wɔkum"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "wɔn a wɔkum wɔn no"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wɔkum no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:49:09.045059207Z",
+  "model": "glm-5.3"
+}

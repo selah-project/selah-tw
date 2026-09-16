@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Eloohim frɛɛ asase-kwa no Asase, na nsuo a ɛboaboa ano no, ɔfrɛɛ no Pɔnsu. Eloohim hunuu sɛ ɛyɛ papa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "na-frɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "asase-kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Asase"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "na-nsuo-boaboa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Pɔnsu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na-hunuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:07.865848899Z",
+  "model": "glm-5.3"
+}

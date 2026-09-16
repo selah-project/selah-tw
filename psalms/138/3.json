@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 138,
+  "translation": "Wɔ da a mefrɛɛ wo no, woyɛɛ me so mmuae, na wo de ahoɔden tɔɔ me nkwa mu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da a"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mefrɛɛ wo"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "woyɛɛ me so mmuae"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "wo de ahoɔden tɔɔ me"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "me nkwa mu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ahoɔden"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:21.287925722Z",
+  "model": "glm-5.3"
+}

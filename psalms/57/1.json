@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "Akyerɛwde ma deɛ ɔdi nnwomtofoɔ no so — Mmubuɛ — Dawid de, mikhtam, berɛ a ɔguan fii Shaul anim, wɔ abura mu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ma deɛ ɔdi nnwomtofoɔ no so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "berɛ a ɔguan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "wɔ abura mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:01:04.404503847Z",
+  "model": "glm-5.3"
+}

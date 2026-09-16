@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Aman no dwodwo dɔɔso, ahemman twaa hwee; ɔtoo ne dɔn, asase no dotee.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "dwodwo dɔɔso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "twaa hwee"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ahemman"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "too"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "ne dɔn"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "dotee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:31.048632411Z",
+  "model": "glm-5.3"
+}

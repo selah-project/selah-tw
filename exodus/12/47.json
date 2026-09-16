@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yisrael asafo no nyinaa bɛyɛ ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asafo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Pasika (a wɔde ⟨את⟩ hyɛɛ da)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:40.525441422Z",
+  "model": "glm-5.3"
+}

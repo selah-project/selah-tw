@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Moshe ka kyerɛɛ Yawe sɛ: Hwɛ, woka me ho sɛ, Fa ⟨את⟩ nnipa yi so, nanso wonkyerɛɛ me ⟨את⟩ onipa a wobɛsoma ne me; na wokaa sɛ, Me nim wo wɔ din mu, na woahunu adɔe wɔ m'ani so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yawe ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "woka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Fa … so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa yi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "nanso wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anni"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "kyerɛɛ me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa a wobɛsoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "wobɛsoma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne me"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wokaa"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "Me nim wo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ din mu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "woahunu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "adɔe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ m'ani so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:58.706119812Z",
+  "model": "glm-5.3"
+}

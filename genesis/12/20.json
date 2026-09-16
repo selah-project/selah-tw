@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Paroh hyɛɛ ammarima ma wɔsoaa no: wɔsomaa ⟨את⟩ no kɔɔ, ne ⟨את⟩ ne yere, ne ⟨את⟩ biribiara a ɔwɔ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fa no ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ammarima"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "wɔsomaa kɔɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Abram)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne yere"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "biribiara a ɔwɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɔwɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:22.212928672Z",
+  "model": "glm-5.3"
+}

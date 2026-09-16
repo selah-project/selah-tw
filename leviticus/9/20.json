@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wɔde ⟨את⟩ ngo-afatuo no too akokoaa so, na ɔde ngo-afatuo no hyɛɛ ngu so wɔ nnomgua no so.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "wɔde…too…so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngo-afatuo no"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ngo-afatuo no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "akokoaa"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ɔhyɛɛ ngu so"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ngo-afatuo no"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "nnomgua no so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:12.033007693Z",
+  "model": "glm-5.3"
+}

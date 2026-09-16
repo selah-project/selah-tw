@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Wɔ nimdeɛ dodoɔ mu, na wɔ w'dwadie mu no, wo mɔɔ wo ahonya; na w'akoma atɔ mpɔn wɔ wo ahonya mu.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "wɔ … dodoɔ mu"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "wɔ nimdeɛ mu"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "wɔ w'dwadie mu"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "wo mɔɔ"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "wo ahonya"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "na … atɔ mpɔn"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "w'akoma"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "wɔ wo ahonya mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:48:06.576172502Z",
+  "model": "glm-5.3"
+}

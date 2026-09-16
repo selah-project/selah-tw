@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Wɔbɛka wo ahennie animuonyam ho asɛm, na wɔbɛkaa wo ahoɔden no ho asɛm;",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "wo ahennie"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wɔbɛka ... ho asɛm"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "na wo ahoɔden"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wɔbɛkaa ... ho asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:28.220811865Z",
+  "model": "glm-5.3"
+}

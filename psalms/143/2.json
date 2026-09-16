@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 143,
+  "translation": "Na nkɔm'atemmu mu mfa wo akɔma ⟨את⟩ wo akoa; ɛfiri sɛ onipa a ɔte aseɛ biara ntumi nyɛ nokorɛ wɔ ⟨⟩ wo anim.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na n..."
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'atemmu mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo akoa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n..."
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "nyɛ nokorɛ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a ɔte aseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:32.083964237Z",
+  "model": "glm-5.3"
+}

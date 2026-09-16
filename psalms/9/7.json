@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɔtamfoɔ no awie, abɔ ase kɔ daa; nkurow a wotutuu mu no — wɔn nkaeɛ asɛe, wɔn ankasa.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Ɔtamfoɔ no"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "awie"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "abɔ ase"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kɔ daa"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "wotutuu mu"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "wɔn nkaeɛ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn ankasa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:41.295779889Z",
+  "model": "glm-5.3"
+}

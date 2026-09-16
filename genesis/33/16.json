@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na Esav san bae wɔ saa da no mu de kɔɔ n'anim kɔ Seir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Na ... san bae"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... dapɛn"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa da no"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "de kɔɔ n'anim"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "kɔ Seir"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:48.074139058Z",
+  "model": "glm-5.3"
+}

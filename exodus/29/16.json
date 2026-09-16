@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na kum ⟨את⟩ odwan no, na fa ⟨את⟩ ne mogya no na gu no wɔ afɔre no so ho nyinaa.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Na kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odwan no"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "odwan no"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "na fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mogya no"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ne mogya no"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "na gu no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔre no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:14.833461635Z",
+  "model": "glm-5.3"
+}

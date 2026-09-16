@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Na wɔ Shalem na ne kɛntɛn wɔ, na ne tenabea wɔ Zion.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "na ... wɔ"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "wɔ Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ne kɛntɛn"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "na ne tenabea"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "wɔ Zion"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:32.013477929Z",
+  "model": "glm-5.3"
+}

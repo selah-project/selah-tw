@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Bɔnefoɔ ayi wɔn afena, na wɔatoto wɔn toaa, sɛ wɔbɛto abɔfoɔ ne ahiafoɔ agu, na wɔbɛkum wɔn a wɔn kwan yɛ tẽẽ.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "afena"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "na wɔatoto"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "wɔn toaa"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "sɛ wɔbɛto ... agu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "abɔfoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ne ahiafoɔ"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "na wɔbɛkum"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wɔn a wɔn kwan yɛ tẽẽ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:57.142843974Z",
+  "model": "glm-5.3"
+}

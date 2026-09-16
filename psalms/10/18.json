@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Sɛ wobɛbu ɔhoyɛ ne wɔn a wɔayɛ wɔn amane atɛn, na onipa a ɔfiri asase so no ɛnsɛe nnipa ho bio.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "sɛ wobɛbu ... atɛn"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ɔhoyɛ"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ne wɔn a wɔayɛ wɔn amane"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ɛn-"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bio"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "(kɔ so)"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "sɛe nnipa ho"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a ɔfiri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:32.273817144Z",
+  "model": "glm-5.3"
+}

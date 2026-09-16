@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 138,
+  "translation": "Sɛ mefa ɔhaw mu a, wobɛma me nkwa; wode wo nsa bɛto m'atamfoɔ abufuo so, na wo nsa nifa bɛgya me.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mefa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "wobɛma me nkwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "… so"
+    },
+    {
+      "surface": "אף",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "wode … bɛto"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "bɛgya me"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nsa nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:38.878832614Z",
+  "model": "glm-5.3"
+}

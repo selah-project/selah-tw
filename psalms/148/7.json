@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Monkamfo ⟨את⟩ Yawe firi asase so; nsuommoa akɛseɛ ne kotodwon nyinaa,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "monkamfo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "nsuommoa akɛseɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne … nyinaa"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "kotodwon nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:27.192595063Z",
+  "model": "glm-5.3"
+}

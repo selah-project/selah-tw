@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Edom ahoma, ne Ismaelfoɔ, Moab, ne Hagerifoɔ.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "ahoma"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ne Ismaelfoɔ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ne Hagerifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:48.062991516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na seesei, deɛ mesrɛ Adonai sɛ ɔmmɛhwɛ me so ne dɛn? Me nokwasɛm no, wo na ɛwɔ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "mesrɛ ... sɛ ɔmmɛhwɛ me so"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Me nokwasɛm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo na ɛwɔ"
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:27.597634128Z",
+  "model": "glm-5.3"
+}

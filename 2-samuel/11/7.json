@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Uria baa ne nkyɛn; Dawid bisaa Yɔab asomdwoeɛ, ne ɔman no asomdwoeɛ, ne ɔko no asomdwoeɛ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "bisaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yɔab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ne ... asomdwoeɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ne ... asomdwoeɛ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ɔko no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:10.563943107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yowab somaa asɛmfoɔ kɔɔ Dawid hɔ, na ɔkae sɛ: “Mako tia Rabba, na masɛe ⟨את⟩ nsuo no kurow.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "asɛmfoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ ... hɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkae sɛ"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "Mako tia"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "Rabba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "masɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:56.859287665Z",
+  "model": "glm-5.3"
+}

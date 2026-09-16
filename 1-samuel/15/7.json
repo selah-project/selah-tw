@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Saul bɔɔ ⟨את⟩ Amalekifoɔ no fri Havila de kɔsi Shur a ɛda Misraim anim no.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekifoɔ no"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekifoɔ"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "wo akwan kwan so kɔ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:05.042918633Z",
+  "model": "glm-5.3"
+}

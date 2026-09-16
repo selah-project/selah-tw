@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Nanso Haman kotena ne ho so na ɔkɔɔ n'fie; na ɔsomaa kɔmaa ⟨את⟩ ne nnamfoɔ ne ⟨את⟩ Zeresh ne yere.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "kotena ne ho so"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n'fie"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ɔsomaa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kɔmaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnamfoɔ"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ne nnamfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    }
+  ],
+  "timestamp": "2026-09-16T04:02:54.120707540Z",
+  "model": "glm-5.3"
+}

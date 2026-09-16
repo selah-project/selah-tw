@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Dawid bɔɔ ⟨את⟩ Hadadezer, Tswobah ɔhene, wɔ Chamat, berɛ a na ɔrekɔ sɛ ɔbɛgya ne nsa mu tumi adi wɔ Perat asuo no so.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Na ... bɔɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tswobah"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "wɔ Chamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "berɛ a na ɔrekɔ"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "sɛ ɔbɛgya ... adi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa mu tumi"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "wɔ ... asuo no so"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-16T04:43:49.793877205Z",
+  "model": "glm-5.3"
+}

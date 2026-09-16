@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Dawid daa ne agya nkyɛn, wɔsiee no wɔ Dawid kurow mu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "daa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ne agya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wɔsiee no"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ ... kurow mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:42.203370801Z",
+  "model": "glm-5.3"
+}

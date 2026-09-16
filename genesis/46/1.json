@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Na Israel tuu kwan ne nea ɔwɔ nyinaa, na ɔbaa Beer-Sheba, na ɔtoo afɔreɛ maa ne agya Jisak Eloohim.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "tuu kwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ɔtoo afɔreɛ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "afɔreɛ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "maa ... Eloohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne agya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jisak"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:20.402966800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Yɛ wo ho mfonini: dwa silver ahodoɔ mmienu; mfomsoɔ biara nni mu — yɛ no denteenteente; ɛbɛyɛ wo dea sɛ ɛfrɛ nhyiam no, na sɛ ɛboa ma nkabom no tu kwan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "dwa silver"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "denteenteente (hammered)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yɛ no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no (them — the two trumpets)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo dea"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nhyiam no"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "ma ... tu kwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkabom no (the camps)"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "nkabom no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:35.149014149Z",
+  "model": "glm-5.3"
+}

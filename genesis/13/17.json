@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Sɔre, na kɔ na fa asase no mu hyɛ mu wɔ ne tenten mu ne ne tɛtrɛɛ mu, ɛfiri sɛ mede asase no bɛma wo.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "na kɔ na fa ... hyɛ mu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "wɔ ne tenten mu"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "ne ne tɛtrɛɛ mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "mede ... bɛma"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:46.255862038Z",
+  "model": "glm-5.3"
+}

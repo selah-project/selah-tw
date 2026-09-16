@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na wode no bɛhyɛ ⟨את⟩ eden a ɛwɔ afɔrebukyɛn no ase; na ɛsɔ no bɛkɔpem afɔrebukyɛn no hyɛmu.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Na wode no bɛhyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "eden a ɛwɔ afɔrebukyɛn no ase"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "eden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔrebukyɛn no"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ase"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ɛsɔ no bɛyɛ"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ɛsɔ no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bɛkɔpem"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "hyɛmu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔrebukyɛn no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:21.526631896Z",
+  "model": "glm-5.3"
+}

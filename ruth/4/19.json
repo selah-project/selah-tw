@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Chetsron woo ⟨את⟩ Ram, na Ram woo ⟨את⟩ Aminadab.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "na Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "na Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    }
+  ],
+  "timestamp": "2026-09-16T03:47:34.220518560Z",
+  "model": "glm-5.3"
+}

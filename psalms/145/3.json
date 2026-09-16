@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Yawe kɛseɛ, na wɔkamapɛ no kɛseɛ; ne kɛseyɛ no, obi ntumi nhwehwɛ mu.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na wɔkamapɛ no"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ne kɛseyɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "nhwehwɛmu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:29.726298894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Yiftah bɔɔ nkatanim ma Yawe, na ɔkaa sɛ: Sɛ wode ⟨את⟩ Amɔn mma no ma me wɔ me nsa mu ampa,—",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "na ɔbɔɔ nkatanim"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nkatanim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wode ... ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amɔn mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amɔn"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "wɔ me nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:40:20.112929594Z",
+  "model": "glm-5.3"
+}

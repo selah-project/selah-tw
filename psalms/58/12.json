@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 58,
+  "translation": "Onipa bɛka sɛ: \"Nokware de, aba wɔ hɔ ma ɔtɛnniŋfoɔ no; nokware de, Eloohim wɔ hɔ a ɔtɛn asase so nnipa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bɛka sɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nokware de"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ma ɔtɛnniŋfoɔ no"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nokware de"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ɔtɛn ... nnipa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:31.992873672Z",
+  "model": "glm-5.3"
+}

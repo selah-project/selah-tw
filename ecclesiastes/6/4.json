@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɛfiri sɛ ɔbaa mframa mu, na ɔkɔ sum mu, na wɔ sum mu na wɔasie ne din.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "mframa mu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "na ... sum mu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ɔkɔ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "na wɔ sum mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "wɔasie"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:07.481103294Z",
+  "model": "glm-5.3"
+}

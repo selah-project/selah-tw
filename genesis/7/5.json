@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Noach yɛɛ deɛ Yawe hyɛɛ no nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na yɛɛ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "deɛ ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hyɛɛ no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:54.534737659Z",
+  "model": "glm-5.3"
+}

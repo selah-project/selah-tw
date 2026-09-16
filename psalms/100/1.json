@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 100,
+  "translation": "Nwom a ɛyɛ aseda: Mo nsɔ dawuru ma Yawe, wiase asase nyinaa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nwom"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "a ɛyɛ aseda"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mo nsɔ dawuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wiase asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:23.876996759Z",
+  "model": "glm-5.3"
+}

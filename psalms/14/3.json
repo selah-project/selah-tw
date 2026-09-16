@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Wɔn nyinaa asi wɔn ho akyi, wɔabɔne nyinaa wɔ bom; onipa a ɔyɛ papa nni hɔ, mpo baako nni hɔ.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "סר",
+      "gloss": "asi wɔn ho akyi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wɔ bom"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "wɔabɔne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:58.866548621Z",
+  "model": "glm-5.3"
+}

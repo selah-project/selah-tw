@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wobɛyɛ wɔn sɛ ogya tanuro ⟨sɛnea ɛbɛyɛ⟩ wɔ wo anim berɛ mu, Yawe; wɔ ne bo fuo mu no, ɔbɛtumi wɔn; na ogya bɛdi wɔn.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Wobɛyɛ wɔn"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sɛ ogya tanuro"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "wɔ berɛ mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "wɔ ne bo fuo mu"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ɔbɛtumi wɔn"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "na ... bɛdi wɔn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:08.436338989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Berɛ a wote sɛ woredidi ⟨את⟩ ɔdekuro wo nkyɛn a, susuw yie ⟨את⟩ deɛ ɛwɔ wo anim no ho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Berɛ a"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wote sɛ woredidi"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "sɛ woredidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔdekuro no"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ɔdekuro"
+    },
+    {
+      "surface": "בין",
+      "gloss": "susuw yie"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "yie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛwɔ wo anim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    }
+  ],
+  "timestamp": "2026-09-16T03:00:49.217102766Z",
+  "model": "glm-5.3"
+}

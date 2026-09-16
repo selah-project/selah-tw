@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Monnyɛ ⟨את⟩ me atemmuo, na monkora ⟨את⟩ me ahyɛdeɛ so na mo nantew mu; me ne Yawe, mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me atemmuo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "me atemmuo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "Monnyɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me ahyɛdeɛ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "me ahyɛdeɛ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "monkora ... so"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "nantew"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:30.114483302Z",
+  "model": "glm-5.3"
+}

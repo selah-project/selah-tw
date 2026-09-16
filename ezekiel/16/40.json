@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na wɔde nnipadɔm bɛba wo so, na wɔbɛbo ⟨את⟩ wo Abɔdan mu nwoma, na wɔbɛtetew wo wɔ wɔn akofena mu.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "na wɔde ... bɛba so"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nnipadɔm"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "na wɔbɛbo nwoma"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "abɔdan mu nwoma"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "na wɔbɛtetew wo"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "wɔn akofena mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:40:35.099616983Z",
+  "model": "glm-5.3"
+}

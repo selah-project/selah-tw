@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Awia ɔsram—dea ɛyɛ owia ɛnnhaw wo, na anadwo osram nso ɛnnhaw wo.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "awia"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnn-"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "haw wo"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "na osram"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:38.136679660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Mede hene ma wo wɔ me abufuo mu, na makyɛ no wɔ me nyinasɛdɔ mu.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Mede…ma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "me abufuo mu"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "makyɛ"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "me nyinasɛdɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:07:27.336599132Z",
+  "model": "glm-5.3"
+}

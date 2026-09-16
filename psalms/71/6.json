@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Woso na mede me ho too wo firi yafunu mu; wo na wotwitwaaw me firi me maame yafunu mu; m'ayeyie da wɔ wo so daa.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Woso na ... wo"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "mede me ho too"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "firi yafunu mu"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "firi ... mu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me maame"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "wotwitwaaw me"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo so"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "m'ayeyie"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:30.333126276Z",
+  "model": "glm-5.3"
+}

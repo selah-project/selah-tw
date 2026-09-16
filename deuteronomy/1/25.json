@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 1:25",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wɔfaa asase no aduaba bi wɔ wɔn nsa mu, na wɔbɛsoaa brɛɛ yɛn, na wɔbɔɔ ⟨את⟩ yɛn amaneɛ kɔkɔɔ bi sɛ: Asase a Yawe yɛn Eloohim rehyɛ yɛn no yɛ papa.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "na wɔfaa"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "wɔ wɔn nsa mu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "aduaba bi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "na wɔbɛsoaa brɛɛ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na wɔbɔɔ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn amaneɛ kɔkɔɔ bi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amaneɛ kɔkɔɔ bi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rehyɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:45.829784507Z",
+  "model": "glm-5.3"
+}

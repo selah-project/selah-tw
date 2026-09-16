@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Afei Yosef ka kyerɛɛ ne nuanom se: “Mommbra me so, mesrɛ mo.” Wɔbaa ne so. Na ɔkaa se: “Me ne Yosef, mo nua, mo a mo-tɔn ⟨את⟩ me kɔɔ Misraim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanom"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "mommbra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mesrɛ mo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "wɔbaa ne so"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mo nua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo a"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "mo-tɔn"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me (Yosef)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:01.875029716Z",
+  "model": "glm-5.3"
+}

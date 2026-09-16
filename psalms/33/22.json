@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Wo hesed (adɔeɛ) nka yɛn so, Yawe, sɛnea yɛtwɛn Wo no.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nka ... so"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Wo hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "yɛtwɛn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:23.309572045Z",
+  "model": "glm-5.3"
+}

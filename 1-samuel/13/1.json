@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Saul yɛ afe ba wɔ n'ahennie mu, na ɔdi afe mmienu di hene wɔ Yisrael so.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "wɔ n'ahennie mu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na mmienu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di hene"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:52.642338490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Momma wɔn a Yawe agye wɔn nka se, wɔn a ɔgyee wɔn firii ɔtamfoɔ nsam.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "wɔn a ... agye wɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ɔgyee wɔn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firii ... nsam"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɔtamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:11.692003522Z",
+  "model": "glm-5.3"
+}

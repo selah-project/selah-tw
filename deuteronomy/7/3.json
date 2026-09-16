@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Mo nnyɛ awareɛ ntam wɔ wɔn ho: ɛmmfa wo ba mma ne ba barima no, na ɛmmfa ne ba mma wo ba barima no.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ɛnn"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "nnyɛ awareɛ ntam"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔ wɔn ho"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnn"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mmfa … mma"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ne ba barima no"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnn"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mmfa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "wo ba barima no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:21.835738452Z",
+  "model": "glm-5.3"
+}

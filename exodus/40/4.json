@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wo bɛde ⟨את⟩ pono no bra, na wo bɛhyehyɛ ne nhyehyɛeɛ; na wo bɛde ⟨את⟩ menora no bra, na wo bɛma ne kanea no ayam.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "na wo bɛde … bra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pono no"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pono no"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "na wo bɛhyehyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nhyehyɛeɛ"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ne nhyehyɛeɛ"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "na wo bɛde … bra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora no"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora no"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "na wo bɛma … ayam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kanea no"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ne kanea no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:59.708157780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Gyae firi hyɛn no mu, wo ne wo yere, wo mma, ne wɔ mma yerenom, ⟨את⟩ wo ho.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Gyae"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi … mu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "hyɛn no"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ne wo yere"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "wo mma"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ne wɔn yerenom"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wɔ mma"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:04.592929385Z",
+  "model": "glm-5.3"
+}

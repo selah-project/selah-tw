@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 54,
+  "translation": "Ɔnam ɔhaw nyinaa mu de me nkwa; na m'ani ahunu m'atamfoɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɔnam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "de me nkwa"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ahunu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    }
+  ],
+  "timestamp": "2026-09-16T01:54:49.991690597Z",
+  "model": "glm-5.3"
+}

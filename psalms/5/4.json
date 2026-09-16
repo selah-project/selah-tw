@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Yawe, anɔpa wobɛtie me nne; anɔpa mɛhyehyɛ ahobammɔ-srɛ ama wo, na mɛhwɛ na matwɛn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "wobɛtie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "mɛhyehyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "na mɛhwɛ na matwɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:33.597537991Z",
+  "model": "glm-5.3"
+}

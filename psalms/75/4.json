@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Asase ne ne mu atenafoɔ nyinaa resɛe; mene na mesii ne mmatan. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "resɛe \/ reyera hwee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ne mu atenafoɔ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "mesii \/ mehyehyɛɛ"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ne mmatan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:20.681484244Z",
+  "model": "glm-5.3"
+}

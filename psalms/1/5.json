@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɛno nti, abɔnefoɔ ntew gu atɛmmu mu, na abufeefoɔ nka atemtufoɔ ⟨⟩ kuo no mu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɛno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "tew gu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "atɛmmu mu"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "na abufeefoɔ"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "kuo no mu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atemtufoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:32:57.526492394Z",
+  "model": "glm-5.3"
+}

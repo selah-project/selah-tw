@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na ɔyɛɛ ⟨את⟩ aduannoa no wɔ shittim dua mu: ne tenten yɛ amma mmienu, ne tɛtrɛtɛ yɛ amma baako, na ne sorokɔ yɛ amma baako ne fa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduannoa no"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "aduannoa no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amma mmienu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amma baako"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ne tɛtrɛtɛ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amma baako"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fa"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ne sorokɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:53.155406175Z",
+  "model": "glm-5.3"
+}

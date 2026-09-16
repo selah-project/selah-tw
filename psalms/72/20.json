@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Dawid, Yisai ba, mpaebɔ no awie.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "awie"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "mpaebɔ no"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisai"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:14.434532085Z",
+  "model": "glm-5.3"
+}

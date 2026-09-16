@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Ɔma ɔhafoɔ sɔre firi mpɔtam haa mu, ɔma ohiafoɔ so firi adwotwaa so.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Ɔma ... sɔre"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "firi mpɔtam haa mu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ɔhafoɔ"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "firi adwotwaa so"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "Ɔma ... so"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ohiafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:17.717671968Z",
+  "model": "glm-5.3"
+}

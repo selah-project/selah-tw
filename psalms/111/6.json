@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 111,
+  "translation": "N'adwuma ahoɔden na ɔdaa adi ma n'amanfoɔ, sɛ ɔde aman no agyapadeɛ bɛma wɔn.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "n'adwuma"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ɔdaa adi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ma n'amanfoɔ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ ɔde ... bɛma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "agyapadeɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:50.818828786Z",
+  "model": "glm-5.3"
+}

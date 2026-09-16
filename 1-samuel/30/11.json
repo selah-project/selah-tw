@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wɔhunuu ɔbarima Misraim bi wɔ afuom, na wɔfaa ⟨את⟩ no kɔɔ David nkyɛn, na wɔmaa no aduane, ɔdii; na wɔmaa no nsuo ɔnom.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Misraim ni"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "wɔ afuom"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "ɔbarima Misraim no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David nkyɛn"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wɔmaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ɔdii"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "wɔmaa no ɔnom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:56.499375289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Twe wo ho firi bɔne mu na yɛ pa; hwehwɛ asomdwoeɛ na di ekyire.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Twe wo ho firi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "bɔne mu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na yɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "hwehwɛ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "na di ekyire"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:34.711921753Z",
+  "model": "glm-5.3"
+}

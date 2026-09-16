@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Ma wɔn anim mma ayɛ nkwaseasɛm, na wɔnhwehwɛ wo din, Yawe.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "ma ... mma ayɛ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "nkwaseasɛm"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "na wɔnhwehwɛ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:12.668198602Z",
+  "model": "glm-5.3"
+}

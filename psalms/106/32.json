@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Wɔmaa no bo wɔ Meribah nsuo ho, na ɛyɛ Moshe bɔne wɔ wɔn ammon mu.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Wɔmaa no bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "na ɛyɛ ... bɔne"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "wɔ wɔn ammon mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:27.181728552Z",
+  "model": "glm-5.3"
+}

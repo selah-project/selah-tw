@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 129,
+  "translation": "Dodoɔ na wɔyɛɛ me amane firi m'abɔfra berɛ mu; nanso wɔantumi anni me so nkonim.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "wɔyɛɛ me amane"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "firi m'abɔfra berɛ mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "antumi anni"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "wɔantumi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me so nkonim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:18.528014053Z",
+  "model": "glm-5.3"
+}

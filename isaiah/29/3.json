@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Mɛtɔ asraa atwa wo ho ahyia sɛ kurukuruwa, mɛsi wo so m'asraa gyinabea, na mɛsɔ adankan atia wo.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Mɛtɔ asraa"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "sɛ kurukuruwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "mɛsi … gyinabea"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "asraa gyinabea"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "mɛsɔ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atia wo"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "adankan"
+    }
+  ],
+  "timestamp": "2026-09-15T23:50:29.179200858Z",
+  "model": "glm-5.3"
+}

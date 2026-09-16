@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na ɔnyaa nyinsɛn bio, na ɔwoo ɔba, na ɔtoo no din Onan ⟨את⟩ ne din.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "na ɔnyaa nyinsɛn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "na ɔtoo din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:50.492672833Z",
+  "model": "glm-5.3"
+}

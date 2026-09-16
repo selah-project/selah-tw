@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Wo mu na mesɔ ahobammɔ, Yawe; na mfonyenyera da biara.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Wo mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mesɔ ahobammɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na... da"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mfonyenyera"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "da biara"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:01.997544576Z",
+  "model": "glm-5.3"
+}

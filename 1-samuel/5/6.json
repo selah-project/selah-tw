@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Yawe nsa yɛɛ den wɔ Ashdodfoɔ so, na ɔsɛee wɔn, na ɔbɔɔ wɔn opuro — ⟨את⟩ Ashdod ne ⟨את⟩ ne ahye so.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "yɛɛ den"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Ashdodfoɔ"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "ɔsɛee wɔn"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "opuro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ahye so"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ne ahye so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:16:27.867464856Z",
+  "model": "glm-5.3"
+}

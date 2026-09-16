@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ntɔ me ho, ɛfiri sɛ ɔhaw no bɛn; ɛfiri sɛ ɔboafoɔ nni hɔ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tɔ me ho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ɔboafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:31.896896381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Yisraël mma tenaa wɔ Kenaanni, Hitti, Emori, Perizzi, Hiwi ne Yebusi mu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanni"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ne Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ne Perizzi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ne Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ne Yebusi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:31.123036867Z",
+  "model": "glm-5.3"
+}

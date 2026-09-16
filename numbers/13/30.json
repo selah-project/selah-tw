@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Kaleb sii ⟨את⟩ man no ano kyerɛɛ Mose, na ɔkaa se: Yɛnforo; yɛbɛforo na yɛbɛdi ⟨את⟩ no sadeɛ, ɛfiri sɛ yɛtumi yɛ.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "sii ... ano"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "man no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa se"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yɛnforo"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "yɛbɛforo"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "yɛbɛdi ... sadeɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (asase no)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "yɛtumi"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:32:30.328372838Z",
+  "model": "glm-5.3"
+}

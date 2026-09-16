@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na saa nhyira yi nyinaa bɛba wo so, na ɛbɛkyerɛ wo ho, ɛfiri sɛ wote Yawe wo Eloohim nne.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "saa ... yi"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "bɛkyerɛ wo ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:26.375412900Z",
+  "model": "glm-5.3"
+}

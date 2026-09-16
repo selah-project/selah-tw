@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "Hwan na ɔde mɛba kurow a wɔabɔ ho ban mu? Hwan na ɔbɛkyerɛ me akwaa kɔ Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "na ɔde mɛba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "a wɔabɔ ho ban"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "na ɔbɛkyerɛ me akwaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.498917697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Sɛn na metumi soa mo ahoyaa ne mo nsɛm ano-hyeɛ ne mo ntamakyɛ me nko ara?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "sɛn na"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "metumi soa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "me nko ara"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "mo ahoyaa"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ne mo nsɛm ano-hyeɛ"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ne mo ntamakyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:44:41.220650097Z",
+  "model": "glm-5.3"
+}

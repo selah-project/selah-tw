@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na yɛbɔɔ mpaeɛ kɔɔ yɛn Eloohim nkyɛn, na yɛde banbɔ sii hɔ hwɛɛ wɔn so da ne anadwo, esiane wɔn nti.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "yɛbɔɔ mpaeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim nkyɛn"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "yɛde ... sii hɔ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "banbɔ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "da"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ne anadwo"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "esiane wɔn nti"
+    }
+  ],
+  "timestamp": "2026-09-16T04:25:29.153942458Z",
+  "model": "glm-5.3"
+}

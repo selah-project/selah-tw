@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔde ⟨את⟩ fie no hyɛɛ nsɛsoɔ mu — ɔbo a ɛboɔ bo — ma ɛyɛɛ fɛ; na sika kɔkɔɔ no yɛ Parvaim sika kɔkɔɔ.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "hyɛɛ nsɛsoɔ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ɔbo"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "a ɛboɔ bo"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ma ɛyɛɛ fɛ"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na sika kɔkɔɔ no"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:56:35.956588242Z",
+  "model": "glm-5.3"
+}

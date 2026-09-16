@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Me nso, mɛda wo ayɛ ne adwinnware mu, me Eloohim, ɛnam nevel so; mɛbɔ dwom ama wo ɛnam kinor so, Israel Kronkronni.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Me nso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mɛda wo ayɛ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ɛnam … so"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wo nokorɛ mu adwinnware"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mɛbɔ dwom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ɛnam kinor so"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kronkronni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:42.425687145Z",
+  "model": "glm-5.3"
+}

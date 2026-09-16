@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "⟨את⟩ mo akoafoɔ mmarima ne ⟨את⟩ mo adɔeɛ mmaa, ne ⟨את⟩ mo mmeranteɛ pa no, ne ⟨את⟩ mo aburonywa ɔbɛgye, na ɔde ayɛ n'adwuma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo akoafoɔ mmarima"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "mo akoafoɔ mmarima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo adɔeɛ mmaa"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "mo adɔeɛ mmaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo mmeranteɛ pa no"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "mo mmeranteɛ"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "pa no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo aburonywa"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "mo aburonywa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ɔbɛgye"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na ɔde ayɛ"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "n'adwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T05:16:34.951489747Z",
+  "model": "glm-5.3"
+}

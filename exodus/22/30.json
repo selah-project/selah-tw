@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Mo nkurɔfɔ kronkronnii mo-bɛyɛ me dea; nnam a aboa bi abubu wɔ asase so no, mo-nni; mo-bɛto ⟨את⟩ no agu ama ɔkraman.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Mo nkurɔfɔ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkronnii"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "mo-bɛyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me dea"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "nnam"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "a aboa bi abubu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mo-nni (nkyerɛ) — 'ɛnsɛ sɛ'"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mo-nni"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ama ɔkraman"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "mo-bɛto agu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (nnam a aboa bi abubu no)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:53:40.011052505Z",
+  "model": "glm-5.3"
+}

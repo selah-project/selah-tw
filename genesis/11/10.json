@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Saa na Sem asefoɔ teɛ: Sem wɔ mfeɛ ɔha sɛ ɔwoo ⟨את⟩ Arfakshad, mfie mmienu wɔ Mbufuo no akyi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Saa na ... teɛ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "asefoɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wɔ mfeɛ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sɛ ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arfakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arfakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "mfie mmienu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Mbufuo no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:53.491482238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Abraham senee, baa nnawɔtwɛ mu, na Yawe hyiraa Abraham ⟨את⟩ wɔ biribiara mu.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "senee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nnawɔtwɛ mu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hyiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ biribiara mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:39.854849924Z",
+  "model": "glm-5.3"
+}

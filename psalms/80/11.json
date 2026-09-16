@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Wɔde ne sumin kataa nnepɔ so, na n'mmanaa yɛ sɛ El nsedua.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "wɔde kataa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "nnepɔ so"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ne sumin"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "na n'mmanaa"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "nsedua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:00.612990986Z",
+  "model": "glm-5.3"
+}

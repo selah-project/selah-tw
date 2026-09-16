@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Wɔ adaka no mpɔtam mu na nkonnwa no nyɛ; wɔmmufiri so da.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "wɔ ... mpɔtam mu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "nkonnwa no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "mmufiri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firi so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:01.010535453Z",
+  "model": "glm-5.3"
+}

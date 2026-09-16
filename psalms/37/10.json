@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na da bi nkekaho, na ɔbɔnefoɔ no nni hɔ; na wode wo ani ahwɛ ne baabi a ɔteɛ, na ɔnni hɔ koraa.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Na da bi nkekaho"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "nkekaho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔbɔnefoɔ"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "na wode wo ani ahwɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ne baabi a ɔteɛ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "na ɔnni hɔ koraa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:38.080657913Z",
+  "model": "glm-5.3"
+}

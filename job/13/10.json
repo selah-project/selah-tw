@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ɔbɛkasa atia mo koraa, sɛ wɔ ahintaseɛ mu mopɔ anim.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ɔbɛkasa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "atia mo koraa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "wɔ ahintaseɛ mu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "anim"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "mopɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:17:42.484099650Z",
+  "model": "glm-5.3"
+}

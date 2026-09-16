@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Wɔsu frɛɛ Yawe wɔ wɔn amane mu, na ɔde wɔn sfii wɔn amanehunu ahodoɔ mu.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Wɔsu frɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "wɔ wɔn amane mu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "wɔn amanehunu ahodoɔ mu"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ɔde wɔn sfii"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:00.322034813Z",
+  "model": "glm-5.3"
+}

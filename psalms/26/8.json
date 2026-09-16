@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Yawe, mepɛ wo fie atenaeɛ, ne baabi a wo kɛseyɛie tena.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mepɛ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "atenaeɛ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wo fie"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ne baabi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "a … tena"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "wo kɛseyɛie"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:26.928665045Z",
+  "model": "glm-5.3"
+}

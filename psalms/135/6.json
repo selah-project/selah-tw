@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Biribiara a Yawe pɛ, wayɛ wɔ ɔsoro mu ne asase so, wɔ nsuo mu ne dunsinii nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayɛ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "wɔ ɔsoro mu"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ne asase so"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "wɔ nsuo mu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne … nyinaa"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dunsinii"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:30.388065561Z",
+  "model": "glm-5.3"
+}

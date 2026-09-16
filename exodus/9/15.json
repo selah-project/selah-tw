@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɛfiri sɛ anka ɛnnɛ mede ⟨את⟩ me nsa atintim ⟨את⟩ wo, ne ⟨את⟩ w'nkurɔfoɔ so ɔyaredɔm mu, na anka woayera firi asase so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mede bae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "na mekum"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "w'nkurɔfoɔ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "w'nkurɔfoɔ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ɔyaredɔm mu"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "na woayera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:42.064434716Z",
+  "model": "glm-5.3"
+}

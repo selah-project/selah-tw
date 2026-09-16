@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Yɛ wo adɔeɔ ma me, Yawe, ɛfiri sɛ me ho ayɛ mmerɛ; sa yadeɛ ma me, Yawe, ɛfiri sɛ m'nnomporo ahaw me.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "yɛ wo adɔeɔ ma me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "me ho ayɛ mmerɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "sa yadeɛ ma me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ahaw"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "m'nnomporo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:43.798538273Z",
+  "model": "glm-5.3"
+}

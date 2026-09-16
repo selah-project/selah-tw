@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "El Yawe, ɔhyerɛn aseɛkyerɛɛ yɛn; monsim afɔdeɛ no mu duru de nkyɛnam mpaepaehɔ hyɛ mu, kɔsii arabaa no ntentan so.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ɔhyerɛn aseɛkyerɛɛ yɛn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "monsim ... de nkyɛnam mpaepaehɔ hyɛ mu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "afɔdeɛ no mu duru"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "de nkyɛnam mpaepaehɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ntentan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "arabaa no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:12.819209414Z",
+  "model": "glm-5.3"
+}

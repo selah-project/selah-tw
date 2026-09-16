@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Mmoa no fi Yawe hɔ, Ɔno a Ɔbɔɔ ɔsoro ne asase.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Mmoa no"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fi ... hɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ɔbɔɔ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ne asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:05.687619764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Yei, wɔn nyinaa a wɔtwɛn w'aso no rentiw bɔne; wɔn a wɔdi fidie no na wɔbɛtiw, wɔ nkwaseasɛm mu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Yei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wɔn a wɔtwɛn w'aso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "tiw bɔne"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bɛtiw"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "wɔn a wɔdi fidie"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "wɔ nkwaseasɛm mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:00.027753230Z",
+  "model": "glm-5.3"
+}

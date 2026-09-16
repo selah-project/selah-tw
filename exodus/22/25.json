@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Sɛ wode wo yɔn atadeɛ hyɛ bɔ a, ansa na owia bɛtwam no, wode bɛsan ama no.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "wo yɔn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bɛtwam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "wode bɛsan ama no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:03.667196822Z",
+  "model": "glm-5.3"
+}

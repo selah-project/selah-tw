@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ne kra bɛtena papa mu, na ne nsa bedi ⟨את⟩ asase.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "ne kra"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "papa mu"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na ne nsa"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bedi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:25.558039158Z",
+  "model": "glm-5.3"
+}

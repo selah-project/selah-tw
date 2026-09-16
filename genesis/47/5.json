@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Paroh kaa kyerɛɛ Yosef sɛ: wo agya ne wo nuanom aba wo ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ne wo nuanom"
+    },
+    {
+      "surface": "באו",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:41.244246553Z",
+  "model": "glm-5.3"
+}

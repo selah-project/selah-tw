@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Kanaan woo ⟨את⟩ Sidon ne ba a ɔdi kan, ne ⟨את⟩ Heth.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ne ba a ɔdi kan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Heth"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:08.512180977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "ɔyare mmoawa a ɛnam sum mu, ne asɛe a ɛsɛe awia;",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ɔyare mmoawa"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "sum mu"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ɛnam"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ɛsɛe"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "awia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:14.098590263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Me dea ne me dɔfoɔ, na me dɔfoɔ dea ne me — ɔno a ɔhwɛ sumsum nhwiren mu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "me dea ne me dɔfoɔ"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "na me dɔfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me dea"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ɔno a ɔhwɛ"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "sumsum nhwiren mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:27.440908216Z",
+  "model": "glm-5.3"
+}

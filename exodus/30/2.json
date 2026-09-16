@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Amma baako ne tenten, na amma baako ne tɛtrɛtɛ; ɛbɛyɛ ahinanan; na ne sorokɔ bɛyɛ amma mmienu; ne ndensɔ bɛfiri ⟨את⟩ no mu.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "amma baako"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amma baako"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ne tɛtrɛtɛ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ahinanan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "na amma mmienu"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ne sorokɔ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firi no mu"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ne ndensɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:45.807197371Z",
+  "model": "glm-5.3"
+}

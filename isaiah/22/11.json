@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 22:11",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na moayɛ nsuo gyinabea wɔ afasuo mmienu ntam, ama tete asutsɛɛ no nsuo; nanso moanhwbɛ nea ɔyɛeɛ no so, na moahunu nea ɔde bɔeɛ no firi akyire tete.",
+  "tokens": [
+    {
+      "surface": "ומקוה",
+      "gloss": "nsuo gyinabea"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "moayɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ ... ntam"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "afasuo mmienu"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ama ... nsuo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "asutsɛɛ"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "tete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso moannhwɛ"
+    },
+    {
+      "surface": "הבטתם",
+      "gloss": "moanhwbɛ so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "nea ɔyɛeɛ"
+    },
+    {
+      "surface": "ויצרה",
+      "gloss": "nea ɔde bɔeɛ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "firi akyire tete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moannhu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "moahunu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:47:38.715882532Z",
+  "model": "glm-5.3"
+}

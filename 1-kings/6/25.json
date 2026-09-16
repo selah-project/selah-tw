@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na amma du na kerub ɛtɔ so mmienu no yɛ; susudua baako ne nsusuiɛ baako na ɛwɔ kerubim mmienu no mu.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amma mu"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɛtɔ so mmienu"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "susudua"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "nsusuiɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:14:36.900225780Z",
+  "model": "glm-5.3"
+}

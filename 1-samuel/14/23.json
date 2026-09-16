@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Yawe gyee ⟨את⟩ Yisrael da no mu; na ɔko no boroo ⟨את⟩ Beth-Awen so.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "gyee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "na ɔko no"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "boroo ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:18.390925405Z",
+  "model": "glm-5.3"
+}

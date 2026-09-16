@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Nanso ⟨את⟩ ɛman a wɔbɛsom no deɛ, me na mɛbu no atɛm, na akyire yi wɔbɛfri hɔ wɔ ahonya kɛseɛ mu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Nanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛman no"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ɛman no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "wɔbɛsom"
+    },
+    {
+      "surface": "דן",
+      "gloss": "mɛbu no atɛm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na akyire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wɔbɛfri hɔ"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "wɔ ahonya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:46.716599747Z",
+  "model": "glm-5.3"
+}

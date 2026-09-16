@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 122,
+  "translation": "Esiane Yawe yɛn Eloohim fie enti, mɛhwehwɛ papa ma wo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "esiane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "mɛhwehwɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:44.102055958Z",
+  "model": "glm-5.3"
+}

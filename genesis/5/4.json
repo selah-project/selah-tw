@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Adam nna a ɔwoo ⟨את⟩ Set no akyi yɛ mfeɛ ahanwɔtwe; na ɔwoo mma mmarima ne mma mmea.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "a ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Set"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ahanwɔtwe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ahannum"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma mmea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:13.985265373Z",
+  "model": "glm-5.3"
+}

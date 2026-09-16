@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na ɔhene no kaa sɛ: Monhuru ⟨את⟩ Haman, na wɔnyɛ ⟨את⟩ Ester asɛm. Ɔhene no ne Haman baa nsã a Ester yɛeɛ no mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔhene no kaa sɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Monhuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na wɔnyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester asɛm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene no"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ne Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "nsã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-16T04:02:40.065930686Z",
+  "model": "glm-5.3"
+}

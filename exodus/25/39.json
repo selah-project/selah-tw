@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Sika kronkron pɛ kikare baako na wɔde bɛyɛ ⟨את⟩ no, ne ⟨את⟩ nnwinnadeɛ yi nyinaa.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kikare baako"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "kronkron pɛ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wɔde bɛyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (atwerɛdua no)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnwinnadeɛ yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nnwinnadeɛ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:15.157590418Z",
+  "model": "glm-5.3"
+}

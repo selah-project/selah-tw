@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ɔbɛtwa ne ti, nanso ɔntwa ⟨את⟩ yadeɛ no; na ɔsɔfoɔ no bɛdwodwo ⟨את⟩ yadeɛ no nnafua nson a ɛtɔ so mmienu.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ɔbɛtwa ne ti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yadeɛ no"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "yadeɛ no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ɔntwa"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "bɛdwodwo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yadeɛ no"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "yadeɛ no"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nson"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnafua"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "a ɛtɔ so mmienu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:14:00.888892837Z",
+  "model": "glm-5.3"
+}

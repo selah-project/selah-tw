@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɛbaa sɛ, berɛ a ahenni no ho hyɛɛ den wɔ ne nsa mu no, okaa ⟨את⟩ n'akoa a wɔkum ⟨את⟩ ɔhene no, ne papa no.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ho hyɛɛ den"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ahenni no"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "wɔ ne nsa mu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "okaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'akoa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoa"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "a wɔkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:22:59.346616502Z",
+  "model": "glm-5.3"
+}

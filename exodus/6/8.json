@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na mεde mo abε asase no mu, a malesε me nsa sɛ mεma Abraham, Isak, ne Yakob, na mema mo awura mu; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "na mɛde mo abɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "malesɛ me nsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ mɛma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ne Yakob"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na mema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "awura mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:17.093476588Z",
+  "model": "glm-5.3"
+}

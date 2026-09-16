@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na abɔfra Samuel som Yawe ⟨את⟩ wɔ Eli anim, na Yawe asɛm yɛɛ ka wɔ nnɔmma no mu; ɔsɛnhunu ampaepue.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Na abɔfra"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "som"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na ... asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "wɔ nnɔmma no mu"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ɔsɛnhunu"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "apaepue"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:42.375774604Z",
+  "model": "glm-5.3"
+}

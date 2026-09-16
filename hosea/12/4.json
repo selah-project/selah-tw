@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Wɔ yafunu mu no, ɔkyeree ⟨את⟩ n'ɔkumaa anu, na wɔ n'ahoɔden mu no, ɔne ⟨את⟩ Eloohim dii akotokuduro.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "wɔ yafunu mu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ɔkyeree anu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ɔkumaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'ɔkumaa"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "wɔ n'ahoɔden mu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "dii akotokuduro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T06:04:33.646370606Z",
+  "model": "glm-5.3"
+}

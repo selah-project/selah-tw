@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na woanyɛ Kerub mmienu wɔ sika mu; nsano adwuma na woayɛ ⟨את⟩ wɔn, wɔ Kaporet no awiei mmienu no so.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na woanyɛ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "Kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "nsano adwuma"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "woayɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "משני",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "awiei"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporet no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:36.184401046Z",
+  "model": "glm-5.3"
+}

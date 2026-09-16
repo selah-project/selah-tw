@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ɔfoforɔ na ɔmmɔ wo din, ɛnyɛ w'ano; ɔhɔhoɔ, ɛnyɛ w'ano.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ɔmmɔ wo din"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ɔfoforɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "w'ano"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ɔhɔhoɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "w'ano (anom)"
+    }
+  ],
+  "timestamp": "2026-09-16T03:03:31.514329507Z",
+  "model": "glm-5.3"
+}

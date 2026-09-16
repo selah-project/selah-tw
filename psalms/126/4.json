@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 126,
+  "translation": "San aba, Yawe, fa ⟨את⟩ yɛn nnkosuo no, sɛ nsuo a ɛtene wɔ anafoɔ fam no.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "san aba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn nnkosuo no"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "yɛn nnkosuo"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "sɛ nsuo a ɛtene"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "wɔ anafoɔ fam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:13.140777447Z",
+  "model": "glm-5.3"
+}

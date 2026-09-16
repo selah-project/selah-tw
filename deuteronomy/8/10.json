@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na wobɛdi na wode wo ho ama so, na wobɛhyira ⟨את⟩ Yawe wo Eloohim wɔ asase pa no a ɔde ama wo no ho.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "na wobɛdi"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "na wode wo ho ama so"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "na wobɛhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔde ama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:24.986436411Z",
+  "model": "glm-5.3"
+}

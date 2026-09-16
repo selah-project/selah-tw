@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Owuo mmara abɔ me ho hyiae, na Beliyaal asubɔnten no maa me ho dwirii.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "abɔ me ho hyiae"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "מות",
+      "gloss": "owuo"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "na asubɔnten"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyaal"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "maa me ho dwirii"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:05.170347593Z",
+  "model": "glm-5.3"
+}

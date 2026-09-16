@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Mɛkyerɛ wo nyansa, na mɛkyerɛ wo ɔkwan a wobɛfa so; m'ani a ɛhwɛ wo so no bɛbɔ wo afutuo.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Mɛkyerɛ wo nyansa"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "na mɛkyerɛ wo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ɔkwan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "a"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wobɛfa so"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "bɛbɔ wo afutuo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a ɛhwɛ wo so"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:32.907826079Z",
+  "model": "glm-5.3"
+}

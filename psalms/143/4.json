@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 143,
+  "translation": "Na me honhom dwirii me so; me mu na me akoma yɛɛ hu.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "dwirii no"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "me honhom"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "me mu"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "yɛɛ hu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:44.383427097Z",
+  "model": "glm-5.3"
+}

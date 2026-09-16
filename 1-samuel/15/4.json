@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Enti Shaúul ma ⟨את⟩ nkurɔfoɔ no tee, na ɔkan wɔn wɔ Telaim: apem ahãnu (200,000) na na wɔyɛ asraafoɔ a wɔnam, ne mpem du (10,000) a wɔyɛ ⟨את⟩ Yuda ammarima.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ma … tee"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkurɔfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkurɔfoɔ no"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "na ɔkan wɔn"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "wɔ Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ahãnu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem (aha)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "asraafoɔ a wɔnam"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "ne mpem du"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "(apem)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda ammarima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ammarima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:01.744604911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Nkwa na ɔsrɛɛ firi wo hɔ, na woama no; nna tenten, daa, mprenu.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ɔsrɛɛ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "firi wo hɔ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "woama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mprenu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:57.653702273Z",
+  "model": "glm-5.3"
+}

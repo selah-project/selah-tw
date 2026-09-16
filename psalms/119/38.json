@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Si wo asɛm no den m′akoa no, de ɛbɛma no asuro wo.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Si … den"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "m′akoa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "wo asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "asuro wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:38.785023460Z",
+  "model": "glm-5.3"
+}

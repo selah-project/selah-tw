@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Deɛ ɔhwɛ dwom so ma Korah mma, wɔ ⟨Alamoth⟩ so — dwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔhwɛ dwom so"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ma ... mma"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamoth"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:31.559510885Z",
+  "model": "glm-5.3"
+}

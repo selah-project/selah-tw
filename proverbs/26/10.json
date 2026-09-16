@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Deɛ ɔyɛ kɛseɛ, deɛ ɔbɔɔ adeɛ nyinaa, ɔbɛtua akwasea ka, na ɔbɛtua akwantufoɔ nso ka.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Deɛ ɔyɛ kɛseɛ"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "deɛ ɔbɔɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "adeɛ nyinaa"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ɔbɛtua ka"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "akwasea"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na ɔbɛtua ka"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "akwantufoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:01:57.866302619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Me mpaeɛ nra wo anim; sisi wo aso ma me teɛseɛ.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "nra (bɛba)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpaeɛ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "wo aso"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ma me teɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:37.144573748Z",
+  "model": "glm-5.3"
+}

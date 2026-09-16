@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na kɔ ɔman yi no, wobɛka akyerɛ wɔn sɛ: Yawe ka sɛ: Hwɛ, me de ⟨את⟩ ɔkwan a nkwa wɔ mu ne ⟨את⟩ ɔkwan a owu wɔ mu bɛsi mo anim.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na kɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi no"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wobɛka akyerɛ wɔn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hwɛ, me"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de ... bɛsi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mo anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔkwan a nkwa wɔ mu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "a nkwa wɔ mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɔkwan a owu wɔ mu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "a owu wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:16:45.196302158Z",
+  "model": "glm-5.3"
+}

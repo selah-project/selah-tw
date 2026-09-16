@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Biribiara wɔ ne berɛ, na berɛ wɔ apɛdeɛ biara a ɛwɔ ɔsoro ase.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "ו עת",
+      "gloss": "na berɛ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "apɛdeɛ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:43.078967805Z",
+  "model": "glm-5.3"
+}

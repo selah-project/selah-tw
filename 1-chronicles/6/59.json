@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔ Asher abusua mu no, ⟨את⟩ Mashal ne ne asasetew, ⟨את⟩ Abdon ne ne asasetew.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na wɔ ... abusua mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Mashal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    }
+  ],
+  "timestamp": "2026-09-16T04:37:29.969304223Z",
+  "model": "glm-5.3"
+}

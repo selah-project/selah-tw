@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Mmepɔ no ne bepɔ nkɛseɛ nyinaa; dua a ɛso aduaba, ne cedardua nyinaa,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Mmepɔ no"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bepɔ nkɛseɛ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "a ɛso aduaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedardua"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:53.214915170Z",
+  "model": "glm-5.3"
+}

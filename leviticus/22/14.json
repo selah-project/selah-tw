@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na sɛ ɔbarima bi di kronkron deɛ wɔ mfomsoɔ mu, ɔde no fa enum (n'numesoa) ka ho, na ɔde ⟨את⟩ kronkron deɛ no ma ⟨את⟩ ɔsɔfoɔ no.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "na ɔbarima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "di"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron deɛ"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "wɔ mfomsoɔ mu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ɔde ... ka ho"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "n'numesoa (fa enum)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": ""
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na ɔde ... ma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "⟨את⟩ ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kronkron deɛ no"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron deɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:25.180088883Z",
+  "model": "glm-5.3"
+}

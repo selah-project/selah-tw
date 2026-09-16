@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Wɔ menora a ɔte tew no so na ɔbɛhyehyɛ ⟨את⟩ han no, wɔ Yawe anim, daa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "a ɔte tew"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "bɛhyehyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han no"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "han no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:24.053119358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɛfiri sɛ apampam biara a wɔde kokoduru hyɛ, ne atadeɛ biara a wɔabɔ no wɔ mogya mu, ɛno ara bɛyɛ de wɔbɛtwa hye — ogya olulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "apampam"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "a wɔhyɛ"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "kokoduru mu"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ne atadeɛ"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "a wɔabɔ no"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "mogya mu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "de wɔbɛtwa hye"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "olulu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    }
+  ],
+  "timestamp": "2026-09-15T23:44:11.710637831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Nhyira nka Adonai; da biara ɔde adesoa gyina yɛn ani so; El a ɔyɛ yɛn nkwagyeɛ no. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira nka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "יום",
+      "gloss": "biara"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ɔde adesoa gyina yɛn ani so"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "a ɔyɛ yɛn nkwagyeɛ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:07.199412336Z",
+  "model": "glm-5.3"
+}

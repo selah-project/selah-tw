@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Nokorɛ, na ɛnyɛ sɛ biribiara — Eloohim nko ara na me werɛ ho tew; me nkwatwan nyinaa fi Nehɔ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nokorɛ, na ɛnyɛ sɛ biribiara — nko ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "werɛ ho tew"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa (nea ɛhome)"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fi Nehɔ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "me nkwatwan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:00:39.287783805Z",
+  "model": "glm-5.3"
+}

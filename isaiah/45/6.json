@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Sɛdeɛ wɔbɛhu, fi owia sɔreɛ so ne ne bɔhyeɛ so, sɛ biribiara nni hɔ me akyi; me ne Yawe, na foforɔ nni hɔ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔbɛhu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "fi ... sɔreɛ so"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ne ne bɔhyeɛ so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "biribiara nni hɔ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "me akyi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "foforɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:56:41.775817005Z",
+  "model": "glm-5.3"
+}

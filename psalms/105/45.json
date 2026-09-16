@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Sɛdeɛ wɔbɛdi n'ahyɛdeɛ so, na wɔbɛhwɛ n'nnwuma so. Monhyira Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "wɔbɛdi ... so"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "n'ahyɛdeɛ"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "na n'nnwuma"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "wɔbɛhwɛ ... so"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Monhyira"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:06.823662200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Na ɔde wɔn ma wɔnyaa mmɔborɔhu wɔ wɔn a wɔkyeree wɔn nyinaa anim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Na ɔde wɔn ma"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "mmɔborɔhu"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "nyaa mmɔborɔhu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "wɔn a wɔkyeree wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:33.775203147Z",
+  "model": "glm-5.3"
+}

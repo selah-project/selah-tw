@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "na yɛnsane yɛn Eloohim ⟨את⟩ adaka no aba yɛn nkyɛn, ɛfiri sɛ yɛanhwehwɛ no wɔ Saul nna mu.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "na yɛnsane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "yɛn nkyɛn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annhwehwɛ"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "hwehwɛɛ no"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "wɔ ... nna mu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-09-16T04:42:05.090528948Z",
+  "model": "glm-5.3"
+}

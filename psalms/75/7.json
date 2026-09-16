@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Ɛnyɛ firi apueeɛ so, ɛnyɛ firi atɔeɛ so, na ɛnyɛ firi mmɔntene nnso so na nnyimadeɛ ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛnyɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "firi apueeɛ so"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ɛnyɛ firi atɔeɛ so"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "firi mmɔntene"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "nnso so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:58.090224325Z",
+  "model": "glm-5.3"
+}

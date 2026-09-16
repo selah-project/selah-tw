@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ma Gereshom dea: Libni ne ba, Yachat ne ba, Zimmah ne ba.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "ma Gereshom dea"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimmah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:56.235982580Z",
+  "model": "glm-5.3"
+}

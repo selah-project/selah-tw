@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Me akoma ware me mu, na owu ehuhu atew me so.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ware"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "me mu"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "na ehuhu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "owu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "atew"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:25.848036418Z",
+  "model": "glm-5.3"
+}

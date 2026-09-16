@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Yawe, gyae me firi onipa bɔne mu; hwɛ me so firi obi a otumi yɛ ɔsɛe mu.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "gyae me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "firi onipa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "firi obi"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "a otumi yɛ ɔsɛe"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "hwɛ me so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:16.213022301Z",
+  "model": "glm-5.3"
+}

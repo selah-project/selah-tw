@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Nimdefoɔ akoma wɔ awerɛhyɛm fie mu, na akokodurufoɔ asɛm nso wɔ anigyeɛ fie mu.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nimdefoɔ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ ... fie mu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "awɛrehɔ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na akoma"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akokodurufoɔ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ ... fie mu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "anigyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:41.236315364Z",
+  "model": "glm-5.3"
+}

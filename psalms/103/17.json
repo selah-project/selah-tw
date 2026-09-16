@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Na Yawe hesed (nkɔmmɔbɔ pa) fi tete ara kɔsi daa, wɔ wɔn a wɔsuro no so, na ne kyerɛneɛ wɔ mma mma so.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "na hesed (nkɔmmɔbɔ pa)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "fi tete ara"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wɔn a wɔsuro no"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na ne kyerɛneɛ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wɔ mma"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:08.302678636Z",
+  "model": "glm-5.3"
+}

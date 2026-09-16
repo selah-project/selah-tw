@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na nnipadɔm a wɔsii ano no tee sɛ: “Zimri ayɛ atifiesɛm, na ɔakum ⟨את⟩ ɔhene no”; enti Israel nyinaa paw Omri, Israel asraafoɔ no kwankyerɛfoɔ, sɛ ɔhene wɔ Israel so, da no ara wɔ ntahera mu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "a wɔsii ano no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ayɛ atifiesɛm"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "paw ... sɛ ɔhene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kwankyerɛfoɔ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no ara"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "wɔ ntahera mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:36.011475399Z",
+  "model": "glm-5.3"
+}

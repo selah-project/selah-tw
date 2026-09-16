@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Yawe, wo ani agye w'asase so; wode Yakob nnaasan aba.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "wo ani agye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "w'asase so"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wode ... aba"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nnaasan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:55.695994171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 127,
+  "translation": "Kwa ne mo, mo a mosɔree anɔpa, modii akyi kɔsii aberɔ, moduaduane a ɛyɛ ya; saa ara na Ɔde nna ma ne dɔfoɔ.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "mo a mosɔree anɔpa"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "a modii akyi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kɔsii aberɔ (tenaa ase kɔsi anadwo)"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mo a modua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "a ɛyɛ ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ɔde ma"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ne dɔfoɔ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:42.411714486Z",
+  "model": "glm-5.3"
+}

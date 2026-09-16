@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Awurade Yawe, wo na wo yɛ me sumankɛseɛ; Elyon na wode ayɛ wo tenabea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awurade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "me sumankɛseɛ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wode ayɛ"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "wo tenabea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:11.591950243Z",
+  "model": "glm-5.3"
+}

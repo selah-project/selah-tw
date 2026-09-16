@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Saa berɛ no, ɔhene no maa Shadrak, Meishak ne Abed-Nego kɔɔ so kɔɔ soro wɔ Babilon ɔman mu.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "saa berɛ no"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "maa wɔkɔɔ so kɔɔ soro"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrak"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meishak"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "wɔ ɔman mu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T04:06:30.896165047Z",
+  "model": "glm-5.3"
+}

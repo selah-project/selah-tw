@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Metemaama wo ⟨את⟩ wo wura fie, na ⟨את⟩ wo wura yere ama wo wo kyɛfa mu; meteama wo ⟨את⟩ Yisrael fie ne Yehuda fie; na sɛ ɛyɛ kakraabi a, mɛka bio ama wo saa ara ne saa ara.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "metemaama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo wura fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wo wura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo wura yere"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wo wura"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "wo kyɛfa mu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "meteama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ne Yehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakraabi"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "mɛka bio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ne saa ara"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:33.153865052Z",
+  "model": "glm-5.3"
+}

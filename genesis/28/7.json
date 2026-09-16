@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "sɛ Jaakob tiee ne papa ne ne maame asɛm, na ɔkɔɔ Paddan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tiee"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ ... so"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:15.872435373Z",
+  "model": "glm-5.3"
+}

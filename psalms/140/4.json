@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Wɔatwa wɔn tɛkrɛma te sɛ nnweɛ; nwansena adurow ne wɔn ano ase. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "wɔatwa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "wɔn tɛkrɛma"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "te sɛ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nnweɛ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "adurow (abufuo)"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "nwansena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ano ase"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:16.217191959Z",
+  "model": "glm-5.3"
+}

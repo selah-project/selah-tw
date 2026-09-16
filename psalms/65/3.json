@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Wo a wote mpaeboɔ; wo nkyɛn na ⟨abɔde⟩ nyinaa bɛba.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Wo a wote"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mpaeboɔ"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "abɔde (oninyi)"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bɛba"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:53.612519804Z",
+  "model": "glm-5.3"
+}

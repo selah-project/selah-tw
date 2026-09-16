@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɔhene Shelomoh somaa, na ɔfaa ⟨את⟩ Hiram firi Tzor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "firi Tzor"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:23.039841617Z",
+  "model": "glm-5.3"
+}

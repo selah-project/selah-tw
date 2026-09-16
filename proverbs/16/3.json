@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Fa w'nnwuma no gu Yawe nsa so, na w'adwene bɛgyina pintinn.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Fa ... gu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "w'nnwuma no"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "na ... bɛgyina pintinn"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "w'adwene"
+    }
+  ],
+  "timestamp": "2026-09-16T05:43:23.742474718Z",
+  "model": "glm-5.3"
+}

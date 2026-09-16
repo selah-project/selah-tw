@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 1:23",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Elkanah ne kunu no ka kyerɛɛ no sɛ, yɛ deɛ ɛyɛ papa wɔ wo ani so; tena hɔ kɔsi sɛ wowɔ twa ne nufu; nkɔso Yawe gyina ne asɛm no mu. Na ɔbaa no tenaeɛ, na ɔmaa ne ba no nufu kɔsi sɛ ɔtwaa ne nufu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ne kunu no"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "deɛ ɛyɛ papa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "wɔ wo ani so"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tena hɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi sɛ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "wowɔ twa ne nufu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ne (abɔfra no)"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nkɔso"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "gyina mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne asɛm no"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne asɛm"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "tenaeɛ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "maa ... nufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba no"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi sɛ"
+    },
+    {
+      "surface": "גמלה",
+      "gloss": "ɔtwaa ne nufu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (abɔfra no)"
+    }
+  ],
+  "timestamp": "2026-09-15T22:46:41.617870176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wode bɛto ⟨את⟩ no paroket no anim, a ɛda adanse sanduka no so, wɔ kapporet no anim a ɛda adanse no so, baabi a mɛhyia wo hɔ.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "na wode bɛto"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (afɔrefie no)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paroket no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sanduka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adanse no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adanse no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baabi a"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "mɛhyia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:53.455119358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Wɔantwa wɔn pɛe so, na wɔn aduane no daa ase wɔ wɔn ano mu,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wɔan-"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "twa ... so"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "wɔn pɛe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dae"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "wɔn aduane"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "wɔ wɔn ano mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:41.636843543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na mo nso, mono nyin, na mo dɔɔso, monyini asase no so, na monyini mu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na mo nso"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mono nyin"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mo dɔɔso"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "monyini"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "monyini"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:37.257529373Z",
+  "model": "glm-5.3"
+}

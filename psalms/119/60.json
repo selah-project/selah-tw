@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Mihurutɛeɛ, na manninwa da, sɛdeɛ bɛbɔ ⟨את⟩ wo nhyehyɛde nyinaa.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "mihurutɛeɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... da"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "manninwa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sɛdeɛ bɛbɔ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "wo nhyehyɛde nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:09.935323287Z",
+  "model": "glm-5.3"
+}

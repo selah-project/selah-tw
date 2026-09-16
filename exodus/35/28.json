@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Ne ⟨את⟩ nkwan no, ne ⟨את⟩ ngo no maa ga no, ne sraa-ngo no, ne aduhwea a wɔyɛ no nkwan mu no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "nkwan no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ngo no"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "maa ga no"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "maa ngo no"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sraa no"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ne aduhwea no"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "nkwan mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:15.785928375Z",
+  "model": "glm-5.3"
+}

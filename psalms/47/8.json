@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Ɛfiri sɛ Eloohim ne asase nyinaa Ɔhene — yɛ maskil-nnwom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ɔhene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "yɛ nnwom"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:59.792254309Z",
+  "model": "glm-5.3"
+}

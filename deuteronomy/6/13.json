@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yawe wo Eloohim na ɛsɛ sɛ wosuro no, na ⟨את⟩ no nko ara na wosom, na wofa ne din di nse.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe wo Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wosuro"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩ no",
+      "marks": "no nko ara (de wosom)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "wosom"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "na wofa ne din"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "di nse"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:50.606021267Z",
+  "model": "glm-5.3"
+}

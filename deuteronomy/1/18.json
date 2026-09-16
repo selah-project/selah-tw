@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na mae hyɛɛ mo wɔ ⟨את⟩ berɛ no mu — ⟨את⟩ nsɛm nyinaa a mo bɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "na mae hyɛɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wɔ berɛ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mo bɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:17.888965799Z",
+  "model": "glm-5.3"
+}

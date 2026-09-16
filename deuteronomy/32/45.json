@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Moshe wui asɛm a wɔka no nyinaa: ɔkaa nsɛm yi nyinaa kyerɛ⟨את⟩ Yisraɛl nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "asɛm a wɔka no nyinaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm yi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:19.032061798Z",
+  "model": "glm-5.3"
+}

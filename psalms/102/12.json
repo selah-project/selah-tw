@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "M'nna sɛ ɛsum a ɛretɛ na ɛretwa; na me nso, sɛ nwura a ɛwa.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "M'nna"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "sɛ ɛsum"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "a ɛretɛ na ɛretwa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me nso"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sɛ nwura"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "a ɛwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:11.635079334Z",
+  "model": "glm-5.3"
+}

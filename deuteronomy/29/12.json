@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "sɛdeɛ ɔbɛsie ⟨את⟩ wo nnɛ sɛ ɔnya wo ama ɔyɛ nkorɔfoɔ, na ɔbɛyɛ wo Eloohim, sɛnea ɔka kyerɛɛ wo, ne sɛnea ɔhyɛɛ wo agya nkɔm — Abraham, Isak, ne Yakob.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "bɛsie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ama ɔ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nkorɔfoɔ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ne sɛnea"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hyɛɛ nkɔm"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ne Yakob"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:57.831474507Z",
+  "model": "glm-5.3"
+}

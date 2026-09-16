@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wɔfrɛɛ ɔkɔm, na wɔmaa ⟨את⟩ Nabot tenaa nnipa no anim.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Wɔfrɛɛ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ɔkɔm"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "na wɔmaa … tenaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:24:27.934962949Z",
+  "model": "glm-5.3"
+}

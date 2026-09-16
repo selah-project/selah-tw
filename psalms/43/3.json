@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Soma wo hann ne wo nokorɛ; wɔn na wɔbɛkyerɛ me kwan, wɔde me bɛkɔ wo bepɔ kronkron no so, ne wo nnyeedan mu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "soma"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "wo hann"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ne wo nokorɛ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "wɔbɛkyerɛ me kwan"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "wɔde me bɛkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "wo kronkron"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "wo nnyeedan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:35.713494311Z",
+  "model": "glm-5.3"
+}

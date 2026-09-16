@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔde ne man no firi hɔ wɔ anigyeɛ mu, de ne wɔapaw no wɔ nnwomtoɔ mu.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ɔde ... firi hɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne man no"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "wɔ anigyeɛ mu"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "wɔ nnwomtoɔ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne wɔapaw no"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ne wɔapaw no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:12.681155317Z",
+  "model": "glm-5.3"
+}

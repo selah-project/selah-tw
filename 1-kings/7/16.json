@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 7:16",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɔyɛɛ atifi mmienu sɛ ɛbɛgyina nnua mmienu no atifi so, a wɔatoto nkɔnsɔn; suku enum na sɛnea atifi baako tenten yɛ, na suku enum nso na sɛnea atifi a ɛto so mmienu no tenten yɛ.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "כתרת",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ ɛbɛgyina"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "nnua mmienu no"
+    },
+    {
+      "surface": "מצק",
+      "gloss": "a wɔatoto"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkɔnsɔn"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "suku"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "enum nso"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "suku"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a ɛto so mmienu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:23.040651637Z",
+  "model": "glm-5.3"
+}

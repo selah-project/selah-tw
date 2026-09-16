@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Mebɔɔ ⟨את⟩ mo wɔ nnɔbae-yareɛ mu, ne nwini mu, ne mmoaboro mu — ⟨את⟩ adwuma a mo nsa ayɛ nyinaa; na ⟨את⟩ mo mu biara nnyaa me ho bio, Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "Mebɔɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "nnɔbae-yareɛ, nwini ne mmoaboro adwuma no"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "wɔ nnɔbae-yareɛ mu"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "ne nwini mu"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "ne mmoaboro mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma a mo nsa ayɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "a mo nsa ayɛ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... biara nnyaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo mu biara",
+      "marks": "me ho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:28:05.797561532Z",
+  "model": "glm-5.3"
+}

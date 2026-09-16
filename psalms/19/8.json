@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Yawe mmara no yɛ pɛfek, ɛsan de kra ba; Yawe adansedie no yɛ nokware, ɛma onipa a nyansa nni ne mu no nyansa.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "yɛ pɛfek"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ɛsan de ... ba"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kra"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "adansedie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "yɛ nokware"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "ɛma ... nyansa"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "onipa a nyansa nni ne mu no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:47.963451075Z",
+  "model": "glm-5.3"
+}

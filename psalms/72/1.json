@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Shelomo dea. Eloohim, ma wo atemmuo ama ɔhene, na ma wo atɛntrenee ama ɔhene ba.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo dea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "wo atemmuo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ama ɔhene"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na wo atɛntrenee"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ama ɔhene ba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:29.786047867Z",
+  "model": "glm-5.3"
+}

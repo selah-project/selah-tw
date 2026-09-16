@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ka kyerɛ Nyansa sɛ: Wo ne me nuabaa; na frɛ Ntease sɛ wo nnamfoɔ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ka kyerɛ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Nyansa"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "me nuabaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wo ne me nuabaa — deɛ wɔfrɛ no"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "na frɛ Ntease"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "Ntease"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "frɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:46:20.598883895Z",
+  "model": "glm-5.3"
+}

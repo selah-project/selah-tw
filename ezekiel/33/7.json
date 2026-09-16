@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na wo, onipa ba, mahyɛ wo sɛ ɔhwɛfoɔ ma Yisrael fie; enti wubɛtie asɛmfua firi me ano, na wode me nsɛm bɛsian wɔn ho kɔkɔ ⟨אתם⟩ firi me hɔ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ɔhwɛfoɔ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mahyɛɛ wo sɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ma ... fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "wobɛtie"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "firi ... ano"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛmfua"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "na wode ... bɛsian ho kɔkɔ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wɔn (Yisrael fie)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:51:20.074182517Z",
+  "model": "glm-5.3"
+}

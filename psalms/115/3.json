@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Yɛn Eloohim wɔ ɔsoro mu; deɛ Ɔpɛ nyinaa Ɔyɛe.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Yɛn Eloohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ɔsoro mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ɔpɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ɔyɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:59.353414893Z",
+  "model": "glm-5.3"
+}

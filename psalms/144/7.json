@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Soma w'nsa firi soro; gyaw me nkwa, na gye me firi nsuo pii mu, firi amanɔnefoɔ nsa mu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "soma"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "w'nsa"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "firi soro"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "gyaw me nkwa"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na gye me"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "firi nsuo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi nsa mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "foɔ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "amanɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:09.414049591Z",
+  "model": "glm-5.3"
+}

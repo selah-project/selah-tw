@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yawe ka ⟨את⟩ Yehosua ho; na ne din kɔɔ asase no nyinaa so.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... bɛyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ka ... ho",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ... bɛyɛɛ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:26.189104884Z",
+  "model": "glm-5.3"
+}

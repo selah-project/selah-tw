@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Kae me, Yawe, wɔ w'amanfoɔ pɛ mu; hwɛ me so wɔ w'anokwadie-nkɔsoɔ mu ⟨nkwagyeɛ mu⟩.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Kae me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "wɔ ... pɛ mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "w'amanfoɔ"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "hwɛ me so"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "wɔ w'nkwagyeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:49.778195488Z",
+  "model": "glm-5.3"
+}

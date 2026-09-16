@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Saul bisaeɛ Yawe, nanso Yawe ammua no — ɛnyɛ wɔ daeɛ mu, ɛnyɛ wɔ Urim mu, ɛnyɛ wɔ adiyisɛmfoɔ mu.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "bisaeɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe ... wɔ hɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... am-"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "-mmua no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ɛnyɛ ... mu (ɛtoa so)"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "wɔ daeɛ mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ɛnyɛ ... mu"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "wɔ Urim mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ɛnyɛ ... mu"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "wɔ adiyisɛmfoɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:04.864880822Z",
+  "model": "glm-5.3"
+}

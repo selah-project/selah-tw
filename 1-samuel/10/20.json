@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Shemuël maa ⟨את⟩ Yisrael nnidon nyinaa bɛn, na wɔfaa Binyamin nnidon no.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "maa … bɛn"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael nnidon nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "nnidon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "na wɔfaa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "nnidon"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:49.277851419Z",
+  "model": "glm-5.3"
+}

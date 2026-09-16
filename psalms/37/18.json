@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Yawe nim wɔn a wɔ ho tew no nna, na wɔn agyapadeɛ bɛtena hɔ daa.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "wɔn a wɔ ho tew"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "na wɔn agyapadeɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛtena hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:52.463590299Z",
+  "model": "glm-5.3"
+}

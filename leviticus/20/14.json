@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔbarima a ɔfa ⟨את⟩ ɔbaa ne ⟨את⟩ ne maame, atirimuodensɛm na ɛyɛ; wɔde ogya bɛhye ⟨את⟩ no ne ⟨את⟩ wɔn, na atirimuodensɛm nnyɛ mo mu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ɔfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne maame"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "atirimuodensɛm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɛyɛ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wɔ ogya mu"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "wɔbɛhye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nnyɛ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "atirimuodensɛm"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:43.020709913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Na woama me kɔre aten sɛ wan-kɛseɛ dea; me ho asie ngo mu dɔɔso.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "woama…aten"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "sɛ wan-kɛseɛ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "me kɔre"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "me ho asie"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo mu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "frafra"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:15.542037680Z",
+  "model": "glm-5.3"
+}

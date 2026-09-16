@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ɔbɔɔ ⟨את⟩ kerubim no ho sika kɔkɔɔ.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ɔbɔɔ ... ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubim no"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubim no"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:14:36.900813405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Bɔne asɛm dɔɔso sen me; yɛn basabasayɛ deɛ, wo na wobɛkata ⟨so⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "dɔɔso sen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "me"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "yɛn basabasayɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "wobɛkata so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:53.612645878Z",
+  "model": "glm-5.3"
+}

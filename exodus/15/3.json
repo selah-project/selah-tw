@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Yawe yɛ ɔkoɔ ɔbarima; Yawe ne ne din.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔkoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne ne din"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:21.212972371Z",
+  "model": "glm-5.3"
+}

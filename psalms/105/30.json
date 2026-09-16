@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Wɔn asase so apataa dɔɔso, kɔpem wɔn ahemfo adihɔ mu.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "dɔɔso (teemed)"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "apataa"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "wɔ ... adihɔ mu"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wɔn ahemfo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:09.284835261Z",
+  "model": "glm-5.3"
+}

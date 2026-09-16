@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Amma no gyinaa kwan tenten so, na Mose bɛnnee sum dodoɔ a Eloohim wɔ mu hɔ.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amma no"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kwan tenten so"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Mose"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "bɛnnee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "sum dodoɔ no mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:39.484537778Z",
+  "model": "glm-5.3"
+}

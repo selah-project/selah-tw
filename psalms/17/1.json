@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Dawid mpaeɛbɔ. Tie, Yawe, atremmuo; hwɛ m'anteɛmo; tie m'apaeɛbɔ — wɔ ano a ɛnni nkontompo mu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "mpaeɛbɔ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atremmuo"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "m'anteɛmo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "m'apaeɛbɔ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "a ɛnni"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nkontompo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:20.805324933Z",
+  "model": "glm-5.3"
+}

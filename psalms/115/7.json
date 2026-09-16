@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Nsa wɔ wɔn mu nanso wɔmmɔ nsa; anan wɔ wɔn mu nanso wɔnnante; wɔnkasa da wɔ wɔn kɔn mu.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "Nsa wɔ wɔn mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "wɔmmɔ nsa"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "anan wɔ wɔn mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "wɔnnante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "wɔnkasa"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "wɔ wɔn kɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:39.513339009Z",
+  "model": "glm-5.3"
+}

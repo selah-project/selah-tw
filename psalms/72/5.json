@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Wɔbɛsuro wo wɔ owia mu, ne wɔ bosuo anim, nkwadaa so a nkwadaa toa so.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Wɔbɛsuro wo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ne wɔ ... anim"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bosuo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nkwadaa"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nkwadaa so a toa so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:03.217993128Z",
+  "model": "glm-5.3"
+}

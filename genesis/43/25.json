@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Na wɔyɛɛ ⟨את⟩ aduane no anoa kɔsii sɛ Yosef bɛba awia berɛ mu, ɛfiri sɛ wɔtee sɛ ɛhɔ na wɔbɛdi dua aduane.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "na wɔyɛɛ…anoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduane no anoa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "aduane no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "awia berɛ mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wɔtee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɛhɔ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wɔbɛdi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dua aduane"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:11.319677297Z",
+  "model": "glm-5.3"
+}

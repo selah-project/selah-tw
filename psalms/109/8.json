@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ne nna nnyɛ nkakrankakra, na ɔfoforɔ nnye ne dwumadie.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "Ne nna"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "nkakrankakra"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ne dwumadie"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nnye"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɔfoforɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:28.359071684Z",
+  "model": "glm-5.3"
+}

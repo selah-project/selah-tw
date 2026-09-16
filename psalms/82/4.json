@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 82,
+  "translation": "\"Momma amamfɔ ne ahiafoɔ nkɔ fa wɔn ho, monyankura wɔn firi abɔnefoɔ nsa mu.\"",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Momma ... nkɔ fa wɔn ho"
+    },
+    {
+      "surface": "דל",
+      "gloss": "amamfɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "monyankura wɔn firi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:36.720321209Z",
+  "model": "glm-5.3"
+}

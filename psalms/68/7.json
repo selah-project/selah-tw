@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Eloohim ma wɔn a wɔte nkwa mu ara no tena fie mu; ɔde wɔn a wɔabɔ wɔn afiase no firi mu ba kɔ dɔre mu; nanso asoɔdenfoɔ no de, wɔtena asase a ɛwo mu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "ma ... tena"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "wɔn a wɔte nkwa mu ara"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "fie mu"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "ɔde ... firi mu ba"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "afiasefoɔ"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "kɔ dɔre mu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "asoɔdenfoɔ"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "wɔtena"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "asase a ɛwo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:38.683267331Z",
+  "model": "glm-5.3"
+}

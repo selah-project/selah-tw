@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Ɔbarima no, asaase no Adonai, kasa yaree ⟨את⟩ yɛn ho, na ɔde ⟨את⟩ yɛn sɛɛ akwanhwɛfoɔ wɔ ⟨את⟩ asaase no so.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kasa yaree"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Ɔbarima no"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asaase no"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn ho"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "yaree"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔde"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn",
+      "marks": "yɛn"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "sɛɛ akwanhwɛfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asaase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asaase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:41.226476868Z",
+  "model": "glm-5.3"
+}

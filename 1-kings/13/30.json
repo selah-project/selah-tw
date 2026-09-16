@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔde ⟨את⟩ ne wuo-kunu no sii ne amu-daa mu, na wɔsuiɛ no, wɔkaa sɛ: Hoo, me nuabarima!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne wuo-kunu no"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ne wuo-kunu no"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "ne amu-daa mu"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "wɔsuiɛ no"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "me nuabarima"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:17.812549027Z",
+  "model": "glm-5.3"
+}

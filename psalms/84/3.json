@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 84,
+  "translation": "Me nkwa hintabea pɛ, na ɛho tew ma Yawe n'afie nkyɛnmu; me akoma ne me nhɔwa bɔ nnwom ma El a wayɛ nkwa.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ho tew"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa hintabea"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "nkyɛnmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ne me nhɔwa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bɔ nnwom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a wayɛ nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:58.936720983Z",
+  "model": "glm-5.3"
+}

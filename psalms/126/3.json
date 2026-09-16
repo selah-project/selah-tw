@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 126,
+  "translation": "Yawe ayɛ nneɛma akɛseɛ ma yɛn; yɛkɔɔ ahurisɛm mu.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ayɛ ... kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ayɛ nneɛma"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ma yɛn"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "yɛkɔɔ"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ahurisɛm mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:13.137788064Z",
+  "model": "glm-5.3"
+}

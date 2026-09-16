@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Nkuro a ɛwɔ mmea pɛtee no nyinaa, ne Gilad nyinaa, ne Bashan nyinaa, kɔsi Salka ne Edrei, nkuro a ɛyɛ Og ahennie wɔ Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "mmea pɛtee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salka"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ne Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "wɔ Bashan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:09.568606890Z",
+  "model": "glm-5.3"
+}

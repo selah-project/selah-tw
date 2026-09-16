@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Hukok ne ne asasetew, ⟨את⟩ Rehob ne ne asasetew.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rehob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    }
+  ],
+  "timestamp": "2026-09-16T04:37:29.969505661Z",
+  "model": "glm-5.3"
+}

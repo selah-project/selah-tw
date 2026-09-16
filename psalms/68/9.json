@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Asase ririntɔɔ, ɔsoro nso sii nsuo wɔ Eloohim anim; Sinai yi ankasa ririntɔɔ wɔ Eloohim anim, Israel Eloohim anim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ririntɔɔ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nso"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "sii nsuo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:35.967320097Z",
+  "model": "glm-5.3"
+}

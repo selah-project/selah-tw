@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na wɔhunuu ⟨את⟩ Eloohim a Yisraɛl de no, na n'anamɔn aseɛ no, ɛyɛ te sɛ biribi a wɔde safaya ayɛ a ɛyɛ fitaa, na ɛte sɛ ɔsoro no ankasa ho fiefie.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Na wɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim a Yisraɛl de no"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na ... aseɛ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "n'anamɔn"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "te sɛ biribi a wɔayɛ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "a ɛyɛ fitaa"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safaya"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "na ɛte sɛ ... no ankasa ho"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "fiefie"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:03.801737247Z",
+  "model": "glm-5.3"
+}

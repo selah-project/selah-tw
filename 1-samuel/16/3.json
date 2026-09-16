@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na frɛ Yishai wɔ afɔre no mu; na me bɛkyerɛ wo deɛ wobɛyɛ; na hwiegu ngo frɛ me deɛ mɛka kyerɛ wo no so.",
+  "tokens": [
+    {
+      "surface": "וְקָרָ֥אתָ",
+      "gloss": "Na frɛ"
+    },
+    {
+      "surface": "לְיִשַׁ֖י",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "בַּזָּ֑בַח",
+      "gloss": "wɔ afɔre no mu"
+    },
+    {
+      "surface": "וְאָֽנֹכִ֗י",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אוֹדִֽיעֲךָ֙",
+      "gloss": "bɛkyerɛ wo"
+    },
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ"
+    },
+    {
+      "surface": "אֲשֶֽׁר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֔ה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "וּמָשַׁחְתָּ֣",
+      "gloss": "na hwiegu ngo frɛ"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "me"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ"
+    },
+    {
+      "surface": "אֲשֶֽׁר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אֹמַ֖ר",
+      "gloss": "mɛka"
+    },
+    {
+      "surface": "אֵלֶֽיךָ",
+      "gloss": "kyerɛ wo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:54.178706700Z",
+  "model": "glm-5.3"
+}

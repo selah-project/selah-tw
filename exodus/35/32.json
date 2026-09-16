@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Ne sɛ ɔbɛyɛ adwinni nhyehyɛe, sɛ ɔbɛyɛ adwuma wɔ sikakɔkɔɔ mu, ne sika mu, ne dɔta mu.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "ne sɛ ɔbɛyɛ nhyehyɛe"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "adwinni nhyehyɛe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "sɛ ɔbɛyɛ"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "wɔ sikakɔkɔɔ mu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ne wɔ sika mu"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ne wɔ dɔta mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:58.277502092Z",
+  "model": "glm-5.3"
+}

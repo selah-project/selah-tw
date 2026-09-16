@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Paroh hunuu sɛ mmoaborɔ baeɛ, na ɔhyɛɛ ⟨את⟩ ne koma mu duru, na ɔantie wɔn, sɛnea Yawe daadaa no.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "baeɛ"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "mmoaborɔ"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "na ɔhyɛɛ mu duru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne koma"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne koma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔantie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "daadaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:15.788693417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Eli mma yɛ mma a wɔn ho nni mu; wɔannim Yawe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ... mma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "a wɔn ho nni mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-nni"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:46:48.117065267Z",
+  "model": "glm-5.3"
+}

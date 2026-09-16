@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Sɛ korban a ɛdi kan na mo de ⟨את⟩ no ba Yawe nkyɛn; nanso ɛnrenkɔ afɔrepono no so sɛ anwini a ɛtew.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "a ɛdi kan"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "mo de ... ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no (korban a ɛdi kan)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe nkyɛn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nanso ... so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔrepono no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnrenkɔ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "so"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "sɛ anwini"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a ɛtew"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:02.036328659Z",
+  "model": "glm-5.3"
+}

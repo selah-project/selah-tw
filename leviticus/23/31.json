@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Adwuma biara mo nnyɛ; ɛyɛ amanne a ɛda hɔ daa ama mo nkyirimma nyinaa wɔ mo atenaeɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ (nkɔ)"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mo nnyɛ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "amanne"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ama mo nkyirimma"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "mo atenaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:23.085027961Z",
+  "model": "glm-5.3"
+}

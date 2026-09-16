@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Mɛbɔ Eloohim din abaso dwom mu, na mɛyɛ no kɛseɛ aseda mu.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "mɛbɔ ... abaso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "dwom mu"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "na mɛyɛ no kɛseɛ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "aseda mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:49.128174741Z",
+  "model": "glm-5.3"
+}

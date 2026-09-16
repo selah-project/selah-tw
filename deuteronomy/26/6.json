@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na Misraimfoɔ no yɛɛ yɛn bɔne, na wɔde ahohia baa yɛn so, na wɔde adwuma den sii yɛn so.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "yɛɛ yɛn bɔne"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn",
+      "marks": "yɛn"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Misraimfoɔ no"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "na wɔde ahohia baa yɛn so"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "na wɔde sii"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:04.032338603Z",
+  "model": "glm-5.3"
+}

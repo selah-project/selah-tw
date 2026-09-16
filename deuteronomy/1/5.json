@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔ Yarden no akyi, wɔ Moab asase mu, Moshe hyɛɛ aseɛkyerɛɛ ⟨את⟩ tora yi, sɛ:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "wɔ ... akyi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase mu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "hyɛɛ aseɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tora yi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ:"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:48.129076054Z",
+  "model": "glm-5.3"
+}

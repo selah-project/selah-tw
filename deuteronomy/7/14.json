@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Wo bɛyɛ onipa a wɔahoma kyɛn amanaman nyinaa; obi a ɔntwa mma ɔba ne ɔbea nka wo mu, na wo mmoa mu nso nka hɔ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "a wɔahoma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wo bɛyɛ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kyɛn ... nyinaa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ɔba a ɔntwa mma"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ne ɔbea a ɔntwa mma"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "na wo mmoa mu nso"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:01.280675061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ɔhyɛɛ ɛdua sɛ ne ntoma, na ɛkɔɔ ne mu sɛ nsuo, ne sɛ ngo n'apim mu.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Ɔhyɛɛ"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ɛdua"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "sɛ ne ntoma"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "na ɛkɔɔ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sɛ nsuo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ne mu"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "ne sɛ ngo"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "n'apim mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:31.186307334Z",
+  "model": "glm-5.3"
+}

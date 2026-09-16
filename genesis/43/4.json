@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Sɛ wo de ⟨את⟩ yɛn nuanom no bɛsoma ⟨את⟩ yɛn ho a, yɛbɛsiane na yɛakɔtɔ aduane ama wo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "sɛ wowɔ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "de bɛsoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn nuanom no"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "yɛn nuanom no"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn ho"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "yɛbɛsiane"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "na yɛakɔtɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:45.383812021Z",
+  "model": "glm-5.3"
+}

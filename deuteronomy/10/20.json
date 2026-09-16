@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Suro ⟨את⟩ Yawe wo Eloohim, som ⟨אתו⟩ no, bata n'akyi, na wode ne din to ntam.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe wo Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Suro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "som"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "bata n'akyi"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "wode ne din"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "to ntam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:15.161356591Z",
+  "model": "glm-5.3"
+}

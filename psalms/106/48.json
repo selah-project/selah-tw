@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Nhyira nka Yawe, Yisrael Eloohim, firi tete kɔsi daa; na ⟨⟩ nnipa no nyinaa nka se, Amen. Kamfo Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "tete"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ... nka se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Kamfo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:33.777992907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Sɛ mesoa anɔpa sum nkwankwa a, na metena po no akyirikyiri so,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "mesoa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "nkwankwa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "anɔpa sum"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "metena"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "akyirikyiri so"
+    },
+    {
+      "surface": "ים",
+      "gloss": "po"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:19.905327737Z",
+  "model": "glm-5.3"
+}

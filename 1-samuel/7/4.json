@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yisrael mma no twee ⟨את⟩ Baalim ne ⟨את⟩ Ashtarot no firi hɔ, na wɔsom Yawe ⟨את⟩ nko ara.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "twee ... firi hɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wɔsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nko ara"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:17.259971305Z",
+  "model": "glm-5.3"
+}

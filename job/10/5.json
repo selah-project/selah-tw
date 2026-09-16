@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Wo nna te sɛ oniwu dɛ nna anaa? Wo mfeɛ nso te sɛ ɔbarima dɛ nna?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "te sɛ ... dɛ nna"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "oniwu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "wo nna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "wo mfeɛ"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "te sɛ ... dɛ nna"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ɔbarima"
+    }
+  ],
+  "timestamp": "2026-09-16T03:14:06.037719686Z",
+  "model": "glm-5.3"
+}

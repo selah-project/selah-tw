@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Na mayɛ wɔn kwan wɔ wɔn akonnwini so, na wɔnantew wɔn amamtwɛeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Na mayɛ wɔn kwan (metew wɔn ma)"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "akonnwini"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "na wɔnantew"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "wɔn amamtwɛeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:13.685508320Z",
+  "model": "glm-5.3"
+}

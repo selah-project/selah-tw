@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Monhwɛ, wayɛ bɔne awodeɛ; wanya amanehunu, na wawoo nkontompo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Monhwɛ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "wayɛ awodeɛ"
+    },
+    {
+      "surface": "און",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "wanya (ayɛ nyinsɛn)"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "amanehunu"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "na wawoo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nkontompo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:06.671474959Z",
+  "model": "glm-5.3"
+}

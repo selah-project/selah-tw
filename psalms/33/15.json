@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Ɔno na ɔyɛɛ wɔn akoma nyinaa, ɔte ase wɔn nnwuma nyinaa ho.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Ɔno na ɔyɛɛ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "ɔte ase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "wɔn nnwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:22.068947994Z",
+  "model": "glm-5.3"
+}

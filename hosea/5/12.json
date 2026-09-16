@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na me deɛ, mese ɔkɔne nso Efrayim, na mese apoo nso Yehuda fie.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me deɛ"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "mese ɔkɔne"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "na mese apoo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-16T01:04:40.841196475Z",
+  "model": "glm-5.3"
+}

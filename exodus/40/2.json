@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Bosome a ɛdi kan no mu, wɔ ne da a ɛdi kan no so, wo bɛsi ⟨את⟩ mihyɛn — Nhyiam Tɛnt — no annwuma.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ne da … so"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bosome no"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "a ɛdi kan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "wɔ da a ɛdi kan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wɔ bosome no mu"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "wo bɛsi … annwuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mihyɛn — Nhyiam Tɛnt"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mihyɛn"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tɛnt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:59.707784310Z",
+  "model": "glm-5.3"
+}

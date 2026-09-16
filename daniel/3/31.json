@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "daniel 3:31",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Nebukadnesar, ɔhene no, na ɔkyerɛw kɔmaa amanfoɔ, amanman ne kasahorow nyinaa a wɔte asase so nyinaa sɛ: Asomdwoeɛ nka mo, na ɛdɔɔso.",
+  "tokens": [
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "amanman"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "ne kasahorow"
+    },
+    {
+      "surface": "די",
+      "gloss": "a"
+    },
+    {
+      "surface": "דארין",
+      "gloss": "wɔte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "שלמכון",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "ישגא",
+      "gloss": "nka mo na ɛdɔɔso"
+    }
+  ],
+  "timestamp": "2026-09-16T04:06:30.896327372Z",
+  "model": "glm-5.3"
+}

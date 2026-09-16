@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ɔnhia obiara a ɔbɛto hesed ama no, na ɔnhia obiara a ɔbɛhu no mmɔbɔ wɔ ne nkɔmmɔfoɔ ho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mmɔ (ɔpɛ bɔne)"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nhia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "משך",
+      "gloss": "a ɔbɛto ama"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mmɔ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nhia"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "a ɔbɛhu no mmɔbɔ"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ne nkɔmmɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:51.979312019Z",
+  "model": "glm-5.3"
+}

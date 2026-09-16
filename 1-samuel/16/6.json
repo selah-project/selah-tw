@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Ɛbaa sɛ wɔrebɛba no, na ɔhunuu ⟨את⟩ Elyab, na ɔkaa: \"Ampa sɛ, wɔ Yawe anim na ne Mashíaj no wɔ.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "wɔrebɛba"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na ɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elyab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Ampa sɛ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ne Mashíaj no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:18:03.232958346Z",
+  "model": "glm-5.3"
+}

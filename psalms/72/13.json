@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Ɔhunu mmɔborɔ wɔ ⟨ɔ⟩ dɔnkorofoɔ ne ⟨ɔ⟩ ahiafoɔ so, na ɔbɛgya abiafoɔ nkwa.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "hunu mmɔborɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dɔnkorofoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ne ahiafoɔ"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "na ... nkwa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "abiafoɔ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "bɛgya"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:03.171670881Z",
+  "model": "glm-5.3"
+}

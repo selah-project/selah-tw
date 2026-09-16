@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Afei David de nsɛm sɔɔ ⟨את⟩ n'asɛmfua so, na ɔamma wɔn ho kwan sɛ wɔbɛsɔre atia Saul; na Saul sɔree firi abura no mu, na ɔfaa ɔkwan no so kɔɔ.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "sɔɔ so"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'asɛmfua"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "n'asɛmfua"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "de nsɛm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔamma"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "wɔn ho kwan"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "sɛ wɔbɛsɔre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Saul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "firi abura no mu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ɔkɔɔ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "faa ɔkwan no so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:57:44.705737459Z",
+  "model": "glm-5.3"
+}

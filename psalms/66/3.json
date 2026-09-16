@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Monka kyerɛ Eloohim se: \"Nneɛma a wayɛ no yɛ ntiawu kɛseɛ sɛn! W'ahoɔden kɛseɛ no mu na w'atamfoɔ bɛdan wo ho.\"",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Monka kyerɛ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ntiawu kɛseɛ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nneɛma a wayɛ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "w'ahoɔden kɛseɛ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bɛdan wo ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "w'atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:11.038902983Z",
+  "model": "glm-5.3"
+}

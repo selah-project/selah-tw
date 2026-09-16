@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ɛfiri sɛ wo na wonya me botan ne me banbɔ fie; ɛno nti, wo din nti, kyerɛ me kwan, na di me anim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "me botan"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ne me banbɔ fie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo na wonya"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ɛno nti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din nti"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "kyerɛ me kwan"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "na di me anim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:40.739107689Z",
+  "model": "glm-5.3"
+}

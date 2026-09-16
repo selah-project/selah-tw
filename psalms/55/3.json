@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Bɔ w'aso hyɛ me so na bua me; metu-mmana wɔ me su-sɛm mu, na merebubu.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Bɔ w'aso hyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "na bua me"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "metu-mmana"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "wɔ me su-sɛm mu"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "na merebubu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:25.565953019Z",
+  "model": "glm-5.3"
+}

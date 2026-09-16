@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Hue me, Yawe, ɛfiri sɛ ɔhaw esiane me so; m'ani adwodwo wɔ awerɛhoɔ mu, me npɛsoɔ ne me yam nso.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Hue me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɔhaw esiane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "adwodwo"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "wɔ awerɛhoɔ mu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me npɛsoɔ"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ne me yam nso"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:58.871209662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "N'ano ma nsɔrɔne, ayɛsɛm ne atrabɔ; n'akyeɛ aseɛ wɔ amaneɛ ne abɔne.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "nsɔrɔne"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "n'ano"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ma\/pɛ"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ayɛsɛm"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "atrabɔ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "n'akyeɛ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "amaneɛ"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "abɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:17.042505807Z",
+  "model": "glm-5.3"
+}

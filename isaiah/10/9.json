@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Anaasɛ Kalno nnyɛ te sɛ Karkemish? Anaasɛ Hamat nnyɛ te sɛ Arpad? Anaasɛ Shomeron nnyɛ te sɛ Damasek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "te sɛ Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "te sɛ Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "te sɛ Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:22.261909707Z",
+  "model": "glm-5.3"
+}

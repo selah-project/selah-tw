@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Woyɛ papa, na wode papa yɛ ade; kyerɛ me wo ahyɛdeɛ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "na wode papa yɛ ade"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kyerɛ me"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "wo ahyɛdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:05.720072390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Wɔsomaa ogya kɔɔ wo asɔredan mu, wɔde baa aseɛ; wɔpopɛɛ wo Din no fidie.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "wɔsomaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "kɔɔ wo asɔredan mu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "wɔpopɛɛ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "fidie"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo Din no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:08.190357032Z",
+  "model": "glm-5.3"
+}

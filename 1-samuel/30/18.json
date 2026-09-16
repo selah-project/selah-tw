@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na Dawid gyee ⟨את⟩ deɛ Amalekfoɔ faeɛ nyinaa; ne yere mmienu nso, Dawid gyee ⟨את⟩ wɔn.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "gyee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Amalekfoɔ faeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "faeɛ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne yere mmienu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gyee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:36.280190635Z",
+  "model": "glm-5.3"
+}

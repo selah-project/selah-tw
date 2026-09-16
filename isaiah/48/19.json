@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Na wo nkwadaa anwo sɛ anwea, na wo yafunu mu nkwadaa no asɛn sɛ ne anwea nsɛntitiriw; ne din anntwa, na wɔansɛe no wɔ me anim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na...anwo"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "sɛ anwea"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nkwadaa"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "na wo...nkwadaa"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "wo yafunu mu"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "asɛn sɛ ne nsɛntitiriw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann-"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "twa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔan-"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "sɛe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "wɔ me anim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:20.853624142Z",
+  "model": "glm-5.3"
+}

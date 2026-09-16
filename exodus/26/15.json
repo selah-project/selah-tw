@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na wubɛyɛ ⟨את⟩ ponodua no ama atenaeɛ no: sitia nnua, a ɛgyina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wubɛyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ponodua no"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ponodua no"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ama atenaeɛ no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "a ɛgyina"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:27.827348221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ɛnnɛ, ɛnnora, ɛnyɛ Yawe anim; na Ɔtwatwa wɔn ka firi asase so.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "na ɔtwatwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase so"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "wɔn ka"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:41.878686457Z",
+  "model": "glm-5.3"
+}

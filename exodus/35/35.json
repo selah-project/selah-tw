@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 35:35",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Wɔde akoma mu nyansa ahyɛ ⟨אתם⟩ wɔn ma, sɛ wɔnyɛ mfomaa adwuma biara — twatwafoɔ, mfoniniyɛfoɔ, ne ntoma-hyɛnnifoɔ wɔ kɔkɔɔ-birisi mu, wɔ braguan mu, wɔ tolɛtolɛ kɔkɔɔ mu, ne wɔ fataa ntoma mu, ne ntoma-hyɛfoɔ — wɔn a wɔyɛ adwuma biara, ne wɔn a wɔyɛ mfonini dwuma.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Wɔde...ahyɛ ma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wɔn (nyansa ahyɛ wɔn)"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma mu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ wɔnyɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mfomaa adwuma"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "twatwafoɔ"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "mfoniniyɛfoɔ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ntoma-hyɛnnifoɔ"
+    },
+    {
+      "surface": "בתכלת",
+      "gloss": "wɔ kɔkɔɔ-birisi mu"
+    },
+    {
+      "surface": "ובארגמן",
+      "gloss": "wɔ braguan mu"
+    },
+    {
+      "surface": "בתולעת",
+      "gloss": "wɔ tolɛtolɛ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kɔkɔɔ mu"
+    },
+    {
+      "surface": "ובשש",
+      "gloss": "ne wɔ fataa ntoma mu"
+    },
+    {
+      "surface": "וארג",
+      "gloss": "ne ntoma-hyɛfoɔ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wɔn a wɔyɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "adwuma biara"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "וחשבי",
+      "gloss": "ne wɔn a wɔyɛ mfonini dwuma"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mfonini"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:45.521970570Z",
+  "model": "glm-5.3"
+}

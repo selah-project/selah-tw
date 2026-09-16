@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yawe senkaa ne ho wɔ ⟨nsɛm yi⟩ ho; “Ɛrennyɛ”, Yawe no kaa sɛ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "senkaa ne ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nsɛm yi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ɛrenn"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:12:27.186634990Z",
+  "model": "glm-5.3"
+}

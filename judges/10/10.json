@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Israel mma no teɛw frɛɛ Yawe se: Yɛbɔowoo wo; ɛfiri sɛ yɛagyae ⟨את⟩ yɛn Eloohim no adwuma, na yɛasom ⟨את⟩ Baalim no.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "teɛw frɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "yɛbɔowoo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "yɛagyae … adwuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn Eloohim no"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "na yɛasom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim no"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:39:58.118716113Z",
+  "model": "glm-5.3"
+}

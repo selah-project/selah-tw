@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Sɛ́ Yisraɛl yɛ abɔfra nti, medɔɔ no, na firii Misraim mu frɛɛ me ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ́"
+    },
+    {
+      "surface": "נער",
+      "gloss": "abɔfra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "medɔɔ no"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "na firii Misraim mu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mefrɛɛ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "me ba"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:30.114559538Z",
+  "model": "glm-5.3"
+}

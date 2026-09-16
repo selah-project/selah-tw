@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "N'abɔboa ntoma bɛbata wo ho, na ne ntaban ase wobɛdwodwo — n'ahotɔ ne wo kyiniɛ ne wo kyɛɛ.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "N'abɔboa ntoma"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "bɛbata wo ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na ... ase"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ne ntaban"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "wobɛdwodwo"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kyiniɛ"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ne wo kyɛɛ"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "n'ahotɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:11.817982153Z",
+  "model": "glm-5.3"
+}

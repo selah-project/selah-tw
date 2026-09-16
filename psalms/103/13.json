@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Sɛnea ɔtee hwɛ ne mma so na, Yawe hwɛ wɔn a wɔsuro no so sɛnea ɔtee hwɛ.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Sɛnea ɔtee hwɛ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ɔtee"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "hwɛ so sɛnea ɔtee hwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wɔn a wɔsuro no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:32.401262499Z",
+  "model": "glm-5.3"
+}

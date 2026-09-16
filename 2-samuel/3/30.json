@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yoab ne ne nua Abishai kum Abner, ɛfiri sɛ ɔkum ⟨את⟩ wɔn nua Asahel wɔ Gibeon, wɔ ɔko mu.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "ne ne nua Abishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kum"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "המית",
+      "gloss": "ɔkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nua Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "wɔn nua"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "wɔ Gibeon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "wɔ ɔko mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:02:26.054123104Z",
+  "model": "glm-5.3"
+}

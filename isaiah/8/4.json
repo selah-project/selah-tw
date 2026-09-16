@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɛgentɛm ansa na abarimaa no bɛhunu sɛ ɔfrɛ 'm'agya' ne 'm'ama' ansa, no bɛfa ⟨את⟩ Damasek ahonya ne ⟨את⟩ Shomron ɔkyɛe afiri hɔ akɔ Asuria ɔhene anim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛgentɛm"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ansa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abarimaa no"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "m'ama"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bɛfa afiri hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damasek ahonya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahonya"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomron ɔkyɛe"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ɔkyɛe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asuria"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:52.623207642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɛbɛba wɔ da no mu no, sɛ mebɛbɔ Yisraɛl fononoo wɔ Yizreɛlam mu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "mebɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fononoo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "fononoo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreɛlam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:03:33.360109468Z",
+  "model": "glm-5.3"
+}

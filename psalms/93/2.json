@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 93,
+  "translation": "Wo ahennwa no sɛde ɛgyina hɔ firi tete; firi afeɔnoeɛ no, Wo na Wowɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "sɛde ɛgyina hɔ (asisin)"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "Wo ahennwa"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "firi tete"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "firi afeɔnoeɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:58.311849749Z",
+  "model": "glm-5.3"
+}

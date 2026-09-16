@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wo bɛfa ⟨את⟩ ngo a wɔde srae no, na wode abubu ne tirim, na wo bɛsra no.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Na wo bɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngo a wɔde srae no"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a wɔde srae"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "na wode abubu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne tirim"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na wo bɛsra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Aharon)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:42.816865932Z",
+  "model": "glm-5.3"
+}

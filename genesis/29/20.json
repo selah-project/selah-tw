@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yakob somɔɔ mfeɛ nson wɔ ⟨את⟩ Rahel ho, na wɔ nnwee sɛ nna bi kakra wɔ n'ani so, ɛfiri sɛ ɔdɔɔ ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "somɔɔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "wɔ Rahel ho"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na wɔ yɛɛ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wɔ n'ani so"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "sɛ nna"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "bi kakra"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ɛfiri sɛ ɔdɔɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (Rahel)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:30.816297139Z",
+  "model": "glm-5.3"
+}

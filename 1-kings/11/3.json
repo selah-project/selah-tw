@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɔwɔ mmea, ahemaa ɔha nson, ne anodɔm ɔha mmiɛnsa; na ne mmea no danee ⟨את⟩ ne akoma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mmea"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "ahemaa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ne anodɔm"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "danee"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ne mmea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne akoma"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne akoma"
+    }
+  ],
+  "timestamp": "2026-09-15T23:19:52.405486005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "W'anosɛeɛ so na wɔdwanee; wo mframa pete nne so na wɔde ho haree.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "so"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "W'anosɛeɛ"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "wɔdwanee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "so"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "wo mframa pete"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "wɔde ho haree"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:47.876005081Z",
+  "model": "glm-5.3"
+}

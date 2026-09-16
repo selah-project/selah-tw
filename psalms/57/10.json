@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "Mɛda mo ase wɔ amanmuasoɔ, Adonai; mɛbɔ wo nnwom wɔ aman no mu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "mɛda wo ase"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "wɔ amanmuasoɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "mɛbɔ wo nnwom"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "aman no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:29.492531195Z",
+  "model": "glm-5.3"
+}

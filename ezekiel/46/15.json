@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Na wɔbɛyɛ ⟨את⟩ ɔbara no, ⟨את⟩ aduan afɔdeɛ no, ne ⟨את⟩ ngo no, anɔpa biara, anɔpa biara; ɔhyew afɔdeɛ a ɛkɔ so daa.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "wɔbɛyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbara"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ɔbara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "aduan afɔdeɛ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "aduan afɔdeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ngo"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa biara"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa biara"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ɔhyew afɔdeɛ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a ɛkɔ so daa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:02:38.690624116Z",
+  "model": "glm-5.3"
+}

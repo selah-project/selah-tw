@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 114,
+  "translation": "Ɛdeɛn na ɛwɔ wo so, ɛpo, sɛ wodwane? Yarden, sɛ wode w'ani abɔ akyire?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ɛdeɛn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na ɛwɔ wo so"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "wodwane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "wode w'ani abɔ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "akyire"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:44.294635867Z",
+  "model": "glm-5.3"
+}

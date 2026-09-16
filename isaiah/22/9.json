@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na moahunu ⟨את⟩ David kurow mpɛtɛhyɛ, ɛfiri sɛ ɛdɔɔso; na moaboaboa ⟨את⟩ asutsɛɛ a ɛwɔ fam no nsuo ano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "David kurow mpɛtɛhyɛ"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "mpɛtɛhyɛ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "moahunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ɛdɔɔso"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "moaboaboa ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsuo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "asutsɛɛ"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "a ɛwɔ fam"
+    }
+  ],
+  "timestamp": "2026-09-15T23:47:38.715304687Z",
+  "model": "glm-5.3"
+}

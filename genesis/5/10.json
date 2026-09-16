@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Enosh tena ase wɔ ne ⟨את⟩ Kenan woo akyi mfeɛ ahanwɔtwe ne dunum, na ɔwoo mma mmarima ne mmaa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tena ase"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ne ... woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ne ahanwɔtwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha nwɔtwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mmaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:49.501739299Z",
+  "model": "glm-5.3"
+}

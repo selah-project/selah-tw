@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na monhwɛ ⟨את⟩ m'ahyɛde so na moyɛ ⟨אתם⟩ no; me ne Yawe a mehyɛ mo ho kronkron.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "na monhwɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'ahyɛde"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "m'ahyɛde"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na moyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "m'ahyɛde no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "a mehyɛ mo ho kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:17.930648203Z",
+  "model": "glm-5.3"
+}

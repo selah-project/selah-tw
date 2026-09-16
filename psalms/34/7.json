@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Obuguo yi frɛɛ, na Yawe tee, na ɔgyee no firi n'ahunahunsɛm nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "Obuguo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "firi ... nyinaa"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "n'ahunahunsɛm"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "ɔgyee no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:30.377855876Z",
+  "model": "glm-5.3"
+}

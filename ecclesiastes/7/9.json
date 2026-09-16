@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Nnwom ma wo honhom nntɛm sɛ wobɛbo afunu, ɛfiri sɛ abufuo tena nkwaseafuo akonini mu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ma ... nntɛm"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "wo honhom mu"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "sɛ wobɛbo afunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "akonini mu"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nkwaseafuo"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "tena"
+    }
+  ],
+  "timestamp": "2026-09-16T05:50:25.586455476Z",
+  "model": "glm-5.3"
+}

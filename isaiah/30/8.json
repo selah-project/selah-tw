@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Seisei, bra, twerɛ no wɔ ⟨the⟩ asɛnsoa so ⟨אתם⟩ wɔn anim, na hyɛ no nwoma mu; na ɛbɛyɛ ɛda a ɛdi akyire no de, dabiara, kɔ daa.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Seisei"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bra"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "twerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "asɛnsoa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wɔn anim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ … mu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "hyɛ (nkyerɛwee mu)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ɛda … no"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "a ɛdi akyire"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "dabiara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:57.267719561Z",
+  "model": "glm-5.3"
+}

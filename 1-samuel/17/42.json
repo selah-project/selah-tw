@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Philistine no hwɛɛ, na ohuu ⟨את⟩ Dawid, na ɔpow no, ɛfiri sɛ na ɔyɛ abɔfra-barima, na kɔkɔɔ wɔ honam mu, na ɔyɛ fɛ wɔ anisoɛ mu.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "hwɛɛ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Philistine no"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ohuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ɔpow no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "abɔfra-barima"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "kɔkɔɔ wɔ honam mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "wɔ anisoɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:27.329294261Z",
+  "model": "glm-5.3"
+}

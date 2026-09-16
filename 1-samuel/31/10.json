@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Wode ⟨את⟩ ne nneɛma siiɛ wɔ Ashtarot fie mu, na wode ⟨את⟩ ne ho twee hyɛɛ Beti-Shan mfom.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Wo... siiɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nneɛma"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nneɛma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ho"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "twee hyɛɛ"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "wɔ mfom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:30.378609833Z",
+  "model": "glm-5.3"
+}

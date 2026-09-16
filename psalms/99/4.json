@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 99,
+  "translation": "Na ɔhene a ɔdɔ atemmu no ahoɔden — woahyɛ pɛpɛɛpɛ; atemmu ne dwuma a ɔdi wɔ Yakob mu, woayɛ.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "na ... ahoɔden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ɔdɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "woahyɛ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pɛpɛɛpɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ne dwuma a ɔdi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "wɔ Yakob mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "woayɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:25.064883176Z",
+  "model": "glm-5.3"
+}

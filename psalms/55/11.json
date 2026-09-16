@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Da ne anadwo wɔtetwa ho wɔ n'abooben so, na bɔne ne amanehunu wɔ ne mu.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "da"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ne anadwo"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "wɔtetwa ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "n'abooben"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "na bɔne"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ne amanehunu"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "wɔ ne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:32.802566509Z",
+  "model": "glm-5.3"
+}

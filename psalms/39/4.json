@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Me akoma hyeɛ wɔ me mu; bere a mete adehoahoa no, ogya hyee; na me kasa de me kasa dii dwuma:",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "hyeɛ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Me akoma"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "wɔ me mu"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "bere a mete adehoahoa no"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "hyee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na me kasa ... dii dwuma"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "de me kasa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:55.215000128Z",
+  "model": "glm-5.3"
+}

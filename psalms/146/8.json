@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Yawe bue annwumafoɔ ani; Yawe sɔ wɔn a wɔatew wɔn ase; Yawe dɔ atreetirefoɔ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "bue ... ani"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "annwumafoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "sɔ ... den"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "wɔn a wɔatew wɔn ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atreetirefoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:27.338061565Z",
+  "model": "glm-5.3"
+}

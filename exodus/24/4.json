@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na Mosheh twerɛɛ ⟨את⟩ Yawe nsɛm no nyinaa; anɔpa nnɔɔso ɔsɔre sii ogyaadan wɔ bepɔ no ase, ne abansoro dumienu, Israel mmusua dumienu de.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "twerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nsɛm no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "anɔpa nnɔɔso ɔsɔre"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "sii"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ogyadan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wɔ ... ase"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ne ... dumienu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "abansoro"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ma ... dumienu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mmusua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T20:55:43.866731371Z",
+  "model": "glm-5.3"
+}

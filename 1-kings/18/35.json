@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Nsuo no tenee asɔredan no ho hyiaeɛ, na ɔmaa ⟨את⟩ tokuro no hyɛɛ nsuo ma.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "tenee"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Nsuo no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho hyiaeɛ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "asɔredan no ho"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokuro no"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "tokuro no"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hyɛɛ ma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:34.928200980Z",
+  "model": "glm-5.3"
+}

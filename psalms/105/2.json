@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "To mo nnwom maa no, bɔ mo nnwom maa no, ka ne nneyɛeɛ a ɛyɛ nwonwa nyinaa ho asɛm.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "to (mo) nnwom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bɔ (mo) nnwom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ka ho asɛm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ne nneyɛeɛ a ɛyɛ nwonwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:57.055461789Z",
+  "model": "glm-5.3"
+}

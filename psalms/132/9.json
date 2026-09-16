@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "W'akɔmfoɔ nhyɛ atrentrie, na w'ahyɛfoɔ mmɔ anigyeɛ nnwom.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "w'akɔmfoɔ"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "nhyɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atrentrie"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "na w'ahyɛfoɔ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mmɔ anigyeɛ nnwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:24.213922944Z",
+  "model": "glm-5.3"
+}

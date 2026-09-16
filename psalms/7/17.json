@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ne bɔne bɛsan akɔ n'atifi so, na ne basabasa bɛsiane ne atipɛn so.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bɛsan akɔ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "n'atifi so"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ... so"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "ne atipɛn"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ne basabasa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bɛsiane"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:02.580208400Z",
+  "model": "glm-5.3"
+}

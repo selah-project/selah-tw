@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Atrenefoɔ anom bɛda nyansa adi, na n'akye bɛka atemmu.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "anom"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Atrenefoɔ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "bɛda ... adi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "na n'akye"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:29.393908179Z",
+  "model": "glm-5.3"
+}

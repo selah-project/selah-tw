@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Me nan gyina faako a ɛtraa; wɔ nhyiam ahodoɔ mu na mehyira Yawe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Me nan"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "faako a ɛtraa"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "wɔ nhyiam ahodoɔ mu"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "mehyira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:30.855546837Z",
+  "model": "glm-5.3"
+}

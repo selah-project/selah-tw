@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wɔbɛbubu ⟨את⟩ fie no, ⟨את⟩ n'aboa, ne ⟨את⟩ n'nnua, ne ⟨את⟩ fie no mfutim nyinaa, na wɔde begu kurow no akyi, baabi a ɛyɛ afi.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "wɔbɛbubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'aboa"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "n'aboa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'nnua"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "n'nnua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "mfutim no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mfutim"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "na wɔde begu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "a ɛyɛ afi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:15:54.040250891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Neye nokware wo, Yawe, na wo atemmuo atea.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "onye nokware"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "atea"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "wo atemmuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:20.538368271Z",
+  "model": "glm-5.3"
+}

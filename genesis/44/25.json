@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Na yɛn agya kaa sɛ: Monsan nkɔ, montɔ aduane ketewa bi ma yɛn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "yɛn agya"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "monsan nkɔ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "montɔ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ma yɛn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ketewa bi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:47.001649412Z",
+  "model": "glm-5.3"
+}

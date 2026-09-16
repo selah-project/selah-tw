@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Yɛn nsɛnkyerɛnne no, yɛannhunu; ɔgye nni hɔ bio, na obi a ɔte ⟨את⟩ yɛn mu a ɔnim berɛ bɛn nni hɔ.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "yɛn nsɛnkyerɛnne no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yɛannhunu"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "yɛannhunu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ɔgye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn mu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ɔnim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:32.370899423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Na wɔde wɔn awerɛhyɛm to Eloohim so, na wɔrenkae El nnyɛyɛeɛ, na wɔbɛhwɛ ne mmara so",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "wɔde...to"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim so"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "wɔn awerɛhyɛm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔren"
+    },
+    {
+      "surface": "ישכחu",
+      "gloss": "nkae"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "nnyɛyɛeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "na ne mmara"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "wɔbɛhwɛ...so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:20.106597045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Sɛnea wɔn te no, saa na wɔn a wɔyɛɛ wɔn no bɛyɛ; ne obiara a ɔde ne ho to wɔn so.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Sɛnea wɔn te"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saa na ... bɛyɛ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "wɔn a wɔyɛɛ wɔn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ɔde ne ho to wɔn so"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:39.514437144Z",
+  "model": "glm-5.3"
+}

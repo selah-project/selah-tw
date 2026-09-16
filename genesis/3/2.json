@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔbaa no kaa kyerɛɛ sɔrefua no sɛ: yɛdi dua a ɛwɔ ahwɛfore no mu no aba.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "sɔrefua no"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dua … no"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ahwɛfore no"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yɛdi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:16.172561207Z",
+  "model": "glm-5.3"
+}

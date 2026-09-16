@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "N'aduane no, mɛhyira no ⟨nokorɛ⟩; n'ahiafoɔ no, mɛma wɔakɔ ho ⟨duane⟩.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "N'aduane no"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "mɛhyira no"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "n'ahiafoɔ no"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "mɛma wɔakɔ ho"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duane"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:22.485656950Z",
+  "model": "glm-5.3"
+}

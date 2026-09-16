@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɔhene Shelomah dɔɔ mmea ahɔhoɔ bebree, ne ⟨את⟩ Paroh ba, Mowab mmea, Amon mmea, Edom mmea, Tsidon mmea, ne Chith mmea.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na ɔhene"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dɔɔ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mmea"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bebree"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh ba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Mowab mmea"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amon mmea"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edom mmea"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidon mmea"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Chith mmea"
+    }
+  ],
+  "timestamp": "2026-09-15T23:19:52.405022917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Yɛn Adonai kɛseɛ, na ɔwɔ ahoɔden pii; ne nimdee nni ano-hyeɛ.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "yɛn Adonai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na ɔdɔɔso"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ne nimdee"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ano-hyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:55.977449298Z",
+  "model": "glm-5.3"
+}

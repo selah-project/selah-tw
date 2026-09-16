@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ɛndee ne sum coffee no nyɛ no so; ɛnni anopa wɔ ne so; nsum nwɔ ne so; werɛho da no mpa no kyɛw.",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "nyɛ no so"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ɛndee"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ne sum kɛseɛ (owuo sum)"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "ɛnni anopa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wɔ ne so"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "nsum"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "mpa no kyɛw"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "werɛho da"
+    },
+    {
+      "surface": "יום",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:09:54.964324855Z",
+  "model": "glm-5.3"
+}

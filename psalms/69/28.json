@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Fa bɔne ka wɔn bɔne ho, na wɔmmra wo nokwaredie mu.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Fa ... ka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "wɔn bɔne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ... mm"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "mmra"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "wo nokwaredie mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:48.837533692Z",
+  "model": "glm-5.3"
+}

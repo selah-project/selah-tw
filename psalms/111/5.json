@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 111,
+  "translation": "Aduane na ɔde maa wɔn a wɔsuro no; ne apam na ɔkae kɔ so daa.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "Aduane"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔde maa"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wɔn a wɔsuro no"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ɔkae"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ so daa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:50.817164750Z",
+  "model": "glm-5.3"
+}

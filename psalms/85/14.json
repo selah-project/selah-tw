@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Atɛntrenee bɛdi ne anim wɔ ɔkwan so, na ɛbɛyɛ ne nananom ɔkwan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Atɛntrenee"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "bɛdi ne anim"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "bɛtow akɔwan so"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ne nananom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:45.403269597Z",
+  "model": "glm-5.3"
+}

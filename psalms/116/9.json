@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Mɛnam wɔ Yawe animoɔ mu, wɔ asase a nkwa wɔ mu no mu.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Mɛnam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... animoɔ mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "wɔ asase ... mu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "a nkwa wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:58.427736534Z",
+  "model": "glm-5.3"
+}

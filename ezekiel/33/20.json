@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na mo bɛka sɛ: \"Adonai kwan no nnyɛ pɛ.\" Obiara ne kwan so na mɛbu ⟨את⟩ mo atɛn, Israelfie.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "na mo bɛka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ne kwan so"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "mɛbu ... atɛn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T00:52:08.728917997Z",
+  "model": "glm-5.3"
+}

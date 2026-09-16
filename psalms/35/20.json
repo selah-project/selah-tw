@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Ɛfiri sɛ wɔnkasa asomdwoeɛ; wɔde atoro nsɛm dwene sɛ wɔbɛto asase so tenadafoɔ no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wɔnkasa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "wɔde ... sɛ wɔbɛto ... ho"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "tenadafoɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "atoro"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "wɔdwene"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:52.030500934Z",
+  "model": "glm-5.3"
+}

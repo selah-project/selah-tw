@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na monkan mo nkosoɔ firi Sabat no akyi da, firi ɛda a mobɛbɔ ⟨את⟩ omer a wɔaturuturu no; Sabat nnɔnsɔn na ɛbɛyɛ pɛyɛ.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "monkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo nkosoɔ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "firi ... akyi da"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "firi ɛda"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "mobɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "a wɔaturuturu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nnɔnsɔn"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "pɛyɛ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ɛbɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:14.243426475Z",
+  "model": "glm-5.3"
+}

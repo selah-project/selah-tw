@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Edefoɔ na ɛyɛ den wɔ Yawe ani so, ne akwampafoɔ a wɔwɔ hesed no awuo.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ɛyɛ den, edefoɔ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... ani so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "awuo"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ne akwampafoɔ a wɔwɔ hesed no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:18.558853801Z",
+  "model": "glm-5.3"
+}

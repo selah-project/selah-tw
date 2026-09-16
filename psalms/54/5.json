@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 54,
+  "translation": "Amanonamfoɔ asɔre atia me, na wɔn a wɔyɛ den ahwehwɛ me nkwa; wɔammfa Eloohim asie wɔn anim. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(ɛfiri sɛ)"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "amanonamfoɔ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "asɔre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atia me"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "na wɔn a wɔyɛ den"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ahwehwɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔan-"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:40.807310068Z",
+  "model": "glm-5.3"
+}

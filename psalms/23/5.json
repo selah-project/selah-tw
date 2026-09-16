@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wo hyehyɛ aduanepono wɔ m'anim, m'atamfoɔ nnyinaa anim; Wo de ngo esiee m'atiri; me kuruwa hyɛ ⟨ma⟩.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Wo hyehyɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ m'anim"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "aduanepono"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "anim"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "m'atamfoɔ nnyinaa"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "Wo esiee"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "m'atiri"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "me kuruwa"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "hyɛ ma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:21.247335657Z",
+  "model": "glm-5.3"
+}

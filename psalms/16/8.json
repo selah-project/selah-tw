@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Mahwɛ Yawe so daa wɔ m'anim; ɛfiri sɛ ɔno na ɔwɔ me nsa nifa so, mrenka da.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Mahwɛ ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "wɔ m'anim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "me nsa nifa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mrenka"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:20.507480940Z",
+  "model": "glm-5.3"
+}

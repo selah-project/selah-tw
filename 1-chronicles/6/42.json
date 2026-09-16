@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔde maa Aharon mma no ⟨את⟩ nkuro a wɔtetew wɔn ho sɛ ahɔho tenabea — ⟨את⟩ Chebron, ⟨את⟩ Libna ne ⟨את⟩ ne abɔnten so asase, ⟨את⟩ Yattir ne ⟨את⟩ Eshtemoa ne ⟨את⟩ ne abɔnten so asase.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Na ... mma no"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "wɔde maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkuro"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "a wɔtetew wɔn ho sɛ ahɔho tenabea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne abɔnten so asase"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne abɔnten so asase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne abɔnten so asase"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne abɔnten so asase"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:58.160062224Z",
+  "model": "glm-5.3"
+}

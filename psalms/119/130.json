@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo nsɛm no mu bue na ɛhyerɛn, ɛma wɔn a wɔyɛ nsɛm-mmerɛfoɔ no te aseɛ.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "mu bue"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "wo nsɛm no"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "hyerɛn"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ma ... te aseɛ"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "wɔn a wɔyɛ nsɛm-mmerɛfoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:04.014885478Z",
+  "model": "glm-5.3"
+}

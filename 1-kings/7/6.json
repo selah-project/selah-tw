@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ɔyɛɛ ⟨את⟩ ɔdan a ntwahoɔ wɔ mu no: ne tenten yɛ amma aduonum, na ne tɛtrɛtɛ yɛ amma aduasa; na ɔdan wɔ wɔn anim, na ntwahoɔ ne ɔpɛm nso wɔ wɔn anim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɔdan a ntwahoɔ wɔ mu"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ɔdan a ntwahoɔ wɔ mu"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ntwahoɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ne tɛtrɛtɛ"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "na ɔdan"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "ne ntwahoɔ"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "ne ɔpɛm"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wɔn anim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:15.736061057Z",
+  "model": "glm-5.3"
+}

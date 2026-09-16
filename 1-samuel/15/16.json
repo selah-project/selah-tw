@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Shemuël kaa kyerɛɛ Shaol sɛ: Gye to mu, na mɛka ⟨את⟩ deɛ Yawe kae kyerɛ me anadwo yi; na ɔkaa no sɛ: Ka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "gye to mu"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "na mɛka akyerɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yawe kae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kae"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛ me"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo yi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:54.761952701Z",
+  "model": "glm-5.3"
+}

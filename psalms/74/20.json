@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Hwɛ Wo apam no so; ɛfiri sɛ asase sum mmeaeɛ ayɛ ma basabasayɛ fie.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Hwɛ ... so"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "Wo apam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ayɛ ma"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "sum mmeaeɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "fie"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "basabasayɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:04.330668233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Nhyira nnε wo wɔ kuro mu, na nhyira nnε wo wɔ afuom.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira nnε"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ kuro mu"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "na nhyira nnε"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "wɔ afuom"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:26.375570649Z",
+  "model": "glm-5.3"
+}

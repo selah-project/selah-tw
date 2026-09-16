@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Wɔn nkamfo ⟨את⟩ Yawe din, ɛfiri sɛ ɔno na ɔhyɛɛ hyɛ, na wɔbɔeɛ.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "wɔn nkamfo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ɔhyɛɛ hyɛ"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "na wɔbɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:27.188002761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɔkanee wɔn wɔ Bezek; na Yisrael mma yɛɛ mpem ahasa (300,000), na Yuda mmarima nso mpem aduasa (30,000).",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Na ɔkanee wɔn"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "wɔ Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ahasa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mpem"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na ... mmarima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mpem"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:47.390055351Z",
+  "model": "glm-5.3"
+}

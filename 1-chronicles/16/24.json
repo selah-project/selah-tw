@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Monka ⟨את⟩ ne animuonyam ho asɛm wɔ amanaman mu; ne nwononwondeɛ nso wɔ aman nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "monka ... ho asɛm"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanaman mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne animuonyam"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ne animuonyam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ne nwononwondeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:30.930112035Z",
+  "model": "glm-5.3"
+}

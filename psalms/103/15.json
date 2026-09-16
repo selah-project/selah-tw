@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Onipa sɛ awia dua n'awia; sɛ afuo nhwiren, saa na ɔbɛhyerɛn.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Onipa (owu-dea)"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sɛ awia dua"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "n'awia"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "sɛ nhwiren"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "afuo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "na ɔbɛhyerɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:32.402133561Z",
+  "model": "glm-5.3"
+}

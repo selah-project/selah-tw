@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Wo bɛkasa ne no, na wo bɛfa ⟨את⟩ nsɛm no ahyɛ n'ano; na me deɛ, mɛba ne w'ano ne n'ano, na mɛkyerɛ ⟨את⟩ mo ⟨את⟩ deɛ mobɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "wo bɛkasa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne no"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "wo bɛfa ... ahyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm no"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm no"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "n'ano"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na me deɛ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mɛba ne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "w'ano"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "n'ano"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "mɛkyerɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Mose ne Aaron)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ mobɛyɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mobɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:09.146297508Z",
+  "model": "glm-5.3"
+}

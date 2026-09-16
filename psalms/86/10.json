@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Ɛfiri sɛ woyɛ kɛseɛ, na woyɛ nneɛma a ɛyɛ nwanwa; wo nko ara na woyɛ Eloohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "woyɛ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na woyɛ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "nneɛma a ɛyɛ nwanwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nko ara"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:27.585895043Z",
+  "model": "glm-5.3"
+}

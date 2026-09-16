@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ne ⟨את⟩ ne mma mmarima baanu, deɛ baako din de Gershom, ɛfiri sɛ ɔkaa sɛ, 'Ɔhɔhoɔ na meyɛɛ wɔ ɔman a ɛnyɛ me dea mu.'",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ne ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "baanu"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ne mma mmarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ɔhɔhoɔ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "meyɛɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ɔman mu"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "a ɛnyɛ me dea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:54.273103694Z",
+  "model": "glm-5.3"
+}

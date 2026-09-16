@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Onipa firi ase kɔ n'adwuma mu, ne ne nkosuo mu kɔsii anwummerɛ.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "firi ase kɔ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "n'adwuma mu"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ne ne nkosuo mu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anwummerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:17.252451514Z",
+  "model": "glm-5.3"
+}

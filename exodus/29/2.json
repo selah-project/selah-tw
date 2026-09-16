@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ne nkate a enni nguadi, ne nkate dadaa a enni nguadi a wɔde ngo abɔ mu, ne nkate nketewa a enni nguadi a wɔasra ngo so; wɔde aburoo a wɔayam na wɔbɛyɛ ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "ne nkate"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "a enni nguadi"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "ne nkate dadaa"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "a enni nguadi"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "a wɔde ngo abɔ mu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "ne nkate nketewa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "a enni nguadi"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "a wɔasra ngo so"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "aburoo a wɔayam"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "aburoo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no (nkate ne nkate nketewa)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:31.580407321Z",
+  "model": "glm-5.3"
+}

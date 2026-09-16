@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɛbɛyɛɛ sɛ, berɛ a ahemman no hyɛ den maa no no, ɔkum ⟨את⟩ n'anigyinafoɔ a wɔkoo ⟨את⟩ ɔhene no, ne papa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbɛyɛɛ sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hyɛ den"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ahemman no"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ɔkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'anigyinafoɔ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'anigyinafoɔ"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "a wɔkoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:05:39.780362840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na Esav dwanee kɔɔ n'akwanntia, na ɔdɔɔ no ase, na ɔtoɔ ne tirim ase, na ɔbobɔɔ no mmɔ, na wosuii.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "dwanee"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kɔɔ n'akwanntia"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "ɔdɔɔ no ase"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ɔtoɔ ... ase"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "ne tirim"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ɔbobɔɔ no mmɔ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "wosuii"
+    }
+  ],
+  "timestamp": "2026-09-15T20:30:29.771613264Z",
+  "model": "glm-5.3"
+}

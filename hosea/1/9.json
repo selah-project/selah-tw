@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɔkaa sɛ: Frɛ no din Lo-Ammi, ɛfiri sɛ mo nyɛ me nkurɔfoɔ, na mesua sɛ menyɛ mo dea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔkaa sɛ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Frɛ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "no din"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na mesua sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "menyɛ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "dea"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:01:21.955965074Z",
+  "model": "glm-5.3"
+}

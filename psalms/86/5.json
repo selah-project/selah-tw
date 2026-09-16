@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Efisɛ wo, Adonai, woyɛ ⟨the⟩ papa na wo bɔ fa, na wo hesed ⟨is⟩ dɔɔso ma ⟨the⟩ wɔn a wɔfrɛ wo nyinaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "na wo bɔ fa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na wo hesed dɔɔso"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma wɔn a wɔfrɛ wo nyinaa"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "wɔfrɛ wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:40.307580659Z",
+  "model": "glm-5.3"
+}

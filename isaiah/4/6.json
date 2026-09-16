@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɛbɛyɛ pra a ɛbɛkyɛn wɔ awia de awia hyew ho, na ɛbɛyɛ baabi a wɔsan kɔgyina, ne baabi a wɔde wɔn sie, firi mogyo mu ne osuo mu.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "pra"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "sɛde ɛbɛkyɛn"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "wɔ awia"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "firi awia hyew mu"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "baabi a wɔsan kɔgyina"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "baabi a wɔde wɔn sie"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "firi mogyo mu"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ne osuo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:30.480476620Z",
+  "model": "glm-5.3"
+}

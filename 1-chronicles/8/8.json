@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Shaharaim woo mma wɔ Moab asase so, berɛ a ɔsomaee ⟨את⟩ wɔn kɔeɛ — Hushim ne Baara, ne yerenom.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Shaharaim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo mma"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ɔsomaee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn (Hushim ne Baara)"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ne yerenom"
+    }
+  ],
+  "timestamp": "2026-09-16T04:39:15.370695987Z",
+  "model": "glm-5.3"
+}

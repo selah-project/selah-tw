@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Hɔ na ɔbɔe akofena ahyɛn no mmorɔ, akode ne akodaa ne ɔko mu. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Hɔ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ɔbɔe ... mmorɔ"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ahyɛn no mmorɔ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "akode"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ne akodaa"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ne ɔko mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:32.013653594Z",
+  "model": "glm-5.3"
+}

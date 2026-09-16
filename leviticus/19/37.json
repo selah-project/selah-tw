@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na moahunu ⟨את⟩ mmarahyɛ me nyinaa ne ⟨את⟩ atemmu me nyinaa, na moyɛ ⟨את⟩ no nyinaa; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "na moahunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmarahyɛ me nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mmarahyɛ me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atemmu me nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "atemmu me"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na moyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no nyinaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:32.495528276Z",
+  "model": "glm-5.3"
+}

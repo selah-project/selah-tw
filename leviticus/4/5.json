@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɔsɔfoɔ a wɔasra no no bɛfa mmɔneɛ no mu mogya bi, na ɛde ⟨את⟩ no bɛba mu akɔ ahemdan a wɔhyia wɔ hɔ no mu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bɛfa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "a wɔasra no"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "mu mogya"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mmɔneɛ no"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "na ɛde ... bɛba mu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahemdan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a wɔhyia wɔ hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:25.486645665Z",
+  "model": "glm-5.3"
+}

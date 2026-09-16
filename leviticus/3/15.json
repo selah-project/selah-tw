@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ne ⟨את⟩ akisikyire mmienu, ne ⟨את⟩ nsam a ɛwɔ so a ɛda nkyɛn so, ne ⟨את⟩ ntɔmmoɔ a ɛda akuma so — ɛnkyɛn akisikyire no so na ɔbɛyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "akisikyire mmienu (the two kidneys)"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akisikyire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nsam (the fat)"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ɛwɔ so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ntɔmmoɔ (the lobe)"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ntɔmmoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "akuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akisikyire no"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "na ɔbɛyi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:38.901638324Z",
+  "model": "glm-5.3"
+}

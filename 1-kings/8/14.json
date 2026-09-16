@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɔhene no danee ⟨את⟩ ne ani, na ɔhyiraa ⟨את⟩ Yisraelfoɔ nyinaa nhyiam; na Yisraelfoɔ no nyinaa nhyiam no gyina hɔ.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "danee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ani"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ne ani"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na ɔhyiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraelfoɔ nyinaa nhyiam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gyina hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:03.794562191Z",
+  "model": "glm-5.3"
+}

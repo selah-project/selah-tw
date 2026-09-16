@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Tamar, ne yere (nua ba yere), woo ⟨את⟩ Perets ne ⟨את⟩ Zerach maa no. Yuda mma nyinaa yɛ nnum.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Na Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ne yere (nua ba yere)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "woo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "nnum"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:24.942240657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɔmaa ⟨את⟩ nkurow a wɔasɔ hyɛ mu no den, de akannifoɔ ma wɔn mu, na mmoa aduone — aduane, ngo ne nsam.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ɔmaa no den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkurow a wɔasɔ hyɛ mu"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "nkurow a wɔasɔ hyɛ mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde maa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "na mmoa aduone"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "nsam"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:02.585165878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Abram yɛɛ ahonyaduru wɔ mmoa mu, wɔ dwetɛ mu ne sika kɔkɔɔ mu, ma ɛduruuiɛ.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yɛɛ ahonyaduru ma ɛduruuiɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ma ɛduruuiɛ"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "wɔ mmoa mu"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "wɔ dwetɛ mu"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "ne sika kɔkɔɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:40.738731479Z",
+  "model": "glm-5.3"
+}

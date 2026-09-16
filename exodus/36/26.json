@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Ne sika akoradɔn aduanan — akoradɔn mmienu na ɛda nkwansen baako ase, ne akoradɔn mmienu na ɛda nkwansen foforɔ baako ase.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "wɔn akoradɔn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "akoradɔn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "nkwansen no"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ne mmienu"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "akoradɔn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "nkwansen no"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako (foforɔ)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:06.478552250Z",
+  "model": "glm-5.3"
+}

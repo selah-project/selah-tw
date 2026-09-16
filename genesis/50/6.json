@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Paroh kaa sɛ: Kɔsɔ, na sie wo agya ⟨את⟩, sɛnea ɔhyɛɛ wo bɔ no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kɔsɔ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "na sie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo agya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ɔhyɛɛ wo bɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:38.825339791Z",
+  "model": "glm-5.3"
+}

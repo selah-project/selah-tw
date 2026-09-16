@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Yawe, wɔ wo abufuo mu nkasa tia me, na wɔ wo suminae mu nnhoa me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkasa tia (mmɔ)"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "wɔ wo abufuo mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "nkasa tia me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ... nnhoa (mmɔ)"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "wɔ wo suminae mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "nnhoa me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:43.798201330Z",
+  "model": "glm-5.3"
+}

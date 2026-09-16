@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Israel mma nyinaa yɛɛ sɛnea Yawe hyɛɛ Moshe ⟨את⟩ ne ⟨את⟩ Aharon; saa na wɔyɛɛ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "na wɔyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:37.407241956Z",
+  "model": "glm-5.3"
+}

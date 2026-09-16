@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ɔko mu ɔduruyɛfoɔ ne ɔko ni, ɔtemmufoɔ ne ɔdi-kan-nsɛm-foɔ, ɔkwan-bɔne-hwɛfoɔ ne mpanyimfoɔ.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ɔko mu ɔduruyɛfoɔ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ne ɔko ni"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ɔtemmufoɔ"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ne ɔdi-kan-nsɛm-foɔ"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ne ɔkwan-bɔne-hwɛfoɔ"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ne mpanyimfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:44.186998706Z",
+  "model": "glm-5.3"
+}

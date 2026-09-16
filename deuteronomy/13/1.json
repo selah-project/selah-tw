@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "⟨את⟩ Asɛm nyinaa a mehyɛ ⟨את⟩ mo sɛ monyɛ ⟨את⟩ no, monhwɛ so nyɛ; mo nsoa bio ho, na montew bi mfiri mu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "hyɛ so"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "monhwɛ so"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ monyɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mo nsoa"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "bio"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na montew"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "tew"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mfiri mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:19.854301397Z",
+  "model": "glm-5.3"
+}

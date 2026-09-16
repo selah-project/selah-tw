@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na Moshe yɛɛ ⟨את⟩ nea Yawe hyɛɛ no nyinaa; saa na ɔyɛɛ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na Moshe yɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nea ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:11.962029040Z",
+  "model": "glm-5.3"
+}

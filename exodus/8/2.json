@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Aaron tɔɔ ⟨את⟩ ne nsa so Misraim nsuo no so, na nsansan no sɔɔ, na ɛkataa ⟨את⟩ Misraim asase no so.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "tɔɔ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "sɔɔ"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "nsansan no"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "kataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim asase no"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:33.127753246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wubɛto aduane a ɛwɔ anim no pono no so, m'anim, daa.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "wubɛto"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pono no"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "anim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "m'anim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:46.398056568Z",
+  "model": "glm-5.3"
+}

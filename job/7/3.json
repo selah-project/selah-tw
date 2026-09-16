@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 7:3",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Saa ara na wɔde bosome a ano yɛ foo no ma me sɛ agyapadeɛ, na anadwo a ɛhaw adwene no, wɔkan kɔma me.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "wɔde ... ma me sɛ agyapadeɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ירחי",
+      "gloss": "bosome"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "a ano yɛ foo"
+    },
+    {
+      "surface": "ולילות",
+      "gloss": "na anadwo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "a ɛhaw adwene"
+    },
+    {
+      "surface": "מנו",
+      "gloss": "wɔkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kɔma me"
+    }
+  ],
+  "timestamp": "2026-09-16T03:12:28.653307443Z",
+  "model": "glm-5.3"
+}

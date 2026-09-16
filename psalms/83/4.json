@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Wɔ wobɛn amma no so bɔ sod, na wɔhyɛ da tia wɔn a woasum wɔn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wobɛn amma"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "wɔhyɛ da"
+    },
+    {
+      "surface": "על",
+      "gloss": "tia"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "wɔn a woasum wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:19.077520894Z",
+  "model": "glm-5.3"
+}

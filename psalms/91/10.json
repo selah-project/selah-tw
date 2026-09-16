@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Bɔne biara renka wo ho, na yarɔ biara renkɔ wo abɔfra so.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "renka"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "bɔne biara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "na yarɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "renkɔ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "bɛsɛn"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "wo abɔfra"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:11.594393351Z",
+  "model": "glm-5.3"
+}

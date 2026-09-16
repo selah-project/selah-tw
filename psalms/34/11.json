@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Gyata nketewa bɔne wɔn ho na wɔkɔm; nanso wɔn a wɔhwehwɛ Yawe no, papa biara nka wɔn.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Gyata nketewa"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "bɔne wɔn ho"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "na wɔkɔm"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "wɔn a wɔhwehwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "nka wɔn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:42.582242314Z",
+  "model": "glm-5.3"
+}

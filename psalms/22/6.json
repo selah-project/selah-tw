@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Wo nkyɛn na wɔfrɛɛ; na wɔdwanee. Wo mu na wɔde wɔn ho too hɔ, na wɔanhyɛ ase.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "wɔfrɛɛ"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "na wɔdwanee"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "wɔde wɔn ho too hɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔan-"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "hyɛ ase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:25.380877268Z",
+  "model": "glm-5.3"
+}

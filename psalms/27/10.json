@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ɛfiri sɛ m'agya ne me na wogyaee me, na Yawe na ɔbɛboaboa me ano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ne me na"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "wogyaee me"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "bɛboaboa me ano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:04.184461462Z",
+  "model": "glm-5.3"
+}

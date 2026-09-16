@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Benyamin woo ⟨את⟩ Bela ne ba a ɔdikan, Ashbel ɔtɔ so mmienu, na Aharah ɔtɔ so mmiɛnsa.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ne ba a ɔdikan"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɔtɔ so mmienu"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ɔtɔ so mmiɛnsa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:50.988805508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ana mma ne Dishon. Na Dishon mma ne Hamran, ne Eshban, ne Yitran, ne Keran.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Dishon"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ... mma"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Dishon"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "Hamran"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ne Eshban"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ne Yitran"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ne Keran"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:00.081937382Z",
+  "model": "glm-5.3"
+}

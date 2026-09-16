@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na asɛm yi yɛɛ bɔne wɔ Eloohim ani so, enti ɔbɔɔ ⟨את⟩ Yisraelem.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "yɛɛ bɔne"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... ani so"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraelem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelem"
+    }
+  ],
+  "timestamp": "2026-09-16T04:47:01.551730731Z",
+  "model": "glm-5.3"
+}

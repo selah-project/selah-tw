@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Fa me kɔ wɔ wo nokorɛ mu, na kyɛw me, ɛfiri sɛ wo na wonye Eloohim a ɔda m'ahotwerɛ ase; ⟨את⟩ wo ara na metwɛn daa awia nyinaa.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "fa me kɔ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "wɔ wo nokorɛ mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "na kyɛw me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "m'ahotwerɛ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo — metwɛn no"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "metwɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daa awia"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:12.792418768Z",
+  "model": "glm-5.3"
+}

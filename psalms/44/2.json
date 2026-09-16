@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Eloohim, yɛatwerɛ adwene yɛn mu sɛ yɛate; yɛn agya na wɔkaa ho asɛm kyerɛɛ yɛn — adwuma a wɔyɛe wɔ wɔn nnaka mu, tete nnaka mu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "yɛn aso mu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "yɛate"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "yɛn agya"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "wɔkaa ho asɛm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kyerɛɛ yɛn"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "(a) woyɛe"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "wɔn nnaka mu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nnaka mu"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tete"
+    }
+  ],
+  "timestamp": "2026-09-16T06:06:53.700510165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Sɛnea wo dɔfoɔ bɛtumi nkwatommaɔ nti, gyɛ yɛn nkwa wo nsa nifa so, na bua yɛn.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Sɛnea ... nti"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "bɛtumi nkwatommaɔ"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "wo dɔfoɔ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "gyɛ yɛn nkwa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nsa nifa so"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "na bua yɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:30.931148887Z",
+  "model": "glm-5.3"
+}

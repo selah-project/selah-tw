@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Ɛfiri sɛ wɔnnunu Yawe nnwuma, na wɔnnunu ne nsa adwuma; ɔbɛsɛe wɔn, na ɔnnsisi wɔn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "wɔnnunu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "nnwuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ɔbɛsɛe wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔnn"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "sisi wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:27.102538210Z",
+  "model": "glm-5.3"
+}

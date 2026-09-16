@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Woayɛ yɛn mfatohoɔ wɔ aman no mu, atiri-dan wɔ nkurɔfoɔ aman mu.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "woayɛ yɛn"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mfatohoɔ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ aman no mu"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "atiri-dan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wɔ aman mu"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:24.138520680Z",
+  "model": "glm-5.3"
+}

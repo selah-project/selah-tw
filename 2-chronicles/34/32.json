@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na ɔmaa ⟨את⟩ wɔn a wɔhunuu wɔ Yerusalem ne Benyamin nyinaa gyinaa hɔ kɔɔ so; na Yerusalem atenasefoɔ yɛɛɛ sɛnea Eloohim apam no teɛ — Eloohim, wɔn agyinafoɔ Onyankopon.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "na ɔmaa ... gyinaa hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔhunuu nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a wɔhunuu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ne Benyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na wɔyɛɛɛ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "atenasefoɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "sɛnea apam no teɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Onyankopon"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "wɔn agyinafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:12:09.618009048Z",
+  "model": "glm-5.3"
+}

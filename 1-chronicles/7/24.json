@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ne babea deɛ, ɔne Sheera; ɔsii ⟨את⟩ Bet-Horon a ɛwɔ aseɛ, ne ⟨את⟩ deɛ ɛwɔ soro, ne ⟨את⟩ Uzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "ne babea"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "a ɛwɔ aseɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛwɔ soro"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "deɛ ɛwɔ soro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-16T04:39:01.037632754Z",
+  "model": "glm-5.3"
+}

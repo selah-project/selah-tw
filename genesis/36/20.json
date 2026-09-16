@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Eyinom ne Seir, Horini no, mma — wɔn a wɔte asase no so: Lotan, Shobal, Zibon, ne Ana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "eyinom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horini no"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "Zibon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "Ana"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:50.905218150Z",
+  "model": "glm-5.3"
+}

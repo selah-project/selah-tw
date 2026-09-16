@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Ɛfiri sɛ mframa bɛtwam wɔ so, na ɔrentwa bio; na baabi a ɔwɔeɛ no rennim no bio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "bɛtwam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wɔ so"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "na ɔrentwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... rennim"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "rennim no"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "baabi a ɔwɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:32.402416582Z",
+  "model": "glm-5.3"
+}

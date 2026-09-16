@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Mosɛ kyerɛɛ Yawe nhyehyɛeɛ afahyɛ ahodoɔ ⟨את⟩ no kyɛɛ Israel mma.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na…kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nhyehyɛeɛ afahyɛ ahodoɔ"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "nhyehyɛeɛ afahyɛ ahodoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:19.868282242Z",
+  "model": "glm-5.3"
+}

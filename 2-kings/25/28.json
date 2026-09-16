@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɔkaa nsɛm pa ⟨את⟩ kyerɛɛ no, na ɔde ne nkongua sii ahemfo a ⟨את⟩ wɔne no wɔ Babilon nkongua so.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na ɔkaa nsɛm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kyerɛɛ no"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkongua"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ne nkongua"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sii ... so"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "nkongua"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wɔne no"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "wɔ Babilon"
+    }
+  ],
+  "timestamp": "2026-09-15T23:38:35.295744764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Ɛnnhwie me afiri mu wɔ akɔkɔberɛ berɛ mu; sɛ m'ahoɔden awera a, ɛnngyammera me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ɛnn"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "nhwie me afiri mu"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "wɔ berɛ"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "akɔkɔberɛ mu"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "sɛ ... awera"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "m'ahoɔden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛnn"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "gyammera me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:44.959962742Z",
+  "model": "glm-5.3"
+}

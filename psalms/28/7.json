@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yawe ne me ahoɔden ne me banbɔ; me tirim yɛɛ n'ho awerɛhoɔdem, na wɔboaa me; enti me tirim gye ayɛ, na mede me dwom bɛda no animuonyam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ne me ahoɔden"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ne me banbɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ho"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yɛɛ awerɛhoɔdem"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me tirim"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "na wɔboaa me"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "me tirim gye ayɛ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me tirim"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "me dwom"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "bɛda no animuonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:27.109513207Z",
+  "model": "glm-5.3"
+}

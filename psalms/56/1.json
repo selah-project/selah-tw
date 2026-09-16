@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Deɛ ɔdi nnwomtoɔ anim: ɛfa “Apata Kumaa a Ɔkam Kwa, Akyirikyiri” — Dawid dea, Miktam, berɛ a Filistifoɔ gyee ⟨את⟩ no mu wɔ Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔdi nnwomtoɔ anim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfa"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Apata (yoná)"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "Kumaa a ɔkam kwa"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "akyirikyiri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "berɛ a wɔgyee no mu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Filistifoɔ)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "wɔ Gat"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:31.651079575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Dawid san boaa ⟨את⟩ Israel apawfoɔ nyinaa ano, mpem aduasa.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "san boaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "san"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel apawfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "apawfoɔ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wɔ Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mpem"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:00.354443145Z",
+  "model": "glm-5.3"
+}

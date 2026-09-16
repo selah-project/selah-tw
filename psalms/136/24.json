@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Na ɔgyee yɛn firi yɛn atamfoɔ nsam, ɛfiri sɛ nebɔnehyɛ hesed no gyina hɔ daa.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "Na ɔgyee yɛn"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "firi yɛn atamfoɔ nsam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:36.893779069Z",
+  "model": "glm-5.3"
+}

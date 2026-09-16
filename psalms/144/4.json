@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Onipa yɛ te sɛ mframa; n'nnɛmma te sɛ sum a ɛtwaa mu.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Onipa"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "te sɛ mframa"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "yɛ te sɛ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "n'nnɛmma"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "te sɛ sum"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "a ɛtwaa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:48.969617270Z",
+  "model": "glm-5.3"
+}

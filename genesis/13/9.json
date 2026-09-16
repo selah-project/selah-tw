@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ɛnyɛ sɛ asase nyinaa wɔ wo anim? Mepa wo kyɛw, fa wo ho firi me so; sɛ benkum a, mɛkɔ nifa; na sɛ nifa a, mɛkɔ benkum.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wɔ wo anim"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "fa wo ho fi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "firi me so"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "benkum"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "mɛkɔ nifa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nifa"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "mɛkɔ benkum"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:14.165436027Z",
+  "model": "glm-5.3"
+}

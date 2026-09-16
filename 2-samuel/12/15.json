@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Natan kɔɔ ne fie. Yawe buaa ⟨את⟩ abɔfra no a Ɔbaa Uria woo no ma Dawid no, na ayare den kwa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ ... fie"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔfra no"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "woo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "Ɔbaa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ayare den kwa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:46.791902386Z",
+  "model": "glm-5.3"
+}

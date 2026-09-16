@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔhene no yii ⟨את⟩ n'nsɔnneɛ firii ne nsa so, maa Haman, Hamedata ba, Hagagini, Yudafoɔ no adifiri.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'nsɔnneɛ"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "n'nsɔnneɛ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firie"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa so"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "maa"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Hagagini"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "adifiri"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yudafoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:02:23.328826247Z",
+  "model": "glm-5.3"
+}

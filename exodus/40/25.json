@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na ɔhyɛɛ ataneden no sɛ ɛbɛhyerɛn wɔ Yawe anim, sɛnea Yawe hyɛɛ ⟨את⟩ Mosheh no.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ɔhyɛɛ ataneden no sɛ ɛbɛhyerɛn"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ataneden no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ … anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:54.939477851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na sɛ onipadua bi de korban — minchah — bɛbrɛ Yawe nkyɛn, soleth na ne korban no bɛyɛ; na ɔbɛgu ngo agu so, na ɔde lewonah agu so.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "onipadua bi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "bɛbrɛ ... nkyɛn"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe nkyɛn"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soleth"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ne korban no"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "na ɔbɛgu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "agu so"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na ɔde ... agu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "so"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "lewonah"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:59.449660420Z",
+  "model": "glm-5.3"
+}

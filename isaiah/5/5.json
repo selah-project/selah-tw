@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na seesei mɛma ⟨את⟩ mo ahunu deɛ mɛyɛ wɔ me kwa mu: mɛyi ne kwanseɛ, na ɛbɛyɛ deɛ wɔbɛtow; mɛbɔ ne twetwie mu, na ɛbɛyɛ deɛ wɔbɛso agu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "mɛma ɔhunu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Mo nkurɔfo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ mɛyɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "re-yɛ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "wɔ me kwa mu"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "mɛyi"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "ne kwanseɛ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "deɛ wɔbɛtow"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "mɛbɔ agu"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "ne twetwie"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "deɛ wɔbɛso agu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:41:15.622315522Z",
+  "model": "glm-5.3"
+}

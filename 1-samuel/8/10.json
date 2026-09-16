@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Shemuël kaa Yawe nsɛm no nyinaa ⟨את⟩ kyerɛɛ ɔmanfoɔ no, wɔn a wɔsrɛɛ ɔhene firi ⟨את⟩ no nkyɛn no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na … kaa kyerɛɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔmanfoɔ no"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "wɔn a wɔsrɛɛ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "firi ⟨את⟩ no nkyɛn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:14.685324760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Mosheh ne Aharon, Nadab ne Abihu, ne mpanyimfoɔ baasa ne du wɔ Yisraɛl mu no bɛforoɔ soro.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bɛforoɔ soro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ne Abihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "baasa ne du"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "wɔ mpanyimfoɔ mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:03.801361820Z",
+  "model": "glm-5.3"
+}

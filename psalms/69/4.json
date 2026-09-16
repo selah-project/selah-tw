@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "M'asɔre ayera me; me konamfi ahye; m'ani abere sɛ me hwɛ me Eloohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ayera me"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "M'asɔre"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ahye"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "me konamfi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "abere"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "m'ahwɛ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "me Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:30.015203460Z",
+  "model": "glm-5.3"
+}

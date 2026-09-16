@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na mo bɛhwɛ ⟨את⟩ asɛdeɛ a wɔhwɛ kronkronnie so, ne ⟨את⟩ asɛdeɛ a wɔhwɛ afɔreɛ pon no so; na abufuo biara nnsan mmra Yisraɛl mma so bio.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "na mo bɛhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛdeɛ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "asɛdeɛ a wɔhwɛ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkronnie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "asɛdeɛ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "asɛdeɛ a wɔhwɛ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔreɛ pon no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mmra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:41.993562898Z",
+  "model": "glm-5.3"
+}

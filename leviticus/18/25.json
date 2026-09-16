@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Asase no ho tete fĩ, na mehwɛɛ ne bɔne so wɔ ne so, na asase no tɔnwa ⟨את⟩ ne tenafoɔ no guu mu.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ho tete fĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "mehwɛɛ"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "wɔ ne so"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "tɔnwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne tenafoɔ no"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ne tenafoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:29.475265547Z",
+  "model": "glm-5.3"
+}

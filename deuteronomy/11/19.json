@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na monkyerɛkyerɛ ⟨את⟩ wɔn — ⟨את⟩ mo mma — na moreso wɔn, wɔ berɛ a wote fie, wɔ berɛ a worekwan so, wɔ berɛ a wodae, ne wɔ berɛ a wosɔre.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "monkyerɛkyerɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (nsɛm no)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo mma"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "na moreso"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "wɔ berɛ a wote"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "wɔ berɛ a wokɔ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kwan so"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "wɔ berɛ a wodae"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "wɔ berɛ a wosɔre"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:14.208742023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Yawe Eloohim duaa afuo wɔ Eden, wɔ apueeɛ fam, na ɔde ⟨את⟩ onipa no a ɔyɛɛ no no sii hɔ.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "na ɔduaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "afuo"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "wɔ Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "apueeɛ fam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na ɔde ... sii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa no"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ɔyɛɛ (no)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:11.972499606Z",
+  "model": "glm-5.3"
+}

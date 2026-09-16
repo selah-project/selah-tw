@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Ɔsɛɛ asɛmfua biara nni me kasa mu — hwɛ, Yawe, wunim no nyinaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɔsɛɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "asɛmfua biara"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "me kasa mu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wunim"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "no nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:03.124452379Z",
+  "model": "glm-5.3"
+}

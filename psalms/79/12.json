@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Na hyɛ yɛn akyirikyiri so — san wɔn animtiaa a wɔde tiaa wo no du wɔn kotoku mu, nson mprenu, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Na san ... du"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "yɛn akyirikyiri so"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "nson mprenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "wɔn kotoku mu"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "wɔn animtiaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "wɔde tiaa wo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:55.978292600Z",
+  "model": "glm-5.3"
+}

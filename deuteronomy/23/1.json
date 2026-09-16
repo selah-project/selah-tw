@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Onipa mmfa ⟨את⟩ n’agya yere, na ɔnsian n’agya atadeɛ fam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mm-"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mfa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n’agya yere"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n’agya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔn-"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "sian"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "atadeɛ fam"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n’agya"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:19.772565913Z",
+  "model": "glm-5.3"
+}

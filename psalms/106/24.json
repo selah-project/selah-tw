@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Na wɔpow asaase a ɛyɛ dɛ, wɔannye ne asɛm no anni.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Na wɔpow"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asaase"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "a ɛyɛ dɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔan… anni"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "wɔannye … no"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "ne asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:39.132068468Z",
+  "model": "glm-5.3"
+}

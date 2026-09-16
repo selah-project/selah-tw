@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Bra, momma yɛbrɛ aseɛ na yɛnkontombuo, ansa na Yawe ⟨a ɔyɛ⟩ yɛn Yɛfoɔ.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Bra"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "momma yɛbrɛ aseɛ"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "na yɛnkontombuo"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "yɛnkontombuo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "yɛn Yɛfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:52.769583443Z",
+  "model": "glm-5.3"
+}

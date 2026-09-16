@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Kasa kyerɛ Yisrael mma, na ka kyɛre wɔn sɛ: mɔmo reguan ⟨את⟩ Yordan no, akɔ Kenaan asase so;",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ka kyɛre"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mɔmo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "reguan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "akɔ asase so"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:44:04.435665921Z",
+  "model": "glm-5.3"
+}

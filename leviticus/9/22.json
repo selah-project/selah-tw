@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Aharon sii de ⟨את⟩ ne nsa kɔɔ amanfoɔ no so, na ɔhyiraa wɔn, na ɔsii hɔ tee firi asɔredie a ɛyɛ bɔne-asotwe no, ɔhyɛ-asotwe no ne asomdwoe-asotwe no mu.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "sii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ … so"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "ɔhyiraa wɔn"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ɔsii hɔ tee"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "asɔredie"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bɔne-asotwe"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ɔhyɛ-asotwe"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "asomdwoe-asotwe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:57.898327743Z",
+  "model": "glm-5.3"
+}

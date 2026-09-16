@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wɔbɛhohoro ne mu-yɛm ne ne nansoa mu nsuo, na ɔsɔfoɔ no bɛhye ⟨את⟩ ne nyinaa wɔ ɔbɔn no so — ɔhyɛde, ogya-dehyɛde, ahomeka a ɛdi mu ama Yawe.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "ne mu-yɛm"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ne nansoa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "bɛhohoro"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu nsuo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "na bɛhye (ayɛ mimire)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nyinaa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "wɔ ɔbɔn no so"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɔhyɛde"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ogya-dehyɛde"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ahome"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "ka a ɛdi mu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:45.080451032Z",
+  "model": "glm-5.3"
+}

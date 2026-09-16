@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 131,
+  "translation": "Ɛnyɛ sɛ mmɛ, mede me kra ama asɛm so na mayɛ kommyɛ, sɛ abɔfra a wɔagye no fi ne maame nkyɛn; sɛ abɔfra a wɔagye no, saa na me kra te.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "mede me kra ama asɛm so"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "na mayɛ kommyɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sɛ abɔfra a wɔagye no"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fi ... nkyɛn"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sɛ abɔfra a wɔagye no"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "saa na ... te"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:50.061017748Z",
+  "model": "glm-5.3"
+}

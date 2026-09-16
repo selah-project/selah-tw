@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Ahaz faa ⟨את⟩ sika kɔkɔɔ ne ⟨את⟩ sikadwa a wɔhunuu wɔ Yawe fie mu ne ɔhene fie sika so adaka mu no, de somaa kɔmaa Ashur ɔhene sɛ akogyae.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "sikadwa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sikadwa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a wɔhunuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ne ... sika so adaka mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "de somaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kɔmaa ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "akogyae"
+    }
+  ],
+  "timestamp": "2026-09-15T23:34:33.854524678Z",
+  "model": "glm-5.3"
+}

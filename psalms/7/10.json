@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ma abɔnefoɔ no bɔne nwerɛfie, mepa wo kyɛw, na gyina ɔnokwafoɔ no; Eloohim a ɔyɛ ɔnokwafoɔ no na ɔhwɛ akoma ne akisikyire.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "nwerɛfie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "na gyina"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔnokwafoɔ"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "na ɔhwɛ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "ne akisikyire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔnokwafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:25.073326804Z",
+  "model": "glm-5.3"
+}

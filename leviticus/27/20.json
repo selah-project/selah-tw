@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na sɛ ɔmpɛ sɛ ɔgya ⟨את⟩ wura no, na sɛ ɔtɔn ⟨את⟩ wura no ma ɔbarima foforɔ, ɔntumi ngya bio da.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnkɔ so \/ ɔmpɛ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "sɛ ɔgya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wura no"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura no"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "anaasɛ sɛ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ɔtɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wura no"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura no"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ma ɔbarima"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntumi n-"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ngya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio da"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:52.266500682Z",
+  "model": "glm-5.3"
+}

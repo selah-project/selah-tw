@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wɔsɔɔ hwɛ, nanso obiara nni hɔ a ɔbɛgya wɔn; wɔfrɛɛ Yawe, nanso wammua wɔn.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Wɔsɔɔ hwɛ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nanso obiara nni hɔ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "a ɔbɛgya wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... da"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "wammua wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:56.965585051Z",
+  "model": "glm-5.3"
+}

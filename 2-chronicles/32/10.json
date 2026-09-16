@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Sancherib, Asuria ɔhene, se sɛ: 'Deɛn na mode gyina so, atena ahyɛmu wɔ Yerusalem?'",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asuria"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "Deɛn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "mode gyina so"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "atena"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ahyɛmu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T05:10:35.107625335Z",
+  "model": "glm-5.3"
+}

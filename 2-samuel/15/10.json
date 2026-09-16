@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Absalom somaa amanneɛhwehwɛfoɔ kɔɔ Israel afasuodu nyinaa mu, sɛ: “Sɛ moate ⟨את⟩ torus no nne a, moanka sɛ: Absalom adi adeɛ wɔ Chebron.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "amanneɛhwehwɛfoɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "afasuodu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "sɛ moate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torus no nne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "torus no"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "moanka sɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "adi adeɛ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "wɔ Chebron"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:28.265505094Z",
+  "model": "glm-5.3"
+}

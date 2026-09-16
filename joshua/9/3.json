@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Gibeon atenaafoɔ tee ⟨את⟩ deɛ Yehoshua yɛɛ maa Jeriko ne maa Ai no:",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "atenaafoɔ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yehoshua yɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "maa Jeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ne maa Ai"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:56.996079104Z",
+  "model": "glm-5.3"
+}

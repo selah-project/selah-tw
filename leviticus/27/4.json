@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Sɛ ɛyɛ ɔbaa a, wo boɔ no ne shekel aduasa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a, ne"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "wo boɔ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:40.937425242Z",
+  "model": "glm-5.3"
+}

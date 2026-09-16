@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Buroo a ⟨abirefoɔ⟩ dea, onipa biara dii; ɔsomaa aduane dɔɔso maa wɔn ma wɔtenaa.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "buroo"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "abirefoɔ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ɔsomaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maa wɔn"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ma wɔtenaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:29.952795649Z",
+  "model": "glm-5.3"
+}

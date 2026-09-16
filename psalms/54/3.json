@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 54,
+  "translation": "Eloohim, fa wo din nkigye me, na fa wo ahoɔden nsɔ me awerɛhoɔ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "fa wo din"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "kigye me"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "fa wo ahoɔden"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "sɔ me awerɛhoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:02.740196470Z",
+  "model": "glm-5.3"
+}

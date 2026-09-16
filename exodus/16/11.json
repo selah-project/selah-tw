@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Yawe kasa kyerɛɛ Moshe se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:10.149277944Z",
+  "model": "glm-5.3"
+}

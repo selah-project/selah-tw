@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Wodii me n'ani so ⟨anaaso⟩ wosii me n'ani so — me ho dwirii me na mentumi nnkasa.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Wodii … so"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "wosii (ani ho twerɛ)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me n'ani"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "me ho dwirii me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na … nn-"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mentumi nnkasa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:24.963351431Z",
+  "model": "glm-5.3"
+}

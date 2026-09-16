@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Mo ayɛsɛm na ɛdane nneɛma yi firi hɔ, na mo bɔne ama deɛ ɛyɛ papa ani afiri mo so.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "mo ayɛsɛm"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ɛdane ... firi hɔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nneɛma yi"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "mo bɔne"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "ama ... ani afiri"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "deɛ ɛyɛ papa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mo so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:07:29.544238716Z",
+  "model": "glm-5.3"
+}

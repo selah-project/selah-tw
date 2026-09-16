@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ɛfiri sɛ Yawe agye ⟨את⟩ Yakob agyadeɛ, na wayi no firi nea ɔyɛ den kyɛn no nsam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "agye ... agyadeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "na wayi no"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nea ɔyɛ den kyɛn no"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firi ... no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:19:50.593379810Z",
+  "model": "glm-5.3"
+}

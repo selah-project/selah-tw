@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nna du-baako na ɛfiri Horeb, ɛfa Seir bepɔ so, de kɔsi Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "efiri Horeb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ɛfa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:31.568946580Z",
+  "model": "glm-5.3"
+}

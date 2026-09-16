@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na meka kyerɛɛ mo wɔ berɛ no mu se, mentumi ntumi nsɔa mo ⟨את⟩-mo me nko ara.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "na meka kyerɛɛ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wɔ berɛ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mentumi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "me nko ara"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "nsɔa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:44:41.219728825Z",
+  "model": "glm-5.3"
+}

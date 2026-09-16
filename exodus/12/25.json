@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛbɛba sɛ, sɛ moaba asase no so a — deɛ Yawe bɛma mo, sɛnea ɔkaa ho asɛm no — na mubɛbɔ ⟨את⟩ saa som yi ho ban.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "moaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkaa ho asɛm"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "na mubɛbɔ … ho ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saa som yi"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "som"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "saa yi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:23.441279497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 101,
+  "translation": "Mɛdwene ɔkwan a ɛyɛ pɛpɛɛpɛ so; ɛbɛn berɛ na wobɛba me nkyɛn? Mɛnam me fie mu wɔ me akoma a ɛteɛ mu.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "mɛdwene"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ɔkwan so"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "a ɛyɛ pɛpɛɛpɛ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ɛbɛn berɛ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wobɛba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "mɛnam"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "wɔ ... teɛ mu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "me fie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:41.957772896Z",
+  "model": "glm-5.3"
+}

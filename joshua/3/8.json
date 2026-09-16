@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wo na wobɛhyɛ asɔfoɔ a wɔsoa ⟨את⟩ apam adaka no nnwuma sɛ: 'Sɛ mokeduru Yarden asuo no ano a, monkɔgyina Yarden no mu.'",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wo na wo"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "bɛhyɛ ... nnwuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɔfoɔ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "a wɔsoa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Sɛ mo bɛduru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kodu"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asuo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "wɔ Yarden mu"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "monkɔgyina"
+    }
+  ],
+  "timestamp": "2026-09-15T22:02:00.567871677Z",
+  "model": "glm-5.3"
+}

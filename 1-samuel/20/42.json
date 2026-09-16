@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 20:42",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Yonatan kaa kyerɛɛ Dawid se: Kɔ asomdwoeɛ mu; efisɛ yɛn baanu ara na yɛbɔɔ nkwa wɔ Yawe din mu se, “Yawe na ɔbɛtena me ne wo ntam, ne me asefoɔ ne w'asefoɔ ntam, kɔsii daa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kyerɛɛ Dawid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "asomdwoeɛ mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "yɛbɔɔ nkwa"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "yɛn baanu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yɛn ara"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ … din mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɔbɛtena"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "me ne … ntam"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ne wo ntam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne … ntam"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "me asefoɔ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne … ntam"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "w'asefoɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:35.029389580Z",
+  "model": "glm-5.3"
+}

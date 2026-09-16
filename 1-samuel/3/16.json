@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Elyi frɛɛ ⟨את⟩ Shemuɛl, na ɔkaa sɛ: Shemuɛl, me ba. Na ɔkaa sɛ: Me ni.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuɛl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Me ni"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:11.800635375Z",
+  "model": "glm-5.3"
+}

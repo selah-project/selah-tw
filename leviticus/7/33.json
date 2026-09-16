@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Wɔ Aharon mma no mu, nea ɔbɔ ⟨את⟩ asomdwoe afɔdeɛ no dɔm na ɔde ⟨את⟩ ngo no ba no, nan nifa no yɛ ne fã.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "nea ɔbɔ\/ɔde ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dɔm"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dɔm"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "asomdwoe afɔdeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wɔ ... mma mu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne (afa)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nifa"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "sɛ ne fã"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:12.153749074Z",
+  "model": "glm-5.3"
+}

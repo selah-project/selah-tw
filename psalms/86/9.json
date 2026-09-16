@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Aman nyinaa a wobɔeɛ bɛba, na wɔbɛgu wɔn ho ase wɔ wo anim, Adonai, na wɔbɛma wo din ayɛ den.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wobɔeɛ"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na wɔbɛgu wɔn ho ase"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wɔ wo anim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "na wɔbɛma... ayɛ den"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "wo din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:27.584003447Z",
+  "model": "glm-5.3"
+}

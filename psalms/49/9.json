@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Na wɔn nkwa nsɔhwɛ boɔ dɔɔso dodo, na ɛgyae kɔ so daa.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "na ... dɔɔso dodo"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "nsɔhwɛ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn nkwa"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "na ɛgyae"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ so daa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:34.071905194Z",
+  "model": "glm-5.3"
+}

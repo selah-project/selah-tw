@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Na wɔnnua sɛ wo nko ara, wo din Yawe, na wo korɔn wɔ ⟨asase no⟩ so nyinaa so.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "na wɔnnua sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wo nko ara"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "na wo korɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨asase no⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:12.671424835Z",
+  "model": "glm-5.3"
+}

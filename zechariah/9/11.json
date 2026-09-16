@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wo nso, wo apam no mogya mu, mahyɛɛ wo nnamfonom a na wɔato wɔn afi domain a nsuo nni mu no ma.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "wo",
+      "marks": "בדם בריתך"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mogya mu"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "wo apam no"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mahyɛɛ ... ma"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "wo nnamfonom"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "fi domain"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:30:15.134016799Z",
+  "model": "glm-5.3"
+}

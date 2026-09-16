@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Ɛno nti ɔwiewiee wɔn nna mu ⟨w⟩ ahuntasɛm mu, na wɔn afe nso wɔ ehu mu.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ɔwiewiee"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "⟨w⟩ ahuntasɛm mu"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "wɔn nna"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "na wɔn afe"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "wɔ ehu mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:51.709591462Z",
+  "model": "glm-5.3"
+}

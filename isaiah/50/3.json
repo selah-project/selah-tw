@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Mehyɛ ɔsoro ma ɛyɛ sum, na sɔkyɛn na meyɛ wɔn ataadeɛ.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Mehyɛ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "sum"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "na sɔkyɛn"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "meyɛ"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "wɔn ataadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:59:44.057953416Z",
+  "model": "glm-5.3"
+}

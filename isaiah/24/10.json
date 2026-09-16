@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Kuro a ⟨ɛyɛ⟩ nkwaseasɛm (tohu) no abubu; fie biara ato mu, na obiara ntumi nnkɔ mu.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "abubu"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "nkwaseasɛm (tohu)"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ato mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "nkɔmu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:47:19.694788488Z",
+  "model": "glm-5.3"
+}

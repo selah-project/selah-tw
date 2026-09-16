@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Wobue ⟨את⟩ wo nsa, na wode ahotɔ ma adeɛ nkwa biara sɛnea ɛpɛ.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Wobue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "na wode ahotɔ ma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "חי",
+      "gloss": "adeɛ nkwa"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "sɛnea ɛpɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:13.601774527Z",
+  "model": "glm-5.3"
+}

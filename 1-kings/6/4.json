@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ɔyɛɛ maa fie no mmoado nnɔbae a wɔatoto mu pɛpɛɛpɛ a entumii abue.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na ɔyɛɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "maa fie"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "mmoado nnɔbae"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "a wɔatoto mu pɛpɛɛpɛ"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "a wɔatoto mu, entumii abue"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:56.159933774Z",
+  "model": "glm-5.3"
+}

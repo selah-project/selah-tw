@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Deɛ ɔhwɛ nnwom so. Dwom a Dawid de ma. Nnwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔhwɛ nnwom so"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Dwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawid de ma"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Nnwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:53.612136065Z",
+  "model": "glm-5.3"
+}

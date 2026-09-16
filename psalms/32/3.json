@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Ɛberɛ a makayɛm, me nnɔwa bɔeɛ wɔ me teɛteɛ mu, daa no mu nyinaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛberɛ a"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "makayɛm"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "bɔeɛ"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "me nnɔwa"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "wɔ me teɛteɛ mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daa no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:23.798472091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɛwɔ hɔ na mahyɛɛ baabi ama ⟨את⟩ adaka no, a Yawe apam no wɔ mu, a ɔne yɛn awofoɔ yɛeɛ, wɔ berɛ a ɔde wɔn firi Misraim asase mu no.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "mahyɛɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ama adaka no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "yɛn awofoɔ"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "wɔ ɔde wɔn firi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:13.994449455Z",
+  "model": "glm-5.3"
+}

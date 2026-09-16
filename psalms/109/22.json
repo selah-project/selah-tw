@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ɛfiri sɛ m'ani abere na miahia, na m'akoma ayera wɔ me mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "m'ani abere"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na miahia"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "na m'akoma"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ayera"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "wɔ me mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:02.964437858Z",
+  "model": "glm-5.3"
+}

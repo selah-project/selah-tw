@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Ɛfiri sɛ wɔdii ⟨את⟩ Yakob, na wɔsɛee ⟨את⟩ ne tenabea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wɔdii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne tenabea"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ne tenabea"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "wɔsɛee"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:35.081847145Z",
+  "model": "glm-5.3"
+}

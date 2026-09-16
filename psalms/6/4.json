@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na m'akra nso wɔ awerɛhoɔ mu dodo; na ⟨את⟩ Yawe — kɔsii bɛn bere?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "na m'akra"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "wɔ awerɛhoɔ mu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bɛn bere"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:43.798850279Z",
+  "model": "glm-5.3"
+}

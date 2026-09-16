@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na Mosheh hyɛɛ ⟨את⟩ Yisrael mma nkuranmu wɔ Yawe ano so, se: Mathe a Yosef mma no ka no, wɔka nokorɛ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hyɛɛ nkuranmu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ...so"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nokorɛ so"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Mathe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "wɔka"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:26.419583489Z",
+  "model": "glm-5.3"
+}

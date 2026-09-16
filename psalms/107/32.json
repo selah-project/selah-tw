@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Na wɔnnobue no wɔ ɔman nhyiam mu, na wɔnnopue no wɔ mpanimfoɔ tenabea.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Na wɔnnobue no"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "wɔ...nhyiam mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "na wɔ...tenabea"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "wɔnnopue no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:00.770806445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Yehoshua kaa sɛ: “Sɛdeɛ yi na mobɛhu sɛ El Chai wɔ mo mu, na ɔbɛfiri mo anim apam ⟨את⟩ Kenaanni ne ⟨את⟩ Chitti ne ⟨את⟩ Chivvi ne ⟨את⟩ Perizzi ne ⟨את⟩ Girgashi ne Haemori ne Hayevusi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Sɛdeɛ yi"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "mobɛhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Chai"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "mo mu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "na ɔbɛfiri... apam"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "apam"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mo anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chitti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chitti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chivvi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chivvi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Perizzi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Hayevusi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:58.537267044Z",
+  "model": "glm-5.3"
+}

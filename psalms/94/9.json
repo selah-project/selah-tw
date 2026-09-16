@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Nea ɔdua aso, so ɔntɛ nnye? Nea ɔbɔ aniwa, so ɔnhwɛ nnihɔ?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Nea ɔdua"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ɔntɛ nnye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nea ɔbɔ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ɔbɔ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "aniwa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "so"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ɔnhwɛ nnihɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:53.580315165Z",
+  "model": "glm-5.3"
+}

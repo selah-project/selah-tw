@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Daavid dea. Yawe, mene me nkwa to ma wo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daavid dea"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mene ... to"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:23.911991566Z",
+  "model": "glm-5.3"
+}

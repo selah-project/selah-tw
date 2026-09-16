@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Deɛ ɔyii ⟨את⟩ mo firi Misraim asase mu, sɛ ɔbɛyɛ mo Eloohim; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "deɛ ɔyii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sɛ ɔbɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:32.187554488Z",
+  "model": "glm-5.3"
+}

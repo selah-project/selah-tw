@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wo bɛde mitznefet no asiw ne tirim, na wo bɛto ⟨את⟩ nezer kronkron no mitznefet no so.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Na wo bɛde ... asiw"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitznefet no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne tirim"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na wo bɛto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer kronkron no"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitznefet no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:42.816718263Z",
+  "model": "glm-5.3"
+}

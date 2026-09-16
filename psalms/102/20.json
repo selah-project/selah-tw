@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Ɛma ɔhwɛɛ firi ne kronkronbea soronko so, Yawe firi ɔsoro mu hwɛɛ asase so ansesi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛma"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ɔhwɛɛ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "firi ... soronko so"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ne kronkronbea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "firi ɔsoro mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "hwɛɛ ansesi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:00.085966375Z",
+  "model": "glm-5.3"
+}

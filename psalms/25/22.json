@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Eloohim, gye Yisrael ⟨את⟩ mu firi ne ɔhaw nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "gye ... mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa mu"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ne ɔhaw"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:39.239465061Z",
+  "model": "glm-5.3"
+}

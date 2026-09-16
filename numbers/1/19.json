@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Sɛnea Yawe hyɛɛ Moshe ⟨את⟩ no, na ɔkanee wɔn wɔ Sin pɛpo mu.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "kanee wɔn"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pɛpo mu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sin"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:21.203625590Z",
+  "model": "glm-5.3"
+}

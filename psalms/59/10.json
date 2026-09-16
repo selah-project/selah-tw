@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Me ahoɔden, wo na mɛhwɛ wo so daa; ɛfiri sɛ Eloohim ne me ban kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "me ahoɔden"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "mɛhwɛ ... daa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "me ban kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:42.874417430Z",
+  "model": "glm-5.3"
+}

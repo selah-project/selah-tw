@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ne ⟨את⟩ Kedemot ne ⟨את⟩ ne mmeaeɛ, ne ⟨את⟩ Mefaat ne ⟨את⟩ ne mmeaeɛ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmeaeɛ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne mmeaeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Mefaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmeaeɛ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne mmeaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:00.864032532Z",
+  "model": "glm-5.3"
+}

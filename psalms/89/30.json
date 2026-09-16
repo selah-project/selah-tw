@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Na mɛma nʼase foro atena hɔ da a ɛbɛba awieeɛ no, na nʼahengua no bɛtena hɔ sɛ ɛsorosoͻ nnɔ da.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "na mɛma ... atena"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "da a ɛbɛba awieeɛ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "nʼase"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "na nʼahengua"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sɛ ... nnɔ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɛsorosoͻ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:41.963213957Z",
+  "model": "glm-5.3"
+}

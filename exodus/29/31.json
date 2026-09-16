@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ odwan a wɔde dihyɛɛ no no, wobɛgya, na wobɛnoa ne nam wɔ beaeɛ kronkron.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "odwan a wɔde dihyɛɛ no"
+    },
+    {
+      "surface": "איל",
+      "gloss": "odwan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a wɔde dihyɛɛ no"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wobɛgya"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "na wobɛnoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nam"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ne nam"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "wɔ beaeɛ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:52.110967307Z",
+  "model": "glm-5.3"
+}

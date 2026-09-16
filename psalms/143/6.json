@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 143,
+  "translation": "Mateɛ me nsa akyi kɔ wo so; me kra sɛ asaase a ɛkɔm ayera no wɔ wo ho. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Mateɛ ... akyi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kɔ wo so"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "sɛ asaase"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "a ɛkɔm ayera no"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wɔ wo ho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:54.789839988Z",
+  "model": "glm-5.3"
+}

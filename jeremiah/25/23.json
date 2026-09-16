@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "ne ⟨את⟩ Dedan, ne ⟨את⟩ Tema, ne ⟨את⟩ Buz, ne ⟨את⟩ wɔn a wɔtwaa wɔn aniwa ano tiw nyinaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wɔn a wɔtwaa wɔn tiw ano nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "wɔn a wɔtwaa ... ano"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "tiw ano (nkyɛn)"
+    }
+  ],
+  "timestamp": "2026-09-16T00:14:35.709125560Z",
+  "model": "glm-5.3"
+}

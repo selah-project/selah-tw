@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Onipa biara sɛnea ne nsa adie teɛ, sɛnea Yawe wo Eloohim akadeɛ teɛ, deɛ ɔde ama wo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "sɛnea ... adie teɛ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "sɛnea ... akadeɛ teɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de ama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:41.232937932Z",
+  "model": "glm-5.3"
+}

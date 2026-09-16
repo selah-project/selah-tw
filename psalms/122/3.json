@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 122,
+  "translation": "Yerusalem, kurow a wɔasiso, sɛ kurow a wɔaka abom ma ɛyɛ baako.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "a wɔasiso"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "sɛ kurow"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "a wɔaka abom"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ma ɛ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yɛ baako"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:28.357571082Z",
+  "model": "glm-5.3"
+}

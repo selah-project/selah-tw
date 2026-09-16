@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "David boaa Israel nyinaa bom, firi Shihor a ɛwɔ Misraim kɔsi Hamath hyɛnmu, de bɛfa ⟨את⟩ Eloohim adaka no firi Kiryath-Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "boaa…bom"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shihor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hyɛnmu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamath"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "de…bɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "firi Kiryath"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:27.761176507Z",
+  "model": "glm-5.3"
+}

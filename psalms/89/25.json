@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Me nokwaredie ne m'hesed ⟨ɛbɛtena⟩ n'akyi, na wɔ m'edin mu na n'anienua bɛso.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Me nokwaredie"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ne m'hesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨ɛbɛtena⟩ n'akyi"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "na wɔ m'edin mu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bɛso"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "n'anienua"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:13.631290995Z",
+  "model": "glm-5.3"
+}

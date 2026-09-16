@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Mɛhohoro me nsa wɔ kronkronyɛ mu, Yawe, na mɛdidi mu ⟨את⟩ wo awerɛhyɛm afɔrefie.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Mɛhohoro"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "wɔ kronkronyɛ mu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "na mɛdidi mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo awerɛhyɛm afɔrefie"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "wo awerɛhyɛm afɔrefie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:26.925780641Z",
+  "model": "glm-5.3"
+}

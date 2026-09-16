@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Adam tenaa aseɛ mfeɛ aduasa ne ɔha, na ɔwoo ɔba wɔ ne su mu, sɛ ne mfonini no, na ɔfrɛɛ ⟨את⟩ ne din Set.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ne ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo ɔba"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "wɔ ne su mu"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "sɛ ne mfonini no"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:13.985094829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na nsuo no wiee fri kotokuo no mu, na ɔguu ⟨את⟩ abɔfra no dua nketewa baako ase.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "wiee"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fri"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "kotokuo no mu"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ɔguu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔfra no"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "dua nketewa no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:24:35.085749789Z",
+  "model": "glm-5.3"
+}

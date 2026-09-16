@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Yawe kaa kyerɛɛ Yakob: San kɔ wo agya asaase so, ne wo awofoɔ man mu, na mɛyɛ ne wo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "san kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asaase"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ne wo awofoɔ man mu"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "na mɛyɛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne wo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:08.139104958Z",
+  "model": "glm-5.3"
+}

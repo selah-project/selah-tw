@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Yoab sɔɔ ano na kɔɔ Geshur, na de ⟨את⟩ Absalom baa Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔɔ ano"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na kɔɔ"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na de … baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-15T23:05:35.084841186Z",
+  "model": "glm-5.3"
+}

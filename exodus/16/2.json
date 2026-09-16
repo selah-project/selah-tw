@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Yisrael mma mpɔtam no nyinaa tɔɔ dede wɔ Moshe ne Aharon so wɔ sarem no mu.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "tɔɔ dede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mpɔtam no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ sarem no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:13.070918643Z",
+  "model": "glm-5.3"
+}

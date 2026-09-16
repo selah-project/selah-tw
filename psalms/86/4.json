@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Ma w'akoa no kra mi gye, ɛfiri sɛ wo ho na, Adonai, mekɔm me kra.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Ma ... mi gye"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kra"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "w'akoa no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mekɔm"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:27.159981006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Ɛfiri sɛ wɔne wɔn ho hyɛɛ nhyehyɛeɛ wɔ akoma mu nyinaa bom tia wo; wɔbɔɔ apam tia wo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "wɔhyɛɛ nhyehyɛeɛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wɔ akoma mu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nyinaa bom"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tia wo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "יזכרתו",
+      "gloss": "wɔbɔɔ ... tia wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:48.062133655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Da biara mɛntwerɛ nka wo mmara no; ɛwɔ mu sɛ, ɛnam so na wode me nkwa ma.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "da biara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mɛntwerɛ nka (nkyerɛkyerɛ: ɛnyɛ sɛ)"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "mɛntwerɛ nka"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "wo mmara no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛwɔ mu sɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ɛnam so"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "wode me nkwa ma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:14.589025387Z",
+  "model": "glm-5.3"
+}

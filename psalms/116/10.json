@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Megye dii, ɛno enti na mekaa; me haw ara na ɛhyɛɛ me ma.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Megye dii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛno enti"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mekaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ɛhyɛɛ me ma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ara"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:58.430751690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Munkyinye Yah! Munkyinye ⟨את⟩ din a ɛfa Yawe; munkyinye, mo Yawe akodiefoɔ,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Munkyinye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Munkyinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din a ɛfa Yawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "munkyinye"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akodiefoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T06:23:49.755386814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Monhwɛ, nsɛmɔneyɛfoɔ yi, ne wɔn a wɔte ahotoso mu daa no, wɔanya ahonya dɔɔso.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "monhwɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nsɛmɔneyɛfoɔ"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ne wɔn a wɔte ahotoso mu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "wɔanya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahonya dɔɔso"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:57.409842650Z",
+  "model": "glm-5.3"
+}

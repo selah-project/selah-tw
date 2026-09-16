@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Wo fa ⟨את⟩ shoham aboɔ mmienu, na wo twa Yisrael mma no din wɔ wɔn so,",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoham aboɔ mmienu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "na wo twa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔ wɔn so"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "din"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:20.025060795Z",
+  "model": "glm-5.3"
+}

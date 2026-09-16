@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Momma wɔnhyira ⟨את⟩ Yawe din, ɛfiri sɛ ne din nko ara na ɛkɔ soro; n'anuonyam wɔ asase ne ɔsoro so.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Momma wɔnhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "na ɛkɔ soro"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "n'anuonyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ne ɔsoro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:14.877571889Z",
+  "model": "glm-5.3"
+}

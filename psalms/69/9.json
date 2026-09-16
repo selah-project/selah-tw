@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Mayɛ ahɔhoɔ ama me nuanom, na mayɛ ɔmanfrani ama me maame mma.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ama me nuanom"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "na mayɛ ɔmanfrani"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ama … mma"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me maame"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:19.442295218Z",
+  "model": "glm-5.3"
+}

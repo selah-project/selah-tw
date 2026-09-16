@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Yawe yɛ ⟨⟩ papa ma nyinaa, na n'ahummɔbɔ da ne nnwuma nyinaa so.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma nyinaa"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "na n'ahummɔbɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ne nnwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:28.216686281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Abraham too ⟨את⟩ din a ɛyɛ ne ba a wɔwoo no maa no, a Sara woo no maa no, dea — Yitsak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "too din"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din (Yitsak)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "a wɔwoo no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "woo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:40.482219555Z",
+  "model": "glm-5.3"
+}

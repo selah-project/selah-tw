@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Ɛno nti ahomasoɔ ayɛ wɔn seka, na ɔbonsam atu wɔn ho afra sɛ ntaadeɛ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ɛno nti"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ayɛ wɔn seka"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ahomasoɔ"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "atu afra"
+    },
+    {
+      "surface": "שית",
+      "gloss": "sɛ ntaadeɛ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ɔbonsam"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:41.052874476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim maa Daniel ⟨את⟩ hesed ne mmɔborɔhunu mu, wɔ akwandwomfoɔ no sar anim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "mmɔborɔhunu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "akwandwomfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:05:59.064517292Z",
+  "model": "glm-5.3"
+}

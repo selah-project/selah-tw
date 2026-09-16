@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 101,
+  "translation": "Dawid dwom. Hesed ne atemmu na mɛto dwom; wo ho, Yawe, na mɛbɔ dawuru.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ne atemmu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mɛto dwom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mɛbɔ dawuru"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:41.956790637Z",
+  "model": "glm-5.3"
+}

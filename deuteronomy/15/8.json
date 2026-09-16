@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Nanso wobɛbue ⟨את⟩ wo nsa ara yie ama no, na wobɛhyɛ no bɔhyɛ ara — de ɛdɔɔso ma de ɔde ho bɛhia no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bue ara"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "wobɛbue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ama no"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "na hyɛ bɔhyɛ ara"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "wobɛhyɛ no"
+    },
+    {
+      "surface": "די",
+      "gloss": "de ɛdɔɔso"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "ne ohia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ɔde ho bɛhia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:11.326249766Z",
+  "model": "glm-5.3"
+}

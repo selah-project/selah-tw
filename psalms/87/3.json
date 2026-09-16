@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 87,
+  "translation": "Anuonyam nsɛm na wɔka wɔ wo mu, Eloohim kurow. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "anuonyam nsɛm"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wɔka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo mu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:27.933372812Z",
+  "model": "glm-5.3"
+}

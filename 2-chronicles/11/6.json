@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɔsii ⟨את⟩ Betlehem ne ⟨את⟩ Etam ne ⟨את⟩ Tekoa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betlehem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Etam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:57:48.543460720Z",
+  "model": "glm-5.3"
+}

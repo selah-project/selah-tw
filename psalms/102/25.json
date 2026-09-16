@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Meka sɛ: M'El, mfa me nkɔ soro wɔ m'annwuma fam; wɔ nkyekerɛ mu na wo mfeɛ wɔ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Meka sɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "M'El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mmfa…n-"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "mfa me nkɔ soro"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "wɔ … fam"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "m'annwuma"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nkyekerɛ"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "wo mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:30.903808181Z",
+  "model": "glm-5.3"
+}

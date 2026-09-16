@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Wɔka kyerɛɛ no sɛ, daabi, me wura; wo nkoa no de aba asie aduane.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wɔka kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "daabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "wo nkoa no"
+    },
+    {
+      "surface": "באו",
+      "gloss": "de aba"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "asie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:18.818620879Z",
+  "model": "glm-5.3"
+}

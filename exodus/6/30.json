@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Moshe kaa sɛnea ɛte wɔ Yawe anim se, hwɛ, me ano atɛ; na sɛdeɛ ɛbɛyɛ a Paroh bɛtie me?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "atɛ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na sɛdeɛ ɛbɛyɛ a"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bɛtie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-15T20:44:40.031207446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "na matan Esau ⟨את⟩, na mayɛ ne mmepɔ no asɛeɛ, na ⟨את⟩ ne agyapadɛ no ama tan a wɔte asasetam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "matan"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "na mayɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmepɔ"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "ne mmepɔ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "asɛeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne agyapadɛ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ne agyapadɛ"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "ama tan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "asasetam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:36:04.978580141Z",
+  "model": "glm-5.3"
+}

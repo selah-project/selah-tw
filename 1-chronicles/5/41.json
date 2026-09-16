@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Yehotsadak kɔɔ ahyaase mu, berɛ a Yawe de ⟨את⟩ Yehuda ne Yerusalem too nhyira mu wɔ Nebukadnessar nsa so.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Na Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "ahyaase mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ne Yerusalem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wɔ ... nsa so"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnessar"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:32.406069535Z",
+  "model": "glm-5.3"
+}

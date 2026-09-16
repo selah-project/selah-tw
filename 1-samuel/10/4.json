@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na wɔbɛbisa wo asomdwoeɛ, na wɔbɛma wo aburodo mmienu, na wobɛgya firi wɔn nsa mu.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "Na wɔbɛbisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "na wɔbɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aburodo"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "na wobɛgya"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "firi wɔn nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:16.525428804Z",
+  "model": "glm-5.3"
+}

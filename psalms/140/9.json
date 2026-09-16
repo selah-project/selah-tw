@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Yawe, mma bɔnefoɔ deɛ wɔpɛ; ne nnyinasoɔ bɔne ɛnsina so; sɛdeɛ wɔbɛdɔɔso. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "deɛ wɔpɛ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ne nnyinasoɔ bɔne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛn"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "nsina so"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "wɔbɛdɔɔso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:06.018250363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Enti momienua ⟨את⟩ mo akoma nse; na mo kɔn nnyɛ den bio.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Enti momienua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo akoma nse"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "nse"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mo akoma"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "na mo kɔn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "den"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:29.212273285Z",
+  "model": "glm-5.3"
+}

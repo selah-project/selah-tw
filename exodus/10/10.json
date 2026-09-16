@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔkaa kyerɛɛ wɔn sɛ: Yawe mɔne mo, sɛdeɛ mɛpam mo ⟨את⟩ ne mo nkorbɔ ⟨את⟩ no; hwɛ, efisɛ ɔyar bɔne hyɛ moanim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mɔne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mɛpam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo nkorbɔ"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "mo nkorbɔ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ɔyar bɔne"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "moanim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:00.222309744Z",
+  "model": "glm-5.3"
+}

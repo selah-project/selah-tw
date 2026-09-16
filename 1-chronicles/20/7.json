@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na berɛ a ɔdi Yisrael ⟨את⟩ ho animuonyam no, Yehonatan, Shimea ba, Dawid nuabarima, kumii no.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "di animuonyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "kumii no"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuabarima"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-16T04:46:24.979472807Z",
+  "model": "glm-5.3"
+}

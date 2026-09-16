@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "na woakɔ me asase so ne m'abusua nkyɛn, na woafa ɔbaa ama me ba Isak.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "me asase so"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne … nkyɛn"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "m'abusua"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "woakɔ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "woafa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isak"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:39.856018068Z",
+  "model": "glm-5.3"
+}

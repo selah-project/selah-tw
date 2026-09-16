@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Mene Yawe, wo Eloohim, de wofirii Misraim asase mu; bue w'ano trɛw, na mema ma ho.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "de wofirii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "bue ... trɛw"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "w'ano"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "na mema ma ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:55.629016870Z",
+  "model": "glm-5.3"
+}

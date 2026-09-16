@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wobɛbɔ no nsɛntitiriw ama wo mma, na wobɛka ho asɛm wɔ berɛ a wote wo fie, ne wɔ berɛ a worekwan so, ne wɔ berɛ a woda, ne wɔ berɛ a wosoan sɔre.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "na wobɛbɔ no nsɛntitiriw"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ama wo mma"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na wobɛka ho asɛm"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "wɔ berɛ a wote"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wo fie"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ne wɔ berɛ a wore"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kwan so"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ne wɔ berɛ a woda"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ne wɔ berɛ a wosoan sɔre"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:30.702317512Z",
+  "model": "glm-5.3"
+}

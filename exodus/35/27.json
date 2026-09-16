@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Na akandifoɔ no de ⟨את⟩ shoham aboɔ ne ⟨את⟩ aboɔ a wɔde hyɛ mu baa maa efod no ne choshen no.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "na akandifoɔ no"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wɔde baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoham aboɔ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a wɔde hyɛ mu"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "maa efod no"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ne choshen no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:15.785777810Z",
+  "model": "glm-5.3"
+}

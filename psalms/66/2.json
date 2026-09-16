@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Monwo nnwom fa ne din animuonyam ho; monyɛ n'ayɛyie no animuonyam.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Monwo nnwom"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "monyɛ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "n'ayɛyie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:11.038748970Z",
+  "model": "glm-5.3"
+}

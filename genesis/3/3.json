@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "na wɔ dua a ɛda ahwɛfore no mfinimfini no aba, Eloohim aka sɛ: mon ndi mu, na monnka no, mmo sɛ mo mmu.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "na wɔ … aba"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dua no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ɛda … mfinimfini"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ahwɛfore no"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mon n-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mon n-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mmo sɛ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "mo mmu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:16.172778984Z",
+  "model": "glm-5.3"
+}

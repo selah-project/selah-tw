@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na kasa kyerɛ wɔn sɛ: ɔbarima biara a ofi Yisraelm fie, anaa ɔhɔho a ɔte wɔn mu a ɔde ɔhyɛ-afɔdeɛ anaa afɔdeɛ bɛto",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "kyerɛ wɔn"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "biara"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ofi fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelm"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "anaaa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ɔhɔho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "te"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ɔde bɛto"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɔhyɛ-afɔdeɛ"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaaa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "afɔdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:37.217635818Z",
+  "model": "glm-5.3"
+}

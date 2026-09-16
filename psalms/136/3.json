@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Da Adonai alopɔnɔ adidi no ase, ɛfiri sɛ ne hesed tena hɔ daa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Da ... ase"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "alopɔnɔ adidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:11.190874742Z",
+  "model": "glm-5.3"
+}

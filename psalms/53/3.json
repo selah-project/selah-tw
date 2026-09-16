@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 53,
+  "translation": "Eloohim firi ɔsoro bɛhwɛɛ ase wɔ nnipa mma so, na ɔhwehwɛ sɛ obi a ne werɛ fɛ wɔ hɔ a ɔhwehwɛ ⟨את⟩ Eloohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "firi ɔsoro"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "bɛhwɛɛ ase"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "na ɔhwehwɛ sɛ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "obi ... wɔ hɔ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "a ne werɛ fɛ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɔhwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:36.613379396Z",
+  "model": "glm-5.3"
+}

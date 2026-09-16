@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Obrasɛne bɛsɛe obi a ɔbɔ ka sɛ ɔhɔhoɔ; na obi a ɔpow nsa-bɔ ɔhyɛ no de ne ho to ⟨mu⟩.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "obrasɛne"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bɛsɛe no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "obi a"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "bɔ ka (yɛ ɔhyɛ)"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sɛ ɔhɔhoɔ"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "na obi a ɔpow"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "nsa-bɔ (ɔhyɛ nsa-bɔ)"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "de ne ho to mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:50:50.281229147Z",
+  "model": "glm-5.3"
+}

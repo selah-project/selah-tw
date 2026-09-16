@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ɔyii wɔ Yehuda nkurow nyinaa mu ⟨את⟩ bɔmɛsofoɔ atenaeɛ ne ⟨את⟩ awia mfoninnieɛ no, na ɔman no dii asomdwoeɛ n'anim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ɔyii"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔmɛsofoɔ atenaeɛ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bɔmɛsofoɔ atenaeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "awia mfoninnieɛ no"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "awia mfoninnieɛ"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "na ... dii asomdwoeɛ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'anim"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:32.667968085Z",
+  "model": "glm-5.3"
+}

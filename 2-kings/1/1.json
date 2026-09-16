@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Moab tiaa Yisrael so wɔ Ahab wuo akyi.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "tiaa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael so"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wɔ ... akyi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wuo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    }
+  ],
+  "timestamp": "2026-09-15T23:25:45.583391299Z",
+  "model": "glm-5.3"
+}

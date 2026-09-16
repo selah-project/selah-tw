@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "Nnwom, mizmor, de Dawid dea.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (dwom a wɔde nnwom hyɛ mu)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:25.482606303Z",
+  "model": "glm-5.3"
+}

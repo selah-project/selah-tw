@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wɔgyaw ⟨את⟩ wɔn anyame hɔ; na Dawid kaa asɛm, na wɔde wɔn hyɛɛ ogya mu.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "na wɔgyaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn anyame"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn anyame"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa asɛm"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "na wɔde wɔn hyɛɛ ogya mu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wɔ ogya mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:41:09.819620851Z",
+  "model": "glm-5.3"
+}

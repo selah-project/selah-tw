@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "N'ase bɛsom no; wɔbɛka Adonai asɛm kyerɛ ɔdɔɔso a ɛreba.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "n'ase"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "bɛsom no"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "wɔbɛka ... asɛm"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ɔdɔɔso a ɛreba"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:06.577468640Z",
+  "model": "glm-5.3"
+}

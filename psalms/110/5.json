@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 110,
+  "translation": "Adonai wɔ wo nifa so; ɔtetewɛ ahemfo wɔ ne abufuo da no mu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nifa so"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ɔtetewɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da no mu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ne abufuo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ahemfo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:10.262896879Z",
+  "model": "glm-5.3"
+}

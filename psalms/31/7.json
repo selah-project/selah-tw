@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Mepeniw wɔn a wɔhwɛ ahuntasɛm a ɛnni mu so; na mewɔ Yawe mu ahoto.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Mepeniw"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "wɔn a wɔhwɛ ... so"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ahuntasɛm"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "a ɛnni mu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ahoto (mewɔ)"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:31.164601936Z",
+  "model": "glm-5.3"
+}

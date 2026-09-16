@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 100,
+  "translation": "Momma mo som ⟨את⟩ Yawe wɔ anigyeɛ mu; mommra n'anim wɔ nnwomtoɔ mu.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "momma mo som"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "wɔ anigyeɛ mu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "mommra"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "wɔ nnwomtoɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:23.877354725Z",
+  "model": "glm-5.3"
+}

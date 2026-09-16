@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Shimon mma: Yemuel ne Yamin, ne Ohad, ne Yakin, ne Zohar, ne Shaul, Kenaanni ɔbaa no ba — saa na Shimon nnuananmufoɔ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na … mma"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ne Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "ne Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ne Yakin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "ne Zohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ne Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "Kenaanni ɔbaa no"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "nnuananmufoɔ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:40.774827486Z",
+  "model": "glm-5.3"
+}

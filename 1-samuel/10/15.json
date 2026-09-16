@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Saul wɔfa kaa se, ka kyerɛ me, mepa wo kyɛw, deɛn na Shemuɛl kaa kyerɛɛ mo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wɔfa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ka kyerɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kyerɛɛ mo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:11.133860429Z",
+  "model": "glm-5.3"
+}

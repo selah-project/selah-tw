@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Berɛ wɔ awoɔ, na berɛ wɔ wuo; berɛ wɔ dua, na berɛ wɔ tetew deɛ wɔadua.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "wo awoɔ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na berɛ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "wu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na berɛ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "tetew"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "deɛ wɔadua"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:43.079179371Z",
+  "model": "glm-5.3"
+}

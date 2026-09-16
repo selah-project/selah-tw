@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Nnwom a wɔto wɔ nkɔsoɔ mu. Metu me nifira ma wɔkɔ mmepɔ no so; mmoa no befiri he?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nnwom"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "a wɔto wɔ nkɔsoɔ mu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Metu (ma wɔkɔ)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me nifira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mmepɔ no so"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "efiri he"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "mmoa no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:05.685552082Z",
+  "model": "glm-5.3"
+}

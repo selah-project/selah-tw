@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yawe ho suro ⟨is⟩ nimdeɛ ahyɛaseɛ; nkwaseafuo bɔ nimdeɛ ne ntetee so gu.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ho suro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ahyɛaseɛ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ne ntetee"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "nkwaseafuo"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "bɔ ... so gu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:49.363248976Z",
+  "model": "glm-5.3"
+}

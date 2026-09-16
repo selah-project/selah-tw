@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na fa ⟨את⟩ Aharon ne ⟨את⟩ ne mma no brɛ nhyiam akyea ano, na sra ⟨את⟩ wɔn ho nsuo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fa ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "brɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "akyea"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "na sra...ho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:31.580706155Z",
+  "model": "glm-5.3"
+}

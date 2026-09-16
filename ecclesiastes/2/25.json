@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Efisɛ hwan na ɔbɛdi, na hwan na ɔbɛgye n'ani, ɛnka me ho?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Efisɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bɛdi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hwan"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "bɛgye n'ani"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "abɔnten"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T03:53:54.855865856Z",
+  "model": "glm-5.3"
+}

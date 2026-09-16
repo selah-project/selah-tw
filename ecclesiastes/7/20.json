@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ɛfiri sɛ onipa nni asase so a ɔyɛ papa na ɔmmɔ bɔne da.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "atramammɔni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... da"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ɔmmɔ bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:41.916437205Z",
+  "model": "glm-5.3"
+}

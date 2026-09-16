@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Wɔn a wɔsuro Yawe nka se, ne hesed bɛkɔ so kɔ daa.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nkɔ so (mmɔborɔ-hwɛ) ⟨nka⟩"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "wɔn a wɔsuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:37.214518318Z",
+  "model": "glm-5.3"
+}

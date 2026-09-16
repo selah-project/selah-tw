@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Na ɔboaboaa wɔn ⟨את⟩ kɔɔ efiase mu nnensa.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Na ɔboaboaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "efiase mu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "nnum"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnensa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:58.755316089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Asase nyinaa bɛbɔ mu ase som wo, na wɔbɛnwo nnwom ama wo, wɔbɛnwo nnwom fa wo din ho. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "bɛbɔ mu ase som"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "na wɔbɛnwo nnwom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "wɔbɛnwo nnwom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:11.039034016Z",
+  "model": "glm-5.3"
+}

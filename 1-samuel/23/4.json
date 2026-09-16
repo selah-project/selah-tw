@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na David sane bisae wɔ Yawe hɔ bio, na Yawe buaa no, kaa se: Sɔre, sian kɔ Keela, ɛfiri sɛ mede Pelesetifoɔ no bɛma ⟨את⟩ wo nsa mu.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "sane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "bisae"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "wɔ Yawe hɔ"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "buaa no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "רד",
+      "gloss": "sian"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "kɔ Keela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mede ... bɛma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesetifoɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesetifoɔ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "wo nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:18.798152842Z",
+  "model": "glm-5.3"
+}

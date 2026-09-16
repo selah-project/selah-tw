@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Twɛn Yawe wɔ wo akoma mu nyinaa, na ɛnyɛ wo nteaseɛ so na wo nkeka wo ho.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Twɛn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ɛnyɛ ... so"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "wo nteaseɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "nkeka wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:13.039959754Z",
+  "model": "glm-5.3"
+}

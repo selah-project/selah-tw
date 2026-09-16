@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ahorowi no wɔtoaa nkwan maa me, nea ɛnsɛ sɛnea wo Tora teɛ.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "wɔtoaa nkwan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maa me"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ahorowi no"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "nkwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnsɛ \/ ɛnyɛ"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "sɛnea wo Tora teɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:25.277065470Z",
+  "model": "glm-5.3"
+}

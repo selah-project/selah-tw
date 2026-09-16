@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na sika no sɛee wɔ dwuma bɔne mu, na ɔwoo ba, na biribiara nni ne nsa mu.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "na sɛee"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "sika no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "wɔ dwuma mu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na … nni"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ne nsa mu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "biribiara"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:00.793386107Z",
+  "model": "glm-5.3"
+}

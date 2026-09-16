@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Dan me akoma ma ɛnkɔ wo adanseɛ nsɛm no so, na ɛmmɔ akɔnya ho.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma ɛnkɔ ... so"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "wo adanseɛ nsɛm"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ɛmmɔ ... ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "akɔnya"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:50.779979751Z",
+  "model": "glm-5.3"
+}

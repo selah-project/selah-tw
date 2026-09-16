@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na sɛ Yawe, wo Eloohim, trɛw ⟨את⟩ wo asaase so hyeɛ sɛdeɛ ɔhyɛɛ wɔn a wɔbɛyɛɛ wo agyapadfoɔ no nkɔmmɔdie, na ɔma wo ⟨את⟩ asase nyinaa a ɔhyɛɛ nkɔmmɔdie sɛ ɔde bɛma wɔn a wɔbɛyɛɛ wo agyapadfoɔ no —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "trɛw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo asaase so hyeɛ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "wo asaase so hyeɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hyɛɛ ... nkɔmmɔdie"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "wɔn a wɔbɛyɛɛ wo agyapadfoɔ no"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na ɔma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hyɛɛ nkɔmmɔdie"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ ɔde bɛma"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "wɔn a wɔbɛyɛɛ wo agyapadfoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:30.805324307Z",
+  "model": "glm-5.3"
+}

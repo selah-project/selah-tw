@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Yɛnnsie wɔn mma no ho asɛm; yɛreka Yawe mmoɔdɔ ne n'ahoɔden ne n'asɛm-nwononwonneɛ a ɔyɛeɛ no kyɛ ntorɔma a ɛdi akyire no.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Yɛnn-"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "nsie"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "wɔn mma no ho asɛm"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kyɛ ntorɔma"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "a ɛdi akyire"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "yɛreka"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "mmoɔdɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ne n'ahoɔden"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ne n'asɛm-nwononwonneɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:07.444729025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ne ⟨את⟩ nkorɔfoɔ a wɔaka abom nyinaa, ne ⟨את⟩ Utz asaase ahemfo nyinaa, ne ⟨את⟩ Pelishtim asaase ahemfo nyinaa, ne ⟨את⟩ Ashkelon ne ⟨את⟩ Gaza ne ⟨את⟩ Ekron ne ⟨את⟩ Ashdod nkaeɛ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ne ⟨את⟩",
+      "marks": "nkorɔfoɔ a wɔaka abom nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nkorɔfoɔ a wɔaka abom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Utz asaase ahemfo nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asaase"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Pelishtim asaase ahemfo nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asaase"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ashdod nkaeɛ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-16T00:16:30.542047376Z",
+  "model": "glm-5.3"
+}

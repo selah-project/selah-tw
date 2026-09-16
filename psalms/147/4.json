@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɔkan nsoromma dodoɔ, na ɔfrɛ wɔn nyinaa wɔn mma.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Ɔkan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "nsoromma"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ɔfrɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:00.642231590Z",
+  "model": "glm-5.3"
+}

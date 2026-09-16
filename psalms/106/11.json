@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Na nsuo kataa wɔn atamfoɔ so; wɔn mu baako mpo nkaa hɔ.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "kataa ... so"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "wɔn atamfoɔ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mpo nkaa"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:34.499601572Z",
+  "model": "glm-5.3"
+}

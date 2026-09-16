@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Yawe bɛn wɔn a wɔn akoma abu no, na ɔgye ⟨את⟩ deɛ wɔn honhom abubu no.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "wɔn a wɔn ... abu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ wɔn honhom abubu no"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "deɛ wɔn ... abubu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ɔgye wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:46.268223484Z",
+  "model": "glm-5.3"
+}

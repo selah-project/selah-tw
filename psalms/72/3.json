@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Bepɔ bɛsoa asomdwoeɛ ama nkorɔfoɔ, na nkokoɔ wɔ atɛntrenee mu.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "bɛsoa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Bepɔ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ama nkorɔfoɔ"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "na nkokoɔ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "wɔ atɛntrenee mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:29.789241900Z",
+  "model": "glm-5.3"
+}

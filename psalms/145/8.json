@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Yawe yɛ ayamyiefoɔ, nna ɔwɔ mmɔborɔhunu, ware ansiane bo, na hesed (ahotɔ) dɔɔso wɔ ne mu.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ayamyiefoɔ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "nna ɔwɔ mmɔborɔhunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ware"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ansiane bo"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (ahotɔ)"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:01.270574849Z",
+  "model": "glm-5.3"
+}

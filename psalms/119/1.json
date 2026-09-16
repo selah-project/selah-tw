@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ahonya wɔ wɔn a wɔn kwan yɛ pɛ so, wɔn a wɔnam Yawe tora mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ahonya"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "wɔn a ... yɛ pɛ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "wɔn a wɔnam"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "tora mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:15.857906764Z",
+  "model": "glm-5.3"
+}

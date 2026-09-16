@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Modinkyere Yah, ɛyɛ dɛ sɛ yɛbɔ Eloohim yɛn nnwom, ɛyɛ dɛ, na ayɛmyie fata nkamfoɔ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Modinkyere"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛyɛ dɛ sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yie\/dɛ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "yɛbɔ...nnwom"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim yɛn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛyɛ dɛ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dɛ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "fata"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "nkamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:00.635610232Z",
+  "model": "glm-5.3"
+}

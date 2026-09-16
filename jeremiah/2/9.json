@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Enti mɛtoa ho akɔka mo ho, Yawe nkɔmhyɛ, na ⟨את⟩ mo mma mma mɛkɔka wɔn ho nso.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Enti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mɛtoa ho"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "akɔka mo ho"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkɔmhyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mo mma mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mo mma mma mma ho"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": ""
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mɛkɔka wɔn ho nso"
+    }
+  ],
+  "timestamp": "2026-09-16T00:05:11.866727267Z",
+  "model": "glm-5.3"
+}

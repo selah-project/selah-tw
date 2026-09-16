@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Momɔ shofar wɔ bosome no mu, wɔ kese so, yɛn afahyɛ da no.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "momɔ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "wɔ bosome no mu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "wɔ kese so"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "da"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "yɛn afahyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:20.069635726Z",
+  "model": "glm-5.3"
+}

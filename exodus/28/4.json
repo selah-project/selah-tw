@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na saa na ne atadeɛ a wɔbɛyɛ: hoshen ne efod, na meil, na kuttonet a wɔatum, mitznefet ne avnet; na wɔbɛyɛ atadeɛ kronkron ama Aharon wo nua ne ne mma, sɛ wɔnsom Me sɛ asɔfo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na saa"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ne atadeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wɔbɛyɛ"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "ne efod"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "na meil"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "na kuttonet"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "a wɔatum"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "mitznefet"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "ne avnet"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na wɔbɛyɛ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ama Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "sɛ wɔnsom sɛ asɔfo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama Me"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:00.260298877Z",
+  "model": "glm-5.3"
+}

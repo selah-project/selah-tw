@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ɛbaa sɛ wɔtenaa hɔ no mfitiaseɛ no, wɔansuro ⟨את⟩ Yawe, na Yawe de ⟨את⟩ gyata no somaa wɔn mu, na wɔkumm wɔn mu bi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbaa sɛ"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "mfitiaseɛ"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "wɔtenaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔan-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "suro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyata"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "gyata"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na wɔkumm"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "kum"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:03.306830534Z",
+  "model": "glm-5.3"
+}

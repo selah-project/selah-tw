@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Ɛfiri m'annaeɛ nne so, m'anom abata m'anam.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ɛfiri ... nne so"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "m'annaeɛ"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "abata"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "m'anom"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "m'anam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:15.613269460Z",
+  "model": "glm-5.3"
+}

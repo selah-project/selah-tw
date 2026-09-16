@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Efa, Kaleb pilege, woo ⟨את⟩ Haran ne ⟨את⟩ Motsa ne ⟨את⟩ Gazez; na Haran woo ⟨את⟩ Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "na Efa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "pilege"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "na Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:58.196788879Z",
+  "model": "glm-5.3"
+}

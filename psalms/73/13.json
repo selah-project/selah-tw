@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Nokorɛ, wɔ ɛkwa mu na metew me akoma fi, na mehohoroo me nsa wɔ nokwa mu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "wɔ ɛkwa mu"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "metew fi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "na mehohoroo"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "wɔ nokwa mu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "me nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:53.143486909Z",
+  "model": "glm-5.3"
+}

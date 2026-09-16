@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔyɛɛ ⟨את⟩ Pasɛa no wɔ bosome a ɛdi kan no da a ɛto so duɛnan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "nkwatenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasɛa no"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasɛa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ɛnan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wɔ bosome ... no"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "a ɛdi kan"
+    }
+  ],
+  "timestamp": "2026-09-16T04:20:58.311361510Z",
+  "model": "glm-5.3"
+}

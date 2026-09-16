@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ɔnantwie anaa ɔprɛ — ɛno ara ⟨את⟩ neyɛ ⟨את⟩ ne ba — mo nnsɔ wɔ da baako mu.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Na ɔnantwie"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ɔprɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɛno ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "nnsɔ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:22.418786822Z",
+  "model": "glm-5.3"
+}

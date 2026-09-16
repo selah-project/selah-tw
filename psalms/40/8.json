@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Saa bere no mekaa sɛ: Hwɛ, meba; wɔ nwoma krataa mu no, wɔatwerɛ deɛ ɛfa me ho.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mekaa sɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "meba"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "wɔ nwoma krataa mu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "krataa"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "wɔatwerɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "deɛ ɛfa me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:24.911840199Z",
+  "model": "glm-5.3"
+}

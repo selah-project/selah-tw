@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Yawe kaa kyerɛɛ Mose sɛ: Ka kyerɛ Aaron: Trɛw ⟨את⟩ wo poma, na bɔ ⟨את⟩ asase no mfuturo, na ɛbɛyɛ kinim ⟨nnamwin⟩ wɔ Misraim asase nyinaa so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "trɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo poma"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "wo poma"
+    },
+    {
+      "surface": "והך",
+      "gloss": "na bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no mfuturo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mfuturo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "kinim ⟨nnamwin⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:15.788859853Z",
+  "model": "glm-5.3"
+}

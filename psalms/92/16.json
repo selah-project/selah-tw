@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Sɛdeɛ ɛbɛkyerɛ sɛ Yawe yɛ treneeni; ɔyɛ me pintinn, na ɔbra bɔne nni ne mu.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "sɛdeɛ ɛbɛkyerɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "treneeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "me pintinn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nni"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ɔbra bɔne"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:02.884889164Z",
+  "model": "glm-5.3"
+}

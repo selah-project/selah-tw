@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Me nyansa kyɛn m'akyerɛkyerɛfoɔ nyinaa, ɛfiri sɛ wo adansedie yɛ me adwenkyerɛ.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kyɛn ... nyinaa"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "m'akyerɛkyerɛfoɔ"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "me nyansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "wo adansedie"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "adwenkyerɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:22.853861676Z",
+  "model": "glm-5.3"
+}

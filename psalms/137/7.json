@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 137,
+  "translation": "Kae, Yawe, Edom mma no ho asɛm, ⟨את⟩ da a Yerusalem baa ase, wɔn a wɔkae sɛ: “Tutu no! Tutu no! Kɔsi ne gyinabea ase.”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kae"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma no ho asɛm"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "da a Yerusalem baa ase"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wɔn a wɔkae sɛ"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Tutu no!"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Tutu no!"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kɔsi"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "ne gyinabea ase"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:49.052955065Z",
+  "model": "glm-5.3"
+}

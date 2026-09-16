@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Yisraɛl mmarima fii Mitpa mu, na wɔdi ⟨את⟩ Filistifoɔ akyi, na wɔbɔɔ wɔn kɔsii baabi a ɛwɔ Beti-Kar ase.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "na wɔfii"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "na wɔdi ... akyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistifoɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "na wɔbɔɔ wɔn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:33.206432682Z",
+  "model": "glm-5.3"
+}

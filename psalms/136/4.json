@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Ɔno nko ara na ɔyɛ nneɛma a ɛyɛ nwonwa akɛseɛ, ɛfiri sɛ ne hesed tena hɔ daa.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "nneɛma a ɛyɛ nwonwa"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "Ɔno nko ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:11.193156155Z",
+  "model": "glm-5.3"
+}

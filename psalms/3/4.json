@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wo, Yawe, wɔyɛ summyɛ ma me; me animuonyam, ne deɛ ɔma me ti so.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "summyɛ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "me animuonyam"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ne deɛ ɔma ... so"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "me ti"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:46.488283173Z",
+  "model": "glm-5.3"
+}

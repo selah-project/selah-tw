@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Kenan tena ase mfeɛ aduɔson, na ɔwoo ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tena ase"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "aduɔson"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:49.502096398Z",
+  "model": "glm-5.3"
+}

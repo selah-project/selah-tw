@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "ɛfiri sɛ, ɔhyɛdeɛ so ɔhyɛdeɛ, ɔhyɛdeɛ so ɔhyɛdeɛ, nsensanee so nsensanee, nsensanee so nsensanee, kakra wɔ ha, kakra wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ɔhyɛdeɛ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "so ɔhyɛdeɛ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ɔhyɛdeɛ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "so ɔhyɛdeɛ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "nsensanee"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "so nsensanee"
+    },
+    {
+      "surface": "קו",
+      "gloss": "nsensanee"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "so nsensanee"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ ha"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:49:14.038428620Z",
+  "model": "glm-5.3"
+}

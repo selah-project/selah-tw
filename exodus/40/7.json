@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wode ⟨את⟩ nsuo-pɛnɔno gyina Ɔhyɛafahyɛ Atɛn no ne nkyɛnmuwa no mfimfini, na wode nsuo hyɛ mu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "na wode ... gyina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsuo-pɛnɔno no"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nsuo-pɛnɔno no"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ ... mfimfini"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Atɛn"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ɔhyɛafahyɛ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nkyɛnmuwa no"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na wode ... hyɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:18.270460280Z",
+  "model": "glm-5.3"
+}

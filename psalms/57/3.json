@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "Mɛfrɛ Eloohim, Elyon ⟨a ɔwɔ soro⟩, mɛfrɛ El a ɔwie n'adeyɛ wɔ me ho.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "mɛfrɛ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon ⟨a ɔwɔ soro⟩"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "a ɔwie n'adeyɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:14.487689078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 1:8",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Koresh, Peres ɔhene, yii wɔn mae de Mitredat, ⟨the⟩ sikasɛm sohwɛfoɔ no nsa, na ɔkanee wɔn maa Sheshbatsar, Yehuda ɔpanin no.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "yii wɔn mae"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "Mitredat"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "sikasɛm sohwɛfoɔ"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "kanee wɔn maa"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "Sheshbatsar"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ɔpanin"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-16T04:18:37.913597697Z",
+  "model": "glm-5.3"
+}

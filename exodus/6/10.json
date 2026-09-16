@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Yawe kasaaye kyerɛɛ Mosheh se,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasaaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:01.115155836Z",
+  "model": "glm-5.3"
+}

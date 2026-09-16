@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ɔbɛsa ⟨את⟩ nhyira firi Yawe hɔ, na ⟨את⟩ tredeɛ firi Eloohim a ɔyɛ ne nkwigyeɛ no hɔ.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ɔbɛsa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "nhyira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na tredeɛ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "firi Eloohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "a ɔyɛ ne nkwigyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:57.693484308Z",
+  "model": "glm-5.3"
+}

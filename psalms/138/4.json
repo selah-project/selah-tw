@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 138,
+  "translation": "Yawe, asase ahemfo nyinaa bɛda wo ase, ɛfiri sɛ wɔate w'ano nsɛm no.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bɛda wo ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wɔate"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "w'ano"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:21.289450831Z",
+  "model": "glm-5.3"
+}

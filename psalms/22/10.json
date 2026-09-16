@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ɛfiri sɛ ⟨wo⟩ na wode me firi yafunu mu baeɛ; wode gyidie sii me mu wɔ me naa nufua so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨wo⟩"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "wode me firi yafunu mu baeɛ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "firi yafunu mu"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "wode gyidie sii me mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "nufua"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me naa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:22.344855875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Sɔ hwɛ, mepa wo kyɛw, ⟨את⟩ wo nkoa, nna du; na wɔmmfa nnhwie mmra yɛn na yɛnni, na nsuo nso na yɛnnom.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "sɔ hwɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nkoa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo nkoa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wɔmmfa ... mmra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "nnhwie"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "yɛnni"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "yɛnnom"
+    }
+  ],
+  "timestamp": "2026-09-16T04:05:59.065053229Z",
+  "model": "glm-5.3"
+}

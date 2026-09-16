@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Paroh frɛɛ Moshe ne Aharon, na ɔkaa sɛ: Momra, momma afɔreyɛ ma mo Eloohim wɔ ⟨את⟩ asase no mu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "momra"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "momma afɔreyɛ"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ma mo Eloohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:16.603478513Z",
+  "model": "glm-5.3"
+}

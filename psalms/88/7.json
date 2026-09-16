@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Wode me sii abura a ɛwɔ aseɛ fam mu, wɔ sum mu, wɔ nsu dɔte mu.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Wode me sii"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "abura mu"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "aseɛ fam"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "wɔ sum mu"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "wɔ nsu dɔte mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:44.001898688Z",
+  "model": "glm-5.3"
+}

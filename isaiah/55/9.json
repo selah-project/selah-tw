@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Ɛfiri sɛ sɛnea ɔsoro no foruw kyɛn asase no, saa ara na akwan a mɛfa so no foruw kyɛn mo akwan, na m'adwene nso foruw kyɛn mo adwene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "foruw"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kyɛn asase"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "foruw kyɛn"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "akwan a mɛfa so"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "mo akwan"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "na m'adwene"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "kyɛn mo adwene"
+    }
+  ],
+  "timestamp": "2026-09-16T05:27:28.676700907Z",
+  "model": "glm-5.3"
+}

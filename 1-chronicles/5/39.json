@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Shalum woo ⟨את⟩ Hilkijah, na Hilkijah woo ⟨את⟩ Azarjah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "na Hilkijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:34.347259115Z",
+  "model": "glm-5.3"
+}

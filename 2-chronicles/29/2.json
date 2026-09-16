@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na ɔyɛɛ deɛ ɛteɛ wɔ Yawe anim, sɛnea Dawid ne papa yɛeɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na ɔyɛɛ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "deɛ ɛteɛ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:07:41.782536698Z",
+  "model": "glm-5.3"
+}

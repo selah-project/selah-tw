@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɛfiri sɛ deɛ ɔhwehwɛ mogya no, odae ⟨את⟩ wɔn; wantwerɛ ahiafoɔ awerɛhorɔ no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɔhwehwɛ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "odae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wan-"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "twerɛ"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "awerɛhorɔ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ahiafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:19.124745655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Nokorɛ, Yawe, Asur ahemfo adesɛe amanaman nyinaa ne wɔn asase ⟨את⟩ so. ",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Nokorɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "adesɛe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanaman nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asase"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:53:16.515529258Z",
+  "model": "glm-5.3"
+}

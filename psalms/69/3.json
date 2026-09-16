@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Matɔ atifi mu, na hwee nnyɛ m'ananmu; mana me nsuo mu emu denden, na asubɔnten asifo no ahye me ma.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Matɔ"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "atifi mu"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "emu denden"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hwee nni"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "m'ananmu"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mana me"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "nsuo mu emu denden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "asubɔnten asifo"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "ahye me ma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:30.015018155Z",
+  "model": "glm-5.3"
+}

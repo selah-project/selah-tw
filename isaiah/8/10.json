@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Momfa afutusɛm bɔ mu, na wɔbɛsɛe no; monka asɛm, na ɛrengyina; ɛfiri sɛ El ⟨is⟩ ne yɛn.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "momfa afutusɛm bɔ mu"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "afutusɛm"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "na wɔbɛsɛe no"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "monka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛren"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ngyina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ne yɛn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:29.877663733Z",
+  "model": "glm-5.3"
+}

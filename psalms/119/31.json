@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Mekitakita wo adansedie so; Yawe, mma me animtia.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "mekitakita (so)"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "wo adansedie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(mma … da)"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "mma me animtia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:32.345909416Z",
+  "model": "glm-5.3"
+}

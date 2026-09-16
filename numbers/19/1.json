@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Yawe kaa kyerɛɛ Mose ne Aaron se,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T21:37:11.379443090Z",
+  "model": "glm-5.3"
+}

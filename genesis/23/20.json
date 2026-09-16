@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Asaase no ne aboo no a ɛwɔ mu no gyinaa mu sɛ Abraham dea sɛ amuieɛ, firi ⟨את⟩ Het mma nsam.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "gyinaa mu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "Asaase no"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "ne aboo no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "sɛ ... dea"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "amuieɛ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩",
+      "marks": "Het mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:58.587124053Z",
+  "model": "glm-5.3"
+}

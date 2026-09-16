@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Misraim woo ⟨את⟩ Ludifoɔ, ⟨את⟩ Anamfoɔ, ⟨את⟩ Lehabfoɔ, ne ⟨את⟩ Naphtuchfoɔ.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludifoɔ"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludifoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anamfoɔ"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lehabfoɔ"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naphtuchfoɔ"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naphtuchfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:10.164519863Z",
+  "model": "glm-5.3"
+}

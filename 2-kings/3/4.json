@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Mesha, Moab hene, yɛɛ anantwini-nnwumayɛfoɔ, na ɔdaa Yisrael hene no so sɛ ɔbɛtua nnwan ba ahememe 100,000 ne oguanmɔmene 100,000 ne wɔn wura.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Na Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "anantwini-nnwumayɛfoɔ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na ɔdaa...so sɛ ɔbɛtua"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "hene no so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "100,000 (ahememe)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "100,000"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "nnwan ba ahememe"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ne 100,000"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "100,000"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "oguanmɔmene"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wura"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:40.662494519Z",
+  "model": "glm-5.3"
+}

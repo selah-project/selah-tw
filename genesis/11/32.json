@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Tera nna dodoɔ bɛyɛɛ aha mmienu ne enum afe, na Tera wui wɔ Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bɛyɛɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Tera"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ne aha mmienu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wui"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Tera"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "wɔ Haran"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:15.501070546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wode sika kɔkɔɔ tɛteɛ bɛkyɛ ⟨את⟩ no: ⟨את⟩ ne ngua, ne ⟨את⟩ ne nfonon a ɛatwa ho ahyɛ, ne ⟨את⟩ ne ndensɔ; na wobɛyɛ sika kɔkɔɔ kɛkɛɛbɔ a ɛtwa ne ho ahyɛ ama no.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "na wobɛkyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tɛteɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ngua"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "ne ngua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nfonon"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "ne nfonon"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a ɛatwa ho ahyɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne ndensɔ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ne ndensɔ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ama no"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kɛkɛɛbɔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a ɛtwa ne ho ahyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:45.807350801Z",
+  "model": "glm-5.3"
+}

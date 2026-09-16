@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Wobɛforo wɔn nsa so, na wo nan ankɔsɛ aboɔ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "Wobɛforo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "na"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ankɔsɛ"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "wo nan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:11.597453698Z",
+  "model": "glm-5.3"
+}

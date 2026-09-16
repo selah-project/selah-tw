@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na ɔsɔfo no bɛsusu ⟨את⟩ no ho — pa anaa bɔne; sɛnea woasusu no, ɔsɔfo, saa na ɛbɛyɛ.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "bɛsusu ... ho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfo no"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (nwoma no)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "—"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "sɛnea woasusu no"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "na ɛbɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:50.634064448Z",
+  "model": "glm-5.3"
+}

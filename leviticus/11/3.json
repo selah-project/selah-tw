@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Mmoa biara a ɛpa nan, na ɛpa nan mu yɛ pɛ, na ɛtow aduane san ba, wɔ mmoa no mu, no na mo di:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "a ɛpa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "na ɛpa mu yɛ pɛ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "mu-pae"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ɛtow ... san ba"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "aduane san ba"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "wɔ mmoa no mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (mmoa no)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mo di"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:42.620583681Z",
+  "model": "glm-5.3"
+}

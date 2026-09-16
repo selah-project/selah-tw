@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Hwan na ɔbɛka Yawe ahoɔden nneyɛeɛ? Hwan na ɔbɛma nte ne anuonyam nyinaa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ahoɔden nneyɛeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "bɛma nte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ne anuonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:49.776322401Z",
+  "model": "glm-5.3"
+}

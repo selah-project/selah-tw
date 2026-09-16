@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ɛfiri sɛ wode nhyira ahyɛ no kɔsi daa; woama no ani agye wɔ ⟨את⟩ w'ani so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "wode … ahyɛ no"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kɔsi daa"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "woama no ani agye"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "wɔ anigyeɛ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'ani so (w'anim)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'ani so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:57.657527657Z",
+  "model": "glm-5.3"
+}

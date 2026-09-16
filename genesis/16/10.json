@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Yawe bɔfoɔ no kaa kyɛw no, “Mɛdɔ dodoɔ ⟨את⟩ wo nsa, na wɔrentumi nkan ne dodoɔ.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛw"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "bɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "mɛdɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na...nni"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "wɔrentumi nkan"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ne dodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:49.150228139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Atrepɛm ne atemmuye ⟨yɛ⟩ wo ahennwa nnyinasoɔ; hesed ⟨ahummɛbɔ⟩ ne nokorɛdi bɛdi wo anim kan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Atrepɛm"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ne atemmuye"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "wo ahennwa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed ⟨ahummɛbɔ⟩"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ne nokorɛdi"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "bɛdi ... anim kan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:31.328372164Z",
+  "model": "glm-5.3"
+}

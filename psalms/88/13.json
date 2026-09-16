@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Sɛ wo agyinatuma bɛda hɔ wɔ sum mu? Ne wo nokorɛ wɔ asase a wɔnkae mu?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "bɛda hɔ (sɛ ... ?)"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "wɔ sum mu"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "wo agyinatuma"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "Ne wo nokorɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "a wɔnkae mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:18.942995814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Yɛn akoma ansan akyi, na yɛn anantewɛm mfiri wo kwan mu;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "annye"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ansan"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "yɛn akoma"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "na ... mfiri"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "yɛn anantewɛm"
+    },
+    {
+      "surface": "מני",
+      "gloss": "firi"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "wo kwan mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:32.818370827Z",
+  "model": "glm-5.3"
+}

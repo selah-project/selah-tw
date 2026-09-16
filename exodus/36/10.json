@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na ɔkaa ⟨את⟩ hyɛn anum no baako ne baako abom, na hyɛn anum nso ɔkaa baako ne baako abom.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "na ɔkaa … abom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyɛn anum"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "anum"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "hyɛn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na anum"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "hyɛn"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ɔkaa … abom"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:25.858809278Z",
+  "model": "glm-5.3"
+}

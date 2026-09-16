@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Da a mesuro no, me de m'akoma ato wo so.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Da"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mesuro"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "de m'akoma ato"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:31.651757160Z",
+  "model": "glm-5.3"
+}

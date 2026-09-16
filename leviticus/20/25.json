@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Momu bɛyɛ nsonsonoeɛ wɔ mmoa kronkron ne deɛ ɛnnɔteɛ ntam, na wɔ nnomaa deɛ ɛnnɔteɛ ne deɛ ɛteɛ ntam; na momunnfi ⟨את⟩ mo nkwa nyɛ abɔne wɔ mmoa mu, wɔ nnomaa mu, anaasɛ biribiara a ɛtetew asase so, a meyesiyeɛ firi mo ho sɛ ɛnnɔteɛ.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "momu bɛyɛ nsonsonoeɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "deɛ ɛnnɔteɛ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na wɔ ntam"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "nnomaa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "deɛ ɛnnɔteɛ"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "deɛ ɛteɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na momunn"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "nyɛ abɔne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nkwa"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mo nkwa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "wɔ mmoa mu"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "wɔ nnomaa mu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "anaasɛ biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "tetew"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "mesiyeɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "firi mo ho"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "sɛ ɛnnɔteɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:09.163323309Z",
+  "model": "glm-5.3"
+}

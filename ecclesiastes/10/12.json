@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Onyansafoɔ ano nsɛm wɔ adɔeɛ; nanso akontonkoni ano tew no, ɛnom no.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onyansafoɔ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "adɔeɛ"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "nanso ... ano tew"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "akontonkoni"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ɛnom no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:41.339598407Z",
+  "model": "glm-5.3"
+}

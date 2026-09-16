@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Wɔkaa wɔ akoma mu sɛ: Yɛnnɔ wɔn awie koraa; wɔhyɛɛ El nhyiam nyinaa ogya wɔ asase so.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "wɔkaa"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "wɔ akoma mu"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "yɛnnɔ wɔn"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "awie koraa"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "wɔhyɛɛ ogya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:08.190489043Z",
+  "model": "glm-5.3"
+}

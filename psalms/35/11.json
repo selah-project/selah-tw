@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Adanseefoɔ a wɔdi ɔha bɛsɔre; nsɛm a munnim na wɔbɛbisa me.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "bɛsɔre"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "adanseefoɔ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deɛ mennim"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "munnim"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "wɔbɛbisa me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:18.585011893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wɔhunuu ⟨את⟩ Adoni-Bezek wɔ Bezek, na wɔne no koɔ, na wɔkaa ⟨את⟩ Hakenaannifoɔ ne ⟨את⟩ Haperizzifoɔ so.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "wɔ Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wɔne no koɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne no"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wɔkaa … so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hakenaannifoɔ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Hakenaannifoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haperizzifoɔ"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Haperizzifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:48.830625052Z",
+  "model": "glm-5.3"
+}

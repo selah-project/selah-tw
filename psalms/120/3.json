@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 120,
+  "translation": "Wɔde deɛn bɛma wo, na wɔde deɛn aka ho ama wo, tɛmfua a ɛyɛ adifudie?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "deɛn"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na deɛn"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "de ka ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tɛmfua"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "adifudie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:49.061519105Z",
+  "model": "glm-5.3"
+}

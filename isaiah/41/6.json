@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Ɔbarima biara boa ⟨את⟩ ne yɔnko, na ɔka kyerɛ ne nuanom se: Yɛ den!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima biara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yɔnko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "boa"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na ɔka kyerɛ ne nuanom"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Yɛ den!"
+    }
+  ],
+  "timestamp": "2026-09-15T23:54:11.701539780Z",
+  "model": "glm-5.3"
+}

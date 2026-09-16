@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ne akyi, Betlehemni Ibtsan nso temmuaa ⟨את⟩ Israël.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "temmuaa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ne akyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Betlehemni"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betlehem"
+    }
+  ],
+  "timestamp": "2026-09-15T22:41:00.123976443Z",
+  "model": "glm-5.3"
+}

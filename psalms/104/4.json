@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Nea ɔyɛ ne asomafoɔ mframa, ne akɔmfuo ogya a ɛhyerɛn.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Nea ɔyɛ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ne asomafoɔ"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ne akɔmfuo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "להט",
+      "gloss": "a ɛhyerɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:03.842063101Z",
+  "model": "glm-5.3"
+}

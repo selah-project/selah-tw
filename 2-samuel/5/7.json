@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Dawid faa ⟨את⟩ Tsiyon abankɛseɛ no; ɛno ne Dawid kurow.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "na ... faa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon abankɛseɛ no"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "abankɛseɛ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:37.409659942Z",
+  "model": "glm-5.3"
+}

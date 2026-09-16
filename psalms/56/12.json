@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Eloohim mu na mede me ho toɔ so; ɛrenbɔ me tirim; deɛ onipa bɛtumi ayɛ me dɛn?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mede me ho toɔ so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛren-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bɔ me tirim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ … dɛn"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛtumi ayɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:32.230824204Z",
+  "model": "glm-5.3"
+}

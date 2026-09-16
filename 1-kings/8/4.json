@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na wɔdaniee ⟨את⟩ Yawe adaka no ne ⟨את⟩ nhyiam cet no ne ⟨את⟩ nkorbɔ nnwuma nyinaa a ɛwɔ cet no mu; na asɔfoɔ no ne Lewifoɔ daniee ⟨את⟩ deɛ ɛno nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "daniee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nhyiam cet no"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkorbɔ nnwuma nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nnwuma"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nkorbɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ɛwɔ cet no mu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "daniee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ deɛ ɛno nyinaa",
+      "marks": "deɛ ɛno nyinaa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Lewifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:15:53.869311759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ɛfiri sɛ wɔde bɔne baa wo so; wɔyɛɛ ahyɛdeɛ bɔne, nanso wɔntumi nyɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "wɔde ... baa wo so"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ahyɛdeɛ bɔne"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nanso ... nn"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "wɔntumi nyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:08.439989126Z",
+  "model": "glm-5.3"
+}

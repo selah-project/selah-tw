@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "ɛfiri sɛ mo bɛtu ⟨את⟩ wɔn afɔremuka agu, na mo bɛbubu ⟨את⟩ wɔn mfinimfin, na mo bɛtwá ⟨את⟩ ne Ashera-dua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn afɔremuka"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "wɔn afɔremuka"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "mo bɛtu agu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mfinimfin"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "wɔn mfinimfin"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "mo bɛbubu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne Ashera-dua"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "ne Ashera-dua"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "mo bɛtwá"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:31.625318052Z",
+  "model": "glm-5.3"
+}

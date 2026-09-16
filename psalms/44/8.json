@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Wo na wode yɛn firi yɛn atamfoɔ nsam, na wode wɔn a wɔkyɛn yɛn agu anaasɛm mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wo na"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "wode yɛn firi...nsam"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "yɛn atamfoɔ"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "wɔn a wɔkyɛn yɛn"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "wode...agu anaasɛm mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:30.654764527Z",
+  "model": "glm-5.3"
+}

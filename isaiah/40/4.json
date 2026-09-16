@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Sunsum berɛ biara bɛso, bepɔ ne bepɔ ketewa biara bɛso; nsuani bɛdan atenaeɛ, na mmorɔma mmorɔma bɛdan nsuabɔ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "nsuani"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "bɛso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... biara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "ne bepɔ ketewa"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "bɛso"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bɛdan"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "nsuani"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "atenaeɛ"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "na mmorɔma mmorɔma"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "nsuabɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:54:30.049662343Z",
+  "model": "glm-5.3"
+}

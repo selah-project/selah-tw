@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ka ⟨את⟩ Shabbat da no wɔ nwom mu, sɛ worebɛma ɛda so ayɛ kronkron.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ka ... wɔ nwom mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat da no"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "sɛ worebɛma ɛda so ayɛ kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:27.460353224Z",
+  "model": "glm-5.3"
+}

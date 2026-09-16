@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛno nti wobɛdwan ⟨wɔ⟩ awia mu, na ɔdiyi no nso bɛdwan wo amo anadwo mu, na mɛdwan wo na.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "wobɛdwan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "awia mu"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "bɛdwan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ɔdiyi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo amo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo mu"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "na mɛdwan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wo na"
+    }
+  ],
+  "timestamp": "2026-09-16T01:05:24.769512530Z",
+  "model": "glm-5.3"
+}

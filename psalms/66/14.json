@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "De me anom bo pɔeɛ, na de me ano kae wɔ me ɔhaw mu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "De"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "bo pɔeɛ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "me anom"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na ... kae"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "wɔ me ɔhaw mu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:00.429796867Z",
+  "model": "glm-5.3"
+}

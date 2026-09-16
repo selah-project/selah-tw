@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔfaa ⟨את⟩ Yona, wɔtuu no hyɛɛ ɔpo no mu, na ɔpo no gyaee n'abufuo no.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "wɔtuu no hyɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɔpo no"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "gyaee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɔpo no"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "n'abufuo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:16:37.366926234Z",
+  "model": "glm-5.3"
+}

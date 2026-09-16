@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na wɔ Mishkan no fa a ɛtɔ so mmienu so, atifi fam: nnua aduonu.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "na wɔ afa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan no"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "fam"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "nnua"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:47.233987697Z",
+  "model": "glm-5.3"
+}

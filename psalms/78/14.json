@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Na ɔde asorokyi kyɛɛ wɔn kwan awia, na anadwo nyinaa mu ɔde ogya hann kyerɛɛ wɔn kwan.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Na ɔde ... kyɛɛ wɔn kwan"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "asorokyi mu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "באור",
+      "gloss": "hann mu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:11.036960302Z",
+  "model": "glm-5.3"
+}

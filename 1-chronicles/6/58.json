@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Raamot ne ne asasetew, ⟨את⟩ Aanem ne ne asasetew.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aanem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Aanem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    }
+  ],
+  "timestamp": "2026-09-16T04:37:29.969039782Z",
+  "model": "glm-5.3"
+}

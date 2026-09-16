@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wobɛbisa ⟨את⟩ Aharon ne ⟨את⟩ ne mma no akɔ Ohel Moɛd no ano, na wode nsuo bɛhorɔ ⟨את⟩ wɔn.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "na wobɛbisa ... akɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moɛd"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "na wode ... bɛhorɔ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:24.961561632Z",
+  "model": "glm-5.3"
+}

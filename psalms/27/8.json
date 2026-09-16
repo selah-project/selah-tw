@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Wo ho na me koma kaa sɛ: 'Monhwehwɛ me anim'; ⟨את⟩ w'anim, Yawe, na mɛhwehwɛ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me koma"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "monhwehwɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'anim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "mɛhwehwɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:25.283858289Z",
+  "model": "glm-5.3"
+}

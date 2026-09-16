@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Yɛda wo ase, Eloohim, yɛda wo ase, na wo din abɛn; wɔka wɔ nneɛma a ɛyɛ nwonwa no ho asɛm.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "yɛda wo ase"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "yɛda wo ase"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "na ... abɛn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "wɔka ho asɛm"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "wo nneɛma a ɛyɛ nwonwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:20.678845424Z",
+  "model": "glm-5.3"
+}

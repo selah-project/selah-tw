@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Bere a wɔbɛtow mmɛseɛ, na bere a wɔbɛboaboa mmɛseɛ ano; bere a wɔbɛbɔ nnam, na bere a wɔbɛtene afiri nnammɔ ho.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "a wɔbɛtow"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mmɛseɛ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "a wɔbɛboaboa ano"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mmɛseɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "a wɔbɛbɔ nnam"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "a wɔbɛtene afiri"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "nnammɔ ho"
+    }
+  ],
+  "timestamp": "2026-09-16T03:53:34.533407059Z",
+  "model": "glm-5.3"
+}

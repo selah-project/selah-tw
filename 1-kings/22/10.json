@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na Israel hene ne Yehoshafat, Yuda hene, tɛnaseɛ, obiara ne akongua so, wɔhyɛɛ ahemfo ntoma; wɔ gɔn a ɛwɔ Shomron ɛpono ano, na adiyisɛmfoɔ no nyinaa diiyi asɛm wɔ wɔn anim.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Na hene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ne Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "tɛnaseɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ne akongua"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "wɔhyɛɛ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ntoma"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "wɔ gɔn"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "adiyisɛmfoɔ no"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "diiyi asɛm"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "wɔn anim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:24:40.519054124Z",
+  "model": "glm-5.3"
+}

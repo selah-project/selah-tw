@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Eloohim akɔ soro wɔ mmoawmu mu, Yawe wɔ aben nne mu.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "akɔ soro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "wɔ mmoawmu mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "wɔ … nne mu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "aben"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:59.789190895Z",
+  "model": "glm-5.3"
+}

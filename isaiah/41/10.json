@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Nnsuro, ɛfiri sɛ me ne wo; nsuro mmoa, ɛfiri sɛ mene wo Eloohim; mahyɛ wo den, na mmoa wo, na makura wo me nifa a ɛteɛ mu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "me ne wo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "suro mmoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "mene wo Eloohim"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "mahyɛ wo den"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "mmoa wo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "makura wo"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "me nifa ... mu"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "a ɛteɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:54:08.021356743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Eloohim tee wɔn teɛme no ase, na Eloohim kae ne apam — ⟨את⟩ Abraham, ⟨את⟩ Isaak, ne ⟨את⟩ Yaaqob.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn teɛme"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "wɔn teɛme"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "kae"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne apam"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "את",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Isaak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yaaqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    }
+  ],
+  "timestamp": "2026-09-15T20:43:28.563522065Z",
+  "model": "glm-5.3"
+}

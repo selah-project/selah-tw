@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Wo mu, Yawe, mesan baa ⟨akwadware⟩ mu; mma me nnya animuonyam da; wo nokorɛ mu, gye me.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Wo mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mesan baa ⟨akwadware⟩ mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "me nnya animuonyam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "da"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "wo nokorɛ mu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "gye me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:03.622682368Z",
+  "model": "glm-5.3"
+}

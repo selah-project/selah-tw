@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ɛfiri sɛ wunnnyɛ El a ɔpɛ bɔne; ɛnyɛ wo nkyɛn na bɔne bɛtena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnnyɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ɔpɛ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "bɛtena wo nkyɛn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:07.775824921Z",
+  "model": "glm-5.3"
+}

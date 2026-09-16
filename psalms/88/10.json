@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Me ani adae ɛnam awerɛhoɔ so; Yawe, mefrɛ wo daa biara, me trɛw me nsa ma wo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "adae"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ɛnam... so"
+    },
+    {
+      "surface": "עני",
+      "gloss": "awerɛhoɔ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mefrɛ wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "daa biara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "me trɛw"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "me nsa (pam)"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:22.568507531Z",
+  "model": "glm-5.3"
+}

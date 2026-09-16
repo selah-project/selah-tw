@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 32:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na ɔkaa sɛ: Mɛsuma m'ani firi wɔn ho; mɛhunu deɛ wɔn awieeɛ bɛyɛ; ɛfiri sɛ wɔyɛ dɔn a wɔde nteseɛ ba — mma a nokwarityɛ nni wɔn mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אסתירה",
+      "gloss": "mɛsuma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "firi wɔn ho"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mɛhunu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אחריתם",
+      "gloss": "wɔn awieeɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "תהפכת",
+      "gloss": "a wɔde nteseɛ ba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "nokwarityɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:38.527589393Z",
+  "model": "glm-5.3"
+}

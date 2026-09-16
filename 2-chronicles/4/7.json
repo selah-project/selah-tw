@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛna ɔyɛɛ ⟨את⟩ sumina du a ɛyɛ sika kɔkɔɔɔ, sɛnea wɔahyɛ wɔn; ɔde sii heikal mu, enum wɔ nifa so na enum wɔ benkum so.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumina du"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "sumina"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔɔ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "sɛnea wɔahyɛ wɔn"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde sii"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "heikal mu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "nifa so"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na enum"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "benkum so"
+    }
+  ],
+  "timestamp": "2026-09-16T04:52:46.633850411Z",
+  "model": "glm-5.3"
+}

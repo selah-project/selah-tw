@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Abraham siesiee ⟨את⟩ nguan-nantwie ba seven a wͻawԑ wͻn ho wͻn ho.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "siesiee"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguan-nantwie ba seven"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "nguan-nantwie ba"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nguan"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "wͻawԑ wͻn ho wͻn ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:53.481418524Z",
+  "model": "glm-5.3"
+}

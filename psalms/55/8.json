@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Monhwɛ, merekyɛ ntam tu ama kɔ akyiri, mɛdae wɔ nnɔbuo mu. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Monhwɛ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "merekyɛ ntam"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "tu ama"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "mɛdae"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ nnɔbuo mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:15.092672270Z",
+  "model": "glm-5.3"
+}

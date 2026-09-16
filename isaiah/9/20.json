@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Manase di ⟨את⟩ Efraim, na Efraim nso di ⟨את⟩ Manase; wɔn nyinaa ka bom tia Yuda. Ɛnyɛ nyinaa mu deɛ, Yawe boɔ ansan amma, na ne nsa da soɔ atenee.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manase"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wɔn nyinaa ka bom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "tia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɛnyɛ deɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ansan amma"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ne boɔ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "na ... da soɔ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "atenee"
+    }
+  ],
+  "timestamp": "2026-09-16T05:23:57.911443844Z",
+  "model": "glm-5.3"
+}

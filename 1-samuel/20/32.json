@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Yonatan buaa ⟨את⟩ Saul ne papa, na ɔka kyerɛɛ no se: Adɛn na wɔbɛkum no? Deɛ wayɛ bɛn?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul ne papa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔka kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wɔbɛkum no"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:39.990991353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Asɛm bi Adonai somaa kɔɔ Yakob mu, na ɛsii Yisrael so.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Asɛm"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kɔɔ Yakob mu"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "na ɛsii"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:43:34.769738804Z",
+  "model": "glm-5.3"
+}

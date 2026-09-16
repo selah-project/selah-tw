@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Efisɛ obi a ɔka ateasefoɔ nyinaa ho no, anhweesɛm wɔ hɔ ma no; efisɛ ɔkraman a ɔte ase yɛ papa sen gyata a ɔwu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "obi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ɔka ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ateasefoɔ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "anhweesɛm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ɔkraman"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a ɔte ase"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sen"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "gyata"
+    },
+    {
+      "surface": "המת",
+      "gloss": "a ɔwu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:15.257629707Z",
+  "model": "glm-5.3"
+}

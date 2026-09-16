@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "na ɔkɔsom anyame foforɔ, na ɔkɔkɔfa wɔn so, ɔsoro anaa ɔsram anaa ɔsoro asraafoɔ nyinaa, a mehyɛɛ wɔn sɛ mɛnsɔ —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "kɔsom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "anyame"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kɔfa ... so"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "ɔsoro (ewia)"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "ɔsram"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sɛ ... nnsɔ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mehyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:13.537032753Z",
+  "model": "glm-5.3"
+}

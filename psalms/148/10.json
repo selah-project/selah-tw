@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Akwatia ne mmoa a wɔkyɛn no nyinaa; nkurɔm-mmoa, ne nnomma a wɔwɔ ntaban,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "Akwatia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mmoa a wɔkyɛn no"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nkurɔm-mmoa"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ne nnomma"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "a wɔwɔ ntaban"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:53.215919920Z",
+  "model": "glm-5.3"
+}

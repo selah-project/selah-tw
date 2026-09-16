@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Afei Selomoh kaa sɛ, Yawe aka sɛ ɔbɛtena sum mu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "afei"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aka sɛ"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "sɛ ɔbɛtena"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "sum mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:56:19.275929051Z",
+  "model": "glm-5.3"
+}

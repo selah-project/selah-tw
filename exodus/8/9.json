@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Yawe yɛɛ sɛnea Mose asɛm tiaeɛ; na akokɔ-safuanwa no wuwuiɛ fi ⟨⟩ adan mu, fi adan akyi abɔnten mu, ne fi mfuo mu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛnea asɛm tiaeɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "na wuwuiɛ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "akokɔ-safuanwa no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "adan no mu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "adan akyi abɔnten"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne fi"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "mfuo no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:15.788339073Z",
+  "model": "glm-5.3"
+}

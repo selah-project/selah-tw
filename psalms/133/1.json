@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 133,
+  "translation": "Nnwom a wɔto wɔ Mempɛn so, Dawid dea. Hwɛ, sɛdeɛ ɛyɛ papa, na sɛdeɛ ɛyɛ dɛ, anuanom a wɔtena aseɛ — awieeɛ ara baako!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nnwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a wɔto wɔ Mempɛn so"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na sɛdeɛ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ɛyɛ dɛ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a wɔtena aseɛ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "anuanom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "awieeɛ ara"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:59.588345722Z",
+  "model": "glm-5.3"
+}

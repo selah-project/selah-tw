@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Yawe de nsa gyina wɔn a wɔtɔ aseɛ nyinaa ho, na ɔma wɔn a wɔabɔ wɔn mu aseɛ nyinaa sɔre.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "de nsa gyina ... ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "wɔn a wɔtɔ aseɛ"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "na ɔma ... sɔre"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "wɔn a wɔabɔ wɔn mu aseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:13.597775366Z",
+  "model": "glm-5.3"
+}

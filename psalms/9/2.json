@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Mɛda Yawe ase wɔ me akoma mu nyinaa; mɛka w'nneyɛeɛ a ɛyɛ nwonwa nyinaa asɛm.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "mɛda … ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ … mu nyinaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "mɛka … asɛm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "w' nneyɛeɛ a ɛyɛ nwonwa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:06.112895490Z",
+  "model": "glm-5.3"
+}

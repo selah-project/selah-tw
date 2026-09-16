@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na wɔkaa se: Woannisii yɛn so, na woammɔ yɛn, na wonnafiri onipa biara nsa mu hwee.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wɔkaa se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woanni"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "sisii yɛn so"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na woanni"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "mmɔɔ yɛn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wonnafiri"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "firi ... afa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hwee"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:58.853382104Z",
+  "model": "glm-5.3"
+}

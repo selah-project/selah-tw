@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Awa wɔn a wɔhyɛ mmara a ɛnyɛ pɛ, ne wɔn a wɔkyerɛw nnyinasoɔ a ɛhaw wɔde kyerɛw!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "wɔn a wɔhyɛ mmara"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "און",
+      "gloss": "a ɛnyɛ pɛ"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ne wɔn a wɔkyerɛw"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nnyinasoɔ a ɛhaw"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "wɔde kyerɛw"
+    }
+  ],
+  "timestamp": "2026-09-15T23:43:22.694924169Z",
+  "model": "glm-5.3"
+}

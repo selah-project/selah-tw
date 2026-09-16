@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na ɔsomaa ⟨את⟩ Yisrael mma mmabun, na wɔde nwii afɔreɛ kɔɔ soro maa Yawe, na wɔtooa nsɛmpɛ afɔreɛ — anantwie mmɔfra — maa Yawe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na ɔsomaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma mmabun"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mmabun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "na wɔkɔɔ soro"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nwii afɔreɛ"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "na wɔtooa afɔreɛ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "afɔreɛ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "nsɛmpɛ afɔreɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "anantwie mmɔfra"
+    }
+  ],
+  "timestamp": "2026-09-15T20:55:30.680433130Z",
+  "model": "glm-5.3"
+}

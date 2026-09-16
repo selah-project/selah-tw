@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Kuro ketewa bi, na nnipa kakra wɔ mu; ɔhene kɛseɛ bi baa ⟨את⟩ ho, na ɔhyɛɛ ho akyinnye, na ɔsii nnyinasoɔ akɛseɛ sɔɔ ⟨את⟩ so.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ketewa"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "na nnipa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na ... baa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "na ɔhyɛɛ ho akyinnye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kuro no ho"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "na ɔsii"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sɔɔ ... so"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "nnyinasoɔ (atirimɔdensifo)"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "akɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:58:02.075423835Z",
+  "model": "glm-5.3"
+}

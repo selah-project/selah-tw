@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "S'amuel tuu mmirika kɔɔ Eli nkyɛn, kaa sɛ: \"Mɛn ha, ɛfiri sɛ wo-frɛɛ me.\" Nanso ɔkaa sɛ: \"Mennfrɛɛ wo; san kɔ da.\" Enti ɔkɔɔ so kɔdaa.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "tuu mmirika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli nkyɛn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mɛn ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wo-frɛɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "men-"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "san kɔ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "da"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ so"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "kɔdaa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:11.720594908Z",
+  "model": "glm-5.3"
+}

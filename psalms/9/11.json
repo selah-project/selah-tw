@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wɔn a wɔnim wo din no bɛto ho wɔ wo mu, ɛfiri sɛ wonnyaa wɔn a wɔhwehwɛ wo no gu, Yawe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "bɛto ho"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo mu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "wɔn a wɔnim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ṇ"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "wonnyaa...gu"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "wɔn a wɔhwehwɛ wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:52.290546116Z",
+  "model": "glm-5.3"
+}

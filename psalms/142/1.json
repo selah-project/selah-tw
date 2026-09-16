@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 142,
+  "translation": "Nkyerɛkyerɛ asɛm ma Dawid, berɛ a ɔwɔɔ abura mu — mpaeɛbɔ.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "nkyerɛkyerɛ asɛm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "berɛ a ɔwɔɔ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "abura mu"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mpaeɛbɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:39.859392365Z",
+  "model": "glm-5.3"
+}

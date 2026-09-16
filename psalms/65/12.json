@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Wo de wo papa ahyɛ afe no mu ma ɛyɛ abɔhyɛn; na w'akwansin de adɔeɛ sane ba.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "wo de ahyɛ mu ma ɛyɛ abɔhyɛn"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "afe"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "wo papa"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "na w'akwansin"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "de sane ba"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "adɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:08.522398222Z",
+  "model": "glm-5.3"
+}

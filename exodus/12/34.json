@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na nnipadɔm no faa ⟨את⟩ wɔn bɔɔlo no ansa na ɛbyeɛ; wɔkyekyeree wɔn aduane-mmoa akoraa no wɔ wɔn ntoma mu, de sii wɔn mimi so.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "faa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn bɔɔlo no"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "wɔn bɔɔlo no"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ɛbyeɛ"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "wɔn aduane-mmoa akoraa no"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "wɔkyekyeree"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "wɔ wɔn ntoma mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "wɔn mimi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:38.901662315Z",
+  "model": "glm-5.3"
+}

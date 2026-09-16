@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Na ɔbarima no yɛɛ sɛnea Yosef kaa, na ɔbarima no de ⟨את⟩ amamma no baa Yosef fie.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "de ... baa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamma no"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amamma no"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:15.510776449Z",
+  "model": "glm-5.3"
+}

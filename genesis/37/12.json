@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Akyire yi, n'nuanomma kɔɔ hwɛɛ ⟨את⟩ wɔn agya nnwan no so wɔ Sikɛm.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'nuanomma"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "hwɛ nnwan no so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn agya nnwan no"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "wɔn agya ... no"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "wɔ Sikɛm"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:45.361496559Z",
+  "model": "glm-5.3"
+}

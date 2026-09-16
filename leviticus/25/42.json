@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ɛfiri sɛ me nkoa na wɔyɛ, me a metuu wɔn firi ⟨את⟩ Misraim asase mu; wɔrentɔn wɔn denam ɔkoa tɔn so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "me nkoa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "metuu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔren"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "tɔn"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "tɔn"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ɔkoa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:11.507395598Z",
+  "model": "glm-5.3"
+}

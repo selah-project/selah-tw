@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ne ⟨את⟩ akidney mmienu, ne ⟨את⟩ helev a ɛwɔ so a ɛwɔ berɛmu so, ne ⟨את⟩ yoteret a ɛwɔ prɛte no so; ɛno na obɛyi firi akidney no so.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "akidney mmienu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "helev"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "helev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ɛso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "berɛmu so"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "yoteret"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "yoteret"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ɛwɔ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "prɛte no so"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "akidney no"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "obɛyi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:21.390731477Z",
+  "model": "glm-5.3"
+}

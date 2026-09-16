@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Ɛfiri sɛ Eloohim na ɔte ase; ɔda baako ase, na ɔma baako so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ɔte ase"
+    },
+    {
+      "surface": "זה",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ɔda ... ase"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ɔma ... so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:58.091844915Z",
+  "model": "glm-5.3"
+}

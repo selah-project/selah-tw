@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔnyansafoɔ akoma wɔ ne nsa nifa so; na ɔkwaseafoɔ akoma wɔ ne benkum so.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ɔnyansafoɔ"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "wɔ ne nsa nifa so"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na ... akoma"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ɔkwaseafoɔ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "wɔ ne benkum so"
+    }
+  ],
+  "timestamp": "2026-09-16T03:58:39.788278126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 84,
+  "translation": "Ahonya wɔ wɔn a wɔtena wo fie mu; wɔbɛto wo mmoɔdabɔ daa. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ahonya wɔ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wɔn a wɔtena"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wo fie mu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "wɔbɛto wo mmoɔdabɔ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:56.151316248Z",
+  "model": "glm-5.3"
+}

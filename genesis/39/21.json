@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na Yawe baa ⟨את⟩ Yosef ho, na ɔtrɛwɛɛ hesed baa ne so, na ɔde adɔe maa no wɔ ɛsohäre fi no ɔkandifo anim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ... baa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ɔtrɛwɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde maa"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "adɔe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɔkandifo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ɛsohäre"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:42.887911646Z",
+  "model": "glm-5.3"
+}

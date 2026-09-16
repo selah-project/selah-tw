@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Hyira ⟨את⟩ Yawe, me kra, na wo nka ne papa nyinaa afiri w'adwene mu.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "hyira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wo nka"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "afiri w'adwene mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "ne papa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:24.907080075Z",
+  "model": "glm-5.3"
+}

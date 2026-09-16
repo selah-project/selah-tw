@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yawe nne wɔ ahoɔden mu; Yawe nne wɔ ahonya mu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "wɔ ahoɔden mu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "wɔ ahonya mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:49.424214475Z",
+  "model": "glm-5.3"
+}

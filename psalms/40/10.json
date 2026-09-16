@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Matoto adifudepɛ anuonyam wɔ nhyiam kɛseɛ mu; hwɛ, me anofa nnsie, Yawe, wo na wonim.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "matoto ... anuonyam"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adifudepɛ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "wɔ nhyiam"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "me anofa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "nsie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wonim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:04.669625905Z",
+  "model": "glm-5.3"
+}

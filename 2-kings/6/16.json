@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɔkaa sɛ: Nsuro, ɛfiri sɛ wɔn a wɔwɔ ⟨את⟩ yɛn ho dɔɔso sen wɔn a wɔwɔ ⟨את⟩ wɔn ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔkaa sɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "N-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn ho"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:29:26.384270922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na sɛ ɔbarima bɔ ⟨את⟩ ne akoa anaa ⟨את⟩ ne akoa baa no abaa, na ɔwu wɔ ne nsa ase, asotwe bɛtwe no amane.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne akoa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ne akoa"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne akoa baa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ne akoa baa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "abaa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na ɔwu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wɔ … ase"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "asotwe"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "bɛtwe no amane"
+    }
+  ],
+  "timestamp": "2026-09-15T20:55:25.962073909Z",
+  "model": "glm-5.3"
+}

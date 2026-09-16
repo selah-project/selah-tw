@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Nanso me de, mewɔ wo nkyɛn daa; woasɔ me nsa nifa mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nanso me de"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wɔ wo nkyɛn"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "woasɔ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "nifa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:38.264837829Z",
+  "model": "glm-5.3"
+}

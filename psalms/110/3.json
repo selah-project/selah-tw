@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 110,
+  "translation": "Wo man no bɛbrɛ ara w'ahoɔdere da, wɔ kronkron adehyeɛ mu; firi anɔpa awotwa mu, wo mmerababerɛ nnuru yɛ wo dea.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "wo man"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "bɛbrɛ ara (afoma)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "w'ahoɔdere"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "wɔ ... adehyeɛ mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "firi awotwa mu"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo dea"
+    },
+    {
+      "surface": "טל",
+      "gloss": "nnuru"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "wo mmerababerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:45.634924958Z",
+  "model": "glm-5.3"
+}

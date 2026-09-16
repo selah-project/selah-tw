@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Farao frɛɛ Mose, na ɔkaa sɛ: Momra, momsom ⟨את⟩ Yawe; nkokoowa ne mo nguan ne mo anantwi nko na ɛbɛtena ase; mmom mo mma nso ne mo bɛkɔ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "momra"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "momsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nko"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "mo nguan"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "ne mo anantwi"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "bɛtena ase"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mmom ... nso"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ne mo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:03.828470840Z",
+  "model": "glm-5.3"
+}

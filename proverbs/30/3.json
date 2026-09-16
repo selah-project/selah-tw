@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na minnsua nyansa, na Ɔkronkron no nimdeɛ, mennye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na minnsua"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "nsua"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na ... nimdeɛ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Ɔkronkron no dea"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mennye"
+    }
+  ],
+  "timestamp": "2026-09-16T03:08:07.943884353Z",
+  "model": "glm-5.3"
+}

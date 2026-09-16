@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wɔ nkronkronnie a ɛwɔ nkronkronnie mu na wobɛdi; ɔbarima biara bɛdi ⟨את⟩ no; kronkroni na ɛbɛyɛ ama wo.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "wɔ nkronkronnie"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "aa ɛwɔ nkronkronnie mu"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "na wobɛdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bɛdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (kronkron afɔdeɛ no)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkroni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:08.266295610Z",
+  "model": "glm-5.3"
+}

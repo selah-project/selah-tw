@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Nhaban ketewa bɛfiri Yishai dua mu, na nhwiren firi ne ngyene mu abera.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bɛfiri"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "nhaban ketewa"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "dua mu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "nhwiren"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ne ngyene mu"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "abera"
+    }
+  ],
+  "timestamp": "2026-09-16T05:23:56.029493272Z",
+  "model": "glm-5.3"
+}

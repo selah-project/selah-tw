@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Wɔatwa me ho ahyɛ, ayɛ, wɔatwa me ho ahyɛ bio; amma, Yawe din mu na metwa wɔn fi hɔ.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "wɔatwa me ho ahyɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "wɔatwa me ho ahyɛ bio"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ ... din mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "metwa wɔn fi hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:46.706985038Z",
+  "model": "glm-5.3"
+}

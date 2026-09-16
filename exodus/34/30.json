@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Aharon ne Yisrael mma nyinaa huu ⟨את⟩ Moshe, na hwɛ, ne anim dwan no yɛɛ hare, na wɔsuroɔ maa wɔansusu ho sɛ wɔbɛbɛn no.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "huu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne … nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "yɛɛ hare"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dwan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "wɔsuroɔ"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "sɛ wɔbɛbɛn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:30.090796012Z",
+  "model": "glm-5.3"
+}

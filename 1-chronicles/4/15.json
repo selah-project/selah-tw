@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Kaleb, Yefuneh ba, mma ne Iru, Ela ne Naam; na Ela mma ne Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "ne Naam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Ela mma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenaz"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:50.783265914Z",
+  "model": "glm-5.3"
+}

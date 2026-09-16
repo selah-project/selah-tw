@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Meda mo ase bɛyɛ wo mmoa wɔ komam pɔtee mu, wɔ m'adesua wo atemmu a ɛteɛ no mu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "meda mo ase bɛyɛ wo mmoa"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "wɔ pɔtee mu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "komam"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "wɔ m'adesua"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "a ɛteɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:56.621655078Z",
+  "model": "glm-5.3"
+}

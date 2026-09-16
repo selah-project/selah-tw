@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Da kyerɛ da asɛm, anadwo nso kyerɛ anadwo nimdeɛ.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Da"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kyerɛ da"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "bɔgu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na anadwo"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "kyerɛ anadwo"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "da adi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:44.281523606Z",
+  "model": "glm-5.3"
+}

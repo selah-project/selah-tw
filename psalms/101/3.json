@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 101,
+  "translation": "Mɛnhwɛ asɛm bɔne biara wɔ m'ani so; atoro adwuma na mɛpɔ; ɛnyina me ho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mɛnhwɛ ... biara"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mɛnhwɛ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "atoro"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mɛpɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyina"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:41.958657019Z",
+  "model": "glm-5.3"
+}

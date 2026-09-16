@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Akish bisaa se, 'Mommuu he nnɛ?' David nso kaa se, 'Wɔ Yehuda anibere so, wɔ Yerahmeli anibere so, ne wɔ Keni anibere so.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bisaa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "mommuu he"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "anibere"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "anibere"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerahmeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne wɔ ... so"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "anibere"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keni"
+    }
+  ],
+  "timestamp": "2026-09-16T05:18:43.234859529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Hyɛ Yah anuonyam, da Yawe ase, ɛfiri sɛ ⟨ɔyɛ⟩ papa, ɛfiri sɛ ne hesed gyina hɔ daa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hyɛ anuonyam"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "da ... ase"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:49.775430594Z",
+  "model": "glm-5.3"
+}

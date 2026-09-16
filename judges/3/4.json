@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔgyaee hɔ sɛ wɔde bɛsɔ Yisrael ahwɛ wɔn mu — ⟨את⟩ Yisrael — sɛ wɔbɛhu sɛ wɔbɛtie ⟨את⟩ Yawe nhyehyɛeɛ, deɛ ɔhyɛɛ ⟨את⟩ wɔn awofoɔ ne Mose nsam.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na wɔgyaee hɔ"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "sɛ wɔde bɛsɔ … ahwɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sɛ wɔbɛhu"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "wɔbɛtie anaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nhyehyɛeɛ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn awofoɔ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "wɔn awofoɔ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:39.044712226Z",
+  "model": "glm-5.3"
+}

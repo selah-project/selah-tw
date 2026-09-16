@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Wo yɛ hann, wo kɛseɛ sen mmepɔ a asiw abɔmmɔ.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "yɛ hann"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "sen mmepɔ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "a asiw abɔmmɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:24.565363450Z",
+  "model": "glm-5.3"
+}

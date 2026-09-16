@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Me nso, mede ⟨את⟩ Farao akoma bɛyɛ den, na mede ⟨את⟩ me nsɛnkyerɛnne ne ⟨את⟩ me nneɛma nwononwono no dɔɔso wɔ Misraim asase mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Me nso"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "bɛyɛ den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao akoma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "bɛdɔɔso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsɛnkyerɛnne"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "me nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "me nneɛma nwononwono"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "me nneɛma nwononwono"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:17.807403643Z",
+  "model": "glm-5.3"
+}

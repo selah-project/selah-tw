@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na ɔde ⟨את⟩ akonnwa no siihyɛɛ hyiaeɛ FR no mu, wɔ ahemfie hema no bokyeree fam, atifi fam, wɔ paroket no akyi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔde...siihyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akonnwa no"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "akonnwa no"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wɔ...mu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hyiaeɛ FR"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bokyeree fam"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ahemfie hema no"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "atifi fam"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "wɔ paroket no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:13.918519044Z",
+  "model": "glm-5.3"
+}

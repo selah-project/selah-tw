@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 111,
+  "translation": "Adwene nyansa mfiaseɛ ne Yawe ho osuro; wɔn a wɔyɛ no nyinaa wɔ adwene pa; ne anuonyam gyina hɔ kɔ daa.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "mfiaseɛ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "adwene nyansa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "osuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "adwene"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "wɔn a wɔyɛ no"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ne anuonyam"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "gyina hɔ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kɔ daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:00.199182245Z",
+  "model": "glm-5.3"
+}

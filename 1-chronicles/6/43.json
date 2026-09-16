@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ne ⟨את⟩ Hilen ne ⟨את⟩ ne abɔnten so asase, ⟨את⟩ Debir ne ⟨את⟩ ne abɔnten so asase.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Hilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne abɔnten so asase"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne abɔnten so asase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne abɔnten so asase"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne abɔnten so asase"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:58.160311299Z",
+  "model": "glm-5.3"
+}

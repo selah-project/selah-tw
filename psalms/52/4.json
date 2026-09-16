@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Sɛee nhyehyɛeɛ na wo tɛkrɛma hyehyɛ, te sɛ atapae a wɔteɛ so, adifudepɛ adwuma.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Sɛee nhyehyɛeɛ"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "wo ... hyehyɛ"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "wo tɛkrɛma"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "te sɛ atapae"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "a wɔteɛ so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "adifudepɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:43.814672069Z",
+  "model": "glm-5.3"
+}

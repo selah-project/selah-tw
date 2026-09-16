@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Yawe hwɛ ⟨את⟩ ahɔhoɔ so; ɔma esofoɔ ne nkɔkɔɔabaa gyina; na ɔdane atamfoɔ kwan ye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hwɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahɔhoɔ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "esofoɔ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "nkɔkɔɔabaa"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ma ... gyina"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "atamfoɔ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "dane ... ye"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:26.719449780Z",
+  "model": "glm-5.3"
+}

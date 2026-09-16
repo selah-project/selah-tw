@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 100,
+  "translation": "Ɛfiri sɛ Yawe yε papa; n'hesed ⟨tena⟩ daa; ne nokorεdidi tena ⟨firi⟩ ntoroba mu kɔsi ntoroba mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yε papa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "n'hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ntoroba"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ntoroba mu"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ne nokorεdidi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:42.680691002Z",
+  "model": "glm-5.3"
+}

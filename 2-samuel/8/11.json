@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Hene Dawid nso yɛɛ ⟨אתם⟩ noɔ kronkron maa Yawe, ne dwetɛ ne sika kɔkɔɔ a ɔyɛɛ noɔ kronkron firi amanamanmu nyinaa a ɔdii so nkonim no mu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "nneɛma noɔ"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "yɛɛ ... kronkron"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ne sika kɔkɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "yɛɛ ... kronkron"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanamanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ɔdii so nkonim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:25.930256922Z",
+  "model": "glm-5.3"
+}

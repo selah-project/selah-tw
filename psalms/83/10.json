@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Yɛ wɔn sɛnea woɛyɛɛ Midiyan, sɛ Sisera ne Yabin, wɔ Kishon asubɔnten mu:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "sɛnea woɛyɛɛ Midiyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "sɛ Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "ne Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "wɔ asubɔnten mu"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:39.841288880Z",
+  "model": "glm-5.3"
+}

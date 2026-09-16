@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Sɛ m'atamfoɔ dann wɔn akyi, wɔbɛtɔtɔ na wɔasɛe wɔ wo anim.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "sɛ … dann"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "wɔn akyi"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "wɔbɛtɔtɔ"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "na wɔasɛe wɔ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "wo anim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:06.113613028Z",
+  "model": "glm-5.3"
+}

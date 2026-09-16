@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Na ɔmaa ⟨את⟩ ne nne firii wɔ sû mu; Misraim tee, na Farao fie nso tee.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔmaa ... firii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nne"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ne nne"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "wɔ sû mu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "tee"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na … nso tee"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:01.874729458Z",
+  "model": "glm-5.3"
+}

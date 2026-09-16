@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Eloohim Tsevaot, sane yɛn bra, ma w'ani hyerɛn, na yɛnkyɛ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "sane yɛn bra"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ma ... hyerɛn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'ani"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "na yɛnkyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:29.038781521Z",
+  "model": "glm-5.3"
+}

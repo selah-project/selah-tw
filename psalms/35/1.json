@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Dawid dea. Yawe, sɔ ⟨את⟩ m'atamfoɔ no tam, ko ⟨את⟩ wɔn a wɔreko me.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "sɔ tam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'atamfoɔ no"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "m'atamfoɔ no"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔreko me"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "wɔn a wɔreko me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:26.907879612Z",
+  "model": "glm-5.3"
+}

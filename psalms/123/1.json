@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 123,
+  "translation": "Nnwom a ɛfa mmirikatuo ho. Wɔ wo so na mebirii ⟨את⟩ m'ani, wo a wote ase wɔ ɔsoro mu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nnwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a ɛfa mmirikatuo ho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Wɔ wo so"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mebirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'ani"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "wo a wote ase"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "wɔ ɔsoro mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:18.635199720Z",
+  "model": "glm-5.3"
+}

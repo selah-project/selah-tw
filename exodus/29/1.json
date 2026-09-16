@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wei ne deɛ wobɛyɛ wɔn de ayɛ wɔn kronkron sɛ wɔnsom Me sɛ asɔfoɔ: fa anantwie baako, ɔyɛ nantwie ba, ne ⟨את⟩ ɔpram mmienu a wonyɛ dɔɔso.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "na wei"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "de ayɛ kronkron"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sɛ asɔfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Me"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nantwie"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "ne ɔpram"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "a wonyɛ dɔɔso"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:31.580133195Z",
+  "model": "glm-5.3"
+}

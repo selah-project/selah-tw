@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ka w'adwenesi deɛ Yawe wo Eloohim yɛeɛ ⟨את⟩ deɛ ɔyɛɛ Miriam no, ɔkwan so, wɔ berɛ a moefiri Misraim mu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ka w'adwenesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɔyɛɛ Miriam no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɔkwan so"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "wɔ berɛ a moefiri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:08.193116730Z",
+  "model": "glm-5.3"
+}

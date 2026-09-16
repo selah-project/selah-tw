@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Wɔtow nsɛm gu, wɔka mpoltɔnsɛm; wɔn nyinaa a wɔyɛ bɔne no hoahoa wɔn ho.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "wɔtow nsɛm gu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wɔka"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mpoltɔnsɛm"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "hoahoa wɔn ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "a wɔyɛ"
+    },
+    {
+      "surface": "און",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:42.589919849Z",
+  "model": "glm-5.3"
+}

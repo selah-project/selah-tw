@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yawe bɛma ne manfoɔ ahoɔden; Yawe bɛhyira ⟨את⟩ ne manfoɔ asomdwoeɛ mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ne manfoɔ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bɛhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne manfoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne manfoɔ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "asomdwoeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:48.863044135Z",
+  "model": "glm-5.3"
+}

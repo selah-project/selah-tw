@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Mfeɛ aduanan na me yaaw me wɔ dɔm yi ho, na mekaa sɛ: Nnipa a wɔn akoma bɔ wɔn agu ne wɔn, na wɔn nnim me akwan.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "me yaaw me"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "wɔ dɔm yi ho"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mekaa sɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "a ... bɔ wɔn agu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na wɔn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nim"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "me akwan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:16.796831891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wɔka kyerɛɛ Dawid se: Monna, Filistifoɔ reko tia Keila, na wɔretow ⟨את⟩ mpane no.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Wɔka kyerɛɛ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kyerɛ Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Monna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "reko"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "tia Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "na wɔn"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "retow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpane no"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "mpane no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:36.556152314Z",
+  "model": "glm-5.3"
+}

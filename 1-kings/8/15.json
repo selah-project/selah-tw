@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɔkaa sɛ: Nhyira nka Yawe, Eloohim a ɔwɔ Yisraelfoɔ so, a ɔde ne ano kasa kyerɛɛ ⟨את⟩ David me agya, na ɔde ne nsa wiee, sɛ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nhyira nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim a ɔwɔ ... so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ɔde ne ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "me agya"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "na ɔde ne nsa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wiee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:03.794716484Z",
+  "model": "glm-5.3"
+}

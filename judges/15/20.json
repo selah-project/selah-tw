@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na ɔyɛɛ atemmu wɔ ⟨את⟩ Israel so wɔ Filistifoɔ nna mu, mfeɛ aduonu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ɔyɛɛ atemmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "wɔ ... nna mu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:43:06.549947466Z",
+  "model": "glm-5.3"
+}

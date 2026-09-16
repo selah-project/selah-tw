@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 111,
+  "translation": "N'nsa adwuma yɛ nokorɛ ne atemmu; n'ahyɛdeɛ nyinaa gyina pintinn.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "n'nsa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ne atemmu"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "gyina pintinn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "n'ahyɛdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:50.820288169Z",
+  "model": "glm-5.3"
+}

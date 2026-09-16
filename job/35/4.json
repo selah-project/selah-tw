@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Me, mɛsan de nsɛm abua wo, ne ⟨את⟩ wo nnamfo a wɔne wo wɔ hɔ no.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "mɛsan de nsɛm abua wo"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wo nnamfo"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "wo nnamfo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a wɔne wo wɔ hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:32:29.569798890Z",
+  "model": "glm-5.3"
+}

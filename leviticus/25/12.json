@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ɛfiri sɛ yubel na ɛyɛ; ɛbɛyɛ kronkron ama mo; mo bɛdi ⟨את⟩ ne nhwiren afuo no mu nnuaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yubel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɔyɛ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ama mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "… mu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "afuo no"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mo bɛdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nhwiren afuo nnuaba"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "nnuaba"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:24.247789153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Ampa, ɔsamani mu na onipa nam; ampa, wɔankyagyaw nkwaseasɛm mu; ɔboaboa agyapadɛ ano na ɔnnim hena na ɔbɛboaboa no ano.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ampa"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ɔsamani mu"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "nam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ampa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nkwaseasɛm mu"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "wɔankyagyaw"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ɔboaboa ano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔnnim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "hena"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "na ɔbɛboaboa no ano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:27.596438490Z",
+  "model": "glm-5.3"
+}

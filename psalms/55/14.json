@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Na wo ne onipa a ɔte sɛ me, me kɔkɔɔbo yɔnko, na me nimpa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "a ɔte sɛ me"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "me kɔkɔɔbo yɔnko"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "na me nimpa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:50.278636011Z",
+  "model": "glm-5.3"
+}

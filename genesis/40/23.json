@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Nanso sar a ɔhwɛ nsānom so no annkae ⟨את⟩ Yosef, na owerɛfiri no.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nanso ... ann-"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kae"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "a ɔhwɛ nsānom so no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "na owerɛfiri no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:12.610549138Z",
+  "model": "glm-5.3"
+}

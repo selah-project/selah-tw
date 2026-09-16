@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Mo nso, monhwɛ ⟨את⟩ me chukim ne ⟨את⟩ me atemmu, na monnyɛ nkyinkyinsɛm yi nyinaa mu baako mpo — ɔman ba ne ahɔhoɔ a ɔte mo mu nyinaa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "monhwɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me chukim"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "me chukim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me atemmu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "me atemmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na monnyɛ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "monnyɛ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "yi nyinaa mu baako"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "nkyinkyinsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ɔman ba"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ne ahɔhoɔ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "a ɔte"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:29.475588014Z",
+  "model": "glm-5.3"
+}

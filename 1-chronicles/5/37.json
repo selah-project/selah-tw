@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Azarjah woo ⟨את⟩ Amarjah, na Amarjah woo ⟨את⟩ Akitub.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "na Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitub"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:34.346797566Z",
+  "model": "glm-5.3"
+}

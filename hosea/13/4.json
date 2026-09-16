@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na me ne Yawe, wo Eloohim, firi Misraim asase so; Eloohim a ɔnyɛ me, wunnim no; na ɔkyigyifoɔ nni hɔ — me nko ara.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi … asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "na Eloohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "a ɔnyɛ me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wunnim"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "na ɔkyigyifoɔ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "me nko ara"
+    }
+  ],
+  "timestamp": "2026-09-16T01:09:14.334730517Z",
+  "model": "glm-5.3"
+}

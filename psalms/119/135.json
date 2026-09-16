@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ma wo anim hyerɛn wɔ wo akoa so, na kyɛrɛ me ⟨את⟩ wo nhyehyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ma ... hyerɛn"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "wɔ wo akoa so"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "na kyɛrɛ me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nhyehyɛeɛ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "wo nhyehyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:49.640805031Z",
+  "model": "glm-5.3"
+}

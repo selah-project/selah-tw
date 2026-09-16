@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Monnyɛ mo akoma den sɛ Meriba no, anaasɛ sɛ ɛda Massa no deɛ, wɔ asase no mu;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "monnyɛ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "monnyɛ mo akoma den"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mo akoma"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "sɛ Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sɛ ɛda"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asase kwanso no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T06:06:54.435260933Z",
+  "model": "glm-5.3"
+}

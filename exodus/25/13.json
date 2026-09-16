@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wubɛyɛ nkonnwa a wɔde shittim dua ayɛ, na wubɛkata ⟨את⟩ wɔn so sika kɔkɔɔ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wubɛyɛ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "nkonnwa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "na wubɛkata ... so"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (nkonnwa no)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:01.010133197Z",
+  "model": "glm-5.3"
+}

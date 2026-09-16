@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Dawid san faa akyerefoɔ bi wɔ Yerusalem, na Dawid san woo mma mmarima ne mma mmaa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "san"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akyerefoɔ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "san woo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "san"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma mmaa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:42:07.358841869Z",
+  "model": "glm-5.3"
+}

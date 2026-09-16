@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Pilisitifoɔ boaboaa ⟨את⟩ wɔn asraafoɔ nyinaa ano wɔ Afeka, na Yisrael foɔ tenaa ntaban wɔ asutsɛnea a ɛwɔ Yizreɛl.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "boaboaa ano"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilisitifoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asraafoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "wɔn asraafoɔ"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisrael foɔ"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "tenaa ntaban"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "wɔ asutsɛnea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ɛwɔ Yizreɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:18.855596302Z",
+  "model": "glm-5.3"
+}

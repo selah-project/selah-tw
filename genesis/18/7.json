@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Abraham nso bɔɔ ntɛm kɔɔ anantwie no nkyɛn, ɛguu ho faa nantwie ba dwerɛbea a ɔyɛ pa, de maa abarimaa no, na ɔbɔɔ ntɛm yɛɛ ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anantwie no nkyɛn"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "ɛguu ho"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nantwie"
+    },
+    {
+      "surface": "רך",
+      "gloss": "dwerɛbea"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "a ɔyɛ pa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "de maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abarimaa no"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "bɔɔ ntɛm"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (nantwie ba no)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:10.536522266Z",
+  "model": "glm-5.3"
+}

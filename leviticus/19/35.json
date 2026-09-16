@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Monnyɛ abɔne wɔ atemmuo mu, wɔ nsusuw mu, wɔ nduru mu, na wɔ nsuo-susu mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "monn-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "abɔne"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "atemmuo mu"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "nsusuw mu"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "nduru mu"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "na nsuo-susu mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:09.808325800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Yawe kasa kyerɛɛ Mose ne Aaron, sɛ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ:"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:37.073375352Z",
+  "model": "glm-5.3"
+}

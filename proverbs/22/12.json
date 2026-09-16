@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Yawe ani hwɛ nimdeɛ soɔ, na ɔbu wɔn a wɔyɛ adifudepɛfoɔ asɛm no.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "hwɛ ... soɔ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ɔbu ... asɛm no"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "adifudepɛfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:58:24.577258700Z",
+  "model": "glm-5.3"
+}

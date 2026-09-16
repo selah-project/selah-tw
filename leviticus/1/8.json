@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Aharon mma, asɔfoɔ no, bɛhyehyɛ ⟨את⟩ nkyekyɛmu no, ⟨את⟩ ti no ne ⟨את⟩ ngo no, wɔ nkyɛɛma a ɛwɔ ogya no so a ɛwɔ afɔreɛ pon no so no so.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "bɛhyehyɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkyekyɛmu no"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "nkyekyɛmu no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti no"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngo no"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ngo no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nkyɛɛma no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛwɔ ... so"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogya no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛwɔ ... so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔreɛ pon no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:11.535328028Z",
+  "model": "glm-5.3"
+}

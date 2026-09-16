@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Eloohim, ɛnntemm me; m'Eloohim, mmɛ mmoa me ntɛm.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛnn"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ntemm me"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "(mfi me ho)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "m'Eloohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mmoa me"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ntɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:44.960919646Z",
+  "model": "glm-5.3"
+}

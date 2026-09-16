@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔhene Sélomo bɛyɛɛ ɔhene wɔ Israelfoɔ nyinaa so.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ... bɛyɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sélomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:42.181239206Z",
+  "model": "glm-5.3"
+}

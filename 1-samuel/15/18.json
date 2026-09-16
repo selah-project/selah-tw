@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Yawe somaa wo kɔɔ ɛkwan so, na ɔkae sɛ: Kɔ, na hyɛ ⟨את⟩ bɔnefoɔ no ne ⟨את⟩ Amalek herem mu, na ko wɔn so kɔsɛ sɛ wobewuwu ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "somaa wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kɔɔ ɛkwan so"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkae sɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "hyɛ herem mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔnefoɔ no"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "bɔnefoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "na ko wɔn so"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsɛ sɛ"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "wobewuwu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:04.632332571Z",
+  "model": "glm-5.3"
+}

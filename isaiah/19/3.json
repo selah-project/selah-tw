@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na Misraim honhom bɛyera wɔ ne mu, na mɛmene ne afutuo; na wɔbɛhwehwɛ abosom, ne ahohonhoni, ne abayifoɔ, ne ahonhomkenfoɔ.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "bɛyera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "wɔ ne mu"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "ne afutuo"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "mɛmene"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "wɔbɛhwehwɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "abosom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "ahohonhoni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "abayifoɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ahonhomkenfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:57.076070338Z",
+  "model": "glm-5.3"
+}

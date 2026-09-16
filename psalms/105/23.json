@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Israel baa Misraim, na Yákob tenaa ase sɛ ɔhɔhoɔ wɔ Ham asaase so.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yákob"
+    },
+    {
+      "surface": "גר",
+      "gloss": "tenaa ase sɛ ɔhɔhoɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asaase so"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:34.384586629Z",
+  "model": "glm-5.3"
+}

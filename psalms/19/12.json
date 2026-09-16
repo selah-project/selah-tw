@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Wo akodie nso nya kɔkɔbɔ wɔ mu; wɔbɛhwɛ so a, akatua kɛseɛ wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akodie"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nya kɔkɔbɔ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "wɔhwɛ so a"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "akatua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:23.881178917Z",
+  "model": "glm-5.3"
+}

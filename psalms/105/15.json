@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "“Momma mo nkasa Me Mashíachfoɔ, na momma mo nyɛ Me nkontomfoɔ bɔne.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Momma"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "mo nkasa"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Me Mashíachfoɔ"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "na ... Me nkontomfoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "momma"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "mo nyɛ bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:03.197899339Z",
+  "model": "glm-5.3"
+}

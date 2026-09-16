@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 128,
+  "translation": "hwɛ, nokorɛ, sɛnea onipa a ɔsuro Yawe no me nhyira so.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "me nhyira so"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ɔsuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:31:55.677469687Z",
+  "model": "glm-5.3"
+}

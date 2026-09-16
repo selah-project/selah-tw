@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wo akoa no wɔ wo nkurɔfoɔ ntam, wɔn a wɔapaw wɔn — nkurɔfoɔ bebree a wɔrentumi nkan wɔn na wɔrentumi nsusu wɔn, ɛnam dodoɔ nti.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "na wo akoa no"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... ntam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo nkurɔfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "wɔapaw wɔn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkurɔfoɔ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bebree"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔrentumi nkan"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wɔrentumi nssusu"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "susu"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ɛnam dodoɔ nti"
+    }
+  ],
+  "timestamp": "2026-09-15T23:14:35.930442207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Dawid kaa kyerɛɛ no sɛ: “Sɛ wobɛtwan kwan so ⟨את⟩ me a, na wobɛyɛ me haw.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "wobɛtwan kwan so"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "והית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "me haw"
+    }
+  ],
+  "timestamp": "2026-09-15T23:05:54.849908849Z",
+  "model": "glm-5.3"
+}

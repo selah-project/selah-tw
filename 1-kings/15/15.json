@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Ɔde ⟨את⟩ n'agya kronkronde ne ne ankasa kronkondennwoma baa Yawe fie: dwetɛ, sika kɔkɔɔ, ne nnwinnadeɛ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "de ... baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'agya kronkronde"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "n'agya kronkronde"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ne ne ankasa kronkondennwoma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ne sika kɔkɔɔ"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ne nnwinnadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:34.994876269Z",
+  "model": "glm-5.3"
+}

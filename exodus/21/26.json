@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na sɛ ɔbarima bɔ ⟨את⟩ aniwa ne akoa anaa ⟨את⟩ aniwa ne akoa baa, na ɛsɛe no, ɔbɛgya no ama no kɔ ahofadi wɔ ne aniwa no ananmu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aniwa ne akoa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "aniwa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ne akoa"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aniwa ne akoa baa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "aniwa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ne akoa baa"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "na ɛsɛe"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "kɔ ahofadi"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ɔbɛgya no"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananmu"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ne aniwa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:00.760454854Z",
+  "model": "glm-5.3"
+}

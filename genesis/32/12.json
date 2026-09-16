@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Gye me, mepa wo kyɛw, firi m'nuanom nsa mu, firi Esav nsa mu; ɛfiri sɛ mesuro ⟨את⟩ no, anaasɛ ɔbɛba abɔ me — ɛna ɛnyɛ na ɛka ɔma ne nkwadaa no.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Gye me"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi … nsa mu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "m'nuanom"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi … nsa mu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mesuro"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Esav)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ɔbɛba"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "abɔ me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ɛna ɛnyɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "nkwadaa no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:30:16.907852224Z",
+  "model": "glm-5.3"
+}

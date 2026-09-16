@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔka kyerɛɛ ne mma mmaa no sɛ: Ɛwɔ he? Adɛn na moahwɛ ⟨את⟩ ɔbarima no kwa? Frɛ no na ɔmmɔra aduane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔka kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ne mma mmaa no"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ɛwɔ he"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "moahwɛ...kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbarima no"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ɔmmɔra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:30.434898511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Sɛ wɔhene honhom sɔre tia wo a, nnwera wo baabi; ɛfiri sɛ ahomeka ma asɛyɛdeɛ akɛseɛ gye to hɔ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "wɔhene"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tia wo"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "wo baabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "nwera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ahomeka"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ma ... gye to hɔ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "asɛyɛdeɛ"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "akɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:58:39.788711597Z",
+  "model": "glm-5.3"
+}

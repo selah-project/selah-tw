@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Dom me mme, Eloohim, ɛfiri sɛ ⟨⟨nipa⟩⟩ pɛ sɛ ɔtwa me anom; ɛda nyinaa ko mu ɔhyɛ me so.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Dom me mme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "pɛ sɛ ɔtwa me anom"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nipa (owuo nipa)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ko mu"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "ɔhyɛ me so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:31.651415189Z",
+  "model": "glm-5.3"
+}

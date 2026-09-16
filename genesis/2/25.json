@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na wɔn baanu nyinaa yɛɛ akɔnnwa, Adam ne ne yere, na wɔanhyɛ wɔn anim aseɛ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "akɔnnwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ne ne yere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔannye"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "wɔanhyɛ wɔn anim aseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:14:37.978586211Z",
+  "model": "glm-5.3"
+}

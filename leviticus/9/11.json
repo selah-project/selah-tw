@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ nam no ne ⟨את⟩ hwam no, ɔde ogya hyɛɛ ngu wɔ asɔreton no akyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nam no"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nam no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hwam no"
+    },
+    {
+      "surface": "העור",
+      "gloss": "hwam no"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "de ogya hyɛɛ ngu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "asɔreton no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:08.136824416Z",
+  "model": "glm-5.3"
+}

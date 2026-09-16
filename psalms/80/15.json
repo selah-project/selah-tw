@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Eloohim Tsevaot, sankɔ hɔ, yɛsrɛ wo; hwɛ fi ɔsoro, na hunu, na hwɛ dua yi so.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "sankɔ hɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yɛsrɛ wo"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "fi ɔsoro"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na hunu"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "na hwɛ so"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "dua"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:57.792374989Z",
+  "model": "glm-5.3"
+}

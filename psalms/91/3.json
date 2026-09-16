@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Ɔno na ɔbɛgya wo afiri ɔkwakora afuo mu, ne yadeɛ a ɛsɛe nnipa no mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokorɛ sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ɔno"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ɔbɛgya wo afiri"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "afuo mu"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ɔkwakora"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yadeɛ mu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "a ɛsɛe nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:11.812271112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "(Ɔno) Nsoma wo mmoa afiri asɔredan mu, na afiri Tsiyon ɔmmoa wo ma wo gyina.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Nsoma"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "wo mmoa"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "afiri asɔredan mu"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "na afiri Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "ɔmmoa wo ma wo gyina"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:10.436262614Z",
+  "model": "glm-5.3"
+}

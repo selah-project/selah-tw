@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Wɔn hwan na wɔretu te sɛ nwunu, na te sɛ atwerɛ rebɛkɔ wɔn tokuro mu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "te sɛ nwunu"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "wɔretu"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "te sɛ atwerɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rekɔ"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "wɔn tokuro mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:02:37.061648226Z",
+  "model": "glm-5.3"
+}

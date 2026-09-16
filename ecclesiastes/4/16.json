@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Nnipa no nyinaa awieeɛ nni hɔ, wɔn a wɔwɔ wɔn anim nyinaa; nanso wɔn a ɔba akyiri no rennya anigyeɛ wɔ no ho; ɛfiri sɛ ɛno nso yɛ ⟨ahohoraeɛ⟩ ne mframa ho mmorabɔ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "awieeɛ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wɔwɔ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "wɔn a ɔba akyiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rennya"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wɔ no ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ahohoraeɛ"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "mmorabɔ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:49:48.382260077Z",
+  "model": "glm-5.3"
+}

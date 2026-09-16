@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Na Shimon mma ne Yemuel, ne Yamin, ne Ohad, ne Yakin, ne Tsohar, ne Shaul a ɔyɛ Kenaanni ba.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ne Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "ne Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ne Yakin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "ne Tsohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ne Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "Kenaanni"
+    }
+  ],
+  "timestamp": "2026-09-15T20:39:44.793057423Z",
+  "model": "glm-5.3"
+}

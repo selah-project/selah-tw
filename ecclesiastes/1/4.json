@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nkyirimba kɔ, na nkyirimba foforɔ ba; nanso asase gyina hɔ daa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "nkyirimba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na nkyirimba foforɔ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nanso asase"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "gyina hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:48:26.152892636Z",
+  "model": "glm-5.3"
+}

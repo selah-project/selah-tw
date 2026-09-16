@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Abraham bɔɔ aseɛ wɔ asase no man no anim.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "bɔɔ aseɛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:57.023599534Z",
+  "model": "glm-5.3"
+}

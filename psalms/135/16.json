@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Ano wɔ wɔn nanso wɔnnkasa; ani mmienu wɔ wɔn nanso wɔnhunu.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔ wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso wɔnn-"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ani mmienu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔ wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso wɔnn-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hunu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:20.613642223Z",
+  "model": "glm-5.3"
+}

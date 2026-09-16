@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Eloohim kasa ⟨את⟩ nsɛm nyinaa yi, se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm nyinaa yi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:38.987285239Z",
+  "model": "glm-5.3"
+}

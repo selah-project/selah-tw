@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Izebel ne yerɛ baa ne nkyɛn, na ɔkaa kyerɛɛ no: Adɛn yei, wo honhom aserɛ, na wommisa aduane?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yerɛ"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yei"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "wo honhom"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "aserɛ"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "na wonni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wommisa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-15T23:25:53.293318870Z",
+  "model": "glm-5.3"
+}

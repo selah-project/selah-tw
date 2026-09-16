@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 137,
+  "translation": "Wɔkyɛn so wɔ ne mfamɔ mu na yɛsɛee yɛn nnwomtoɔ nnwaren.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "Wɔkyɛn"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ne mfamɔ mu"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "yɛsɛee"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "yɛn nnwomtoɔ nnwaren"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:18.257082538Z",
+  "model": "glm-5.3"
+}

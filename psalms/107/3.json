@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Na ɔfiri aman mu boaa wɔn bom, firi epuei ne atɔeɛ, firi atifi ne ɛpo mu.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "na firi aman mu"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "boaa wɔn bom"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "firi epuei"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ne atɔeɛ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "firi atifi"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ne ɛpo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:11.693774703Z",
+  "model": "glm-5.3"
+}

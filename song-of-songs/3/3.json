@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Wɔhunuu me — kuro no mu banbɔfoɔ a wɔdi ho ahwɛ; ⟨את⟩ de me nkwa dɔ no, moahunu no anaa?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "Wɔhunuu me"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "banbɔfoɔ"
+    },
+    {
+      "surface": "הסובבים",
+      "gloss": "a wɔdi ho ahwɛ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kuro no mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de me nkwa dɔ no"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "de"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "moahunu no anaa?"
+    }
+  ],
+  "timestamp": "2026-09-16T03:43:31.779699771Z",
+  "model": "glm-5.3"
+}

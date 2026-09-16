@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 142,
+  "translation": "Me nne kɔ Yawe, mezegua; me nne kɔ Yawe, mesrɛ mmɔborɔhunu.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "mezegua"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mesrɛ mmɔborɔhunu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:39.861729028Z",
+  "model": "glm-5.3"
+}

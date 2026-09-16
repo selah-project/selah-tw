@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Ne nnwuma nyinaa bɛda Yawe animuonyam adi, na ne ahotefoɔ nhyira no.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bɛda ... animuonyam adi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ne nnwuma"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "na ne ahotefoɔ"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "nhyira no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:28.218727770Z",
+  "model": "glm-5.3"
+}

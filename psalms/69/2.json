@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Gyaw me, Eloohim, ɛfiri sɛ nsuo aba, akɔ me nkwa mu.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Gyaw me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "aba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akɔ ... mu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "me nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:30.014859323Z",
+  "model": "glm-5.3"
+}

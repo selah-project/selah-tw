@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Na Yosef de ne papa ne n'nuanom tenaa hɔ, na ɔmaa wɔn asasetam wɔ Misraim asase so, wɔ asase no mu deɛ ɛyɛ dɛ mu, wɔ Raamses asase mu, sɛnea Paroh hyɛɛ no.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "de ... tenaa hɔ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'nuanom"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'nuanom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔmaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "asasetam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "wɔ ... deɛ ɛyɛ dɛ mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase mu"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:10.926270017Z",
+  "model": "glm-5.3"
+}

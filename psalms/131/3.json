@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 131,
+  "translation": "Yisraelm, twɛn Yawe, firi seesei de kɔ daa.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "twɛn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ … mu (kɔ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "firi seesei"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kɔ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:50.063289732Z",
+  "model": "glm-5.3"
+}

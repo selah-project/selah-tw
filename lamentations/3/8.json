@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ga mu sɛ mesoteɛ na mesrɛ mmoa, ɔabɔ m'mpaebɔ no mu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ga mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "mesoteɛ"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "na mesrɛ mmoa"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ɔabɔ ... mu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "m'mpaebɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:48:25.168500139Z",
+  "model": "glm-5.3"
+}

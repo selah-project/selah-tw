@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Nea ɔdɔ amanaman soɔ, so ɔnnɔ wɔn ho asɛm nnihɔ? Nea ɔkyerɛ onipa nimdeɛ, so ɔnnim?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Nea ɔdɔ soɔ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "so"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ɔnnɔ wɔn ho asɛm nnihɔ"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Nea ɔkyerɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:53.581358749Z",
+  "model": "glm-5.3"
+}

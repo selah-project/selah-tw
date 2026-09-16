@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ɔhoɔfoɔ no, mmpɛw no, na mmɔ no mmɔ so; ɛfiri sɛ mo hoɔfoɔ na moyɛɛ wɔ Misraim asase so.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Ɔhoɔfoɔ no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mm"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "pɛw no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mm"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "bɔ no mmɔ so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "hoɔfoɔ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "moyɛɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:26:01.205547708Z",
+  "model": "glm-5.3"
+}

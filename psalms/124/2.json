@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 124,
+  "translation": "sɛ Yawe nkaa na ɔnyɛɛ yɛn dea a, wɔ nnipa sɔree tiaa yɛn no",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "sɛ ... nkaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ɔnyɛɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn dea"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "wɔ ... sɔree"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "tiaa yɛn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:30.864618505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Adam frɛɛ ne yere din Hawa, ɛfiri sɛ ɔno na ɔyɛɛ maame wɔ wɔn a wɔte aseɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na ... frɛɛ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maame"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wɔn a wɔte aseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:43.777008577Z",
+  "model": "glm-5.3"
+}

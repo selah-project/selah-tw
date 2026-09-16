@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Wobɛma me nim ɔkwan a nkwa wɔ so; ahurisie a ɛdɔɔso wɔ ⟨את⟩ w'anim; deɛ ɛdɛ wɔ wo nsa nifa so, daa.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Wobɛma me nim"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a nkwa wɔ so"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "a ɛdɔɔso"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ahurisie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'anim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "deɛ ɛdɛ"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "wɔ wo nsa nifa so"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:02.263248312Z",
+  "model": "glm-5.3"
+}

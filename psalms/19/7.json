@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ne firifie wɔ ɔsoro no awieeɛ, na ne ntwamu ka wɔn awieeɛ so; na hwee nnsie ne hyew ano.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "firi ... awieeɛ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro no"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ne firifie"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "na ne ntwamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "wɔn awieeɛ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hwee nni"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "nnsie"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ne hyew ano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:47.961801637Z",
+  "model": "glm-5.3"
+}

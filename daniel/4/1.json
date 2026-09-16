@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Me, Nevukadnessar, na mewɔ ahotosoɔ mu wɔ me fie, na mema ahoɔden wɔ me ahemfie mu.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnessar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "mewɔ ahotosoɔ mu"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "na"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "wɔ me fie"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "na mema ahoɔden"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "wɔ me ahemfie mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:08:19.045111511Z",
+  "model": "glm-5.3"
+}

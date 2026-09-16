@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Wo ho, wo nko ara na mi bɔɔ bɔne, na bɔne no na mediyɛeɛ wɔ wo nhumu mu, sɛdeɛ wobɛyɛ trenee wɔ wo nsɛm mu, na wobɛda nokorɛ adi wɔ w'atemmuo mu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wo nko ara"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mi bɔɔ bɔne"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "na bɔne no"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "wɔ wo nhumu mu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mediyɛeɛ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "wobɛyɛ trenee"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "wɔ wo nsɛm mu"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "na wobɛda nokorɛ adi"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "wɔ w'atemmuo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:34.032913639Z",
+  "model": "glm-5.3"
+}

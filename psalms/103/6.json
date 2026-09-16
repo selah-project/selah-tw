@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Yawe yɛ atɛntreneenee ne nsɛm atemmu de ma wɔn nyinaa a wɔayɛ wɔn amane.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "atɛntreneenee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ne nsɛm atemmu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de ma wɔn nyinaa"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "a wɔayɛ wɔn amane"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:09.130611174Z",
+  "model": "glm-5.3"
+}

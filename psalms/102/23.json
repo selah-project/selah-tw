@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Bere a wɔboa amanaman bom, ne ahennie, sɛ wɔnkɔsom ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "bere a wɔboa bom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bom"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ne ahennie"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sɛ wɔnkɔsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:20.991812822Z",
+  "model": "glm-5.3"
+}

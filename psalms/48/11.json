@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Sɛnea wo din te sɛ, Eloohim, saa na wo mmo da asase ahye so; atemsodie ahyɛ wo nsa nifa ma.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Sɛnea wo din te sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "wo mmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ahye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atemsodie"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ahyɛ ... ma"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nsa nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:34.181455141Z",
+  "model": "glm-5.3"
+}

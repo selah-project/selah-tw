@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Ntoasoɔ bi bɛkamapɛ wo nnwuma de ntoasoɔ foforɔ; na wɔbɛka wo ahoɔden nnwuma.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ntoasoɔ bi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "de ntoasoɔ foforɔ"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "bɛkamapɛ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "wo nnwuma"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "na wo ahoɔden nnwuma"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "wɔbɛka"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:29.727757439Z",
+  "model": "glm-5.3"
+}

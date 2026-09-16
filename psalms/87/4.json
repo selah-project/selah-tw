@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 87,
+  "translation": "Mɛbɔ Rahab ne Babilon ka wɔn a wɔnim Me ho; hwɛ, Peleset ne Tsur ne Kush — saa onipa yi, wɔwoo no hɔ.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "mɛbɔ ... ka"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "ne Babilon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "wɔn a wɔnim Me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ne Tsur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "saa onipa yi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wɔwoo no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:27.935272511Z",
+  "model": "glm-5.3"
+}

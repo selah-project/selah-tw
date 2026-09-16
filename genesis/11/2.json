@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na wɔretwá wɔn kwan firi apueeɛ mu no, wɔhunuu bon wɔ Shinar asase mu, na wɔtenaa ase hɔ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ... no"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "wɔretwá wɔn kwan"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "firi apueeɛ mu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "bon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase mu"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na wɔtenaa ase"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:41.816670746Z",
+  "model": "glm-5.3"
+}

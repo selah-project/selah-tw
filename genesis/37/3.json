@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na Israel dɔɔ ⟨את⟩ Yosef sen ne mma nyinaa, ɛfiri sɛ na ɔyɛ ba a ɔwoo no wɔ n'aberɛ ada mu; ɔyɛɛ no atade tenten a nsa wɔ mu.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sen ... nyinaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "aberɛ ada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "atade"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "tenten a nsa wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:01.569465152Z",
+  "model": "glm-5.3"
+}

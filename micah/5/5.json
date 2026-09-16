@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na wɔbɛhwɛ ⟨את⟩ Ashur asase so de afena, ne ⟨את⟩ Nimrod asase so wɔ n'ano ano; na ⟨ɔno⟩ bɛgya yɛn firi Ashur nsam, sɛ ɔba yɛn asase mu, na sɛ ɔnantew yɛn ahyeɛ so.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "na wɔbɛhwɛ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur asase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "de afena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod asase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "wɔ n'ano ano"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "na ɔbɛgya yɛn"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "firi Ashur nsam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "yɛn asase mu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ɔnantew"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "yɛn ahyeɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:20:24.187230787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɛnso ⟨את⟩ ɔdede no ba, mɛyɛ no ɔman, ɛfiri sɛ ɔyɛ wo aba.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ɛnso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔdede no ba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ɔdede no"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "mɛyɛ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo aba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:24:35.085047123Z",
+  "model": "glm-5.3"
+}

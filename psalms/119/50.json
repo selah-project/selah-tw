@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Ɛno ne me nkɔmhyɛ wɔ m'amm summed mu, ɛfiri sɛ wo asɛm no maa me nkwa.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ɛno"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ne me nkɔmhyɛ"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "wɔ m'amm summarized mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "wo asɛm"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "maa me nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:55.360878995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Me nani awu ama wo asɛm no, sɛ: bere bɛn na wobɔ me ho nkuran?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "awu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me nani"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "ama wo asɛm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bere bɛn"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "wobɔ me ho nkuran"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:08.379611837Z",
+  "model": "glm-5.3"
+}

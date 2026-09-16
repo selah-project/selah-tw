@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Sɛdeɛ wo nan bɛtetew mogya mu, na wo nkraman kɛtɛ no benya ne kyɛfa afiri wo atanfoɔ no mu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "bɛtetew (abubu mu)"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "wo nan"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mogya mu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kɛtɛ"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "wo nkraman"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "afiri wo atanfoɔ"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "no mu (kyɛfa)"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:12.113349451Z",
+  "model": "glm-5.3"
+}

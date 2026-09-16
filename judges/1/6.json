@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Adoni-Bezek dwanee, na wɔtoaa no so, na wɔsɔɔ no, na wɔtetew ⟨את⟩ ne nensa mu nwansena ne ne nan mu nwansena.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "dwanee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "wɔtoaa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "wɔsɔɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "wɔtetew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwansena"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "nwansena"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "nensa"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:48.830968698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Mmá ne mmábawa wobɛwo, nanso wɔnnyɛ wo dea, ɛfiri sɛ wɔbɛkɔ nkoa mu.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "mmá"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mmábawa"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "wobɛwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... ɛnyɛ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wɔbɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo dea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "wɔbɛkɔ"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "nkoa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:51.000188216Z",
+  "model": "glm-5.3"
+}

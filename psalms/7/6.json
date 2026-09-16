@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "monka ɔtamfoɔ ndi me nkwa akyi na ɔmmunya me; monka ɔnye me nkwa apē asase so, na m'animuonyam ntena mmɔntene mu. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "ndi ... akyi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtamfoɔ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "na ɔmmunya me"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "monka ɔnye ... apē"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "na m'animuonyam"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "mmɔntene mu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ntena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:50.053612677Z",
+  "model": "glm-5.3"
+}

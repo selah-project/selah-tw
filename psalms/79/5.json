@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Kɔsi sɛn, Yawe? Wobɛfɔ yɛn da? Wo mmarato bɛhye sɛ ogya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "wobɛfɔ yɛn"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "da"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "bɛhye"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "wo mmarato"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:35.079313305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɔde asomdwoeɛ si wo ahyeɛ so, Ɔde aburoo nsam ma wo sɔ.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ɔde ... si"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "wo ahyeɛ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "aburoo"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "ma wo sɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:21.018878710Z",
+  "model": "glm-5.3"
+}

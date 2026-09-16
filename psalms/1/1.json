@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Onipa a ɔnnantewɛ wɔ abɔnefoɔ afutuo mu, ɔnngyina mfomsoɔyɛfoɔ kwan so, na ɔnntena akyesaremfoɔ tenabea mu — ɔno na nkonimdie wɔ ne ho.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nkonimdie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nantewɛ"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "wɔ ... afutuo mu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "na ... kwan so"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mfomsoɔyɛfoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "na ... tenabea mu"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "akyesaremfoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tena"
+    }
+  ],
+  "timestamp": "2026-09-16T01:36:10.195971120Z",
+  "model": "glm-5.3"
+}

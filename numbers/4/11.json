@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Wɔbɛtrɛw ntoma bɔne agu sika afɔreɛ pon no so, na watakata no anantwie nwoma mu, na wɔbɛfa ⟨את⟩ ne soa dua.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "so"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "afɔreɛ pon"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "wɔbɛtrɛw agu"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ntoma"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "wɔbɛtakata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (afɔreɛ pon no)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "asie mu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "wɔbɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne soa dua"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ne soa dua"
+    }
+  ],
+  "timestamp": "2026-09-15T21:26:19.775032738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Efisɛ mɛyi Baalim din no ⟨את⟩ firi ne anom, na wɔbɛka wɔn din bio da wɔ wɔn din mu.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "mɛyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim din no"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "din"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "firi ne anom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔn-"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "ka wɔn din"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio da"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "wɔ wɔn din mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:04:06.445415473Z",
+  "model": "glm-5.3"
+}

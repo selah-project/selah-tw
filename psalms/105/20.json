@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔhene no somm no, na ɔgya no; amanfoɔ odikanfoɔ no ma no kɔe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "somm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ɔhene no"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "na ɔgya no"
+    },
+    {
+      "surface": "משל",
+      "gloss": "odikanfoɔ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "ma no kɔe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:42.590009366Z",
+  "model": "glm-5.3"
+}

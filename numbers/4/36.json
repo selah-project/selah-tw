@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wɔn a wɔkankana wɔn wɔ wɔn afiridua mu no dodoɔ yɛ mpem mmienu, ahaanan ne aduonum.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na ... yɛ"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "wɔn a wɔkankana wɔn"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "wɔ wɔn afiridua mu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mpem mmienu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ahaanan"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ne aduonum"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:18.047049330Z",
+  "model": "glm-5.3"
+}

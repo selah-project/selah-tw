@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Deɛ ɔdi nnwomtofoɔ no sini so — wɔ Nehilot nnwomtoɔ so — Dawid mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔdi nnwomtofoɔ no sini so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilot nnwomtoɔ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:33.596360859Z",
+  "model": "glm-5.3"
+}

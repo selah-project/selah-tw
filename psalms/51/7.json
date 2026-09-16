@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Hwɛ, wɔ bɔne mu na wɔwoo me, na wɔ bɔne mu na me maame nyɛɛ bi ama m'awo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "wɔ bɔne mu"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "na wɔwoo me"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "na wɔ bɔne mu"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "na me maame nyɛɛ bi ama m'awo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me maame"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:34.033205808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Mose kyerɛɛ Aharon ⟨את⟩ Yawe nsɛm nyinaa a wɔde asomaa no mu, ne ⟨את⟩ nsɛnkyerɛnne nyinaa a Ɔhyɛɛ no.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "asomaa no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nsɛnkyerɛnne nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "Ɔhyɛɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:12.553051515Z",
+  "model": "glm-5.3"
+}

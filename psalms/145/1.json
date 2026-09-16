@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Tehilla de Dawid. Mɛma wo soro, me Eloah, ⟨ɔhene⟩ no; na mɛhyira wo din kɔ daa, nnɔnse.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Tehilla (nnwomtoo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de Dawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "mɛma wo soro"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "me Eloah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨ɔhene⟩ no"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "na mɛhyira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ daa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nnɔnse"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:29.722861093Z",
+  "model": "glm-5.3"
+}

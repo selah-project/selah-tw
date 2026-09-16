@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wo bɛde ⟨את⟩ Ark a ɛyɛ adanse no agu hɔ, na wo kata ark no so de ⟨את⟩ nsɛnmu no.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na wo bɛde … agu hɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ark a ɛyɛ adanse"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Ark"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "a ɛyɛ adanse"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "na wo kata … so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ark no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛnmu no"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "nsɛnmu no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:59.707978920Z",
+  "model": "glm-5.3"
+}

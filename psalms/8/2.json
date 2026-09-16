@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Yawe, yɛn Adonai, wo din sɛnea ɛmu ye duru wɔ asase nyinaa so! Wo a woama wo animuonyam gyina ɔsoro so!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "yɛn Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ɛmu ye duru"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ … nyinaa mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo a"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "woama … gyina"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "wo animuonyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:00.407159427Z",
+  "model": "glm-5.3"
+}

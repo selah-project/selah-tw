@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Yɛ den, na ɔno bɛma mo akoma ayɛ den, mo nyinaa a mo twɛn Yawe.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Yɛ den"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "na ɔbɛma ayɛ den"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mo akoma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mo nyinaa"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "a mo twɛn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:10.257414238Z",
+  "model": "glm-5.3"
+}

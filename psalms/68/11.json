@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Wo nkurɔfoɔ no tenaa mu; wo papa mu na wo maahyɛ de ɛma ahiafoɔ, Eloohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "wo nkwafoɔ \/ wo nkurɔfoɔ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tenaa mu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "maahyɛ \/ sie"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "wo papa mu"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "maa ahiafoɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:35.967723114Z",
+  "model": "glm-5.3"
+}

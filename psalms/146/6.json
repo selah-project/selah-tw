@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Ɔyɛ ɔsoro ne asase, ⟨את⟩ ɛpo no, ne ⟨את⟩ deɛ ɛwɔ mu nyinaa; ɔno na ɔdi nokorɛ daa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ɔyɛ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ne asase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛpo no"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ ɛwɔ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ɔno na ɔdi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:27.333968669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na Mose teɛm kɔɔ Yawe nkyɛn sɛ: Mɛyɛ dɛn ma dɔm yi? Ka kakra na wɔbɛto me aboɔ.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "teɛm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nkyɛn sɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mɛyɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ma dɔm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "na wɔbɛto me aboɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:53:16.971351267Z",
+  "model": "glm-5.3"
+}

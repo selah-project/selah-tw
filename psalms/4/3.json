@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Nnipa mma, kɔsi berɛ tenten na m'anuonyam bɛyɛ animtia? Mo dɔ nkwaseasɛm, na mo hwehwɛ nkontompo. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "berɛ tenten"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "m'anuonyam"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "bɛyɛ animtia"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "mo dɔ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "nkwaseasɛm"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "mo hwehwɛ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "nkontompo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:35:31.979649719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Nea ɔtena Elyon akwantabɔ mu, na ɔda Shadai sum mu, no bɛtena hɔ daa.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Nea ɔtena"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "akwantabɔ mu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sum mu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "no bɛtena hɔ daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:11.808286690Z",
+  "model": "glm-5.3"
+}

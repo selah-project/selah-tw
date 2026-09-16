@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yawe, mo Eloohim, a ɔdi mo anim no, ⟨ɔno⟩ na ɔbɛko ama mo, sɛnea ɔyɛɛ deɛ ɔyɛɛ ⟨את⟩ mo ho wɔ Misraim, wɔ mo ani so no nyinaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "a ɔdi mo anim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mo anim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ɔno⟩"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "na ɔbɛko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ama mo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ɔyɛɛ deɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo ho"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "wɔ mo ani so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:26.473766617Z",
+  "model": "glm-5.3"
+}

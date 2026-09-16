@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Na ɔsoro ka n'atɛntrenee; ɛfiri sɛ Eloohim ankasa ne ɔtɛnmfoɔ. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "na ... ka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "n'atɛntrenee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ɔtɛnmfoɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ankasa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:46.985791355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Wɔn a wɔhunu me nyinaa serew me; wɔhyɛ wɔn ano den, wɔto wɔn ti mu, wɔka se,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "wɔn a wɔhunu me"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "serew me"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "wɔhyɛ den"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "wɔto mu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:25.384302219Z",
+  "model": "glm-5.3"
+}

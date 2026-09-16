@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Sɛ mode mo nanamɔhyɛn me Mmara mu, na ⟨את⟩ me Nhyehyɛeɛ no munnye so, na moyɛ ⟨את⟩ deɛ,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "me Mmara mu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mode mo nanamɔhyɛn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me Nhyehyɛeɛ no"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "me Nhyehyɛeɛ no"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "munnye so"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na moyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ deɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:46.626995726Z",
+  "model": "glm-5.3"
+}

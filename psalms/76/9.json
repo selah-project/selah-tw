@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Wofiri ɔsoro maa atemmu tie; asase yii awerɛhoɔ, na ɔdii ase.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "firi ɔsoro"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "womaa ... tie"
+    },
+    {
+      "surface": "דין",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yii awerɛhoɔ"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "na ɔdii ase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:45.630890269Z",
+  "model": "glm-5.3"
+}

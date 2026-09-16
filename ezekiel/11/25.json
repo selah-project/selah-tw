@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na me kasa kɔɔ agyamfoɔ no ho ⟨את⟩ Yawe nsɛm nyinaa a ɔkyerɛɛ me.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Na me kasa kɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "agyamfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ɔkyerɛɛ me"
+    }
+  ],
+  "timestamp": "2026-09-16T00:35:48.905521281Z",
+  "model": "glm-5.3"
+}

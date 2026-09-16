@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 70,
+  "translation": "Eloohim, na wo nkyer me ntɛm; Yawe, m'afotuo mmoa ntɛm na wo mmra.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "na wo nkyer me ntɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "m'afotuo mmoa"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ka ntɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:28.832796435Z",
+  "model": "glm-5.3"
+}

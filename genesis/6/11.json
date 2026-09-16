@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na asase no sɛee wɔ Eloohim anim, na asase no hyɛɛ ɔkosasɛm ma.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "sɛee"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hyɛɛ ... ma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ɔkosasɛm"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:08.051715141Z",
+  "model": "glm-5.3"
+}

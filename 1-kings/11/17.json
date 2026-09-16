@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Hadad dwanee, ⟨ɔno ne⟩ nnipa Adomfo bi a wɔyɛ n'agya akuafoɔ ne ⟨אתו⟩ no, de akɔ Misraim; Hadad de, na ɔyɛ abɔfra ketewa.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "dwanee"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ɔno⟩"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ne nnipa"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Adomfo"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "akuafoɔ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nea ɛne no — nnipa Adomfo a wɔne Hadad dwanee"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Hadad de"
+    },
+    {
+      "surface": "נער",
+      "gloss": "abɔfra"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ketewa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:52.958335369Z",
+  "model": "glm-5.3"
+}

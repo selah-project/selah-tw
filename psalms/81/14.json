@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Sɛ me man bɛtie me a, Israirɛl nso bɛdi me akwan so!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bɛtie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israirɛl"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "me akwan so"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "bɛdi (akwan so)"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:13.687408578Z",
+  "model": "glm-5.3"
+}

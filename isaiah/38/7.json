@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na wei ne nsɛnkyerɛnne a ɛfiri ⟨את⟩ Yawe nkyɛn, sɛ Yawe bɛyɛ ⟨את⟩ asɛm yi a ɔkaeɛ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na wei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩ ... nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:54:33.812692559Z",
+  "model": "glm-5.3"
+}

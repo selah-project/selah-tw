@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Wɔforo kɔ ɔsoro, wɔsan kɔ nsuo mu dɔte ase; wɔn kra tutorɔ wɔ ɔhaw mu.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "wɔforo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kɔ ɔsoro"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "wɔsan kɔ ... ase"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "nsuo mu dɔte"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn kra"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "wɔ ɔhaw mu"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "tutorɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:52.200354777Z",
+  "model": "glm-5.3"
+}

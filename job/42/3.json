@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Hwan ne yi a ɔsie tan, a nimdeɛ nni ne mu? Enti mekasaa deɛ mannim; nneɛma a ɛyɛ nwonwa sene me, na mannim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ɔsie"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "a ... nni"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Enti"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mekasaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nn"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "nim"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "nneɛma a ɛyɛ nwonwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sene me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nnim"
+    }
+  ],
+  "timestamp": "2026-09-16T03:39:59.207348808Z",
+  "model": "glm-5.3"
+}

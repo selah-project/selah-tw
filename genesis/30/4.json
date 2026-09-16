@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na ɔmaa no ⟨את⟩ Bilha ne akoa baa sɛ yerɛ, na Yakob kɔɔ ne ho.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "ne akoa baa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sɛ yerɛ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    }
+  ],
+  "timestamp": "2026-09-15T20:28:16.728638973Z",
+  "model": "glm-5.3"
+}

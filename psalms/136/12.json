@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Wɔ nsa den mu na wɔ nsa a wɔatrɛw aseɛ mu; ɛfiri sɛ n’hesed gyina kɔ daa.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "wɔ nsa ... mu"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "den"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "na wɔ nsa a wɔatrɛw aseɛ mu"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "wɔatrɛw aseɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "n’hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:46.923713193Z",
+  "model": "glm-5.3"
+}

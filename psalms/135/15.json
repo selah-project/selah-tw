@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Amanfoɔ abosomddeɛ yɛ dwetɛ ne sika kɔkɔɔ, adwuma a nnipa nsa ayɛ.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "abosomddeɛ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "Amanfoɔ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ne sika kɔkɔɔ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:20.611281603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Kɔpɛn na wo, ɔkɔdafoɔ, bɛda? Kɔpɛn na wobɛsɔre afiri wo da no mu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kɔpɛn"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ɔkɔdafoɔ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "wobɛda"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "wobɛsɔre"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "wo da no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:45:17.313624538Z",
+  "model": "glm-5.3"
+}

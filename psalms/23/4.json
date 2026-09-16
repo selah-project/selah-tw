@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Mpo sɛ metwa abɔntene a owuo sumu wɔ mu no, mennsi bɔne ho dwɛ: ɛfiri sɛ wone me wɔ hɔ; wo pɔn ne wo konma, wɔn na wɔma me akoma to.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "metwa"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "abɔntene mu"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "owuo sumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mennsi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "dwɛ ho"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wone wo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "me wɔ hɔ"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "wo pɔn"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ne wo konma"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "na wɔma me akoma to"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:44.429469379Z",
+  "model": "glm-5.3"
+}

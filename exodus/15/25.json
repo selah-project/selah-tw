@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na ɔteɛw frɛɛ Yawe, na Yawe kyerɛɛ no dua; ɔtoo no guu ⟨אֵל⟩ nsuo no mu — ɛnyɛ ⟨את⟩-asɛm — na nsuo no yɛɛ dɛ. Hɔ na ɔde mmara ne atemmu sii hɔ maa wɔn, na hɔ na ɔsɔɔ wɔn hwɛɛ.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "teɛw frɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dua"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "too"
+    },
+    {
+      "surface": "אל",
+      "gloss": "guu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no mu"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "yɛɛ dɛ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa wɔn"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ne atemmu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na hɔ"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "sɔɔ wɔn hwɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:00.202956389Z",
+  "model": "glm-5.3"
+}

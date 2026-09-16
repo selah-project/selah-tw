@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Menahem, Gadi ba, firii Tirtsa baa Samaria, bɔɔ ⟨את⟩ Shallum, Yabesh ba, wɔ Samaria, kum no, na ɔdii n'anan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "na ɔforo firii"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "Tirtsa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na ɔbaa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum, Yabesh ba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "wɔ Samaria"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "kum no"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na ɔdii hene"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'anan"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:58.235324262Z",
+  "model": "glm-5.3"
+}

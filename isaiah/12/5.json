@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Monkenne nnwom ama Yawe, ɛfiri sɛ wayɛ anuonyamdeɛ; ama wɔnim saa wɔ ⟨asase⟩ no nyinaa so.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "monkenne nnwom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "anuonyamdeɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayɛ"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "ama wɔnim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:44:27.018859631Z",
+  "model": "glm-5.3"
+}

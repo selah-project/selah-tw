@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "ne ⟨את⟩ Yebusini no, ne ⟨את⟩ Emorini no, ne ⟨את⟩ Girgashini no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yebusini no"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusini no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Emorini no"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorini no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Girgashini no"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashini no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:09.216789112Z",
+  "model": "glm-5.3"
+}

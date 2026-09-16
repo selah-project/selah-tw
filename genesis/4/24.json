@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛfiri sɛ wɔde nkonim bɛtua Kayin ka dɔnson; na Lemek de, dɔnson ne nson.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "dɔnson"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "wɔbɛtua ... ka"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "na Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "aduoson"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ne nson"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:50.603172159Z",
+  "model": "glm-5.3"
+}

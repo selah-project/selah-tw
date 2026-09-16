@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Mosheh fii Paroh nkyɛn, na ɔsrɛɛ Yawe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "fii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "srɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:28.781780210Z",
+  "model": "glm-5.3"
+}

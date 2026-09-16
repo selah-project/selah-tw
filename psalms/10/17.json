@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Wɔn a wɔyɛ dwapɔfoɔ no ani da hwɛ ade — Yawe, woatee; wode wɔn akoma si hɔ; wo bɛbɔ w'aso mfuw mu atie.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ani da hwɛ ade"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "wɔn a wɔyɛ dwapɔfoɔ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "woatee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "wode ... si hɔ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "bɛbɔ mu atie"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "w'aso mfuw"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:32.272862125Z",
+  "model": "glm-5.3"
+}

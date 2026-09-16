@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Na ɔhyiraa ⟨את⟩ Yosef, na ɔkaa sɛ: Eloohim a m'agya Abraham ne Isak nam n'anim no, Eloohim a ɔbɔ me hwɛ ⟨את⟩ firi me awoɔ mu de kɔsi ɛnnɛ da yi no,",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "hyiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "ne Isak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a ɔbɔ me hwɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "firi me awoɔ mu"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "firi me awoɔ mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɛnnɛ yi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:08.476719296Z",
+  "model": "glm-5.3"
+}

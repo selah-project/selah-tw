@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Yuda kɔɔ ⟨את⟩ Simeon ne nua, na wɔbɔɔ ⟨את⟩ Kenaani no a ɔte Tsefat, na wɔsiee no koraa (חרם), na wɔtoo kurow no din Horma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Simeon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simeon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani no"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani no"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "a ɔte"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Tsefat"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "wɔsiee no koraa (חרם)"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ no",
+      "marks": "Tsefat"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wɔtoo din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-09-15T22:35:09.382134434Z",
+  "model": "glm-5.3"
+}

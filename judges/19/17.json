@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ɔmaa n'ani so hwɛɛ, na ohunu ⟨את⟩ ɔbarima no, ɔkwantuni no, wɔ kuro no mmɔntam mu; ɔbarima agyinyi no kaa sɛ: Worekɔ he, na wofiri he?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ɔmaa n'ani so hwɛɛ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "n'ani"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na ohunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbarima no, ɔkwantuni no"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "ɔkwantuni no"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "wɔ mmɔntam mu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "agyinyi no"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "he"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "worekɔ"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "na wofiri he"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-09-15T22:45:30.757275259Z",
+  "model": "glm-5.3"
+}

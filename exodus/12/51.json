@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Ɛbae sɛ da koro no ara mu, Yawe yii ⟨את⟩ Israel mma firii Misraim asase mu, wɔn akuo so.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbae sɛ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "koro no ara mu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "no"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yii ... firii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "wɔn akuo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:37.407380798Z",
+  "model": "glm-5.3"
+}

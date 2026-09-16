@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Saa berɛ no, Nebukadnesar, Babel ɔhene, akodiefoɔ baa Yerusalem so, na kuro no hyɛɛ ahobammɔ ase.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "saa berɛ no"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "baa ... so"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akodiefoɔ"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ויבא→ותבא",
+      "gloss": "hyɛɛ ase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:37:39.274590208Z",
+  "model": "glm-5.3"
+}

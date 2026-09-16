@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Na wo ne wo ho ara, na wo mfeɛ wɔnntwa da.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne wo ho ara"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "na wo mfeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-…da"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "wɔnntwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:30.906014648Z",
+  "model": "glm-5.3"
+}

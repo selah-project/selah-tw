@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na mo de, monyan mo afiri ⟨את⟩ akwammɔsan no mu na monkɔsoa ⟨את⟩ kuro no; na Yawe mo Eloohim de bɛma no wɔ mo nsa mu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na mo de"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "monyan mo"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "afiri akwammɔsan no mu"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "monkɔsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuro no"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "de bɛma no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "wɔ mo nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:02.597473232Z",
+  "model": "glm-5.3"
+}

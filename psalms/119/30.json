@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Kwan-nokorɛ na m'apaw, na w'atemmumudie na mahyɛ m'ani so.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "nokorɛ (amammara)"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "m'apaw"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "w'atemmumudie"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "mahyɛ m'ani so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:32.344026899Z",
+  "model": "glm-5.3"
+}

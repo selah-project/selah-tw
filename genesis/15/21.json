@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "ne ⟨את⟩ Ha-Emori ne ⟨את⟩ Ha-Kenaani ne ⟨את⟩ Ha-Girgashi ne ⟨את⟩ Ha-Yevusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ha-Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Ha-Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ha-Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Ha-Kenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ha-Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Ha-Girgashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ha-Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Ha-Yevusi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:21.190230147Z",
+  "model": "glm-5.3"
+}

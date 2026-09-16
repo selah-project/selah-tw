@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na deɛ ɔkorɔ onipa na ɔtɔn no, anaasɛ wɔhunu no wɔ ne nsa mu, kum ara na wɔnkum no.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "na deɛ ɔkorɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "na ɔtɔn no"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "anaasɛ wɔhunu no"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "wɔ ne nsa mu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kum ara"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "na wɔnkum no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:09.044628289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Atrenee behunu na wɔn ani agye, na atɛnsoɔ nyinaa abɔ ne ano mu.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "behunu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "atrenee"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na wɔn ani agye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "atɛnsoɔ"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "abɔ mu"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ne ano"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:43.759438474Z",
+  "model": "glm-5.3"
+}

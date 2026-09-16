@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Wɔkaa sɛ: Mepa wo kyɛw, me wura, nokware, yɛbɛɛ fam wɔ berɛ a ɛdi kan mu sɛ yɛnkɔtɔ aduane.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔkaa sɛ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nokware, yɛbɛɛ"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "fam"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "wɔ berɛ a ɛdi kan mu"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sɛ yɛnkɔtɔ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:15.511774016Z",
+  "model": "glm-5.3"
+}

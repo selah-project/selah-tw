@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Sɛe sɛ wodi, na wode wo ho ama so, na wosi adan pa na wote mu —",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "sɛe sɛ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wodi"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "na wode wo ho ama so"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "adan"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wosi"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "na wote mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:24.986858307Z",
+  "model": "glm-5.3"
+}

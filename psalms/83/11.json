@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Wɔn a wɔsɛee wɔ wɔ En-Dor no, wɔyɛɛ ⟨domen⟩ ma asase no.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "wɔsɛee wɔ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "wɔ En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "domen"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ma asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:39.842421938Z",
+  "model": "glm-5.3"
+}

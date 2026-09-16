@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔmaa Hana kyɛfa baako ⟨אפים⟩, ɛfiri sɛ ⟨את⟩ Hana na ɔdɔ no, na Yawe ato ne yam mu.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "na ɔmaa Hana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ɔmaa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "kyɛfa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨אפים⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ɔdɔ no"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ato"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ne yam mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:37.099913842Z",
+  "model": "glm-5.3"
+}

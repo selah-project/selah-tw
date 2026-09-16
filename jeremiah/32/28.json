@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 32:28",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Enti Yawe ka sɛ: Hwɛ, mede kurow yi bɛma Kasdeifoɔ nsa mu, na mɛma Nebukadnetsar, Babilon ɔhene no nsa mu, na ɔbɛdi kurow no so nkonim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hwɛ me"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow yi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdeifoɔ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na ... nsa mu"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "na ɔbɛdi so nkonim"
+    }
+  ],
+  "timestamp": "2026-09-16T00:20:27.220155643Z",
+  "model": "glm-5.3"
+}

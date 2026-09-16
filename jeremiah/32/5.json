@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Babel bɛfa ⟨את⟩ Tsidkijahu akɔ, na ɔbɛtena hɔ kɔsii sɛ mebɛhwɛ ⟨את⟩ no — Yawe se; ɛfiri sɛ mo ko ɛne ⟨את⟩ Kasdim no, mo rennya nkonyim.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Na Babel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "bɛfa … akɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkijahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na ɔbɛtena hɔ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "mehwɛ (mabɛhwɛ)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Tsidkijahu)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "se (nsɛm)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "mo ko ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kasdim no"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "nkonyim"
+    }
+  ],
+  "timestamp": "2026-09-16T00:21:24.052268857Z",
+  "model": "glm-5.3"
+}

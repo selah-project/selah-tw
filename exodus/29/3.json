@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wo de ⟨את⟩ no bɛto kɛntɛn baako so, na wo de ⟨את⟩ no bɛba wɔ kɛntɛn no mu, ne ⟨את⟩ anantwie no, ne ⟨את⟩ ɔpram mmienu no.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "na wo...bɛto"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "no (aduane no)"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kɛntɛn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "na wo...bɛba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "wɔ kɛntɛn no mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "anantwie no"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "anantwie no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ɔpram mmienu no"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ɔpram no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:31.580558867Z",
+  "model": "glm-5.3"
+}

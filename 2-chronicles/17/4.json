@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ɛnyɛ saa; ɛfiri sɛ ɔhwehwɛɛ Eloohim a ɔyɛ ne papa dea, na ɔnantewaa n'ahyɛde so, ɛnyɛ sɛnea Yisraim yɛeɛ no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohim ... ho"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɔhwehwɛɛ"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "wɔ n'ahyɛde so"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ɔnantewaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sɛnea ... yɛeɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:57:15.705585813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Meka kyerɛɛ ⟨the⟩ bɔfoɔ a ɔrekasa wɔ me mu se: Nneɛma bɛn ne yi? Ɔkaa kyerɛɛ me se: Yi ne ⟨the⟩ anantwi a wɔsɛee ⟨את⟩ Yuda, ⟨את⟩ Israel, ne Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "meka kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "bɔfoɔ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a ɔrekasa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "wɔ me mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛɛ me"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "anantwi no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "wɔsɛee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ne Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:46.796725435Z",
+  "model": "glm-5.3"
+}

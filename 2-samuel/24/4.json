@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na ɔhene no asɛm no dii Yowab ne asraafoɔ atemmufoɔ no so; Yowab ne asraafoɔ atemmufoɔ no firii ɔhene no anim kɔɔ hwɛ ⟨את⟩ nnipa no — ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dii ... so"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atemmufoɔ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "firii"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ne atemmufoɔ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "kɔɔ hwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:12.577731414Z",
+  "model": "glm-5.3"
+}

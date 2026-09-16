@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Na wɔnsan aba anwummerɛ, wɔnte sɛ ɔkraman, na wɔnware kurow no ho.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "na wɔnsan aba"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "wɔnte"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sɛ ɔkraman"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "na wɔnware"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow no ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:21.995357763Z",
+  "model": "glm-5.3"
+}

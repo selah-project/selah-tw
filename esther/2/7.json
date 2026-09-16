@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 2:7",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔhwɛɛ ⟨את⟩ Hadasa — ɔno ne Ester — n'agya-nua ba, ɛfiri sɛ ɔwɔ agya anaa ɔna biara; na ababawa no su yɛ fɛ na nhunu yɛ fɛ, na wɔbɔɔ n'agya ne ne ɔna mu akyi no, Mordekai faa no sɛ ne ba maa ɔno ara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbae sɛ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ɔhwɛɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadasa"
+    },
+    {
+      "surface": "הדסה",
+      "gloss": "Hadasa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɔno ne"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "n'agya-nua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɔwɔ ... biara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ɔ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "agya"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "anaa ɔna"
+    },
+    {
+      "surface": "והנערה",
+      "gloss": "na ababawa no"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "su yɛ fɛ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "su"
+    },
+    {
+      "surface": "וטובת",
+      "gloss": "na yɛ fɛ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "nhunu"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "na wɔbɔɔ ... mu akyi"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ne ɔna"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "faa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sɛ ne ba maa ɔno ara"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "sɛ ne ba"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:56.892348587Z",
+  "model": "glm-5.3"
+}

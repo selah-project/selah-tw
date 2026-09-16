@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Na ɔde n'amanɔ no sɛ ɔbɔkyi bae, na ɔkyerɛɛ wɔn kwan sɛ nkuo wɔ asɛsɛ so.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Na ɔde ... bae"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sɛ ɔbɔkyi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'amanɔ no"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "na ɔkyerɛɛ wɔn kwan"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "sɛ nkuo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asɛsɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:21.268288736Z",
+  "model": "glm-5.3"
+}

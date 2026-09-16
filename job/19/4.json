@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na ɛno nso, ɛyɛ nokorɛ sɛ mayera a, me mfomsoɔ no tena ⟨את⟩ me ne me ho.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "na ɛno nso"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ɛyɛ nokorɛ"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "mayera"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me ne me ho"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "tena"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "me mfomsoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:21:03.094103936Z",
+  "model": "glm-5.3"
+}

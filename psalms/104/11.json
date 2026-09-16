@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Wɔma nyammoa a wɔte afuo mu nyinaa nom nsuo; abirekyie a wɔte sare so no bubu wɔn sukɔm.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "wɔma ... nom nsuo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyammoa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "afuo mu"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "bubu"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "abirekyie a wɔte sare so"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "wɔn sukɔm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:03.138801219Z",
+  "model": "glm-5.3"
+}

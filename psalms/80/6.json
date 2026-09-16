@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Woma wɔn aduane a ɛyɛ aniwa nsuo, na wode aniwa nsuo ma wɔnom dodoɔ.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Woma wɔn aduane"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "aniwa nsuo"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "na wode ... ma wɔnom"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "aniwa nsuo"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "dodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:29.035707135Z",
+  "model": "glm-5.3"
+}

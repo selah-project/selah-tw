@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Tie me, nkyerɛma; ma mo aso mmoa, aman a mofi akyirikyiri: Yawe afrɛ me fi yafunu mu; fi me naa yafunu mu no ɔkaa me din.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "איים",
+      "gloss": "nkyerɛma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "ma mo aso mmoa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "akyirikyiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "fi yafunu mu"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "afrɛ me"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "fi ... mu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me naa yafunu"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "me din"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:58.056161687Z",
+  "model": "glm-5.3"
+}

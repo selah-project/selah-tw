@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Yisrael mma no yɛɛ sɛnea Moshe kaa no; na wɔbisaa Misraimfoɔ nneɛma — dwetɛ nneɛma ne sika kɔkɔɔ nneɛma ne ntoma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛnea ... kaa no"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "wɔbisaa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraimfoɔ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nneɛma"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ne ... nneɛma"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ne ntoma"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:38.901944076Z",
+  "model": "glm-5.3"
+}

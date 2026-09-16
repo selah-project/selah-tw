@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "So Adonai begyaw ⟨amanfoɔ⟩ daa? Na ɔrennyɛ no dɛ bio da?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "daa (so … da?)"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "begyaw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Na … nn-"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "rennyɛ … bio"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "nyɛ no dɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "da bio"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:24.969508513Z",
+  "model": "glm-5.3"
+}

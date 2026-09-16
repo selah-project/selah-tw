@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na ɔyɛɛ Tofet a ɛwɔ Hinnom mma asensiniɛ mu no fi, sɛ obiara mmfa ⟨את⟩ ne ba ne ⟨את⟩ ne baawa nnam ogya mu ama Molek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "na ɔyɛɛ ... fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "wɔ ... asensiniɛ mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sɛ ... mm"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "mmfa ... nnam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne baawa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ne baawa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ama Molek"
+    }
+  ],
+  "timestamp": "2026-09-16T05:22:35.211889822Z",
+  "model": "glm-5.3"
+}

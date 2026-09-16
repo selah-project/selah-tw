@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Dawid tee, na ɔsomaa ⟨את⟩ Yowab ne ⟨את⟩ asraafoɔ no nyinaa, akokodifoɔ no.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na ɔsomaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asraafoɔ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "akokodifoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:30.474113315Z",
+  "model": "glm-5.3"
+}

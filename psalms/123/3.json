@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 123,
+  "translation": "Yɛ yɛn adɔeɛ, Yawe, yɛ yɛn adɔeɛ, ɛfiri sɛ abufuo ne animguaseɛ-asetɔ adɔɔ so dodo ma yɛn.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Yɛ yɛn adɔeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "yɛ yɛn adɔeɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "adɔɔ so"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "animguaseɛ-asetɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:18.640957419Z",
+  "model": "glm-5.3"
+}

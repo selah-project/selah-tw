@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Dawid kaa kyerɛɛ Saul se: adɛn na wote ⟨את⟩ onipa asɛm a wɔka se: hwɛ, Dawid hwehwɛ wo bɔne?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kyerɛɛ Saul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "wote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa asɛm"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se wɔka se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "hwehwɛ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "wo bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T22:58:16.010395171Z",
+  "model": "glm-5.3"
+}

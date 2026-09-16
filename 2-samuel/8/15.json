@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Dawid dii adeɛ wɔ Israel nyinaa so; na Dawid yɛɛ atemmu ne treneɛ maa n'aman nyinaa.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "dii adeɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ... yɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ne treneɛ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maa ... nyinaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'aman"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:35.021595087Z",
+  "model": "glm-5.3"
+}

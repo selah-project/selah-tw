@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wɔn ne Etam agya nnipa: Yizreel, Yishma ne Yidbash; na wɔn nuabaa din de Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na wɔn ne"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ne Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ne Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na ... din"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "wɔn nuabaa"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:59.428400768Z",
+  "model": "glm-5.3"
+}

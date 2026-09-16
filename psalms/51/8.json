@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Hwɛ, nokorɛ na wopɛ wɔ onipa mu, na wɔ biribi a wɔashira mu wobɛma menyim nyansa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "na wopɛ"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "wɔ onipa mu"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "na wɔ biribi a wɔashira mu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "wobɛma menyim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:34.033403056Z",
+  "model": "glm-5.3"
+}

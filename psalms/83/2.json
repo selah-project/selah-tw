@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Eloohim, nkommɔdwa nnka wo; nkasa kye, na nkɔ so dwoodwoo, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דמי",
+      "gloss": "nkommɔdwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nkasa kye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mmɛ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "nkɔ so dwoodwoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:19.073749854Z",
+  "model": "glm-5.3"
+}

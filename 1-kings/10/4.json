@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Saba ɔhene-baa no hunuu Shelomoh nyansa nyinaa, ne fie a ɔsiiɛ.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na ... hunuu"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ɔhene-baa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyansa nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɔsiiɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:52.858626598Z",
+  "model": "glm-5.3"
+}

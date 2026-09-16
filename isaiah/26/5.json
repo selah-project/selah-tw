@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Ɛfiri sɛ wayi wɔn a wɔte soro ase, kurow a ɛkorɔn no; wayi no ase, wayi no ase de akɔsi asase, wadua so de akɔsi nkotrɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "השח",
+      "gloss": "wayi ... ase"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "soro"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "a ɛkorɔn"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "wayi no ase"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "wayi no ase"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de akɔsi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "wadua so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de akɔsi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nkotrɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:48:48.449192421Z",
+  "model": "glm-5.3"
+}

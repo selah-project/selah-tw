@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Ɛtoo n'nnua mmaa guu kodu ɛpo so, na ne nnyinabua kɔɔ asubɔnten no mu.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Ɛtoo ... guu"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "n'nnua mmaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kodu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ɛpo so"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kɔɔ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "asubɔnten no"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ne nnyinabua"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:00.614441289Z",
+  "model": "glm-5.3"
+}

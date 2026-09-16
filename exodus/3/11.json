@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Mose kaa kyerɛɛ ⟨את⟩ Eloohim sɛ: Mɛyɛ hwan na makɔ Paro nkyɛn, na makoa Yisrael mma no ⟨את⟩ afiri Misraim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na kaa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mɛyɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "makɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro nkyɛn"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "makoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "afiri Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:43.794605547Z",
+  "model": "glm-5.3"
+}

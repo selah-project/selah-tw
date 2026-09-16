@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "W'atenae wɔ nkontompo mu; wɔ nkontompo mu na wɔagyae sɛ wɔbɛnim ⟨את⟩Me, Yawe de no aka.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "W'atenae"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nkontompo"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "wɔ nkontompo mu"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "wɔagyae (pɛ)"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sɛ wɔbɛnim"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩Me",
+      "marks": "Me (Yawe ankasa)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nea … de no aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:09:27.453384490Z",
+  "model": "glm-5.3"
+}

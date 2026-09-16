@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ɛfiri sɛ mo nim ⟨את⟩ sɛdeɛ yɛtenaa Misraim asase so, ne ⟨את⟩ sɛdeɛ yɛtwaam aman no mu, a mo twaa mu no;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sɛdeɛ yɛtenaa Misraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "yɛtenaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sɛdeɛ yɛtwaam aman no mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "yɛtwaam"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "mo twaa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:06.727292028Z",
+  "model": "glm-5.3"
+}

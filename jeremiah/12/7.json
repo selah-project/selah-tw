@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Matwam me fie, magyaw m'agyapadɛ; made me kra dea mepɛ no ama ne atanfoɔ nsa.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "matwam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me fie"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "me fie"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "magyaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'agyapadɛ"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "m'agyapadɛ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me kra dea mepɛ"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "dea mepɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "wɔ nsa mu"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ne atanfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:43.500401602Z",
+  "model": "glm-5.3"
+}

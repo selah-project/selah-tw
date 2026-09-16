@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na wɔwoo maa Aharon ⟨את⟩ Nadab ne ⟨את⟩ Abihu, ⟨את⟩ Elazar ne ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "na wɔwoo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "maa Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Abihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:13.910642944Z",
+  "model": "glm-5.3"
+}

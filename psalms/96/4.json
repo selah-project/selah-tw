@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 96,
+  "translation": "Ɛfiri sɛ Yawe yɛ kɛseɛ, na wɔkamfo no dodo; ɔyɛ ɔsɔreɛ wɔ abosuo nyinaa so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yɛ kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na wɔkamfo no"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ɔyɛ ɔsɔreɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "abosuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:57.319195059Z",
+  "model": "glm-5.3"
+}

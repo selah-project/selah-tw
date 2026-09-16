@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Memyaa me nnyuma mu; mesii fie m'ankasa, mehwɛɛ asaradua m'ankasa.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "memyaa ... mu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "me nnyuma"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mesii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'ankasa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "fie"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "mehwɛɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'ankasa"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "asaradua"
+    }
+  ],
+  "timestamp": "2026-09-16T03:53:32.181888350Z",
+  "model": "glm-5.3"
+}

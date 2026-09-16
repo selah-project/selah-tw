@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ɛbaa sɛ sɛ wɔtee ⟨את⟩ Toraa no, wɔtetew amammerɛdɔm no nyinaa firi Yisrael mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "sɛ wɔtee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toraa no"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraa no"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "wɔtetew"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "amammerɛdɔm"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "firi Yisrael mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:10.542658941Z",
+  "model": "glm-5.3"
+}

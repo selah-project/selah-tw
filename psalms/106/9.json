@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Ɔkaa Yam Suf ano kasa, na ɛserɛee, na ɔde wɔn faa toam mu, sɛ sare.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Ɔkaa ano kasa"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "na ɛserɛee"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "na ɔde wɔn faa"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "toam mu"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sɛ sare"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:34.498616660Z",
+  "model": "glm-5.3"
+}

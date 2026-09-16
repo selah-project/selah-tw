@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɛfiri sɛ okae ⟨את⟩ ne asɛm kronkron no, ⟨את⟩ Abraham ne akoa no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "okae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne asɛm kronkron no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kronkron no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham ne akoa no"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ne akoa no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:12.680897651Z",
+  "model": "glm-5.3"
+}

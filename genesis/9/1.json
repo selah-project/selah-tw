@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Eloohim hyiraa ⟨את⟩ Noa ne ⟨את⟩ ne mma no, na ɔka kyerɛɛ wɔn se: Monyɛ aduaba, na momonini, na momu ⟨את⟩ asase no.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "hyiraa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔka kyerɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Monyɛ aduaba"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na momonini"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na momu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:47.232619502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɛbaa sɛ sɛ asɔfoɔ no fii asɔredan kronkron no mu no, osuo no hyɛɛ ⟨את⟩ Yawe fie ma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "sɛ ... fii"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "asɔredan kronkron no mu"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "osuo no"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hyɛɛ ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:13.996705063Z",
+  "model": "glm-5.3"
+}

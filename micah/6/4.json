@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɛfiri sɛ mede wo soro firi Misraim asase mu, na magye wo firi nkoa fie; na mesii w'anim — ⟨את⟩ Mosɛ, Aharɔn ne Miriam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "mede wo soro"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi … asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "firi … fie"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "magye wo"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "na mesii"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharɔn"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ne Miriam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:20:10.226647592Z",
+  "model": "glm-5.3"
+}

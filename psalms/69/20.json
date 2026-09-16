@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Wo na wonim m'animguaseɛ ne me ntɛmguo ne me animtia; wɔn nyinaa — me atamfoɔ no — gyina wo anim.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wonim"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "m'animguaseɛ"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "ne me ntɛmguo"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ne me animtia"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "me atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:14.961081717Z",
+  "model": "glm-5.3"
+}

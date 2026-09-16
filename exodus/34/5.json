@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Yawe baa ase wɔ akɔnkɔn mu, ɛgyinaa ne ho ansa hɔ, na ɔfrɛɛ wɔ Yawe din mu.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "baa ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "wɔ akɔnkɔn mu"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ɛgyinaa ne ho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ansa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ din mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:02:56.199436041Z",
+  "model": "glm-5.3"
+}

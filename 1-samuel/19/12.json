@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na Mika sianee ⟨את⟩ David sianee no firi tokuro no mu; na ɔkɔɔ, na ɔdwannee, na ɔkwanee so.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "na ɔsianee"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dauid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "firi ... mu"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "tokuro no"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "na ɔdwannee"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "na ɔkwanee so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:41.740843826Z",
+  "model": "glm-5.3"
+}

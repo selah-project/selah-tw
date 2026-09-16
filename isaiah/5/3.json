@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na seesei, mo a mo te Yerusalem, ne Yuda mmarima, momnsɔ hwɛ — mepa mo kyɛw — me ne me boa ntam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mo a mo te"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ne mmarima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "momnsɔ hwɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa mo kyɛw"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "me ntam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "me boa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:41:25.980273968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Mo nndi wɔn nwonya, na mo nnka wɔn nebelah; wɔyɛ ⟨ntam⟩ ⟨wɔ⟩ ⟨yɛ⟩ ma mo.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "wɔn nwonya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nndi"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "na wɔn nebelah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nnka"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:34.274420750Z",
+  "model": "glm-5.3"
+}

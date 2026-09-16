@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Ɔsomaa ne asɛm na ɔsaa wɔn yadeɛ, na ɔgyee wɔn firi wɔn sɛeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ɔsomaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne asɛm"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "na ɔsaa wɔn yadeɛ"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "na ɔgyee wɔn"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "firi wɔn sɛeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:36.797309272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Serug tenaa aseɛ, sɛ ɔwoo ⟨את⟩ Nakor akyi, mfeɛ ɔha mmienu, na ɔwoo mma barima ne mma baa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "sɛ ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ɔha mmienu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma barima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma baa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:39.611788574Z",
+  "model": "glm-5.3"
+}

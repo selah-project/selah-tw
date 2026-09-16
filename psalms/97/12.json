@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 97,
+  "translation": "Atɛfoɔ, monwaw Yawe mu; na moma Yawe nkae kronkron no animuonyam.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "monwaw"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atɛfoɔ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe mu"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "na moma ... animuonyam"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "nkae"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kronkron no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:22.288335716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yeshua woo ⟨את⟩ Yoyakim, na Yoyakim woo ⟨את⟩ Elyashib, na Elyashib ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "na Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "na Elyashib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-16T04:32:36.599925519Z",
+  "model": "glm-5.3"
+}

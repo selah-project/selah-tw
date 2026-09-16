@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Yɛsrɛ wo, Yawe, gye yɛn na bɛyɛ mmerɛ; yɛsrɛ wo, Yawe, ma yɛn nkɔsoɔ na bɛyɛ mmerɛ.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "Yɛsrɛ wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "gye yɛn"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na bɛyɛ mmerɛ"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "Yɛsrɛ wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "ma yɛn nkɔsoɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na bɛyɛ mmerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:12.815731381Z",
+  "model": "glm-5.3"
+}

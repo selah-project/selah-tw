@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Ɔbɛtemu amanfoɔ ahiafoɔ, ɔbɛgya amampa mma, na ɔbɛbubu ɔhyɛsofoɔ.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ɔbɛtemu"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "Ɔbɛgya mma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "amampa"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "na ɔbɛbubu"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ɔhyɛsofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:29.790594627Z",
+  "model": "glm-5.3"
+}

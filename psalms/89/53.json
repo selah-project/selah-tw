@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Nhyira nka Yawe daa. Amin, na Amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amin"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:34.055274972Z",
+  "model": "glm-5.3"
+}

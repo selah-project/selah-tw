@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 134,
+  "translation": "Yawe nhyira wo firi Tsiyon, ɔno a ɔbɔɔ soro ne asase no.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "nhyira wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "firi Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔno a ɔbɔɔ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "soro"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ne asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:41.189995158Z",
+  "model": "glm-5.3"
+}

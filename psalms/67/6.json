@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 67,
+  "translation": "Aman no bɛda wo ase, Eloohim; aman no nyinaa bɛda wo ase.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bɛda wo ase"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "bɛda wo ase"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:49.056246810Z",
+  "model": "glm-5.3"
+}

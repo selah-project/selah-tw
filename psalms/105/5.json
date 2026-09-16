@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Kae nneɛma a ɛyɛ nwonwa a ɔyɛe, ne nsɛnkyerɛnne ne ne ano atemmu.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Kae"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "nneɛma a ɛyɛ nwonwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛe"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ne nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ne atemmu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ne ano"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:59.390933395Z",
+  "model": "glm-5.3"
+}

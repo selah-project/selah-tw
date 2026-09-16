@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Ɛfiri sɛ wonnye ɔfrɛe nyɛ wo nanmu; sɛ wopɛ a, menoa; wonsɛreɛ nnyɛ wo dɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "wo pɛ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ɔfrɛe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a, menoa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sɛreɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "yɛ wo dɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:24.163905554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 16:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na sɛ Aharon retow nsɛm agu Yisrael mma no nyinaa kuo no so a, wɔdan wɔn ani hwɛɛ wura mu, na hwɛ — Yawe kɛseɛ daa adi wɔ wim nsuo-mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na sɛ ... a"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "retow nsɛm agu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kuo no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויפנו",
+      "gloss": "wɔdan wɔn ani hwɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "wura mu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "daa adi"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "wɔ wim nsuo-mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:10.149024438Z",
+  "model": "glm-5.3"
+}

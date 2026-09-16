@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ɔsɔfɔ no de ⟨את⟩ npoano no hyɛ ogya mu wɔ ɔbɔ so; na akoma no bɛyɛ Aharon ne ne mma dea.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "de ... hyɛ ogya mu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Ɔsɔfɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "npoano no"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "npoano no"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "wɔ ɔbɔ (mizbeach) so"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ... bɛyɛ"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "akoma no"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon dea"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ne ne mma dea"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:13.582420601Z",
+  "model": "glm-5.3"
+}

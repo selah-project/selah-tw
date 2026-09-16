@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Nea ɔma nkonimdie ma ahemfo, nea ɔgyee ⟨את⟩ Dawid ne akoa firii afuo bɔne mu.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Nea ɔma"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "nkonimdie (nkwagyeɛ)"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ma ahemfo"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "nea ɔgyee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ne akoa"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "firii afuo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:09.754165362Z",
+  "model": "glm-5.3"
+}

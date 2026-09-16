@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Fa wo ho to Yawe mu, na yɛ pa; tena asase so, na kɔhwɛ nokorɛ.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "fa wo ho to"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe mu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "tena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kɔhwɛ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "nokorɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:02.787372596Z",
+  "model": "glm-5.3"
+}

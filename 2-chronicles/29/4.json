@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na ɔde ⟨את⟩ asɔfoɔ ne ⟨את⟩ Levifoɔ baa mu, na ɔboaboaa wɔn ho wɔ apueɛ kwan no so.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Na ɔde ... baa mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɔfoɔ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Levifoɔ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levifoɔ"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "na ɔboaboaa wɔn ho"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "wɔ ... kwan no so"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "apueɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:07:41.785341755Z",
+  "model": "glm-5.3"
+}

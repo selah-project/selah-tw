@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Yehonatan kaa kyerɛɛ Dawid sɛ: Dɛn na wo nkwa ka? Na mɛyɛ ama wo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Dɛn"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo nkwa"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "na mɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:25.555258128Z",
+  "model": "glm-5.3"
+}

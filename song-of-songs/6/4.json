@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Wo yɛ fɛ, ⟨את⟩ me yɛm, sɛ Tirtsa; wo yɛ dɛ, sɛ Yerusalem; wo de hu ba, sɛ asraafoɔ a wɔde frankaa ba.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "wo yɛ fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me yɛm (me raaya)"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "me yɛm"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "sɛ Tirtsa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "wo yɛ dɛ"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "sɛ Yerusalem"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "wo de hu ba"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "sɛ asraafoɔ a wɔde frankaa ba"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:27.441049656Z",
+  "model": "glm-5.3"
+}

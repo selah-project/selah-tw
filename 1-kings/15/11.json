@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Asa yɛɛ deɛ ɛteɛ wɔ Yawe anim, sɛnea Dauid ne papa yɛeɛ no.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "deɛ ɛteɛ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "sɛnea David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:02.957828759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Maschil ⟨nkyerɛkyerɛfɔɔ asɛm⟩ de Asaf. Me man, tie m'mmara; dane mo aso kɔ me ano nsɛm so.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maschil ⟨nkyerɛkyerɛfɔɔ asɛm⟩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "de Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "m'mmara"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "dane"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "mo aso"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kɔ … nsɛm so"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:07.439883389Z",
+  "model": "glm-5.3"
+}

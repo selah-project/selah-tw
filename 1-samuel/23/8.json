@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Sawulu frɛe ⟨את⟩ nnipa nyinaa ma wɔbɛkɔ ɔko mu, asiane akɔ Keilah, atwa David ne ne mmarima ho ahyia.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "frɛe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ma wɔbɛkɔ ɔko mu"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "asiane akɔ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "atwa ... ho ahyia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ne mmarima"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:18.078276475Z",
+  "model": "glm-5.3"
+}

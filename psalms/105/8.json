@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔkae n'apam kɔseɛ daa, asɛm a ɔhyɛɛ sɛ ɛnkɔ ntoatoasoɔ apem mu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ɔkae"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "n'apam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ɔhyɛɛ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ntoatoasoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:59.391923267Z",
+  "model": "glm-5.3"
+}

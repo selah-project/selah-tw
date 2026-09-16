@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Adua ɛda wo yafunu mu ba so, ne wo asase ba so, wo mmoa nkyerɛkyerɛmu so, ne wo nnwan ba so.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Adua"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "wo yafunu mu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ne ... ba"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "wo asase"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "nkyerɛkyerɛmu"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "wo mmoa"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ne ... nnwan ba"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "wo nnwan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:08.081382536Z",
+  "model": "glm-5.3"
+}

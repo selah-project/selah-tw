@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Me kra ɔsan de ba; ɔkyerɛ me kwan wɔ akwantuaten a ɔteɛ so, ne din nti.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "ɔsan de ba"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ɔkyerɛ me kwan"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "wɔ akwantuaten so"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "a ɔteɛ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:44.427059935Z",
+  "model": "glm-5.3"
+}

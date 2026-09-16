@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ɛfiri sɛ ⟨את⟩ onipa a Yawe dɔ no, ɔkasa tia no; na ɛte sɛ ɔwofoɔ ne ⟨את⟩ ɔba a ɔpɛ no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa a...no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ɔkasa tia no"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ɛte sɛ ɔwofoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ɔpɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:42:55.902448020Z",
+  "model": "glm-5.3"
+}

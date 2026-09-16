@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Sɛ wode nsuo mu a, ⟨את⟩ ne wo mɛba; na sɛ wode asubɔnten mu a, ɛnnubɔ wo; sɛ wonam ogya mu a, worenhye, na gya frankaa nnye wo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "wode mu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ne wo",
+      "marks": "preposition 'ne wo' (with you) — ɛnyɛ direct-object aleph-tav"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mɛba"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "na sɛ wode asubɔnten mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "bɔ wo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wonam"
+    },
+    {
+      "surface": "במו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "hye"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "na gya frankaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "nye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:57:07.475037024Z",
+  "model": "glm-5.3"
+}

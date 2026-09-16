@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 10:32",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɛbɛba sɛ wone yɛn kɔ a, na aba no, papa a Yawe bɛyɛ de ama yɛn no, yɛbɛyɛ no ama wo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wokɔ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wone yɛn"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na aba no"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "bɛyɛ de ama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "והטבנו",
+      "gloss": "yɛbɛyɛ no ama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:30:11.325970902Z",
+  "model": "glm-5.3"
+}

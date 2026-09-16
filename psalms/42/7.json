@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Me Eloohim, me nkate werɛ atew wɔ me mu; ɛno nti mekae wo firi Yarden asase so, ne Hermonnnipon, firi Mitsar bepɔ so.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Me Eloohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ me mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkate"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "werɛ atew"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɛno nti"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "mefri kaa wo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ne Hermonnnipon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "firi bepɔ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-16T01:54:31.854128467Z",
+  "model": "glm-5.3"
+}

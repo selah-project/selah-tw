@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na deɛ ɛkyɛn wɔn baanu no ne ⟨את⟩ deɛ nnɛ da nyinaa amma abɔne, a wanhunu ⟨את⟩ adwuma bɔne no a wɔyɛe wɔ owia no ase.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ɛkyɛn"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "wɔn baanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ amma abɔne no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "nnɛ da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma bɔne no"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "adwuma no"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yɛe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owia no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:49:22.057881391Z",
+  "model": "glm-5.3"
+}

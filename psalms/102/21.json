@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Sɛdeɛ ɛbɛma wɔate afɔrefoɔ no sɛe-sɛe, na wɔabre owuo mma no;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "sɛdeɛ ɛbɛma wɔate"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "sɛe-sɛe"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "afɔrefoɔ"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "na wɔabre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "owuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:20.990498092Z",
+  "model": "glm-5.3"
+}

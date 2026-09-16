@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Mma wo ho mmɔ wo wɔ ɔkyena da mu, ɛfiri sɛ wonnim deɛ da no bɛbɔ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "mmɔ wo ho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da mu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ɔkyena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wonnim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bɛbɔ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-16T03:03:31.514079456Z",
+  "model": "glm-5.3"
+}

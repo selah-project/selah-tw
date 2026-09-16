@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Moshe kasaakyɛɛ Yisrael mma sɛ wɔnyɛ Pesach no.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasaakyɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "sɛ wɔnyɛ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:30:18.143772599Z",
+  "model": "glm-5.3"
+}

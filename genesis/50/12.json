@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ne mma no yɛɛ no sɛdeɛ ɔhyɛɛ wɔn.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ɔhyɛɛ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:06.145882115Z",
+  "model": "glm-5.3"
+}

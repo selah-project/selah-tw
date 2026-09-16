@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na nnipa no nyinaa tetee ⟨את⟩ sikakɔkɔɔ nsɔnini a ɛwɔ wɔn aso no firii hɔ, na wɔde baa Aharon nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "tetee firii hɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikakɔkɔɔ nsɔnini"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "nsɔnini"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sikakɔkɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "wɔn aso"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "na wɔde baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:37.820447644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ⟨את⟩ dua yi fa wo nsa mu — dua a wobɛyɛ ⟨את⟩ nsɛnkyerɛnne no mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "dua yi"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "dua yi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "wo nsa mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛnkyerɛnne no"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "nsɛnkyerɛnne no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:44:51.312071078Z",
+  "model": "glm-5.3"
+}

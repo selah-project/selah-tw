@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Hizkiiahu nnyɛ mo ahotoso ⟨את⟩ nkɔ Yawe nkyɛn sɛ: Yawe bɛgye yɛn ahotwe; na kuro yi nremma ⟨את⟩ kurow no wɔ Ashur ɔhene nsa mu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na nn-"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "nyɛ ahotoso"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ ... nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ahotwe"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "bɛgye yɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nn-"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "remma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow no"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-15T23:37:15.356795566Z",
+  "model": "glm-5.3"
+}

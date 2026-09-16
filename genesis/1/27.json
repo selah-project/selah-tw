@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim bɔɔ ⟨את⟩ onipa no wɔ n'ankasa mfonini mu; wɔ Eloohim mfonini mu na ɔbɔɔ ⟨את⟩ no; ɔbarima ne ɔbea na ɔbɔɔ ⟨את⟩ wɔn.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "na ɔbɔɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa no"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "wɔ n'ankasa mfonini mu"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "wɔ ... mfonini mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "onipa no"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ne ɔbea"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "ɔbarima ne ɔbea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:36.586631997Z",
+  "model": "glm-5.3"
+}

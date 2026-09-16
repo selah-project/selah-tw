@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Kɔsi nkyɛmu da nyinaa na mɛsi wo aba mu, na mɛsi wo akongua ma ɔsɔfoɔ ne ɔsɔfoɔ. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nkyɛmu da nyinaa"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "na mɛsi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo aba mu"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "na mɛsi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ma nkwadaa"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ne nkwadaa"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "wo akongua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:00.771017146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Ɛfiri sɛ mekaa sɛ, hesed na wɔbesi ase kɔ mmerɛ nyinaa mu; ɔsoro, wone na wobɛsi w'ankasa nokorɛduruyɛ ase wɔ mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mekaa sɛ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kɔ mmerɛ nyinaa mu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wobesi ... ase"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "wobɛsi ... ase"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "w'ankasa nokorɛduruyɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:53.864263068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ne asraafoɔ no ne wɔn a wɔkan wɔn no, nnipa ɔha ne enum apem ne ahinan ne ɔha.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ne asraafoɔ no"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ne wɔn a wɔkan wɔn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "nnipa mmiɛnsa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ne enum"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ne anan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:51.182605208Z",
+  "model": "glm-5.3"
+}

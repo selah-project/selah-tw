@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Elimelek, Naomi kunu, wuiɛ; na ɔkara ne mma baanu no.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wuiɛ"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "na ɔkara"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɔno ankasa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ne ... baanu"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "mma"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:58.526294367Z",
+  "model": "glm-5.3"
+}

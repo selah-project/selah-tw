@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Na wɔka sɛ: “Adɛn na El nim biribiara? Na nimdeɛ wɔ Elyon hɔ?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "na wɔka sɛ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "na … wɔ"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "wɔ Elyon hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:57.409708963Z",
+  "model": "glm-5.3"
+}

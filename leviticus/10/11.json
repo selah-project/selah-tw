@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "na mukyerɛ ⟨את⟩ Yisrael mma ⟨את⟩ mmara nyinaa a Yawe kasa kyerɛɛ wɔn wɔ Mose nsa so.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "na mukyerɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmara nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wɔ ... nsa so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:37.586321017Z",
+  "model": "glm-5.3"
+}

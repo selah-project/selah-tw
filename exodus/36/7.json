@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na nneɛma a wɔboaboaa no dɔɔso maa adwuma no nyinaa a wɔde yɛɛ no — na aka bio.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "nneɛma a wɔboaboaa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "דים",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maa ... nyinaa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "adwuma no"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a wɔde yɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma no"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "na aka bio"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:01.759838967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na wo ani nnhu wo mmɔborɔ: nkwa ma nkwa, aniwa ma aniwa, se ma se, nsa ma nsa, nan ma nan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ... nn"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "nhu mmɔborɔ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "wo ani"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ma nkwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "aniwa"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ma aniwa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "se"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ma nsa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ma nan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:34.452485363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Bɔ yɛn ho ban, Yawe, ɛfiri sɛ onuonyamfoɔ no awie, na nokwafoɔ no ayera firi nnipa mma mu.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Bɔ yɛn ho ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "awie"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "onuonyamfoɔ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ayera"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "nokwafoɔ no"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "firi ... mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:14.863310079Z",
+  "model": "glm-5.3"
+}

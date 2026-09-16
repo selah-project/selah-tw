@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "⟨So⟩ Eloohim nhunu eyi? Ɛno de, ɔnim akɔnnɔ ahodoɔ a wɔasum no a ɛwɔ akoma mu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "⟨so⟩ ... ɛnyɛ sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "nhunu \/ nhwɛ mu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛno de"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ɔnim"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "akɔnnɔ ahodoɔ a wɔasum no"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:09.786833398Z",
+  "model": "glm-5.3"
+}

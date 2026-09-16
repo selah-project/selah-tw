@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Tow wo kwan no gu Yawe so, fa wo ho to ne so, na ɔno ara bɛyɛ.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Tow"
+    },
+    {
+      "surface": "על",
+      "gloss": "gu ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "wo kwan"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "na fa wo ho to"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno ara"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:13.244701309Z",
+  "model": "glm-5.3"
+}

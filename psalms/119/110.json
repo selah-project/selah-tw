@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Abɔnefoɔ sii asɛe sii me anan, na meantwa afi W'ahyɛdeɛ so.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "sii"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me anan"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "na W'ahyɛdeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da (pow)"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "meantwa afi… so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:05.311521892Z",
+  "model": "glm-5.3"
+}

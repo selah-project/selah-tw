@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Kɔ, di wo aduane no ahotosoɔ mu, na nom wo nsã no akoma pa mu, efisɛ Eloohim agye ⟨את⟩ wo nnwuma no atom dedaw.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "di"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ahotosoɔ mu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "wo aduane"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "na nom"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "akoma ... mu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "wo nsã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dedaw"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "agye ... atom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nnwuma no"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "wo nnwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T03:58:43.960491858Z",
+  "model": "glm-5.3"
+}

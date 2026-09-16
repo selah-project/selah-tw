@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "De yɛatie na yɛahunu, na yɛn awofoɔ kaa kyerɛɛ yɛn.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "De"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "yɛatie"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "na yɛahunu"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "na yɛn awofoɔ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kyerɛɛ yɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:07.443224660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Moshe ne Aharon faa nnipa ⟨את⟩ no a wɔde wɔn din atwerɛ ho.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "wɔde wɔn din atwerɛ ho"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "wɔ din mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:21.202737542Z",
+  "model": "glm-5.3"
+}

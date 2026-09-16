@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Wotintimm baabi wɔ n'anim, wode esee ne nnini, na ɛhyɛɛ asase ma.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Wotintimm baabi"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "wɔ n'anim"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "wode esee"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ne nnini"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "na ɛhyɛɛ ma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:00.611528040Z",
+  "model": "glm-5.3"
+}

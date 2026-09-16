@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Enti megyaee, ma me akoma dagyaw wɔ nkosuo nyinaa ho a metutu wɔ owia fam.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "megyaee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ma ... dagyaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me akoma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "nkosuo"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "a metutu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wɔ ... fam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owia"
+    }
+  ],
+  "timestamp": "2026-09-16T03:52:59.422380617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Elam mma, ɔha baako nkɔsoɔ abien, ɔha aduonum ne anan (1,254).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ɔha baako nkɔsoɔ abien"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ɔha abien"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ne anan"
+    }
+  ],
+  "timestamp": "2026-09-16T04:17:21.890482578Z",
+  "model": "glm-5.3"
+}

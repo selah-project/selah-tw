@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "a wɔn nsa mu na bɔne-susu wɔ, na wɔn nsa nifa ayɛ ma abɔguasika.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "wɔ wɔn nsa mu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bɔne-susu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "na wɔn nsa nifa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ayɛ ma"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "abɔguasika"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:30.847969199Z",
+  "model": "glm-5.3"
+}

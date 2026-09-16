@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Tie m'adwɛdwene nne wɔ berɛ a mesrɛ Wo, mɛnsa me nsa akɔ Wo asɔredan kronkron no mu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "m'adwɛdwene"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "berɛ a mesrɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "mɛnsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "asɔredan mu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Wo kronkron dea"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:35.147893758Z",
+  "model": "glm-5.3"
+}

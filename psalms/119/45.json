@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Na mɛnam tɛtrɛ mu, ɛfiri sɛ mehwehwɛɛ wo nhyehyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "na mɛnam"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "tɛtrɛ mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "wo nhyehyɛeɛ"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "mehwehwɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:16.807734295Z",
+  "model": "glm-5.3"
+}

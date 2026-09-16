@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Mmaa a wɔsa nwonwonne no buaa wɔn ho wɔn ho, wɔkaa sɛ: “Sha-ul akum apem, na Dawid akum mpem du.”",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "buaa wɔn ho wɔn ho"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mmaa"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "a wɔsa nwonwonne"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "wɔkaa sɛ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akum"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "apem"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dawid"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "mpem du"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:07.958458708Z",
+  "model": "glm-5.3"
+}

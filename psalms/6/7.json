@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Me ho awu wɔ m'annaeɛ mu; anadwo nyinaa mema me da tu nsuo; me nusu sɛe me mpa.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "me ho awu"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "wɔ m'annaeɛ mu"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "mema ... tu nsuo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "anadwo nyinaa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "me da"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "me nusu"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "me mpa"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "sɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:22.403452345Z",
+  "model": "glm-5.3"
+}

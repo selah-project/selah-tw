@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔmaa wɔn aman no asase, na wɔfaa nnipa no adwuma no so sɛ wɔn dea.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ɔmaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "asase"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "na ... adwuma no"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "wɔfaa ... so sɛ wɔn dea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:12.681385812Z",
+  "model": "glm-5.3"
+}

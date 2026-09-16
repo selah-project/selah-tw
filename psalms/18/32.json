@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Adefeka, hwan ne Eloohim a ɔwɔ Yawe akyi? Na hwan ne ɔbo a ɛyɛ den ka yɛn Eloohim ho?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "adefeka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "a ɔwɔ ... akyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hwan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ɔbo a ɛyɛ den"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ka ... ho"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:47.482081573Z",
+  "model": "glm-5.3"
+}

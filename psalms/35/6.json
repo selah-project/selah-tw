@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Momma wɔn kwan nyɛ sum ne dwodwodeɛ, na Yawe bɔfoɔ ndi wɔn akyi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "momma ... nyɛ"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "wɔn kwan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sum"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ne dwodwodeɛ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "na ... bɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ndi wɔn akyi"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:51.640846458Z",
+  "model": "glm-5.3"
+}

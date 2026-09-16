@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Wei ne akatua a me atamfoɔ nyae firi Yawe ⟨את⟩ hɔ, ne wɔn a wɔka bɔne tia m'anka.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Wei"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ne akatua"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "a me atamfoɔ nyae"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "firi Yawe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ne wɔn a wɔka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "על",
+      "gloss": "tia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "m'anka"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:31.189728511Z",
+  "model": "glm-5.3"
+}

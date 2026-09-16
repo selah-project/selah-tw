@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Moshe faa ⟨את⟩ ne yere ne ⟨את⟩ ne mma no, ɔde wɔn guu bɔne so, ɔsan kɔɔ Misraim asase so; na Moshe faa ⟨את⟩ Eloohim dua no ne nsa mu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yere"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "ɔde wɔn guu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "bɔne no"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ɔsan kɔɔ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim dua no"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dua no"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ne nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:44:51.312972623Z",
+  "model": "glm-5.3"
+}

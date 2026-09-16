@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Na seesei, sɛnea Yawe ka no, deɛ ɔbɔɔ wo, Yakob, ne deɛ ɔyɛɛ wo, Israel: nsuro, ɛfiri sɛ magye wo; mefrɛɛ wo wɔ wo din mu; wo yɛ me dea.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "ɔbɔɔ wo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "na ɔyɛɛ wo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "magye wo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mefrɛɛ wo"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "wɔ wo din mu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:57:07.474717403Z",
+  "model": "glm-5.3"
+}

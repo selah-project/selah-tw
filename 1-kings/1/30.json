@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 1:30",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Sɛnea mebɔɔ wo apam wɔ Yawe, Israel Eloohim din mu sɛ: Sɛlemo wo ba no bɛdi me akyi sɛ ɔhene, na ɔno na ɔbɛtena me akongua so wɔ m'ananmu — saa ara na mɛyɛ nnɛ da yi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mebɔɔ apam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "wɔ Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokware sɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sɛlemo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bɛdi ... sɛ ɔhene"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "me akyi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno na"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "me akongua"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "wɔ m'ananmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saa ara sɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mɛyɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "da yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:07.156760598Z",
+  "model": "glm-5.3"
+}

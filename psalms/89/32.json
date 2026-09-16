@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Sɛ wɔserew me nnwuma, na wɔmmɔ me nhyehyɛeɛ so ban:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "me nnwuma"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "wɔbɛserew"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na me nhyehyɛeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "wɔbɛbɔ ho ban"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:41.966857107Z",
+  "model": "glm-5.3"
+}

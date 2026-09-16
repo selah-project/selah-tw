@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔhyehyɛɛ ⟨את⟩ ne kaakamɛboɔ, na ɔfaa ⟨את⟩ ne nnipakuw no ne ne ho.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ɔhyehyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kaakamɛboɔ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ne kaakamɛboɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnipakuw no"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nnipakuw no"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:37.907840613Z",
+  "model": "glm-5.3"
+}

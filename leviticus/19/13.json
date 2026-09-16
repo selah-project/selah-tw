@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Mma wo yɔnko ⟨את⟩ mma wɔbɔ no aniwu, na mma wo bɔ no awo; hwɛfoɔ no akatua nnyina ⟨את⟩ wo nkyɛn kɔsii anɔpa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "bɔ no aniwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo yɔnko"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "wo yɔnko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mma"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "bɔ no awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "nnyina"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "akatua"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "hwɛfoɔ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo nkyɛn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:53.007331975Z",
+  "model": "glm-5.3"
+}

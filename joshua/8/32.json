@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔtwerɛɛ hɔ wɔ aboɔ no so ⟨את⟩ Moshe Mmara no mmienu-dɔdɔ, dea ɔtwerɛeɛ wɔ Yisrael mma no anim.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "na ɔtwerɛɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "aboɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe Mmara no mmienu-dɔdɔ"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mmienu-dɔdɔ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Mmara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dea"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ɔtwerɛeɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:32.133663439Z",
+  "model": "glm-5.3"
+}

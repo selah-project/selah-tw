@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ne ⟨את⟩ kos no, ne ⟨את⟩ shalakh no, ne ⟨את⟩ yanshuf no;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "kos no"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kos no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "shalakh no"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalakh no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "yanshuf no"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshuf no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:20.961379235Z",
+  "model": "glm-5.3"
+}

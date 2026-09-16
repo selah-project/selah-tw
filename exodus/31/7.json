@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "⟨את⟩ nhyiamu-tɛntɛren no, ne ⟨את⟩ adansedie adaka no, ne ⟨את⟩ nkatasoɔ a ɛda ne so no, ne ⟨את⟩ tɛntɛren no nneɛma nyinaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyiamu-tɛntɛren no"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tɛntɛren"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "adansedie adaka no"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "adansedie no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nkatasoɔ no"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nkatasoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a ɛda ne so"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nneɛma nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nneɛma"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tɛntɛren no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:29.027376807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Moabu animtia wɔ ahiɔ afutuo so, ɛfiri sɛ Yawe ne ne nkwaado.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "afutuo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ahiɔ"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "moabu animtia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "ne nkwaado"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:01.980877697Z",
+  "model": "glm-5.3"
+}

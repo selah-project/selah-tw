@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Mosheh kasaayasɛ Israel mma no; nanso wɔantie Mosheh, esiane honhom mu nkawan ne adwumaden nti.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasaayasɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso wɔan-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "esiane ... mu nkawan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "ne adwuma"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:01.114825229Z",
+  "model": "glm-5.3"
+}

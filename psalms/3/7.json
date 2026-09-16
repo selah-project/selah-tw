@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Mennuro ho dwodwo mipoɔ nnipa mpem du, a wɔatow wɔn ho ahyɛ me ho hyiae.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mennuro"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ho dwodwo mipoɔ"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "mpem du"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hyiae"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wɔatow wɔn ho ahyɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:53.347147586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na mmoawa biara a ɛtu a ɔwɔ nan anan — ɛyɛ ɛfi ma mo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na ... biara"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "mmoawa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "a ɛtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anan"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ɛfi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:47.900642710Z",
+  "model": "glm-5.3"
+}

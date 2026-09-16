@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Yawe akwan nyinaa yɛ hesed (adɔeɛ) ne nokorɛ, ma wɔn a wɔdi ne apam ne ne nkyerɛkyerɛdeɛ so.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "akwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ne nokorɛ"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "ma wɔn a wɔdi ... so"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ne nkyerɛkyerɛdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:47.401564616Z",
+  "model": "glm-5.3"
+}

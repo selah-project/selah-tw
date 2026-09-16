@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Sallum woo ⟨את⟩ Yekamya, na Yekamya woo ⟨את⟩ Elisama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Sallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "na Yekamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elisama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elisama"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:39.196676158Z",
+  "model": "glm-5.3"
+}

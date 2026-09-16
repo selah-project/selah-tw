@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na mede m'apam bɛhyɛ me ne wo ntam, na mɛma wo adɔso kɛseɛ ara.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "na mede bɛhyɛ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "m'apam"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gyina me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ne wo ntam"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "na mɛma wo adɔso"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kɛseɛ ara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:16.389266982Z",
+  "model": "glm-5.3"
+}

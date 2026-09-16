@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Ɔde wɔn sii hɔ daa, kɔsi afebɔɔ; ɔmaa ahyɛdeɛ a ɛbɛntwa so.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Ɔde wɔn sii hɔ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔsi afebɔɔ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ahyɛdeɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔmaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ɛrenn"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "bɛntwa so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:27.190243593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Onipayin bɔne no, wɔtwan no gu n'ani so; na ⟨את⟩ wɔn a wɔsuro Yawe no, ɔyɛ wɔn dendeeden. Wabɔ ahwɛe sɛ ɔbɛhwɛ yaw, na ɔnsesa.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "twan … gu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'ani so"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "Onipayin bɔne no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔsuro Yawe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "wɔsuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ɔyɛ … dendeeden"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "abɔ ahwɛe"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "bɛhwɛ yaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔn-"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "sesa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:09.626247357Z",
+  "model": "glm-5.3"
+}

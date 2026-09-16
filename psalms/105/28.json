@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔsomaa sum, na ɛbɛyɛɛ sumduro, na wɔamperee ⟨את⟩ ne nsɛm.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ɔsomaa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sum"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "na ɛbɛyɛɛ sumduro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... mm"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "wɔamperee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsɛm"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ne nsɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:31.476931946Z",
+  "model": "glm-5.3"
+}

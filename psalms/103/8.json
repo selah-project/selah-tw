@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Yawe yɛ mmɔborɔhunufoɔ ne adɔeɛfoɔ, ɔtwetwa n'abufuo mu, na hesed (ntɔkwa-asɛm) dɔɔso wɔ ne mu.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "mmɔborɔhunufoɔ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ne adɔeɛfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ɔtwetwa ... mu"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "n'abufuo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dɔɔso wɔ ne mu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:09.131202918Z",
+  "model": "glm-5.3"
+}

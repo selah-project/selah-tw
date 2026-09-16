@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Yawe de Yakob ahimzi asɛ wɔn: Mɛwerɛfi wɔn nnwuma nyinaa da, mmerɛ ne da.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "asɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "de ... ahimzi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da (wɔ bɔhyɛ mu)"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "mɛwerɛfi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mmerɛ ne da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "wɔn nnwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:15:06.246187838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 64,
+  "translation": "Na seɛ, Yawe, ⟨ne⟩ yɛn agya; yɛn ⟨ne⟩ anweadeɛ, na wo ⟨ne⟩ yɛn nnwumfoɔ, na yɛn nyinaa ⟨ne⟩ wo nsa adwuma.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "yɛn agya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "anweadeɛ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "yɛn nnwumfoɔ"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na … adwuma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa de"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "yɛn nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:03:16.906483635Z",
+  "model": "glm-5.3"
+}

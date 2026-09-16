@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Yawe kasaanii Moze, se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasaanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:36.397746340Z",
+  "model": "glm-5.3"
+}

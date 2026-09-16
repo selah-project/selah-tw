@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Bosome yi yɛ mo bosome ano — ɛyɛ deɛ ɛdi kan wɔ afe no bosome mu mɔ mo.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Bosome yi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bosome"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "deɛ ɛdi kan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "wɔ bosome mu"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "afe no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:28.518131820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ka kyerɛ Zerubbabel, Yuda ⟨ɔpɛha⟩, se: Mɛsɛe ⟨את⟩ ɔsoro ne ⟨את⟩ asase.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "pɛha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "mɛsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:26.245713374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Aman nyinaa, tɔ mo nsa; momo rinnɛ a ɛso kɔ Eloohim nne mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Aman"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "tɔ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "mo nsa"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "momo rinnɛ a ɛso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kɔ Eloohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne mu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rinnɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:05.786977463Z",
+  "model": "glm-5.3"
+}

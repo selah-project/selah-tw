@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 100,
+  "translation": "Monnim sɛ Yawe, ɔno ne Eloohim; ɔno na ɔyɛɛ yɛn, na ɛnyɛ yɛn ankasa; yɛyɛ n'aman, ne nguan a ɔhwɛ wɔn so.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "monnim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno na"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ɔyɛɛ yɛn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yɛn ankasa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'aman"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ne nguan"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "a ɔhwɛ wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:23.877601774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Mene Yawe, wo Eloohim, de me de wo firi Misraim asase so, afi nnɔboaɛ fi mu.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "me de wo firi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "afi fi mu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nnɔboaɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:38.987770218Z",
+  "model": "glm-5.3"
+}

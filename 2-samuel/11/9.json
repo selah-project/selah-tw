@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Uriya daa ɔhemfie no anim, ne ⟨את⟩ ne wura akodiefoɔ nyinaa; na ɔansiane akɔ n'fie.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "daa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "anim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhemfie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne wura akodiefoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akodiefoɔ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ne wura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔan-"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "siane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n'fie"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:59.433670442Z",
+  "model": "glm-5.3"
+}

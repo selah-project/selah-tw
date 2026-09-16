@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Yɛayɛ bɔne, yɛne yɛn awofoɔ; yɛyɛɛ mfomsoɔ, yɛyɛɛ bɔne kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "yɛayɛ bɔne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yɛne"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "yɛn awofoɔ"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "yɛyɛɛ mfomsoɔ"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "yɛyɛɛ bɔne kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:29.571278517Z",
+  "model": "glm-5.3"
+}

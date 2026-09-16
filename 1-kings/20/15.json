@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔtuu amantam akannifoɔ no mmeranteɛ no, na wɔyɛɛ ɔha mmienu ne aduasa mmienu; wɔn akyi no ɔtuu ⟨את⟩ nnipa no nyinaa, Yisrael mma nyinaa, nson apem.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "na ɔtuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amantam akannifoɔ no mmeranteɛ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mmeranteɛ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "amantam"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ɔha mmienu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ne aduasa mmienu"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "wɔn akyi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ɔtuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nson"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "apem"
+    }
+  ],
+  "timestamp": "2026-09-15T23:25:07.794386752Z",
+  "model": "glm-5.3"
+}

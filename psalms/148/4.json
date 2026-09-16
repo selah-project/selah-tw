@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Munyɛ no ayɔnkoɔ, ananmusifoɔ ɔsoro a ɛwɔ ɔsoro aseɛ, ne nsuo a ɛwɔ ɔsoro atifi.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Munyɛ no ayɔnkoɔ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ananmusifoɔ ɔsoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a ɛwɔ ɔsoro aseɛ"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ne nsuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ɛwɔ ... atifi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:49.224929509Z",
+  "model": "glm-5.3"
+}

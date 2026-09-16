@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na ɔyɛɛ Kerubim mmienu sika kɔkɔɔ; nnwuma a wɔabɔ so na ɔyɛɛ ⟨את⟩ ⟨אֹתָם⟩, wɔ kapporet no awieeɛ mmienu no so.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na ɔyɛɛ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "Kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "nnwuma a wɔabɔ so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אֹתָם⟩",
+      "marks": "Kerubim mmienu no"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "awieeɛ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:06.065050380Z",
+  "model": "glm-5.3"
+}

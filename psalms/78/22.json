@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Ɛfiri sɛ wɔannyigyina agu wo Eloohim mu, na wɔantwɛn n'ahotew mu,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "nyigyinae agu"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "wo Eloohim mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ann-"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ntwɛn"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "n'ahotew mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:32.817269366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Yawe kasa kyerɛɛ Moshe ne Aharon se:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    }
+  ],
+  "timestamp": "2026-09-15T20:44:42.476025190Z",
+  "model": "glm-5.3"
+}

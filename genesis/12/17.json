@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yawe bɔɔ ⟨את⟩ Paroh agu amanehunu akɛseɛ, ne ⟨את⟩ ne fie, ɛfiri Sarai, Abram yere asɛm so.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "bɔɔ agu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "amanehunu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne fie"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfiri ... so"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:22.211649568Z",
+  "model": "glm-5.3"
+}

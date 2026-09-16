@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Mo nnunn mo kɔ kɔ soro; mo nnkasa kɔkɔden wɔ mo kɔn mu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mo nn-"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nnunn"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "kɔ soro"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "mo kɔ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "mo nnkasa"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "wɔ mo kɔn mu"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "kɔkɔden"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:58.088639985Z",
+  "model": "glm-5.3"
+}

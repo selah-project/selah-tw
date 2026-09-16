@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Yɔab somaa obi kɔkaa ⟨את⟩ ɔko no nsɛm nyinaa kyerɛɛ Dawid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yɔab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ɔka ɔka kyerɛɛ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kyerɛɛ Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔko no nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ɔko no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:59.273369836Z",
+  "model": "glm-5.3"
+}

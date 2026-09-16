@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na asɛm yi yɛɛ momor, na nnipa no kɔɔ baako no anim kodu Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... yɛɛ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "momor"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na ... kɔɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kodu"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:13.045936264Z",
+  "model": "glm-5.3"
+}

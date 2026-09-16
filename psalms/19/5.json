@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Wɔn kwan no afa asase nyinaa mu, na wɔn nsɛm akae wiase awieeɛ; wɔasiesie abɔdan ama awia wɔ (soro no) mu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "afa (akae)"
+    },
+    {
+      "surface": "קום",
+      "gloss": "wɔn kwan"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "na ... awieeɛ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wiase"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "wɔn nsɛm"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "ama awia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔasiesie"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "abɔdan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ (wɔn) mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:47.957915346Z",
+  "model": "glm-5.3"
+}

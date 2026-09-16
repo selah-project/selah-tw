@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na Yawe, ɔno ne deɛ ɔdi wo anim kɔ; ɔno na ɔbɛka wo ho; ɔrenkyerɛ wo ho, na ɔregyaw wo ara; nsuro, na werɛ ho mfiri wo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "deɛ ɔdi ... kɔ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔren"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "nkyerɛ wo ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔren"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "gyaw wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... m"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "werɛ ho mfiri wo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:20.785426349Z",
+  "model": "glm-5.3"
+}

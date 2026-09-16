@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Asɛm nni hɔ, nsɛmfua nni hɔ; wɔn nnyegyeeɛ nka da.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na nni hɔ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "nsɛmfua"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nka"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "wɔn nnyegyeeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:44.282873889Z",
+  "model": "glm-5.3"
+}

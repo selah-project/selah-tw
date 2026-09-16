@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Me deɛ, hwɛ, m'apam ⟨is⟩ ne ⟨את⟩ wo, na wobɛyɛ aman dodoɔ agya.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Me deɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "m'apam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "agya"
+    },
+    {
+      "surface": "המון",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:16.389772212Z",
+  "model": "glm-5.3"
+}

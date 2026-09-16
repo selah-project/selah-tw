@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɔma sukyerɛmma sɛ ntoma nhwam, na Ɔtrɛ nsu-nwow sɛ nkotoku.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Ɔma"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sukyerɛmma"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "sɛ ntoma nhwam"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "nsu-nwow"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "sɛ nkotoku"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "trɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:21.022443841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Deɛ ɔdi nkyerɛkyerɛmu no dea; Dawid asɛm. Wɔ Yawe mu na masɔ ahoboa; sɛdeɛ mofre me werɛ se: Gur gyae kɔ wo bepɔ so sɛ nnomuma?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔdi nkyerɛkyerɛmu no dea"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid asɛm"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "wɔ Yawe mu"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "masɔ ahoboa"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mofre"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "me werɛ"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "gur gyae"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "bepɔ so"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nnomuma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:02.070439107Z",
+  "model": "glm-5.3"
+}

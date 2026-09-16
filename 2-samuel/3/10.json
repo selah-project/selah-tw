@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Sɛdeɛ ahemman no bɛfiri Saul fie, na wɔbɛsɔ ⟨את⟩ Dawid akongua agu Ɛsrael so ne Yuda so, firi Dan kɔsi Beer-Sheba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "sɛdeɛ ... bɛfiri"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ahemman no"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi ... fie"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "na wɔbɛsɔ ... agu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid akongua"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "akongua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ɛsrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "firi Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kɔsi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:35.818267380Z",
+  "model": "glm-5.3"
+}

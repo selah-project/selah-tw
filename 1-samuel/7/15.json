@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Samuel dii ⟨את⟩ Yisrael asɛm ne nkwa nna nyinaa.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dii asɛm"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ne nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:25.175346448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ɛnyɛ w'afɔdeɛ ho asɛm nti na mɛkyerɛ wo mfomsoɔ; na w'nnofua afɔdeɛ daa wɔ m'anim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ɛnyɛ ... nti na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho asɛm"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "w'afɔdeɛ"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "mɛkyerɛ wo mfomsoɔ"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "na w'nnofua afɔdeɛ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "wɔ m'anim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:46.989221816Z",
+  "model": "glm-5.3"
+}

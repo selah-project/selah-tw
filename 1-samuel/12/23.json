@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 12:23",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Me nso, ɛnyɛ me sɛ mɛbɔ Yawe bɔne sɛ mɛgyae mpaebosea amma mo; na mɛkyerɛ mo ⟨את⟩ ɔkwan pa no ne ɔkwan tene no.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ɛnyɛ me sɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מחטא",
+      "gloss": "sɛ mɛbɔ ... bɔne"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מחדל",
+      "gloss": "sɛ mɛgyae"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "mpaebosea"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "amma mo"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "na mɛkyerɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "pa no"
+    },
+    {
+      "surface": "והישרה",
+      "gloss": "ne tene no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:33.361516089Z",
+  "model": "glm-5.3"
+}

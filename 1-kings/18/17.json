@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na ɛbaeɛ sɛ Ahab hunuu ⟨את⟩ Elia, na Ahab ka kyerɛɛ no sɛ: Wo ne wo a woakyekyere Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbaeɛ sɛ"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Wo ne wo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "woakyekyere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:58.000860948Z",
+  "model": "glm-5.3"
+}

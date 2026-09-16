@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Twe mo ho firi me ho, mo mmɔnefoɔ, sɛdeɛ meso me Eloohim amanneɛ no so.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "twe mo ho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me ho"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mo mmɔnefoɔ"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "na meso ... so"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amanneɛ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:03.776912836Z",
+  "model": "glm-5.3"
+}

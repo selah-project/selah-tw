@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 96,
+  "translation": "Momma ɔsoro nnyaw na asase agye anigye; momma po no mmɔ dɔm, ne de ɛwɔ mu nyinaa.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "nnyaw"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "agye anigye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "mmɔ dɔm"
+    },
+    {
+      "surface": "הים",
+      "gloss": "po no"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ne de ɛwɔ mu nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:04.201587465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim frɛɛ rakia no Din “Shamayim ⟨soro⟩”; na anwummerɛ baa, na awia baa — da a ɛtɔ so mmienu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na … frɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakia no"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Shamayim ⟨soro⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na … baa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na … baa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "awia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a ɛtɔ so mmienu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:57.293482940Z",
+  "model": "glm-5.3"
+}

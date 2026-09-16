@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔde ⟨את⟩ wo bɛn no, ne ⟨את⟩ wo nuanom nyinaa, Lewi mma, ⟨את⟩ ne wo; na mo de mo tirim hwehwɛ ɔsɔfodwuma no nso?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɔde wo bɛn"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "ne wo nuanom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wo nuanom nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nuanom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ne wo"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "mo de mo tirim hwehwɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ɔsɔfodwuma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:34:12.038734976Z",
+  "model": "glm-5.3"
+}

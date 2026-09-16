@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Ka yei kae, Yawe: ɔtanfoɔ buu Wo anim, na akwaseafoɔ man buu Wo din ho animuonyam.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ka ... kae"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yei"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtanfoɔ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "buu anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na ... man"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "akwaseafoɔ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "buu animuonyam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Wo din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:04.327971511Z",
+  "model": "glm-5.3"
+}

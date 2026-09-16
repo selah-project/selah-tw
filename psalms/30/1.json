@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Mizmor — dwom — Dawid de ma wɔ fie no konya (dedea) mu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "konya (dedea)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de ma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:31.057333130Z",
+  "model": "glm-5.3"
+}

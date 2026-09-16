@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Yawe ho suro no ho te, ɛgyina hɔ kɔ daa; Yawe atemmu yɛ nokorɛ, ɛyɛ atɛntreneeɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ho suro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "ho te"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "gyina hɔ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kɔ daa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "yɛ atɛntreneeɛ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:23.871512573Z",
+  "model": "glm-5.3"
+}

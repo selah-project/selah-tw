@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ɛnyɛ adɔeɛ me ano nsɛm ne me akoma adwene w'anim, Yawe, me Botan ne me Agyefoɔ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "adɔeɛ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "ne akoma adwene"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "me Botan"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "ne me Agyefoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:00.706776071Z",
+  "model": "glm-5.3"
+}

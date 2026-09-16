@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 114,
+  "translation": "Yuda bɛyɛɛ ne kronkronbea, Yisrael bɛyɛɛ ne ahennie.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "bɛyɛɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ne kronkronbea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "ne ahennie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:55.609656674Z",
+  "model": "glm-5.3"
+}

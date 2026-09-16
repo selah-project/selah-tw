@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "Eloohim kasa wɔ ne kronkronmu: merebɛkorɔm, mɛkyekye Shekem, na mɛsusu Sukot aboɔ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "wɔ ne kronkronmu"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "merebɛkorɔm"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "mɛkyekye"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "na ... aboɔ"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "mɛsusu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:51.903159345Z",
+  "model": "glm-5.3"
+}

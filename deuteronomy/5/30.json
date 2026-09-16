@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Kɔ, ka akyerɛ wɔn sɛ: Monsan mo nkɔ mo akyirefua mu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kɔ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka akyerɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Monsan mo nkɔ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo (ankasa)"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "mo akyirefua mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:52.230203114Z",
+  "model": "glm-5.3"
+}

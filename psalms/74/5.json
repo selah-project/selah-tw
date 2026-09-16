@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Wɔnim no sɛ obi a ɔde akuma kɔ soro wɔ dua mmea atɛmntɛm mu.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "wɔnim no"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "sɛ obi a ɔde"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kɔ soro"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "wɔ dua mmea atɛmntɛm mu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dua"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "akuma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:08.189890175Z",
+  "model": "glm-5.3"
+}

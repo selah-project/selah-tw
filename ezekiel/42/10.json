@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Wɔ afasuo a ɛtwaa afaseɛ no ho ntrɛwmu mu, wɔ apueeɛ kwan so, wɔ agyira bea no anim ne ⟨the⟩ adan no anim, na hɔ na nsɔkee no wɔ.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "wɔ ... ntrɛwmu mu"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "afasuo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "afaseɛ no"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan so"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "apueeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "agyira bea no"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne kwan a ɛkɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "adan no"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "nsɔkee"
+    }
+  ],
+  "timestamp": "2026-09-16T00:59:17.135688440Z",
+  "model": "glm-5.3"
+}

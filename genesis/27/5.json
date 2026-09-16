@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ribka tee berɛ a Jitschak kasa kyerɛɛ Esaw ne ba no; Esaw kɔɔ wura mu kɔhwehwɛɛ aboa mmoa, de bae.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tee"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "berɛ a … kasa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura mu"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "kɔhwehwɛɛ"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "aboa mmoa"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "de bae"
+    }
+  ],
+  "timestamp": "2026-09-15T20:26:28.341501453Z",
+  "model": "glm-5.3"
+}

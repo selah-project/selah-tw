@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Wɔboaboaa ⟨את⟩ wɔn ano hyɛɛ nnwinn so — nnwinn pii pii — na asase no bɔɔ nkyene.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "wɔboaboaa ano"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (akokɔ-safuanwa no)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "nnwinn"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "nnwinn pii pii"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "na bɔɔ nkyene"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:15.788559955Z",
+  "model": "glm-5.3"
+}

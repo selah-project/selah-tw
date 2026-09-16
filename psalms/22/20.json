@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na wo, Yawe, nmmɔ me ho kɔ so; me ahoɔden, mma wo ntɛm mmera m'ankyɛ boa me.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nmmɔ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "me ho kɔ so"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "me ahoɔden"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "m'ankyɛ boa me"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "mma wo ntɛm mmera"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:22.417833695Z",
+  "model": "glm-5.3"
+}

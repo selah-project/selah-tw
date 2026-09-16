@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Yawe nhyehyɛeɛ gyina tẽẽ, ɛma akoma di anigyeɛ; Yawe ahyɛ no ho te korɔ, ɛma aniwa hyerɛn.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "gyina tẽẽ"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ma ... di anigyeɛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ahyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ho te korɔ"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "ma ... hyerɛn"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "aniwa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:23.862272506Z",
+  "model": "glm-5.3"
+}

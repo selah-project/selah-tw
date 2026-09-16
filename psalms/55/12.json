@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Sɛeɛ wɔ ne mu; ɔhyɛso ne afodifiri nngyae ne kwan-tee so.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Sɛeɛ"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "wɔ ne mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nngyae ... nnyɛ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "nngyae"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "ne kwan-tee so"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ɔhyɛso"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ne afodifiri"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:32.802771160Z",
+  "model": "glm-5.3"
+}

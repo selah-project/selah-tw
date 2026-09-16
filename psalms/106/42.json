@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Na wɔn atamfoɔ hyɛɛ wɔn so, na wɔbrɛ aseɛ wɔ wɔn nsa ase.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "hyɛɛ wɔn so"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "wɔn atamfoɔ"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "brɛ aseɛ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "wɔn nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:12.090149405Z",
+  "model": "glm-5.3"
+}

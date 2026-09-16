@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na ɔkaa ⟨את⟩ atadeɛ anum no ne ho, na ⟨את⟩ atadeɛ nsia no nso ne ho.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ anum no"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "anum"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:38.378142804Z",
+  "model": "glm-5.3"
+}

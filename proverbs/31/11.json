@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ne kunu akoma de ne ho to ne so, na ɔnnhia mfasoɔ biara.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "de ne ho to ... so"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "hia"
+    }
+  ],
+  "timestamp": "2026-09-16T03:06:34.366764698Z",
+  "model": "glm-5.3"
+}

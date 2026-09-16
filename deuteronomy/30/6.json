@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na Yawe wo Eloohim betrim ⟨את⟩ wo akoma ne ⟨את⟩ wo asefoɔ akoma, sɛnea moyi Yawe wo Eloohim dera wɔ mo akoma nyinaa mu ne mo nkwa nyinaa mu, na mo nkwa ntra ase.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "betrim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo akoma"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wo asefoɔ akoma"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo asefoɔ"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "dera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne ... nyinaa mu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo nkwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na ... ntra ase"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "wo nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:26.238321330Z",
+  "model": "glm-5.3"
+}

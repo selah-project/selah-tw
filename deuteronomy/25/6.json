@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɛbɛyɛ sɛ abakan a ɔbɛwo no, ne din bɛsɔ ne wufoɔ nua no din so, na ne din nnsɛe afiri Yisrael mu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ sɛ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "abakan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ɔbɛwo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bɛsɔ ... so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ɔwufoɔ no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nn-"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "sɛe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "afiri Yisrael mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:23.388950356Z",
+  "model": "glm-5.3"
+}

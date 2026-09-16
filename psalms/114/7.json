@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 114,
+  "translation": "Firi Adonai anim, asase, srã w'ho; firi Eloa a ɔne Yakub de no anim!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Firi ... anim"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "srã w'ho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakub"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:44.298635238Z",
+  "model": "glm-5.3"
+}

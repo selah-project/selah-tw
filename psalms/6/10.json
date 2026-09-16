@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Yawe ate m'apɛbɔ; Yawe bɛgya me mpaebo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "m'apɛbɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpaebo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bɛgya"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:07.289012573Z",
+  "model": "glm-5.3"
+}

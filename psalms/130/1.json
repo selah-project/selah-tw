@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 130,
+  "translation": "Nkɔsɔɔ dwom. Efi abotan mu na mefrɛɛ Wo, Yawe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nkɔsɔɔ"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "efi abotan mu"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mefrɛɛ Wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:50.755617677Z",
+  "model": "glm-5.3"
+}

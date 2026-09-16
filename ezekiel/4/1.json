@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wo, onipa ba, fa ⟨את⟩ ntɔa fa ma wo ho, na wo de bɛto wo anim, na wo bɛkyerɛw kuro — ⟨את⟩ Yerusalem — so.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo ho"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ntɔa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na wo de bɛto"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ntɔa no"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "na wo bɛkyerɛw"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "so"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T00:35:04.651395916Z",
+  "model": "glm-5.3"
+}

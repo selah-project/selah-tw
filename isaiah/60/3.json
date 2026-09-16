@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Aman bɛkɔ w'ahyerɛn mu, na ahemfo bɛkɔ wo mɔborɔba mu.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Aman"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "w'ahyerɛn mu"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "wo mɔborɔba mu"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "wo mɔborɔba"
+    }
+  ],
+  "timestamp": "2026-09-16T00:02:05.048371300Z",
+  "model": "glm-5.3"
+}

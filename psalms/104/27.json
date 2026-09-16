@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Wɔn nyinaa twɛn wo, na wo de wɔn aduane ma wɔn wɔ n'berɛ mu.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "twɛn"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "wɔn aduane"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "wɔ n'berɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:35.381121257Z",
+  "model": "glm-5.3"
+}

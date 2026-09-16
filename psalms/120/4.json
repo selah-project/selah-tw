@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 120,
+  "translation": "Ɔkofoɔ seminaa a ano yɛ sen, ne retam nnua nnuruhye.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "seminaa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ɔkofoɔ"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "a ano yɛ sen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "nnuruhye"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "retam nnua"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:49.063752184Z",
+  "model": "glm-5.3"
+}

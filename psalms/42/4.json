@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Me nsuwa ayɛ me aduane awia ne anadwo, berɛ a wɔka me ho asɛm awia nyinaa sɛ: Eloohim wo no wɔ he?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "me nsuwa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awia"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ne anadwo"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "berɛ a wɔka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me ho asɛm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "awia"
+    },
+    {
+      "surface": "איה",
+      "gloss": "wɔ he"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim wo no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:36.585204603Z",
+  "model": "glm-5.3"
+}

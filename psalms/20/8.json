@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Wɔbi wɔ akokɔ mu, wɔbi wɔ apampam mu; nanso yɛn deɛ, yɛn Yawe Eloohim din na yɛkae.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Wɔbi"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "wɔ akokɔ mu"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "wɔbi"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "wɔ apampam mu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nanso yɛn deɛ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yɛn Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "na yɛkae"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:58.323650604Z",
+  "model": "glm-5.3"
+}

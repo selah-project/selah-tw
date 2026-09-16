@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Na mɛbua obi a ɔhyɛ me animia no asɛm, ɛfiri sɛ metwe me ho asi wo asɛm so.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "na mɛbua"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "obi a ɔhyɛ me animia"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "metwe me ho asi"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "wo asɛm so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:31.734928824Z",
+  "model": "glm-5.3"
+}

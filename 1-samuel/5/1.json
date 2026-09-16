@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Abibiremfoɔ (Peleshtim) de ⟨את⟩ Eloohim adaka no baeɛ, wɔde firi Eben-ha-Ezer baa Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Abibiremfoɔ no"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "de...baeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim adaka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wɔde baa"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "firi Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:03.996229058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 101,
+  "translation": "Akoma a ɛyera no bɛtwe ne ho afi me ho; bɔne, mɛnnim da.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "a ɛyera"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "bɛtwe ne ho afi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mɛnnim ... da"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mɛnnim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:41.958983694Z",
+  "model": "glm-5.3"
+}

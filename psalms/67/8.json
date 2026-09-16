@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 67,
+  "translation": "Eloohim adom yɛn, na wiase nyinaa awiei wɔbɛsuro no ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "adom yɛn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "na wɔbɛsuro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "awiei"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wiase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:49.056490018Z",
+  "model": "glm-5.3"
+}

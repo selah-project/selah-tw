@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Obed woo ⟨את⟩ Yehu, na Yehu woo ⟨את⟩ Azarya.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "na Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:45.806821647Z",
+  "model": "glm-5.3"
+}

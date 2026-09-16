@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Sɔre, asase no Ɔtemmufoɔ; tua ka ma ahantanfoɔ.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Ɔtemmufoɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "השב",
+      "gloss": "tua ka"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ahantanfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:42.586713452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "⟨את⟩ Ɛpo baako, ne ⟨את⟩ anantwinom dumienu a ɛwɔ ne ase.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛpo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Ɛpo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "anantwinom"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anantwinom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dumienu — mmienu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dumienu — edu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a ɛwɔ ne ase"
+    }
+  ],
+  "timestamp": "2026-09-16T04:52:27.083447780Z",
+  "model": "glm-5.3"
+}

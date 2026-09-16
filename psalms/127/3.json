@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 127,
+  "translation": "Hwɛ, mma yɛ Yawe agyapadeɛ; yafunu aba yɛ akatua.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "agyapadeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "akatua"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "yafunu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:42.413529531Z",
+  "model": "glm-5.3"
+}

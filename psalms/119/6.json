@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Saa bere no, mmɛfra me ho wɔ m'ani ahunu wo amrɛ no nyinaa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mmɛ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "fra me ho"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "wɔ m'ani ahunu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "wo amrɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:56.619837449Z",
+  "model": "glm-5.3"
+}

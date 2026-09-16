@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Me ho ammfiri wo, berɛ a wɔyɛɛ me wɔ ahintaseɛ mu, na wɔkyea me wɔ asase nnyini mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mmfiri"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "deɛ wɔde sie"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "firi wo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "wɔyɛɛ me"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "wɔ ahintaseɛ mu"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "wɔkyea me"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "wɔ nnyini mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:13.326071320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Twe animguaseɛ ne animhwɛsoɔ fri me so, ɛfiri sɛ mahyɛ wo nkrataa no so.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Twe"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fri me so"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "animguaseɛ"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ne animhwɛsoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "wo nkrataa"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "mahyɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:46.291050023Z",
+  "model": "glm-5.3"
+}

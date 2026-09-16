@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 98,
+  "translation": "Monfrɛ Yawe dɛnn dɛnn, asase nyinaa; montwe mo nne, monkanyan nkɔmɔdie, na monkenkan dwom.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "monfrɛ ... dɛnn dɛnn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "montwe mo nne"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "monkanyan nkɔmɔdie"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "na monkenkan dwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:42.728991159Z",
+  "model": "glm-5.3"
+}

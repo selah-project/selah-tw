@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Soro mu hwan na mewɔ ne ho? na ɛne wo, merennpɛ biribiara wɔ asase so da.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mewɔ ne ho"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "soro mu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "na ɛne wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "merennpɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:49.040816802Z",
+  "model": "glm-5.3"
+}

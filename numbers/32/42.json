@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Nobah nso kɔɔ na ɔdii ⟨את⟩ Kenat ne ⟨את⟩ ne nkurɔfa so, na ɔtoo no din Nobah wɔ ne din mu.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Nobah nso"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ɔdii...so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkurɔfa so"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ne nkurɔfa so"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ɔtoo no din"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "wɔ ne din mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:41:05.845783714Z",
+  "model": "glm-5.3"
+}

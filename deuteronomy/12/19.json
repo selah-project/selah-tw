@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Hwɛ wo ho yie, na firie sɛ woannyaw ⟨את⟩ Lewi wɔ wo nna nyinaa mu wɔ wo asase so.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "hwɛ wo ho yie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "na firie sɛ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "woannyaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "wo nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "wo asase"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:41.457465451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Dɛn na moyɛ ⟨wɔ⟩ ahyɛda da no mu, ne Yawe ⟨no⟩ afahyɛ da no mu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Dɛn"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moyɛ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ahyɛda"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ne da no mu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "afahyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:31.741393463Z",
+  "model": "glm-5.3"
+}

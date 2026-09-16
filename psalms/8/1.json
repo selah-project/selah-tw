@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Deɛ ɔhwɛ dwom no so, wɔ Gitit so; Dawid asɛm dwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔhwɛ dwom no so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gitit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asɛm dwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:00.406550850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Aman ahemfo ne wɔn akɛseɛ aboa ano ayɛ ⟨ne⟩ amanmu a ɛyɛ Abraham Eloohim dea; ɛfiri sɛ asase abammɔ nyinaa yɛ Eloohim dea; watɔne dodo.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "ahemfo ne wɔn akɛseɛ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "aboa ano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amanmu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim ... dea"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "yɛ Eloohim dea"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "abammɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "watɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:44.613262097Z",
+  "model": "glm-5.3"
+}

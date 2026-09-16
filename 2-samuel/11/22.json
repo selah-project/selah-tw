@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Asɛmkafoɔ no kɔɔ, ɔbaa, ɔkae deɛ Yowab de no kɔeɛ — ⟨את⟩ deɛ ɛbaeɛ nyinaa — kyerɛɛ Dawid.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "asɛmkafoɔ no"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ɔkae kyerɛɛ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛbaeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "Yowab de no kɔeɛ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:26.343679910Z",
+  "model": "glm-5.3"
+}

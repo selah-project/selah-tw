@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɔko bio sii: Pelesitifo kɔɔ ɔko mu ⟨את⟩ Israel; na Dawid ne n'akoafoɔ kɔɔ ase, na wɔkoo ɔko tiaa ⟨את⟩ Pelesitifo, na Dawid ho dwirii no.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "na ... sii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "maa Pelesitifo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "kɔɔ ase"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ne akoafoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wɔkoo ɔko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesitifo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesitifo"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ho dwirii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-16T05:19:53.584585691Z",
+  "model": "glm-5.3"
+}

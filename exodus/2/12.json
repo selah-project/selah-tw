@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔhwɛɛɛ saa na ɔhwɛɛɛ saa, na ohuu sɛ onipa biara nni hɔ, na ɔbɔɔ ⟨את⟩ Misraim no, na ɔde siee no anwea mu.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "na ɔhwɛɛɛ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "na ... saa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na ohuu sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim no"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misraim no"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "na ɔde siee no"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "anwea mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:30.439257105Z",
+  "model": "glm-5.3"
+}

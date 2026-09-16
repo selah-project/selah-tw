@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Anigyeɛ nne ne nkwagyeɛ nnɛbɔ wɔ atɛntreneefoɔ ahɔdan mu; Yawe nsa nifa yɛ ahoɔden.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "ne nkwagyeɛ"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "wɔ ... ahɔdan mu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atɛntreneefoɔ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:06.906865391Z",
+  "model": "glm-5.3"
+}

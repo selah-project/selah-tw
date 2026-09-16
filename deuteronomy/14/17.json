@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "ne ⟨את⟩ rahama no, ne ⟨את⟩ shalak no, ne kaat no nso.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ne kaat no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rahama no"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rahama no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shalak no"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalak no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:34.200992030Z",
+  "model": "glm-5.3"
+}

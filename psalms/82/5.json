@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 82,
+  "translation": "Wɔnnim, na wɔnteɛ; wɔnam sum mu; asase nnyinasoɔ nyinaa bɛyɛ wɔ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔnnim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "wɔnteɛ"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "sum mu"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "wɔnam"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "bɛyɛ wɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:11.504443899Z",
+  "model": "glm-5.3"
+}

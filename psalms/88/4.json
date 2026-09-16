@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Ɛfiri sɛ me nkwa atra bone ahodoɔ ma, na me nkwa adu Seol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "atra ... ma"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "bone ahodoɔ mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "na me nkwa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:37.146319155Z",
+  "model": "glm-5.3"
+}

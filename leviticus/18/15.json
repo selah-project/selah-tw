@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wo ba yere afira wonbue; ɔyɛ wo ba yere, n'afira wonbue.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "afira"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "wo ba yere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "won-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bue"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "won-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bue"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "n'afira"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:29.087270209Z",
+  "model": "glm-5.3"
+}

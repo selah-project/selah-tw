@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ɔkaa kyerɛɛ no sɛ: “Sɛnea Yifta ka no: Israelfa annfa ⟨את⟩ Moab asase, na ɛnyɛ ⟨את⟩ Ba-Ammon asase.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann-"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab asase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ɛnyɛ ⟨את⟩",
+      "marks": "Ba-Ammon asase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-15T22:40:37.924625097Z",
+  "model": "glm-5.3"
+}

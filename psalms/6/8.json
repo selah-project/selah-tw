@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "M'ani abere firii awerɛhoɔ mu; ɛrekɔ akɔkɔɔ esiane m'atamfoɔ nyinaa.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "abere"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "firii awerɛhoɔ mu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ɛrekɔ akɔkɔɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "esiane ... nyinaa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "m'atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:22.404019643Z",
+  "model": "glm-5.3"
+}

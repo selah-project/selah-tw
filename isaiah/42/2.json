@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Ɔrentɛe nyɛ dɛ ɔrebua da, na ɔrento ne nne so; wɔ kwansin so no, ɔrenma wɔnte ne nne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ɔrebua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔren"
+    },
+    {
+      "surface": "ישא",
+      "gloss": " nto ne nne so"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔren"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ma wɔnte"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "wɔ kwansin so"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ne nne"
+    }
+  ],
+  "timestamp": "2026-09-15T23:55:16.827628115Z",
+  "model": "glm-5.3"
+}

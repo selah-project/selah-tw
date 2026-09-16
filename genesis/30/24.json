@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "na ɔfrɛɛ ⟨את⟩ ne din Yosef, sɛ: Yawe mfa ɔba foforɔ mmi ho.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "mfa ... ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:26.187444146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Mfeɛ nsia na wobɛgu wo afuo mu, na mfeɛ nsia na wobɛtetew wo vin afuo, na woaboaboa ⟨את⟩ ne nnɔbae ano.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "wobɛgu… mu"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "wo afuo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na nsia"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "wobɛtetew"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "wo vin afuo"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "na woaboaboa… ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnɔbae"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ne nnɔbae"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:26.122444820Z",
+  "model": "glm-5.3"
+}

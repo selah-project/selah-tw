@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Me ano bɛka wo pɛpɛɛpɛyɛ ho asɛm, ne wo nkwigyeɛ awia ne anadwo nyinaa; ɛfiri sɛ me nnim ne nkontabuo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bɛka ... ho asɛm"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "wo pɛpɛɛpɛyɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "awia ne anadwo"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "wo nkwigyeɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "me nnim"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ne nkontabuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:54.642256246Z",
+  "model": "glm-5.3"
+}

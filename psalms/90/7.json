@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Ɛfiri sɛ yɛasɛe w'abufuo mu, na w'abufuo kɛseɛ mu na yɛdwan yɛn ho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "yɛasɛe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "w'abufuo mu"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "w'abufuo kɛseɛ mu"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "yɛdwan yɛn ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:29.937269220Z",
+  "model": "glm-5.3"
+}

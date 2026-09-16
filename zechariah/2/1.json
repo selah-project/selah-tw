@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Matuu ⟨את⟩ me ani hwɛɛ, na mahunu, na hwɛ — anantwi anan.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "matuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ani"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mahunu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anan"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "anantwi"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:46.796146892Z",
+  "model": "glm-5.3"
+}

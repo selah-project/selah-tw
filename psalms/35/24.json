@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Yawe me Eloohim, bu m'asɛm sɛnea wo gyidi te; na wɔmmɔ anigye wɔ me so.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "bu m'asɛm"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "sɛnea wo gyidi te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wɔmmɔ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "anigye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wɔ me so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:10.705786294Z",
+  "model": "glm-5.3"
+}

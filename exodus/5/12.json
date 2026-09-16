@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na nnipakuw no satuu kɔɔ Misraim asase nyinaa mu, kɔboaboa mmɔwa de sii tɛbɛn ananmu.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "na wɔsatuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipakuw no"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "kɔboaboa"
+    },
+    {
+      "surface": "קש",
+      "gloss": "mmɔwa"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "de ɛsi tɛbɛn ananmu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:38.254664503Z",
+  "model": "glm-5.3"
+}

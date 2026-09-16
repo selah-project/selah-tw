@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "W'akwan dodoɔ no mu na wo brɛɛ wo ho, nanso wonkaa ɔhaw nni hɔ; wo nsa nkwa no na wo hunuu, enti woanyɛ yare.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "dodoɔ no mu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "w'akwan"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "wo brɛɛ wo ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na wonkaa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wonkaa"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "ɔhaw nni hɔ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wo hunuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "כן",
+      "gloss": " enti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woanyɛ"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "yare"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:54.060401093Z",
+  "model": "glm-5.3"
+}

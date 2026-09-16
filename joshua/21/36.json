@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na firi Reuben abusuakuo no mu: ⟨את⟩ Betser ne ne nkyɛn-asase, ⟨את⟩ Yahseh ne ne nkyɛn-asase.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na firi abusuakuo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nkyɛn-asase"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne nkyɛn-asase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yahseh"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahseh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nkyɛn-asase"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne nkyɛn-asase"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:21.563080870Z",
+  "model": "glm-5.3"
+}

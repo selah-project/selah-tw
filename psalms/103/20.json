@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Momma Yawe nyɛ nkyɛn, mo ne asomafoɔ, ahoɔden akɛseɛ a moyɛ ne nsɛm, a mote ne nsɛm nne.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Momma ... nyɛ nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mo ne asomafoɔ"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "a wɔwɔ ahoɔden"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ahoɔden akɛseɛ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "a moyɛ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne nsɛm"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "a mote"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "... nne"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne nsɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:08.310032270Z",
+  "model": "glm-5.3"
+}

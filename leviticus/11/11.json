@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Wɔyɛ ɛfi ma mo; mo nnidi wɔn nam, na ⟨את⟩ wɔn awufoɔ-ho na mobɛbu sɛ ɛfi.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "na wɔyɛ ɛfi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wɔbɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "wɔn nam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "di"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn awufoɔ-ho"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "wɔn awufoɔ-ho"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "mobɛbu sɛ ɛfi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:49.289622966Z",
+  "model": "glm-5.3"
+}

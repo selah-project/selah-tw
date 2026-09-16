@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Israelfoɔ mma nyinii, wɔsɔɔ dɔm, wɔdɔɔso ara, na wɔyɛɛ dɔm ahoɔden paa paa; na wɔwiee ⟨את⟩ asase no ma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "nyinii"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "wɔsɔɔ dɔm"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "wɔdɔɔso ara"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "wɔyɛɛ dɔm ahoɔden"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "na wɔwiee ... ma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (Israelfoɔ mma no)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:54.927923936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "N'akoafoɔ de no sii kar mu kɔɔ Yerusalem, na wɔsiee no wɔ n'asiee mu ne n'agyafoɔ ano wɔ Dawid kurow mu.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "na wɔde no sii kar mu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoafoɔ"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "kɔɔ Yerusalem"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "na wɔsiee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "wɔ n'asiee mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "n'agyafoɔ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ kurow mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-16T05:22:27.919958504Z",
+  "model": "glm-5.3"
+}

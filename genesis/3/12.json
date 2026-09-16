@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na onipa no kaa se: Ɔbaa no a wode bɛware me, ɔno na ɔde firi dua no mu maa me, na medii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Ɔbaa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wode bɛware me"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "m'afa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ɔde maa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dua no mu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "medii"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:02.982345611Z",
+  "model": "glm-5.3"
+}

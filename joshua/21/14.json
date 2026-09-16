@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ne ⟨את⟩ Yattir ne ne mmea afuo, ne ⟨את⟩ Eshtemoa ne ne mmea afuo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:41.737796853Z",
+  "model": "glm-5.3"
+}

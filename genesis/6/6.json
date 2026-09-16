@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yawe dii kyiw sɛ ɔbɔɔ ⟨את⟩ onipa wɔ asase so, na ɛyɛɛ no ya wɔ ne koma mu.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "dii kyiw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "na ɛyɛɛ no ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne koma mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:26.817188837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Israel nyinaa siane kɔɔ Pelishtifoɔ no nkyɛn sɛ obiara bɛpɛ ne ⟨את⟩ n'afuomfomaa, ne ⟨את⟩ n'asoa, ne ⟨את⟩ n'akuma, ne ⟨את⟩ n'afuo adwuma.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "na ... siane kɔɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelishtifoɔ no"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "sɛ wɔbɛpɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'afuomfomaa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "n'afuomfomaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'asoa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "n'asoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'akuma"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "n'akuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'afuo adwuma"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "n'afuo adwuma"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:23.852230266Z",
+  "model": "glm-5.3"
+}

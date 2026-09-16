@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Sɛdeɛ ɔbɛkɔ so nkwa kɔ so daa, na ɛnhunu fiw.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "na ɔbɛkɔ so nkwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kɔ so daa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nhunu"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "fiw"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:34.072234802Z",
+  "model": "glm-5.3"
+}

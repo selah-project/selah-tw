@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Ma wo nsa nka ɔbarima a ɔte wo nifa so so, ɔbarima ba a woahyɛ no den maa wo ho.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nifa so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "woahyɛ no den"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:41.149813020Z",
+  "model": "glm-5.3"
+}

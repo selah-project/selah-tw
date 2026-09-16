@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yawe de ⟨את⟩ onipa akɔ akyirikyiri, na deɛ wɔagyaw hɔ no dɔɔso wɔ asase no mfimfini.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "de…akɔ akyirikyiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "deɛ wɔagyaw hɔ no"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ…mfimfini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:46.582780993Z",
+  "model": "glm-5.3"
+}

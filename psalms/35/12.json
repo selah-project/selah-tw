@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Wɔtua me ka bɔne wɔ papa anan, na werɛhoɔ ba me nkwa so.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "wɔtua me ka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wɔ ... anan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "papa"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "werɛhoɔ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "me nkwa so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:18.585539935Z",
+  "model": "glm-5.3"
+}

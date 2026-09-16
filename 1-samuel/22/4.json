@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ɔde wɔn baa Moab ɔhene anim ⟨את⟩, na wɔtenaa ne nkyɛn Dawid berɛ a na ɔwɔ abanten mu no nyinaa.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ɔde wɔn baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab ɔhene anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na wɔtenaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "berɛ … nyinaa"
+    },
+    {
+      "surface": "היות",
+      "gloss": "berɛ a na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "wɔ abanten mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:45.832336026Z",
+  "model": "glm-5.3"
+}

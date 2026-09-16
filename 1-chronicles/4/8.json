@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Kots woo ⟨את⟩ Anub ne ⟨את⟩ Hatsobeba, ne Aharhel a ɔyɛ Harum ba afunufoɔ.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Na Kots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hatsobeba"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hatsobeba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ne ... afunufoɔ"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharhel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-09-16T05:54:24.976688464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Monyɛ no so wɔ bɔ ho — hwɛ Yawe mo Eloohim nhyehyɛeɛ no yie, ne ne nkyerɛkyerɛmu nnwuma, ne ne mmara a ɔhyɛɛ mo no.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "hwɛ yie"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "monyɛ no so wɔ bɔ ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyehyɛeɛ no"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ne nkyerɛkyerɛmu nnwuma"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ɔhyɛɛ mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:46.225484347Z",
+  "model": "glm-5.3"
+}

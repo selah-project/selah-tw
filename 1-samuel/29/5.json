@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ɛnyɛ sɛ Dawid yi na wɔbua no wɔ asaw mu se: Shaul kuum ne apem, na Dawid kuum ne du apem?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "wɔbua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "wɔ asaw mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kuum"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "ne apem mu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "ne du-apem mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:57.848685967Z",
+  "model": "glm-5.3"
+}

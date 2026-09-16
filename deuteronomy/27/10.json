@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na wobɛtie Yawe wo Eloohim nne, na wobeyɛ ⟨את⟩ n'ahyɛdeɛ ne ⟨את⟩ n'atemu, de mehyɛ wo da yi.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Na wobɛtie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na wobeyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ahyɛdeɛ"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "n'ahyɛdeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'atemu"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "n'atemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "mehyɛ wo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:20.917200721Z",
+  "model": "glm-5.3"
+}

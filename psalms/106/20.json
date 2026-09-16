@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Wɔsesaa ⟨את⟩ wɔn animuonyam no, de ɛyɛɛ anantwie a ɔdi nwura no mfoni.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "wɔsesaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn animuonyam no"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "wɔn animuonyam no"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "mfoni"
+    },
+    {
+      "surface": "שור",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "di"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "nwura"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:50.102395360Z",
+  "model": "glm-5.3"
+}

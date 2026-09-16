@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Na ɔhene no bɛpɛ wo fɛ; ɛfiri sɛ ɔno ne ⟨wo⟩ Adonai — kotu no ase.",
+  "tokens": [
+    {
+      "surface": "והשתחוי",
+      "gloss": "kotu no ase"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ויתאו",
+      "gloss": "bɛpɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "wo fɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wo Adonai"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:48.012731088Z",
+  "model": "glm-5.3"
+}

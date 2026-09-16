@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Peleg tenaa ase wɔ ne wo ⟨את⟩ Reu akyi mfeɛ nkron ne ɔhaanu, na ɔwoo mma mmarima ne mma mmaa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wɔ ... akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ne wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nkron"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ne ɔhaanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mma mmaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:23.427250250Z",
+  "model": "glm-5.3"
+}

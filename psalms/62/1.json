@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Deɛ ɔhwɛ nnwomtoɔ so, wɔ Yedutun so; Dawid asɛmnnwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔhwɛ nnwomtoɔ so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asɛmnnwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:00:39.287523346Z",
+  "model": "glm-5.3"
+}

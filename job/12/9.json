@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Hwan na ɔnnim wɔ eyi nyinaa mu, sɛ Yawe nsa na ɛyɛɛ eyi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim (negation)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eyi"
+    }
+  ],
+  "timestamp": "2026-09-16T03:15:24.044291074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Nokorɛ: Eloohim bɛgye me nkwa afiri Seol nsam, ɛma ɔbɛfa me. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bɛgye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "afiri ... nsam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛma"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ɔbɛfa me"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:38.152175337Z",
+  "model": "glm-5.3"
+}

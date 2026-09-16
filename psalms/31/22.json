@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Nhyira nka Yawe, ɛfiri sɛ wayɛ n'hese ahodoɔ ama me wɔ kurow a wɔabɔ so ban mu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "nhyira nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "wayɛ ... ahodoɔ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "n'hese"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ kurow"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "a wɔabɔ so ban mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:23.109059617Z",
+  "model": "glm-5.3"
+}

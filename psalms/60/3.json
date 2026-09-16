@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Eloohim, Woyi yɛn guu, Wobubuu yɛn, wo bo afu yɛn — san bra yɛn ho!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "Woyi yɛn guu"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "Wobubuu yɛn"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wo bo afu yɛn"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "san bra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:28.674717497Z",
+  "model": "glm-5.3"
+}

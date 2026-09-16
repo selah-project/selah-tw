@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Ɔka kyerɛɛ wɔn sɛ, daabi; na mmom asase no ahonyeraw na mo aba ahwɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔka kyerɛɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "daabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na mmom"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ahonyeraw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mo aba"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ahwɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:18.818882261Z",
+  "model": "glm-5.3"
+}

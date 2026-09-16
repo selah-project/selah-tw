@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔhene Dawid tee ⟨את⟩ nsɛm yi nyinaa, na abufuo sɔɔ no paa.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na ɔhene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "abufuo sɔɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:19:13.565292495Z",
+  "model": "glm-5.3"
+}

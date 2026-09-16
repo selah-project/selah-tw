@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Yisrael mma no maa Lewi mma no ⟨את⟩ nkurow yi ne ⟨את⟩ wɔn atifi asase, sɛnea Yawe hyɛeɛ wɔ Moshe nsa so, wɔ gyamli no mu.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewi mma no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkurow yi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wɔn atifi asase"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "wɔn atifi asase"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wɔ ... nsa so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "wɔ gyamli no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:51.099771284Z",
+  "model": "glm-5.3"
+}

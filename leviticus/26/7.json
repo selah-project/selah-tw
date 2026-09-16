@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na mode mo atamfoɔ no bɛto akyi, na wɔbɛtew mo anim wɔ anantɛɛnfourɔ ase.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "bɛto akyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo atamfoɔ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mo atamfoɔ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "wɔbɛtew"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mo anim"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "anantɛɛnfourɔ ase"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:42.499849974Z",
+  "model": "glm-5.3"
+}

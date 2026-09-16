@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Sɛ mayɛ bɔne ama obi a ɔne me di asomdwoeɛ mu, na magye me ɔtamfoɔ afiri berɛ a ɔnni asɛm da mu —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "mayɛ bɔne ama"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "obi a ɔne me di asomdwoeɛ mu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "na magye afiri"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "me ɔtamfoɔ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "berɛ a ɔnni asɛm da mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:50.052995858Z",
+  "model": "glm-5.3"
+}

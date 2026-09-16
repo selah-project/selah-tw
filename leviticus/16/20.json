@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na sɛ ɔwie bɔ mpata a ɔbɔ ma ⟨את⟩ kronkronbeam no, ne ⟨את⟩ ahyia dan no, ne ⟨את⟩ afɔreɛbɔn no, na ɔbɛde ⟨את⟩ ɔprɛpan a ɔte ase no brɛ.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "na sɛ ɔwie"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "bɔ mpata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kronkronbeam no"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkronbeam no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahyia dan no"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ahyia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "afɔreɛbɔn no"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔreɛbɔn no"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "na ɔbɛde ... brɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔprɛpan a ɔte ase no"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ɔprɛpan"
+    },
+    {
+      "surface": "החי",
+      "gloss": "a ɔte ase"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:44.892698545Z",
+  "model": "glm-5.3"
+}

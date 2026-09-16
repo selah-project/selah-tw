@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yehoshua hyɛɛ ⟨את⟩ asɛm so wɔ ɔman no sofoɔ no hyɛɛ wɔn sɛ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hyɛɛ hyɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm so wɔ ɔman no sofoɔ"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "asɛm so wɔ ɔman no sofoɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:01:10.429973727Z",
+  "model": "glm-5.3"
+}

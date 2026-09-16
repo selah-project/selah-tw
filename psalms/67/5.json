@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 67,
+  "translation": "Aman no bɛyɛ agorɔ na wɔbɛto dwom, ɛfiri sɛ wobɛbu aman no atem mu pɛpɛɛpɛ, na wobɛkyerɛ aman a ɛwɔ asase so kwan. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "bɛyɛ agorɔ"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "na wɔbɛto dwom"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "wobɛbu atem"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "mu pɛpɛɛpɛ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na aman"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "wobɛkyerɛ wɔn kwan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:49.055950659Z",
+  "model": "glm-5.3"
+}

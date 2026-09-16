@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Mehunu yɛɛ wɔ nwuma nyinaa ho, na mebɛka wo nnyeyɛeɛ ho asɛm.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "mehunu yɛɛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ nyinaa ho"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "wo nwuma"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "na wɔ wo nnyeyɛeɛ ho"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mebɛka ho asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:01.131856047Z",
+  "model": "glm-5.3"
+}

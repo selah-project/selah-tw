@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Wo na wodi ɛpo no nsɛe so ahenni; bere a n'ahoɔhare foro no, wo ma ɛso yɛ komm.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "wodi ... ahenni"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "nsɛe a ɛkɔ soro"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo no"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "bere a ... foro"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "n'ahoɔhare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ma ɛso yɛ komm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:34.077880535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Dauid de ⟨את⟩ nsɛm yi hyɛɛ n'akoma mu, na ɔsuruu ahorow wɔ Akish, Gat ɔhene no anim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "de ... hyɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "n'akoma mu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ɔsuruu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ahorow"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:41.993955046Z",
+  "model": "glm-5.3"
+}

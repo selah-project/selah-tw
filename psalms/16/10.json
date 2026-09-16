@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Ɛfiri sɛ woremfiri me nkwa no de ama Seol, na worennye wo nokwafoɔ no nkwa ahwɛ abura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "worem- ... da"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mfiri ... de ama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa no"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woren- ... da"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "rennye ... nkwa ahwɛ"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "wo nokwafoɔ no"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ahwɛ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "abura"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:02.262807228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 99,
+  "translation": "Wɔmmɔ wo din no animuonyam — ɛyɛ kɛse, na ɛyɛ strabɔ, kronkron na ɔyɛ.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Wɔmmɔ ... animuonyam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din no"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛse"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "na ɛyɛ strabɔ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:25.064425189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yawe, me Eloohim, sɛ mayɛ saa, sɛ atɛnwrɔeŋ wɔ me nsa mu,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨wɔ⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "atɛnwrɔeŋ"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "me nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:27.335177473Z",
+  "model": "glm-5.3"
+}

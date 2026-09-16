@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Me kaa kyerɛɛ ahantanfoɔ sɛ: Mo nnyɛ ahantam; na bɔnefoɔ no nso: Mo nnunn mo kɔ.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Me kaa kyerɛɛ"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "ahantanfoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mo nn-"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "nnyɛ ahantam"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "na bɔnefoɔ no nso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mo nn-"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nnunn"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "kɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:58.086665690Z",
+  "model": "glm-5.3"
+}

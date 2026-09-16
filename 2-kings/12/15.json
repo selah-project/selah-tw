@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Efisɛ wɔde maa ⟨adwuma no⟩ yɛfoɔ no, na wɔde no hyɛɛ ⟨את⟩ Yawe fi no den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "adwumayɛfoɔ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "⟨adwuma no⟩"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "wɔde maa wɔn"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "na wɔhyɛɛ den"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:31:21.974251910Z",
+  "model": "glm-5.3"
+}

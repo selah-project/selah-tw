@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Yawe, hu me mmɔborɔhunu; Eloohim, sɛnea wo hesed te no, sɛnea wo mmɔborɔ dɔɔso no, tew me mfomsoɔ awayi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "hu me mmɔborɔhunu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sɛnea wo hesed te no"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sɛnea ... dɔɔso no"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "wo mmɔborɔ"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "tew ... awayi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "me mfomsoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:20.778687709Z",
+  "model": "glm-5.3"
+}

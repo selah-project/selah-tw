@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Deɛ ɛsrane na ɛwɔ nkwa nyinaa bɛyɛ mo aduane; sɛnea ahabammonoɔ a me maamo mo no, saa ara na m'ama mo ⟨את⟩ ne nyinaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "deɛ ɛsrane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wɔ nkwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahabammonoɔ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "me maamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ne nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:47.233127927Z",
+  "model": "glm-5.3"
+}

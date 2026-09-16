@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Ɛfiri sɛ hwɛ, ahemfo no bɔɔ wɔn hyia, wɔfaa hɔ so wɔ bom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ahemfo no"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "bɔɔ wɔn hyia"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wɔfaa hɔ so"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wɔ bom"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:26.656314347Z",
+  "model": "glm-5.3"
+}

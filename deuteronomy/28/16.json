@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Woadua nkɔhyɛ wɔ kuro mu, na woadua nkɔhyɛ wɔ afuom.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "woadua nkɔhyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ kuro mu"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "na woadua nkɔhyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "wɔ afuom"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:41.481962155Z",
+  "model": "glm-5.3"
+}

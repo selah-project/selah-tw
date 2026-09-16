@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 64,
+  "translation": "Na fi tete no, wɔantie, na aso ntee; aniwa anhunu Eloohim biara ka wo ho — ɔyɛ de ma obi a ɔtwɛn no.",
+  "tokens": [
+    {
+      "surface": "ומעולם",
+      "gloss": "na fi tete no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wɔantie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "aso ntee"
+    },
+    {
+      "surface": "עין",
+      "gloss": "aniwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "anhunu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "ka wo ho"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ɔyɛ de ma"
+    },
+    {
+      "surface": "למחכה",
+      "gloss": "obi a ɔtwɛn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:02:49.823419536Z",
+  "model": "glm-5.3"
+}

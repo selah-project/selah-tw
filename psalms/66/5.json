@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Momma yɛn na monhwɛ Eloohim nnyegyeeɛ; ɔyɛ nneɛma a ɛma obi suro wɔ nnipa mma so.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Momma yɛn"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na monhwɛ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "nnyegyeeɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ɛma obi suro"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "nneɛma"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:29.067675352Z",
+  "model": "glm-5.3"
+}

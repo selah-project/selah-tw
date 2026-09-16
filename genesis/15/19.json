@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "⟨את⟩ Kenifoɔ, ne ⟨את⟩ Kenizifoɔ, ne ⟨את⟩ Kadmonifoɔ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenifoɔ"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kenifoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Kenizifoɔ"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "Kenizifoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Kadmonifoɔ"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "Kadmonifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:41.980503330Z",
+  "model": "glm-5.3"
+}

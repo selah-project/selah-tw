@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɛberɛ a mehwɛ wo mmea, wo nsateaa adwuma, ɔsram ne nsoromma a woahyehyɛ no pɛpɛɛpɛ —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛberɛ a"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mehwɛ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "wo mmea"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "wo nsateaa"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ɔsram"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ne nsoromma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "woahyehyɛ no pɛpɛɛpɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:00.408062969Z",
+  "model": "glm-5.3"
+}

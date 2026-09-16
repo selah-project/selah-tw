@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Nea ɔto nsubɔne gu asasesie mu; ɛnantew nnepɔ ntam.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Nea ɔto gu"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "nsubɔne"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "asasesie mu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "nnepɔ"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "wɔnantew"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:03.138596568Z",
+  "model": "glm-5.3"
+}

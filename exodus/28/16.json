@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Ɛbɛyɛ nnwannea, mmɔho mmienu; nsa-tenten (span) na ɛbɛyɛ ne tenten, na nsa-tenten nso na ɛbɛyɛ ne tɛtrɛtɛ.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "nnwannea"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "mmɔho mmienu"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "nsa-tenten"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "na nsa-tenten"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ne tɛtrɛtɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:28.153645867Z",
+  "model": "glm-5.3"
+}

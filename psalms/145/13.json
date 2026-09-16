@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Wo ahennie ⟨yɛ⟩ ahennie a ɛkɔ so wɔ berɛ nyinaa mu, na wo nnisoɔ di nkonim wɔ ntoatoasoɔ biara mu.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Wo ahennie"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "wɔ berɛ nyinaa mu"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "na wo nnisoɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... biara mu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ntoatoasoɔ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ne ntoasoasoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:13.580242087Z",
+  "model": "glm-5.3"
+}

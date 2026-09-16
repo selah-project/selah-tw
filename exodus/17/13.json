@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na Yehoshua ma ⟨את⟩ Amalek ne ⟨את⟩ ne manfoɔ dii nkogu wɔ afena ano.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "ma ... dii nkogu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne manfoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne manfoɔ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "afena"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:21.140839809Z",
+  "model": "glm-5.3"
+}

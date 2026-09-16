@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wode ⟨את⟩ ahyɛnsodeɛ-afuo no bɔ ho, na wode ⟨את⟩ ɛkyɛn a ɛwɔ ahyɛnsodeɛ-afuo no ɛpono no hyɛ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na wode ... bɔ ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahyɛnsodeɛ-afuo no"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ahyɛnsodeɛ-afuo no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na wode ... hyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛkyɛn no"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ɛkyɛn"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ahyɛnsodeɛ-afuo no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:18.270581136Z",
+  "model": "glm-5.3"
+}

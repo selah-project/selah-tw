@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Wɔde m'adɔ asɔ me so wɔ atammerɛ mu; na me — mpaeɛbɔ.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "wɔde ... asɔ me so wɔ atammerɛ mu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "m'adɔ"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "wɔyɛ me atammerɛfoɔ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mpaeɛbɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:21.954805922Z",
+  "model": "glm-5.3"
+}

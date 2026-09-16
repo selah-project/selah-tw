@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo mmara ayɛ me nnwomtoɔ wɔ m'ahɔhoɔ aseɛ.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "nnwomtoɔ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me dea"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "wo mmara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ ... aseɛ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "m'ahɔhoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:34.597885485Z",
+  "model": "glm-5.3"
+}

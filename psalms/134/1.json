@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 134,
+  "translation": "Shir ⟨a ɛkɔ soro⟩. Hwɛ, momhyira ⟨את⟩ Yawe, Yawe asomfoɔ nyinaa, wɔn a wɔgyina Yawe fie mu wɔ anadwo mmerɛ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a ɛkɔ soro"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "momhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "asomfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "wɔn a wɔgyina"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "wɔ anadwo mmerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:41.185922518Z",
+  "model": "glm-5.3"
+}

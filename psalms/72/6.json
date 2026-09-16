@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Ɔbɛsian sɛ nsuo tɔ sima so, na sɛ mparɔ nsuo gu asase so.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Ɔbɛsian"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "sɛ nsuo tɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "גז",
+      "gloss": "sima"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sɛ mparɔ nsuo"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "gu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:03.220207347Z",
+  "model": "glm-5.3"
+}

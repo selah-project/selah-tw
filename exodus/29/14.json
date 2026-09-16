@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ ɔpare no nam, ne ⟨את⟩ ne nwoma, ne ⟨את⟩ ne ntotoe, wubehyew wɔ ogya mu wɔ asɔre no akyi; ɛyɛ bɔne afɔre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ɔpare no nam"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ɔpare no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nwoma"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ne nwoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne ntotoe"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ne ntotoe"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "wubehyew"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wɔ ogya mu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wɔ ... akyi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "asɔre no"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bɔne afɔre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:14.833146119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Eloohim nyɛ sɛ ɔsore, ne atamfoɔ nkyɛ; na wɔn a wɔkye no no ntwane ne anim.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "nyɛ sɛ ɔsore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "nkyɛ"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ne atamfoɔ"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "na ... ntwane"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "wɔn a wɔkye no no"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ne anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:41.602791974Z",
+  "model": "glm-5.3"
+}

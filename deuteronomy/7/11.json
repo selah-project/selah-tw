@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Enti bɔ ⟨את⟩ ahyɛdeɛ no ne ⟨את⟩ mmara ahodoɔ no ne ⟨את⟩ atemmu nhyehyɛeɛ no a mehyɛ wo da yi sɛ wo nyɛ no ho ban.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "bɔ ho ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahyɛdeɛ no"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ahyɛdeɛ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmara ahodoɔ no"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mmara ahodoɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atemmu nhyehyɛeɛ no"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "atemmu nhyehyɛeɛ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "hyɛ wo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da yi"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "sɛ wo nyɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:18.809449215Z",
+  "model": "glm-5.3"
+}

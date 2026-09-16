@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Me mmerɛ nyinaa wɔ wo nsa mu; gyankwa me fi m'atamfoɔ nsa mu ne wɔn a wɔdi me akyi.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "wɔ wo nsa mu"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "me mmerɛ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "gyankwa me"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fi ... nsa mu"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "ne wɔn a wɔdi me akyi"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:24.885804024Z",
+  "model": "glm-5.3"
+}

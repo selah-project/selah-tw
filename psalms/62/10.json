@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Adeyɛ — Adam mma yɛ nkwaseasɛm, onipa mma yɛ atosɛm; wɔ mmoa mu na wɔforo; wɔ nyinaa yɛ nkwaseasɛm.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "adeyɛ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nkwaseasɛm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "atosɛm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "wɔ mmoa mu"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "na wɔforo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "sen nkwaseasɛm"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:29.902263832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Na ɔhyɛɛ no den sɛ mmara ma Yakob, sɛ apam a ɛnntwa ma Yisrael;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ɔhyɛɛ no den"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ma Yakob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sɛ mmara"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ma Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛnntwa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:39.066341844Z",
+  "model": "glm-5.3"
+}

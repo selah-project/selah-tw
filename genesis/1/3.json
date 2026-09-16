@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim kaa seɛ, “Nhyerɛn nyɛ,” na nhyerɛn baeɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa seɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nhyerɛn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "baeɛ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nhyerɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:36.208672716Z",
+  "model": "glm-5.3"
+}

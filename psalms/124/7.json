@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 124,
+  "translation": "Yɛn nkwa atware mu sɛ anomaa fri okwanfoɔ tvae mu; tvae no abɔ mu, na yɛn nso yɛatware mu.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Yɛn nkwa"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "sɛ anomaa"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "atware mu"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "firi tvae"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "okwanfoɔ"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "tvae no"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "abɔ mu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na yɛn nso"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "yɛatware mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:32.343901653Z",
+  "model": "glm-5.3"
+}

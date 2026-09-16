@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Yehonatan maa ⟨את⟩ n'afadeɛ no maa ɔkumaa no a ɔwɔ ne nkyɛn, na ɔkaa no se: kɔ, fa kɔ kurow no mu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'afadeɛ no"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "n'afadeɛ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ɔkumaa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɔwɔ ne nkyɛn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "fa kɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:29.613675250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Na mɛma mo mmɔborɔhunu, na mɛhu mo ⟨את⟩ mmɔborɔ, na masan de mo ⟨את⟩ aba mo asase so.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Mɛma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "mmɔborɔhunu"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "na mɛhu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na masan de"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "mo asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:26:05.335192560Z",
+  "model": "glm-5.3"
+}

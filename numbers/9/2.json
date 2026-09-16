@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "sɛ Yisrael mma nyɛ ⟨את⟩ Pesach wɔ n'ahyɛda berɛ mu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "wɔ n'ahyɛda berɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:30:18.143527089Z",
+  "model": "glm-5.3"
+}

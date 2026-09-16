@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na onipa biara ne ⟨את⟩ n'ade kronkron — ɛyɛ ne dea; na deɛ onipa biara de ma ɔsɔfoɔ no, ɛno na ɛbɛyɛ ne dea.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na onipa biara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ade kronkron"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "n'ade kronkron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "de ma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:26:31.988594257Z",
+  "model": "glm-5.3"
+}

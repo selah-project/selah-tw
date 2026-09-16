@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Yawe kasa kɔɔ Moshe so, se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kɔɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ ... so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:01.409753073Z",
+  "model": "glm-5.3"
+}

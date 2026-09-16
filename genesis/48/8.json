@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Na Yisrael hunuu ⟨את⟩ Yosef mma no, na ɔbisaa seɛ, “Sɛn na wɔyɛ?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔbisaa seɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sɛn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "na wɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:39.725117453Z",
+  "model": "glm-5.3"
+}

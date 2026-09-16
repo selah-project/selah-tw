@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Tie eyi, aman nyinaa; yi mo asote, wɔn a wɔte wiase yi mu nyinaa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "yi mo asote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "wiase yi mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:53.654862597Z",
+  "model": "glm-5.3"
+}

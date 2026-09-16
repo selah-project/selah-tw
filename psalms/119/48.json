@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Na mɛma m'nsa mmoroso kɔ wo nhyɛdeɛ so, a me dɔ no, na mɛsusuw wo mmara ho nsɛm.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "na mɛma ... mmoroso"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "m'nsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ ... so"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "wo nhyɛdeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "me dɔ no"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "na mɛsusuw ... ho nsɛm"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "wo mmara"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:16.813338261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Wo bufu no ada me so, na wode wo mmea nyinaa ayɛ me yaaw. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Wo bufu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "wo mmea"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "wayɛ me yaaw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:44.002148671Z",
+  "model": "glm-5.3"
+}

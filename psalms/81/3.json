@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Monyi zimra, na mombɔ dedeɛ, kinor a ɛyɛ dɛ, ne nevel.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "monyi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zimra"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "na mombɔ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "dedeɛ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "a ɛyɛ dɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:20.068310938Z",
+  "model": "glm-5.3"
+}

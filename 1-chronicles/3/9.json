@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Saa nyinaa yɛ Dawid mma, a wɔmmaa pilegesh mma ne Tamar wɔn nuabea nka ho.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "a ... nka ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "pilegesh"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ne Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "wɔn nuabea"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:28.140437128Z",
+  "model": "glm-5.3"
+}

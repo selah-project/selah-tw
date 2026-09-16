@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Dawid faa ⟨את⟩ sika kɔkɔɔ sumankyɛn a na ɛwɔ Hadadezer nkoa so no, na ɔde baa Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ sumankyɛn"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "sumankyɛn"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "na ɛwɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "na ɔde baa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:41.304646800Z",
+  "model": "glm-5.3"
+}

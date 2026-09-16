@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Mizmor de ma Asaf. Ampa sɛ, Eloohim yɛ papa ma Yisrael, ma wɔn a wɔn akoma te.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "de ma Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Ampa sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ma Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "ma wɔn a wɔn yɛ te"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:20.604608046Z",
+  "model": "glm-5.3"
+}

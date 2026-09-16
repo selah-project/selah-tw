@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Yawe yɛɛ asɛm ⟨את⟩ yi akyire berɛ, na mmoa a wɔwɔ Misraim nyinaa wuiɛ; nanso wɔ Yisrael mma mmoa mu, baako mpo nkwuiɛ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "akyire berɛ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na … wuiɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim deɛ"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "nanso wɔ … mmoa mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nkwuiɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:50.284997191Z",
+  "model": "glm-5.3"
+}

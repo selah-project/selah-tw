@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Bere a wɔbɛtetew, na bere a wɔbɛtɔ; bere a wɔbɛsusu, na bere a wɔbɛkasa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "a wɔbɛtetew"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "a wɔbɛtɔ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "a wɔbɛsusu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a wɔbɛkasa"
+    }
+  ],
+  "timestamp": "2026-09-16T03:53:34.533799808Z",
+  "model": "glm-5.3"
+}

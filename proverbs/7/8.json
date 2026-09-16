@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "ɔfa guasoɔ no mu, bɛn ne abɔnten ano; na ɔde nananam kwan kɔ ɔbaa no fie.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ɔfa"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "guasoɔ no mu"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ne abɔnten ano"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ɔbaa no fie"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "ɔde nananam ... kɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:45:31.555907511Z",
+  "model": "glm-5.3"
+}

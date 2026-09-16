@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "⟨את⟩ pono no, ⟨את⟩ ne nnwinnadeɛ nyinaa, ne ⟨את⟩ aduane a ɛda anim no.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pono no"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pono no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnwinnadeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nnwinnadeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "aduane a ɛda anim no"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "a ɛda anim no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:39.076554823Z",
+  "model": "glm-5.3"
+}

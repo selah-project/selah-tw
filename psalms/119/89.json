@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Yawe, w'asɛm gyina ɔsoro mu kɔ so daa.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ so daa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "w'asɛm"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ɔsoro mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:02.288306062Z",
+  "model": "glm-5.3"
+}

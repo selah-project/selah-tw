@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na wodi anigyeɛ wɔ Yawe mu, na ɔde w'akoma frɛeɛ bɛma wo.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "wodi anigyeɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔde ... bɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "frɛeɛ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "w'akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:02.787906156Z",
+  "model": "glm-5.3"
+}

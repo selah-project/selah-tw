@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɛbaa sɛ wɔ Ahashverosh nnimu — ɔno ne Ahashverosh a ɔdii ahengua so firi Hodu kɔsi Kush, wɔ ɛman ahodoɔ ɔha ne aduonu-nson so —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "wɔ ... nnimu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ne"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a ɔdii ahengua so"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "firi Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "aduonu-nson"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "(ne aduonu)"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ne ɔha"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ɛman ahodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:44.342783113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na mayɛ ne ma ⟨את⟩ no ahoɔden — Eloohim mmɔneɛ — nimdeɛ mu, na adwene mu, na nteaseɛ mu, na adwuma ahodoɔ nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Na mayɛ ne ma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Betsalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmɔneɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nimdeɛ mu"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "na adwene mu"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "na nteaseɛ mu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "adwuma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:52.310764025Z",
+  "model": "glm-5.3"
+}

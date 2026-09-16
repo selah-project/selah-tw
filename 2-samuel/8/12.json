@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Firi Aram, firi Moab, firi Amon mma, firi Filistifoɔ, firi Amalek, ne Hadaadezer a ɔyɛ Rehob ba, Ɔhene a ɔdi Zoba so no bommɔ.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "Firi Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "firi Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "firi ... mma"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "firi Filistifoɔ"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "firi Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "ne ... bommɔ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadaadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ɔhene"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zoba"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:25.930437197Z",
+  "model": "glm-5.3"
+}

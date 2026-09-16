@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Shelomoh kyerɛkyerɛɛ no nsɛm a ɔbisabisaa no nyinaa; asɛm biara nna hɔ a wɔade asie mfri ɔhene no hɔ a ɔankyerɛ no.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Na ... kyerɛkyerɛɛ no"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "nsɛm a ɔbisabisaa no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nna hɔ"
+    },
+    {
+      "surface": "היה",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm biara"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "a wɔade asie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mfri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɔan"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:52.858449954Z",
+  "model": "glm-5.3"
+}

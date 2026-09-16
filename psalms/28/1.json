@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Dawid dea. Yawe, Wo ho mefrɛ; me ɔboɔ, mmɔ me tirii mma Wo nnsɔ me ho ani, sɛ Wo kɔ so yɛ koma firi me ho a, na mɛyɛ sɛ wɔn a wɔreto tokuro mu no.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mefrɛ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "me ɔboɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mmɔ me tirii"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me ho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "yɛ koma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me ho"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "na mɛyɛ sɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "wɔn a wɔreto"
+    },
+    {
+      "surface": "בור",
+      "gloss": "tokuro mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:35.145499610Z",
+  "model": "glm-5.3"
+}

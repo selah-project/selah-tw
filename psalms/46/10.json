@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Ɔma akodɔ gyae kɔsi asase no awieɛ; ɔbɔ opoɔ no mu, ɔtetew akofena no, na ɔde ogya hyɛ akokɔduru mu.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "ɔma ... gyae"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "akodɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "awieɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "opoɔ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ɔbɔ ... mu"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ɔtetew"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "akokɔduru"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ɔde ogya hyɛ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wɔ ogya mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:35.584873779Z",
+  "model": "glm-5.3"
+}

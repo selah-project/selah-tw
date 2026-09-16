@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na mɛtwa nkurow a ɛwɔ wo asase so, na mɛbubu wo mmoatwadan nyinaa.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "mɛtwa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "wo asase"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "mɛbubu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "wo mmoatwadan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:18:18.908546424Z",
+  "model": "glm-5.3"
+}

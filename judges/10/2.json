@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔdii Yisraɛl ⟨את⟩ amanterɛ mfeɛ aduonu ne mmiɛnsa, na ɔwuiɛ, wɔsiee no Samir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ɔdii amanterɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ne mmiɛnsa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na ɔwuiɛ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wɔsiee no"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Samir"
+    }
+  ],
+  "timestamp": "2026-09-15T22:40:52.284589321Z",
+  "model": "glm-5.3"
+}

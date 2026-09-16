@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Abraham kaa sɛ: hwɛ wo ho yie — sɛ woansan mfa ⟨את⟩ me ba nkɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ no"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hwɛ wo ho yie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛ ... n"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "nsan mfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:24:24.079726382Z",
+  "model": "glm-5.3"
+}

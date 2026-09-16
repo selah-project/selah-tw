@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Masa a ɛfa Babel ho, deɛ Yeshaiahu, Amots ba, huu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a (deɛ)"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-15T23:45:44.865921532Z",
+  "model": "glm-5.3"
+}

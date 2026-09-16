@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Ɔtanfoɔ ntia no; na obɔnefoɔ ba nnsɛe no.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ntia no"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Ɔtanfoɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na ... ba"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "obɔnefoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "nnsɛe no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:01.839909287Z",
+  "model": "glm-5.3"
+}

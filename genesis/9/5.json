@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na nokorɛ, mɛpɛ ⟨את⟩ mo mogya a ɛyɛ mo nkwa fi asoɔ; ɔbiara a ɔyɛ nnwanwa ne nkyene, mɛpɛ no fi ne nsa; na onipa nsa mu, ɔbarima nkyenea nsa mu, mɛpɛ ⟨את⟩ onipa nkwa.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "na nokorɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo mogya"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "mo mogya"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "a ɛyɛ mo nkwa"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "mɛpɛ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fi asoɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɔbiara"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nnwanwa ne nkyene"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "mɛpɛ no"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na fi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nkyenea"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "mɛpɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa nkwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:37.257032170Z",
+  "model": "glm-5.3"
+}

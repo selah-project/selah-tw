@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔkaa sɛ: Hwere no fam! Na ɔhweree no fam, na ɔbɛyɛɛ ɔwɔ; na Mosheh dwanee firii ne anim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "hwere no"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fam"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "na ɔhweree no"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɔbɛyɛɛ"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "na ɔdwanee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "firii ne anim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:50.606214904Z",
+  "model": "glm-5.3"
+}

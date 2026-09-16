@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Paroh nso frɛɛ nyansafoɔ ne akɔmfoɔ; na Misraim akɔmfoɔ no de wɔn nneyɛe kronkron yɛɛ saa ara.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "nyansafoɔ"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "akɔmfoɔ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "akɔmfoɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "wɔn nneyɛe kronkron"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:13.443483977Z",
+  "model": "glm-5.3"
+}

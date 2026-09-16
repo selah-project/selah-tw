@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Yawe Eloohim maa ɔda mu draeɛ too Adam so, na ɔdaa; na ɔfaa abɔnwoma baako wɔ ne mu, na ɔkyekyeree nam wɔ ne ananmu.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "maa...too (draeɛ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ɔda mu draeɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "na ɔdaa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na ɔfaa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "abɔnwoma wɔ ne mu"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "na ɔkyekyeree"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "wɔ ne ananmu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:20.414718980Z",
+  "model": "glm-5.3"
+}

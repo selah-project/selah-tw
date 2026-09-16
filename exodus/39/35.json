@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "⟨את⟩ adaka a adansedie no wɔ mu, ne ⟨את⟩ ne nsɔso dua, ne ⟨את⟩ afɔde akata no.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka a adansedie no wɔ mu"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a adansedie no wɔ mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nsɔso dua"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ne nsɔso dua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "afɔde akata no"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "afɔde akata no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:39.076410651Z",
+  "model": "glm-5.3"
+}

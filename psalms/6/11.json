@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Wɔn nyinaa a wɔdi me so animiafyɛ bɛ ani kyere na wɔbɛdwodwo yie; wɔbɛsan aba, wɔbɛ ani kyere ntɛmpɔ.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bɛ ani kyere"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "na wɔbɛdwodwo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "a wɔdi me so animiafyɛ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wɔbɛsan aba"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wɔbɛ ani kyere"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ntɛmpɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:07.289691556Z",
+  "model": "glm-5.3"
+}

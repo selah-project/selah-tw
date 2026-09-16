@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Nhyira nka Eloohim, a ɔantwa me mpaeboɔ ampa, na ɔampa ⟨את⟩ ne hesed (ɔdɔ a ɛnni nnyinasoɔ) ⟨את⟩ firi me nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira nka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an-"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "antwa…ampa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpaeboɔ"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "na ⟨את⟩ ne hesed (ɔdɔ a ɛnni nnyinasoɔ)"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ firi me nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:01:50.972848612Z",
+  "model": "glm-5.3"
+}

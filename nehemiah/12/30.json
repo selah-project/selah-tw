@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Asɔfoɔ no ne Lewifoɔ no ho tetee wɔn, na wɔtotoo ⟨את⟩ nnipadɔm no, ne ⟨את⟩ ɔpono ahodoɔ no, ne ⟨את⟩ ɔfasuo no ho.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ho tetee wɔn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Asɔfoɔ no"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ne Lewifoɔ no"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "na wɔtotoo ... ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipadɔm no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ɔpono ahodoɔ no"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ɔpono ahodoɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ɔfasuo no"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ɔfasuo no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:32:46.560990116Z",
+  "model": "glm-5.3"
+}

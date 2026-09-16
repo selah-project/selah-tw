@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na Dawid hyiraa ⟨את⟩ Yawe wɔ nnipa a wɔaboabom ano nyinaa anim, na Dawid kaa sɛ: Nhyira wo, Yawe, Eloohim a ɔyɛ Israelfoɔ yɛn agya, fii tete bere so kɔsi daa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "hyiraa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nipa a wɔaboabom ano"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira wo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "yɛn agya"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "fii tete bere so"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:51:16.255079983Z",
+  "model": "glm-5.3"
+}

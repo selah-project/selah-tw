@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Na Gad mma ne: Tsifyon, ne Hagi, ne Shuni, ne Etson, ne Eri, ne Arodi, ne Areli.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ... mma"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Tsifyon"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "ne Hagi"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "ne Shuni"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "ne Etson"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ne Eri"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "ne Arodi"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "ne Areli"
+    }
+  ],
+  "timestamp": "2026-09-15T20:39:41.205510392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 67,
+  "translation": "Asase no ama ne nnɔbae; Eloohim, yɛn Eloohim, adom yɛn.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ne nnɔbae"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "adom yɛn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:49.056366458Z",
+  "model": "glm-5.3"
+}

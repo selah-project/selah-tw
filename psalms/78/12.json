@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Wɔyɛɛ nwonwa ade wɔ wɔn awofoɔ anim wɔ Misraim asase so, wɔ Soan afuom.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "wɔn awofoɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "nwonwa ade"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "afuom"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Soan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:59.205049224Z",
+  "model": "glm-5.3"
+}

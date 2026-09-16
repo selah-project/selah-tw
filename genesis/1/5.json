@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim frɛɛ hann no Din “Da”, na ɔfrɛɛ sum no Din “Anadwo”; na anwummerɛ baa, na awia baa — da baako.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na … frɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "hann no"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Da"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "na sum no"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ɔfrɛɛ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Anadwo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na … baa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na … baa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "awia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:57.292827287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Adonai, deɛ me pɛ nyinaa gyina wo anim; na me hɔmfɛmfiɛ ammfiri wo nkyɛn nsera.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "gyina wo anim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "deɛ me pɛ"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "na me hɔmfɛmfiɛ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mfiri wo nkyɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "nsera"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:10.746712938Z",
+  "model": "glm-5.3"
+}

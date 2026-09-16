@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Asase no ahemfo gyina mu, na atitire hyia wɔn ho, tia Yawe ne Mashíach no,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "gyina mu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "na atitire"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "hyia wɔn ho"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "abom"
+    },
+    {
+      "surface": "על",
+      "gloss": "tia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne tia"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashíach no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:35:10.584061945Z",
+  "model": "glm-5.3"
+}

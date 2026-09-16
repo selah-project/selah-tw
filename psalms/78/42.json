@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Wɔannkae ⟨את⟩ ne nsa, anaa da a ɔgyee wɔn firi ɔtamfoɔ nsam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wɔann"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aa"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ɔgyee wɔn"
+    },
+    {
+      "surface": "מני",
+      "gloss": "firi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɔtamfoɔ nsam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:50.107092047Z",
+  "model": "glm-5.3"
+}

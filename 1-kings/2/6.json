@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Yɛ ⁠sɛnea wo nyansa teɛ, na ɛmma ne tiri fitaa ɛnkɔ Seol asomdwoeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "sɛnea wo nyansa teɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛmma ... ɛn-"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ne tiri fitaa"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "asomdwoeɛ mu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Seol"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:20.036873175Z",
+  "model": "glm-5.3"
+}

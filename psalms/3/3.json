@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Dodoɔ ka sɛ, \"Nkwa nni hɔ ma no wɔ Eloohim nkwa mu.\" Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Dodoɔ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "afa me nkwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "wɔ Eloohim nkwa mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:46.487169881Z",
+  "model": "glm-5.3"
+}

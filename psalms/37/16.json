@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Kakra a atɛntreneeni wɔ no yɛ papa kyɛn nnɔbaeɛ a bɔnefoɔ pii wɔ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "atɛntreneeni"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "nnɔbaeɛ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:57.145556264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "ne ⟨את⟩ Arwadini no, ne ⟨את⟩ Zemarini no, ne ⟨את⟩ Hamatini no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Arwadini no"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadini no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Zemarini no"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Zemarini no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hamatini no"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamatini no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:09.217116695Z",
+  "model": "glm-5.3"
+}

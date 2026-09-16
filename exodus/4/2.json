@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Yawe kaa no ho asɛm sɛ: Deɛ yi a ɛwɔ wo nsa mu no yɛ dɛn? Na ɔkaa sɛ: Pɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no ho asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "deɛ yi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "wo nsa mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:50.606069460Z",
+  "model": "glm-5.3"
+}

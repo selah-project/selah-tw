@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Adonai, bue me anomua; na m'ano bɛka wo mmoa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "me anomua"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bue"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "na m'ano"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "wo mmoa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:24.163634339Z",
+  "model": "glm-5.3"
+}

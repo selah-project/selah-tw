@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Ɔboaboa ɔpo no nsuo ano sɛ ⟨ntamfosuo⟩; ɔde nsuo mu dodoɔ no sie akoraeɛ mu.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Ɔboaboa ... ano"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "sɛ ntamfosuo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɔpo no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔde ... sie"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "akoraeɛ mu"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "nsuo mu dodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:11.569688999Z",
+  "model": "glm-5.3"
+}

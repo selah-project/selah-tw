@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wɔde maa wɔn a wɔwɔ Khorma, ne wɔn a wɔwɔ Kor-Ashan, ne wɔn a wɔwɔ Atakh.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "na wɔn a wɔwɔ"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Khorma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ne wɔn a wɔwɔ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Kor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ne wɔn a wɔwɔ"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakh"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:26.260065135Z",
+  "model": "glm-5.3"
+}

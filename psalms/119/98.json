@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo ahyɛdeɛ ma me nyansa sen m'atamfoɔ, ɛfiri sɛ ⟨ɛyɛ⟩ me dea daa.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "sen m'atamfoɔ"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "ma me nyansa"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "wo ahyɛdeɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me dea"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:22.852059763Z",
+  "model": "glm-5.3"
+}

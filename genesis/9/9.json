@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "“Na me de, hwɛ, megyina ⟨את⟩ me apam no mu ⟨את⟩ mo nkyɛn, ne ⟨את⟩ mo nkyirimma a wɔbɛdi mo akyi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me de"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hwɛ, me ni"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "megyina ... mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo nkyɛn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "mo nkyirimma",
+      "marks": "זרעכם"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "a wɔbɛdi mo akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:41.068875852Z",
+  "model": "glm-5.3"
+}

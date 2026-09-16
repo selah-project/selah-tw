@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Wɔn ani rentɛ wɔ bɔne berɛ mu, na ɔkɔm nna mu no wɔbɛsɔ ano.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "rentɛ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wɔn ani ntɛe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wɔ ... berɛ mu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "na wɔ ... nna mu"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ɔkɔm"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "wɔbɛsɔ ano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:52.464436702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "ɛfiri sɛ wɔ Ne mu na yɛn akoma agye die, ɛfiri sɛ wɔ Ne din kronkron so na yɛde yɛn ho ahyɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wɔ Ne mu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "agye die"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "yɛn akoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ ... din so"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Ne kronkron"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "yɛde yɛn ho ahyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:23.306494025Z",
+  "model": "glm-5.3"
+}

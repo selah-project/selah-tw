@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Amasa kɔɔ sɛ ɔfrɛ ⟨את⟩ Yuda, na ɔtwaa mu kyɛɛ berɛ a wɔahyɛ no.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "sɛ ɔfrɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "na ɔtwaa mu kyɛɛ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kyɛɛ"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "berɛ a wɔahyɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "wɔhyɛɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:10.204032659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Ana ne hesed asa da ⟨ko⟩ nkyirimma nyinaa? Ana ne asɛm abu ama nkyirimma ne nkyirimma?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "asa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "da ⟨ko⟩ nkyirimma nyinaa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ne asɛm"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ama nkyirimma"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ne nkyirimma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:38.518197349Z",
+  "model": "glm-5.3"
+}

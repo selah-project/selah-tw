@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na metrɛ so Yerusalem ⟨את⟩ Shomeron tewmɔ no, ne ⟨את⟩ nsodoɔ a ɛwɔ Ahabi fie; na mema Yerusalem ayera, sɛdeɛ obi pam ⟨את⟩ apotoa — ɔpam no, na ɔdan no ne anim.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "na metrɛ so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron tewmɔ no"
+    },
+    {
+      "surface": "קו",
+      "gloss": "tewmɔ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nsodoɔ a ɛwɔ Ahabi fie"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "nsodoɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "na mema ayera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "ɔpam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apotoa"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "apotoa"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ɔpam no"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "na ɔdan"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ne anim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:36:40.941243104Z",
+  "model": "glm-5.3"
+}

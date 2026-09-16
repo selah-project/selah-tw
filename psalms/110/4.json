@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 110,
+  "translation": "Yawe abɔ abisa na ɔrenkyerɛ n'adwene: “Wowɔ ɔsɔfoɔ daa, ɛnam Malki-Tsedek nsem (kwan) so.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "abɔ abisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔren"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "kyerɛ n'adwene"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛnam ... so"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nsem (kwan)"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:45.636838277Z",
+  "model": "glm-5.3"
+}

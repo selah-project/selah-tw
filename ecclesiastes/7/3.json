@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Awɛrehɔ kyɛn sereɛ, ɛfiri sɛ wɔ anim tiawa mu no akoma yɛ papa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kyɛn"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "awɛrehɔ"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "sereɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "tiawa mu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:41.236155554Z",
+  "model": "glm-5.3"
+}

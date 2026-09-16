@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Wɔn a wɔrehwehwɛ me kra no amim na wɔn anim mfura; wɔn a wɔde bɔne bɔ wɔn dwuma wɔ me so no, wɔmmɔ wɔn akyi na wɔnho nte.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "amim"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "wɔn anim mfura"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wɔn a wɔrehwehwɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "wɔmmɔ wɔn akyi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "wɔnho nte"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "wɔn a wɔde ... bɔ wɔn dwuma"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bɔne wɔ me so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:26.917884182Z",
+  "model": "glm-5.3"
+}

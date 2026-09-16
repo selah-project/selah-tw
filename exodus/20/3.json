@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ɛnsɛ sɛ wunya anyame afoforɔ wɔ me anim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ɛnsɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sɛ ... nya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "anyame afoforɔ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "afoforɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:38.988014136Z",
+  "model": "glm-5.3"
+}

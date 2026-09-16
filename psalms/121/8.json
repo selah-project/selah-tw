@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Yawe bɛbɔ wo ɛtwa ne wo bra mu, firi seesei de kɔsi daa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bɛbɔ"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "wo ɛtwa"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "wo bra"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "firi seesei"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:38.140771158Z",
+  "model": "glm-5.3"
+}

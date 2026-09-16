@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ɛnka wɔ wo yɔnko ho sɛ: “Kɔ na san bra; ɔkyena mɛma wo,” berɛ a deɛ ɛwɔ wo nkyɛn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ɛn-"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "wɔ wo yɔnko ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "na san bra"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ɔkyena"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mɛma wo"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "berɛ a deɛ ɛwɔ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo nkyɛn",
+      "marks": "wo nkyɛn (אֵת — 'wo nkyɛn', ɛnyɛ direct-object ahyɛnsodeɛ no)"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:35.171060796Z",
+  "model": "glm-5.3"
+}

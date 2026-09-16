@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na ɔyɛɛ deɛ ɛteɛ wɔ Yawe ani so, sɛnea Dawid ne papa no yɛeɛ nyinaa pɛpɛɛpɛ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na ɔyɛɛ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "deɛ ɛteɛ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ... ani so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:36:10.526504099Z",
+  "model": "glm-5.3"
+}

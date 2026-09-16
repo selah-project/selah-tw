@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na Moshe kɔɔ so kɔɔ ⟨ה⟩bepɔ no so, na omninom no bɛkataa ⟨את⟩ bepɔ no so.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kɔɔ so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "bɛkataa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "omninom no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ no"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:38.525554489Z",
+  "model": "glm-5.3"
+}

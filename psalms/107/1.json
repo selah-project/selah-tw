@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Da Yawe ayɛ, ɛfiri sɛ ⟨ɔ⟩ yɛ papa, ɛfiri sɛ ne hesed gyina afebuiɔ.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Da ... ayɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "afebuiɔ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:11.690164729Z",
+  "model": "glm-5.3"
+}

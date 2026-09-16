@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na megyaee mo fii Misraim nsa mu, ne mo nnipyiniɛ biara nsa mu, na metutuu ⟨את⟩wɔn fii mo anim, na mekyekyɛɛ mo ma ⟨את⟩ wɔn asase.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "na megyaee mo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩mo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fii ... nsa mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ne ... nsa mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "mo nnipyiniɛ"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "na metutuu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩wɔn",
+      "marks": "nnipyiniɛ no"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "fii mo anim"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na mekyekyɛɛ mo ma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asase"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    }
+  ],
+  "timestamp": "2026-09-15T22:37:48.052507224Z",
+  "model": "glm-5.3"
+}

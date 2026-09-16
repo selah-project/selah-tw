@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ɔhene no wuiɛ, na wɔde no baa Shomeron, na wɔsiee ⟨את⟩ ɔhene no wɔ Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wuiɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wɔsiee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "wɔ Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-15T23:24:19.072157626Z",
+  "model": "glm-5.3"
+}

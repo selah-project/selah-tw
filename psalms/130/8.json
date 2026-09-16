@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 130,
+  "translation": "Na ɔno ne ɔbɛtua ⟨את⟩ Israel afiri ne mfomsoɔ nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Na ɔno"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ne ɔbɛtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "afiri ... nyinaa mu"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ne mfomsoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:08.171821612Z",
+  "model": "glm-5.3"
+}

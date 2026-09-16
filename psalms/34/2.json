@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Mɛkyerɛ ⟨את⟩ Yaye anuonyam wɔ mmere nyinaa mu; n'ayɛyie bɛda me nom daa.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Mɛkyerɛ ... anuonyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "mmere"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "n'ayɛyie"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "bɛda me nom"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:26.498246260Z",
+  "model": "glm-5.3"
+}

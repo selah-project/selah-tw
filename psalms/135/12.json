@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Ɛmaa wɔn asase sɛ agyapa, agyapa maa Israel, ne man.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Ɛmaa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sɛ agyapa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "agyapa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "maa Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne man"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:45.770918208Z",
+  "model": "glm-5.3"
+}

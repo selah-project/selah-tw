@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 150,
+  "translation": "Momɔ no animuonyam wɔ sɛdeɛ a ɛteɛ mu; momɔ no animuonyam wɔ sɛdeɛ a nne dɔre mu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "momɔ no animuonyam"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "wɔ sɛdeɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a ɛteɛ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "momɔ no animuonyam"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "wɔ sɛdeɛ"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "a nne dɔre"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:58.437211553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Sɛ yɛka wo hesed ⟨ahummɔbɔ⟩ adi anɔpa, ne wo nokwaredie anadwo nyinaa.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "sɛ yɛka ... adi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed ⟨ahummɔbɔ⟩"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ne wo nokwaredie"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "anadwo nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:17.870595575Z",
+  "model": "glm-5.3"
+}

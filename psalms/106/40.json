@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Na Yawe abufuo hyɛeɛ tiaa ne nkurɔfoɔ no, na ɔtanuu ⟨את⟩ ne n'agyapadeɛ no.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "abufuo hyɛeɛ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ne nkurɔfoɔ no"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ɔtanuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne n'agyapadeɛ no"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ne n'agyapadeɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:58.925067907Z",
+  "model": "glm-5.3"
+}

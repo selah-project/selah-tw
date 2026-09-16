@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Ɛma ɔmo ne ho wɔ n'ani mu, de hwehwɛ ne bɔne de bɛkye no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛma"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "ɔmo ne ho"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wɔ n'ani mu"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "de hwehwɛ"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "de bɛkye no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:12.439921342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wɔawie nna akyi no, Kain de asaase no aba mu deɛ bɛyɛɛ afɔdeɛ maa Yawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbɛyɛɛ sɛ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "wɔawie ... akyi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "de ... bɛyɛɛ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "de ... mu deɛ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asaase no aba"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "afɔdeɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:11.149374346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Yawe kaa kyerɛɛ Mose sɛ: “Kɔ amanfoɔ no nkyɛn, na fa wɔ ho sie yie nnɛ ne ɔkyena, na wɔnhohoro wɔn ntadeɛ.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "fa wɔ ho sie yie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ne ɔkyena"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "wɔnhohoro"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "wɔn ntadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:24.304085137Z",
+  "model": "glm-5.3"
+}

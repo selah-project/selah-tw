@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔyɛɛ ⟨את⟩ Sukkot afahyɛ no sɛnea ɛda hɔ, na wɔto afɔde a wɔhye da biara wɔ nkontabuo mu, sɛnea ɔhyɛde no teɛ, asɛm a ɛfa da biara ne da no ho.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot afahyɛ no"
+    },
+    {
+      "surface": "חג",
+      "gloss": "afahyɛ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sɛnea ɛda hɔ"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ne afɔde a wɔhye"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "biara"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "wɔ nkontabuo mu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sɛnea ɔhyɛde no teɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da biara"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ne da no ho"
+    }
+  ],
+  "timestamp": "2026-09-16T04:18:35.212454406Z",
+  "model": "glm-5.3"
+}

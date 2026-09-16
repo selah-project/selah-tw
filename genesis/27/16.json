@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na ɔde ⟨את⟩ mmɔfra abirekyie no awotwom hyɛɛ ne nsa so, ne ne tɛkyerɛma a ɛtrɛ no so.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ɔde ⟨את⟩",
+      "marks": "awotwom"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "awotwom"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "mmɔfra abirekyie"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "abirekyie no"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "a ɛtrɛ"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ne tɛkyerɛma"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:03.747927438Z",
+  "model": "glm-5.3"
+}

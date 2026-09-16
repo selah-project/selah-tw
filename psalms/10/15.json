@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Bubu ɔbɔnefoɔ no kotokuo, ne obɔnefoɔ no deɛ; Hwehwɛ ne bɔne mu kɔsi sɛ woanhunu hwee.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Bubu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "kotokuo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔbɔnefoɔ no"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ne obɔnefoɔ no"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "Hwehwɛ"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hwee"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "woanhunu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:41.521706184Z",
+  "model": "glm-5.3"
+}

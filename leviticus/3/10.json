@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ne ⟨את⟩ ayamfoa mmienu, ne ⟨את⟩ nsam a ɛda so, a ɛda nkotodwe so, ne ⟨את⟩ ntoasoɔ a ɛda akuma so, wɔ ayamfoa so na ɔbɛtwasu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayamfoa mmienu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ayamfoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nsam"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "nkotodwe"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "⟨את⟩",
+      "marks": "ntoasoɔ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ntoasoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "akuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ayamfoa"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ɔbɛtwasu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:14.075866404Z",
+  "model": "glm-5.3"
+}

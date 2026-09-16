@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Mekaa wɔ me ho daworobɔ mu sɛ, onipa nyinaa yɛ nkontompofoɔ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Mekaa"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "wɔ me ho daworobɔ mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yɛ nkontompofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:58.432074173Z",
+  "model": "glm-5.3"
+}

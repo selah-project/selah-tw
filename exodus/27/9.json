@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na wo bɛyɛ ⟨את⟩ Mishkan no afasu: anaafoɔ afa, anafoɔ fam, afasu-ntoma fitaa a wɔasene, amɛma ɔha ne tenten, ma afa baako.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wo bɛyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan no afasu"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "afasu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan no"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "afa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "anaafoɔ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "anaafoɔ fam"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "afasu-ntoma"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ma afasu no"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fitaa ntoma"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a wɔasene"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amɛma"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "ma afa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:50.672366613Z",
+  "model": "glm-5.3"
+}

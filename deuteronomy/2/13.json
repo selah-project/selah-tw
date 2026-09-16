@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Sɛɛ yi, sɔre, na momfa mo ho bɛn ⟨את⟩ asubɔnten Zared so; na yɛbɛn ⟨את⟩ asubɔnten Zared so.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sɛɛ yi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "na ... bɛn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "momfa mo ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asubɔnten Zared"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zared"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "na yɛbɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asubɔnten Zared"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zared"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:00.637346554Z",
+  "model": "glm-5.3"
+}

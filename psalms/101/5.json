@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 101,
+  "translation": "Deɛ ɔka n'yɔnko bɔne wɔ sumina mu no, ⟨את⟩ no mɛpow no; deɛ ne ani abɔ so na ne koma ayɛ trɛ, ⟨את⟩ no mentumi nnya.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ɔka n'yɔnko bɔne"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "wɔ sumina mu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n'yɔnko"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "mɛpow"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "abɔ so"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ne ani"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ayɛ trɛ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ne koma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mentumi nnya"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:08.105026725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔkaa se: Mate ⟨את⟩ wo nne wɔ afuo no mu, na mesuroe, ɛfiri sɛ me ho da, enti mesisaa me ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nne"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "wo nne"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Mate"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "wɔ afuo no mu"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "mesuroe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "me ho da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "mesisaa me ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:02.981904848Z",
+  "model": "glm-5.3"
+}

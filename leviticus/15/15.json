@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na ɔsɔfoɔ no bɛyɛ ⟨את⟩ wɔn; baako no bɛyɛ bɔne afɔdeɛ, na baako no bɛyɛ afɔdeɛ a wɔto hye; na ɔsɔfoɔ no bɛbɔ ⟨את⟩ no mpata wɔ Yawe anim wɔ ne yawa ho.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bɔne afɔdeɛ"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "na baako no"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "afɔdeɛ a wɔto hye"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "bɛbɔ mpata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ne yawa ho"
+    }
+  ],
+  "timestamp": "2026-09-15T22:29:52.184000254Z",
+  "model": "glm-5.3"
+}

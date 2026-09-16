@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Eloohim kaa kyerɛɛ Noa, ne ne mma a wɔne no wɔ hɔ ⟨את⟩ sɛ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a wɔne no wɔ hɔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:37.257662955Z",
+  "model": "glm-5.3"
+}

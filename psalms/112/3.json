@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 112,
+  "translation": "Ahonyade ne ahonya bi wɔ ne fie, na ne atɛnterɛneɛ gyina kɔ daa.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Ahonyade"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ne ahonya bi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "wɔ ne fie"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ne atɛnterɛneɛ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "gyina kɔ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:19.520040853Z",
+  "model": "glm-5.3"
+}

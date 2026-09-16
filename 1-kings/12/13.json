@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɔhene buaa ⟨את⟩ nnipadɔm no anosɛm den so, na ɔgyaee ⟨את⟩ mpanyimfoɔ no afutuo a wɔde bɔɔ ne no.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "na ɔbuaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipadɔm no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "anosɛm den"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "na ɔgyaee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afutuo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "afutuo"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mpanyimfoɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "wɔde bɔɔ ne no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:19:01.089031917Z",
+  "model": "glm-5.3"
+}

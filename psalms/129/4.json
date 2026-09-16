@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 129,
+  "translation": "Yawe ⟨yɛ⟩ aworteefoɔ; watwa abɔnefoɔ no nnyama no mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "aworteefoɔ"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "watwa mu"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "nnyama"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:27.793029921Z",
+  "model": "glm-5.3"
+}

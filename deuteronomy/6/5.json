@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wobɛdɔ Yawe, wo Eloohim, ⟨את⟩ wɔ akoma nyinaa mu, ne wɔ nokware mu, ne wɔ ahoɔden nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "na wobɛdɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo nokware"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "wo ahoɔden"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:30.700180582Z",
+  "model": "glm-5.3"
+}

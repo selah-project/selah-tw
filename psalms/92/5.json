@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Ɛfiri sɛ Yawe, wo nnwuma ayɛ me anigyeɛ; wɔ wo nsa nnwuma ho na mekan bɔ anigyeɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "wo ayɛ me anigyeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "wɔ wo nnwuma mu"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "wɔ nnwuma ho"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mekan bɔ anigyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:50.019228698Z",
+  "model": "glm-5.3"
+}

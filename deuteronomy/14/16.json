@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "⟨את⟩ kos anoma, ne ⟨את⟩ yanshuf, ne tinshemet;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kos anoma"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kos (anomienaa ketewa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yanshuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshuf (anomienaa kɛseɛ)"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ne tinshemet"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:38.958333999Z",
+  "model": "glm-5.3"
+}

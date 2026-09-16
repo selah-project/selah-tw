@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Yɛ papa wɔ wo dɛ mu ma ⟨את⟩ Tsiyon; si Yerusalem afasu.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "wɔ wo dɛ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "si"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "afasu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:24.164316534Z",
+  "model": "glm-5.3"
+}

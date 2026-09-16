@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔhene Koresh yii ⟨את⟩ Yawe fie nkɔnmu — dea Nevukadnetstsar yii firi Yerusalem de kɔhyɛɛ ne anyame fie mu no.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "na ɔhene"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie nkɔnmu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nkɔnmu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dea"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yii"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "firi Yerusalem"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "de kɔhyɛɛ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fie mu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ne anyame"
+    }
+  ],
+  "timestamp": "2026-09-16T04:18:37.913445360Z",
+  "model": "glm-5.3"
+}

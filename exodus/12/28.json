@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Israelfi no kɔɔ, na wɔyɛɛɛ; sɛnea Yawe hyɛɛ ⟨את⟩ Mosé ne Aaron so no, saa na wɔyɛɛ.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na wɔyɛɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfi no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ … so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosé"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aaron"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "na wɔyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:23.442682214Z",
+  "model": "glm-5.3"
+}

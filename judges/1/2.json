@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Yawe kaa se: Yehuda nforo; hwɛ, mahyɛ ⟨את⟩ asase no ama no wɔ ne nsa mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nforo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mahyɛ ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "wɔ ne nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:13:57.850547705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na sɛ moannie me nti, na moannyɛ ⟨את⟩ mmara yi nyinaa",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "moantie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na moann"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmara yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:10.128809297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Kush woo ⟨את⟩ Nimrod; ɔno na ɔhyɛɛ aseɛ bɛyɛ ɔdenimfoɔ wɔ asase so.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ɔhyɛɛ aseɛ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ɔdenimfoɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:56.329417853Z",
+  "model": "glm-5.3"
+}

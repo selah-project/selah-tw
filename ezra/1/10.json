@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Kefor (nkukuwa akɛseɛ) a sika kɔkɔɔ ayɛ no eduasa, kefor a silver ayɛ no a wɔde toto ho no ɔha anan ne du, adeɛ foforɔ aka no apem.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "Kefor (nkukuwa akɛseɛ)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "eduasa"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kefor"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "a ɛto so mmienu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ne du"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "adeɛ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "a aka no \/ foforɔ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    }
+  ],
+  "timestamp": "2026-09-16T04:17:35.132709352Z",
+  "model": "glm-5.3"
+}

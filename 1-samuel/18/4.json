@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Yehonatan yiye ⟨את⟩ atadeɛ a ɛda ne so no maa Dawid, ne n'adehye atadeɛ, ne ne talaffe, ne ne ponwom, ne ne mpanyim ntokuro.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "yiye firi ne ho"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ"
+    },
+    {
+      "surface": "המעעיל",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɛda ne so"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ne n'adehye atadeɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ne ne"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "talaffe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ne ne"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ponwom"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ne ne"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "mpanyim ntokuro"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:16.055930127Z",
+  "model": "glm-5.3"
+}

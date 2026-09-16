@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Davide suroo ⟨את⟩ Eloohim da no mu de kasa kyɛɛ se: “Sɛn na mede ⟨את⟩ Eloohim adaka bɛba me so?”",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "suroo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "היך",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mede ... bɛba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim adaka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T04:41:55.595004871Z",
+  "model": "glm-5.3"
+}

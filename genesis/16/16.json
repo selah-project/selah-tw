@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Abramam adi mfeɛ aduowɔtwe ne nsia sɛ Hagar woo ⟨את⟩ Yishmael maa Abramam.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Na Abramam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨ba⟩ (adi ... dɔ)}",
+      "gloss-alt": null,
+      "gloss-note": "idiom"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "aduowɔtwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ne nsia"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "sɛ ... woo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "maa Abramam"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:56.665602793Z",
+  "model": "glm-5.3"
+}

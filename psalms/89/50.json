@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Ɛhe na wo hesed a ɛdi kan no, Adonai, a wobɔɔ Dawid bo w'⟨nokwaredie⟩ mu?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Ɛhe"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "a ɛdi kan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "wobɔɔ ... bo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "w'⟨nokwaredie⟩ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:19.487742844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Enti sisima anɔpa no mu, wo ne wo wura nkoa a wɔbaa ⟨את⟩ wo ho no; mo nso monsisima anɔpa no mu na anya tewee a, mommra mo ho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Enti"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "sisima"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa no mu"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ne … nkoa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wo wura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wɔbaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo ho",
+      "marks": "wo ho"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "monsisima"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa no mu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na anya tewee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mommra mo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:35.523919999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Wo nsa na wode tew amanaman guu hɔ, na woduaa ⟨wɔn⟩; wo tiraa nkurɔfoɔ ase, na wode wɔn guu hɔ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "wodii so"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "na woduaa wɔn"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "wo tiraa ase"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nkurɔfoɔ"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "na wode wɔn guu hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:57.501710636Z",
+  "model": "glm-5.3"
+}

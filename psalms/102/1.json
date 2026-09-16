@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Mpaebɔ a ɔyawfoɔ bɔ, sɛ ɔdwodwoɔ no, na ɔto ne werɛ ho asɛm gu Yawe anim.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Mpaebɔ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "a ɔyawfoɔ bɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ɔdwodwoɔ no"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ɔto ... gu"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ne werɛ ho asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:09.888159778Z",
+  "model": "glm-5.3"
+}

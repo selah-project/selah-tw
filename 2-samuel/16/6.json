@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Ɔtowee aboɔ atia Dawid ne ⟨את⟩ nnipa a wɔyɛ ɔhene Dawid akuafoɔ nyinaa; na nnipa no nyinaa ne akodifoɔ no nyinaa wɔ ne nsa nifa so ne ne nsa benkum so.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "ɔtowee aboɔ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nnipa a wɔyɛ ɔhene akuafoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akuafoɔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "akodifoɔ no"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ne nsa nifa so"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "ne nsa benkum so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:54.261709130Z",
+  "model": "glm-5.3"
+}

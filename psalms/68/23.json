@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Adonai kaa sɛ: Mɛsan de wɔn afiri Bashan, mɛsan de wɔn afiri po no mu dɔɔdɔɔ mu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "afiri Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mɛsan de wɔn"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mɛsan de wɔn"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "afi ... dɔɔdɔɔ mu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "po no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:12.113161772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Na Adonai yɛn Eloohim n'adɔeɛ nnyɛ yɛn so, na ɔhyɛ yɛn nsa adwuma no gyina, mepa mo kyɛw, yɛn nsa adwuma no, hyɛ no gyina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ... nnyɛ"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "n'adɔeɛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na ... yɛn nsa adwuma"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "yɛn nsa"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "hyɛ ... gyina"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mepa mo kyɛw, yɛn nsa adwuma"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "yɛn nsa"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "hyɛ no gyina"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:42.677239789Z",
+  "model": "glm-5.3"
+}

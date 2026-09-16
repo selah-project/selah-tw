@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Momma mo dɔ ⟨את⟩ Yawe, mo a moyɛ n'ahotefoɔ nyinaa, ɛfiri sɛ Yawe hwɛ nokwafoɔ so yie, na ɔtua obi a ɔyɛ ahantan no ka kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "momma mo dɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "n'ahotefoɔ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "nokwafoɔ"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "hwɛ ... so yie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "na ɔtua ... ka"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "obi a ɔyɛ"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ahantan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:23.113068889Z",
+  "model": "glm-5.3"
+}

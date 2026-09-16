@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Sɛdeɛ Adonai Yawe ka: Mɛma Misraim dɔm no atwa mu wɔ Nevukadretsar, Babilon ɔhene nsa mu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "mɛma … atwa mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim dɔm no"
+    },
+    {
+      "surface": "המון",
+      "gloss": "dɔm no"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wɔ … nsa mu"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T00:50:27.472202154Z",
+  "model": "glm-5.3"
+}

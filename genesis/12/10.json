@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɔkɔm baa asase no mu, na Abram sii Misraim akɔtena hɔ, ɛfiri sɛ ɔkɔm no yɛɛ den dodo wɔ asase no mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa sɛ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ɔkɔm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "sii"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "akɔtena hɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yɛɛ den dodo"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ɔkɔm no"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:53.479379427Z",
+  "model": "glm-5.3"
+}

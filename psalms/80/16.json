@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "ne dua a wo nsa nifa dwaa, ne ba a wo ma no den ma wo ho.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ne dua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "wodwaa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nsa nifa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "wo ma no den"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:57.792566300Z",
+  "model": "glm-5.3"
+}

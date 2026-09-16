@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Hwan na ɔte sɛ Yawe, yɛn Eloohim, ne a ɔma ne ho kɔ soro sɛ ɔtena?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "sɛ Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ne a ɔma ne ho kɔ soro"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sɛ ɔtena"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:17.714180805Z",
+  "model": "glm-5.3"
+}

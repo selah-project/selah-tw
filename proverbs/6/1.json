@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Me ba, sɛ wode wo ho atwam ama wo yɔnko, sɛ wobɔɔ wo nsa maa ɔhɔho,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Me ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "wode wo ho atwam"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ama wo yɔnko"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "wobɔɔ"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "maa ɔhɔho"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "wo nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:45:19.344669643Z",
+  "model": "glm-5.3"
+}

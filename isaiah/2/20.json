@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Wɔ da no mu no, onipa bɛto ⟨את⟩ ne dwetɛ abosonso ne ⟨את⟩ ne sika kɔkɔɔ abosonso — a wɔyɛeɛ ma no ma ɔbɛda ase asom — ama asasetɔboa ne abiriboa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "bɛto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne dwetɛ abosonso"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "abosonso"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ne dwetɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne sika kɔkɔɔ abosonso"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "abosonso"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "ne sika kɔkɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛeɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ma ɔbɛda ase asom"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "ama asasetɔboa"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "asasetɔboa"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "ne abiriboa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:42.490101439Z",
+  "model": "glm-5.3"
+}

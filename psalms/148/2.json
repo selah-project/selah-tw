@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 148,
+  "translation": "Munyɛ no ayɔnkoɔ, nnipa-somafoɔ a mo nyinaa; munyɛ no ayɔnkoɔ, ne dɔm a wɔ nyinaa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Munyɛ no ayɔnkoɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mo nyinaa"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ne nnipa-somafoɔ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "munyɛ no ayɔnkoɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wɔ nyinaa"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ne dɔm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:49.221808604Z",
+  "model": "glm-5.3"
+}

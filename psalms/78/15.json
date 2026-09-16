@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Ɔtetee nwowaa wɔ asasetoase mu, na ɔmaa wɔn nsuo sɛ nsuo kɛseɛ a ɛwɔ asase ase.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Ɔtetee"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "nwowaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asasetoase mu"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "na ɔmaa wɔn nsuo"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "sɛ nsuo kɛseɛ a ɛwɔ asase ase"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:11.038469975Z",
+  "model": "glm-5.3"
+}

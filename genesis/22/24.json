@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ne yafunufa, ne din de Reuma, ɔno nso woo ⟨את⟩ Tebah, ⟨את⟩ Gaham, ⟨את⟩ Tahash, ne ⟨את⟩ Maaka.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Na ne yafunufa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ne din de"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebah"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gaham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tahash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:14.867299994Z",
+  "model": "glm-5.3"
+}

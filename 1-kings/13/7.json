@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔhene no kasa kyerɛɛ Eloohim ɔbarima no se: “Bra, mmra ⟨את⟩ me fie, na sɔ w’ahome, na mɛma wo akyɛdeɛ.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na ɔkasa kyerɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim no"
+    },
+    {
+      "surface": "באה",
+      "gloss": "bra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mmra me fie"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "na sɔ w’ahome"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na mɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "akyɛdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:30.360312689Z",
+  "model": "glm-5.3"
+}

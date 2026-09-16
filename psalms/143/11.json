@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 143,
+  "translation": "Ɛnam wo din nti, Yawe, ma me nkwa; fa wo trede mu, fa honam awerɛhoɔ mu bun me neho. ",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ma me nkwa"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "fa wo trede mu"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "fa...mu bun"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "werɛhoɔ mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me neho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:24.673620145Z",
+  "model": "glm-5.3"
+}

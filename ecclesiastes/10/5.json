@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Nsɛm bɔne bi mihunuu wɔ owia ase — sɛ mfomsoɔ a ɛfiri ɔtumfoɔ anim ba.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bi wɔ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nsɛm bɔne"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mihunuu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wɔ ... ase"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "sɛ mfomsoɔ"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "a ɛba"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "ɔtumfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:50.517066584Z",
+  "model": "glm-5.3"
+}

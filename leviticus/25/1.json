@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Yawe kasa kyerɛɛ Mose wɔ Sini ⟨bepɔ⟩ so, se:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "wɔ ⟨bepɔ⟩ so"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:26.121723979Z",
+  "model": "glm-5.3"
+}

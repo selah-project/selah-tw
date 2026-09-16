@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Momma Yawe ntew ano-toro nyinaa mu, ne tɛmmɛ a ɔkasa nsɛm akɛseɛ.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Momma ... ntew ... mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "toro"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tɛmmɛ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "a ɔkasa"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nsɛm akɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:14.864018398Z",
+  "model": "glm-5.3"
+}

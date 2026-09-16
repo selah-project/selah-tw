@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Afuo a Abraham tɔeɛ ⟨את⟩ firi Heti mma nkyɛn; hɔ na wɔsiee Abraham ne Sara ne yere.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "afuo a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tɔeɛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ firi",
+      "marks": "Heti mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wɔsiee"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "ne Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:25.816308655Z",
+  "model": "glm-5.3"
+}

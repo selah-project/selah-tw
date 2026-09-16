@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Sɛdeɛ mebɛhunu w'apawfoɔ pɛ, sɛdeɛ mede anigyeɛ bɛka w'aman anigyeɛ ho, na mɛde ahantan aka w'agyapadeɛ ho.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "sɛdeɛ mebɛhunu"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "w'apawfoɔ"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "sɛdeɛ me de anigyeɛ bɛka ho"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "w'aman"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "na mɛde ahantan ka ho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "w'agyapadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:29.570699415Z",
+  "model": "glm-5.3"
+}

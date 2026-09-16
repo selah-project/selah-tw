@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Abram sɔɔ n'aborɔso, na ɔbaa tetenaa wɔ Mamre nnua ase, a ɛwɔ Hebron, na ɔsii abɔdan awerɛhoɔ hɔ maa Yawe.",
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "sɔɔ n'aborɔso"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tetenaa"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "wɔ ... nnua ase"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ɛwɔ Hebron"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ɔsii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "abɔdan awerɛhoɔ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:46.257042549Z",
+  "model": "glm-5.3"
+}

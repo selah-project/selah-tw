@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Sar a ɔhwɛ nsa ano so no kaa ⟨את⟩ ne dae no kyerɛɛ Yosef, na ɔkaa kyerɛɛ no sɛ: Wɔ me dae mu, na hwɛ, nsa-dua bi wɔ m'anim.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "a ɔhwɛ nsa ano so no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne dae no"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "ne dae no"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kyerɛɛ Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyerɛɛ no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "wɔ me dae mu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "nsa-dua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ m'anim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:02.067006044Z",
+  "model": "glm-5.3"
+}

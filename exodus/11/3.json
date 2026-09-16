@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yawe maa ⟨את⟩ nnipa no adɔeɛ wɔ Misraimfoɔ ani so; ɔno Moshe nso yɛ ⟨kɛseɛ⟩ paa wɔ Misraim asase mu, wɔ Paroh nkoa ani so ne wɔ nnipa no ani so.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no adɔeɛ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "adɔeɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraimfoɔ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onya no"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:49.450908215Z",
+  "model": "glm-5.3"
+}

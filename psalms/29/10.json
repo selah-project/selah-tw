@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yawe tenaa asuo kɛseɛ no so hene; Yawe tena heneda da.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "asuo kɛseɛ no so"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tenaa ... hene"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ɔtena hene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:48.859765235Z",
+  "model": "glm-5.3"
+}

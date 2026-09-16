@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Nanso Eloohim ka kyerɛɛ bɔnefoɔ no sɛ: Adɛn na wode me mmara no di dwuma, na wode me nhyehyɛeɛ siesie wo ano?",
+  "tokens": [
+    {
+      "surface": "וְלָרָשָׁע",
+      "gloss": "Nanso kɔ bɔnefoɔ no so"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מַה־לְּךָ",
+      "gloss": "Adɛn na wo"
+    },
+    {
+      "surface": "לְסַפֵּר",
+      "gloss": "di dwuma"
+    },
+    {
+      "surface": "חֻקַּי",
+      "gloss": "me mmara no"
+    },
+    {
+      "surface": "וַתִּשָּׂא",
+      "gloss": "na wo siesie"
+    },
+    {
+      "surface": "בְּרִיתִי",
+      "gloss": "me nhyehyɛeɛ"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פִיךָ",
+      "gloss": "wo ano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:36.283407797Z",
+  "model": "glm-5.3"
+}

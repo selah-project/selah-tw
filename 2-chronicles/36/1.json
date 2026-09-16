@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Asase no manfoɔ faa ⟨את⟩ Yehoahaz, Yosia ba, na wɔde no sii hene wɔ n'agya ananmu wɔ Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "faa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "manfoɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosia"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "na wɔde no sii hene"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananmu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T05:12:47.994413252Z",
+  "model": "glm-5.3"
+}

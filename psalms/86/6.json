@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Yawe, si wo tirim hwɛ me mpaeɛbɔ, na tie me nwɛsɛfoɔ nne.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "si wo tirim hwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpaeɛbɔ"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "na tie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "me nwɛsɛfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:40.309399615Z",
+  "model": "glm-5.3"
+}

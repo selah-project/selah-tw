@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Momma Ziyon bepɔ no mmɔ ayɛmyie, na Yuda mma no nnye ahotoso, esiane sɛ wo atemmuo nti.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "mmɔ ayɛmyie"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "nnye ahotoso"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "esiane sɛ ... nti"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "wo atemmuo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:34.183319145Z",
+  "model": "glm-5.3"
+}

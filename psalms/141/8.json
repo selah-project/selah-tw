@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 141,
+  "translation": "Ɛfiri sɛ me ani dwirii wo so, Yawe, Adonai; me ho awɔ wo mu; mma wo dɔre me nkwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "me ho awɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תער",
+      "gloss": "wo dɔre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:14.781577946Z",
+  "model": "glm-5.3"
+}

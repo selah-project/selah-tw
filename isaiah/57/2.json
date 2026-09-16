@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 57,
+  "translation": "Asomdwoeɛ bɛba; wɔbɛhome wɔ da-nkwan so, nea ɔnam kwan-trew mu.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "bɛhome"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "wɔn da-nkwan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nea ɔnam"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "kwan-trew mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:01:28.559369590Z",
+  "model": "glm-5.3"
+}

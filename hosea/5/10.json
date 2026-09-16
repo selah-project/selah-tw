@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Yehuda ahemfo ayɛ te sɛ wɔn a wɔsisi ahye; mɛbɔ wɔn so agu me nyamu sɛ nsuo.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "te sɛ wɔn a wɔsisi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ahye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "mɛbɔ agu"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sɛ nsuo"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "me nyamu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:04:40.840934129Z",
+  "model": "glm-5.3"
+}

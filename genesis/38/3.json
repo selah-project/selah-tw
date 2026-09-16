@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na ɔnyaa nyinsɛn, na ɔwoo ɔba, na ɔtoo no din Er ⟨את⟩ ne din.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "na ɔnyaa nyinsɛn"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔtoo din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:50.492505044Z",
+  "model": "glm-5.3"
+}

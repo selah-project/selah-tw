@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Yawe bɛgya no so wɔ yarɛ mpa so; ne mpa a ɔda so nyinaa, woasesa no wɔ ne yadeɛ mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "bɛgya no so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "mpa"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "yarɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ne mpa a ɔda so"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "woasesa no"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "wɔ ne yadeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:20.763320184Z",
+  "model": "glm-5.3"
+}

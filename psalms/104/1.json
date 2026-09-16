@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Hyira me nkra, Yawe; Yawe, m'Eloohim, woayɛ kɛseɛ dodo; woahɔ ahorow ne animuonyam sɛ ntoma.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "hyira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "m'Eloohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "woayɛ kɛseɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ahorow"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ne animuonyam"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "woahɔ sɛ ntoma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:03.832867392Z",
+  "model": "glm-5.3"
+}

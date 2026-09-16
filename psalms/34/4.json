@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Mo ne me mmɔ ⟨את⟩ Yawe kɛseɛ, na yɛn nyinaa mmɔ n'abraboɔ ni wɔ bom.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "mmɔ ... kɛseɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mo ne me"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "yɛn nyinaa mmɔ ... ni"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "n'abraboɔ ni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wɔ bom"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:26.501153281Z",
+  "model": "glm-5.3"
+}

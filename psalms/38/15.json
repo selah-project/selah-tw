@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na mayɛ sɛ ɔbarima a ɔntie, na nsɛm a ɔde bɔ ne yam nni ne ano mu.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "na mayɛ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sɛ ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ɔntie"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ne ano mu"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "nsɛm a ɔde bɔ ne yam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:50.402172892Z",
+  "model": "glm-5.3"
+}

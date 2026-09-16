@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Ɔkyerɛɛ wɔn ɔkwan tenenee so akɔ kuropɔn a wɔbɛtena mu.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Ɔkyerɛɛ wɔn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɔkwan so"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "tenenee"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuropɔn"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "a wɔbɛtena mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:00.323798939Z",
+  "model": "glm-5.3"
+}

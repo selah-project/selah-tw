@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Me nim wo atenaeɛ, wo nkyɛn-tumi ne wo nkyɛn-ba, na me nim ⟨את⟩ wo bo afuw a ɛfata me.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "wo atenaeɛ"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "wo nkyɛn-tumi"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "wo nkyɛn-ba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "me nim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo bo afuw"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "wo bo afuw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɛfata me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:26:01.712997473Z",
+  "model": "glm-5.3"
+}

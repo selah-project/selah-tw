@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔsomaa ananmusifoɔ kɔɔ Ahab, Yisrael hene no nkyɛn, kɔɔ kurow no mu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na ɔsomaa"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ananmusifoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kurow no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:48.541199498Z",
+  "model": "glm-5.3"
+}

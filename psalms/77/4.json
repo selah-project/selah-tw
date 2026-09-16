@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Mekae Eloohim, na memuu; medwenee, na me honhom adwoeɛ. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Mekae"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "na memuu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "medwenee"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "na ... adwoeɛ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "me honhom"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:34.178048053Z",
+  "model": "glm-5.3"
+}

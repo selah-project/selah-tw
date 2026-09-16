@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Akyire yi Iyob buee ⟨את⟩ ne ano, na oduamuu ⟨את⟩ ne da.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Akyire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "buee"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ano"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ne ano"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "na oduamuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne da"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ne da"
+    }
+  ],
+  "timestamp": "2026-09-16T03:11:33.464902896Z",
+  "model": "glm-5.3"
+}

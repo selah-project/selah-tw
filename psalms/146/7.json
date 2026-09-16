@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Ɔyɛ atemmuo ma wɔasɛw wɔn; ɔma aduane ma ɛkɔmfoɔ; Yawe siesie afiasefoɔ.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ɔyɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmuo"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ma wɔasɛw wɔn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔma"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ma ɛkɔmfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "siesie (de wɔn firi mmara mu)"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "afiasefoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:27.335890720Z",
+  "model": "glm-5.3"
+}

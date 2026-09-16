@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Wodɔ ɔtreneɛ na wotan atɔkɔkom; enti Eloohim, wo Eloohim, asie wo ngo a anigyeɛ wɔ mu sen wo yɔnkofoɔ.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "wodɔ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ɔtreneɛ"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "wotan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "atɔkɔkom"
+    },
+    {
+      "surface": "על",
+      "gloss": "enti (nea enti)"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "משחך",
+      "gloss": "asie wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "wo yɔnkofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:54:02.443605077Z",
+  "model": "glm-5.3"
+}

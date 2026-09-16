@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Mede asɛm too me akoma mu: Eloohim bɛyɛ ⟨את⟩ teneneefoɔ no ne ⟨את⟩ bɔneyɛfoɔ no atemmu, ɛfiri sɛ bere wɔ hɔ ma ɔpɛ biara, na wɔ adwuma biara so wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mede asɛm too"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "akoma mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teneneefoɔ no"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "teneneefoɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "bɔneyɛfoɔ no"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bɔneyɛfoɔ no"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bɛyɛ atemmu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma biara"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ɔpɛ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:20.070666204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Dawid hyiraa ⟨את⟩ nnwom-sɛeɔ yi wɔ Shaul ne Yehonatan ne ba so",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "hyiraa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnwom-sɛeɔ yi"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "nnwom-sɛeɔ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-16T06:03:05.349635244Z",
+  "model": "glm-5.3"
+}

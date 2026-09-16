@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na wɔnkyekyɛ no mu ⟨את⟩ ama ɛyɛ nkyekyɛmmiɛnsa: Yuda de, ɔgyina n'ahyɛase so anaafoɔ, na Yosef fie nso de, wɔgyina wɔn ahyɛase so atifi fam.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "na wɔnkyekyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no mu"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "nkyekyɛmu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ɔgyina"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "n'ahyɛase"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "anaafoɔ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na fie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "wɔgyina"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "wɔn ahyɛase"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "atifi fam"
+    }
+  ],
+  "timestamp": "2026-09-15T22:07:48.593154021Z",
+  "model": "glm-5.3"
+}

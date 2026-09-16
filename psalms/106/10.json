@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Ɔgyee wɔn fii ɔba a ɔtan wɔn nsa mu, na ɔtee wɔn fii ɔtamfoɔ nsa mu.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Ɔgyee wɔn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fii ... nsa mu"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ɔba a ɔtan wɔn"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "na ɔtee wɔn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fii ... nsa mu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:34.499077301Z",
+  "model": "glm-5.3"
+}

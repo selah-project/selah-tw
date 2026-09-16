@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na m'atamfoɔ no teɛ wɔ nkwa mu, na wɔyɛ den; na wɔn a wɔdi me nkwaseasem wɔ amansan mu no dɔɔso.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "na m'atamfoɔ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "teɛ wɔ nkwa mu"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "wɔyɛ den"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na wɔdɔɔso"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wɔn a wɔdi me nkwaseasem"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wɔ amansan mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:20.302572312Z",
+  "model": "glm-5.3"
+}

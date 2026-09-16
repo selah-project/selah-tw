@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na wɔsan frɛɛ Moshe ne Aharon baa Parho nkyɛn, na ɔkaa kyerɛɛ wɔn sɛ: “Monkɔ, monsom Yawe, mo Eloohim. Hwan na hwan na wɔrekɔ?”",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "na wɔsan frɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho nkyɛn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "monkɔ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "monsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hwan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "na wɔrekɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:28.206599876Z",
+  "model": "glm-5.3"
+}

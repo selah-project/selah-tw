@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Na wo, Yawe, wote atenan mu daa; na wo kaeduro wɔ nkyirimma so de kɔsi awoɔ ntoatoaso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wote atenan mu"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "na wo kaeduro"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wɔ nkyirimma so"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "de kɔsi awoɔ ntoatoaso"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:22.631130015Z",
+  "model": "glm-5.3"
+}

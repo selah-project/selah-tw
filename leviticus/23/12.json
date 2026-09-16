@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na wɔ da a mobɛbɔ ⟨את⟩ bondɔ no no, moyɛ odwan, a ɔnnim mfomsoɔ, ɔba a wadi afe baako, sɛ ɔhyɛ ma Yawe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Na moyɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da a"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "mobɛbɔ … no no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bondɔ no"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "bondɔ no"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "odwan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "a ɔnnim mfomsoɔ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔba a"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "wadi afe baako"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "sɛ ɔhyɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:30.512638763Z",
+  "model": "glm-5.3"
+}

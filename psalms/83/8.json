@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Gebal, ne Amon, ne Amalek, Pelesetfoɔ ne Tsor atenafoɔ.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ne Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ne Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesetfoɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "atenafoɔ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:48.063859994Z",
+  "model": "glm-5.3"
+}

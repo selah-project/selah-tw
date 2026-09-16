@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na Kasdim asraafoɔ nyinaa, wɔn a wɔwɔ wɔm akondɔfoɔ panin no nkyɛn, bubuu ⟨את⟩ Yerusalem mmeamenedan a atwa ho ahyia no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem mmeamenedan"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mmeamenedan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a atwa ho ahyia"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "wɔbubuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panin"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "akondɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:22:56.561422642Z",
+  "model": "glm-5.3"
+}

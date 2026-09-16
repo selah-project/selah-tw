@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Nahor tenaa ase; de ɔwoo ⟨את⟩ Terah no akyi, ɔtenaa ase mfeɛ ɔha ne dunkron, na ɔwoo mma ne mmawa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "de ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nkron"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ne ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mmawa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:50.503255959Z",
+  "model": "glm-5.3"
+}

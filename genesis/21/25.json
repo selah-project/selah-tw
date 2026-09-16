@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Abraham kyekyeree ⟨את⟩ Abimelek wɔ nsuo-mpɔnsua ho, a Abimelek akͻmmafoͻ ayԑ so awia.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "kyekyeree"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "ho"
+    },
+    {
+      "surface": "באר",
+      "gloss": "nsuo-mpɔnsua"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "ayԑ so awia"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akͻmmafoͻ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:53.479526486Z",
+  "model": "glm-5.3"
+}

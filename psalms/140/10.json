@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Wɔn a wɔatwa me ho ahyɛ no tiifoɔ so na wɔn ano mmɔneɛ mmekata wɔn.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "tiifoɔ"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "wɔn a wɔatwa me ho ahyɛ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mmɔneɛ"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "wɔn ano"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "mmekata wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:06.029654636Z",
+  "model": "glm-5.3"
+}

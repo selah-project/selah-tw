@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔbɔ dam, ɔbrɛ aseɛ, na ahiafoɔ no bu wɔ neho dendeenden.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ɔbɔ dam"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ɔbrɛ aseɛ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "na ... bubu"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "wɔ neho dendeenden"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ahiafoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:19.488488805Z",
+  "model": "glm-5.3"
+}

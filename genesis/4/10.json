@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔkaa se, \"Adɛn na woyɛe? Wo nua mogya nne refrɛ me firi asase mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "woyɛe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "refrɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:14:55.694969301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Eloohim mu nni hɔ a ɔte sɛ wo, Adonai, na dwumadie nni hɔ a ɛte sɛ wo dwumadie.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "a ɔte sɛ wo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "a ɛte sɛ wo dwumadie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:40.313268441Z",
+  "model": "glm-5.3"
+}

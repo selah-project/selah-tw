@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ɔkaa ⟨את⟩ me kɔɔ sum mu, ɛnyɛ hann mu.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "Ɔkaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sum mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hann mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:47:56.024068045Z",
+  "model": "glm-5.3"
+}

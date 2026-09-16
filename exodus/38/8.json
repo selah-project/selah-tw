@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na ɔyɛɛ ⟨את⟩ nnunu no nkɔkɔɔ, ne ⟨את⟩ ne nnyinabɔ no nkɔkɔɔ, firi mmea asomfoɔ no nsusuwii mu — wɔn a wɔsomɔɔ wɔ nhyiamu ama no anim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnunu no"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "nnunu no"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkɔkɔɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nnyinabɔ no"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ne nnyinabɔ no"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkɔkɔɔ"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "firi nsusuwii mu"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "mmea asomfoɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "wɔsomɔɔ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiamu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:25.615941484Z",
+  "model": "glm-5.3"
+}

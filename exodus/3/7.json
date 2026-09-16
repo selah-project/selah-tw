@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe kaa sɛ: Mahunu ⟨את⟩ me man no werɛhoɔ a wɔwɔ Misraim; na matee ⟨את⟩ wɔn nsɛmmɔne a wɔteɛ wɔ wɔn mmardifoɔ nti; ɛfiri sɛ minim ⟨את⟩ wɔn yaw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Mahunu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me man no werɛhoɔ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "werɛhoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsɛmmɔne"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "wɔn nsɛmmɔne"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "matee"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wɔ … nti"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "wɔn mmardifoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn yaw"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "wɔn yaw"
+    }
+  ],
+  "timestamp": "2026-09-15T20:43:32.380566147Z",
+  "model": "glm-5.3"
+}

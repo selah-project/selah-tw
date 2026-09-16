@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Mennam mo ⟨את⟩ mfeɛ aduanan wɔ sare so; mo ntoma angye mo so, na wo mpaboa angye wo nan so.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "na menam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ sare so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an-"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "angye"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "mo ntoma"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "na wo mpaboa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an-"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "angye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "so"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "wo nan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:58:08.696391956Z",
+  "model": "glm-5.3"
+}

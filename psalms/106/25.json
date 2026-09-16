@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Na wɔdii agorɔ wɔ wɔn ahemfie mu, na wɔantie Yawe nne.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "na wɔdii agorɔ"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "wɔ wɔn ahemfie mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na wɔannie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "antie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:48.155731815Z",
+  "model": "glm-5.3"
+}

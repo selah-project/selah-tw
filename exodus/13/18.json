@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Eloohim danee ⟨את⟩ nkorɔfoɔ no kɔɔ ɛserɛ so ɔkwan so, kɔ Suf asɔrewa ho; na Yisrael mma no firii Misraim asase so wɔ ako-yɛ mu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "danee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ɛserɛ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "asɔrewa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "wɔ ako-yɛ mu"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "firii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:14.827928792Z",
+  "model": "glm-5.3"
+}

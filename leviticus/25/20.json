@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na sɛ moka sɛ, 'Ɛdeɛn na yɛbɛdi wɔ afe a ɛtɔ so nson no mu? Hwɛ, yɛnto nkyerɛkyerɛ, yɛnnye yɛn ⟨את⟩ nnɔbae no.'",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "moka sɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ɛdeɛn"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yɛbɛdi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "wɔ afe … mu"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "a ɛtɔ so nson"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yɛnn-"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "to nkyerɛkyerɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yɛnn-"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "nye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn nnɔbae"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "yɛn nnɔbae"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:21.914016785Z",
+  "model": "glm-5.3"
+}

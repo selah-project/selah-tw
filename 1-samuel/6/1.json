@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yawe adaka no wɔ Pelisitim asase mu bosome nnson.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... wɔ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitim"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nnson"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bosome"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:28.054337585Z",
+  "model": "glm-5.3"
+}

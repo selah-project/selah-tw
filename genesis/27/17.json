@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na ɔde ⟨את⟩ aduane a ɛyɛ dɛ no ne ⟨את⟩ aburodua a ɔyɛeɛ no maa Yaqob ne ba, wɔ ne nsa mu.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ɔde…maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduane a ɛyɛ dɛ no"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "aduane a ɛyɛ dɛ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aburodua no"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "aburodua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ɔyɛeɛ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wɔ ne nsa mu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:21.345997115Z",
+  "model": "glm-5.3"
+}

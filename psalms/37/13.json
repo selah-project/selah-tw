@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Adonai bɛserew no, ɛfiri sɛ ɔahunu sɛ ne da no reba.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "bɛserew"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ɔahunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "reba"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ne da no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:57.140794251Z",
+  "model": "glm-5.3"
+}

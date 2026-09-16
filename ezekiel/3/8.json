@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Hwɛ, maya ⟨את⟩ wo anim ayɛ den tia wɔn anim, na ⟨את⟩ wo anim pa ama ayɛ den tia wɔn anim pa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "maya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo anim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "ayɛ den"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "tia"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo anim pa"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "wo anim pa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "den"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "tia"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "wɔn anim pa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:34:39.894441232Z",
+  "model": "glm-5.3"
+}

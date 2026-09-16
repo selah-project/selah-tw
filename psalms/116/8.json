@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Ɛfiri sɛ wode me nkwa firii owuo mu, ⟨את⟩ me ani firii nsuo mu, ⟨את⟩ me nan firii ahum mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "wode ... firii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "owuo mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ani"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firii"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "nsuo mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "me nan"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ahum mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:08.753141956Z",
+  "model": "glm-5.3"
+}

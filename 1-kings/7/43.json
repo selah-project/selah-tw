@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ne ⟨את⟩ nkɔnwamma du, ne ⟨את⟩ nkuruwa du a ɛda nkɔnwamma no so.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nkɔnwamma du"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "nkɔnwamma"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nkuruwa du"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "nkuruwa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "nkɔnwamma no so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:15:39.108004297Z",
+  "model": "glm-5.3"
+}

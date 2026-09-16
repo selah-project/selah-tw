@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Hwɛ me awerɛhoɔ ne me adwuma so; fa me mfomsoɔ nyinaa to hɔ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "me awerɛhoɔ"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "ne me adwuma so"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "fa ... to hɔ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "me mfomsoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:21.629857742Z",
+  "model": "glm-5.3"
+}

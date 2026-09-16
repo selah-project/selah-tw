@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Saa na Aaron mma din neɛ: awo ba a odi kan Nadab, ne Abihua, Elazar, ne Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Saa na"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "din"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "awo ba a odi kan"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ne Abihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ne Itamar"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:41.674793980Z",
+  "model": "glm-5.3"
+}

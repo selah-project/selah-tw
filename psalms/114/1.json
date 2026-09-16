@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 114,
+  "translation": "Bere a Yisrael firi Misraim mu baeɛ no, na Yakob fie firii aman a wɔka kasa a ɛyɛ ⟨azoroma⟩ no mu.",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Bere a ... firi ... baeɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "firii aman"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "a ɛyɛ ⟨azoroma⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:55.608075338Z",
+  "model": "glm-5.3"
+}

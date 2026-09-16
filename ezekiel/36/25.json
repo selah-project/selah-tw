@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na mɛgu nsu pa agu mo so, na mo ho bɛtetew afiri mo tetew ho nsõ nyinaa mu, ne mo abosonsom nyinaa mu na mɛtetew ⟨את⟩ mo ho.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "na mɛgu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "agu mo so"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsu"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "pa"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "na mo ho bɛtetew"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "afiri … nyinaa mu"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "mo tetew ho nsõ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ne … nyinaa mu"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "mo abosonsom"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "mɛtetew"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T00:52:37.402577096Z",
+  "model": "glm-5.3"
+}

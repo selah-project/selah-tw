@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wo de ⟨את⟩ ne mma no bɛba, na wo bɛhyɛ wɔn ⟨את⟩ kütɔnnɔ (atadeɛ a ɛwɔ mu).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mma no"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "wo de ... bɛba"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "na wo bɛhyɛ wɔn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "kütɔnnɔ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kütɔnnɔ (atadeɛ a ɛwɔ mu)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:11.961338680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɔnoaa no, de no kɔɔ ne maame hɔ; na ɔtenaa ne kotokuo so kɔsii awia, na ɔwuiɛ.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Ɔnoaa no"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "de no kɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame hɔ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ɔtenaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ne kotokuo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "awia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na ɔwuiɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:00.428079425Z",
+  "model": "glm-5.3"
+}

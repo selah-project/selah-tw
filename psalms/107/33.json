@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Ɔde asubɔnten yɛ ɛserɛ, na nsuo mfitiaseɛ yɛ sukɔm asase.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Ɔde … yɛ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ɛserɛ"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "na nsuo mfitiaseɛ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "sukɔm asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:19.645439958Z",
+  "model": "glm-5.3"
+}

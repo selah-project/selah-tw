@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Efisɛ wo nkyɛn na nkwa ɔboɔ no wɔ; wɔ wo hann mu na yɛhunu hann.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Efisɛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ɔboɔ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "wɔ wo hann mu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yɛhunu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:17.332073207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Paroh kaa sɛ: hwɛ, asase no nnipa dodoɔ ara; na moama wɔagyae ⟨את⟩ wɔn adwumadeɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dodoɔ ara"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sɛɛndeɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "na moama wɔagyae"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn adwumadeɛ"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "wɔn adwumadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:22.719468601Z",
+  "model": "glm-5.3"
+}

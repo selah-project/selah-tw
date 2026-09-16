@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yawe sɔani bɔne sii Salomo so: ⟨את⟩ Hadad ɔEdomni; ɔyɛ ɔhene ase wɔ Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔani ... sii ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ɔsɔani bɔne"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salomo so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad ɔEdomni"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ɔEdomni"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "firi ... ase"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "wɔ Edom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:43.914287083Z",
+  "model": "glm-5.3"
+}

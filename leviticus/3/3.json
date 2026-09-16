@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Obɛbɔ firii Shelamim abatoyɛ mu ama Yawe ogya adɔeɛ: ⟨את⟩ helev a ɛkekɔ ⟨את⟩ ayera mu, ne ⟨את⟩ helev a ɛwɔ ayera no so nyinaa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Obɛbɔ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "firi abatoyɛ mu"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "Shelamim no"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ogya adɔeɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helev a ɛkekɔ ayera mu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "helev"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "a ɛkekɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayera mu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ayera mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "helev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ɛwɔ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ayera no so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:21.390524071Z",
+  "model": "glm-5.3"
+}

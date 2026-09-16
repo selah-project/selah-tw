@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "ne ⟨את⟩ Tsorah, ne ⟨את⟩ Ajalon, ne ⟨את⟩ Chevron, a ɛwɔ Yehuda ne Benyamin mu — nkuro a wɔasɔ hyɛ mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "wɔ Yehuda mu"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ne wɔ Benyamin mu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "a wɔasɔ hyɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:02.583222104Z",
+  "model": "glm-5.3"
+}

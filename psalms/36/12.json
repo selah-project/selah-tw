@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Ahantan nan mpɛ sɛ ɛbɛka me; na abɔnefoɔ nsa ɛnnisi me firi me baabi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mpɛ sɛ"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "bɛka me"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ahantan"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "na … nsa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "nsi me firi me baabi"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:17.343923408Z",
+  "model": "glm-5.3"
+}

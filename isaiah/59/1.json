@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Hwɛ, Yawe nsa nnsua sɛ ɛnni ho kwan sɛ ɔbɛgya, na n'aso nnduru sɛ ɛntumi ntie.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "nnsua"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "sɛ ɔbɛgya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nn-"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "nnduru"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "n'aso"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sɛ ɛntumi ntie"
+    }
+  ],
+  "timestamp": "2026-09-16T00:01:19.642876263Z",
+  "model": "glm-5.3"
+}

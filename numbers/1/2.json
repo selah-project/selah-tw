@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Momfa mo nsa fa ⟨את⟩ ti ahyɛ Yisrael mma no nyinaa kuo no biakɔ; wɔn abusua ahodoɔ mu, wɔn agyanom fie mu, wɔ din nkontabuo mu; ɔbarima biara, wɔn ti-pɛn nkontabuo mu.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "momfa mo nsa fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "wɔn abusua ahodoɔ mu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wɔ fie mu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "wɔn agyanom"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "wɔ nkontabuo mu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "din"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "wɔn ti-pɛn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:31.088912273Z",
+  "model": "glm-5.3"
+}

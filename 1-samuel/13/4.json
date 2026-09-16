@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Israelfoɔ nyinaa tee ase se, Shaul bɔɔ ⟨את⟩ Filistifoɔ asraafoɔ gyinabea, na Israelfoɔ ayɛ dɛ bɔne wɔ Filistifoɔ anim; na dɔm no suii dii Shaul akyi wɔ Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tee ase"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistifoɔ asraafoɔ gyinabea"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "asraafoɔ gyinabea"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "ayɛ dɛ bɔne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "wɔ Filistifoɔ anim"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "suii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dɔm no"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di ... akyi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:22.203901754Z",
+  "model": "glm-5.3"
+}

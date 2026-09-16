@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Misraim bɛhu sɛ me ne Yawe, sɛ merebɔ m'animuonya wɔ Paroh mu, wɔ ne karifo mu ne ne mmirikatuofoɔ mu no.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bɛhu sɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "merebɔ m'animuonya"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "wɔ Paroh mu"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "wɔ ne karifo mu"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ne ne mmirikatuofoɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:31.209954987Z",
+  "model": "glm-5.3"
+}

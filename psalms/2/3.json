@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "\"Momma yɛntetew ⟨את⟩ wɔn nkyekyeree, na yɛnhuruw wɔn nnabone afiri yɛn so.\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Momma yɛntetew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nkyekyeree"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "wɔn nkyekyeree"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "na yɛnhuruw"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "afiri yɛn so"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "wɔn nnabone"
+    }
+  ],
+  "timestamp": "2026-09-16T01:35:10.585404056Z",
+  "model": "glm-5.3"
+}

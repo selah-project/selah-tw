@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Saa ara na Shimoni mma no abusua: ahaanu ne mpem aduonu abien ⟨ne⟩ apem mmienu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Shimoni mma no"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ne aduonu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem (mpem aduonu)"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ne ahaanu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:27.383289734Z",
+  "model": "glm-5.3"
+}

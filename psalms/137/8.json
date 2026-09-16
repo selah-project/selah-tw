@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 137,
+  "translation": "Babilon babea, wɔasɛe wo; nea ɔho te ne onipa a ɔbɛtua wo ka, ⟨את⟩ wo yɛɛ yɛn de no, sɛnea wo yɛɛ yɛn.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "babea"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "wɔasɛe wo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nea ɔho te ne"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ɔbɛtua wo ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo yɛɛ yɛn de no"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "wo yɛɛ yɛn de no"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "wo yɛɛ yɛn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:49.055480873Z",
+  "model": "glm-5.3"
+}

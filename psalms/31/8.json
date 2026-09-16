@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Meretow agyina na mergoro awow wɔ wo hesed mu, ɛfiri sɛ wohunu ⟨את⟩ me haw; wunim ɔhaw a m'ankasa da mu.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Meretow agyina"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "na mergoro awow"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "wo hesed mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "wohunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me haw"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "me haw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wunim"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ɔhaw ... da mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "m'ankasa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:31.166192773Z",
+  "model": "glm-5.3"
+}

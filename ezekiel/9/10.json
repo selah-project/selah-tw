@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na me nso, m'ani renhwɛ so na mmerɛ wɔn; mede wɔn kwan no bɛto wɔn ti so.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na me nso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren-"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "hwɛ so"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mmerɛ"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "wɔn kwan no"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "wɔn ti so"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "bɛto"
+    }
+  ],
+  "timestamp": "2026-09-16T00:36:06.853027561Z",
+  "model": "glm-5.3"
+}

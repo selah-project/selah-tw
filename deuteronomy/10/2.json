@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na mɛtwerɛ nkabua no so ⟨את⟩ nsɛm a na ɛwɔ nkabua a ɛdi kan no so, deɛ wobubuu no; na fa to adaka no mu.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Na mɛtwerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "nkabua no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "na ɛwɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "nkabua"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "a ɛdi kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wobubuu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "na fa to"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "adaka no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:07.152241688Z",
+  "model": "glm-5.3"
+}

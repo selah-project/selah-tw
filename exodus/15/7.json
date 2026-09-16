@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na w'ahemfo kɛseɛ mu na wode wɔn a wɔsɔre tia wo tu gui; wode wo abufuo bɔne a ɛkye wɔn sɛ mmoadan.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "na w'... kɛseɛ mu"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "ahemfo (kɛseɛ)"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "wode ... tu gui"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "wɔn a wɔsɔre tia wo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "wode ... bɔne"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "wo abufuo"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "ɛkye wɔn"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sɛ mmoadan"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:51.018905336Z",
+  "model": "glm-5.3"
+}

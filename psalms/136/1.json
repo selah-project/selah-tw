@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Da Yawe ase, ɛfiri sɛ ⟨ɔyɛ⟩ papa, ɛfiri sɛ ne hesed tena hɔ daa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Da Yawe ase"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:11.186230684Z",
+  "model": "glm-5.3"
+}

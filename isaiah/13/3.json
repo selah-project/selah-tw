@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Me, mahyɛ me akronkronfoɔ ase; na mfrɛ me akokodifoɔ ma me bufuo, me anuonyam mu apempemsifoɔ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mahyɛ ... ase"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "me akronkronfoɔ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mfrɛ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "me akokodifoɔ"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "ma me bufuo"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "apempemsifoɔ"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "me anuonyam mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:45:44.866364431Z",
+  "model": "glm-5.3"
+}

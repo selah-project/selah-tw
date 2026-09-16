@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Bere a wɔbɛhwehwɛ, na bere a wɔbɛsɛe; bere a wɔbɛhwɛ so, na bere a wɔbɛto agu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "a wɔbɛhwehwɛ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "a wɔbɛsɛe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "a wɔbɛhwɛ so"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na bere"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "a wɔbɛto agu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:53:34.533690428Z",
+  "model": "glm-5.3"
+}

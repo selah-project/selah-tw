@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Moshe kanne sɛnea Yawe hyɛɛ ⟨את⟩ no no, ⟨את⟩ abakan nyinaa a wɔwɔ Israel mma mu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Na Moshe kanne"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Moshe)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakan nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "abakan"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "a wɔwɔ ... mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel mma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:10.764290733Z",
+  "model": "glm-5.3"
+}

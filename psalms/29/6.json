@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ɔma wɔtu mpɔn sɛ anantwie ba — Lebanon ne Sirion, sɛ rewa ba.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Ɔma wɔtu mpɔn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anantwie ba"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ne Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "rewa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:10.238288826Z",
+  "model": "glm-5.3"
+}

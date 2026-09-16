@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Ne bo nso hyɛɛ ogya mu tia ne nnamfo mmiɛnsa no, ɛfiri sɛ wɔanhunu mmuaeɛ, na wɔde ⟨את⟩ Iyob baa fɔmu.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "ne nnamfo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "hyɛɛ ogya mu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ne bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "mmuaeɛ"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "na wɔde ... baa fɔmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    }
+  ],
+  "timestamp": "2026-09-16T03:33:38.395598268Z",
+  "model": "glm-5.3"
+}

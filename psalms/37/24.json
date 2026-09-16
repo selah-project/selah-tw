@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Sɛ ɔtɔ a, wɔrento no hwee; ɛfiri sɛ Yawe de ne nsa si ne nsa so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ɔtɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔren-…-hwee"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "nto no hwee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "si ... so"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:33.452516103Z",
+  "model": "glm-5.3"
+}

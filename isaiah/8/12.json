@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Monka se nkabom bɔne, biribiara a saa aman yi ka; monsurow ⟨את⟩ ne huhu, na monserew mo ho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mm"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "monka se"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "nkabom bɔne"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saa aman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "nkabom bɔne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne huhu"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ne huhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mm"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "momsurow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mm"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "monserew mo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:29.878041046Z",
+  "model": "glm-5.3"
+}

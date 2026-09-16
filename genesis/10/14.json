@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ne ⟨את⟩ Pathrusim ne ⟨את⟩ Kasluhim, na wɔfiri hɔ baeɛ Pelishtim, ne ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "firi hɔ baeɛ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:08.511986807Z",
+  "model": "glm-5.3"
+}

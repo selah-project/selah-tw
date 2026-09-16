@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wɔkum ⟨את⟩ anantwinii no, na wɔde abɔfra no baa Eli nkyɛn.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "na wɔkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anantwinii no"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "anantwinii no"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "na wɔde … baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔfra no"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-15T22:46:46.081836596Z",
+  "model": "glm-5.3"
+}

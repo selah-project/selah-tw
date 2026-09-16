@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na hehatam no tɛtrɛɛtɛm wɔ apueeɛ fam, ɛkɔ apueeɛ, yɛ amo aduonum.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "na tɛtrɛɛtɛm"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hehatam no"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "wɔ fam"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "apueeɛ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ɛkɔ apueeɛ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:29.000337315Z",
+  "model": "glm-5.3"
+}

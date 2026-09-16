@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Me kaa sɛ, “Yawe, hyɛ me mmɔborɔhunu, sa me nkwa, ɛfiri sɛ me bɔɔ wo sobo.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "hyɛ me mmɔborɔhunu"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "me bɔɔ sobo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:20.166000084Z",
+  "model": "glm-5.3"
+}

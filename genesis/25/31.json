@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Nanso Yakob kaa sɛ: Tɔn wo abakan-dibea no mma me nnɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "tɔn"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo abakan-dibea"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "wo abakan-dibea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mma me"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:58.583076019Z",
+  "model": "glm-5.3"
+}

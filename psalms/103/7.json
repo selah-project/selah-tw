@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Ɔdaa n'akwan adi kɔmaa Mose, n'adeyɛ ankasa kɔmaa Israelfoɔ mma.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Ɔdaa ... adi"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "n'akwan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kɔmaa Mose"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kɔmaa ... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "n'adeyɛ ankasa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:09.130892798Z",
+  "model": "glm-5.3"
+}

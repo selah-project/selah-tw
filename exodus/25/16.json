@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wode bɛhyɛ adaka no mu ⟨את⟩ adanseɛ a mɛde ama wo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "na wode bɛhyɛ ... mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adanseɛ no"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adanseɛ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mɛde ama"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:01.010651339Z",
+  "model": "glm-5.3"
+}

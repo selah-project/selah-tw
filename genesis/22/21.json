@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uts, ne ba a ɔdi kan, ne ⟨את⟩ Buz ne nua, ne ⟨את⟩ Kemuel, Aram agya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uts"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ne ba a ɔdi kan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:14.866224820Z",
+  "model": "glm-5.3"
+}

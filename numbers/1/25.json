@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔn nkyerɛwdeɛ, wɔ asafu no mu, Gad no de, yɛ ɔha nnan ne ɔha enum ne apemɔnsia ne aduonum.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "wɔn nkyerɛwdeɛ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wɔ asafu no mu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "enum"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ne ɔha nnan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apemɔnsia"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ne nsia"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ne aduonum"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:12.746633729Z",
+  "model": "glm-5.3"
+}

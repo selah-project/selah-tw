@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Akyire no ɔwoo ɔbaa, na ɔfrɛɛ ⟨את⟩ ne din Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "akyire no"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:26.182199092Z",
+  "model": "glm-5.3"
+}

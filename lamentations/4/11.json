@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Yawe wiee ⟨את⟩ ne bufuo no; ɔguu ne suma mu ɔhyew no, na ɔhyɛɛ ogya mu wɔ Tsiyon, na ɛdii n'ahempɔn no ase.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "wiee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne bufuo no"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "ne bufuo"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "guu"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "suma mu ɔhyew"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ne ho dwodwo"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "na ɔhyɛɛ mu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "wɔ Tsiyon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na ɛdii"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "n'ahempɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T03:51:55.824355882Z",
+  "model": "glm-5.3"
+}

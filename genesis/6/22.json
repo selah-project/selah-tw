@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Noa yɛɛ sɛnea Eloohim hyɛɛ ⟨את⟩ no nyinaa; saa na ɔyɛɛ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Noa)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:35.270458271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Sɛnea esikyare tumi firi hɔ, saa na wɔmfiri hɔ; sɛnea dadua tew ogya anim, saa na abɔnefoɔ nsɛe Eloohim anim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "sɛnea ... tumi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "esikyare"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "firi hɔ"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "sɛnea ... tew"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "dadua"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "nsɛe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:41.602951853Z",
+  "model": "glm-5.3"
+}

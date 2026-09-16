@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na mo bɛhwɛ ⟨את⟩ asɛm yi so, sɛ mmara mmoa wɔ mo ne mo mma so kɔ daa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mo bɛhwɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sɛ mmara mmoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:31.515267077Z",
+  "model": "glm-5.3"
+}

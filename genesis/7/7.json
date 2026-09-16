@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Noach ne ne mma, ne yere, ne mma yerenom, ne no ankasa kɔɔ ⟨את⟩ hyɛn no mu, wɔ dwanee nsuo asuɔ no aseɛ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "yerenom"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne no ankasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "hyɛn no"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wɔ dwanee ... aseɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "asuɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:54.535317284Z",
+  "model": "glm-5.3"
+}

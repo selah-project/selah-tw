@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Nokorɛ sɛ, mmepɔ de aduane ba mma no; na asase so mmoa nyinaa di agorɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokorɛ sɛ"
+    },
+    {
+      "surface": "בול",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "de ... ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mma no"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "di agorɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:40:37.667961169Z",
+  "model": "glm-5.3"
+}

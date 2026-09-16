@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wo nua barima yere afira wonbue; ɔno ne wo nua barima afira.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "afira"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua barima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "won-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bue"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "afira"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua barima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:29.087470020Z",
+  "model": "glm-5.3"
+}

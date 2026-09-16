@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɔhene no kaa kyerɛɛ wɔn sɛ: Nkontommu na mebɔeɛ, na me honhom yɛɛ basabasa sɛ menim ⟨את⟩ nkontommu no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ wɔn sɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene no"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "nkontommu"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "na mebɔeɛ"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "na ... yɛɛ basabasa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "me honhom"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sɛ menim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkontommu no"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "nkontommu no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:06:02.704029434Z",
+  "model": "glm-5.3"
+}

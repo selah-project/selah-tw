@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɔwoo mma mma no: ⟨את⟩ Yeush ne ⟨את⟩ Shemaryah ne ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mma no"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Shemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:46.613365687Z",
+  "model": "glm-5.3"
+}

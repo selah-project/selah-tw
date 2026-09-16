@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na obi a ɔte ⟨את⟩ shophar no nne, na ɔmmɔ kɔkɔ, sɛ sekan ba na ɛfa no a, ne mogya bɛda ne tirim.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "na ɔte"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "obi a ɔte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shophar no nne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shophar no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔm"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mmɔ kɔkɔ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sekan"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "fa no"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ne mogya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ne tirim"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛda"
+    }
+  ],
+  "timestamp": "2026-09-16T05:35:06.491004065Z",
+  "model": "glm-5.3"
+}

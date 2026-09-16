@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 143,
+  "translation": "Mizmor ma Dawid: Yawe, tie me mpaeɛbɔ, ma wo aso ntew wɔ m'apɛsɛdeɛ ho; wɔ wo nokwasɛm mu bu m'asɛm, na wɔ wo nteaseɛ mu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpaeɛbɔ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ma wo aso ntew"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "m'apɛsɛdeɛ"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "wɔ wo nokwasɛm mu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "bu m'asɛm"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "wɔ wo nteaseɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:32.083674652Z",
+  "model": "glm-5.3"
+}

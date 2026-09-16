@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Yawe, yɛn Eloohim, awurafoɔ a wɔnyɛ wo dii yɛn so, nanso wɔ wo mu nko ara na yɛkae wo din.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "dii yɛn so"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "awurafoɔ"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "a wɔnyɛ wo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo mu"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "yɛkae"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:31.517221290Z",
+  "model": "glm-5.3"
+}

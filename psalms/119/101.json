@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wɔ akwan bɔne nyinaa mu na mesii me nan ase, na mɛbɔ wo asɛm no ho ban.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "akwan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "mesii ... ase"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "me nan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "mɛbɔ ... ho ban"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wo asɛm no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:43.271014422Z",
+  "model": "glm-5.3"
+}

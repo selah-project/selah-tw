@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Na ɔbɛdi aman so firi ɛpo so kɔsi ɛpo so, na firi asuo no so kɔsi asase n'ahenkuro.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Na ɔbɛdi ... so"
+    },
+    {
+      "surface": "מים",
+      "gloss": "firi ɛpo so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ɛpo so"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "na firi asuo no so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "n'ahenkuro"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:03.223785469Z",
+  "model": "glm-5.3"
+}

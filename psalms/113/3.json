@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Firi anɔpa a owia bɔne bae de kɔsi ɛkɔtɔ mu, Yawe din wɔ kanyanɛ.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "firi ... bae"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ɛkɔtɔ mu"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "wɔ kanyanɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:47.635515460Z",
+  "model": "glm-5.3"
+}

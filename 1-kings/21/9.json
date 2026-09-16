@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɔtwerɛɛ wɔ nkrataa no mu se: Frɛ ɔkɔm, na ma ⟨את⟩ Nabot tena nnipa no anim.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Na ɔtwerɛɛ"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "wɔ nkrataa no mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Frɛ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ɔkɔm"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "na ma … tena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:24:27.934305405Z",
+  "model": "glm-5.3"
+}

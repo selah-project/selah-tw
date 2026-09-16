@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe, sɛnea m'atamfoɔ dɔɔso! Dodoɔ na wɔsɔre tia me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "wɔsɔre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:46.485873450Z",
+  "model": "glm-5.3"
+}

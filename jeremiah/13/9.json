@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Sɛ́ Yawe ka no: saa ara na mɛsɛe ⟨את⟩ Yehuda ahomasoɔ ne ⟨את⟩ Yerusalem ahomasoɔ kɛseɛ no.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛ́"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "mɛsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda ahomasoɔ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ahomasoɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem ahomasoɔ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ahomasoɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "kɛseɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:30.734003905Z",
+  "model": "glm-5.3"
+}

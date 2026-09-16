@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Wɔn akoma mu adwene ne sɛ wɔn afie bɛtena hɔ daa, na wɔn atenaeɛ ma nkyirimma ne nkyirimma; wɔtoo wɔn din wɔ nsase so.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "wɔn akoma mu adwene"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "wɔn afie"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "wɔn atenaeɛ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ma nkyirimma"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ne nkyirimma"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wɔtoo ... din"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "wɔn din"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "so"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "nsase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:34.072721844Z",
+  "model": "glm-5.3"
+}

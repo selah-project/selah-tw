@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ɛno nti, ɛdua asase no so, na wɔ a wɔte mu no ayɛ bɔnefoɔ; ɛno nti, wɔ a wɔte asase so no hyɛe, na nnipa kakraa bi na wɔka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɛno nti (fa)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɛno nti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɛdua"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "ayɛ bɔnefoɔ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔ a wɔte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛno nti (fa)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɛno nti"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "hyɛe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔ a wɔte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "wɔka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "kakraa bi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:47:31.972582253Z",
+  "model": "glm-5.3"
+}

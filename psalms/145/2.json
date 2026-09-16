@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Da biara mɛhyira wo, na mɛkamapɛ wo din kɔ daa, nnɔnse.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "biara mu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "mɛhyira wo"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "na mɛkamapɛ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ daa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nnɔnse"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:29.724728034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Hwehwɛ Yawe berɛ a wɔbɛhunu no no; frɛ no berɛ a ɔbɛn no.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Hwehwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "berɛ a wɔbɛhunu no no"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "frɛ no"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ɔbɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:46.782194531Z",
+  "model": "glm-5.3"
+}

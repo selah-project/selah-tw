@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na berɛ bi sii: sɛ Amon mma ko tiaa Yisraɛl a, Gilɛad mpanimfoɔ kɔɔ hɔ sɛ wɔbɛfa Yifta ⟨את⟩ wɔ Tob asase mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na berɛ bi sii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "koa tiaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wɔkɔɔ hɔ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sɛ wɔbɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yifta"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "wɔ ... asase mu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tob"
+    }
+  ],
+  "timestamp": "2026-09-15T22:40:36.367312685Z",
+  "model": "glm-5.3"
+}

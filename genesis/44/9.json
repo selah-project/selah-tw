@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Deɛ wɔbɛhunu ⟨את⟩ no sɛ ɔwɔ wo akɔfoɔ mu, ɔmma; na yɛn nso yɛbɛyɛ me wura akɔfoɔ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "wɔbɛhunu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no so",
+      "marks": "deɛ wɔbɛhunu no"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "wo akɔfoɔ mu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ɔmma"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na yɛn nso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "yɛbɛyɛ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "akɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:29.084603035Z",
+  "model": "glm-5.3"
+}

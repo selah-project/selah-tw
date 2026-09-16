@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Yɛ me ɔbo a ɛyɛ me fie a mede bra hɔ daa; wo na woahyɛ sɛ wɔbɛgye me, ɛfiri sɛ wo ne me ɔbotan ne me ban.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ɔbo"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "a ɛyɛ me fie"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a mede bra"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "woahyɛ"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "sɛ wɔbɛgye me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "me ɔbotan"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ne me ban"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:01.998010525Z",
+  "model": "glm-5.3"
+}

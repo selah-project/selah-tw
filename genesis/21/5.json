@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Abraham yɛɛ aben mfeɛ ɔha berɛ a wɔwoo ⟨את⟩ Yitschak ne ba no maa no.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "aben"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "berɛ a wɔwoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:09.236332816Z",
+  "model": "glm-5.3"
+}

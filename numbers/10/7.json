@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na sɛ mobɔbɔ ⟨את⟩ nhyiam no bom a, mobɔ abɛ, na mommma asɛmberɛ.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "na sɛ mobɔbɔ ... bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyiam no"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nhyiam no"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "mobɔ abɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mommma"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "asɛmberɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:37.295967696Z",
+  "model": "glm-5.3"
+}

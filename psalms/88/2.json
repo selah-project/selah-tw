@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Yawe, Eloohim a woakyɛ me nkwatannya, da ne anadwo metee wo anim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "a woakyɛ me nkwatannya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "metee"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo mu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "wo anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:37.142727482Z",
+  "model": "glm-5.3"
+}

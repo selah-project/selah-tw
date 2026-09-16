@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "\"Wo agya de ⟨את⟩ yoke dene sɛee yɛn; na wo nso seesei, ma wo agya ayɔnkofa dene a ɔde sɛee yɛn, ne n'adwenemden yoke a ɔtoaa yɛn so no, ayɛ hare — na yɛbɛsom wo.\"",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Wo agya"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "dene sɛee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoke"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "yoke ... yɛn"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo nso"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "seesei"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ma ... ayɛ hare"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ayɔnkofa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "dene"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ne ... yoke"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "adwenemden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔtoaa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "na yɛbɛsom wo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:19:16.507342419Z",
+  "model": "glm-5.3"
+}

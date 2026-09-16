@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Kyerɛ yɛn Yawe, wo ⟨hesed⟩ (adɔeɛ kronkron), na ma wo nkoyie ma yɛn.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Kyerɛ yɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo ⟨hesed⟩"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "na wo nkoyie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:55.080638239Z",
+  "model": "glm-5.3"
+}

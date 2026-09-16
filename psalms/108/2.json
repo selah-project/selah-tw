@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "Me akomaagyina pintinn, Eloohim; mɛbɔ nnwom, na mɛbɔ mizmor, ne me nkɛntɛnso nso.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "agyina pintinn"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mɛbɔ nnwom"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "na mɛbɔ mizmor"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nso"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "me nkɛntɛnso"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:25.485052974Z",
+  "model": "glm-5.3"
+}

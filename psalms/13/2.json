@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Kɔsi sɛɛn, Yawe, na wo werɛ befiri me — daa? Kɔsi sɛɛn na wobɛsuma wo anim ⟨את⟩ firi me ho?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kɔsi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sɛɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "wo werɛ befiri me"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "daa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kɔsi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sɛɛn"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "wobɛsuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo anim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:48.479677731Z",
+  "model": "glm-5.3"
+}

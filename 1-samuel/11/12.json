@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Dɔm no kaa kyerɛɛ Shemuel sɛ, Hwan na ɔka sɛ, Shaul bɛdi yɛn so hene? Momfa nnipa no bra, na yɛnwuw wɔn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dɔm no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "na ɔka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bɛdi hene"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "momfa … bra"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "na yɛnwuw wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:29.997745436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Wɔasɛe wɔn ho, akoma-den abirekyiefoɔ no; wɔda wɔn da, na ahoɔden mmarima biara anni wɔn nsa mu.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "wɔasɛe wɔn ho"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "abirekyiefoɔ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma-den"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "wɔda"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "wɔn da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... anni"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "anni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:24.569314973Z",
+  "model": "glm-5.3"
+}

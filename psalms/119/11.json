@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Me akoma mu mekɔkɔm wo asɛm; na memma bɔne nto wo.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "me akoma mu"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "mekɔkɔm"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "wo asɛm"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "memma"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nto wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:55.362932917Z",
+  "model": "glm-5.3"
+}

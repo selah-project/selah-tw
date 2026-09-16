@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Sɛ ɔsebɔ na ɔde brɛ n'afɔre ⟨את⟩ no, na ɔde bɛbrɛ ⟨את⟩ no Yawe anim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ɔsebɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ɔde brɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'afɔre"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "n'afɔre"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "na ɔde bɛbrɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (ɔsebɔ)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:49.896222318Z",
+  "model": "glm-5.3"
+}

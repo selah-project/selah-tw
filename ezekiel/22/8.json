@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Wohwɛ me nneɛma kronkron soɔ kwa, na wo defiri me ⟨את⟩ Sabat da.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "me nneɛma kronkron"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "wohwɛ ... soɔ kwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabat da"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabat da"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wo defiri"
+    }
+  ],
+  "timestamp": "2026-09-16T00:44:00.822461934Z",
+  "model": "glm-5.3"
+}

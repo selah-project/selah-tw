@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yawe asɛm baa Yona, Amitai ba, hɔ, se:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "baa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hɔ, se (baa...hɔ)"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-16T01:16:46.540015026Z",
+  "model": "glm-5.3"
+}

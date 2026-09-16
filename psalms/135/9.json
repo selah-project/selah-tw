@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Ɔsomasaa nsɛnkyerɛnne ne nsɛnkyerɛnne-kɛse wɔ ⟨wo⟩ mu, Misraim, wɔ Farao ne n'akoafoɔ nyinaa so.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ɔsomasaa"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ne nsɛnkyerɛnne-kɛse"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "wɔ ⟨wo⟩ mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "wɔ Farao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:45.764845568Z",
+  "model": "glm-5.3"
+}

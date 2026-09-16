@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Monsɔ Yawe, ne nnwuma nyinaa, wɔ n'ahennie mmea nyinaa mu. Me werɛ, sɔ Yawe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Monsɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ne nnwuma"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ nyinaa mu"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "mmea"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "n'ahennie"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "sɔ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Me werɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:17.882035405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 13:10",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Amnon ka kyerɛɛ Tamar sɛ: Fa aduane no kɔ dan no mu, na mede bɛfiri wo nsa mu. Na Tamar faa ⟨את⟩ nkuku no a ɔyɛɛ no, de kɔmaa Amnon a ɔyɛ ne nua, wɔ dan no mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "fa ... kɔ"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "aduane no"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "dan no mu"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "na mede bɛfiri"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "wo nsa mu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkuku no"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "nkuku no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "de kɔmaa"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "wɔ dan no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:05:51.597401585Z",
+  "model": "glm-5.3"
+}

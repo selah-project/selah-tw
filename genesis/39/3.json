@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Ne wura no hunuu sɛ Yawe ne ⟨את⟩ no wɔ hɔ, na deɛ ɔyɛ biara Yawe maa ɛtoaa so wɔ ne nsa mu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Ne wura no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne no"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na deɛ ... biara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(relative)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "maa ɛtoaa so"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "wɔ ne nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:45.754136755Z",
+  "model": "glm-5.3"
+}

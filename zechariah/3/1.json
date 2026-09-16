@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔkyerɛɛ me ⟨את⟩ Yehoshua ɔsɔfoɔ kɛseɛ no gyinaa Yawe bɔfoɔ no anim, na ⟨the⟩ Saten nso gyinaa ne nsa nifa so de ɔbɛtia no.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ɔkyerɛɛ me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "bɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "na Saten"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "de ɔbɛtia no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:26:51.432783843Z",
+  "model": "glm-5.3"
+}

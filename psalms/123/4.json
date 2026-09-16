@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 123,
+  "translation": "Yɛn nkwa adɔɔ so dodo; wɔn a honhom dai no fuw, ne ahantanfoɔ asɛmpɛfuafoɔ asetɔ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "adɔɔ so"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "yɛn nkwa"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "fuw"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "wɔn a honhom dai no"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "asetɔ"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ahantanfoɔ asɛmpɛfuafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:18.643382229Z",
+  "model": "glm-5.3"
+}

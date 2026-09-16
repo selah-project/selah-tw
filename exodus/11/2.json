@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ka wɔ nnipa no aso mu, mepa wo kyɛw: onya barima biara nsisa n'adamfo ⟨את⟩, na ɔbea biara nso nsisa ne yɔnkonomma ⟨את⟩, sɛ dwetɛ nnwinnadeɛ ne sika kɔkɔɔ nnwinnadeɛ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "aso mu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "na wɔnsisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onya barima"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n'adamfo"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ne ɔbea"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ne yɔnkonomma"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nnwinnadeɛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nnwinnadeɛ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:49.450717512Z",
+  "model": "glm-5.3"
+}

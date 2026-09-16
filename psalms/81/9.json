@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Tie me nkorɔfoɔ, na mɛbɔ mo adanseɛ: Yisraɛl, sɛ wote me asɛm a,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "na mɛbɔ mo adanseɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "wote"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:55.628276352Z",
+  "model": "glm-5.3"
+}

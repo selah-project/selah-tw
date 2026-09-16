@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Wɔbɛto wo papa a ɛdɔɔso no ho dawuru, na wɔbɛto wo nteaseɛ ase dwom.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ho dawuru"
+    },
+    {
+      "surface": "רב",
+      "gloss": "a ɛdɔɔso"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "wo papa"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "wɔbɛto"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "wo nteaseɛ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "wɔbɛto dwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:01.268532383Z",
+  "model": "glm-5.3"
+}

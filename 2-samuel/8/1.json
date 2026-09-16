@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Akyire yi, ɛbaa sɛ Dawid bɔɔ ⟨את⟩ Filistiafoɔ, na ɔbrɛɛ wɔn ase; Dawid gyee ⟨את⟩ Metheg-Ammah (amma no mpoboa) fii Filistiafoɔ nsam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiafoɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiafoɔ"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ɔbrɛɛ wɔn ase"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ɔgyee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metheg-Ammah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Metheg (mpoboa)"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "Amma (amma no)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fii nsam"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:34.564416564Z",
+  "model": "glm-5.3"
+}

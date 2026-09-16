@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔ Gat mɔbra hwee, na mo nnsusu awu da; wɔ Bet-Le-Afra mu mewɔ me ho guu pɛpransa mu.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "wɔ Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "mɔbra"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "susu awu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "susu awu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Bet-Le-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pɛpransa"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "mewɔ me ho guu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:17:26.775163555Z",
+  "model": "glm-5.3"
+}

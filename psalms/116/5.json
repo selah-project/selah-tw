@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Yawe yɛ adom-foɔ ne atemmuo-foɔ, na yɛn Eloohim yɛ mmɔborɔhunu-foɔ.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "adom-foɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ne atemmuo-foɔ"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mmɔborɔhunu-foɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:50.292711357Z",
+  "model": "glm-5.3"
+}

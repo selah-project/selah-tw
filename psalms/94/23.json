@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "⟨Wɔ⟩bɛsan de wɔn bɔne no aba wɔn so, na wɔde wɔn bɔne asɛe wɔn; Yawe, yɛn Eloohim, bɛsɛe wɔn.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bɛsan de ... aba wɔn so"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn bɔne (אונם)"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "wɔn bɔne"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "na wɔ de wɔn bɔne"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "bɛsɛe wɔn"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "bɛsɛe wɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:19.123434247Z",
+  "model": "glm-5.3"
+}

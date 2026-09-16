@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Na ɔsomaee n'nuanom, na wɔkɔɔ; na ɔka kyerɛɛ wɔn sɛ: “Mommyɛ mogya-so wɔ akwan no so.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na ɔsomaee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'nuanom"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'nuanom"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na wɔkɔɔ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔka kyerɛɛ wɔn"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mom—"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "—myɛ mogya-so"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ akwan no so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:39:52.102571941Z",
+  "model": "glm-5.3"
+}

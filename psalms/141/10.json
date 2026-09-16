@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 141,
+  "translation": "Bɔnefoɔ mmɛto wɔn ankasa akwanhyɛ mu nyinaa bum; na me, makɔ so kɔsii sɛ metwa mu.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "mmɛto"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "wɔn akwanhyɛ mu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nyinaa bum"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "metwa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:50.209982304Z",
+  "model": "glm-5.3"
+}

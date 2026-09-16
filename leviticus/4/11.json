@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ne ⟨את⟩ ɔparesi no honamano ne ⟨את⟩ ne nam nyinaa, ne ne ti, ne ne nan, ne n'emu nyinaa ne n'eɛ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "honamano"
+    },
+    {
+      "surface": "עור",
+      "gloss": "honamano"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ɔparesi no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne nam nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ne nam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "nan"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ne n'emu"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ne n'eɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:49.841960701Z",
+  "model": "glm-5.3"
+}

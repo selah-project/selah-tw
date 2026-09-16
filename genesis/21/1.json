@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Yawe hwɛɛ ⟨את⟩ Sara so sɛnea ɔkaeɛ, na Yawe yɛɛ maa Sara sɛnea ɔde asɛm kaaeɛ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "hwɛɛ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔkaeɛ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "maa Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔde asɛm kaaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:40.481623838Z",
+  "model": "glm-5.3"
+}

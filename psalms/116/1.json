@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Medɔ Yawe, ɛfiri sɛ ɔte ⟨את⟩ me nne, me mpaebɔ.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Medɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ɔte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nne"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "me mpaebɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:52.361029382Z",
+  "model": "glm-5.3"
+}

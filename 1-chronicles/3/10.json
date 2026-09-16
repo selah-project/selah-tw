@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Shelomoh ba ne Rehabeam, Abiya ne ba, Asa ne ba, Yehoshafat ne ba.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Na ... ba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:28.140703944Z",
+  "model": "glm-5.3"
+}

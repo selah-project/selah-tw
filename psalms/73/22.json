@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Na me de, mɛyɛɛ mmarima-mmu, na manim biribiara; maa mmɔfra-mmoa ama wo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me de"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mɛyɛɛ mmarima-mmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na … da"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "manim"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mmɔfra-mmoa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ama wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:38.264706796Z",
+  "model": "glm-5.3"
+}

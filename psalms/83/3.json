@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Efisɛ hwɛ, wo atamfoɔ no de dede bɔ kasa, na wɔn a wɔkye wo ni atua wɔn ti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "wo atamfoɔ"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "de dede bɔ kasa"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "na wɔn a wɔkye wo ni"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "atua"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "wɔn ti"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:19.075680495Z",
+  "model": "glm-5.3"
+}

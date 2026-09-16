@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Deɛ wɔn ano ka no, nkontompo na ɛyɛ; na wɔn nsa nifa yɛ nsa a ɛtoro.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "wɔn ano"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "nkontompo"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "wɔn nsa nifa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a ɛtoro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:09.415137179Z",
+  "model": "glm-5.3"
+}

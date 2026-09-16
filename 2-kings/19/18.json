@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na wɔde ⟨את⟩ wɔn anyame no guu ogya mu; ɛnyɛ anyame wɔyɛ, na ɛyɛ nnipa nsa adwuma — dua ne abo; enti wɔsɛee wɔn.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Na wɔde ... guu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn anyame no"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn anyame"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛnyɛ ... wɔyɛ (hwɛ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "anyame"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ne abo"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "enti wɔsɛee wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:25.060725838Z",
+  "model": "glm-5.3"
+}

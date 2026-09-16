@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Ada woo ⟨את⟩ Yabal; ɔno na ɔyɛɛ agyapadeɛ — wɔn a wɔtena ahemfie mu ne wɔn a wɔwɔ mmoa pii — agya.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wɔn a wɔtena"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahemfie mu"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "wɔn a wɔwɔ mmoa pii"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:43.451666286Z",
+  "model": "glm-5.3"
+}

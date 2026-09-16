@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ arnebet, ɛfiri sɛ ɔde gerah san ba, na ɔmpae parsa mu, ɔyɛ ⟨ntam⟩ ⟨he⟩ no ma mo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arnebet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "arnebet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ɔsan de ba"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "he"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "na parsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "ɔmpae mu"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "he"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:34.273720369Z",
+  "model": "glm-5.3"
+}

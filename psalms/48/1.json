@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Dwom, ayɛdwom, de Korah mma dea.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Dwom"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ayɛdwom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de ... mma dea"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:33.297442003Z",
+  "model": "glm-5.3"
+}

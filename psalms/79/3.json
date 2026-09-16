@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Wɔguu wɔn mogya sɛ nsuo, Yerusalɛm ahye so nyinaa, na obiara nni hɔ a ɔbɛsie wɔn.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "wɔguu"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "wɔn mogya"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sɛ nsuo"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ahye so nyinaa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalɛm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na obiara nni hɔ"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "a ɔbɛsie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:51.074516623Z",
+  "model": "glm-5.3"
+}

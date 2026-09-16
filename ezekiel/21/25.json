@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Kwan na wobɛsi ama anantwie de aba ⟨את⟩ Rabbah, Ammon mma dea, ne ⟨את⟩ Yuda a ɔwɔ Yerusalem a wɔabɔ ne ho ayɛ ban.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "wobɛsi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "de aba"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem mu"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "a wɔabɔ ne ho ayɛ ban"
+    }
+  ],
+  "timestamp": "2026-09-16T00:45:40.129637384Z",
+  "model": "glm-5.3"
+}

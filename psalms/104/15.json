@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Na nsã ma onipa akoma di agorɔ, na ngo ma n'anim yɛ hyerɛn, na duane si onipa akoma mu.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Na nsã"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ma ... di agorɔ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "ma ... yɛ hyerɛn"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "na duane"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "si ... mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:42.747110115Z",
+  "model": "glm-5.3"
+}

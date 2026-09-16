@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Deɛ ɔhwɛ nnwom so de; Korah mma nnwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔhwɛ nnwom so de"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nnwom"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:53.654558623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ anantwin no, ne ⟨את⟩ ne werɛ, ne ⟨את⟩ ne nam, ne ⟨את⟩ ne aham, ɔhyɛɛ no ogya mu wɔ ɔkampɔ no akyi, sɛnea Yawe hyɛɛ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anantwin no"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "anantwin no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne werɛ"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ne werɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nam"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ne nam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne aham"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ne aham"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ɔhyɛɛ no ogya mu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ɔkampɔ no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:14.142494239Z",
+  "model": "glm-5.3"
+}

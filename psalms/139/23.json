@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Hwehwɛ me mu, El, na hu me akoma; sɔ me hwɛ na hu me nnisoɔdwene.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "hwehwɛ me mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na hu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "sɔ me hwɛ"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na hu"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "me nnisoɔdwene"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:01.665632400Z",
+  "model": "glm-5.3"
+}

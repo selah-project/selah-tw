@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Sɛdeɛ me nkonimdie bɛto wo ayɛ, na ɛnnyɛ basaa — Yawe, me Eloohim, meda w'ase daa.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "bɛto wo ayɛ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "me nkonimdie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnnyɛ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "basaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "meda w'ase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:06.328389784Z",
+  "model": "glm-5.3"
+}

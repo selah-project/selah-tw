@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Anwummerɛ ne awia ne mfinimfini da no mframa bɛyɛ m'adwene, na mɛbɔ m'awo, na ɔtie me nne.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Anwummerɛ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ne awia"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ne mfinimfini da"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "bɛyɛ m'adwene"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "na mɛbɔ m'awo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na ɔtie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:02.091232731Z",
+  "model": "glm-5.3"
+}

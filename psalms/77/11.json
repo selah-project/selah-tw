@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Na meka sɛ: ɛyɛ m'ahoyera — Elyon no nsa nifa nsakraeɛ.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "na meka sɛ"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "m'ahoyera"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "nsakraeɛ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:38.525953090Z",
+  "model": "glm-5.3"
+}

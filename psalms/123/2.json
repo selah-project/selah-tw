@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 123,
+  "translation": "Hwɛ, sɛdeɛ akodafoɔ ani hwɛ wɔn wura nsa so, ne sɛdeɛ aboa-baawa ani hwɛ ne buafo nsa so, saa ara na yɛn ani hwɛ Yawe, yɛn Eloohim, kɔsi sɛ ɔbɛyɛ yɛn adɔeɛ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "sɛdeɛ ... ani"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "akodafoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "wɔn wura"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "ne sɛdeɛ ... ani"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "aboa-baawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ne buafo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "yɛn ani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi sɛ"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "ɔbɛyɛ yɛn adɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:18.639010923Z",
+  "model": "glm-5.3"
+}

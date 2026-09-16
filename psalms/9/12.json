@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Monnom dwom ma Yawe a ɔtena Zion; monkanka ne nneyɛeɛ wɔ aman mu.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "monnom dwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ɔtena"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "monkanka"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "wɔ aman mu"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ne nneyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:52.290795540Z",
+  "model": "glm-5.3"
+}

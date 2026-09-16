@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Hwan ne saa ɔhene a ɔwɔ animuonyam yi? Yawe — ɔdenfoɔ na ɔdenimfoɔ; Yawe, ɔdenimfoɔ wɔ ɔko mu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "saa … yi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "a ɔwɔ animuonyam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "ɔdenfoɔ"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "na ɔdenimfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ɔdenimfoɔ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wɔ ɔko mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:57.704508898Z",
+  "model": "glm-5.3"
+}

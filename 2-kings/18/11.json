@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Asur ɔhene tuu ⟨את⟩ Yisraɛl foɔ kɔɔ Asuria, na ɔtenaa wɔn wɔ Halah, ne Habor asubɔnten a ɛwɔ Gozan so, ne Media nkuro mu.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "tuu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "kɔɔ Asuria"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "na ɔtenaa wɔn wɔ"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ne Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ne nkuro"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Media"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:12.424600179Z",
+  "model": "glm-5.3"
+}

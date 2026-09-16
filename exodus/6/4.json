@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na me apam no nso ahyɛ so den wɔ ⟨את⟩ wɔn ho, sɛ mɛma wɔn ⟨את⟩ Kenan asase, ⟨את⟩ asase a wɔtetee so sɛ ahɔhoɔ, baabi a wɔtete mu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na ... nso"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "mahyɛ so den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam no"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn ho"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ mɛma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan asase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase a wɔtetee so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "a wɔtetee so sɛ ahɔhoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "wɔtete"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:07.530181939Z",
+  "model": "glm-5.3"
+}

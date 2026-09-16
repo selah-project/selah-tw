@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Wɔ asase no mu no, Ashur bae, na ɔsii ⟨את⟩ Nineveh, ne ⟨את⟩ Rechobot-Ir, ne ⟨את⟩ Kalach.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Wɔ ... mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bae"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na ɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineveh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (kurow)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:05.093145578Z",
+  "model": "glm-5.3"
+}

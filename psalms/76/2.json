@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Wɔ Yuda no mu wɔahu Eloohim; wɔ Yisrael no mu ne din yɛ kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "wɔahu"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "wɔ Yuda no mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wɔ Yisrael no mu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yɛ kɛseɛ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:32.013314417Z",
+  "model": "glm-5.3"
+}

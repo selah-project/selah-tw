@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 150,
+  "translation": "Modinnoɔ wɔ ne ntoboaho mu; modinnoɔ sɛnea ne kɛseɛ dɔɔso.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "modinnoɔ"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "wɔ ne ntoboaho mu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "modinnoɔ"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sɛnea ... dɔɔso"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ne kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:13.214383396Z",
+  "model": "glm-5.3"
+}

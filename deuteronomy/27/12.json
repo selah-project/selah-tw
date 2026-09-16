@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Eyinom bɛgyina ahyira ⟨את⟩ ɔman no wɔ Grizim bepɔ so, wɔ moatwa ⟨את⟩ Yordan no: Shimeon, ne Lɛwi, ne Yehuda, ne Yisakar, ne Yosef, ne Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Eyinom"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bɛgyina"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ahyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ...so"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Grizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "wɔ moatwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan no"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ne Lɛwi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ne Yehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "ne Yisakar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ne Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ne Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:20.917633708Z",
+  "model": "glm-5.3"
+}

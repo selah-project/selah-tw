@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Wɔ Eloohim mu meda ne asɛm ase; wɔ Eloohim mu mayɛ me ho ayɛ; mɛnsuro; deɛ honam betumi ayɛ me sɛn?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "wɔ Eloohim mu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "meda ... ase"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ne asɛm"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "wɔ Eloohim mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mayɛ me ho ayɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mɛn-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "betumi ayɛ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "honam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:36.798977469Z",
+  "model": "glm-5.3"
+}

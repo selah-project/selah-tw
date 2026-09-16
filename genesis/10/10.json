@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na n'ahennie ahyɛaseɛ ne Babel, Erech, Akad ne Kalneh, wɔ Shinar asase so.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Na ... ne"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ahyɛaseɛ"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "n'ahennie"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Erech"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asase so"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:05.092507720Z",
+  "model": "glm-5.3"
+}

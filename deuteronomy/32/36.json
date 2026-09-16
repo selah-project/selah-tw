@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 32:36",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "ɛfiri sɛ Yawe bɛbu ne manfoɔ animuonyam, na ɔbɛda ase ama n'akoafoɔ, ɛberɛ a ohunu sɛ wɔn nsa ahoɔden awu, na obiara nka — de wɔasɔ anaasɛ de wɔagya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bɛbu animuonyam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne manfoɔ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoafoɔ"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "bɛda ase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛberɛ a"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ohunu sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אזלת",
+      "gloss": "awu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa ahoɔden"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "obiara nka"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "de wɔasɔ"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "de wɔagya"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:28.466262357Z",
+  "model": "glm-5.3"
+}

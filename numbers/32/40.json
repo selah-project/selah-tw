@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Mose maa ⟨את⟩ Gilad no maa Makir, Menashe ba, na ɔtenaa mu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad no"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad no"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "maa Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tenaa mu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:41:43.278921235Z",
+  "model": "glm-5.3"
+}

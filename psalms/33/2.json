@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Kamfo Yawe wɔ kinnor mu; sum dwom ma no wɔ nevel asɔr du mu.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "kamfo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wɔ kinnor mu"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "wɔ nevel mu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asɔr du"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "sum dwom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:55.691543825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na ɔde ne bɔneguadiɛ ⟨את⟩ bɛba Yawe nkyɛn — oguan a ɛnnipa hɔ wɔ nkyerɛkyerɛmu, a ɔfiri nnwan mu, sɛ wo susu so no, sɛ asotwe-guadiɛ, de kɔ ɔsɔfoɔ nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne bɔneguadiɛ (אשמו)"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ne bɔneguadiɛ"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe nkyɛn"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oguan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "a ɛnnipa hɔ wɔ nkyerɛkyerɛmu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a ɔfiri"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nnwan mu"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "sɛ wo susu so"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "sɛ asotwe-guadiɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de kɔ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:51.607020795Z",
+  "model": "glm-5.3"
+}

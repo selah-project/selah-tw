@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 75,
+  "translation": "Deɛ ɔdi nnwom no anim; Ɛnhwera; Asaf asafo-asɛm; nnwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔdi nnwom no anim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛnhwera (nni — nkyerɛkyerɛ)"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "hwera"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asafo-asɛm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ma Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nnwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:20.676706500Z",
+  "model": "glm-5.3"
+}

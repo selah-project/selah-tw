@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "Kɔsɛ mehunu baabi ama Yawe, adan ama Yakob Otumfoɔ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kɔsɛ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mehunu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "adan"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ama Otumfoɔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:11.377236444Z",
+  "model": "glm-5.3"
+}

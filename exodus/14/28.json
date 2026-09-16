@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na nsuo no san baeɛ, na ɛkataa ⟨את⟩ mmɛre no ne ⟨את⟩ apampam no so — Paro dɔɔso dɔɔso nyinaa a wɔdi wɔn akyi baa po no mu; wonyaa hɔ mmienu, baako mpo nkaa.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Na ... san baeɛ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "na ɛkataa ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmɛre no"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "mmɛre no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "apampam no"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "apampam no"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dɔɔso dɔɔso nyinaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "a wɔbaa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "wɔdi wɔn akyi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "po no mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonyaa hɔ mmienu"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "nkaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:57.855246887Z",
+  "model": "glm-5.3"
+}

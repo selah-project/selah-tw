@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Saul ba no tee sɛ Abner awuwu wɔ Hebron, na ne nsa abrɛ, na Israel nyinaa adi ahoyɛ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "awuwu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "wɔ Hebron"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "abrɛ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "adi ahoyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:49.132990916Z",
+  "model": "glm-5.3"
+}

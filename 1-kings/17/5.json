@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ɔkɔɔ, na ɔyɛɛ sɛnea Yawe asɛm teɛ; na ɔkɔɔ tenaa asubɔnten Kerith so, a ɛwɔ Yordan anim.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛnea ... asɛm teɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tenaa ... so"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "asubɔnten ... so"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:59.108598584Z",
+  "model": "glm-5.3"
+}

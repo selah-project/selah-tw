@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Merajot woo ⟨את⟩ Amarjah, na Amarjah woo ⟨את⟩ Achitub.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "na Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitub"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:58.438153226Z",
+  "model": "glm-5.3"
+}

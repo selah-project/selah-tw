@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Me hevel nna mu no, mahwɛ ⟨את⟩ nea ɛbaa mu nyinaa: treneeni wɔ hɔ a ɔyera wɔ ne trenee mu, na ɔbɔnefoɔ nso wɔ hɔ a ɔtrɛw n'ankasa wɔ ne bɔne mu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nea ɛbaa mu nyinaa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mahwɛ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nna mu"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "me hevel"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "treneeni"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ɔyera"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "wɔ ne trenee mu"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "na ... wɔ hɔ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔbɔnefoɔ"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "ɔtrɛw n'ankasa"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "wɔ ne bɔne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:14.415550257Z",
+  "model": "glm-5.3"
+}

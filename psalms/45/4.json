@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Bɔ wo sekan wo yareso, O ɔko mu ɔdenimfoɔ; wo kɛseyɛ ne wo animuonyam.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "wo sekan"
+    },
+    {
+      "surface": "על",
+      "gloss": "wo ... so"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yareso"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "O ɔko mu ɔdenimfoɔ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "wo kɛseyɛ"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ne wo animuonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:13.842888419Z",
+  "model": "glm-5.3"
+}

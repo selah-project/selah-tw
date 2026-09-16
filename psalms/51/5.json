@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Ɛfiri sɛ m'abɔneɛ no, me ankasa mehunu, na me bɔne no gyina me anim daa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "m'abɔneɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ankasa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mehunu"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "na me bɔne"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:34.032519423Z",
+  "model": "glm-5.3"
+}

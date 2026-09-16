@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Ɛmmɛma wɔn ani ayɛ sum na wɔanhunu, na wɔn aseɛ mmɔ mpokyae da.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ɛmmɛyɛ ... ayɛ sum"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wɔn ani"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "na wɔanhunu"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "na wɔn aseɛ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "da (bere biara)"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "mmɔ mpokyae"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:17.961396381Z",
+  "model": "glm-5.3"
+}

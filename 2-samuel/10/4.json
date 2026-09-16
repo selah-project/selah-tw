@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Enti Hanun faa Dawid asomfoɔ no, ɔtetee ⟨את⟩ wɔn ntarhwɛ fa, watwaa ⟨את⟩ wɔn ntadeɛ no mfã, kɔsii wɔn akyi fam, na ɔsommoo wɔn kɔeɛ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid asomfoɔ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "asomfoɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "tetee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ntarhwɛ fa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ntarhwɛ"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "twaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ntadeɛ"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "wɔn ntadeɛ"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "wɔ mfã"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "wɔn akyi fam"
+    },
+    {
+      "surface": "ושלחם וישלחם",
+      "gloss": "sommoo wɔn kɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:05:03.350897614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Ɛfiri sɛ me nkotodwe ahyɛ ma ɛhyerɛn; biribiara a ɛyɛ den nni me honam mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "me nkotodwe"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ahyɛ ma"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ɛhyerɛn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "...nni hɔ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "biribiara a ɛyɛ den"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "me honam mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:39.008290100Z",
+  "model": "glm-5.3"
+}

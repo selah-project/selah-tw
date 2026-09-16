@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Nkoso atenten yɛ abirekyie dea; nsuboɔ yɛ summyɛ ma okwaninni.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "nkoso"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "atenten"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "abirekyie"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "nsuboɔ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "summyɛ"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "okwaninni"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:02.501501316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Eloohim ɔfrɛe yɛ honhom a abubu; akoma a abubu na adane, Eloohim, wonnbufa.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "ɔfrɛe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "a abubu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "a abubu"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "na adane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "bufa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:24.164111812Z",
+  "model": "glm-5.3"
+}

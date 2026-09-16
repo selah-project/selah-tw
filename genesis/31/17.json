@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Yakob sɔreɛ, na ɔde ⟨את⟩ ne mma ne ⟨את⟩ ne yerefoɔ sii yɔnnɔ so.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔreɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ɔde ... sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne yerefoɔ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ne yerefoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "yɔnnɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:12.204730383Z",
+  "model": "glm-5.3"
+}

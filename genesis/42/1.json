@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Yakob hunuu sɛ aduane wɔ Misraim, na Yakob ka kyerɛɛ n mma no sɛ: Adɛn na mo hwɛ wo ho wo ho?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "n mma no"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "mo hwɛ wo ho wo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:23.781079579Z",
+  "model": "glm-5.3"
+}

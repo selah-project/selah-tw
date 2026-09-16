@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Yawe na ɔsi Yerusalem, na ɔboaboa Israël afɔrefoɔ ano.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "ɔsi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "afɔrefoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "ɔboaboa...ano"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:00.638033365Z",
+  "model": "glm-5.3"
+}

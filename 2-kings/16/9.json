@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔhene a ɔwɔ Ashur no tiee no; na Ashur ɔhene no kɔɔ so kɔɔ Dammasek, na ɔfaa no, na ɔde nnipa no kɔɔ Kir, na ɔkum ⟨את⟩ Retsin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na ɔtiee"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "na ɔkɔɔ so"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammasek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "na ɔfaa no"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "na ɔde nnipa no kɔɔ"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "na ɔkum"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:52.432927565Z",
+  "model": "glm-5.3"
+}

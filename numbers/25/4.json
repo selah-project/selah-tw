@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Yawe kasa kyerɛɛ Mose se: Gye ⟨את⟩ ɔman no akannifoɔ nyinaa, na de ⟨את⟩ wɔn sisi mma Yawe wɔ owia no anim, na Yawe ani-bere a ɛhyee no bɛtwa afi Israel so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "קח",
+      "gloss": "gye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no akannifoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "de wɔn sisi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mma Yawe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owia no"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bɛtwa"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "a ɛhyee"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ani-bere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "afi Israel so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:38:56.789704899Z",
+  "model": "glm-5.3"
+}

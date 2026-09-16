@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Israel ahonyi bɛda adanse wɔ ⟨ne⟩ anim, na Israel ne Efrayim bɛtɔ wɔ wɔn bɔne mu; Yuda nso bɛtɔ wɔ wɔn ho.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "bɛda adanse"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ahonyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "wɔ ne anim"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ne Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bɛtɔ"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "wɔ wɔn bɔne mu"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "bɛtɔ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wɔ wɔn ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:05:49.346056797Z",
+  "model": "glm-5.3"
+}

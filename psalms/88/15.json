@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Adɛn, Yawe, na woto me nkwa gu? Wode wo anim asie firi me ho?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "na woto ... gu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Wode ... asie"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "firi me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:18.946652375Z",
+  "model": "glm-5.3"
+}

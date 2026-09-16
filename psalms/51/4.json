@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Dɔɔso na hwie me me bɔne mu firi me ho; na firi me tetemmɛ mu na wowo me fie.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Dɔɔso"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "hwie me"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "me bɔne mu firi me ho"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "na firi me tetemmɛ mu"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "na wowo me fie"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:20.778901231Z",
+  "model": "glm-5.3"
+}

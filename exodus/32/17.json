@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Yehoshua tee ⟨את⟩ dɔn no wɔ wɔn kɔkɔbɔ mu, na ɔkaa kyerɛɛ Moshe sɛ: \"Dɔn a ɛyɛ ɔko dɔn wɔ asɔrefie no mu.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dɔn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "wɔ wɔn kɔkɔbɔ mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "wɔ asɔrefie no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:13.942364862Z",
+  "model": "glm-5.3"
+}

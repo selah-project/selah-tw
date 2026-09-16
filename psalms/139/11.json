@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Na meka sɛ, ansumhyɛn bɛtumi abɔ me; afei nso anadwo no ayɛ hann atwa me ho ahyia.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "na meka sɛ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ansumhyɛn ara"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ansumhyɛn"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "bɛtumi abɔ me"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "afei nso anadwo no"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ayɛ hann"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "atwa me ho ahyia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:19.910336676Z",
+  "model": "glm-5.3"
+}

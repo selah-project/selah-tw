@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Deɛ wɔbɔ no abaso, Yawe, na mɛfrɛ no; na mesɔre fii me atamfoɔ nsam.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "deɛ wɔbɔ no abaso"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mɛfrɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na firi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "me atamfoɔ"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "mesɔre"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:49.003021113Z",
+  "model": "glm-5.3"
+}

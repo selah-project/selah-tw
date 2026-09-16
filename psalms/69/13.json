@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Wɔn a wɔte ɛpono ano no ka wɔ me ho; na wɔn a wɔnom nsa no de me yɛ nnwom.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "ka wɔ ho"
+    },
+    {
+      "surface": "בי",
+      "gloss": "wɔ me ho"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɛpono ano"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "de me yɛ nnwom"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "wɔn a wɔnom"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:20.068850323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Wɔammɔ Eloohim apam so, na wɔampɛ sɛ wɔnam ne Mmara mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wɔan-"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mmɔ ... so"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "na ... ne Mmara mu"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "wɔampɛ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sɛ wɔnam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:59.201656755Z",
+  "model": "glm-5.3"
+}

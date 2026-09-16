@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔsɔfoɔ no bɛdɔ ⟨את⟩ ne nifa nsateaa agu ngo no mu a ɛwɔ ne nsa benkum nkyɛnmu so, na wade ngo no bi de ne nsateaa no so bɔ mprennson wɔ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "bɛdɔ agu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nifa nsateaa"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ne nsateaa"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nifa (deɛ ɛwɔ nifa so)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu (firi … mu)"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ngo no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ne nsa nkyɛnmu"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "benkum"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "na wade (bɔ nsuo nnuru)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ngo no"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ne nsateaa no so"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mprennson (pɛn)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:13.976523758Z",
+  "model": "glm-5.3"
+}

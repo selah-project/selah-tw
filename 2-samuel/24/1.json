@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Yawe abufuo no san hyɛee Yisrael so, na ɔhyɛɛ ⟨את⟩ Dawid nkuran wɔ wɔn mu se: kɔ kan ⟨את⟩ Yisrael ne ⟨את⟩ Yuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "san"
+    },
+    {
+      "surface": "אף",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "hyɛee so"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael so"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "na ɔhyɛɛ nkuran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:12.576826472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Eloohim mu na yɛayɛ da no nyinaa, na wo din Yawe, yɛbɛda ama daa. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim mu"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "yɛayɛ (yɛtoo abufuo)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da no"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "na wo din"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "yɛbɛda ama"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:44.439521772Z",
+  "model": "glm-5.3"
+}

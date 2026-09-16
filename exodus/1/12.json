@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na sɛdeɛ wɔdɛɛmuu ⟨את⟩ wɔn no, saa ara wɔdɔɔsoɔ, na saa ara wɔtrɛw mu; na wɔyɛɛ yaw wɔ Israel mma ho.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Na sɛdeɛ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "wɔdɛɛmuu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "wɔdɔɔsoɔ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na saa ara"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "wɔtrɛw mu"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "na wɔyɛɛ yaw"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:10.060612838Z",
+  "model": "glm-5.3"
+}

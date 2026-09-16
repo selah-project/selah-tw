@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔfa bi afiri mu ayɛ ne afɔdeɛ — ogya afɔdeɛ ma Yawe: ⟨את⟩ nsam a ɛkata ⟨את⟩ yafunu mu ntɛtwɛ so, ne ⟨את⟩ nsam nyinaa a ɛda yafunu mu ntɛtwɛ no so.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ɔfa ... ayɛ ne afɔdeɛ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "afiri mu bi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ne afɔdeɛ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ogya afɔdeɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsam (the fat)"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "a ɛkata ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yafunu mu ntɛtwɛ (the entrails)"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yafunu mu ntɛtwɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nsam nyinaa (all the fat)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yafunu mu ntɛtwɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:38.901348768Z",
+  "model": "glm-5.3"
+}

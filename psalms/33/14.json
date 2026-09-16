@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Ɔtena ne tenabea mu firi hɔ, ɔda n'ani sohwɛ asase so wɔn a wɔte so nyinaa.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "ne tenabea mu firi"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "a ɔte"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ɔda n'ani sohwɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:22.067373998Z",
+  "model": "glm-5.3"
+}

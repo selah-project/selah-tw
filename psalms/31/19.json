@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ɔano a ɔtorɔ asɛm atoro, a ɔkasa ahoɔden nsɛm wɔ taree so, wɔ ahantan ne ho animia mu no, mmom na ɔnkasa.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "mmom na ɔnkasa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ɔano"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "asɛm atoro"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "a ɔkasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taree so"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ahoɔden nsɛm"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "wɔ ahantan mu"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ne ho animia mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:19.355727244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 97,
+  "translation": "Nnompe no saayɛ dɔnag wɔ Yawe anim, wɔ Adonai a ɔwɔ asase nyinaa so anim.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "nnompe no"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "sɛ dɔnag"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "sesaee"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:48.981489808Z",
+  "model": "glm-5.3"
+}

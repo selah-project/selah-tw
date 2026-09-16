@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Fa ⟨את⟩ Levifoɔ no firi Israel mma no mu, na hohoro ⟨את⟩ wɔn ho.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levifoɔ no"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levifoɔ no"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "firi ... mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "na hohoro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn ho",
+      "marks": "wɔn (Levifoɔ)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:45.151541947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 98,
+  "translation": "Ɛnnɔ nne ɔpo ne deɛ ɛwɔ ne mu nyinaa; nsaase, ne wɔn a wɔte so mu.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Ɛnnɔ nne"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɔpo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ne deɛ ɛwɔ ne mu nyinaa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nsaase"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ne wɔn a wɔte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "so mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:58.311632106Z",
+  "model": "glm-5.3"
+}

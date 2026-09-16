@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ɛnyɛ w'ani so na wo nyɛ nyansafoɔ; suro ⟨את⟩ Yawe, na dan wo ho firi bɔne mu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ɛnn-"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nyansafoɔ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "w'ani so"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "na dan wo ho firi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "bɔne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:13.047198420Z",
+  "model": "glm-5.3"
+}

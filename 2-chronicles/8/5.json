@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔsii ⟨את⟩ Beti-Horon a ɛwɔ soro ne ⟨את⟩ Beti-Horon a ɛwɔ ase, nkurow a wɔabɔ ho ban, abɔnsuadanmu, adidamu ne brɔ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "na ɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horon a ɛwɔ soro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "a ɛwɔ soro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horon a ɛwɔ ase"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "a ɛwɔ ase"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "a wɔabɔ ho ban"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "abɔnsuadanmu"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "adidamu"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ne brɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:55:33.532241336Z",
+  "model": "glm-5.3"
+}

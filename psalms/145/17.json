@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Yawe ⟨yɛ⟩ atreneefoɔ wɔ n'akwan nyinaa mu, na ɔyɛ ⟨ɔboafoɔ⟩ wɔ n'nnwuma nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "atreneefoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ nyinaa mu"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "n'akwan"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "na ɔyɛ ɔboafoɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ nyinaa mu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "n'nnwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:35.429972561Z",
+  "model": "glm-5.3"
+}

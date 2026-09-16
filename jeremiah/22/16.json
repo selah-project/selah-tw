@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ɔhiafoɔ ne ahiafoɔ asɛm na ɔyii atemmu; saa bere no na ɛyɛ yie. Anaa ɛnyɛ ɛno ne nimdeɛ a obi nim ⟨את⟩ me? Yawe nkɔm.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ɔyii atemmu"
+    },
+    {
+      "surface": "דין",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ɔhiafoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ yie"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "anaa ɛnyɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkɔm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:15:48.386952269Z",
+  "model": "glm-5.3"
+}

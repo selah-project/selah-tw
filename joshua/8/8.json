@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɛbɛyɛ sɛ, sɛ moyera ⟨את⟩ kuro no a, monhye ⟨את⟩ kuro no ma ogya; sɛnea Yawe asɛm no na momyɛ. Monhwɛ, mahyɛ ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbɛyɛ sɛ"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "sɛ moyera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuro no"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "monhye ... ma ogya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuro no"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛnea ... asɛm no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "momyɛ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Monhwɛ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mahyɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:02.597672793Z",
+  "model": "glm-5.3"
+}

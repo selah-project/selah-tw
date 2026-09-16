@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Serug tenaa aseɛ mfeɛ aduasa, na ɔwoo ⟨את⟩ Nakor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakor"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:39.611483216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Adeɛ bɛyɛ yi, me sekan agoro wɔ ɔsoro mu; hwɛ, ɛbɛsian Edom so, na ɛbɛsian amanfoɔ a mede wɔn ayɛ ⟨herem⟩ so, wɔ atemmu mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Adeɛ bɛyɛ yi"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "agoro (anom adwira)"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "wɔ ɔsoro mu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "me sekan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ɛbɛsian"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ɛbɛsian … so"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "a mede wɔn ayɛ herem"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "wɔ atemmu mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:18.595202320Z",
+  "model": "glm-5.3"
+}

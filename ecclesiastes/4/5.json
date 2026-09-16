@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɔkwasea no ka ⟨את⟩ nensa mu abom, na ɔwe ⟨את⟩ ne nam.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Ɔkwasea no"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ka abom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nensa mu"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "nensa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na ɔwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nam"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ne nam"
+    }
+  ],
+  "timestamp": "2026-09-16T05:49:08.845076845Z",
+  "model": "glm-5.3"
+}

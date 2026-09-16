@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Ɛyɛ papa sɛ yɛda Yawe ase, na yɛto wo din, Elyon ⟨Ɔsorokoɔ a ɔwɔ soro⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "sɛ yɛda ... ase"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ו לזמר",
+      "gloss": "na yɛto"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon ⟨Ɔsorokoɔ⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:17.868979595Z",
+  "model": "glm-5.3"
+}

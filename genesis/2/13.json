@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɛna asubɔnten a ɛtɔ so mmienu no din de Gichon; ɔno na ɔtwa ⟨את⟩ Kush asase no mu afã nyinaa ho.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na ... din"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "asubɔnten no"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "na ɔtwa ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kush asase no mu afã nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:50.617178895Z",
+  "model": "glm-5.3"
+}

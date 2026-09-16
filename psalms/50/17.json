@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ɛfiri sɛ wokamfo nkyerɛkyerɛ, na wotoa me nsɛm gu wo akyi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wone"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "wokamfo"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "nkyerɛkyerɛ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "na wotoa gu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "me nsɛm"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "wo akyi"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:01.919763099Z",
+  "model": "glm-5.3"
+}

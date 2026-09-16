@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Wɔ m'awerɛhoɔ da no mu na mihwehwɛɛ Adonai; me nsa trɛeɛ anadwo mu na ɛanngu ase; me nkwa ampɛ mmoa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da no mu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "m'awerɛhoɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "na mihwehwɛɛ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo mu"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "trɛeɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛann"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "ngu ase"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "ampɛ"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:34.176177271Z",
+  "model": "glm-5.3"
+}

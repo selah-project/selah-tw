@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ɛyɛ papa sɛ wunnbɔ nnyae, sen sɛ wubɔ nnyae na wontua.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wunn-"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "bɔ nnyae"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "sen sɛ wobɔ nnyae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wonn-"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "tua"
+    }
+  ],
+  "timestamp": "2026-09-16T03:56:53.642351523Z",
+  "model": "glm-5.3"
+}

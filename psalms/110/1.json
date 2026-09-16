@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 110,
+  "translation": "Dawid mizmor. Yawe nkɔmɔ kyerɛɛ me Adonai: “Tena me nifa so, kɔpem sɛ mɛma w'atamfoɔ ayɛ ananwoma ma w'ananmu.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkɔmɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kyerɛɛ me Adonai"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tena"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "me nifa so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔpem sɛ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mɛma ... ayɛ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "w'atamfoɔ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ananwoma"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ma w'ananmu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:45.630394470Z",
+  "model": "glm-5.3"
+}

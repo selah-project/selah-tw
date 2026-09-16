@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wɔ Yerusalem no, Yuda mma ne Binjamin mma ne Efrayim ne Manase mma mu bi tenaeɛ.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Na wɔ Yerusalem"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tenaeɛ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne ... mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne ... mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ne Manase"
+    }
+  ],
+  "timestamp": "2026-09-16T04:39:44.510175321Z",
+  "model": "glm-5.3"
+}

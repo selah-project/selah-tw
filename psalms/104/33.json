@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Mɛdi dwom ama Yawe wɔ m'abrabɔ mu; mɛbɔ nsɛm ama m'Eloohim bere a mete ase.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "mɛdi dwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "wɔ m'abrabɔ mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mɛbɔ nsɛm (dwom)"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ama m'Eloohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "bere a mete ase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:18.158424802Z",
+  "model": "glm-5.3"
+}

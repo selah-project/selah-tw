@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Berɛ wɔ kum, na berɛ wɔ sa yadeɛ; berɛ wɔ bubu, na berɛ wɔ si.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "kum"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na berɛ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "sa yadeɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "bubu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na berɛ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:43.079305026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Wɔn abɔfoɔ bɔne nka Yawe adwene mu, na ne maame bɔne no nsɛe.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "nka ... adwene mu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "wɔn abɔfoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "na ... bɔne"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mom"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "nsɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:41.877457639Z",
+  "model": "glm-5.3"
+}

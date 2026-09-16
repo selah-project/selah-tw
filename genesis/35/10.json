@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Eloohim kaa kyerɛ no sɛ: w'edim ne Yaaqob; wo din nnsɔ bio Yaaqob, na mmom Yisrael na ɛbɛyɛ w'edim; na ɔfrɛE no ⟨את⟩ ne din Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "w'edim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nsɔ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na mmom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(nkyerɛkyerɛmu)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "w'edim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛE"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T20:34:12.474217136Z",
+  "model": "glm-5.3"
+}

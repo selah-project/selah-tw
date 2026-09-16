@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Naarah woo mma: ⟨את⟩ Aḥuzzam, ⟨את⟩ Ḥefer, ⟨את⟩ Temeni, ne ⟨את⟩ Aḥashtari — wɔyɛ Naarah mma.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "woo mma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no mma"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Aḥuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Ḥefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Aḥashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-09-16T05:54:34.521324414Z",
+  "model": "glm-5.3"
+}

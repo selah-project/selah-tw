@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na wɔfaa ⟨את⟩ faguo no nyinaa ne ⟨את⟩ nneɛma a wɔfaeɛ no nyinaa — nnipa mu ne mmoa mu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faguo no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "faguo no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nneɛma a wɔfaeɛ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "nneɛma a wɔfaeɛ no"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nnipa mu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ne mmoa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:42:13.514110271Z",
+  "model": "glm-5.3"
+}

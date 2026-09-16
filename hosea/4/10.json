@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Wɔbɛdi na wɔnkyɛ pɛyɛ; wɔbɔ aguama na wɔnnɔ so dɔɔso, ɛfiri sɛ wɔagya ⟨את⟩ Yawe, na wɔannhwɛ no so.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "wɔbɛdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔnkyɛ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "pɛyɛ"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "wɔbɔ aguama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔnnɔ"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "so dɔɔso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "wɔagya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "na wɔannhwɛ no so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:33:55.643192030Z",
+  "model": "glm-5.3"
+}

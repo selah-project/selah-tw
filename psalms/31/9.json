@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na wonmma me annkyerɛ ɔtamfoɔ nsa; wode me nan ase sii ⟨wɔ⟩ baabi a ɛtrɛ mu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na wonmma"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "annkyerɛ (mma nsam)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtamfoɔ"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "wode ... sii"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "baabi a ɛtrɛ mu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "me nan ase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:58.862887036Z",
+  "model": "glm-5.3"
+}

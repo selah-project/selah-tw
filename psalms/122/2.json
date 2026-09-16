@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 122,
+  "translation": "Yɛn nanam gyina wɔ wo amena mu, Yerusalem.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "yɛn nanam"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "wɔ wo amena mu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:28.355637298Z",
+  "model": "glm-5.3"
+}

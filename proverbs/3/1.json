@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Me ba, me Torah nkaeɛ; na mmara a m'ahyɛ no, wo akoma nnwɔ so.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "me Torah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nnkaeɛ (nkã)"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na me mmara"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nnwɔ so"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wo akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:13.254525756Z",
+  "model": "glm-5.3"
+}

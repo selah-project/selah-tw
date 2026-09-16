@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na saa afɔdeɛ yi na mo begye ⟨את⟩ firi wɔn nkyɛn: sika kɔkɔɔ, dwetɛ ne kɔbere.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Na saa ... yi"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "afɔdeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mo begye"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ firi wɔn nkyɛn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ne dwetɛ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ne kɔbere"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:55.994483282Z",
+  "model": "glm-5.3"
+}

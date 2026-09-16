@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Dawid hunuu sɛ Sawla asi kɔ sɛ ɔbɛhwehwɛ ⟨את⟩ ne nkwa; na Dawid wɔ Sif asɔeɛ mu, wɔ Horeša kwaeɛ mu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "asi kɔ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawla"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sɛ ɔbɛhwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkwa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ne nkwa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "asɔeɛ mu"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Sif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Horeša kwaeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:28.925064231Z",
+  "model": "glm-5.3"
+}

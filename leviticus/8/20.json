@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na wɔtetee ⟨את⟩ oguan no mu yɛɛ nketekete, na Moshe de ⟨את⟩ ne tirim, ne ⟨את⟩ nketekete no, ne ⟨את⟩ ngo no hyɛɛ ogya mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oguan no"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oguan no"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "tetee mu"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "nketekete"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "hyɛɛ ogya mu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne tirim"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ne tirim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nketekete no"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "nketekete no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngo no"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ngo no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:14.143114582Z",
+  "model": "glm-5.3"
+}

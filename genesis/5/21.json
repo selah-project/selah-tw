@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Henok tenaa ase mfeɛ aduonum ne enum, na ɔwoo ⟨את⟩ Metuselah.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Henok"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ne aduosia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuselah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuselah"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:40.061403057Z",
+  "model": "glm-5.3"
+}

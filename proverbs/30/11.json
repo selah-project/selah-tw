@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Nkorɔfoɔ dɔm bi wɔ hɔ a wɔtwi wɔn agya, na ⟨את⟩ wɔn maame wɔmfa nhyira.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "nkorɔfoɔ dɔm bi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "wɔtwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn maame"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "wɔn maame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔmfa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nhyira"
+    }
+  ],
+  "timestamp": "2026-09-16T03:06:48.625170910Z",
+  "model": "glm-5.3"
+}

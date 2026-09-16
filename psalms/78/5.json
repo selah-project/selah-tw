@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Ɔde adansedie sii Yaaḳob mu, na ɔde Toraa sii Yisraɛl mu, de hyɛɛ ⟨את⟩ yɛn awofoɔ sɛ wɔmmoa wɔn mma",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sii"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "adansedie"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "wɔ Yaaḳob mu"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "na Toraa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sii"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wɔ Yisraɛl mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ɔhyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn awofoɔ"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "yɛn awofoɔ"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "sɛ wɔbɛda no adi ama wɔn"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "wɔn mma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:20.095560730Z",
+  "model": "glm-5.3"
+}

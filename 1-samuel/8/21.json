@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Shemuɛl tee ⟨את⟩ ɔman no nsɛm nyinaa, na ɔkae wɔn nsɛm no wɔ Yawe ntiyaa mu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na ... tee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "na ɔkae wɔn nsɛm no"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "wɔ ntiyaa mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:46.266735423Z",
+  "model": "glm-5.3"
+}

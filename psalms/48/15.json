@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Efisɛ Eloohim yi ne yɛn Eloohim, wɔ nnɛ ne wɔ daa; ɔno na ɔbɛkyerɛ yɛn kwan wo owuo akyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wɔ nnɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ne wɔ daa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ɔbɛkyerɛ yɛn kwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "wo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "owuo akyi"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:16.910252315Z",
+  "model": "glm-5.3"
+}

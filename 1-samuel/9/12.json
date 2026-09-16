@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Mmaawa no buaa wɔn ⟨את⟩ ano na wɔkae se: Ɔwɔ; hwɛ, ɔwɔ wo anim; hare ntɛm ɛnnɛ, ɛfiri sɛ ɔrefiri ba kuro no mu ɛnnɛ, ɛfiri sɛ nnɛ na wɔbɛtoa afɔdeɛ ama ɔman no wɔ bɔmmɔ no so.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (Saul ne ne nkoa maawa)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "wɔkae"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ɔwɔ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hare ntɛm"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "refiri ba"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kuro no mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "afɔdeɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "bɔmmɔ no so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:18.178673330Z",
+  "model": "glm-5.3"
+}

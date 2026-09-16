@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ɛnsɛ sɛ wode nkyerɛnne-bɔne anaa nsɛnkyerɛnne biara a ɛwɔ ɔsoro soro, anaasɛ a ɛwɔ asase ase, anaasɛ a ɛwɔ nsuo mu wɔ asase ase yɛ wo dea.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ɛnsɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sɛ ... yɛ wo dea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "nkyerɛnne-bɔne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "anaasɛ ... biara"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "anaasɛ a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "anaasɛ a"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nsuo mu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "wɔ ... ase"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:38.988270628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "ne ⟨את⟩ atadeɛ a wɔayɛ no adwumadeɛ, ne ⟨את⟩ atadeɛ kronkron no ma Aharon ɔsɔfoɔ no, ne ⟨את⟩ ne mma no atadeɛ, de wɔbɛyɛ asɔfodie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ a wɔayɛ no adwumadeɛ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "a wɔayɛ no adwumadeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ kronkron no"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ma Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma no atadeɛ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "de wɔbɛyɛ asɔfodie"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:54.952145733Z",
+  "model": "glm-5.3"
+}

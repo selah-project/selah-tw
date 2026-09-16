@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Me ahoɔden ahõ sɛ takoruka, na me tɛkyerɛma abɔ me seɛ mu, na woade me akɔ awu mfuo no mu.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ahõ"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sɛ takoruka"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Me ahoɔden"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "na me tɛkyerɛma"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "abɔ"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "me seɛ mu"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "akɔ ... mfuo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "awu"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "woade me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:07.586678219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Nnipa a wɔnim teruah ⟨nseɛ a ɛto anigye⟩, wɔn nkomɔdeɛ ne wɔn; wɔ Yawe anim han mu na wɔnam.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nkomɔdeɛ ne wɔn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "a wɔnim"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teruah ⟨nseɛ a ɛto anigye⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "wɔ ... han mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "wɔnam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:31.330422873Z",
+  "model": "glm-5.3"
+}

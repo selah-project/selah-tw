@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Sihon, Amorfoɔ hene, ne Og, Bashan hene, ne Kanaan ahennie nyinaa.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorfoɔ"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ne Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:45.768712718Z",
+  "model": "glm-5.3"
+}

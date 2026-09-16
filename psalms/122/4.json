@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 122,
+  "translation": "Ɛhɔ na nnanmusia foro, Yah nnanmusia, adanseɛ ma Israɛl, sɛ wɔda Yawe din ase.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Ɛhɔ na"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "foro"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "nnanmusia"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "nnanmusia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "adanseɛ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ma Israɛl"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "sɛ wɔda ... ase"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:28.359934775Z",
+  "model": "glm-5.3"
+}

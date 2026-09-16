@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "⟨את⟩ hwan na ɔbɛkyerɛ nimdeɛ, na ⟨את⟩ hwan na ɔbɛma no te asɛm a wɔte aseɛ? Wɔn a wɔagye wɔn afiri nsam mu, wɔn a wɔatow wɔn afiri nufu mu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ɔbɛkyerɛ"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ɔbɛma no te"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "asɛm a wɔte aseɛ"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "wɔagye wɔn afiri"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "nsam mu"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "wɔatow wɔn afiri"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "nufu mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:49:14.038140500Z",
+  "model": "glm-5.3"
+}

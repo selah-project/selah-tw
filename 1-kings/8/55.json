@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔgyinaa hɔ, na ɔhyiraa ⟨את⟩ Yisrael nhyiam no nyinaa, nne kɛseɛ so, sɛdeɛ:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "na ɔgyinaa hɔ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na ɔhyiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael nhyiam no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:55.937730991Z",
+  "model": "glm-5.3"
+}

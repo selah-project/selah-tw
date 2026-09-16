@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Eloohim mma hunuu ⟨את⟩ nnipa mma no sɛ wɔyɛ fɛ, na wɔfaa wɔn sɛ awarefoɔ wɔ wɔn nyinaa mu a wɔpɛe no.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa mma no"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "wɔyɛ fɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "na wɔfaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn sɛ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "awarefoɔ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wɔ wɔn nyinaa mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "wɔpɛe no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:30.648607232Z",
+  "model": "glm-5.3"
+}

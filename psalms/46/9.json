@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Momra, monhwɛ Yawe nnwuma, nsɛeɛ a ɔayɛ wɔ asase so.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "momra"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "monhwɛ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "nnwuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɔayɛ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nsɛeɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:35.582550393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Na Yosef siiw ⟨את⟩ ne papa ne ⟨את⟩ n'nuanom ne ⟨את⟩ ne papa fie nkuorɔfoɔ nyinaa so duane, nnipa dodoɔ a ɔfra no, mmɔfra ano.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "siiw ... so duane"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'nuanom"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'nuanom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne papa fie nkuorɔfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duane"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "mmɔfra"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:10.926412396Z",
+  "model": "glm-5.3"
+}

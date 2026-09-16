@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Wɔhunuu wo nantewie, Eloohim; me El, me Ɔhene, nantewie wɔ asɔredan kronkron no mu.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "wo nantewie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "nantewie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "me Ɔhene"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "wɔ asɔredan kronkron no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:11.981906661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Yawe, wo din tena hɔ kɔ daa; Yawe, wo nkaeɛ firi fɔdɔm kɔ fɔdɔm.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tena hɔ kɔ daa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "wo nkaeɛ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "firi fɔdɔm"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kɔ fɔdɔm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:20.607485278Z",
+  "model": "glm-5.3"
+}

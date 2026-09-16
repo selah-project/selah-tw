@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Manoaa ⟨את⟩ hwaneenoa no mo anim, na ɛpam ⟨את⟩ wɔn firi mo anim — Haamori ahene mmienu; ɛnyɛ wo sekan, na ɛnyɛ wo tow.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Manoaa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mo anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hwaneenoa"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "hwaneenoa"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "ɛpam"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "firi mo anim"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahene"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haamori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "wo sekan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "wo tow"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:49.634641935Z",
+  "model": "glm-5.3"
+}

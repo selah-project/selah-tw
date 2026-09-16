@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɔhene Achashverosh de mɛso hyɛɛ asase ne ɛpo nsupɔw so.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "de hyɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "mɛso"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ne nsupɔw"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo"
+    }
+  ],
+  "timestamp": "2026-09-16T04:04:48.785214671Z",
+  "model": "glm-5.3"
+}

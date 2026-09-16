@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Sɛ mo defra wɔn a — ɛno ne, sɛ ɔtetew frɛ me a, meteɛ-tie ne teɛ no.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "defra"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mo defra wɔn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (mo defra wɔn)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛno ne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "tetew"
+    },
+    {
+      "surface": "יצעע",
+      "gloss": "ɔtetew frɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "metie"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "meteɛ-tie"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ne teɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:21.264212013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Mose da so hwɛɛ ⟨את⟩ Jetro nguan — ne yere agya, Midian ɔsɔfoɔ — na ɔdii ⟨את⟩ nguan no kɔɔ sare no akyi, na ɔbaa Eloohim bepɔ no so, Horeb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Na Mose"
+    },
+    {
+      "surface": "היה",
+      "gloss": "da so yɛɛ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hwɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nguan"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ne yere agya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "na ɔdii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguan no"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nguan no"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sare no"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na ɔbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Horeb"
+    }
+  ],
+  "timestamp": "2026-09-15T20:43:37.615951098Z",
+  "model": "glm-5.3"
+}

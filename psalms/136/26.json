@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Da El a ɔwɔ ɔsoro mu no ase, ɛfiri sɛ n'hesed gyina hɔ daa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Da ... ase"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "n'hesed"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:25.825323418Z",
+  "model": "glm-5.3"
+}

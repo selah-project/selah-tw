@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na Yawe kaa se: Hwan na ɛbɛda ⟨את⟩ Ahab adwene mu ama ɔforo nkɔ na ɔtɔw wɔ Ramot-Gilead? Na baako bɛka biribi ara, ɔbaako nso bɛka biribi ara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yawe kaa se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "bɛda adwene mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ama ɔforo nkɔ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "na ɔtɔw"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ramot-Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa se"
+    },
+    {
+      "surface": "זה",
+      "gloss": "baako"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "bɛka biribi ara"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ɔbaako nso"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "biribi ara"
+    }
+  ],
+  "timestamp": "2026-09-15T23:25:29.644009245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 26:8",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Wɔn nyinaa yɛ Obed-Edom mma; wɔn ne wɔn mma ne wɔn nuanom, onipa biara a ɔwɔ ahoɔden ma adwuma, dɔnsia-mmienu na wɔyɛ Obed-Edom dea.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ne wɔn mma"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "ne wɔn nuanom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "wɔ ahoɔden mu"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ma adwuma"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "dɔnsia"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ne mmienu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-16T04:49:32.434667432Z",
+  "model": "glm-5.3"
+}

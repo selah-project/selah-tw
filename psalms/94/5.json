@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Wo nkorɔfoɔ, Yawe, wɔdane wɔn ase; na wɔhyɛ wo agyapadie no so.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "wo nkorɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "wɔdane wɔn ase"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "na wo agyapadie"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "wɔhyɛ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:23.475180299Z",
+  "model": "glm-5.3"
+}

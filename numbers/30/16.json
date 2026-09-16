@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na sɛ ɔsɛe no wɔ akyire a na ɔate, a ɔno na ɔbɛsoa bɔne no.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ɔsɛe"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "sɛe no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no (nnnyaeɛ no)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wɔ akyire"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a na ɔate"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a ɔbɛsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne no"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ne bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:48.286599766Z",
+  "model": "glm-5.3"
+}

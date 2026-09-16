@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Nkorɔfoɔ no fii mu kɔɔ bɔɔ ⟨את⟩ Aram kampo no so, na semsɛm aburoo seah baako gyee shekel baako, na oka seah mmienu gyee shekel baako, sɛnea Yawe asɛm no teɛ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "fii mu kɔɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkorɔfoɔ"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "bɔɔ so bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram kampo no"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbɛyɛɛ"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "seah baako"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "semsɛm aburoo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekel baako"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "na seah mmienu"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "oka"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekel baako"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛnea … asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:29:37.115620300Z",
+  "model": "glm-5.3"
+}

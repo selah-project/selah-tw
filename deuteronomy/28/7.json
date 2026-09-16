@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yawe bɛma wɔn a wɔsɔre tia wo ⟨את⟩ wo atamfoɔ anya adwammire wo anim; ɔkwan baako so na wɔbɛba wo so, nanso akwan nson so na wɔbɛdwane wo anim.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo atamfoɔ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "wo atamfoɔ"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "wɔn a wɔsɔre tia wo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tia wo"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "anya adwammire"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako so"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "na wɔbɛba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "nanso akwan nson so"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "akwan nson"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "na wɔbɛdwane"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:46.622863085Z",
+  "model": "glm-5.3"
+}

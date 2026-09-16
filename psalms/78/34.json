@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Sɛ ɔkum wɔn a, wɔhwehwɛɛ no; wɔsan baa ne nkyɛn, na wɔhwehwɛɛ El pɛɛ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ ... a"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "ɔkum wɔn"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "wɔhwehwɛɛ no"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "wɔsan baa ne nkyɛn"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "na wɔhwehwɛɛ ... pɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:51.712919811Z",
+  "model": "glm-5.3"
+}

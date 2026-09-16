@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Ɔma nhaban monsoɔ ma mmoa, na nwura ma onipa nnwuma de, sɛ wɔbɛfiri duane afiri asase mu.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Ɔma ... monsoɔ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "nhaban"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ma mmoa"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "na nwura"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ma ... nnwuma de"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "sɛ wɔbɛfiri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "afiri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:42.746838759Z",
+  "model": "glm-5.3"
+}

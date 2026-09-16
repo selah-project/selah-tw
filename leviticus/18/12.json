@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wo agya nuabea nwanwa wunniae; ɔno ne wo agya nwoma.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nwanwa"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nuabea"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wunn"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "iae"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:27.777655981Z",
+  "model": "glm-5.3"
+}

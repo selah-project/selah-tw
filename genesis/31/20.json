@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Yakob wiaa ⟨את⟩ Laban Aram-ni no akoma, ɛndefiriɛ ɔankyerɛ no sɛ ɔrefiri.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "wiaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akoma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aram-ni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛndefiriɛ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ɔankyerɛ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ɔankyerɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ɔrefiri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:12.207394100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 72,
+  "translation": "Ɔbɛgya wɔn nkwa afiri nkyerɛkyerɛmmu ne basabasayɛ mu, na wɔn mogya bɛsom bo wɔ n'ani so.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "afiri nkyerɛkyerɛmmu"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "ne basabasayɛ mu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "bɛgya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn nkwa"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "na ... bɛsom bo"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "wɔn mogya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wɔ n'ani so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:03.173912341Z",
+  "model": "glm-5.3"
+}

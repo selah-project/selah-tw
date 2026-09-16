@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Na akyire yi na mɛsane ⟨את⟩ nnamtum a wɔayera ma wɔaba, wɔ Amon mma no, Yawe amanebɔ no.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Na akyire yi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mɛsane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnamtum a wɔayera"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nnamtum a wɔayera ma wɔaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "amanebɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:28:47.361176557Z",
+  "model": "glm-5.3"
+}

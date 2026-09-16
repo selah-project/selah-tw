@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na anwummerɛ baeɛ, na awia baeɛ — da a ɛtɔ so nnum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "baeɛ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "baeɛ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "awia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "a ɛtɔ so nnum"
+    }
+  ],
+  "timestamp": "2026-09-15T20:14:58.735307265Z",
+  "model": "glm-5.3"
+}

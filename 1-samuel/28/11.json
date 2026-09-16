@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na ɔbaa no kaa sɛ: Hwan na ⟨את⟩ mɛma ɔso ba brɛ wo? Na ɔkaa sɛ: ⟨את⟩ Shemuel so ba brɛ me.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mɛma ɔso ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "brɛ wo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "so ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "brɛ me"
+    }
+  ],
+  "timestamp": "2026-09-15T22:57:37.830155369Z",
+  "model": "glm-5.3"
+}

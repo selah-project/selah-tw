@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Wɔde ⟨את⟩ no baa so wɔ apampam so, na wɔsiee no wɔ Yerusalem, ne n'agya nom wɔ Dawid kurow mu.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wɔde ... baa so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Amatsia)"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "apampam"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wɔsiee no"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "n'agya nom"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kurow mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:09.310891673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Yawe kaa kyerɛɛ Yehoshua se: Hwɛ, mede ⟨את⟩ Yeriho ahyɛ wo nsa mu, ne ⟨את⟩ ne hene, ne akodonni a wɔyɛ den.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede...ahyɛ wo nsa mu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "wo nsa mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne hene"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ne hene"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "akodonni"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "a wɔyɛ den"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:00.558994265Z",
+  "model": "glm-5.3"
+}

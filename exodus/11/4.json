@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Moshe kaa: Sɛnea Yawe de, bɛyɛ anadwo no mfimfini, me na mɛpue Misraim mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "bɛyɛ ... mfimfini"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "mɛpue"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:49.451277598Z",
+  "model": "glm-5.3"
+}

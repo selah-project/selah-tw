@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Mosheh kaa kyerɛɛ Yisraelfoɔ mma, sɛnea Yawe hyɛɛ ⟨את⟩ Mosheh no nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ (_direction)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-09-15T21:42:24.914963164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɔsɔfoɔ a ɔde bɔ bɔne no, ɔno na ⟨את⟩ bɛdi; wɔbɛdi no wɔ ⟨the⟩ beae kronkron mu, wɔ ⟨the⟩ ntwamuru a ɛyɛ ahyɛda afikyire mu.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Ɔsɔfoɔ"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "a ɔde bɔ bɔne no"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne afɔdeɛ no"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "bɛdi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ beae mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wɔbɛdi"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "wɔ ntwamuru mu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahyɛda afikyire"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ahyɛda"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:35.321013788Z",
+  "model": "glm-5.3"
+}

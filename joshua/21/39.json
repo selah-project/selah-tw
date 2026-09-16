@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon ne ⟨את⟩ ne nkyɛn afuo, ⟨את⟩ Yazer ne ⟨את⟩ ne nkyɛn afuo; nkurow nnan nyinaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nkyɛn afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne nkyɛn afuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nkyɛn afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne nkyɛn afuo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nnan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:34.018124072Z",
+  "model": "glm-5.3"
+}

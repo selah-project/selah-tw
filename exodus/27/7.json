@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Wɔde ⟨את⟩ nkyɛnma no bɛhyɛ nkronkronhwa mu; na nkyɛnma no bɛwɔ afɔrebukyɛn no mfua mmienu so wɔ berɛ a wɔde ⟨את⟩ no kɔ no.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "wɔde ... bɛhyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkyɛnma no"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "nkyɛnma no"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "nkronkronhwa mu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na ... bɛwɔ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "nkyɛnma no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mfua"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔrebukyɛn no"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "wɔ berɛ a wɔde no kɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:21.527084461Z",
+  "model": "glm-5.3"
+}

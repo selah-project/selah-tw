@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Me pagapaga abata mfuturo ho: sɔ me nkwa mu sɛnea wo asɛm teɛ.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "abata"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "mfuturo ho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me pagapaga"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "sɔ me nkwa mu"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sɛnea wo asɛm teɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:13.576546305Z",
+  "model": "glm-5.3"
+}

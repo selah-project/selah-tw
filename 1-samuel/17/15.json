@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na Dawid kɔɔ na ɔsan baa firi Shaool nkyɛn, sɛ ɔbɛhwɛ ⟨את⟩ n'agya nguan so wɔ Betlehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Na Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na ɔsan baa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi ... nkyɛn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaool"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "sɛ ɔbɛhwɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'agya nguan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nguan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:22.055865523Z",
+  "model": "glm-5.3"
+}

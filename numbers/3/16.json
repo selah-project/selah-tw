@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Mose kan ⟨את⟩ wɔn wɔ Yawe ano, sɛnea wɔahyɛ no.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wɔahyɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:21.278386412Z",
+  "model": "glm-5.3"
+}

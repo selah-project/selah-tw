@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 30:18",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wɔ Tachpanches no ɛde bɛyɛ sum, sɛ mɛbɔ Misraim ntiapim no ⟨את⟩ hɔ; na n'ahoɔden anuonyam besa wɔ mu — ɛno, osuo bɛkata so, na ne mma bɛkɔ nnommɔ mu.",
+  "tokens": [
+    {
+      "surface": "ובתחפנחס",
+      "gloss": "wɔ Tachpanches"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "bɛyɛ sum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛde"
+    },
+    {
+      "surface": "בשברי",
+      "gloss": "sɛ mɛbɔ...ntiapim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim ntiapim no"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ntiapim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ונשבת",
+      "gloss": "besa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "anuonyam"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "n'ahoɔden"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "osuo"
+    },
+    {
+      "surface": "יכסנה",
+      "gloss": "bɛkata so"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na ne mma"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "nnommɔ mu"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "bɛkɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:49:36.066673313Z",
+  "model": "glm-5.3"
+}

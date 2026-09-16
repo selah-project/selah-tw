@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na wɔbɛnya adwuma sɛ me ne Yawe, berɛ a mɛsankyere wɔn mu wɔ aman mu, na mɛbɔ wɔn mu agu amanmanmu akɛse mu.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Na wɔbɛnya adwuma sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "berɛ a mɛsankyere wɔn mu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ aman mu"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "na mɛbɔ wɔn mu agu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "wɔ amanmanmu akɛse mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:40:29.076259881Z",
+  "model": "glm-5.3"
+}

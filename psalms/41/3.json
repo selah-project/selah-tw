@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Yawe bɛbɔ no ho ban na ɔbɛma ne nkwa; wɔbɛfrɛ no sɛ onipa a ne ho te wɔ ⟨⟨the⟩⟩ asaase so; na wonnmma no ma n'atamfoɔ akɔnnɔ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "bɛbɔ no ho ban"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "na ɔbɛma ne nkwa"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "wɔbɛfrɛ no sɛ onipa a ne ho te"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asaase so"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wonnmma"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "nomma no"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "wɔ … akɔnnɔ mu"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "n'atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:20.763072577Z",
+  "model": "glm-5.3"
+}

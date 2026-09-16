@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Yawe, εnyε w'abufuo mu na wode bɛte me fam, na εnyε w'abufuo kɛseε mu na wobɛtew me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "εnyε"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "w'abufuo mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "wode bɛte me fam"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "na εnyε w'abufuo kɛseε mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "wobɛtew me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:12.872487478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Ɛda biara me animguare gu me so wɔ me anim; na me anim hwam atum me.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "me animguare"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "wɔ me anim"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "na me anim hwam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "atum me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:24.138789311Z",
+  "model": "glm-5.3"
+}

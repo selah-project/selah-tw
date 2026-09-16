@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 94,
+  "translation": "Sɛ Yawe mmoa a ɛwɔ me ho anaa, me kra foforɔ bɛtenaa sumkom mu.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "sɛ ... anaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a ɛwɔ me ho"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "bɛtenaa"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sumkom mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:54.885511680Z",
+  "model": "glm-5.3"
+}

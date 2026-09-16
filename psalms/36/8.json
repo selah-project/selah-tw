@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Sɛn na wo hesed yɛ denkyem, Eloohim! Enti nnipa mma tena wo ntaban ase sum mu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Sɛn na"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "yɛ denkyem"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nna ... mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nipa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ase sum mu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wo ntaban"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "tena (gyINA) hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:58.475719104Z",
+  "model": "glm-5.3"
+}

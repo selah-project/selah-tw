@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na sɔrefua no kaa kyerɛɛ ɔbaa no: mo mmu da; wu a, mo mmu koraa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "sɔrefua no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mo mmu da"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wu a"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "mo mmu koraa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:16.172954818Z",
+  "model": "glm-5.3"
+}

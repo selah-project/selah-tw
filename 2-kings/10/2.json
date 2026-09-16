@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Saa bere yi, sɛ krataa yi duru mo nkyɛn — na mo ne mo wura mma, na mo nkyɛn ⟨את⟩ kokoduro ne ⟨את⟩ apampam, ne kurow a wɔabɔ ho ban, ne akodeɛ —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "saa bere yi"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "sɛ ... duru"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "krataa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo nkyɛn"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo wura mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "mo wura"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kokoduro ne apampam"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kokoduro"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ne apampam"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ne kurow"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "a wɔabɔ ho ban"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ne akodeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:31:14.006774558Z",
+  "model": "glm-5.3"
+}

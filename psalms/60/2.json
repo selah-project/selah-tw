@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Berɛ a ɔsɔree ⟨את⟩ Aram-Naharaim ne ⟨את⟩ Aram-Tsoba no, Yoab san baeɛ bɔɔ ⟨את⟩ Edom wɔ Monsoo Gɛɛ mu — mpem dumienu.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "berɛ a ɔsɔree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "san baeɛ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "wɔ ... Gɛɛ mu"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Monsoo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mpem"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:28.674490914Z",
+  "model": "glm-5.3"
+}

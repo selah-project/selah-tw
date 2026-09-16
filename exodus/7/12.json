@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Wɔn obiara too n'immadea gu, na ɛyɛɛ nnaninnini; na Aharon mmadea dum ⟨את⟩ wɔn nnmmadea.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "wɔtoo ... gu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "n'immadea"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "nnaninnini"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "dum"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mmadea"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nnmmadea"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "wɔn nnmmadea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:13.443622678Z",
+  "model": "glm-5.3"
+}

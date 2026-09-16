@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Ɛnti mo nhwɛ yie kɛseɛ ma mo nkwa, sɛ mo dɔ ⟨את⟩ Yawe mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "mo nhwɛ yie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ma mo nkwa"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sɛ mo dɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe mo Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:09:47.437960699Z",
+  "model": "glm-5.3"
+}

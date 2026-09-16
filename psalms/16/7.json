@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Mehyira ⟨את⟩ Yawe a ɔbɔ me tan; anadwo nyinaa m'akoma mu nkotodwe kyerɛ me nwuma.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Mehyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "ɔbɔ me tan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "kyerɛ me nwuma"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "m'akoma mu nkotodwe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:20.505964490Z",
+  "model": "glm-5.3"
+}

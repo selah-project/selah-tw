@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Me nso, mahyɛɛ nwuma sɛ mɛbɔ wo, na mɛma wo ayɛ amim, ɛfiri wɔ nyɛyɛeɛ nti.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "me nso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mefiri me ho"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "mahyɛɛ nwuma sɛ mɛbɔ wo"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "mɛbɔ wo"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "mɛma wo ayɛ amim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfiri"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "wɔ nyɛyɛeɛ nti"
+    }
+  ],
+  "timestamp": "2026-09-16T01:18:36.642559533Z",
+  "model": "glm-5.3"
+}

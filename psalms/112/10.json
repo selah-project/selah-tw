@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 112,
+  "translation": "Bɔnefoɔ no bɛhunu na ɔbɛyarhoɔ; nse no bɛkyerɛw, na ɔbɛberɛ ngu; bɔnefoɔ apɛdeɛ bɛsɛe.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "na ɔbɛyarhoɔ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "nse no"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "bɛkyerɛw"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "na ɔbɛberɛ ngu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "apɛdeɛ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bɛsɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:13.004016887Z",
+  "model": "glm-5.3"
+}

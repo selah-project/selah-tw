@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yehoshua yɛɛ wɔn deɛ Yawe ka kyerɛɛ no: ɔtwaa ⟨את⟩ wɔn anantewi apɔn mu, na ɔhyee ⟨את⟩ wɔn kaan nnwuma wɔ ogya mu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn anantewi"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "wɔn anantewi"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ɔtwaa ... apɔn mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn kaan nnwuma"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "wɔn kaan nnwuma"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ɔhyee"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wɔ ogya mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:44.643998308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "W'ani hunuu me deɛ me ho nnyɛ da (me kɛkɛɛ a ɛnni mu); na w'nwoma mu no wɔatwerɛ ne nyinaa — nna a wɔde yɛɛ me, berɛ a mu baako mpo nni hɔ.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "me kɛkɛɛ a ɛnni mu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "w'ani"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "w'nwoma mu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "wɔatwerɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "a wɔde yɛɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "berɛ a ... mpo nni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mu baako"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:13.328512543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 84,
+  "translation": "Deɛ ɔdi nnwom no so — wɔ Gitit so; Korah mma dwom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔdi nnwom no so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gitit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:58.928603084Z",
+  "model": "glm-5.3"
+}

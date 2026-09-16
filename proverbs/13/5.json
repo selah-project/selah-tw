@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Asɛm ɛnyɛ nokorɛ, ɔteefoɔ tan no; na ɔbɔnefoɔ ma ɛbɔ nka, na ɔhora.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ɛnyɛ nokorɛ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "tan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔteefoɔ"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "na ɔbɔnefoɔ"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ma ɛbɔ nka"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "na ɔhora"
+    }
+  ],
+  "timestamp": "2026-09-16T02:52:22.417841Z",
+  "model": "glm-5.3"
+}

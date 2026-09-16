@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "Dwom a wɔto wɔ ɔsoro kwan so. Yawe, ka Dawid anim, ⟨את⟩ n’ɔbradeɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Dwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a wɔto wɔ ɔsoro kwan so"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ka … ana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n’ɔbradeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "n’ɔbradeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:08.690564631Z",
+  "model": "glm-5.3"
+}

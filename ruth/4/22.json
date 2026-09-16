@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Obed wooa ⟨את⟩ Yishai, Yishai nso wooa ⟨את⟩ Dawid.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woofa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yishai nso"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woofa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-16T03:45:02.556023229Z",
+  "model": "glm-5.3"
+}

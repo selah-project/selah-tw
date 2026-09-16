@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na wɔ afe a ɛtoɔ so anum mu no, mo bɛdi ⟨את⟩ ne dua-ba, de ne abɔɔso bɛka mo ho; me ne Yawe, mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Na wɔ afe"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "a ɛtoɔ so anum"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mo bɛdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne dua-ba"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ne dua-ba"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "de ... bɛka ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ne abɔɔso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:01.179350291Z",
+  "model": "glm-5.3"
+}

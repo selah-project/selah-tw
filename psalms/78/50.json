@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Ɔtrɛɛ ɔkwan maa n'abufuo; wantew wɔn nkwa ho afiri owuo ase, na ɔde wɔn nkwa hyɛɛ dean mu.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "trɛɛ"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "maa n'abufuo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wan-"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tew ... ho"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "afiri owuo ase"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn nkwa"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "na wɔn nkwa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dean mu"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "hyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:21.265066764Z",
+  "model": "glm-5.3"
+}

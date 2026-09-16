@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 140,
+  "translation": "Yawe, Adonai, me nkwagyeɛ ahoɔden; wode ⟨ahoɔden⟩ akata me ti so wɔ akode da.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "me nkwagyeɛ"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "wode ... akata ... so"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "me ti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "akode"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:25.916619809Z",
+  "model": "glm-5.3"
+}

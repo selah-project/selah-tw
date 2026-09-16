@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Bɔ me nkwa ho ban na gyamme me; ma mmenkɔ amanseɛ mu, ɛfiri sɛ masɔ meho asie wo mu.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "bɔ ... ho ban"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na gyamme me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma ... nkɔ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "amanseɛ mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "masɔ meho asie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:21.633201041Z",
+  "model": "glm-5.3"
+}

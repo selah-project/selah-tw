@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 81,
+  "translation": "Metew ne nkyɛn firi asadeɛ mu; ne nsaano firii kɛntɛn mu.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Metew"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "firi asadeɛ mu"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ne nsaano"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "kɛntɛn mu"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "firii"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:43.902321022Z",
+  "model": "glm-5.3"
+}

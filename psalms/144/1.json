@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Dawid de. Nhyira sɛ Yawe, me ɔboɔdan, no a ɔsua me nsa akɔ ɔko mu, me nsateaa akɔ ako mu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "me ɔboɔdan"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "no a ɔsua"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "akɔ ɔko mu"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "me nsateaa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "akɔ ako mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:48.963226407Z",
+  "model": "glm-5.3"
+}

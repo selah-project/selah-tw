@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Abraham san baa so kyeree yere, na ne din de Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "san baa so"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kyeree"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yere"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na ne din de"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:50.349414488Z",
+  "model": "glm-5.3"
+}

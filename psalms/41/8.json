@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Wɔn a wɔkyere me nyinaa keka wɔn ho bom tia me; tia me na wɔdwene bɔne fa me ho.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "bom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "keka wɔn ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wɔn a wɔkyere me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "wɔdwene"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fa me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:20.166772451Z",
+  "model": "glm-5.3"
+}

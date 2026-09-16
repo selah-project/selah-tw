@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "na Yawe wo Eloohim nkyerɛ yɛn ⟨את⟩ ɔkwan a yɛbɛfa so ne ⟨את⟩ asɛm a yɛbɛyɛ no.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nkyerɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔkwan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "yɛbɛfa so"
+    },
+    {
+      "surface": "בה",
+      "gloss": "so"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "asɛm"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yɛbɛyɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:26:11.344534061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Kyerɛ yɛn sɛ yɛnnyɛ yɛn nna ho nkontabuo; na yɛde yɛn akoma bɛba nyansa mu.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "sɛ yɛnyɛ nkontabuo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "yɛn nna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sɛnea ɛsɛ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "kyerɛ yɛn"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "na yɛde ... bɛba"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yɛn akoma"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:15.673843664Z",
+  "model": "glm-5.3"
+}

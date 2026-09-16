@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Wodɔ bɔne kyɛn papa, nkontompo kyɛn ⟨sɛ⟩ wɔka atɛntrenee. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "wodɔ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kyɛn papa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nkontompo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kyɛn ⟨sɛ⟩ wɔka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atɛntrenee"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:41.910598516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ne nuabea HaMoleket woo ⟨את⟩ Ishod ne ⟨את⟩ Abiezer ne ⟨את⟩ Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Ne nuabea"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "HaMoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Abiezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlah"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:27.389858825Z",
+  "model": "glm-5.3"
+}

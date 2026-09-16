@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔbaa ne wɔfabea hɔ, na ɔbisaa sɛ: Wo ne hwan, me ba? Na ɔkaa deɛ ɔbarima no yɛɛ maa ⟨את⟩ no nyinaa.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "na ɔbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne… hɔ"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ne wɔfabea"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:47:31.291505820Z",
+  "model": "glm-5.3"
+}

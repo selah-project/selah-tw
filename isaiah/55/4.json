@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Monhwɛ, mahyɛ no sɛ odansefoɔ ama aman, sɛ ɔhene ne ɔhyɛfoɔ ama aman.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Monhwɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "odansefoɔ"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ama aman"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "mahyɛ no"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ne ɔhyɛfoɔ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ama aman"
+    }
+  ],
+  "timestamp": "2026-09-16T00:01:58.104422271Z",
+  "model": "glm-5.3"
+}

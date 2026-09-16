@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na nnwan anan kɛseɛ foforɔ bɛfirii ɛpo no mu, na ne baako ne ne baako yɛɛ pɛ.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "na anan"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "bɛfirii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firii"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "yɛɛ pɛ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ne baako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firii"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ne baako"
+    }
+  ],
+  "timestamp": "2026-09-16T05:51:39.954404776Z",
+  "model": "glm-5.3"
+}

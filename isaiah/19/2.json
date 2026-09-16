@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Mɛma Misraim ne Misraim nyɛ akasakasa, na wɔbɛko — obi ne n'agya, na obi ne ne yɔnko; kuro ne kuro, ahennie ne ahennie.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Mɛma ... nyɛ akasakasa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ne Misraim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "na wɔbɛko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obi"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ne n'agya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na obi"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ne ne yɔnko"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ne kuro"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "ne ahennie"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:57.075909550Z",
+  "model": "glm-5.3"
+}

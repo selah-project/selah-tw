@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Nachshon woo ⟨את⟩ Salma, na Salma woo ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "na Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "na Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:53.798349244Z",
+  "model": "glm-5.3"
+}

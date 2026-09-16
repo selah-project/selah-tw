@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ne ⟨את⟩ Kesed, ne ⟨את⟩ Hazo, ne ⟨את⟩ Pildash, ne ⟨את⟩ Yidlaph, ne ⟨את⟩ Betuel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Kesed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Pildash"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yidlaph"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Betuel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-09-15T22:25:14.866775050Z",
+  "model": "glm-5.3"
+}

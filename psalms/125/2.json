@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 125,
+  "translation": "Yerusalem, mmepɔ atwa ho ahyia, na Yawe nso atwa n'amanfoɔ ho ahyia, firi nnɛ de kɔsi daa.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atwa ho ahyia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atwa ho ahyia"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "n'amanfoɔ ho"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "firi nnɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:03.741804774Z",
+  "model": "glm-5.3"
+}

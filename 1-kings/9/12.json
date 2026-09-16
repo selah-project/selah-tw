@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Hyiram firi Tzor bae hwɛe ⟨את⟩ nkuro a Shelomoh de maa no no; na ɛnyɛ deɛ ɛyɛ dɛ wɔ n'ani so.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "na ... bae"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hyiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "firi Tzor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hwɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkuro no"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de maa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "deɛ ɛyɛ dɛ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wɔ n'ani so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:42.156588541Z",
+  "model": "glm-5.3"
+}

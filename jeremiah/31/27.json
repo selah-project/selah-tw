@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Monhwɛ, nnɛrebɛba, Yawe asɛm: mɛbowa ⟨את⟩ Yisrael fie ne ⟨את⟩ Yuda fie — onipa aba ne mmoa aba.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Monhwɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnɛre"
+    },
+    {
+      "surface": "באים",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "mɛbowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ne ... aba"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mmoa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:20:28.174893181Z",
+  "model": "glm-5.3"
+}

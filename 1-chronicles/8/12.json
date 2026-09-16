@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Elpaal mma ne Eber ne Misheam ne Shemed; ɔno na ɔsii ⟨את⟩ Ono ne ⟨את⟩ Lod ne ne nkyerɛma adan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mma ne"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Misheam ne"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Shemed ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ne nkyerɛma adan"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:33.153959835Z",
+  "model": "glm-5.3"
+}

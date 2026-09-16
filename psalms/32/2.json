@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Ahonya wɔ mu ne onipa a Yawe nsusu sɛ mmɔyɔn wɔ so, na ne honhom mu nnyaabɔne nni hɔ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ahonya wɔ mu ne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mmɔyɔn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ne honhom mu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nnyaabɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:23.796638615Z",
+  "model": "glm-5.3"
+}

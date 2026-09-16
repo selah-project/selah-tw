@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "Sɔre, Yawe, kɔ wo homebea; wo ne wo ahoɔden adaka.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "kɔ wo homebea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ne ... adaka"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "wo ahoɔden"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:11.382829654Z",
+  "model": "glm-5.3"
+}

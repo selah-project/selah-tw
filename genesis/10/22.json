@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Shem mma ne Einam, Asur, Arfakshad, Lud ne Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Einam"
+    },
+    {
+      "surface": "ו אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfakshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:39.651218374Z",
+  "model": "glm-5.3"
+}

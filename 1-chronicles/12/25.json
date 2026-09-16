@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yehuda mma, wɔn a wɔsoa tsinah ⟨abɔdanke⟩ ne romah ⟨tironkasa⟩, na wɔyɛ apem nsia ne ahanwɔtwe, asraafoɔ a wɔasiesie wɔn ama ɔko.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wɔn a wɔsoa"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "tsinah ⟨abɔdanke⟩"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "ne romah ⟨tironkasa⟩"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "apem"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ne ahanwɔtwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(ahanu dodoɔ)"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "a wɔasiesie wɔn"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ama ɔko"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:01.391045666Z",
+  "model": "glm-5.3"
+}

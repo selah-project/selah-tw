@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Ɛfiri sɛ wo ne m'anidasoɔ, Adonai Yawe, m'agyinabea a m'ani da so nyinaa firi m'abɔfraase.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "m'anidasoɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "m'agyinabea a m'ani da so"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "firi m'abɔfraase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:30.332790522Z",
+  "model": "glm-5.3"
+}

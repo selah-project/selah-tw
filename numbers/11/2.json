@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na nnipa no frɛɛ Mosɛ, na Mosɛ bɔɔ Yawe mpaeɛ, na ogya no dum.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "bɔɔ ... mpaeɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "dum"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogya no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:30:52.165225181Z",
+  "model": "glm-5.3"
+}

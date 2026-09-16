@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Sɔre, ɛfiri sɛ asɛm no da wo so, na yɛn ne wo wɔ hɔ; yɛ den na yɛ no.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm no"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na yɛn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne wo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yɛ den"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na yɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:23:13.507572086Z",
+  "model": "glm-5.3"
+}

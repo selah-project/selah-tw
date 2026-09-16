@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 15:4",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Absalom kaa bio sɛ, Hena na ɔde mɛyɛ atemmufo wɔ asase so, na obiara a ɔwɔ akyinnye anaa asɛmmisa no bɛbra me, na mede atemu papa ama no?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kaa bio sɛ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ישמני",
+      "gloss": "na ɔde mɛyɛ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "atemmufo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "na me nkyɛn"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bɛbra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "akyinnye"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "anaa asɛmmisa"
+    },
+    {
+      "surface": "והצדקתיו",
+      "gloss": "na mede atemu papa ama no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:19.736375135Z",
+  "model": "glm-5.3"
+}

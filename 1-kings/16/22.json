@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Nnipa a wɔdii Omri akyi no dii ⟨את⟩ nnipa a wɔdii Tibni, Ginath ba, akyi no so nkonim, na Tibni wuiɛ, na Omri dii hene.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dii ... so nkonim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dii ... akyi"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa a wɔdii Tibni akyi no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dii ... akyi"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginath"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na ... wuiɛ"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na ... dii hene"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:38.959872597Z",
+  "model": "glm-5.3"
+}

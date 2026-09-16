@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Kaen firii Yawe anim, na ɔtenaa Nod asase so, wɔ Eden apueeɛ fam.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "firii"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaen"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "firi … anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ɔtenaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ … asase so"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "apueeɛ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:26.833986738Z",
+  "model": "glm-5.3"
+}

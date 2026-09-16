@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "⟨את⟩ wo nhyehyɛeɛ no bɛkora me so; ngya me kɔsi mfinimfini koraa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nhyehyɛeɛ no"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "wo nhyehyɛeɛ no"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "bɛkora me so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mm"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ngya me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "koraa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:56.623212737Z",
+  "model": "glm-5.3"
+}

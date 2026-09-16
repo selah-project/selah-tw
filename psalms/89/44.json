@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Wo nso adane n'afena ano aduru; na woamma no antena ase wɔ ɔko mu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "nso"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "adane"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ano aduru (ahantan)"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "n'afena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na woamma"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "no antena ase"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "wɔ ɔko mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:08.770424288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Ampa, Yawe bɛma deɛ ɛyɛ papa, na yɛn asase bɛma ne nnɔbaeɛ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ampa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "deɛ ɛyɛ papa"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "na yɛn asase"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bɛma"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ne nnɔbaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:45.401239354Z",
+  "model": "glm-5.3"
+}

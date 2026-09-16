@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Wɔn a wɔkan wɔn, wɔ Shimon abusuakuo no mu, yɛ ɔha aduonum-nkron dupem, ne aha-mmiɛnsa.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "wɔn a wɔkan wɔn"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wɔ abusuakuo no mu"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nkron"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ne aduonum"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dupem"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ne mmiɛnsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:15.079649149Z",
+  "model": "glm-5.3"
+}

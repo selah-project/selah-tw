@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Mosheh de ⟨את⟩ dɔm no firi ⟨the⟩ nnwam mu bɛhyiaa ⟨the⟩ Eloohim, na wɔgyinaa bepɔ no aseɛ.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "de ... firi mu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dɔm no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dɔm no"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "bɛhyiaa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nnwam mu"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "wɔgyinaa"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:18.248898430Z",
+  "model": "glm-5.3"
+}

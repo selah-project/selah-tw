@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Hwɛ me hwɛ, Yawe, na sɔ me; hyehyɛ me nyiniawa ne me akoma.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "hwɛ me hwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "na sɔ me"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "hyehyɛ"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "me nyiniawa"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ne me akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:07.307371450Z",
+  "model": "glm-5.3"
+}

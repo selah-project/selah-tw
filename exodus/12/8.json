@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na wɔbɛdi ⟨את⟩ nam no anadwo yi mu; wɔde ogya bɛnoa; na wɔbɛdi no burɔfoɔ aduane ne nwunu nwunudua.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "wɔbɛdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nam no"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nam no"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "bɛnoa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de ogya"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "burɔfoɔ aduane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "nwunu nwunudua"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "wɔbɛdi no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:27.074860499Z",
+  "model": "glm-5.3"
+}

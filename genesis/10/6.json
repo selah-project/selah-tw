@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Cham mma ne: Kush, Misraim, Put ne Kenaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:56.328788062Z",
+  "model": "glm-5.3"
+}

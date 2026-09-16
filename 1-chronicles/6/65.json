@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔ Gad asafokuo mu no, ⟨את⟩ Raamot a ɛwɔ Gilead ne ne asaasetam, ne ⟨את⟩ Mahanayim ne ne asaasetam.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na wɔ ... asafokuo mu no"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "a ɛwɔ Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne asaasetam"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asaasetam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Mahanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne asaasetam"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asaasetam"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:36.666689605Z",
+  "model": "glm-5.3"
+}

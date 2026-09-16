@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Na mmɔfrɛ Yawe din: Mepa wo kyɛw, Yawe, gye me nkwa.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Na mmɔfrɛ ... din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mmɔfrɛ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Mepa wo kyɛw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "gye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:52.365549812Z",
+  "model": "glm-5.3"
+}

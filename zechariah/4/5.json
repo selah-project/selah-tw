@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ogya no bɔɔ asɛm. Ɛna ⟨Adonai⟩ no, ɔwerɛfoɔ no a ɔka kasa wɔ me mu no, buaa, ɔka kyerɛɛ me sɛ: Wonnim sɛdeɛ ne teɛ? Sɛn na ɛyɛ? Nnim, me Adonai. Na mihyɛɛ aseɛ sɛ: Dabi, me Adonai.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ogyano"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ɔkasama"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkasa kyerɛɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "sɛ wonnnim"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wonnim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ne teɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mihyɛɛ aseɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-16T01:26:45.008722250Z",
+  "model": "glm-5.3"
+}

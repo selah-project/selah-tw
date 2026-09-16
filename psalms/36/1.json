@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Dwumadie sofoɔ no de, Yawe akoadzi Dawid de.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dwumadie sofoɔ no de"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "akoadzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:12.438186766Z",
+  "model": "glm-5.3"
+}

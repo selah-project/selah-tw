@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na wobɛfa sɛm, na wobɛbɔ ⟨את⟩ no nkukuo dumienu; nkyekyɛmu mmienu na ɛbɛyɛ kuko baako biara mu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na wobɛfa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sɛm"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "na wobɛbɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ no",
+      "marks": "nkukuo dumienu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "nkukuo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "nkyekyɛmu ɛdu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:24.301207948Z",
+  "model": "glm-5.3"
+}

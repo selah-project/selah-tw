@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Ɛfiri sɛ w'akoa ani gye ⟨את⟩ neaboɔ ho, na wɔda ⟨את⟩ ne prama aduro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ani gye ... ho"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "w'akoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neaboɔ"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "neaboɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne prama"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ne prama"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "wɔda ... aduro"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:22.632415410Z",
+  "model": "glm-5.3"
+}

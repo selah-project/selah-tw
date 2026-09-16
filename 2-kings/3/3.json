@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Nanso ɔdanee ho wɔ Yarobeam, Nebat ba, bɔne mu — de ɔmaa ⟨את⟩ Yisrael bɔɔ bɔne; wantwa ho.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nanso"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "wɔ...bɔne mu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ɔmaa...bɔɔ bɔne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ɔdanee ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wan-"
+    },
+    {
+      "surface": "סר",
+      "gloss": "twa ho"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:40.662318363Z",
+  "model": "glm-5.3"
+}

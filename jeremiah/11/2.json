@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Mon tie ⟨את⟩ saa nhyehyɛeɔ nsɛm yi, na monka akyerɛ Yuda mmarima ne Yerusalem abɔfoɔ:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "mon tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saa nhyehyɛeɔ nsɛm yi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "nhyehyɛeɔ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "saa... yi"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "monka akyerɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akerɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abɔfoɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:42.963462144Z",
+  "model": "glm-5.3"
+}

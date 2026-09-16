@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Sɛlomoh dii Ashtoret, Tsidonfoɔ abosom no akyi, na ɔdii Mirkom, Amonfoɔ adeɛ a ɛyɛ nwoni no akyi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dii...akyi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sɛlomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "abosom"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Tsidonfoɔ"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na...akyi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Mirkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "adeɛ a ɛyɛ nwoni"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Amonfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:47.775662260Z",
+  "model": "glm-5.3"
+}

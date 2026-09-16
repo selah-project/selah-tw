@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Efisɛ menim sɛ Yawe kɛseɛ, na yɛn Adonai sen abosom nyinaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "menim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "na yɛn Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sen … nyinaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "abosom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:30.382885426Z",
+  "model": "glm-5.3"
+}

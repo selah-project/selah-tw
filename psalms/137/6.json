@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 137,
+  "translation": "Me tɛkyerɛ mmɔ me kɔn mu, sɛ mennka wo akɔha, sɛ mmɛma ⟨את⟩ Yerusalem so wɔ me anigyeɛ atifi.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "mmɔ (mmo)"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "me tɛkyerɛ"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "me kɔn mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ka wo akɔha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mmɛma ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "me anigyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:49.050608065Z",
+  "model": "glm-5.3"
+}

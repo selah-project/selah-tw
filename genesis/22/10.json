@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Abraham de ne nsa no bɔɔ ase, faa ⟨את⟩ sekan no, sɛ ɔbɛto ⟨את⟩ ne ba no awu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "de bɔɔ ase"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekan no"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "sekan"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "sɛ ɔbɛto awu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba no"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:17.537064893Z",
+  "model": "glm-5.3"
+}

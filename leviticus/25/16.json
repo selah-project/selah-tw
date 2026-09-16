@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 25:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Sɛ afe dodow no dɔɔso a, wobɛtumi ka n'aboɔ; sɛ afe dodow no sua a, wobɛso n'aboɔ so; ɛfiri sɛ na afuo dwuma dodow na ɔretɔn ama wo.",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dodow dɔɔso"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "wobɛtumi ka"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "n'aboɔ"
+    },
+    {
+      "surface": "ולפי",
+      "gloss": "na sɛnea"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sua"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "wobɛso ... so"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "n'aboɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "dodow"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "afuo dwuma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ... retɔn"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ɔretɔn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:05.119984048Z",
+  "model": "glm-5.3"
+}

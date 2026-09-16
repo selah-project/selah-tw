@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Yawe ayɛ kɛseɛ, ɛfiri sɛ ɔtena soro; ɔde atemuo ne teeaseɛ ahyɛ Tsiyon ma.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ayɛ kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ɔtena"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "soro"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ahyɛ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemuo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "teeaseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:51:40.454947434Z",
+  "model": "glm-5.3"
+}

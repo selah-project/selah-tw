@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na saa na Isak asefoɔ nsɛm, Abraham ba: Abraham woo ⟨את⟩ Isak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na saa na"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "asefoɔ nsɛm"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    }
+  ],
+  "timestamp": "2026-09-15T20:26:06.158413068Z",
+  "model": "glm-5.3"
+}

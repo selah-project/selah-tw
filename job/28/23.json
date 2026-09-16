@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Eloohim te ne kwan mu; ɔno ara na ɔnim ⟨את⟩ ne baabi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "te ... mu"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ne kwan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ɔno ara na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ɔnim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne baabi"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ne baabi"
+    }
+  ],
+  "timestamp": "2026-09-16T03:28:21.866537548Z",
+  "model": "glm-5.3"
+}

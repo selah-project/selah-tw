@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Paroh ba no kaa sɛ: \"Kɔ.\" N abaawa no kɔeɛ, na ɔfrɛɛ ⟨את⟩ abɔfra no na.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Kɔ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "kɔeɛ"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "N abaawa no"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔfra no na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "abɔfra no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:52.042918113Z",
+  "model": "glm-5.3"
+}

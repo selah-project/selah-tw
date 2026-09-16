@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ne ⟨את⟩ Bet-Tsur ne ⟨את⟩ Soko ne ⟨את⟩ Adulam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ne ⟨את⟩",
+      "marks": "Bet-Tsur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Soko"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Adulam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    }
+  ],
+  "timestamp": "2026-09-16T04:57:48.544625071Z",
+  "model": "glm-5.3"
+}

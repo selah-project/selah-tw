@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na yeinom ne Terah nnipadɔm: Terah woo ⟨את⟩ Abram, ⟨את⟩ Nahor, ne ⟨את⟩ Haran; na Haran woo ⟨את⟩ Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na yeinom"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nnipadɔm"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "na Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:50.503757310Z",
+  "model": "glm-5.3"
+}

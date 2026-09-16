@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "efisɛ wɔsɔɔ ⟨את⟩ El nsɛm no ano, na wɔbuu El Elyon afotuo no atia;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "wɔsɔɔ ano"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "na afotuo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "wɔbuu atia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.314540149Z",
+  "model": "glm-5.3"
+}

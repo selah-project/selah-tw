@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na Yaakov trɛw Rael ano, na ɔmaa ⟨את⟩ ne drive dzii dɔm, na ɔsuiɛ.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "trɛw ano"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rael"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "maa ... dzii dɔm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne drive"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ne drive"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ɔsuiɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:11.083486995Z",
+  "model": "glm-5.3"
+}

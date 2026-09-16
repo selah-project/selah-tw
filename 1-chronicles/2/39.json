@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Azarya woo ⟨את⟩ Helets, na Helets woo ⟨את⟩ Elasa.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "na Helets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasa"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:45.806968954Z",
+  "model": "glm-5.3"
+}

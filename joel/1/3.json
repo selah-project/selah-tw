@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nka ho asɛm kyerɛ mo mma, na mo mma nka ho asɛm kyerɛ wɔn mma, na wɔn mma nka ho asɛm kyerɛ nkorɔda a ɛdi so.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "ho asɛm"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "kyerɛ mo mma"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Nka"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "na mo mma"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kyerɛ wɔn mma"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na wɔn mma"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kyerɛ nkorɔda"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a ɛdi so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:09:35.353817636Z",
+  "model": "glm-5.3"
+}

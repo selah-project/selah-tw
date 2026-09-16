@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Ma ɔdedufoɔ nnyigyei no mmra wo anim; sɛnea wo bɔla denden no, gye wɔn a wɔapaw wɔn ama owuo no nkwa.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "mmra"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "nnyigyei"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ɔdedufoɔ"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "sɛnea ... denden"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "wo bɔla"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "gye ... nkwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wɔn a ... no"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "wɔapaw wɔn ama owuo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:55.976845859Z",
+  "model": "glm-5.3"
+}

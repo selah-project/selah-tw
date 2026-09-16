@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Na Yisraelfoɔ mma no nyinaa dɔm no fii Mose anim.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "dɔm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fi n'anim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:03.080439833Z",
+  "model": "glm-5.3"
+}

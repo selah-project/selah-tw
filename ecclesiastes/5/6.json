@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ɛfiri sɛ wɔ dae dodoɔ mu hevel ne nsɛm bebree dɔɔso; nanso ⟨את⟩ Eloohim na ɛsɛ sɛ wosuro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "wɔ ... dodoɔ mu"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "dae"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "bebree dɔɔso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wosuro"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:06.545416216Z",
+  "model": "glm-5.3"
+}

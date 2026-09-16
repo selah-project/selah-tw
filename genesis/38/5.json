@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na ɔtoaa so bio, na ɔwoo ba, na ɔfrɛɛ ⟨את⟩ ne din Sela; na ɔwɔ Kezib berɛ a ɔwoo ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ɔtoaa so"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ɔfrɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɔwɔ"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "wɔ Kezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "berɛ a ɔwoo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:20.575857335Z",
+  "model": "glm-5.3"
+}

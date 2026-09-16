@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Me kra abubu wɔ akɔnnɔ mu ma wo atemmu ho, berɛ biara.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "abubu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "wɔ akɔnnɔ mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma ... ho"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "wo atemmu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "berɛ biara"
+    },
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:14.170858189Z",
+  "model": "glm-5.3"
+}

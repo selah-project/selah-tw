@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Aharon ne ne mma bɛba, na wɔasoa ɔsɔfoɔ no, na wɔbɛsian ⟨את⟩ parokɛt no mfi asɛnsowa no so, na wɔde ama ⟨את⟩ Adaka a asɛm no wɔ mu no.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "na wɔbɛba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "na wɔasoa ɔsɔfoɔ no"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "na wɔbɛsian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parokɛt no"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parokɛt"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "asɛnsowa"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "na wɔde ama"
+    },
+    {
+      "surface": "בה",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adaka no"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Adaka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "asɛm no wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:19.223786512Z",
+  "model": "glm-5.3"
+}

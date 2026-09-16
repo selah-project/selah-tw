@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Hommɔ a wɔsiw ano dinn — ɛyɛ de ma mo; na mote ⟨את⟩ mo nekra no ho ase; wɔ bosome no da a ɛtɔ so nkron anwummerɛ, firi anwummerɛ de kɔsi anwummerɛ, monnyina mo Hommɔ.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Hommɔ"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "a wɔsiw ano dinn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "de ma mo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "na mote ... ho ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nekra no"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mo nekra no"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "da a ɛtɔ so nkron"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wɔ bosome no"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "firi anwummerɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "monnyina"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "mo Hommɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:23.085424527Z",
+  "model": "glm-5.3"
+}

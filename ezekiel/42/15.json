@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 42:15",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Ɛberɛ a owiee ⟨את⟩ fie a ɛwɔ mu no nkyekyɛmu no, ɔde me baa abɔnten fa ɛpono a ɛhwɛ apueɛ fam no so; ɔsusuui ho ahoɔden nyinaa.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "owiee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie a ɛwɔ mu no nkyekyɛmu"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "nkyekyɛmu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "a ɛwɔ mu"
+    },
+    {
+      "surface": "והוציאני",
+      "gloss": "ɔde me baa abɔnten"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "apueɛ fam"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ɔsusuui"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ahoɔden nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:59:46.636941641Z",
+  "model": "glm-5.3"
+}

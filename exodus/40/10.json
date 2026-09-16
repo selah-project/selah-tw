@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wobesra ⟨את⟩ ayie ntwaboɔ no ne ⟨את⟩ ne nnwinnadeɛ nyinaa, na wode ayɛ kronkron ⟨את⟩ ntwaboɔ no, na ntwaboɔ no bɛyɛ kronkron a ɛkorɔn sen kronkron.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "na wobesra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayie ntwaboɔ no"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ntwaboɔ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ayie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnwinnadeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nnwinnadeɛ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na wode ayɛ kronkron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntwaboɔ no"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ntwaboɔ no"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ... bɛyɛ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ntwaboɔ no"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "a ɛkorɔn sen kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:24.961127512Z",
+  "model": "glm-5.3"
+}

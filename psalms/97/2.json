@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 97,
+  "translation": "Nsusuiɛ ne sumdɛeɛ atwa ne ho hyia; atte ne atrentere yɛ n'ahengua no nyinasoɔ.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Nsusuiɛ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ne sumdɛeɛ"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "atwa ne ho hyia"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atte"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ne atrentere"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nyinasoɔ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "n'ahengua no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:29.766998405Z",
+  "model": "glm-5.3"
+}

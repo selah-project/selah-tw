@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na asase no ayɛ ma abosomfoɔ; wɔkotow som dea wɔn nsa ayɛ, dea wɔn nsateaa ayɛ.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "na ... ayɛ ma"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "abosomfoɔ"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "dea ... ayɛ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "wɔkotow som"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "dea"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "wɔn nsateaa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:10.276017148Z",
+  "model": "glm-5.3"
+}

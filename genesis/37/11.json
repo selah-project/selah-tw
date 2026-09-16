@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na n'nuanomma ani beree no, nanso n'agya hwɛɛ ⟨את⟩ asɛm no so maa.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "na ani beree"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'nuanomma"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "nanso n'agya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hwɛɛ so maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm no"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:45.361385050Z",
+  "model": "glm-5.3"
+}

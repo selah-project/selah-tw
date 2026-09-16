@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Abraham sɔɔ gyinabea, na ɔyɛɛ aseɛda wɔ asase no nkyimu, Hete mma anim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔɔ gyinabea"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yɛɛ aseɛda"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nkyimu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hete"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:59.493165085Z",
+  "model": "glm-5.3"
+}

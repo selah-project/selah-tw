@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Sɛnea ɔwɔ bɔne frɛ nsuo aseɛ, saa na me werɛ ho frɛ wo, Eloohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Sɛnea ɔwɔ bɔne"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "nsuo aseɛ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me werɛ\/anuonyam"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:53:36.584679005Z",
+  "model": "glm-5.3"
+}

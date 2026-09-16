@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Firi ɔsoro mu Yawe bɔɔ nhwehwɛ, ɔhunuu ⟨את⟩ onipa mma nyinaa.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "firi ɔsoro mu"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "bɔɔ nhwehwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa mma nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:22.065449651Z",
+  "model": "glm-5.3"
+}

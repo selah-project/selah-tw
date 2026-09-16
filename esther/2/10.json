@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Esther daa ⟨את⟩ ne nkorɔfo ne ⟨את⟩ ne abusua adi ɛnni, ɛfiri sɛ Mordekai hyɛɛ no sɛ ɔmmɔ no dawuru.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "daa ... adi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkorɔfo"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ne nkorɔfo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne abusua"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ne abusua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordékai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ ... sɛ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ɔmmɔ dawuru"
+    }
+  ],
+  "timestamp": "2026-09-16T03:59:14.247502432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Yawe, gye wo ani so na me ano free-will afɔdeɛ, na kyɛ me wo atemmuo.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "free-will afɔdeɛ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "gye wo ani so"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "wo atemmuo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kyɛ me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:15.831587046Z",
+  "model": "glm-5.3"
+}

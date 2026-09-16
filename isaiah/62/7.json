@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Na ɛnnhyɛ no home da, kɔsii ne besiesie Yerusalem, na kɔsii ɔbɛyɛ ⟨את⟩ Yerusalem ayiyedeɛ wɔ asase so.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na ɛnn-"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "nnhyɛ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "home"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "besiesie"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kɔsii"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ɔbɛyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ayiyedeɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:27:21.958401902Z",
+  "model": "glm-5.3"
+}

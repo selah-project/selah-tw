@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Ne mma ne n'ammɔfra mma ⟨את⟩ no, ne mmea ne n'ammɔfra mmea, ne n'asefoɔ nyinaa — ɔde ⟨את⟩ wɔn baa Misraim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ne ... mma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n'ammɔfra mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne no"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ne mmea"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne ... mmaa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n'ammɔfra mmaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "n'asefoɔ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ɔde ... baa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:25.453331384Z",
+  "model": "glm-5.3"
+}

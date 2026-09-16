@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na sɛ moantie Yawe asɛm, na mootow ⟨את⟩ Yawe ano, na Yawe nsa bɛka mo ne mo nuanom agya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "moantie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "mootow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ... bɛka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ne mo nuanom agya"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:22.712364327Z",
+  "model": "glm-5.3"
+}

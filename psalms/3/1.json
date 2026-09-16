@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Nnwom a wɔde bɔɔ Dawid, berɛ a ɔguan firi Abshalom ne ba anim.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nnwom a wɔde bɔɔ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "berɛ a ɔguan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:46.484216678Z",
+  "model": "glm-5.3"
+}

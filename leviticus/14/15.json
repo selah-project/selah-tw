@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔsɔfoɔ no bɛfa ngo log mu bi, na wakɔgu ɔsɔfoɔ no nsa benkum nkyɛnmu so.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bɛfa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "log (ngo kyɛre) mu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "na wakɔgu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כף",
+      "gloss": "nsa nkyɛnmu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "benkum"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:13.975982305Z",
+  "model": "glm-5.3"
+}

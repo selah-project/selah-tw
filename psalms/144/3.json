@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "Yawe, onipa bɛn na wonim no? onipa ba bɛn na wobu no ho?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bɛn na"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "wonim no"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "wobu no ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:48.967775125Z",
+  "model": "glm-5.3"
+}

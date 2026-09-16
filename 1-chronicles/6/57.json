@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔ Yissaskar abusua mu no, ⟨את⟩ Kedesh ne ne asasetew, ⟨את⟩ Daberath ne ne asasetew.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na wɔ ... abusua mu"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ne asasetew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asasetew"
+    }
+  ],
+  "timestamp": "2026-09-16T04:37:29.968728544Z",
+  "model": "glm-5.3"
+}

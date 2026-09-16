@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 76,
+  "translation": "Wo, wo na wosuro obiara; na hena na ɔbɛgyina wo anim firi bere a w'ani abere no?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "wosuro obiara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hena"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ɔbɛgyina"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "firi bere a"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "w'ani abere no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:24.574453896Z",
+  "model": "glm-5.3"
+}

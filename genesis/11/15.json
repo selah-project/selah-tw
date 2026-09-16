@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Shelah tenaa aseɛ wɔ ne awoɔ ⟨את⟩ Eber akyi mfiɛ mmiɛnsa ne ɔha ɛnan, ɔwoo mma mmarima ne mma mmaa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na ... tenaa aseɛ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ne awoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfiɛ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ne ɛnan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfiɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma mmaa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:23:42.881392817Z",
+  "model": "glm-5.3"
+}

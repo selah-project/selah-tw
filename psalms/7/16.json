@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Wayɛ tokuro, wahutu no; na ɔatɔw mu wɔ tokuro a ɔyɛeɛ no mu.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "tokuro"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "wayɛ"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "wahutu no"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "na ɔatɔw mu"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "wɔ tokuro mu"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "a ɔyɛeɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:06.671861493Z",
+  "model": "glm-5.3"
+}

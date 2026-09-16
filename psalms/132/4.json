@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 132,
+  "translation": "sɛ ma nsɔmda ma m’aniso, m’ani ntaban nna —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ma … ma"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "nsɔmda"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "m’aniso"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "m’ani ntaban"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:08.696595572Z",
+  "model": "glm-5.3"
+}

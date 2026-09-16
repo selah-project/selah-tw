@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "na ne kurow mpanimfoɔ somma, wɔfa ⟨את⟩ no wɔ hɔ, na wɔde ⟨את⟩ no ma mogya-gyefoɔ no nsa, na ɔwu.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "somma"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ne kurow"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "wɔfa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "na wɔde ma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mogya-gyefoɔ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na ɔwu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:09.237330313Z",
+  "model": "glm-5.3"
+}

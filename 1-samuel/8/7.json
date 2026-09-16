@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Yawe kaa kyerɛɛ Samuel sɛ: “Tie amanfoɔ no nne wɔ deɛ wɔbɛka akyerɛ wo nyinaa mu, ɛfiri sɛ ɛnyɛ ⟨את⟩ wo na wɔannpɔ, na me na wɔapɔ ⟨את⟩ me sɛ mensan mmɛsɔre wɔn so.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kerɛɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wɔbɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "akyerɛ wo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "na wɔannpɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "na wɔapɔ"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "sɛ mensan mmɛsɔre"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:25.901635087Z",
+  "model": "glm-5.3"
+}

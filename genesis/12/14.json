@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛbae sɛ, aberɛ a Abram baa Misraim, Misraimfoɔ no hunuu ⟨את⟩ ɔbaa no, sɛ ɔno ara yɛ fɛ paa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbae sɛ"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "aberɛ a ... baa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Misraimfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbaa no"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "yɛ fɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:06.486930304Z",
+  "model": "glm-5.3"
+}

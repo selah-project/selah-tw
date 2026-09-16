@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ɛnam wo din, Yawe, nti, sisie me fɔdɔ, ɛfiri sɛ ɛyɛ kɛseɛ ⟨ara⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ɛnam ... nti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "sisie"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "me fɔdɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ara⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:47.402920906Z",
+  "model": "glm-5.3"
+}

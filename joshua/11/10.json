@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Bere koro no ara mu Yehoshua san baeɛ, ɔfaa ⟨את⟩ Hatsor, na ɔbɔɔ ⟨את⟩ ne hene no afena mu; ɛfiri sɛ Hatsor teteeɛ no, na ɛyɛ ti ma ahenni yi nyinaa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "san baeɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "bere"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "koro no ara mu"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne hene"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ne hene"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "afena mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "teteeɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na ɛyɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "ahenni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:44.644326342Z",
+  "model": "glm-5.3"
+}

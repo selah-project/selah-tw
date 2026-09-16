@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Mɛtoa ⟨את⟩ Misraim hyɛ ahemfo a wɔyɛ den nsam, na ɔhene a ɔwɔ ahoɔden bɛdi wɔn so — Adonai Yawe Tsevaot asɛm.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Mɛtoa ... hyɛ ... nsam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "a wɔyɛ den"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na ɔhene"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a ɔwɔ ahoɔden"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "bɛdi ... so"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:57.076367747Z",
+  "model": "glm-5.3"
+}

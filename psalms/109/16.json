@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Ɛfiri sɛ ɔankae sɛ ɔbɛyɛ hesed (adɔeɛ), na ɔdi otia aloɔfoɔ ne ahiafoɔ, ne wɔn a wɔn akoma abubu, sɛ ɔbɛkum wɔn.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ankae"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "sɛ ɔbɛyɛ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (adɔeɛ)"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "na ɔdi otia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aloɔfoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ne ahiafoɔ"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ne wɔn a wɔabubu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "sɛ ɔbɛkum"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:41.879966543Z",
+  "model": "glm-5.3"
+}

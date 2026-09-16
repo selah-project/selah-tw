@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Eloohim Honhom hyɛɛ Saul so den wɔ ɛberɛ a ɔtee nsɛm ⟨את⟩ yi, na ne bo fuu no kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "hyɛɛ so den"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Honhom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "wɔ ɛberɛ a ɔtee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "na ne bo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "fuu no"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:47.389602809Z",
+  "model": "glm-5.3"
+}

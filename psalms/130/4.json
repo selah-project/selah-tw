@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 130,
+  "translation": "Ɛfiri sɛ bɔnefakyɛ wɔ Wo nkyɛn, na wɔbɛsuro Wo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wɔ Wo nkyɛn"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "bɔnefakyɛ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "wɔbɛsuro Wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:50.763544476Z",
+  "model": "glm-5.3"
+}

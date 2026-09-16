@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Efisɛ mo bɛyɛ sɛ terebint a ne nhaban reyɛ furu, na sɛ afuo a nsuo nni ho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mo bɛyɛ"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "sɛ terebint"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "reyɛ furu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ne nhaban"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "na sɛ afuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:39:49.297685162Z",
+  "model": "glm-5.3"
+}

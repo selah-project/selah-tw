@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na ɛyɛ saa nhyira yi a Mose, Eloohim onipa no, hyiraa ⟨את⟩ Yisrael mma no anim wɔ ne wuo no.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Na ɛyɛ saa"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hyiraa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim wɔ"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ne wuo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:16.969807383Z",
+  "model": "glm-5.3"
+}

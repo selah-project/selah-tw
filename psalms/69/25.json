@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Tɔ wo sumi gu wɔn so, na wo abufuo dɔeɛ nyera wɔn.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Tɔ...gu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "wo sumi"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "na ... dɔeɛ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wo abufuo"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "nyera wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:48.837047906Z",
+  "model": "glm-5.3"
+}

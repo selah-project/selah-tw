@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na Shaul somaa asɛmfoɔ kɔfa ⟨את⟩ Dawid, na ɔkaa sɛ: ɔyare.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "asɛmfoɔ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kɔfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ɔyare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:49.742657525Z",
+  "model": "glm-5.3"
+}

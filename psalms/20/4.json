@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "(Ɔno) Nkae wo afɔrede nyinaa, na ɔnye wo ole afɔrede no sɛ ɛyɛ ⟨dɛ⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Nkae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "wo afɔrede"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "wo ole afɔrede"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ɔnye no sɛ ɛyɛ ⟨dɛ⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:10.437737924Z",
+  "model": "glm-5.3"
+}

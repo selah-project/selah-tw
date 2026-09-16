@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 98,
+  "translation": "Wɔ taretrat mu ne shofar nne, momɔ kangadie wɔ Ɔhene Yawe anim.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "wɔ taretrat mu"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ne ... nne"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "momɔ kangadie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:48.411574992Z",
+  "model": "glm-5.3"
+}

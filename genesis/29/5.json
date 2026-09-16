@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na ɔka kyerɛɛ wɔn sɛ: Mo nim Laban, Najor ba no? Na wɔkaa sɛ: Yɛnim no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔka kyerɛɛ wɔn sɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Mo nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laban"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Na wɔkaa sɛ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Yɛnim no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:08.710459156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ne ⟨את⟩ Hori no wɔ wɔn bepɔ Seir mu, kɔsii El-Paran, a ɛda saree no so.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "wɔ wɔn bepɔ mu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "-Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "saree no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:15.035499164Z",
+  "model": "glm-5.3"
+}

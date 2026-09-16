@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Mpaeɛbɔ, Moshe dea, Eloohim onipa. Adonai, mmoapɔ fie — wo na woyɛɛ yɛn dea, wɔ nkolɔ mu ne nkolɔ mu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Mpaeɛbɔ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe dea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mmoapɔ fie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "woyɛɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn dea"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "wɔ nkolɔ mu"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ne nkolɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:29.827772188Z",
+  "model": "glm-5.3"
+}

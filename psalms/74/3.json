@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Ma wo nan so wɔ adesaeɛ a ɛtra hɔ daa mu; biribiara a ɔtanfoɔ no yɛɛ bɔne wɔ asɔredan kronkron no mu.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Ma wo nan so"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "wo nan"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "wɔ adesaeɛ mu"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "a ɛtra hɔ daa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yɛɛ bɔne"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtanfoɔ no"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "wɔ asɔredan kronkron no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:07:42.112829533Z",
+  "model": "glm-5.3"
+}

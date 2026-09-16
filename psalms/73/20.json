@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Sɛ dae a ɔsɔ n'ani so, Adonai — sɛ wote kɔkɔ, wobɛbu wɔn mfonini animtia.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "sɛ dae"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "a ɔsɔ n'ani so"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sɛ wote kɔkɔ"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "wɔn mfonini"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "wobɛbu animtia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:30.735804569Z",
+  "model": "glm-5.3"
+}

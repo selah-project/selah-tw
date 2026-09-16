@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Wɔatwa yɛn nananamu ho ahyia seesei; wɔn ani asisɛ wɔbɛpɔ yɛn abɔ asase so.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "yɛn nananamu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "seesei"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "wɔatwa me ho ahyia"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wɔn ani"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "wɔasisɛ"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "sɛ wɔbɛpɔ yɛn abɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:07.635633661Z",
+  "model": "glm-5.3"
+}

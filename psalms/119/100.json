@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Me nteaseɛ kyɛn mpanyimfoɔ, ɛfiri sɛ medii wo mmara so.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kyɛn mpanyimfoɔ"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "me nteaseɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "wo mmara"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "medii so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:22.855210911Z",
+  "model": "glm-5.3"
+}

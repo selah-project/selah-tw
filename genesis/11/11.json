@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Sem tenaa ase mfeɛ ahaenum wɔ ne awoɔ ⟨את⟩ Arfakshad akyi, na ɔwoo mmamma ne mmaawa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ne awoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arfakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arfakshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "enum"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mmamma"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mmaawa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:53.492400094Z",
+  "model": "glm-5.3"
+}

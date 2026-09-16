@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "M'asɛm, Yawe, trɛ wo aso tie; bu m'ahome-mmu-moro nkaeɛ.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "m'asɛm"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "trɛ wo aso tie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "bu ... nkaeɛ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "m'ahome-mmu-moro nkaeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:33.596811233Z",
+  "model": "glm-5.3"
+}

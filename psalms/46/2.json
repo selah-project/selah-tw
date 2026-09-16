@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Eloohim ⟨yɛ⟩ yɛn akwannya ne ahoɔden, mmoa a wɔhunu no mprenu wɔ ɔhaw mu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "akwannya"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ne ahoɔden"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "wɔ ɔhaw mu"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "wɔhunu no"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mprenu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:31.561316217Z",
+  "model": "glm-5.3"
+}

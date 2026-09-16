@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Mayɛ asɛm atemmu ne atrede, mma wɔn a wɔkyere me nka me.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Mayɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "asɛm atemmu"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ne atrede"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "nka me"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "wɔn a wɔkyere me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:34.386739198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "“Hyɛ adifoɔ a wɔso ⟨את⟩ adanseɛ ɛdan no so no hwɛ sɛ wɔforo Yarden no mu.”",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "hyɛ ... hwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adifoɔ no"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "adifoɔ no"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "a wɔso ... so"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ɛdan"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "adanseɛ no"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sɛ wɔforo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:46.991907796Z",
+  "model": "glm-5.3"
+}

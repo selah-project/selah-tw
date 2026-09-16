@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na ɛbɛyɛ sɛ mo abɛfa ⟨את⟩ Yarden no, mo besisi ⟨את⟩ aboɔden yi a mehyɛ mo nkwammojeɛ ɛnnɛ yi wɔ Ebal bepɔ so, na mo bɛto sibiri agu wɔn so.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbɛyɛ sɛ"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "mo abɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "mo besisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aboɔden yi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "aboɔden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "hyɛ nkwammojeɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "wɔ bepɔ so"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "na mo bɛto sibiri agu so"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "sibiri"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:42.507296281Z",
+  "model": "glm-5.3"
+}

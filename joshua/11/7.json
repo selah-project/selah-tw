@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 11:7",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yehoshua baa hɔ ne akofoɔ nyinaa, baa wɔn so wɔ Merom nsuo ho ntɛm ara, na wɔtow hyɛɛ wɔn so.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa hɔ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "akofoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Merom"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ntɛm ara"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "wɔtow hyɛɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:06:11.764966080Z",
+  "model": "glm-5.3"
+}

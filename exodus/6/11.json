@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Kɔ kasa kyerɛ Misraim ɔhene Paroh, na ɔmma ⟨את⟩ Israel mma no atu afiri n'asase mu.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Kɔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na ɔmma ... atu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel mma no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "afiri n'asase mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:01.115377851Z",
+  "model": "glm-5.3"
+}

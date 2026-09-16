@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ogya firi Yawe anim bae, dii wɔn ⟨את⟩, na wɔwuiɛ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "firi bae"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "na wɔwuiɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:24.550763192Z",
+  "model": "glm-5.3"
+}

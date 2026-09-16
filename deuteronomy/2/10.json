@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Emim dedaw na wɔtenae ⟨hɔ⟩ — nnipakuw a wɔyɛ kɛseɛ ne dodoɔ na wɔasenea, sɛnea Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dedaw"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tenae"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipakuw"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ne dodoɔ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ne senea"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "sɛnea Anakim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:44:53.657167059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 130,
+  "translation": "Adonai, tie me nne; na Wo ntɛn nyɛ asisie wɔ me mpaebɔ nne ho.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "Wo ntɛn"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "asisise"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "wɔ ... nne ho"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "me mpaebɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:50.759286322Z",
+  "model": "glm-5.3"
+}

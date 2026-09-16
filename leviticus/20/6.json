@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 20:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔkra a ɔbɛdan akɔ ⟨את⟩ obosomfoɔ ne abayisɛmfoɔ nkyɛn bɔ ayefire wɔ wɔn akyi, mɛsi m'ani so ⟨את⟩ m'ani gu ɔkra no so, na mɛtwam no afiri ne man mu.",
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "na ɔkra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "ɔbɛdan akɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "obosomfoɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "abayisɛmfoɔ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "bɔ ayefire"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "wɔ wɔn akyi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mɛsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'ani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ɔkra no so"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na mɛtwam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "ɔkra no"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "afiri ... mu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne man"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:17.930176600Z",
+  "model": "glm-5.3"
+}

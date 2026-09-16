@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Laban kae sɛ: Ɛyɛ papa sɛ mede ⟨את⟩ no ma wo, sen sɛ mede ⟨את⟩ no ma ɔbarima foforɔ; tena me nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kae sɛ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Ɛyɛ papa"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "sɛ mede … ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "sen sɛ mede … ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "tena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "me nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:30.816014215Z",
+  "model": "glm-5.3"
+}

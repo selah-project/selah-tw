@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ne akyi ɔwaree ⟨את⟩ Maakah, Abshalom babaa, na ɔwoo mma no: ⟨את⟩ Abiyah ne ⟨את⟩ Attai ne ⟨את⟩ Ziza ne ⟨את⟩ Shelomith.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ne akyi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ɔwaree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babaa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mma no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Attai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Shelomith"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomith"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:46.613555252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 53,
+  "translation": "Nkwasea no kaa wɔ akoma mu sɛ: “Eloohim nni hɔ.” Wɔasɛe wɔn ho; na wɔayɛ bɔne a ɛyɛ dɛsɛɛ; obiara nni hɔ a ɔyɛ papa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nkwasea"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "wɔ akoma mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "wɔasɛe wɔn ho"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "na wɔayɛ dɛsɛɛ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:36.612971559Z",
+  "model": "glm-5.3"
+}

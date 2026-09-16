@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɛfiri sɛ ⟨את⟩ kuntu a ɛso ne botaeɛ, ne ⟨את⟩ paloa a ɛda ne kɔn so, mmɔba a ɔtɛmmubuafoɔ no de bɔ no no — Woadum no sɛ Midian da no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuntu a ɛso ne botaeɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuntu"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ne botaeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paloa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "paloa"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ne kɔn"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mmɔba"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ɔtɛmmubuafoɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "Woadum"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sɛ da"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    }
+  ],
+  "timestamp": "2026-09-15T23:44:11.710452248Z",
+  "model": "glm-5.3"
+}

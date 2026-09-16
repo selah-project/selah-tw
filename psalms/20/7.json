@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Sɛdeɛ ɛteɛ yi, mahunu sɛ Yawe gye ne Mashíach nkwa; ɔbɛbua no firi n'asoro kronkron mu, ne nsa nifa ahoɔden a ɛgya no mu.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sɛdeɛ ɛteɛ yi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mahunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "gye … nkwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ne Mashíach"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "ɔbɛbua no"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "firi n'asoro"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kronkron mu"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "a ɛgya no"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ne nsa nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:58.321721848Z",
+  "model": "glm-5.3"
+}

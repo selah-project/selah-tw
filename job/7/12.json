@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "So meyɛ ɛpo anaa tanin, na ɛsɛ sɛ wode banbɔ si me so?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "meyɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "tanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na ɛsɛ sɛ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "wode ... si"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "banbɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:11:30.701754277Z",
+  "model": "glm-5.3"
+}

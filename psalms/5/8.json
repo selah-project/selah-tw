@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na me de, mempɛ w'hesed (adɔeɛ kɛseɛ) mu na mɛbɛ w' fie; mɛbɔ mpaeɛ ama w'asɔredan kronkron no wɔ wo suro mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me de"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "w'hesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mɛbɛ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "w' fie"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "mɛbɔ mpaeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "asɔredan"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "wo suro mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:07.777273619Z",
+  "model": "glm-5.3"
+}

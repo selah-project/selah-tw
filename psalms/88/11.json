@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 88,
+  "translation": "Wobɛyɛ nwononwonde ama awufoɔ anaa? Sɛ Refaim sɔre, wobɛda wo nso anaa? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ama awufoɔ anaa?"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "nwononwonde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "wobɛda wo nso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:22.570213754Z",
+  "model": "glm-5.3"
+}

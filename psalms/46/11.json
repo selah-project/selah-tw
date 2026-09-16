@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Gyae, na monnim sɛ me ne Eloohim; mepue soro wɔ aman mu, mepue soro wɔ asase so.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "gyae"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "na monnim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mepue soro"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ aman mu"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mepue soro"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:35.586780389Z",
+  "model": "glm-5.3"
+}

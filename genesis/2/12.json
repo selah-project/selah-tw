@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na sika kɔkɔɔ a ɛwɔ asase no mu no yɛ pa; bedolium ne shoham boɔ nso wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Na sika kɔkɔɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yɛ pa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolium"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ne boɔ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:05.032315897Z",
+  "model": "glm-5.3"
+}

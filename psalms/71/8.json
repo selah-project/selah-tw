@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Ma me ano nommya ayeyie a ɛda wo so, ne wo animuonyam, dapɛn nyinaa.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "Ma me ano nommya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ayeyie a ɛda wo so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dapɛn"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "wo animuonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:30.333421520Z",
+  "model": "glm-5.3"
+}

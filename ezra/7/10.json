@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ɛfiri sɛ Ezra sii ne koma mu sɛ ɔbɛhwehwɛ ⟨את⟩ Yawe Torah, na ɔbɛyɛ, na ɔbɛkyerɛ wɔ Yisrael mu mmara ne atemmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ne koma mu"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sɛ ɔbɛhwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Torah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "na ɔbɛyɛ"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "na ɔbɛkyerɛ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wɔ Yisrael mu"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ne atemmu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:52:59.042494680Z",
+  "model": "glm-5.3"
+}

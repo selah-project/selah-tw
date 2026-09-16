@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mosheh kaa kyerɛɛ nnipadɔm no se, nsɛm yi na Yawe ahyɛ sɛ wɔnyɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ahyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ wɔnyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:44.711599482Z",
+  "model": "glm-5.3"
+}

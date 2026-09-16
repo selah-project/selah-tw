@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Na Nebuzaradan, atwentwɛfoɔ no panin, kyeree ⟨את⟩ wɔn, na ɔde wɔn kɔɔ Babylɔn ɔhene hɔ wɔ Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kyeree"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "Nebuzaradan kyeree wɔn"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panin"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "atwentwɛfoɔ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "kɔɔ Babylɔn ɔhene hɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylɔn"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    }
+  ],
+  "timestamp": "2026-09-16T05:32:03.062988238Z",
+  "model": "glm-5.3"
+}

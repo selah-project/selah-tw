@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yawe frɛ́ Mose, na ɔkasa kyerɛɛ no firi Nhyiaguan mu, se:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de kɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "firi nhyia"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hyia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:49.939178029Z",
+  "model": "glm-5.3"
+}

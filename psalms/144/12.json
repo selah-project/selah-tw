@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 144,
+  "translation": "A, yɛn mma mmarima yɛ sɛ nnɔbae a wɔatotɔ na wɔanyini wɔ wɔn mmerɛboberɛ mu; yɛn mma mmaa yɛ sɛ abo a wɔatwa no yie, sɛ ahemfie adan nkyerɛnne.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "A (sɛ)"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "yɛn mma mmarima"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "sɛ nnɔbae a wɔatotɔ"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "na wɔanyini"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "wɔ wɔn mmerɛboberɛ mu"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "yɛn mma mmaa"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "sɛ abo a wɔatwa (kɔnantam)"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "wɔatwa no yie"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "nkyerɛnne"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ahemfie adan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:09.762462350Z",
+  "model": "glm-5.3"
+}

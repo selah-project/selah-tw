@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 149,
+  "translation": "Ahotewfoɔ mmɔ anigye wɔ animuonyam mu, na wɔnto dwom wɔ wɔn mpa so.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "mmɔ anigye"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ahotewfoɔ"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "wɔ animuonyam mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nto dwom"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "wɔn mpa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:14.544993407Z",
+  "model": "glm-5.3"
+}

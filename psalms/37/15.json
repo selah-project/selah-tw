@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Wɔn afena no bɛkɔ wɔn akoma mu, na wɔn toaa no bɛsɛe.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Wɔn afena"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "wɔn akoma mu"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "na wɔn toaa no"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bɛsɛe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:57.144130692Z",
+  "model": "glm-5.3"
+}

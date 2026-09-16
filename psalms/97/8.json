@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 97,
+  "translation": "Sion tee asɛm no na ɛdwodwoeɛ, Yuda mma anigyeɛɛ, ɛfiri sɛ woade atemmu no, Yawe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "tee asɛm no"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "na ɛdwodwoeɛ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "anigyeɛɛ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "watemmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:48.984294306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɛnyɛ awufoɔ biara nsa so na ɔbɛkɔ; ɛnyɛ n'agya anaa ne na enti na ɔbɛhoyera ne ho.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na ɛfa … ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "awufoɔ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "awu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ɔnkɔ"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "n'agya ho"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "anaa ne na ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ɔnhoyera ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:02.324334756Z",
+  "model": "glm-5.3"
+}

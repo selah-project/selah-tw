@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Nanso me deɛ, meyɛ kɔkɔram, ɛnyɛ onipa; meyɛ nnipa animmonyam, na amanfoɔ bu me so.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "nanso me deɛ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kɔkɔram"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "animmonyam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "bu me so"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amanfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:25.382568335Z",
+  "model": "glm-5.3"
+}

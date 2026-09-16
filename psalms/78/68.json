@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Na ɔpaw ⟨את⟩ Yuda abusuakuo, ⟨את⟩ bepɔ Sion a ɔdɔ.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ɔpaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda abusuakuo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "abusuakuo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ɔdɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:45.432899392Z",
+  "model": "glm-5.3"
+}

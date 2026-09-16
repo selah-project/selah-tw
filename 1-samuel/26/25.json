@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 26:25",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Saul kaa kyerɛɛ Dawid sɛ: “Nhyira wo, me ba Dawid; dwuma a wubɛyɛ no wobɛyɛ, na wo tumi deɛ wubɛtumi.” Dawid kɔɔ ne kwan so, na Saul san baa ne baabi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Nhyira wo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wubɛyɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "wubɛtumi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "wobɛtumi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ne kwan so"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Saul"
+    },
+    {
+      "surface": "שב",
+      "gloss": "san baa"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "ne baabi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:49.267024702Z",
+  "model": "glm-5.3"
+}

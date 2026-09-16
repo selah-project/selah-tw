@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Ma ɔdi dwom no anim no dea, Dawid asa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ma ɔdi dwom no anim no dea"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:51:23.620685573Z",
+  "model": "glm-5.3"
+}

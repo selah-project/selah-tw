@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na sɛ wo ka ⟨את⟩ yɛn asɛm yi da, a, yɛn ho nka asɛm wɔ wo ntam no mu, a wo maa yɛn kae no.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "wo ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn asɛm yi"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "yɛn asɛm"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "yɛn ho nka asɛm"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ho nka asɛm"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "wo ntam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "wo maa yɛn kae"
+    }
+  ],
+  "timestamp": "2026-09-15T22:02:44.497767568Z",
+  "model": "glm-5.3"
+}

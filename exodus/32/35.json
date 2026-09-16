@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Yawe bɔɔ ⟨את⟩ ɔman no yadeɛ, ɛfiri sɛ wɔyɛɛ ⟨את⟩ mmerɛbofoɔ no a Aharon yɛeɛ.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "bɔɔ yadeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmerɛbofoɔ no"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mmerɛbofoɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-15T21:02:18.373654416Z",
+  "model": "glm-5.3"
+}

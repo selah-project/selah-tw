@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ne ⟨את⟩ wɔn a wɔasan akyi fri Yawe akyi, ne wɔn a wɔanhwehwɛ ⟨את⟩ Yawe, na wɔansɔre hwehwɛ no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔasan akyi"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "wɔn a wɔsan akyi"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "fri … akyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ne wɔn a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hwehwɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔn-"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "sɔre hwehwɛɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:23:51.442359467Z",
+  "model": "glm-5.3"
+}

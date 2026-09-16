@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Ɛfiri sɛ Eloohim bɛde ⟨את⟩ adeyɛ biara aba atemmuyie mu, deɛ wɔashinta biara so, sɛ eye papa anaa sɛ eye bɔne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeyɛ biara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adeyɛ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛ… aba"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "atemmuyie mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "deɛ wɔashinta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ… anaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "anaa sɛ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:19.064212387Z",
+  "model": "glm-5.3"
+}

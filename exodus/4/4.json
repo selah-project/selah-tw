@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na Yawe kaa Mosheh ho asɛm sɛ: Trɛw wo nsa, na fa ne to so. Na ɔtrɛwɛe ne nsa, na ɔkaa no mu yam, na ɔbɛyɛɛ pɔ wɔ ne kɔnkɔn mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "trɛw"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "na fa ... so"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "ne to so"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na ɔtrɛwɛe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "na ɔkaa mu yam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɔbɛyɛɛ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pɔ"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "wɔ ne kɔnkɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:50.606376350Z",
+  "model": "glm-5.3"
+}

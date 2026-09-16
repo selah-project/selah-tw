@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "ɛfiri sɛ, Tsoan na wɔn mpanimfoɔ wɔ, na wɔn asomafoɔ duu Hanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "wɔn mpanimfoɔ"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "na wɔn asomafoɔ"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "duu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:50:22.376246191Z",
+  "model": "glm-5.3"
+}

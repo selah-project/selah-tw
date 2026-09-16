@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na asɔfoɔ a ɔrehoɔ no bɛma ⟨את⟩ onipa a wɔrehoɔ no ne ⟨את⟩ nneɛma no nyinaa gyina Yawe anim, wɔ Nhyiam Tɛntan no ahantan.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "bɛma ... gyina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a ɔrehoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa a wɔrehoɔ no"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a wɔrehoɔ no"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩",
+      "marks": "nneɛma no nyinaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ahantan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tɛntan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    }
+  ],
+  "timestamp": "2026-09-15T22:29:32.447708926Z",
+  "model": "glm-5.3"
+}

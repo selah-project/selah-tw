@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na seesei, sɛ me papa de ⟨את⟩ ayamyeɛ duruw too mo so a, na mede bɛka mo ayamyeɛ so ho; me papa de ⟨את⟩ mo dii asotwe wɔ ateaa so, na mede ⟨את⟩ mo bɛyɛ asotwe wɔ akokɔfrann mu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "me papa"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "de too … so"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayamyeɛ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "duruw"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "de bɛka ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "mo ayamyeɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "me papa"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "dii asotwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "wɔ ateaa so"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "bɛyɛ asotwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "wɔ akokɔfrann mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:55.338580442Z",
+  "model": "glm-5.3"
+}

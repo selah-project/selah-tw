@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na mɛkae ⟨את⟩ me apam a ɛne Yaakov, ne ⟨את⟩ me apam a ɛne Yitschak, ne ⟨את⟩ me apam a ɛne Abraham mɛkae, na ⟨את⟩ asase no mɛkae.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "na mɛkae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "mɛkae"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na asase no"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "mɛkae"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:01.231351889Z",
+  "model": "glm-5.3"
+}

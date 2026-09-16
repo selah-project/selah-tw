@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 35:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Na ɔsii ogyapae hɔ, na ɔtoo beaeɛ no din El-Bet-El, ɛfiri sɛ hɔ na Eloohim daa ⟨את⟩ no ara adi wɔ berɛ a ɔdwanee firi ne nua anim.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "na ɔsii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ogyapae"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔtoo ... din"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "beaeɛ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "נגלו",
+      "gloss": "daa ... adi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "wɔ berɛ a ɔdwanee"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    }
+  ],
+  "timestamp": "2026-09-15T20:34:18.172077820Z",
+  "model": "glm-5.3"
+}

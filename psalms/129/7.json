@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 129,
+  "translation": "Ɛyɛ nwura a ɔkɔtɔfoɔ nsa nnyɛ ma no, na ɔbo aduane deɛ no mu dakyi nso nnyɛ ma ɔno ara.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "nnyɛ ma no"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nsa nnyɛ"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "ɔkɔtɔfoɔ"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "na ... ne dakyi"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ɔbo aduane deɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:25.128423364Z",
+  "model": "glm-5.3"
+}

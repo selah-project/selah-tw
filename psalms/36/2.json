@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Ɔyɛfoɔ bɔne no mfomsoɔ ka wɔ me akoma mu sɛ: Eloohim ho suro nni hɔ wɔ ⟨ne⟩ ani anim.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mfomsoɔ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "Ɔyɛfoɔ bɔne no"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "suro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ani anim"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ne ani"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:12.439178521Z",
+  "model": "glm-5.3"
+}

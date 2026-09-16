@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 112,
+  "translation": "Ɛsɛ sɛ ɛda hɔ daa, ɛrenkyin; ɔtee no bɛtena nkaeɛ mu kɔ sikakɔkɔɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛsɛ sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ɛrenkyin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "bɛtena nkaeɛ mu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kɔ sikakɔkɔɔ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔtee no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:01.951249449Z",
+  "model": "glm-5.3"
+}

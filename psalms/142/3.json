@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 142,
+  "translation": "Mebo me komam nsɛm agu n'anim, na me ɔhaw nso mede kyerɛ n'anim.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "mebo ... agu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "me komam nsɛm"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "me ɔhaw"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mede kyerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:39.863424424Z",
+  "model": "glm-5.3"
+}

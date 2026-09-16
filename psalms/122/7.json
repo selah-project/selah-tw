@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 122,
+  "translation": "Asomdwoeɛ mmra wo ntwantomu mu, ahotɔ mmra wo abansoro mu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mmra"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "wo ntwantomu mu"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "ahotɔ"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "wo abansoro mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:02.394476481Z",
+  "model": "glm-5.3"
+}

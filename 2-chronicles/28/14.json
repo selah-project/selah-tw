@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Ɛno nti asraafoɔ a wɔhyɛ akwanhyia no gyawee nnɔbaa no ne ⟨את⟩ asɛeɛ no wɔ mpanimfoɔ no anim ne ⟨את⟩ nnipa dodoɔ no nyinaa anim.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "gyawee"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "asraafoɔ a wɔhyɛ akwanhyia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnɔbaa no"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "nnɔbaa no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asɛeɛ no"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "asɛeɛ no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mpanimfoɔ no"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nnipa dodoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:08:30.743143365Z",
+  "model": "glm-5.3"
+}

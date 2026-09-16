@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na sɛ onipa anantwie bɔ ⟨את⟩ ne yɔnko anantwie, na ɛwuiɛ a, wɔbɛtɔn ⟨את⟩ anantwie a ɔte aseɛ no, na wɔbɛkyɛ ⟨את⟩ ne sika no; na ⟨את⟩ deɛ ɛwuiɛ no nso wɔbɛkyɛ no mu mmienu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yɔnko anantwie"
+    },
+    {
+      "surface": "שור",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na ɛwuiɛ"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "wɔbɛtɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anantwie a ɔte aseɛ no"
+    },
+    {
+      "surface": "השור",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "החי",
+      "gloss": "a ɔte aseɛ no"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "na wɔbɛkyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne sika no"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ne sika"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛwuiɛ no"
+    },
+    {
+      "surface": "המת",
+      "gloss": "deɛ ɛwuiɛ no"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "wɔbɛkyɛ no mu mmienu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:16.828507173Z",
+  "model": "glm-5.3"
+}

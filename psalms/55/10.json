@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Sumbo, Adonai, pa wɔn tɛkrɛma mu, ɛfiri sɛ mahunu basabasayɛ ne ntegyae wɔ ⟨the⟩ kuro no mu.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Sumbo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "pa ... mu"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "wɔn tɛkrɛma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mahunu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "basabasayɛ"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ne ntegyae"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wɔ kuro no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:32.802301929Z",
+  "model": "glm-5.3"
+}

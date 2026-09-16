@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Nea wɔ ne nsa mu na adeɛ a ɔwɔ nkwa nyinaa nkwa te, ne honhom a ɛwɔ onipa no nyinaa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ne nsa mu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "adeɛ a ɔwɔ nkwa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ne honhom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-16T03:15:24.044579472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Ɛbaa sɛ da a ɛtɔ so mmienu a wɔkum ⟨את⟩ Gedalyahu no, na obiara annim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbaa sɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "a wɔkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na onipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anni-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
+    }
+  ],
+  "timestamp": "2026-09-16T00:26:33.517198495Z",
+  "model": "glm-5.3"
+}

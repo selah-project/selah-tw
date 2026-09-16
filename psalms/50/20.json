@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Woten ase kasa tia wo nuanom barima, na wo bu wɔ nua barima a ɔfiri wo na mu no anim.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "woten ase"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "tia wo nuanom barima"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "wɔ nua barima"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "a ɔfiri wo na mu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wo bu"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "anim hyɛ ase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:56:01.920953011Z",
+  "model": "glm-5.3"
+}

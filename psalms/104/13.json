@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Wo nom nsuo ma nnepɔn firi w'akɛseɛ mmeae mu; asase no ho tɔ firi w'nnwuma aba mu.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Wo nom nsuo ma"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "nnepɔn"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "firi w'akɛseɛ mmeae mu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "firi aba mu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "w'nnwuma"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ho tɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:42.746485892Z",
+  "model": "glm-5.3"
+}

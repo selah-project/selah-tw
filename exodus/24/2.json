@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Mosheh nko ara na ɔbɛdɔ Yawe nkyɛn; wɔn nnbɛdɔ; na ɔman no nso nnkɔ soro ne ho.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "na ɔbɛdɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ ... nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na wɔn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "bɛdɔ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na ɔman no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kɔ soro"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:55:43.866304425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Yawe maa ⟨את⟩ Paroh, Misraim ɔhene, akoma yɛɛ den, na ɔdiidii Yisraël mma akyi; na Yisraël mma no firi hɔ bɛsrɛ nsa.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "maa ... yɛɛ den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh akoma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ɔdiidii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "firi hɔ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "bɛsrɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:37.908454555Z",
+  "model": "glm-5.3"
+}

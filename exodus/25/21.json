@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wode ⟨את⟩ akata no bɛto adaka no so, na wode ⟨את⟩ adanseɛ no ahyɛ adaka no mu — deɛ mɛde ama wo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "wode ... bɛto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akata no"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "akata no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ... mu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wode ... ahyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adanseɛ no"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adanseɛ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mɛde ... ama"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:06.656948592Z",
+  "model": "glm-5.3"
+}

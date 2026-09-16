@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɔno na ɔbɔɔ ⟨את⟩ Pilisteifoɔ kɔsii Aza, ne ⟨את⟩ n'ahantan nyinaa, firi banmuhwɛfo tower so kɔsii kurow a wɔabɔ ho ban.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ɔno"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pilisteifoɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilisteifoɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'ahantan"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "n'ahantan"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "firi tower so"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "banmuhwɛfo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "a wɔabɔ ho ban"
+    }
+  ],
+  "timestamp": "2026-09-15T23:34:59.116469912Z",
+  "model": "glm-5.3"
+}

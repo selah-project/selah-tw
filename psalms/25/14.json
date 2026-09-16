@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Yawe ahintasɛm no wɔ wɔn a wɔsuro no no, na ne apam no de kyerɛ wɔn.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "ahintasɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wɔn a wɔsuro no no"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "na ne apam no"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "de kyerɛ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:25.560802029Z",
+  "model": "glm-5.3"
+}

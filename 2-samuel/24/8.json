@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Wɔtwaa asase no nyinaa ho hyɛn, na wɔdii bosome nkron ne nna aduonu wieɛ no, wɔbaa Yerusalem.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "wɔtwaa ho hyɛn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wɔbaa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "wɔdii ... wieɛ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nkron"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bosome"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-15T23:11:58.122347239Z",
+  "model": "glm-5.3"
+}

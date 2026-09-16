@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ahoɔhare nko ara na ɛde akasakasa ba, na ⟨את⟩ wɔn a wɔbɔ afutuo mu no nyansa wɔ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ahoɔhare"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "de ... ba"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "akasakasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔbɔ afutuo mu"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "wɔn a wɔbɔ afutuo mu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:52:21.602793369Z",
+  "model": "glm-5.3"
+}

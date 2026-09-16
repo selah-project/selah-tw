@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Wo bɛso sɔre, wo bɛhu Zion mmɔbɔ, ɛfiri sɛ ɛberɛ a ɛsɛ sɛ wɔda no aduru aba, ɛfiri sɛ ɔberɛ a wɔahyɛ no da no aduru.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bɛso sɔre"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "bɛhu ... mmɔbɔ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ɛberɛ"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "a ɛsɛ sɛ wɔda no aduru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aduru"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ɔberɛ a wɔahyɛ no da"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:22.631881779Z",
+  "model": "glm-5.3"
+}

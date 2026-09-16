@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Nokorɛ, Yawe, Asan ahemfo no asɛe ⟨את⟩ aman no ne ⟨את⟩ wɔn asase.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Nokorɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aman no"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asase"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:25.060451133Z",
+  "model": "glm-5.3"
+}

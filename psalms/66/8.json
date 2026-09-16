@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Amanaman, momma mo nkyɛnhyɛn yɛn Eloohim; monyɛ n'ayɛyie dɔn no aso nyɛ adwuma.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "momma mo nkyɛnhyɛn"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Amanaman"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "monyɛ ... aso nyɛ adwuma"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "n'ayɛyie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:29.068209472Z",
+  "model": "glm-5.3"
+}

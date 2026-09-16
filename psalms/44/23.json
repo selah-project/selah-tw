@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Ampa, wɔ wo deɛ no ntam wɔakum yɛn dapɛn nyinaa; wɔabu yɛn sɛ nnwan a wɔbɛkum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ampa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wɔ wo deɛ no ntam"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "wɔakum yɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dapɛn"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "wɔabu yɛn sɛ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sɛ nnwan"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "a wɔbɛkum (ayɛ nwansɛm)"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:09.787017304Z",
+  "model": "glm-5.3"
+}

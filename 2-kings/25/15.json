@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɔkaa ⟨את⟩ ogyaframa, ne ⟨את⟩ nsuo nkuruwa; deɛ ɛyɛ sika kɔkɔɔ no, sika kɔkɔɔ; na deɛ ɛyɛ dwetɛ no, dwetɛ; ɔhyɛn akodzifoɔ no kaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogyaframa"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "ogyaframa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nsuo nkuruwa"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "nsuo nkuruwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ ɛyɛ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na deɛ ɛyɛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ɔhyɛn"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "akodzifoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:38:03.309198380Z",
+  "model": "glm-5.3"
+}

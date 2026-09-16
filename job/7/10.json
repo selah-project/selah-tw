@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ɔnsan nkɔ n'afie bio, na ne tenabea nnhu no bio.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɔn-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "nsan nkɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "n'afie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔn-"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "nnhu no"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ne tenabea"
+    }
+  ],
+  "timestamp": "2026-09-16T03:11:30.701389816Z",
+  "model": "glm-5.3"
+}

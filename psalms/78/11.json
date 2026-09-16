@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Na wɔwerɛfii n'adeyɛ ne nsɛm a ɛyɛ nwonwa a ɔkyerɛɛ wɔn.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Na wɔwerɛfii"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "n'adeyɛ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ne nsɛm a ɛyɛ nwonwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ɔkyerɛɛ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:59.203407470Z",
+  "model": "glm-5.3"
+}

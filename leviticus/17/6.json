@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ɔhem no bɛbɔ ⟨את⟩ mogya no wɔ Yawe bɔne so, abɛsam a ɛyɛ frɛyɛ no ano, na ɔde ngo no afum ama Yawe nka dɛ ɛyɛ dɛ.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "na ɔbɛbɔ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔhem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogya no"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "abɛsam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "frɛyɛ"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "na ɔde afum"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ngo no"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ama nka"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a ɛyɛ dɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:37.217027898Z",
+  "model": "glm-5.3"
+}

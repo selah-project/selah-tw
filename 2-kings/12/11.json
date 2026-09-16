@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 12:11",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Ɛbaa hɔ sɛ, wɔhunu sɛ sika no dɔɔso wɔ adaka no mu no, ɔhene no akrɔnsɛmfoɔ ne asɔfoɔ kunini no baa so, bɔɔ sika no kotoku mu, kan ⟨את⟩ sika no a wɔhunuu no wɔ Yawe fi no mu no.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbaa hɔ sɛ"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "wɔhunu sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sika no"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "adaka no mu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "baa so"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "akrɔnsɛmfoɔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "ne asɔfoɔ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kunini no"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "bɔɔ kotoku mu"
+    },
+    {
+      "surface": "וימנו",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika no"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sika no"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a wɔhunuu no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:32:05.390752568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Hwan na onim wo abufuo ahoɔden? Sɛnea wosuro wo no, saa na wo boɔ te.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "onim"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wo abufuo"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "sɛnea wosuro wo no"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "wo boɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:15.672710955Z",
+  "model": "glm-5.3"
+}

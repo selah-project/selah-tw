@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 92,
+  "translation": "Wɔ nnwomdan-du so ne korogye so, wɔ higayon ⟨nnwomhyɛ mu⟩ wɔ sankawa so.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "nnwomdan-du"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ne wɔ ... so"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "korogye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon ⟨nnwomhyɛ⟩"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wɔ sankawa so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:17.872668705Z",
+  "model": "glm-5.3"
+}

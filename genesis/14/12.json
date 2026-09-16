@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wɔfaa ⟨את⟩ Lot ne ⟨את⟩ n'agyapadeɛ — Abram nuabarima ba — na wɔkɔeɛ; na ɔno na ɔte Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'agyapadeɛ"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "n'agyapadeɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuabarima"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wɔkɔeɛ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno na"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ɔte"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Sodom"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:02.383243053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Ɔkaa se, ⟨את⟩ me nuanom na mehwehɛ; ka akyerɛ me, mepa wo kyɛw, ɛhe na wɔrebɔ mmirekyire?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nuanom"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "me nuanom"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mehwehɛ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ka akyerɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ɛhe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "rebɔ mmirekyire"
+    }
+  ],
+  "timestamp": "2026-09-15T20:34:30.391727984Z",
+  "model": "glm-5.3"
+}

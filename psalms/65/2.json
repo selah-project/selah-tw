@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Wɔ wo nkyɛn na teɛyɛ ⟨yɛ⟩ ayɔdeɛ, Eloohim, wɔ Zion, na wɔ wo nkyɛn na nkae-bɔhyɛ no bɛwie.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Wɔ wo nkyɛn"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "teɛyɛ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ayɔdeɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "wɔ Zion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na wɔ wo nkyɛn"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bɛwie"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nkae-bɔhyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:53.612383044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 12:14",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Yawe ka kyerɛɛ Mosheh sɛ: Sɛ n'agya tetew wɔ n'anim a, ɔrenti n'ani aseɛ nnawɔtwe? Wɔde no bɛto taban no akyi nnawɔtwe, na akyire no wɔbɛsan agye no aba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "tetee"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "tetew"
+    },
+    {
+      "surface": "בפניה",
+      "gloss": "wɔ n'anim"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "soɔ"
+    },
+    {
+      "surface": "תכלם",
+      "gloss": "ɔrenti n'ani aseɛ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nnawɔtwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "תסגר",
+      "gloss": "wɔde no bɛto"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nnawɔtwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "wɔ taban no"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na akyire"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "wɔbɛsan agye no aba"
+    }
+  ],
+  "timestamp": "2026-09-15T22:29:57.375579658Z",
+  "model": "glm-5.3"
+}

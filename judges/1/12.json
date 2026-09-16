@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Kaleb kaa sɛ: Obi a ɔbɛbɔ ⟨את⟩ Kiryat-Sefer na watutu no, mɛma no ⟨את⟩ Aksa me ba no ne Aware.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Obi a"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ɔbɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "na watutu no"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mɛma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa me ba no"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "me ba no"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ne Aware"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:00.601966870Z",
+  "model": "glm-5.3"
+}

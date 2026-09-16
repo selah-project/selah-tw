@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe frɛɛ Samuel, na ɔkaa sɛ: “Mewɔ ha.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mewɔ ha"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:42.376371940Z",
+  "model": "glm-5.3"
+}

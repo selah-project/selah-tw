@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Eye no fi a ɔyɛ wɔ ne ho twɛ mu: sɛ ne yam srɔggya ⟨את⟩ ne ho twe, anaasɛ ne yam hye gu so fi ne ho twɛ mu, no ne fi nea ɛyɛ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "eye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ne fi"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "wɔ ne ho twɛ mu"
+    },
+    {
+      "surface": "רר",
+      "gloss": "srɔggya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ne yam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ho twe"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ne ho twe"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "hye gu so"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ne yam"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "fi ne ho twɛ mu"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ne fi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nea ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:29:00.141676861Z",
+  "model": "glm-5.3"
+}

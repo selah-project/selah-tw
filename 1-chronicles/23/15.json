@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Moshe mma ne Gereshom ne Eliezer.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ne Eliezer"
+    }
+  ],
+  "timestamp": "2026-09-16T04:45:29.766137176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "bere a ɔdaa ne ahennie animuonyam ahonya adi, ne ne kɛseɛ nteaseɛ foforɔ anuonyam no adi, nna pii — nna ɔha ne aduowɔtwe.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "bere a ɔdaa ... adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ahennie animuonyam ahonya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ahonya"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ne ahennie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne kɛseɛ nteaseɛ foforɔ anuonyam"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "nteaseɛ foforɔ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "anuonyam"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "ne kɛseɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "aduowɔtwe"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ne ɔha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:44.343340772Z",
+  "model": "glm-5.3"
+}

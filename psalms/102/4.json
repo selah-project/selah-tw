@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Ɛfiri sɛ m'nnawɔtwe atwa sɛ ogyatuo, na m'ntini ahye sɛ ogya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "atwa"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sɛ ogyatuo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "m'nnawɔtwe"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "na m'ntini"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "קד",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ahye"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:09.891606029Z",
+  "model": "glm-5.3"
+}

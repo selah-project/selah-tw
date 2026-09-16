@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na ɛbaa sɛ, sɛ Baasha teeɛ no, ɔgyaee Rama sisi, na ɔtenaa Tirzah mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sɛ ɔtee"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ɔgyaee"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ɔtenaa"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirzah mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:24.535106671Z",
+  "model": "glm-5.3"
+}

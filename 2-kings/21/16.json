@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 21:16",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Menua nso huu mogya a ɛho nni asɛm pii ɛyɛ den, kɔsii sɛ ɔmaa Yerusalem hyɛɛ ma — ano kɔsi ano — a ɛnyɛ ne bɔne a ɔde ma wɔn a ɔmaa Yuda bɔne no ho; sɛdeɛ wɔbɛyɛ deɛ ɛyɛ bɔne wɔ Yawe ani so.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a ɛho nni asɛm"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "huu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menua"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ɛyɛ den"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ɔmaa ... hyɛɛ ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "kɔsi ano"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a ɛnyɛ ... no ho"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ɔmaa ... bɔne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛdeɛ wɔbɛyɛ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "deɛ ɛyɛ bɔne"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... ani so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:36:40.942007015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔkaa sɛ: Wɔmma Abishag ⟨את⟩ Shunem-ni no mma Adonija, wo nua, no yɛ ɔyere.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na ɔkaa sɛ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wɔmma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Shunem-ni"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "mma Adonija"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "no yɛ ɔyere"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:39.250164212Z",
+  "model": "glm-5.3"
+}

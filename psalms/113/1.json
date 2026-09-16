@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Kanye no, Yah! Kanye no, Yawe akodie; kanye no ⟨את⟩ Yawe din.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "kanye no"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kanye no"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akodie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kanye no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:47.630729892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Ma wo adwuma da adi wɔ w'akoafoɔ so, na wo nkɛntɛnsoɔ nso wɔ wɔn mma so.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ma ... da adi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "w'akoafoɔ"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "wo adwuma"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "na wo nkɛntɛnsoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so wɔ"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wɔn mma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:06.616461549Z",
+  "model": "glm-5.3"
+}

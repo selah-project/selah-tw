@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na Moshe sii afɔre asɔn, na ɔtoo ne din Yawe-Nisi (Yawe ne me banbɔ).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "sii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "afɔre asɔn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ɔtoo ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi (me banbɔ)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:21.141595489Z",
+  "model": "glm-5.3"
+}

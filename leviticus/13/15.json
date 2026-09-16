@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔsɔfoɔ no behunu ⟨את⟩ nwoma no, na ɔbɛbu no sɛ ɔyɛ ɛfi; nwoma no yɛ ɛfi — ɛyɛ werɛ-yadeɛ.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "behunu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoma no"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nam no"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nwoma no"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ɔbɛbu no sɛ ɔyɛ ɛfi"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nam no"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nwoma no"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "yɛ ɛfi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "werɛ-yadeɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛno"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:58.195965038Z",
+  "model": "glm-5.3"
+}

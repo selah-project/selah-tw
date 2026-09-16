@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Yawe kaa kyerɛɛ Moshe: Mehunu ⟨את⟩ nnipa yi, na hwɛ, wɔyɛ nnipa a wɔn kɔn gyae so dene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Mehunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa yi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "gyae so dene"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kɔn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:16.097620511Z",
+  "model": "glm-5.3"
+}

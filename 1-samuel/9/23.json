@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Shemuel ka kyerɛɛ aduanenoafoɔ no sɛ: \"Ma ⟨את⟩ ɔfa a mede maa wo no, a mekaa kyɛɛ wo sɛ, 'Fa hyɛ wo nkyɛn.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ ... sɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "aduanenoafoɔ no"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔfa no"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "ɔfa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mekaa kyɛɛ wo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שים",
+      "gloss": "Fa hyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wo nkyɛn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne ⟨את⟩ wo nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:52.836563674Z",
+  "model": "glm-5.3"
+}

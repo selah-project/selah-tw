@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Ɔma nsuo-sɔreɔ firi asase ntwamu, ɔyɛ nkɔnkɔɔ de ma osu, ɔde mframa firi ne asieɛ mu.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ɔma … sɔre"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "nsuo-sɔreɔ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "firi … ntwamu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "nkɔnkɔɔ"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "de ma osu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ɔde … firi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ne asieɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:30.392760817Z",
+  "model": "glm-5.3"
+}

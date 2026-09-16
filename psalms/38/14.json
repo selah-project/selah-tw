@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na me deɛ, mete sɛ watire, mentie; na me te sɛ mumuni a ɛnbue ne ano.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me deɛ"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sɛ watire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mentie"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "na me te sɛ mumuni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ɛnbue"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ne ano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:50.401513818Z",
+  "model": "glm-5.3"
+}

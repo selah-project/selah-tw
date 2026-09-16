@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 110,
+  "translation": "Ɔbɛbu atesɛm wɔ amanmufoɔ mu, ɔde nnampon ahyɛ mu, ɔtetewɛ ti asasetɛ kɛseɛ so.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ɔbɛbu atesɛm"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanmufoɔ mu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ɔde ... ahyɛ mu"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "nnampon"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ɔtetewɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asasetɛ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:10.264367019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Na wɔtetew mu firi ɔman so akɔ ɔman so, firi ahennie so akɔ aman foforɔ so.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Na wɔtetew mu"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "firi ɔman so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ɔman so"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "firi ahennie so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aman"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforɔ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:03.197142965Z",
+  "model": "glm-5.3"
+}

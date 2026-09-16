@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Mma Yawe animuonyam ntena hɔ kɔsi da; na Yawe nnye ayɛmyie wɔ ne nnwuma mu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mma ... ntena hɔ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔsi da"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nnye ayɛmyie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "wɔ ne nnwuma mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:24.153066297Z",
+  "model": "glm-5.3"
+}

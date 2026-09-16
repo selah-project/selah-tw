@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Eloohim bɔfo no kaa kyerɛɛ me wɔ da mu sɛ: Yakob. Na mekaa sɛ: Me de, mewɔ ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛɛ me"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "bɔfo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim no"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "wɔ da mu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mekaa sɛ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Me de, mewɔ ha"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:22.246014473Z",
+  "model": "glm-5.3"
+}

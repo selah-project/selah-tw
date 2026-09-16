@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na David kɔɔ, ɔno ne mmarima aha nsia a wɔne no, na wɔduu asubɔnten Besor; na wɔn a aka no gyinaa hɔ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ne nsia"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (ne no)",
+      "marks": "mmarima aha nsia"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wɔduu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "na wɔn a aka no"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "gyinaa hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:59:56.498953417Z",
+  "model": "glm-5.3"
+}

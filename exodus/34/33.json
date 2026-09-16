@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na Mosheh wiee ɔkasa kyerɛ ⟨את⟩ wɔn no, ɔde maswe no sii n'anim so.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wiee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ɔkasa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn (Yisrael mma)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde ... sii"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "maswe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:01.124759703Z",
+  "model": "glm-5.3"
+}

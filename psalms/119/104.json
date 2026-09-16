@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Fi wo nhyehyɛeɛ mmara no mu na mɛte ase, enti makyi ɔkwan a ɛyɛ nkontompo biara.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "fi wo nhyehyɛeɛ mmara no mu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mɛte ase"
+    },
+    {
+      "surface": "על",
+      "gloss": "enti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "makyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ɔkwan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a ɛyɛ nkontompo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:43.275257559Z",
+  "model": "glm-5.3"
+}

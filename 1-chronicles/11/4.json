@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Dawid ne Israel nyinaa kɔɔ Yerusalem — ɛno ne Jebus — na Jebusifoɔ a wɔte asase no so no wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛno ne"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jebus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na ... wɔ hɔ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusifoɔ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "a wɔte ... so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:16.307317260Z",
+  "model": "glm-5.3"
+}

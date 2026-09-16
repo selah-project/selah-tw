@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Na mihwɛɛ so sɛ mɛte asɛm yi aseɛ, na ɛyɛɛ adwuma a ɛyɛ den dodo wɔ m'ani so.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "na mihwɛɛ so"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sɛ mɛte aseɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "asɛm yi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "adwuma a ɛyɛ den dodo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ m'ani so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:53.144209197Z",
+  "model": "glm-5.3"
+}

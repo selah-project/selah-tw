@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Deɛ ɔyɛeɛ no yɛɛ bɔne wɔ Yawe anim, enti ɔkum ⟨את⟩ no nso.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "yɛɛ bɔne"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛeɛ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ɔkum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Onan)"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:06.247332406Z",
+  "model": "glm-5.3"
+}

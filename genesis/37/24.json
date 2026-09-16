@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na wɔfaa no, na wɔguu no ⟨את⟩ guu bor mu; na bor no yɛɛ hun, nsuo nni mu.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "wɔfaa no"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "wɔguu no"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Yosef)"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "bor mu"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "na bor no"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yɛɛ hun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:32.878293176Z",
+  "model": "glm-5.3"
+}

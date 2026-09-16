@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "El a ɔma me nsɔhwɛ so nkonim, na ɔde aman brɛ me ase.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ɔma"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "nsɔhwɛ so nkonim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na ɔde … brɛ ase"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "me ase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:40:29.940640871Z",
+  "model": "glm-5.3"
+}

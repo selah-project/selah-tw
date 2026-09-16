@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 142,
+  "translation": "Berɛ a me honhom ayera me mu no, na wo nim me kwan; ɔkwan a mekɔ so yi so na wɔasisi abɔborɔ ama me.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "berɛ a ... ayera"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me mu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "me honhom"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wo nim"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "me kwan"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "ɔkwan so"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "mekɔ so"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "wɔasisi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "abɔborɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:39.865386427Z",
+  "model": "glm-5.3"
+}

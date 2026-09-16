@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔka kyerɛɛ no se: Bra kɔ ⟨את⟩ me ho akɔ fie, na di burowdua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔka kyerɛɛ no se"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Bra kɔ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me ho"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "akɔ fie"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na di"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burowdua"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:43.498754685Z",
+  "model": "glm-5.3"
+}

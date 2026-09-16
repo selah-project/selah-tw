@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na sɛ Mosheh ma ne nsa so wɔ a, Yisrael dii nkonim; na sɛ ɔma ne nsa to hɔ a, Amalek nso dii nkonim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ma ne nsa so wɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "dii nkonim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ma ne nsa to hɔ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "nso dii nkonim"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:49.489447530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Deɛ ɔhwɛ nnwontofoɔ dwuma so no; Dawid de mizmo. M'ayeyie Eloohim, mmɔ wo koma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Deɛ ɔhwɛ nnwontofoɔ dwuma so no"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "m'ayeyie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "wo koma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:21.949543997Z",
+  "model": "glm-5.3"
+}

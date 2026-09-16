@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 112,
+  "translation": "Han sɔre wɔ sum mu ma wɔn a wɔte atɛnterɛm — adɔe, mmɔborɔhunufo, na ɔtee.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "wɔ sum mu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Han"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ma wɔn a wɔte atɛnterɛm"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "adɔe"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mmɔborɔhunufo"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ɔtee"
+    }
+  ],
+  "timestamp": "2026-09-16T02:27:19.521716344Z",
+  "model": "glm-5.3"
+}

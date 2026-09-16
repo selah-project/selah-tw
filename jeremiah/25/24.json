@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "ne ⟨את⟩ Arabia ahemfo nyinaa, ne ⟨את⟩ nnipa a wɔaka abom a wɔte sare no mu no ahemfo nyinaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Arabia ahemfo nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nnipa a wɔaka abom ahemfo nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nnipa a wɔaka abom"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "a wɔte"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sare no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:14:35.709282646Z",
+  "model": "glm-5.3"
+}

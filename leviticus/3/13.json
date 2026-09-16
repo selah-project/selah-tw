@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔde ne nsa to ⟨את⟩ ne ti so, na ɔtwu ⟨את⟩ no Nhyiaeɛ Fie anim, na Aharon mma bɛbɔ ne mogya gu ayɛsiei no so, na ɛatwa ho hyia.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ɔde ne nsa to"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa (his hand)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne ti"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ɔtwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (abirekyie no — the goat)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Fie"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiaeɛ"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "bɛbɔ ... gu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mogya (its blood)"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ne mogya"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ayɛsiei no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ɛatwa ho hyia"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:38.900969256Z",
+  "model": "glm-5.3"
+}

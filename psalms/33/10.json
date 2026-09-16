@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Yawe bubua aman adwene, na ɔsɛe nnipa nhyehyɛeɛ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "bubua"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "adwene"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ɔsɛe"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:09.774069773Z",
+  "model": "glm-5.3"
+}

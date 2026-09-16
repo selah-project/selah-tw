@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Wɔ Sabat da no mu, wɔ Sabat da no mu na wɔbɛsi no Yawe anim daa; ɛyɛ ⟨את⟩ deɛ efi Yisrael mma nkyɛn, apam a ɛbɛtena hɔ daa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da no mu"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ... da no mu"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "wɔbɛsi no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ deɛ efi",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛbɛtena hɔ daa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:24.301820546Z",
+  "model": "glm-5.3"
+}

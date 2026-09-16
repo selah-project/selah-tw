@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na mo bɛbɔ so ⟨את⟩ me mmara ne ⟨את⟩ me atemmu, a onipa bɛyɛ ⟨את⟩ ɛno na watena ase wɔ mu; me ne Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mo bɛbɔ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me mmara"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "me mmara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me atemmu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "me atemmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɛno"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "watena ase"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:38.738819585Z",
+  "model": "glm-5.3"
+}

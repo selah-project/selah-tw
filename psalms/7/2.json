@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yawe, me Eloohim, meguan kɔgu wo mu; gyae me firi wɔn a wɔdi me akyi nyinaa mu, na gye me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "meguan kɔgu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gyae me"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa mu"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "wɔn a wɔdi me akyi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na gye me"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:27.334492972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 5:5",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Enti Dakon asɔfoɔ ne wɔn a wɔba Dakon fie mu no nyinaa, wɔampɔ Dakon mmɔntenso so wɔ Ashdod, kɔsi ɛnnɛ da yi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "enti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ידרכו",
+      "gloss": "ampɔ so"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dakon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ne nyinaa"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "wɔ a wɔba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dakon"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "mmɔntenso"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dakon"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "wɔ Ashdod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "da yi"
+    }
+  ],
+  "timestamp": "2026-09-16T05:16:27.867069453Z",
+  "model": "glm-5.3"
+}

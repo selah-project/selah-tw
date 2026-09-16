@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na ɔhyehyɛɛ ⟨את⟩ nnua no, tetee ⟨את⟩ ɔsanso no mu, de too nnua no so.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "Na ɔhyehyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnua no"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nnua no"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "tetee mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsanso no"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ɔsanso no"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "de too"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nnua no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:34.927724062Z",
+  "model": "glm-5.3"
+}

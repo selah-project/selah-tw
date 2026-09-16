@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 149,
+  "translation": "Sɛ wɔbɛkyew wɔn ahemfo nsensanee mu, na wɔn akɛseɛfoɔ nsensanee a ɛyɛ dadeɛ mu.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "sɛ wɔbɛkyew"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wɔn ahemfo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "nsensanee mu"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "wɔn akɛseɛfoɔ"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "nsensanee"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "a ɛyɛ dadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:14.550620423Z",
+  "model": "glm-5.3"
+}

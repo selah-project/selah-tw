@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 149,
+  "translation": "El ho ayeyie kɛseɛ ntra wɔn moma mu, na akofena a n'ano yɛ mmieenu ntra wɔn nsa mu.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ayeyie kɛseɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "wɔn moma mu"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na akofena"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "a n'ano yɛ mmieenu"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "wɔn nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:14.547003883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 133,
+  "translation": "Ɛte sɛ nsuo-tiri a ɛfiri Hermon so ba, a ɛsene gyina Ziyon mmepɔ so; ɛfiri sɛ hɔ na Yawe hyɛɛ ⟨את⟩ nhyira no — nkwa da a ɛnni awieeɛ.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Ɛte sɛ nsuo-tiri"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "a ɛsene gyina"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyira no"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "nhyira no"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "da a ɛnni"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "awieeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:59.594060326Z",
+  "model": "glm-5.3"
+}

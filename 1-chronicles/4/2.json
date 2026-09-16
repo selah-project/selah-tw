@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Reaia, Shobal ba, woo ⟨את⟩ Yachat, na Yachat woo ⟨את⟩ Achumai ne ⟨את⟩ Lahad; wɔn ne nnipa-akuw a wɔfrɛ wɔn Tsearatifoɔ.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "na Reaia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "na Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wɔn ne"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "nnipa-akuw"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Tsearatifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:59.428197792Z",
+  "model": "glm-5.3"
+}

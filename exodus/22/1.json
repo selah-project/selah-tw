@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Sɛ wɔhunu ɔkorɔfoɔ wɔ ɔtetee mu, na wɔbɔ no na ɔwuiɛ a, mogya nni hɔ ma no.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "wɔ ɔtetee mu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "wɔhunu"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ɔkorɔfoɔ"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "na wɔbɔ no"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na ɔwuiɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mogya"
+    }
+  ],
+  "timestamp": "2026-09-15T20:55:11.339761509Z",
+  "model": "glm-5.3"
+}

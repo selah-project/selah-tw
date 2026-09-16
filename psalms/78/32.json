@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Eyi nyinaa mu no, wɔbɔɔ bɔne dada, na wɔannye ne nnyeyɛeɛ ahodoɔ no annie.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "... mu nyinaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "wɔbɔɔ bɔne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔan-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "nye ... annie"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "ne nnyeyɛeɛ ahodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:41.644004048Z",
+  "model": "glm-5.3"
+}

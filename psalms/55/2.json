@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Tie ⟨ahotɔ⟩ me mpaeɛbɔ, Eloohim, na wo ho mmuta mfiri me mpaebɔsrɛ mu.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Tie ⟨ahotɔ⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "me mpaeɛbɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na … mm"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "wo ho mmuta"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "mfiri me mpaebɔsrɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:25.565755701Z",
+  "model": "glm-5.3"
+}

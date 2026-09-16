@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Wo ne ⟨ה⟩ El a ɔyɛ nneɛma a ɛyɛ nwanwa; woama amanpirim ahunu wo ahoɔden.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨ה⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "nneɛma a ɛyɛ nwanwa"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "woama ... ahunu"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "amanpirim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "wo ahoɔden"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:01.135463714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Ɛfiri sɛ Yah paw Yaakov ama ɔno ara, Yisraelfoɔ ama ne ankasa agyapadeɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "paw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ama ɔno ara"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "ama ne ankasa agyapadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:12.689220516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɔberɛ a mfie du-nsia no baa awieeɛ, a Solomo bɔɔ ⟨את⟩ Yawe fie ne ⟨את⟩ n'ankasa fie,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "baa"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "awieeɛ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "du-nsia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'ankasa fie"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n'ankasa fie"
+    }
+  ],
+  "timestamp": "2026-09-16T04:56:20.108271434Z",
+  "model": "glm-5.3"
+}

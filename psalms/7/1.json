@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Shigaion, Dawid dea, a ɔtoo dwom maa Yawe, fa Kush, Benyamini ba, asɛmfua ho.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɔtoo dwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa ... ho"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛmfua"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyamini"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:27.334118521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Na wo, Yawe Adonai, yɛ adeyɛ me ho ⟨את⟩, wɔ wo din nti, ɛfiri sɛ wo hesed yɛ papa; gyaw me.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ adeyɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me ho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "gyaw me"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:02.962310877Z",
+  "model": "glm-5.3"
+}

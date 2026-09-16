@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Yawe, wo hesed wɔ ɔsoro mu; w'ahotoso-nokorɛ kɔ so kɔsii nkɔnkɔn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "wɔ ɔsoro mu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "w'ahotoso-nokorɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nkɔnkɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:58.475340535Z",
+  "model": "glm-5.3"
+}

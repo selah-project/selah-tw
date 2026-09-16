@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Wo ne me El, na meda wo ase; me Eloohim, mede soro bɔ wo din.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "me El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "na meda wo ase"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "mede soro bɔ wo din"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:12.820741228Z",
+  "model": "glm-5.3"
+}

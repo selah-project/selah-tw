@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Wɔnnom nsa da wɔ nnwom mu; nsadeɛ bɛyɛ nyarew ma wɔn a wɔde nom.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "wɔ nnwom mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da (negation)"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "wɔnnom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "bɛyɛ nyarew"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "nsadeɛ"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "ma wɔn a wɔde nom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:47:19.694492337Z",
+  "model": "glm-5.3"
+}

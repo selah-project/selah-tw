@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Mɛka wo din kyerɛ me nuanom; wɔ nhyiam no mu na mɛkamfo wo.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Mɛka ... kyerɛ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wo din"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kyerɛ me nuanom"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nhyiam no"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "mɛkamfo wo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:00.899578404Z",
+  "model": "glm-5.3"
+}

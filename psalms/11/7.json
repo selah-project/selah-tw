@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛfiri sɛ Yawe yɛ ɔtɛnefoɔ, ɔdɔ atɛntrenee; nokwaredie foɔ no bɛhunu ne anim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔtɛnefoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "atɛntrenee"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ɔdɔ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nokwaredie foɔ"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "ne anim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:48.261864604Z",
+  "model": "glm-5.3"
+}

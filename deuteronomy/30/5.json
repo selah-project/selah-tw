@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na Yawe wo Eloohim de wo bɛba asase a wo agyanom dii so, na wo bɛdi so; na ɔbɛyɛ wo yie, na ɔbɛdɔɔ wo kyɛn wo agyanom.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "de wo bɛba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "dii so"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "wo agyanom"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "na wo bɛdi so"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "na ɔbɛyɛ wo yie"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "na ɔbɛdɔɔ wo"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "kyɛn wo agyanom"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:26.237237821Z",
+  "model": "glm-5.3"
+}

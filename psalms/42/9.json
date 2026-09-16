@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Awia mu Yawe hyehyɛ ne hesed (Yawe ahyɛdeɛ), na anadwo mu ne dwom ka me ho — mpaeɛbɔ kɔma El, m'ankwa Wura.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "awia mu"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "hyehyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ne hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "na anadwo mu"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ka me ho"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mpaeɛbɔ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kɔma El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "m'ankwa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:50.008290535Z",
+  "model": "glm-5.3"
+}

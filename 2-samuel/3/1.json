@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔko no yɛɛ tenten, wɔ fie Shaúl ne fie Dawid ntam; na Dawid kɔɔ so yɛɛ den denden, na Shaúl fie no kɔɔ so bɛyɛɛ mmerɛ denden.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yɛɛɛ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ɔko no"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ … ntam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne … ntam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kɔɔ so"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "yɛɛ den denden"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na fie"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "kɔɔ so"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "bɛyɛɛ mmerɛ denden"
+    }
+  ],
+  "timestamp": "2026-09-15T23:02:11.462698899Z",
+  "model": "glm-5.3"
+}

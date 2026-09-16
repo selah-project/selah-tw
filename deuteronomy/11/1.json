@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na dɔ ⟨את⟩ Yawe wo Eloohim, na hwɛ ne som so, ne ne mmara, ne ne atemmuo, ne ne hyɛdeɛ, nnora nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "na dɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe wo Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "na hwɛ so"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ne som"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ne atemmuo"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ne hyɛdeɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nnora"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:00.411036737Z",
+  "model": "glm-5.3"
+}

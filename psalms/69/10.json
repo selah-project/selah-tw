@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Ɛfiri sɛ wo fie ho ahodwiriw adi me, na wɔn a wɔhyɛ wo animia no animia ato me so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ahodwiriw"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wo fie"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "adi me"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "animia"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "wɔn a wɔhyɛ wo animia"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ato"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:19.442546598Z",
+  "model": "glm-5.3"
+}

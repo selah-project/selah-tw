@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Sɛnea wɔn ahoyɛ ne wɔn mfisɛm teɛ no, saa na mayɛ ⟨את⟩ wɔn, na masiee me anim mfiri wɔn ho.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sɛnea wɔn ahoyɛ"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ne sɛnea wɔn mfisɛm"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "na masiee"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mfiri wɔn ho"
+    }
+  ],
+  "timestamp": "2026-09-16T00:55:52.703256266Z",
+  "model": "glm-5.3"
+}

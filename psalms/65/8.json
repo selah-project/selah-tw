@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Wotew ɛpo nnyigyei so, wɔn mfonini mmorɔn nnyigyei, ne aman dodoɔ nnidisoɔ.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "wotew ... so"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "nnyigyei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "nnyigyei"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "wɔn mfonini mmorɔn"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ne ... dodoɔ nnidisoɔ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:53.440179436Z",
+  "model": "glm-5.3"
+}

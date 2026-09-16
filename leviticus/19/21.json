@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na ɔde ne bɔne-afɔdeɛ no bɛba ⟨את⟩: deɛ ɔbɔeɛ no ama Yawe, ɛkɔ hyiam frɔm no anim — oguan, bɔne-afɔdeɛ.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "na ɔde…bɛba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɔbɔeɛ no (ne bɔne-afɔdeɛ)"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ne bɔne-afɔdeɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛkɔ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "frɔm"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hyiam"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oguan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "bɔne-afɔdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:01.402048356Z",
+  "model": "glm-5.3"
+}

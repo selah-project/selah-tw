@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Na atrɔfoɔ nnommma wɔn werɛ, wɔnkyene Eloohim anim, na wɔagye atom wɔ anigyeɛ mu.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "na atrɔfoɔ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "nnommma wɔn werɛ"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "wɔnkyene"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "na wɔagye atom"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "wɔ anigyeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:41.603103142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Obadayahu kɔɔ hyiaa Ahab, kaa akyerɛ no; na Ahab kɔɔ hyiaa Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadayahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hyiaa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kaa akyerɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hyiaa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:14.470783097Z",
+  "model": "glm-5.3"
+}

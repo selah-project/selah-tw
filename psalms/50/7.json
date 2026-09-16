@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Tie, me nkurɔfoɔ, na mɛkasa; Yisraɛl, na mɛdi wo ho adanse: Eloohim, wo Eloohim, na meyɛ.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "na mɛkasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "na mɛdi adanse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na meyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:55:46.987559529Z",
+  "model": "glm-5.3"
+}

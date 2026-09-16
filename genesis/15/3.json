@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Abram kaa se: Hwɛ, woamma me ase, na hwɛ, me fie ɔba no na obɛdi ⟨אתי⟩ so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "woamma"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ase"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "me fie"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "obɛdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "me (Abram)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:27.332677080Z",
+  "model": "glm-5.3"
+}

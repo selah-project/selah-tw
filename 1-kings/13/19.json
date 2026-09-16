@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Enti ɔsanee ⟨את⟩ no, ɔdii buroo wɔ ne fie, na ɔnomEE nsuo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ɔsanee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (ɔdifoɔ a ofi Yuda)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ɔdii"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buroo"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "wɔ ne fie"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ɔnomEE"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:05.928506641Z",
+  "model": "glm-5.3"
+}

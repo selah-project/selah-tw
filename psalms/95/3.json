@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Ɛfiri sɛ El kɛseɛ ne Yawe, ɔhene kɛseɛ wɔ anyame nyinaa so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "anyame"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:40.743955540Z",
+  "model": "glm-5.3"
+}

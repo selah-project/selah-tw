@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Yɛ adɔeɔ ama wo akoa, na metena ase, na mebɔ wo asɛm no ho ban.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "yɛ adɔeɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "metena ase"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "na mebɔ ... ho ban"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wo asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:14.165983496Z",
+  "model": "glm-5.3"
+}

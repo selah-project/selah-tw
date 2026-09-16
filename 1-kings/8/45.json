@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na woate wɔ ⟨ɔsoro⟩ mu ⟨את⟩ wɔn mpaeɛ ne ⟨את⟩ wɔn mmɔborɔhunu, na wode wɔn atemmuo ayɛ.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "na woate"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mpaeɛ"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "wɔn mpaeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mmɔborɔhunu"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "wɔn mmɔborɔhunu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na woayɛ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "wɔn atemmuo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:23.474798541Z",
+  "model": "glm-5.3"
+}

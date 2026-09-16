@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yawe kaa kyerɛɛ Moshe: Hwɛ, mahyɛ wo sɛ Eloohim wɔ Farao so, na Aaron wo nua no bɛyɛ wo ɔdiyifoɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mahyɛ wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "wɔ Farao so"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aaron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "wo ɔdiyifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:17.806968582Z",
+  "model": "glm-5.3"
+}

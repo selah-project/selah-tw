@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Deɛ ɔhwɛ nnwomtoɔ so no de, wɔ nnwomnnisoɔ mu, wɔ nwɔtwe so (hasheminit); Dawid asɛm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔhwɛ nnwomtoɔ so"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "wɔ nnwomnnisoɔ mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "nwɔtwe (hasheminit)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "asɛm (nnwom)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid de"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:43.797734543Z",
+  "model": "glm-5.3"
+}

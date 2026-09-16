@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Wɔn na wɔbɛtu amantɔ hwehwɛ aduane; sɛ wɔannye pɛyɛ a, wɔbɛkasa \/ wɔbɛdae anadwo no.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "wɔbɛtu amantɔ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hwehwɛ aduane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annye pɛyɛ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "a"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "wɔbɛkasa \/ wɔbɛdae anadwo no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:21.995534685Z",
+  "model": "glm-5.3"
+}

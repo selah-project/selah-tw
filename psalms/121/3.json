@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 121,
+  "translation": "Ɔrenmma wo nan ampɛ sɛ ɛtɔ; wo ɔhwɛfoɔ nso rentwa nkontompo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ɔren- (negation)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mma"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sɛ ɛtɔ\/ampɛ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "wo nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ren- (negation)"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ntwa nkontompo"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "wo ɔhwɛfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:05.690588611Z",
+  "model": "glm-5.3"
+}

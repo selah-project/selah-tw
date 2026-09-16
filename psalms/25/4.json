@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Yawe, wo nnɛm hyɛ me da; w'akwan ahorow kyerɛ me.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "wo nnɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "hyɛ me da"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "w'akwan ahorow"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kyerɛ me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:00.027968499Z",
+  "model": "glm-5.3"
+}

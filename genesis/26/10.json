@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Abimelekh kaa sɛ: \"Adɛn na woyɛɛ yɛn saa? Ɛbɛyɛɛ sɛ obi wɔ nkurɔfoɔ mu bɛdaa wo yere, na wode fɔdɔo baa yɛn so.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "woyɛɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ɛbɛyɛɛ sɛ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "bɛdaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "obi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wɔ nkurɔfoɔ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo yere"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "wo yere"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "na wode ... baa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "fɔdɔo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:44.265455898Z",
+  "model": "glm-5.3"
+}

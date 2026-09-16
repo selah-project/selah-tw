@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 104,
+  "translation": "Wo de ma wɔn, na wɔboaboa ano; wo bue wo nsa, na wɔn yie papa.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "wo de ma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "wɔboaboa ano"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "wo bue"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "wɔn yie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:35.381374312Z",
+  "model": "glm-5.3"
+}

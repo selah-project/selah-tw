@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Yɛnkan ba n'anim mu wɔ aseda mu, wɔ nnwom mu yɛtow dawuru ma ɔno.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "yɛnkan ba"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'anim mu"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "wɔ aseda mu"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "wɔ nnwom mu"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "yɛtow dawuru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma ɔno"
+    }
+  ],
+  "timestamp": "2026-09-16T02:17:40.743682787Z",
+  "model": "glm-5.3"
+}

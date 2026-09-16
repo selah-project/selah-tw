@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "N'ano nsɛm yɛ bɔne ne akorɔmfoɔ; wagye adwene nyansa afiri mu na wayɛ papa.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "N'ano"
+    },
+    {
+      "surface": "און",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ne akorɔmfoɔ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "wagye afiri mu"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "adwene nyansa"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "yɛ papa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:50:12.440703277Z",
+  "model": "glm-5.3"
+}

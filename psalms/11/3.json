@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛfiri sɛ wɔrebubu nnyinasoɔ no; ɔtee nkɛntɛnso deɛ ɔyɛɛ dɛn?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "nnyinasoɔ no"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "wɔrebubu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔtee nkɛntɛnso"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ɔyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:02.071293616Z",
+  "model": "glm-5.3"
+}

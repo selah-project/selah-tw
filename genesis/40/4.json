@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na aboayɛfoɔ panin no de Yosef ⟨את⟩ ne wɔn ⟨את⟩ hyɛɛ wɔn so sɛ ɔnhwɛ wɔn, na ɔsom wɔn ⟨את⟩, na wɔtenaa nna bi wɔ nkwannahyɛ mu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "hyɛɛ wɔn so"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panin"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "aboayɛfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne wɔn"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "na ɔsom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na wɔtenaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna bi"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "wɔ nkwannahyɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:16.091887437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Munnye Yah! Me nkwa, munnye ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Munnye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "munnye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:10.651058624Z",
+  "model": "glm-5.3"
+}

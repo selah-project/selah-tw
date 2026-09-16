@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 120,
+  "translation": "Yawe, gyae me nkwa firi anom a ɛka atoro mu, ne tɛmfua a ɛda adifudie mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "gyae"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "firi anom"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "atoro"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "firi tɛmfua"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "adifudie"
+    }
+  ],
+  "timestamp": "2026-09-16T02:32:49.059735562Z",
+  "model": "glm-5.3"
+}

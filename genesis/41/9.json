@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Saa ɔberɛ no, sar nsam no kasaaye Paroh sɛ: nnɛ yi mekae m'ayammyeɛ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasaaye"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'ayammyeɛ"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "m'ayammyeɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "mekae"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ yi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:23.062616Z",
+  "model": "glm-5.3"
+}

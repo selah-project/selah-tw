@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ɔde ⟨את⟩ nensa no duu no so, na ɔhyɛɛ no tirim, sɛnea Yawe kasa tiaa de Mose nsa.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "duu ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nensa no"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "nensa no"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "hyɛɛ no tirim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa tiaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "de ... nsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:42.544330682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Wo nnsuro anadwo ahoyɛ, na wo nnsuro ɔbowa a ɛtu anɔpa;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ahoyɛ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ɔbowa"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ɛtu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "anɔpa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:14.096493106Z",
+  "model": "glm-5.3"
+}

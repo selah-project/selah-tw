@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 126,
+  "translation": "Nnwom a wɔto wɔ akɔnnwuma so. Wɔ berɛ a Yawe san de ⟨את⟩ Sion nnkosuo baeɛ no, yɛyɛɛ sɛ wɔn a wɔda mu kɔ su.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a wɔto wɔ akɔnnwuma so"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "wɔ berɛ a ... san baeɛ no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sion nnkosuo"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "nnkosuo san kɔ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "yɛyɛɛ"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sɛ wɔn a wɔda mu kɔ su"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:13.133063961Z",
+  "model": "glm-5.3"
+}

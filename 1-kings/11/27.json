@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na eyi ne asɛm a ɔmaa ne nsa so wɔ ɔhene no ho: Sholomoh sii ⟨את⟩ Milo, ɔtoo ⟨את⟩ kurow Dawid ne papa mu mpɔtam.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na eyi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ɔmaa... so"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "wɔ ɔhene no ho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sholomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ɔtoo... mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpɔtam"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "mpɔtam"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:29.360900162Z",
+  "model": "glm-5.3"
+}

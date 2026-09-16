@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Cheber woo ⟨את⟩ Yaflet, ⟨את⟩ Shomer, ⟨את⟩ Hotam, ne ⟨את⟩ wɔn nuabaa Shua.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Na Cheber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "wɔn nuabaa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:57.141298279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Ɔde yɛn nkwa siee ⟨wɔ⟩ asetena mu, na ɔmmaa yɛn nan ho kwan annsɔe.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ɔde … siee"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "yɛn nkwa"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "asetena mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔmmaa … kwan annsɔe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔmmaa"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ho kwan annsɔe"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "yɛn nan"
+    }
+  ],
+  "timestamp": "2026-09-16T02:01:39.339547172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Mɛba wɔ Adonai Yawe ahoɔden mu; mɛka wo pɛpɛɛpɛyɛ ho asɛm — wo nko ara.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "mɛba"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "wɔ ... ahoɔden mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "mɛka ... ho asɛm"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "wo pɛpɛɛpɛyɛ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wo nko ara"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:54.642444064Z",
+  "model": "glm-5.3"
+}

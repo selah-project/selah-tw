@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Onipa a ɔma n'agya anaa ne na sua no, sumuro ka no; na nnipa no nyinaa bɛka se: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "sumuro ka"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ɔma … sua"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ne na"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "bɛka se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:11.497622201Z",
+  "model": "glm-5.3"
+}

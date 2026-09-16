@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Obi a ɔnam pɛyɛ so, ɔyɛ atemmom, na ɔka nokorɛ wɔ ne tirim.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ɔnam"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "pɛyɛ so"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "atemmom"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ɔka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "wɔ ne tirim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:42:09.622962869Z",
+  "model": "glm-5.3"
+}

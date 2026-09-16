@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 68:36",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Eloohim, wowɔ nneɛma a ɛma wosuro wɔ wo asɔredan mu; El a ɔwɔ Yisrael no, ɔno na ɔma ne nkurɔfoɔ ahoɔden ne ahoɔden kɛseɛ. Nhyira nka Eloohim.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "wosuro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ממקדשיך",
+      "gloss": "wɔ wo asɔredan mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔma"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "ותעצמות",
+      "gloss": "ne ahoɔden kɛseɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ne nkurɔfoɔ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nhyira nka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:03:17.441172266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Sɛ ahennie bɛyɛ aserew de, na ɛnsɔre sɔre, na ɛbɔ ⟨את⟩ ne apam no de agyina.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "sɛ ... bɛyɛ"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "aserew"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na ... ɛn"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "na ɛbɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne apam no"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "na ɛgyina"
+    }
+  ],
+  "timestamp": "2026-09-16T00:43:31.982665555Z",
+  "model": "glm-5.3"
+}

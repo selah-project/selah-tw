@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "M'anantew ne m'ahomegyeɛ — wosusuu mu hwɛɛ; na wo ne me nkwadaa nyinaa abɔ adɔeɛ.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "m'anantew"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "ne m'ahomegyeɛ"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "wosusuu mu hwɛɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne me nyinaa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nkwadaa"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "wo ne no abɔ adɔeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:03.122682805Z",
+  "model": "glm-5.3"
+}

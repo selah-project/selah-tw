@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɛbaeɛ sɛ da a ɛdi akyire no, Moshe tenaeɛ sɛ ɔnsɔ ⟨את⟩ ɔman no ano, na ɔman no gyinaa Moshe anim firi anɔpa de kɔsi anwummerɛ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaeɛ sɛ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "da a ɛdi akyire no"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tenaeɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sɛ ɔnsɔ ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "על",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "anwummerɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:02.065246198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Ɔmaa mframa a efi epuei no tuu kɔɔ soro mu, na ɛde n'ahoɔden dii mframa a efi anaafoɔ so kɔɔ.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "maa ... tuu kɔɔ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "mframa a efi epuei"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "soro mu"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dii ... so kɔɔ"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "n'ahoɔden"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "mframa a efi anaafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:29.954675861Z",
+  "model": "glm-5.3"
+}

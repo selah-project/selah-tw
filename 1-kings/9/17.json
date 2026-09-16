@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Shelomoh sii ⟨את⟩ Gezer ne ⟨את⟩ Beti-Horon a ɛwɔ aseɛ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ssi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "a ɛwɔ aseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:16.389896089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "Awu nnua atwa me ho hyia, na Seol ahemmon mmɔ me; ɛhaw ne awerɛhoɔ, me hunuu.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "atwa me ho hyia"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "מות",
+      "gloss": "awu"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ahemmon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "mmɔ me"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ɛhaw"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "awerɛhoɔ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "me hunuu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:52.364326721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na ɔde ⟨את⟩ wɔn sii efod no nktwapɔn so, sɛ kaebɔ-abo Israel mma no de; sɛnea Yawe hyɛɛ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "na ɔde sii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "abo no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "nktwapɔn"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod no"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "abo"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kaebɔ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma no de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:54.575326666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 125,
+  "translation": "Yawe, yɛ papa ma wɔn a wɔyɛ papa, ne wɔn a wɔn akoma tew wɔ wɔn mu.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "yɛ papa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "ma wɔn a wɔyɛ papa"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "ne wɔn a wɔn akoma tew"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "wɔ wɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:33:03.803915818Z",
+  "model": "glm-5.3"
+}

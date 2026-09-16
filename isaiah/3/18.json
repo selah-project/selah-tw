@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Wɔn da no mu no, Adonai bɛyi ⟨את⟩ mpɔtea so nnadeɛ ahoni, ne tiri-nkabomu, ne osram-nsɔ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔn da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "bɛyi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpɔtea so nnadeɛ ahoni"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ahoni"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "mpɔtea so nnadeɛ"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "ne tiri-nkabomu"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "ne osram-nsɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:19.347516827Z",
+  "model": "glm-5.3"
+}

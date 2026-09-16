@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔbarima bi firi Levi fie mu kɔɔ, na ɔfaa ⟨את⟩ Levi ba no yɛɛ ne yere.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima bi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi fie mu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi ba no"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba no"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:43:18.348968295Z",
+  "model": "glm-5.3"
+}

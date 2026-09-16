@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Eliya faa ⟨את⟩ ne atadeɛ, bɔɔ mu yɛɛ kekaa, bɔɔ ⟨את⟩ asuo no; ɛkyɛɛ bɛyɛɛ nkyɛn hne ne hne, na wɔn baanu no nam so foraa asase a asuo no gyaw no so.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne atadeɛ"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "ne atadeɛ"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "bɔɔ mu yɛɛ kekaa"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asuo no"
+    },
+    {
+      "surface": "המים",
+      "gloss": "asuo no"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ɛkyɛɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nkyɛn hne"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ne hne"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "foraa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu no"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "asase a asuo no gyaw no so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:21:26.110903698Z",
+  "model": "glm-5.3"
+}

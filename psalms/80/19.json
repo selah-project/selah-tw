@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Na yɛrennyini wo ho; ma yɛn nkwa, na yɛde wo din bɛfrɛ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na yɛren"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "nyini"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ma yɛn nkwa"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "wɔ wo din mu"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "yɛfrɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:41.150962073Z",
+  "model": "glm-5.3"
+}

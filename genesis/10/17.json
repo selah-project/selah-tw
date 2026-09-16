@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ne ⟨את⟩ Hivi no, ne ⟨את⟩ Arki no, ne ⟨את⟩ Sini no;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Hivi no"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Arki no"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arki no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Sini no"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sini no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:42.352506107Z",
+  "model": "glm-5.3"
+}

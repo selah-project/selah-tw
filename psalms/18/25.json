@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Enti Yawe san baa me nkyɛn sɛnea me nteɛpa mu, sɛnea me nsa ahodwiriw ho tia n'ani.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "san baa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sɛnea me nteɛpa mu"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "tia"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "n'ani"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:25.288072457Z",
+  "model": "glm-5.3"
+}

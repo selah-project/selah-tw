@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ne ⟨את⟩ Pathrusfoɔ, ne ⟨את⟩ Kasluhfoɔ — wɔn na Filistifoɔ firi wɔn mu baeɛ — ne ⟨את⟩ Kaftorfoɔ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Pathrusfoɔ"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kasluhfoɔ"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "firi wɔn mu baeɛ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kaftorfoɔ"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:10.164656414Z",
+  "model": "glm-5.3"
+}

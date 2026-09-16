@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Nakor tenaa aseɛ mfeɛ nkron ne aduonu, na ɔwoo ⟨את⟩ Terak.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nkron"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ne aduonu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terak"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terak"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:39.612267882Z",
+  "model": "glm-5.3"
+}

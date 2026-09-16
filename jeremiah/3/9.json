@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɛbaa sɛ ɛnam ne aguamudeɛ ketewa ho nti, ɔdefee ⟨את⟩ asase no, na ɔyɛɛ mmarahyɛ ⟨את⟩ abɔnnɛ ne ⟨את⟩ dua.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ɛnam ... ketewa ho nti"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ne aguamudeɛ"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ɔdefee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ɔyɛɛ mmarahyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔnnɛ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "abɔnnɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "dua"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-09-16T05:27:59.423570326Z",
+  "model": "glm-5.3"
+}

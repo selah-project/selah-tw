@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "na ɔbɛtua ⟨את⟩ anantwie no so anan, ɛfiri sɛ ɔyɛɛ ⟨את⟩ asɛm yi, na ɛno nti ɔntwa nsuo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anantwie no"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "anantwie no"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ɔbɛtua so"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "anan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ɛno nti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "twa nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:33.153496051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 34:35",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na Yisrael mma hunuu ⟨את⟩ Mosheh anim, sɛ Mosheh anim de no hyɛn; na Mosheh san de ⟨את⟩ maswe no sii n'anim so kɔsii nea ɔkɔɔ hɔ kɔkasa ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "de no hyɛn"
+    },
+    {
+      "surface": "עור",
+      "gloss": "anim de"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "san de ... sii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maswe no"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "maswe no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nea ɔkɔɔ hɔ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kɔkasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Yawe)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:01.125241205Z",
+  "model": "glm-5.3"
+}

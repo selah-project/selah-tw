@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wo nhaw ɔhɔfoɔ, ɛfiri sɛ mo nim ⟨את⟩ ɔhɔfoɔ no nkwa, ɛfiri sɛ moyɛɛ ɔhɔfoɔ wɔ Misraim asase mu.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ɔhɔfoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni (nhaw)"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "wo nhaw"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mo nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhɔfoɔ no nkwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ɔhɔfoɔ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ɔhɔfoɔ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "moyɛɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:19.190204058Z",
+  "model": "glm-5.3"
+}

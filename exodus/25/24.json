@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wobɛbɔ ⟨את⟩ no so sika kɔkɔɔ a ɛteɛ, na wobɛyɛ sika kɔkɔɔ ahengua a atwa ne ho ahyia.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "wobɛbɔ ... so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "a ɛteɛ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ahengua"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a atwa ho ahyia"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:06.657588763Z",
+  "model": "glm-5.3"
+}

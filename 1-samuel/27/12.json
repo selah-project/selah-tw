@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 27:12",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na Akihis gyeew David dii, sɛ: Wɔayɛ no amonsoo dɛn dɛn wɔ ne nkurɔfoɔ mu, Yisrael mu; ɛno enti ɔbɛyɛ me akoa daa.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "gyeew … dii"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akihis"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הבאש",
+      "gloss": "ayɛ amonsoo"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "dɛn dɛn"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ne nkurɔfoɔ mu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael mu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ɔbɛyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "akoa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:18:24.986498224Z",
+  "model": "glm-5.3"
+}

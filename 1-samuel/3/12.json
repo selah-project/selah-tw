@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Wɔ da no mu no, mɛtoa ⟨את⟩ deɛ me kasa faa ne fie ho nyinaa ano wɔ Ɛli so: mifi aseɛ, na mesoa so kɔ awieɛ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "mɛtoa…ano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ…so"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ɛli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ me kasa faa ne fie ho nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "me kasa faa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ne fie ho"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mifi aseɛ"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "mesoa so kɔ awieɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:46:42.110359840Z",
+  "model": "glm-5.3"
+}

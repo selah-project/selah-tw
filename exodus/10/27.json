@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Yawe maa Paroh akoma ⟨את⟩ yɛɛ den, na ɔampɛ sɛ ɔma wɔn kɔ.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "na maa...yɛɛ den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh akoma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "sɛ ɔma wɔn kɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:38.435699975Z",
+  "model": "glm-5.3"
+}

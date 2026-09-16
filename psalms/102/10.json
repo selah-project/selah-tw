@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 102,
+  "translation": "Ɛfiri sɛ nkerɛwdua sɛ aduane na medii, na me nsuo a mede bɔ mu no, awerɛhoɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "nkerɛwdua"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "sɛ aduane"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "medii"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "na me nsuo a mede bɔ mu"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "werɛhoɔ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "mekaa no ho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:11.633723045Z",
+  "model": "glm-5.3"
+}

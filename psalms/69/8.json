@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Ɛfiri sɛ wɔ wo ho na maya animtia; aniwu asie me anim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wɔ wo ho"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "maya"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "animtia"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "asie"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "aniwu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:50.987485655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Lea kaa sɛ, Nhyɛso aba! na ɔtoo ne din Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Nhyɛso aba"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ɔtoo ne din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-09-15T20:26:40.605523264Z",
+  "model": "glm-5.3"
+}

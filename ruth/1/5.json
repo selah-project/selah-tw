@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wɔn baanu nso Nyinaa wuwuiɛ — Machlon ne Kilyon — na ɔbaa no basketen ne mma baanu no ne ne kunu.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "wuwuiɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu nyinaa"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ne Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "na ... basketen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "mma baanu no"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ne ne kunu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:52.893352301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na saa na Yisraelfoɔ mma no din neɛ: wɔbaa Misraim no, ⟨את⟩ Yaakob ne n'asɛmfua biara ne ne fie nyinaa baa hɔ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na saa na"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "din"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "wɔbaa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "איש",
+      "gloss": "asɛmfua biara ne"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baa hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:54.518426994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 137,
+  "translation": "Sɛ me werɛ firi wo, Yerusalem, ɛnde me nsa nifa n werɛ mfi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "me werɛ firi wo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "n werɛ mfi"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "me nsa nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:49.048200578Z",
+  "model": "glm-5.3"
+}

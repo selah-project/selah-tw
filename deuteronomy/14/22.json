@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Fa du, fa du ⟨את⟩ aduanaba nyinaa a wo nnua de ba — de efiri wura so — afe afe biara.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "fa du"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "fa du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduanaba nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "aduanaba"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nnua"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "a efiri"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe biara"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:33.359047892Z",
+  "model": "glm-5.3"
+}

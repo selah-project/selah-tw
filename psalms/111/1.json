@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 111,
+  "translation": "Monkamfo Yah! Meda Yawe ase wɔ m'akoma mu nyinaa, wɔ atenefoɔ sod mu ne wɔ asafo mu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Monkamfo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Meda ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... mu nyinaa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "wɔ sod mu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "atenefoɔ"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ne asafo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:26:14.700949518Z",
+  "model": "glm-5.3"
+}

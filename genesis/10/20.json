@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Saa na Kusani mma yɛ — wɔn mmusua mu, wɔn kasa ahodoɔ mu, wɔn asase so, wɔn aman mu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kusani"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "wɔn mmusua mu"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "wɔn kasa ahodoɔ mu"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "wɔn asase so"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "wɔn aman mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:42.353363746Z",
+  "model": "glm-5.3"
+}

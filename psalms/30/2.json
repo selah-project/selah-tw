@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Yawe, mɛma wo sɔre, ɛfiri sɛ wotu me firii mu, na woamma m'atamfoɔ nnye nnwom wɔ me ho.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "mɛma wo sɔre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "wotu me firii mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na woamma"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "nye nnwom"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wɔ me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:31.059077001Z",
+  "model": "glm-5.3"
+}

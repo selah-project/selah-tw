@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mosheh de ⟨את⟩ Aharon ne ⟨את⟩ ne mma no baa; ɔhohoroo ⟨את⟩ wɔn nsuo mu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "de ... baa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma no"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "ɔhohoroo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nsuo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:44.712335593Z",
+  "model": "glm-5.3"
+}

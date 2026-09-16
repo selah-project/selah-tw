@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim kaa sɛ: Nsuo no mma wɔn a wɔredɔɔso wɔ mu, a nkwa wɔ wɔn mu, na nnomma ntew wɔ asase no so, wɔ ɔsoro no rakyɛ no anim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... kaa sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "mma wɔn a wɔredɔɔso wɔ mu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "wɔn a wɔredɔɔso"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "a nkwa wɔ wɔn mu"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "na nnomma"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "ntew"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakyɛ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:12.074299925Z",
+  "model": "glm-5.3"
+}

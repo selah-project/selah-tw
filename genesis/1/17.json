@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim de wɔn ⟨אתם⟩ sii wɔ ɔsoro no rakyɛ mu, na wɔbɛhyerɛn wɔ asase no so.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "de wɔn sii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wɔn (ɔsoro no rakyɛ)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "rakyɛ mu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro no"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "na wɔbɛhyerɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:12.073578944Z",
+  "model": "glm-5.3"
+}

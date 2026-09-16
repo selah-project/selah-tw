@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wo asɛm no nyinaa yɛ ⟨nokorɛ⟩, na wo treneɛm atemmuo nyinaa gyina ⟨daa⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wo asɛm"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmuo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "wo treneɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:39.720029073Z",
+  "model": "glm-5.3"
+}

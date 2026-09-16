@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe Eloohim kaa kyerɛ ⟨ɔbea no⟩ sɛ: Deɛ wayɛ yi yɛ dɛn? Na ⟨ɔbea no⟩ kaa sɛ: Ɔwonsɔno no ma me yerae, na medii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kyerɛ ⟨ɔbea no⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wayɛ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbea no"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ɔwonsɔno no"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "ma me yerae"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "medii"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:35.471731712Z",
+  "model": "glm-5.3"
+}

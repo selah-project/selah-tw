@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 27:12",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na meka nsɛm yi nyinaa kyerɛɛ Tsidkiyah, Yehudah ɔhene, se: Fa mo nkokodiakyi hyɛ Babel ɔhene ayamdeɛ mu, na monsom ⟨את⟩ no ne ne man, na mo nkwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kerɛɛ"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "me-kaa nsɛm"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ... nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "fa ... hyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nkokodiakyi"
+    },
+    {
+      "surface": "צואריכם",
+      "gloss": "mo nkokodiakyi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "na monsom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ne ne man"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "na mo nkwa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:18:22.919491203Z",
+  "model": "glm-5.3"
+}

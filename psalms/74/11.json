@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 74,
+  "translation": "Adɛn na wode wo nsa, wo nsa nifa no, san kɔ? Firi wo mu na sɛe wɔn.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "san kɔ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "wo nsa nifa no"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "firi ... mu"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sɛe wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:05:32.371350634Z",
+  "model": "glm-5.3"
+}

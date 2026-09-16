@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɔfiri ⟨את⟩ ne hɔ kɔeɛ, na ɔtoaa ⟨את⟩ ɛpono no mu wɔ ne ho ne ne mma no ho; wɔde nkukuone no bɛnnee no, na ɔno de ngo no guu mu.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ɔkɔeɛ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "firi ne hɔ (Elisha)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ɔtoaa mu"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ɛpono no"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "wɔ ne ho"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ne wɔ ho"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "de bɛnnee"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "no"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "de guu mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:51.772058740Z",
+  "model": "glm-5.3"
+}

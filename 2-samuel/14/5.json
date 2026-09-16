@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔhene no kaa kyerɛɛ no sɛ: Ɛdeɛn na ɛwɔ wo so? Na ɔkaa sɛ: Nokorɛ, me ne ɔbaa kunufoɔ, na me kunu wui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ɛdeɛn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na ɛwɔ wo so"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "kunukunufoɔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na ... wui"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "me kunu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:05:36.638242817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔbɛhwɛ n'hwɛso ne nyinaa hwɛso a ⟨את⟩ nhyehyɛe no nyinaa wɔ Ohia Nhyiam no anim, na wɔyɛ ⟨את⟩ Mishikan no adwuma no.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Na wɔbɛhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'hwɛso"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "n'hwɛso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hwɛso"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "hwɛso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nhyehyɛe no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohia"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "na wɔyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma no"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adwuma no"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:21.103572355Z",
+  "model": "glm-5.3"
+}

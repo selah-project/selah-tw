@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Mmom, ne pɛpɛɛm wɔ Yawe Tora mu koraa, na ne Tora mu na ɔbɔ tirim awia ne anadwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mmom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "koraa"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "wɔ ... Tora mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ne pɛpɛɛm"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "na ... ne Tora mu"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ɔbɔ tirim"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awia"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na anadwo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:36:10.198923555Z",
+  "model": "glm-5.3"
+}

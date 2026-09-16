@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ne ⟨את⟩ akokodurufoɔ mmarima nyinaa — apem nson — ne adwumfoɔ no ne tetefoɔ no — apem; wɔn nyinaa yɛ akokodurufoɔ a wɔyɛ ɔko adwuma; Babel ɔhene de wɔn baa nkwabɔ mu wɔ Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akokodurufoɔ mmarima nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "akokoduru"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nson"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "apem"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ne adwumfoɔ no"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "ne tetefoɔ no"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "akokodurufoɔ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ɔde wɔn baa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "nkwabɔ mu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-09-15T23:38:17.401064912Z",
+  "model": "glm-5.3"
+}

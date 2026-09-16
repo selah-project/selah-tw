@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Yadeɛ yɛn! Hwan na ɔbɛgya yɛn afiri saa Eloohim a wɔwɔ tumi dodo yi nsam? Saa Eloohim yi na wɔbɔɔ ⟨את⟩ Misraim wɔ awerɛhow nyinaa mu wɔ ɛserɛ mu.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Yadeɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ɔbɛgya yɛn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "afiri ... nsam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "a wɔwɔ tumi dodo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "saa ... yi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Saa ... yi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "na"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "wɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "awerɛhow"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ ɛserɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:08.913155865Z",
+  "model": "glm-5.3"
+}

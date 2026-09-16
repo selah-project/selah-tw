@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Deɛ ɔdi nnwomtofoɔ no so; Yawe akoda Dawid dea, obi a ɔkaa kyerɛɛ Yawe ⟨את⟩ nnwom yi nsɛmfua, wɔ da a Yawe gyee ⟨את⟩ no fii n'atamfoɔ nyinaa nsa mu ne Shaul nsa mu no.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "deɛ ɔdi nnwomtofoɔ no so"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "akoda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obi a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kyerɛë Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnwom yi nsɛmfua"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛmfua"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nnwom no"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da a"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gyee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "n'atamfoɔ"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ne fii nsa mu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-16T01:41:48.998609852Z",
+  "model": "glm-5.3"
+}

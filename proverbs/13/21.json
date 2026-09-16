@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Bɔne di atia nfomfoɔ; na papa tua ⟨את⟩ atreyifoɔ ka.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "nfomfoɔ"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "di atia"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atreyifoɔ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "atreyifoɔ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "tua ka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:52:53.017173009Z",
+  "model": "glm-5.3"
+}

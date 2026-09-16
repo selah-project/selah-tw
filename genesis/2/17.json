@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na firi dua a wɔde nimdeɛ pa ne bɔne bɔ no mu no, nni bi; ɛfiri sɛ da a wobɛdi bi no, wuwu na wubɛwu.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "na firi dua"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "a wɔde nimdeɛ bɔ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firi no mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da a"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "wobɛdi bi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wuwu"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "na wubɛwu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:37.959719369Z",
+  "model": "glm-5.3"
+}

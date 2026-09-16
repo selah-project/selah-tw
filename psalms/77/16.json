@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 77,
+  "translation": "Wode wo bɔla gyaa w'aman no — Yakob mma ne Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "wogyaa"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "wode wo bɔla"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "w'aman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ne Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:01.137069077Z",
+  "model": "glm-5.3"
+}

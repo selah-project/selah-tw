@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na mframa bi firi asase no so foroo, na ɛhwiee ⟨את⟩ asase no ani so nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "na mframa bi"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "foroo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "na ɛhwiee nsuo guu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no ani so nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:11.971774647Z",
+  "model": "glm-5.3"
+}

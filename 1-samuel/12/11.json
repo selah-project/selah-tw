@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yawe somaa ⟨את⟩ Yerubbaal ne ⟨את⟩ Bedan ne ⟨את⟩ Yefta ne ⟨את⟩ Samuel, na ɔgyee mo fi mo atamfoɔ a wɔatoa mo ho ahwɛ nsa mu, na motee ahobammɔ mu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yefta"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yefta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "na ɔgyee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fi ... nsa mu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mo atamfoɔ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a wɔatoa mo ho ahwɛ"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "na motee"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ahobammɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:51.127854143Z",
+  "model": "glm-5.3"
+}

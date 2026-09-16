@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Dawid dea. Yawe ne me hann ne me nkwigyeɛ — hwan na mɛsuro? Yawe ne m'abrabɔ mmoa — hwan na mɛbɔ adwene?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "me hann"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ne me nkwigyeɛ"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "hwan na"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mɛsuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "m'abrabɔ"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "hwan na"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "mɛbɔ adwene"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:34.938654743Z",
+  "model": "glm-5.3"
+}

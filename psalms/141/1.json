@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 141,
+  "translation": "Mizmor ma Dawid. Yawe, mefrɛɛ Wo; ntɛmma bra me; tie me nne sɛ mefrɛ Wo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mefrɛɛ Wo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ntɛmma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bra me"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sɛ mefrɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:57.067878795Z",
+  "model": "glm-5.3"
+}

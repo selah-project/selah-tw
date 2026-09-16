@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na Shlomoh sii ⟨את⟩ n' fie wɔ mfeɛ dunsia mu, na ɔwiee ⟨את⟩ ne fie nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n' fie"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n' fie"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "miɛnsa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "na ɔwiee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne fie nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ne fie"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:18.439074911Z",
+  "model": "glm-5.3"
+}

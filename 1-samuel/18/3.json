@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Yehonatan ne Dawid yɛɛ apam, ɛfiri sɛ ɔdɔɔ ⟨את⟩ no sɛ ne kra ankasa.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "yɛɛ apam"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ne Dawid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ɛfiri sɛ ɔdɔɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "sɛ ne kra ankasa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:16.055759698Z",
+  "model": "glm-5.3"
+}

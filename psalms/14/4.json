@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ɛnyɛ sɛ wɔ a wɔyɛ ɔbonefuo nyinaa nim? Wɔdi me nkorɔfoɔ sɛnea wɔdi emudua; Yawe, wɔammfrɛ no.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔnim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wɔ a wɔyɛ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ɔbonefuo"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "wɔdi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "wɔdi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "emudua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔanfrɛ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:58.866986771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Me ba, bɔ wo agyina wɔ wo agya ahennseɛ so, na wo nnyane wo maame nkyerɛkyerɛ no; mma wo nnyae.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bɔ wo agyina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ahennseɛ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mma wo nnyae"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "wo nnyane"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "nkyerɛkyerɛ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wo maame"
+    }
+  ],
+  "timestamp": "2026-09-16T02:46:12.423621689Z",
+  "model": "glm-5.3"
+}

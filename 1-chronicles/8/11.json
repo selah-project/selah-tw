@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na firii Chushim mu ɔwoo ⟨את⟩ Abitub ne ⟨את⟩ Elpaal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "na firii Chushim mu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abitub"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Abitub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:33.153672623Z",
+  "model": "glm-5.3"
+}

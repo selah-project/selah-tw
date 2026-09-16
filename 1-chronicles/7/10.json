@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yediael ba yɛ Bilhan; Bilhan mma nso yɛ Yeush, ne Binyamin, ne Ehud, ne Kenaana, ne Zetan, ne Tarshish, ne Ahishahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ne Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "ne Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "ne Kenaana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "ne Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ne Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "ne Ahishahar"
+    }
+  ],
+  "timestamp": "2026-09-16T04:37:53.144319728Z",
+  "model": "glm-5.3"
+}

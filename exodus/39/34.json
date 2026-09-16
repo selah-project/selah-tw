@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Ne ⟨את⟩ akatakyi a ɛyɛ odwan yade a wɔatɔ kɔkɔɔ, ne ⟨את⟩ akatakyi a ɛyɔ tehash yade, ne ⟨את⟩ atenim no, ne ahobiri no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "akatakyi a ɛyɛ odwan yade"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "akatakyi"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "yade"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "odwan"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "a wɔatɔ kɔkɔɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "akatakyi a ɛyɔ tehash yade"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "akatakyi"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "yade"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tehash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "atenim no, ahobiri no"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "atenim"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ahobiri"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:39.076262882Z",
+  "model": "glm-5.3"
+}

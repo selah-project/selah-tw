@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Mede ⟨את⟩ me anim kɔɔ Adonai, Eloohim no hɔ, de bɔɔ mpaeɛ ne adomsrɛ, wɔ nnidi a wobɔ mu, na mehyɛɛ kɛkɛɛ na medan nsam.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Mede me anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim no"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "de bɔɔ mpaeɛ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mpaeɛbɔ"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ne adomsrɛ"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "nnidi a wobɔ mu"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "kɛkɛɛ"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "nsam"
+    }
+  ],
+  "timestamp": "2026-09-16T04:15:14.761271537Z",
+  "model": "glm-5.3"
+}

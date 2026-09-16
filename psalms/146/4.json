@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Ne mframa firi mu kɔ, ɔsan kɔ n'asase so; da no ara mu no ne n'adwene nyinaa sɛe.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "firi mu kɔ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ne mframa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ɔsan kɔ"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "n'asase so"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "sɛe"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "ne n'adwene nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:10.656860886Z",
+  "model": "glm-5.3"
+}

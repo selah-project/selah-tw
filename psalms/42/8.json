@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Tehom frɛ Tehom wɔ wo nsuo-tɔre nnɛ mu; wo mmoawa nyinaa ne wo ntɔrempɔn nyinaa twaa me so.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "refre"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "nnɛ mu"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "wo nsuo-tɔre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "wo mmoawa"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ne wo ntɔrempɔn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "twaa so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:54:31.854394025Z",
+  "model": "glm-5.3"
+}

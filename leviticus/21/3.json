@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ne nuanom babea, otikwanni a ɔbɛn no, a ɔnni ɔbarima; ɔbetumi atoro ne ho ma no.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "ne nuanom babea"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "otikwanni"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "a ɔbɛn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "abɛyɛ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ɔbetumi atoro ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:38.033150679Z",
+  "model": "glm-5.3"
+}

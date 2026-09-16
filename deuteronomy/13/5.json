@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Akyiri Yawe mo Eloohim na mo bɛkɔ, na ⟨את⟩ no mo bɛsuro, na ⟨את⟩ ne mmara no mo bɛbɔ so, na wɔ ne nne mu mo bɛtie, na ⟨את⟩ no mo bɛsom no, na wɔ no mu mo bɛbɔ n'ho.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "akyiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mo bɛkɔ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Yawe mo Eloohim)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mo bɛsuro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmara no"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mo bɛbɔ so"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "wɔ ne nne mu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mo bɛtie"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Yawe)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "mo bɛsom"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "wɔ no mu"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "mo bɛbɔ n'ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:25.843766521Z",
+  "model": "glm-5.3"
+}

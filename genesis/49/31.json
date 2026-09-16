@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Hɔ na wɔsiiɛ ⟨את⟩ Abraham ne ⟨את⟩ Sara ne yere; hɔ na wɔsiiɛ ⟨את⟩ Yitsak ne ⟨את⟩ Rebeka ne yere; na hɔ na misiiɛ ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "wɔsiiɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "wɔsiiɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rebeka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na hɔ"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "misiiɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:59.118480492Z",
+  "model": "glm-5.3"
+}

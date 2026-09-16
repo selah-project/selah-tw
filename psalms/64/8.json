@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 64,
+  "translation": "Nanso Eloohim bɛto wɔn tuo; mpofirim na wɔn opira bɛba.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "nanso ... bɛto wɔn tuo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "mpofirim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "wɔn opira"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:07.762423793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Munngu mo ho akoma wɔ ahemfo mu, na munngu mo ho wɔ onipa ba mu, ɛmma no nni ngyedomo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "munn"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ngu mo ho akoma"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "wɔ ahemfo mu"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "wɔ ... ba mu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "a ɛnni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "n'"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ngyedomo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:40:10.654747734Z",
+  "model": "glm-5.3"
+}

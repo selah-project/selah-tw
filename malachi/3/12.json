@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na amanaman nyinaa bɛka ⟨את⟩ mo ho asɛm pa, ɛfiri sɛ moyɛ asase a wɔpɛ, Yawe Tsevaot ka.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "bɛka ... ho asɛm pa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "amanaman nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "moyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a wɔpɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:49.787280905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 138,
+  "translation": "Dawid dea. Mɛda wo ase wɔ me akoma mu nyinaa, wɔ Eloohim anim na mɛto wo nnwom.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mɛda wo ase"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... mu nyinaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "mɛto wo nnwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:36:21.283805725Z",
+  "model": "glm-5.3"
+}

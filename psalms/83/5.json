@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Wɔkaa sɛ: Momra, na yɛnsɛe wɔn firi ɔman mu ase, na Israel din nka bio da.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Wɔkaa sɛ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Momra"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "na yɛnsɛe wɔn"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "firi ɔman mu ase"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nka da"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio da"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:48.061030073Z",
+  "model": "glm-5.3"
+}

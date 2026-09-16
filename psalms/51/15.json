@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Mɛkyerɛkyerɛ mfomfoɔyɛfoɔ wo akwan, na bɔnefafoɔ bɛsakra aba ⟨ wo nkyɛn⟩.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "mɛkyerɛkyerɛ"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "mfomfoɔyɛfoɔ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "wo akwan"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "na bɔnefafoɔ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bɛsakra aba"
+    }
+  ],
+  "timestamp": "2026-09-16T05:41:07.046842298Z",
+  "model": "glm-5.3"
+}

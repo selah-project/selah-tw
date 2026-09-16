@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na moatumi ayɛ nsonsonoeɛ wɔ ⟨deɛ ɛyɛ⟩ kronkron ne ⟨deɛ ɛyɛ⟩ hol ntam, ne deɛ ɛntea ho (tamei) ne deɛ ɛtea ho (tahor) ntam,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "Na moatumi ayɛ nsonsonoeɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ ... ntam"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "החל",
+      "gloss": "hol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "deɛ ɛntea ho (tamei)"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "deɛ ɛtea ho (tahor)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:37.586104804Z",
+  "model": "glm-5.3"
+}

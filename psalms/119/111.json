@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Mede W'adansedie sɛ agyapadeɛ, ɛbɛkɔ amanaman; ɛfiri sɛ ɛno na ɛyɛ me akoma ani gyedeɛ.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "mede sɛ agyapadeɛ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "W'adansedie"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ani gyedeɛ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɛno na ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:05.312867146Z",
+  "model": "glm-5.3"
+}

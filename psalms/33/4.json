@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Ɛfiri sɛ Yawe asɛm gyina pintinn, na ne nnwuma nyinaa wɔ nokorɛ mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efiri sɛ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "gyina pintinn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ne nnwuma"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "wɔ nokorɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:55.695240255Z",
+  "model": "glm-5.3"
+}

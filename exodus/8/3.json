@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Misraim misɔfoɔ no yɛɛ saa wɔ wɔn tumi-akwan mu, na wɔmaa ⟨את⟩ nsansan no sɔɔ Misraim asase no so.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "misɔfoɔ no"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "wɔ wɔn tumi-akwan mu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wɔmaa … sɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsansan no"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "nsansan no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:33.127900555Z",
+  "model": "glm-5.3"
+}
