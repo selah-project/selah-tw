@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":12,"ref":"jeremiah 3:12","book":"jeremiah","lang":"tw","chapter":3,"translation":"Kɔ, na kã ⟨את⟩ nsɛm yi wɔ atifi fam, na ka sɛ: San bra, Israel a wosan akyi, Yawe ase; mennye m'ani agu mo so, efirisɛ me yɛ ahummɛbɔfoɔ, Yawe ase; mennɔ me bufuo da.","tokens":[{"surface":"הלך","gloss":"kɔ"},{"surface":"וקראת","gloss":"na kã"},{"surface":"את","gloss":"⟨את⟩","marks":"nsɛm yi"},{"surface":"הדברים","gloss":"nsɛm"},{"surface":"האלה","gloss":"yi"},{"surface":"צפונה","gloss":"wɔ atifi fam"},{"surface":"ואמרת","gloss":"na ka sɛ"},{"surface":"שובה","gloss":"san bra"},{"surface":"משבה","gloss":"a wosan akyi"},{"surface":"ישראל","gloss":"Israel"},{"surface":"נאם","gloss":"Yawe ase"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לוא","gloss":"mennye"},{"surface":"אפיל","gloss":"mmɛgye agu"},{"surface":"פני","gloss":"m'ani"},{"surface":"בכם","gloss":"mo so"},{"surface":"כי","gloss":"efirisɛ"},{"surface":"חסיד","gloss":"ahummɛbɔfoɔ"},{"surface":"אני","gloss":"me"},{"surface":"נאם","gloss":"Yawe ase"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לא","gloss":"mennɔ"},{"surface":"אטור","gloss":"me bufuo"},{"surface":"לעולם","gloss":"da"}],"timestamp":"2026-09-16T05:28:55.400902803Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 3:12",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Kɔ, na kã ⟨את⟩ nsɛm yi wɔ atifi fam, na ka sɛ: San bra, Israel a wosan akyi, Yawe ase; mennye m'ani agu mo so, efirisɛ me yɛ ahummɛbɔfoɔ, Yawe ase; mennɔ me bufuo da.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "na kã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "wɔ atifi fam"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ka sɛ"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "san bra"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "a wosan akyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yawe ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "mennye"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "mmɛgye agu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "m'ani"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efirisɛ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ahummɛbɔfoɔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yawe ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mennɔ"
+    },
+    {
+      "surface": "אטור",
+      "gloss": "me bufuo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-16T05:28:55.400902803Z",
+  "model": "glm-5.3"
+}

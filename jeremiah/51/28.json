@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":28,"ref":"jeremiah 51:28","book":"jeremiah","lang":"tw","chapter":51,"translation":"Moma aman no ho nkommo ne ɛno — ⟨את⟩ Media ahene, ⟨את⟩ ɛno atitire ne ⟨את⟩ ne mpanimfoɔ nyinaa, ne ⟨את⟩ ne ahennie asase nyinaa.","tokens":[{"surface":"קדשו","gloss":"moma ho nkommo"},{"surface":"עליה","gloss":"ne ɛno"},{"surface":"גוים","gloss":"aman no"},{"surface":"את","gloss":"⟨את⟩","marks":"Media ahene"},{"surface":"מלכי","gloss":"ahene"},{"surface":"מדי","gloss":"Media"},{"surface":"את","gloss":"⟨את⟩","marks":"ɛno atitire"},{"surface":"פחותיה","gloss":"ɛno atitire (ananmusifo)"},{"surface":"ואת","gloss":"ne ⟨את⟩","marks":"ne mpanimfoɔ nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"סגניה","gloss":"ne mpanimfoɔ"},{"surface":"ואת","gloss":"ne ⟨את⟩","marks":"ne ahennie asase nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"ארץ","gloss":"asase"},{"surface":"ממשלתו","gloss":"ne ahennie"}],"timestamp":"2026-09-16T00:32:03.305831112Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 51:28",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Moma aman no ho nkommo ne ɛno — ⟨את⟩ Media ahene, ⟨את⟩ ɛno atitire ne ⟨את⟩ ne mpanimfoɔ nyinaa, ne ⟨את⟩ ne ahennie asase nyinaa.",
+  "tokens": [
+    {
+      "surface": "קדשו",
+      "gloss": "moma ho nkommo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ne ɛno"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Media ahene"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahene"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Media"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛno atitire"
+    },
+    {
+      "surface": "פחותיה",
+      "gloss": "ɛno atitire (ananmusifo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mpanimfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "סגניה",
+      "gloss": "ne mpanimfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne ahennie asase nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ne ahennie"
+    }
+  ],
+  "timestamp": "2026-09-16T00:32:03.305831112Z",
+  "model": "glm-5.3"
+}

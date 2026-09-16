@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-chronicles 4:22","book":"1-chronicles","lang":"tw","chapter":4,"translation":"ne Yokim, ne Kozeba mmarima, ne Yoash, ne Saraf, a wɔyɛɛ Moab awuraafoɔ (wo baa awareɛ mu); ne Yashubi-Lehem. Na nsɛm yi yɛ tete deɛ.","tokens":[{"surface":"ויוקים","gloss":"ne Yokim"},{"surface":"ואנשי","gloss":"ne mmarima"},{"surface":"כזבא","gloss":"Kozeba"},{"surface":"ויואש","gloss":"ne Yoash"},{"surface":"ושרף","gloss":"ne Saraf"},{"surface":"אשר","gloss":"a"},{"surface":"בעלו","gloss":"wɔyɛɛ awuraafoɔ"},{"surface":"למואב","gloss":"Moab"},{"surface":"וישבי","gloss":"ne Yashubi"},{"surface":"לחם","gloss":"Lehem"},{"surface":"והדברים","gloss":"na nsɛm yi"},{"surface":"עתיקים","gloss":"yɛ tete deɛ"}],"timestamp":"2026-09-16T05:54:45.313934110Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 4:22",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "ne Yokim, ne Kozeba mmarima, ne Yoash, ne Saraf, a wɔyɛɛ Moab awuraafoɔ (wo baa awareɛ mu); ne Yashubi-Lehem. Na nsɛm yi yɛ tete deɛ.",
+  "tokens": [
+    {
+      "surface": "ויוקים",
+      "gloss": "ne Yokim"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ne mmarima"
+    },
+    {
+      "surface": "כזבא",
+      "gloss": "Kozeba"
+    },
+    {
+      "surface": "ויואש",
+      "gloss": "ne Yoash"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ne Saraf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעלו",
+      "gloss": "wɔyɛɛ awuraafoɔ"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ne Yashubi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "na nsɛm yi"
+    },
+    {
+      "surface": "עתיקים",
+      "gloss": "yɛ tete deɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:54:45.313934110Z",
+  "model": "glm-5.3"
+}

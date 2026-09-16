@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":9,"ref":"deuteronomy 4:9","book":"deuteronomy","lang":"tw","chapter":4,"translation":"Nanso hwɛ wo ho yie, na bɔ wo nkwa ho ban kɛseɛ, sɛdeɛ wo werɛ nfrɛ ⟨את⟩ nsɛm a wo ani ahunu, na sɛdeɛ ɛnntwan afiri wo akoma mu wo mmerɛ a wote ase nyinaa; na da no adi kyerɛ wɔ mma no ne wɔ mma mma no.","tokens":[{"surface":"רק","gloss":"Nanso"},{"surface":"השמר","gloss":"hwɛ"},{"surface":"לך","gloss":"wo ho"},{"surface":"ושמר","gloss":"na bɔ ban"},{"surface":"נפשך","gloss":"wo nkwa"},{"surface":"מאד","gloss":"kɛseɛ"},{"surface":"פן","gloss":"sɛdeɛ"},{"surface":"תשכח","gloss":"wo werɛ nfrɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"nsɛm a wo ani ahunu"},{"surface":"הדברים","gloss":"nsɛm"},{"surface":"אשר","gloss":"a"},{"surface":"ראו","gloss":"ahunu"},{"surface":"עיניך","gloss":"wo ani"},{"surface":"ופן","gloss":"na sɛdeɛ"},{"surface":"יסורו","gloss":"ɛnntwan"},{"surface":"מלבבך","gloss":"afiri wo akoma mu"},{"surface":"כל","gloss":"nyinaa"},{"surface":"ימי","gloss":"berɛ a"},{"surface":"חייך","gloss":"wote ase"},{"surface":"והודעתם","gloss":"na da no adi kyerɛ"},{"surface":"לבניך","gloss":"wɔ mma no"},{"surface":"ולבני","gloss":"ne wɔ mma mma"},{"surface":"בניך","gloss":"mma no"}],"timestamp":"2026-09-15T21:47:26.994602783Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 4:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Nanso hwɛ wo ho yie, na bɔ wo nkwa ho ban kɛseɛ, sɛdeɛ wo werɛ nfrɛ ⟨את⟩ nsɛm a wo ani ahunu, na sɛdeɛ ɛnntwan afiri wo akoma mu wo mmerɛ a wote ase nyinaa; na da no adi kyerɛ wɔ mma no ne wɔ mma mma no.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nanso"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "na bɔ ban"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo nkwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wo werɛ nfrɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm a wo ani ahunu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ahunu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "wo ani"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "na sɛdeɛ"
+    },
+    {
+      "surface": "יסורו",
+      "gloss": "ɛnntwan"
+    },
+    {
+      "surface": "מלבבך",
+      "gloss": "afiri wo akoma mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "wote ase"
+    },
+    {
+      "surface": "והודעתם",
+      "gloss": "na da no adi kyerɛ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "wɔ mma no"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ne wɔ mma mma"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "mma no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:47:26.994602783Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,113 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "1-kings 9:19", "book": "1-kings", "lang": "tw", "chapter": 9, "translation": "Ne ⟨את⟩ nkurow ⟨את⟩ nyinaa a ɛyɛ nneɛma ahorowdwabea a na ɛwɔ Shelomoh nsam, ne ⟨את⟩ nkurow a ɛma akwanhyia, ne nkurow a ɛma akoramfoɔ, ne deɛ Shelomoh pɛɛ sɛ ɔsi wɔ Yerusalem, wɔ Lebanon, ne wɔ asase a ɔdi so ⟨את⟩ nyinaa mu.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "nkurow nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ערי", "gloss": "nkurow"}, {"surface": "המסכנות", "gloss": "a ɛyɛ nneɛma ahorowdwabea"}, {"surface": "אשר", "gloss": "a"}, {"surface": "היו", "gloss": "na ɛwɔ"}, {"surface": "לשלמה", "gloss": "Shelomoh nsam"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nkurow a ɛma akwanhyia"}, {"surface": "ערי", "gloss": "nkurow"}, {"surface": "הרכב", "gloss": "a ɛma akwanhyia"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nkurow a ɛma akoramfoɔ"}, {"surface": "ערי", "gloss": "nkurow"}, {"surface": "הפרשים", "gloss": "a ɛma akoramfoɔ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "deɛ Shelomoh pɛɛ"}, {"surface": "חשק", "gloss": "deɛ … pɛɛ"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "אשר", "gloss": "a"}, {"surface": "חשק", "gloss": "pɛ"}, {"surface": "לבנות", "gloss": "sisi"}, {"surface": "בירושלם", "gloss": "wɔ Yerusalem"}, {"surface": "ובלבנון", "gloss": "wɔ Lebanon"}, {"surface": "ובכל", "gloss": "ne wɔ … nyinaa"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "ממשלתו", "gloss": "a ɔdi so"}], "timestamp": "2026-09-15T23:18:16.390483995Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 9:19",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ne ⟨את⟩ nkurow ⟨את⟩ nyinaa a ɛyɛ nneɛma ahorowdwabea a na ɛwɔ Shelomoh nsam, ne ⟨את⟩ nkurow a ɛma akwanhyia, ne nkurow a ɛma akoramfoɔ, ne deɛ Shelomoh pɛɛ sɛ ɔsi wɔ Yerusalem, wɔ Lebanon, ne wɔ asase a ɔdi so ⟨את⟩ nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkurow nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "a ɛyɛ nneɛma ahorowdwabea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "na ɛwɔ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoh nsam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkurow a ɛma akwanhyia"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "a ɛma akwanhyia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkurow a ɛma akoramfoɔ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "a ɛma akoramfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Shelomoh pɛɛ"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "deɛ … pɛɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "wɔ Lebanon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne wɔ … nyinaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "a ɔdi so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:16.390483995Z",
+  "model": "glm-5.3"
+}

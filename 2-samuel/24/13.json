@@ -1,1 +1,153 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-samuel 24:13","book":"2-samuel","lang":"tw","chapter":24,"translation":"Gad baa Dawid hɔ, bɔɔ no amaneɛ, kaa sɛ: Sɛ ɔkɔm mfeɛ nson ba wo wɔ wo asase so, anaasɛ wodwan nnɔnhweɛ mmiɛnsa wo atamfoɔ anim, na wɔrepere wo, anaasɛ ɛnyɛ yare bɔne nnahoma mmiɛnsa wɔ wo asase so — ɛnnɛ susu ho na huhu sɛdeɛ mɛbua asɛm no de akɔma deɛ ɔsomaa me no.","tokens":[{"surface":"ויבא","gloss":"baa"},{"surface":"גד","gloss":"Gad"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"דוד","gloss":"Dawid"},{"surface":"ויגד","gloss":"bɔɔ amaneɛ"},{"surface":"לו","gloss":"no"},{"surface":"ויאמר","gloss":"kaa sɛ"},{"surface":"לו","gloss":"no"},{"surface":"התבוא","gloss":"ɛbɛba"},{"surface":"לך","gloss":"wo"},{"surface":"שבע","gloss":"nson"},{"surface":"שנים","gloss":"mfeɛ"},{"surface":"רעב","gloss":"ɔkɔm"},{"surface":"בארצך","gloss":"wɔ wo asase so"},{"surface":"אם","gloss":"anaasɛ"},{"surface":"שלשה","gloss":"mmiɛnsa"},{"surface":"חדשים","gloss":"nnɔnhweɛ"},{"surface":"נסך","gloss":"wodwan"},{"surface":"לפני","gloss":"anim"},{"surface":"צריך","gloss":"wo atamfoɔ"},{"surface":"והוא","gloss":"na wɔn"},{"surface":"רדפך","gloss":"repere wo"},{"surface":"ואם","gloss":"anaasɛ"},{"surface":"היות","gloss":"ɛnyɛ"},{"surface":"שלשת","gloss":"mmiɛnsa"},{"surface":"ימים","gloss":"nnahoma"},{"surface":"דבר","gloss":"yare bɔne"},{"surface":"בארצך","gloss":"wɔ wo asase so"},{"surface":"עתה","gloss":"ɛnnɛ"},{"surface":"דע","gloss":"susu ho"},{"surface":"וראה","gloss":"na huhu"},{"surface":"מה","gloss":"sɛdeɛ"},{"surface":"אשיב","gloss":"mɛbua"},{"surface":"שלחי","gloss":"deɛ ɔsomaa me"},{"surface":"דבר","gloss":"asɛm"}],"timestamp":"2026-09-15T23:12:17.844277223Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 24:13",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Gad baa Dawid hɔ, bɔɔ no amaneɛ, kaa sɛ: Sɛ ɔkɔm mfeɛ nson ba wo wɔ wo asase so, anaasɛ wodwan nnɔnhweɛ mmiɛnsa wo atamfoɔ anim, na wɔrepere wo, anaasɛ ɛnyɛ yare bɔne nnahoma mmiɛnsa wɔ wo asase so — ɛnnɛ susu ho na huhu sɛdeɛ mɛbua asɛm no de akɔma deɛ ɔsomaa me no.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bɔɔ amaneɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "התבוא",
+      "gloss": "ɛbɛba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ɔkɔm"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "wɔ wo asase so"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nnɔnhweɛ"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wodwan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "wo atamfoɔ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na wɔn"
+    },
+    {
+      "surface": "רדפך",
+      "gloss": "repere wo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnahoma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yare bɔne"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "wɔ wo asase so"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "דע",
+      "gloss": "susu ho"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na huhu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mɛbua"
+    },
+    {
+      "surface": "שלחי",
+      "gloss": "deɛ ɔsomaa me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    }
+  ],
+  "timestamp": "2026-09-15T23:12:17.844277223Z",
+  "model": "glm-5.3"
+}

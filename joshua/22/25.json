@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "joshua 22:25", "book": "joshua", "lang": "tw", "chapter": 22, "translation": "na Yawe de ahyeɛ ama — ⟨את⟩ Yardɛn — wɔ yɛn ne mo ntam, mo Reuben mma ne Gad mma; monni kyɛfa wɔ Yawe mu; na mo mma bɛma ⟨את⟩ yɛn mma agyae Yawe suroɔ, enti wɔnnsuro ⟨את⟩ Yawe.", "tokens": [{"surface": "וגבול", "gloss": "na ahyeɛ"}, {"surface": "נתן", "gloss": "de ... ama"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ביננו", "gloss": "wɔ yɛn"}, {"surface": "וביניכם", "gloss": "ne mo ntam"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ראובן", "gloss": "Reuben"}, {"surface": "ובני", "gloss": "ne mma"}, {"surface": "גד", "gloss": "Gad"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yardɛn"}, {"surface": "הירדן", "gloss": "Yardɛn"}, {"surface": "אין", "gloss": "nni"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "חלק", "gloss": "kyɛfa"}, {"surface": "ביהוה", "gloss": "wɔ Yawe mu"}, {"surface": "והשביתו", "gloss": "na wɔbɛma ... agyae"}, {"surface": "בניכם", "gloss": "mo mma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yɛn mma"}, {"surface": "בנינו", "gloss": "yɛn mma"}, {"surface": "לבלתי", "gloss": "enti wɔnnsuro"}, {"surface": "ירא", "gloss": "suroɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T22:09:18.952194694Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 22:25",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "na Yawe de ahyeɛ ama — ⟨את⟩ Yardɛn — wɔ yɛn ne mo ntam, mo Reuben mma ne Gad mma; monni kyɛfa wɔ Yawe mu; na mo mma bɛma ⟨את⟩ yɛn mma agyae Yawe suroɔ, enti wɔnnsuro ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "na ahyeɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de ... ama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביננו",
+      "gloss": "wɔ yɛn"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ne mo ntam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardɛn"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardɛn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "kyɛfa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "wɔ Yawe mu"
+    },
+    {
+      "surface": "והשביתו",
+      "gloss": "na wɔbɛma ... agyae"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn mma"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "yɛn mma"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "enti wɔnnsuro"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "suroɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:09:18.952194694Z",
+  "model": "glm-5.3"
+}

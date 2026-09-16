@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":2,"ref":"ezekiel 29:2","book":"ezekiel","lang":"tw","chapter":29,"translation":"Onipa ba, fa w'ani si Paroh, Misraim ɔhene so, na di amanbuo tia no ne Misraim nyinaa.","tokens":[{"surface":"בן","gloss":"ba"},{"surface":"אדם","gloss":"onipa"},{"surface":"שים","gloss":"fa"},{"surface":"פניך","gloss":"w'ani"},{"surface":"על","gloss":"si … so"},{"surface":"פרעה","gloss":"Paroh"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"והנבא","gloss":"na di amanbuo"},{"surface":"עליו","gloss":"tia no"},{"surface":"ועל","gloss":"ne"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"כלה","gloss":"nyinaa"}],"timestamp":"2026-09-16T00:51:30.997386521Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 29:2",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Onipa ba, fa w'ani si Paroh, Misraim ɔhene so, na di amanbuo tia no ne Misraim nyinaa.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "שים",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'ani"
+    },
+    {
+      "surface": "על",
+      "gloss": "si … so"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "na di amanbuo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tia no"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:51:30.997386521Z",
+  "model": "glm-5.3"
+}

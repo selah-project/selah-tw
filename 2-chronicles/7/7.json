@@ -1,1 +1,142 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "2-chronicles 7:7", "book": "2-chronicles", "lang": "tw", "chapter": 7, "translation": "Shelomoh san kyerɛɛ ⟨את⟩ afuo no ⟨את⟩ mfimfini a ɛwɔ Yawe fie no anim sɛ ɛyɛ kronkron, ɛfiri sɛ ɔyɛɛ nwoma no afɔdeɛ ne anyɛmtua afɔdeɛ no nsam ntini hɔ; ɛfiri sɛ kɔkɔɔ afɔrefie a Shelomoh yɛeɛ no antumi annye ⟨את⟩ nwoma afɔdeɛ no ne ⟨את⟩ aduane afɔdeɛ no ne ⟨את⟩ nsam ntini no.", "tokens": [{"surface": "ויקדש", "gloss": "san kyerɛɛ...sɛ ɛyɛ kronkron"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "afuo no mfimfini"}, {"surface": "תוך", "gloss": "mfimfini"}, {"surface": "החצר", "gloss": "afuo"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "עשה", "gloss": "ɔyɛɛ"}, {"surface": "שם", "gloss": "hɔ"}, {"surface": "העלות", "gloss": "nwoma no afɔdeɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "anyɛmtua afɔdeɛ no nsam ntini"}, {"surface": "חלבי", "gloss": "nsam ntini"}, {"surface": "השלמים", "gloss": "anyɛmtua afɔdeɛ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "מזבח", "gloss": "afɔrefie"}, {"surface": "הנחשת", "gloss": "kɔkɔɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשה", "gloss": "yɛeɛ"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "לא", "gloss": "ann"}, {"surface": "יכול", "gloss": "antumi"}, {"surface": "להכיל", "gloss": "nye"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nwoma afɔdeɛ no"}, {"surface": "העלה", "gloss": "nwoma afɔdeɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "aduane afɔdeɛ no"}, {"surface": "המנחה", "gloss": "aduane afɔdeɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nsam ntini no"}, {"surface": "החלבים", "gloss": "nsam ntini"}], "timestamp": "2026-09-16T04:56:47.032052697Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 7:7",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Shelomoh san kyerɛɛ ⟨את⟩ afuo no ⟨את⟩ mfimfini a ɛwɔ Yawe fie no anim sɛ ɛyɛ kronkron, ɛfiri sɛ ɔyɛɛ nwoma no afɔdeɛ ne anyɛmtua afɔdeɛ no nsam ntini hɔ; ɛfiri sɛ kɔkɔɔ afɔrefie a Shelomoh yɛeɛ no antumi annye ⟨את⟩ nwoma afɔdeɛ no ne ⟨את⟩ aduane afɔdeɛ no ne ⟨את⟩ nsam ntini no.",
+  "tokens": [
+    {
+      "surface": "ויקדש",
+      "gloss": "san kyerɛɛ...sɛ ɛyɛ kronkron"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afuo no mfimfini"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mfimfini"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "afuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "nwoma no afɔdeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anyɛmtua afɔdeɛ no nsam ntini"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "nsam ntini"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "anyɛmtua afɔdeɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "afɔrefie"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔkɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "antumi"
+    },
+    {
+      "surface": "להכיל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoma afɔdeɛ no"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nwoma afɔdeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aduane afɔdeɛ no"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "aduane afɔdeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nsam ntini no"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "nsam ntini"
+    }
+  ],
+  "timestamp": "2026-09-16T04:56:47.032052697Z",
+  "model": "glm-5.3"
+}

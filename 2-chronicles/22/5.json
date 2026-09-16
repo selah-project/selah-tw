@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "2-chronicles 22:5", "book": "2-chronicles", "lang": "tw", "chapter": 22, "translation": "Wɔn afutusɛm mu nso na ɔtenaa ase, na ɔkɔɔ ne ⟨את⟩ Yehoram, Ahab ba, Israelfoɔ ɔhene, kɔɔ ɔko ase tia Hazael, Aram ɔhene, wɔ Ramot-Gilead mu; na Aramfoɔ no bɔɔ ⟨את⟩ Yoram.", "tokens": [{"surface": "גם", "gloss": "nso"}, {"surface": "בעצתם", "gloss": "wɔn afutusɛm mu"}, {"surface": "הלך", "gloss": "ɔtenaa ase"}, {"surface": "וילך", "gloss": "na ɔkɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne Yehoram"}, {"surface": "יהורם", "gloss": "Yehoram"}, {"surface": "בן", "gloss": "ba"}, {"surface": "אחאב", "gloss": "Ahab"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}, {"surface": "למלחמה", "gloss": "kɔɔ ɔko ase"}, {"surface": "על", "gloss": "tia"}, {"surface": "חזאל", "gloss": "Hazael"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ארם", "gloss": "Aram"}, {"surface": "ברמות", "gloss": "wɔ Ramot mu"}, {"surface": "גלעד", "gloss": "Gilead"}, {"surface": "ויכו", "gloss": "na ... bɔɔ"}, {"surface": "הרמים", "gloss": "Aramfoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yoram"}, {"surface": "יורם", "gloss": "Yoram"}], "timestamp": "2026-09-16T05:06:17.608312197Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 22:5",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Wɔn afutusɛm mu nso na ɔtenaa ase, na ɔkɔɔ ne ⟨את⟩ Yehoram, Ahab ba, Israelfoɔ ɔhene, kɔɔ ɔko ase tia Hazael, Aram ɔhene, wɔ Ramot-Gilead mu; na Aramfoɔ no bɔɔ ⟨את⟩ Yoram.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "wɔn afutusɛm mu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ɔtenaa ase"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kɔɔ ɔko ase"
+    },
+    {
+      "surface": "על",
+      "gloss": "tia"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "wɔ Ramot mu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "na ... bɔɔ"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "Aramfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    }
+  ],
+  "timestamp": "2026-09-16T05:06:17.608312197Z",
+  "model": "glm-5.3"
+}

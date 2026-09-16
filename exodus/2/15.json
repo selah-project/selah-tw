@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "exodus 2:15", "book": "exodus", "lang": "tw", "chapter": 2, "translation": "Parao tee ⟨את⟩ asɛm no, na ɔhwehwɛɛ sɛ ɔkum ⟨את⟩ Moshe; na Moshe dwanee Parao anim, ɔtenaa Midian asaase so, na ɔtenaa abura no ho.", "tokens": [{"surface": "וישמע", "gloss": "tee"}, {"surface": "פרעה", "gloss": "Parao"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm no"}, {"surface": "הדבר", "gloss": "asɛm"}, {"surface": "הזה", "gloss": "no"}, {"surface": "ויבקש", "gloss": "na ɔhwehwɛɛ sɛ"}, {"surface": "להרג", "gloss": "ɔkum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moshe"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ויברח", "gloss": "na ... dwanee"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "מפני", "gloss": "anim"}, {"surface": "פרעה", "gloss": "Parao"}, {"surface": "וישב", "gloss": "ɔtenaa ... so"}, {"surface": "בארץ", "gloss": "asaase"}, {"surface": "מדין", "gloss": "Midian"}, {"surface": "וישב", "gloss": "na ɔtenaa"}, {"surface": "על", "gloss": "ho"}, {"surface": "הבאר", "gloss": "abura"}], "timestamp": "2026-09-15T20:42:58.318451304Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Parao tee ⟨את⟩ asɛm no, na ɔhwehwɛɛ sɛ ɔkum ⟨את⟩ Moshe; na Moshe dwanee Parao anim, ɔtenaa Midian asaase so, na ɔtenaa abura no ho.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm no"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "no"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "na ɔhwehwɛɛ sɛ"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ɔkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "na ... dwanee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ɔtenaa ... so"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asaase"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ɔtenaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "abura"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:58.318451304Z",
+  "model": "glm-5.3"
+}

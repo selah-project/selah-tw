@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":25,"ref":"2-kings 21:25","book":"2-kings","lang":"tw","chapter":21,"translation":"Na deɛ aka wɔ Amon nsɛm mu, deɛ ɔyɛeɛ, ɛnyɛ sɛ wɔatwerɛ no wɔ nhoma a ɛyɛ Yehuda ahemfo nnɛ nsɛm mu?","tokens":[{"surface":"ויתר","gloss":"na deɛ aka"},{"surface":"דברי","gloss":"nsɛm"},{"surface":"אמון","gloss":"Amon"},{"surface":"אשר","gloss":"a"},{"surface":"עשה","gloss":"ɔyɛeɛ"},{"surface":"הלא","gloss":"ɛnyɛ sɛ"},{"surface":"הם","gloss":"ɛno"},{"surface":"כתובים","gloss":"wɔatwerɛ"},{"surface":"על","gloss":"wɔ ... mu"},{"surface":"ספר","gloss":"nhoma"},{"surface":"דברי","gloss":"nsɛm"},{"surface":"הימים","gloss":"nnɛ"},{"surface":"למלכי","gloss":"ahemfo"},{"surface":"יהודה","gloss":"Yehuda"}],"timestamp":"2026-09-15T23:37:26.783837700Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 21:25",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na deɛ aka wɔ Amon nsɛm mu, deɛ ɔyɛeɛ, ɛnyɛ sɛ wɔatwerɛ no wɔ nhoma a ɛyɛ Yehuda ahemfo nnɛ nsɛm mu?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "na deɛ aka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛeɛ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "wɔatwerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nhoma"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-15T23:37:26.783837700Z",
+  "model": "glm-5.3"
+}

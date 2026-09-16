@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":21,"ref":"joshua 6:21","book":"joshua","lang":"tw","chapter":6,"translation":"Wɔtoo deɛ ɛwɔ ⟨את⟩ kurow no mu nyinaa hyɛɛ asɛe mu, firi ɔbarima kɔsi ɔbaa, firi abɔfra kɔsi aberewa, ne ɔnantwie ne nnwan ne pɔnkɔ, wɔ sekan ano.","tokens":[{"surface":"ויחרימו","gloss":"wɔtoo…hyɛɛ asɛe mu"},{"surface":"את","gloss":"⟨את⟩","marks":"kurow no mu deɛ nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"אשר","gloss":"deɛ"},{"surface":"בעיר","gloss":"kurow no mu"},{"surface":"מאיש","gloss":"firi ɔbarima"},{"surface":"ועד","gloss":"kɔsi"},{"surface":"אשה","gloss":"ɔbaa"},{"surface":"מנער","gloss":"firi abɔfra"},{"surface":"ועד","gloss":"kɔsi"},{"surface":"זקן","gloss":"aberewa"},{"surface":"ועד","gloss":"ne"},{"surface":"שור","gloss":"ɔnantwie"},{"surface":"ושה","gloss":"nnwan"},{"surface":"וחמור","gloss":"pɔnkɔ"},{"surface":"לפי","gloss":"ano"},{"surface":"חרב","gloss":"sekan"}],"timestamp":"2026-09-15T22:04:01.899644713Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Wɔtoo deɛ ɛwɔ ⟨את⟩ kurow no mu nyinaa hyɛɛ asɛe mu, firi ɔbarima kɔsi ɔbaa, firi abɔfra kɔsi aberewa, ne ɔnantwie ne nnwan ne pɔnkɔ, wɔ sekan ano.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "wɔtoo…hyɛɛ asɛe mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow no mu deɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kurow no mu"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "firi ɔbarima"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "firi abɔfra"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "aberewa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ɔnantwie"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "pɔnkɔ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sekan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:01.899644713Z",
+  "model": "glm-5.3"
+}

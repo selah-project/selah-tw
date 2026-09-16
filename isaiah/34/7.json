@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 34:7","book":"isaiah","lang":"tw","chapter":34,"translation":"Na mmirentire (reem) ne wɔn bɛtɔ ase, na anantwie nini ne anantwie akɛseɛ; wɔn asase bɛgoro mogya mu, na wɔn anwea bɛtu nsam ayɛ dene.","tokens":[{"surface":"וירדו","gloss":"bɛtɔ ase"},{"surface":"ראמים","gloss":"mmirentire (reem)"},{"surface":"עמם","gloss":"ne wɔn"},{"surface":"ופרים","gloss":"na anantwie nini"},{"surface":"עם","gloss":"ne"},{"surface":"אבירים","gloss":"anantwie akɛseɛ"},{"surface":"ורותה","gloss":"bɛgoro"},{"surface":"ארצם","gloss":"wɔn asase"},{"surface":"מדם","gloss":"mogya mu"},{"surface":"ועפרם","gloss":"na wɔn anwea"},{"surface":"מחלב","gloss":"nsam"},{"surface":"ידשן","gloss":"bɛtu ayɛ dene"}],"timestamp":"2026-09-15T23:52:18.595659260Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na mmirentire (reem) ne wɔn bɛtɔ ase, na anantwie nini ne anantwie akɛseɛ; wɔn asase bɛgoro mogya mu, na wɔn anwea bɛtu nsam ayɛ dene.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "bɛtɔ ase"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "mmirentire (reem)"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ne wɔn"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "na anantwie nini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "anantwie akɛseɛ"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "bɛgoro"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "mogya mu"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "na wɔn anwea"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "bɛtu ayɛ dene"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:18.595659260Z",
+  "model": "glm-5.3"
+}

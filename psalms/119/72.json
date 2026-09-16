@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":72,"ref":"psalms 119:72","book":"psalms","lang":"tw","chapter":119,"translation":"Torat a efiri wo ano yɛ papa ama me kyɛn sika kɔkɔɔ ne dwetɛ apem pii.","tokens":[{"surface":"טוב","gloss":"yɛ papa … kyɛn"},{"surface":"לי","gloss":"ama me"},{"surface":"תורת","gloss":"Torat"},{"surface":"פיך","gloss":"a efiri wo ano"},{"surface":"מאלפי","gloss":"apem pii"},{"surface":"זהב","gloss":"sika kɔkɔɔ"},{"surface":"וכסף","gloss":"ne dwetɛ","note":"surface correction: וכסף"}],"timestamp":"2026-09-16T02:28:43.312479106Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Torat a efiri wo ano yɛ papa ama me kyɛn sika kɔkɔɔ ne dwetɛ apem pii.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yɛ papa … kyɛn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a efiri wo ano"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "apem pii"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ne dwetɛ",
+      "note": "surface correction: וכסף"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:43.312479106Z",
+  "model": "glm-5.3"
+}

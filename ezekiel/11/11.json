@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":11,"ref":"ezekiel 11:11","book":"ezekiel","lang":"tw","chapter":11,"translation":"Ɛnyɛ kuruwa mo dea; mo nkyɛ nam a ɛwɔ mu; wɔ Yisraɛl ahyeɛ so na mɛbu ⟨את⟩mo atɛm.","tokens":[{"surface":"היא","gloss":"ɛ(kuro no)"},{"surface":"לא","gloss":"nyɛ"},{"surface":"תהיה","gloss":"ɛbɛyɛ"},{"surface":"לכם","gloss":"mo dea"},{"surface":"לסיר","gloss":"kuruwa"},{"surface":"ואתם","gloss":"na mo"},{"surface":"תהיו","gloss":"mokyɛ"},{"surface":"בתוכה","gloss":"a ɛwɔ mu"},{"surface":"לבשר","gloss":"nam"},{"surface":"אל","gloss":"wɔ"},{"surface":"גבול","gloss":"ahyeɛ so"},{"surface":"ישראל","gloss":"Yisraɛl"},{"surface":"אשפט","gloss":"mɛbu atɛm"},{"surface":"אתכם","gloss":"⟨את⟩mo","marks":"mo"}],"timestamp":"2026-09-16T00:36:42.933292993Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛnyɛ kuruwa mo dea; mo nkyɛ nam a ɛwɔ mu; wɔ Yisraɛl ahyeɛ so na mɛbu ⟨את⟩mo atɛm.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "ɛ(kuro no)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo dea"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "kuruwa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na mo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mokyɛ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "a ɛwɔ mu"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ahyeɛ so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mɛbu atɛm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-16T00:36:42.933292993Z",
+  "model": "glm-5.3"
+}

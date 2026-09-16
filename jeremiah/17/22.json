@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "jeremiah 17:22", "book": "jeremiah", "lang": "tw", "chapter": 17, "translation": "na mo mmɔ nsoa firi mo afie mu ɛda Shabbat, na mo nyɛ adwuma biara; na mo kronkronyɛ ⟨את⟩ Shabbat ⟨את⟩ da no, sɛnea me hyɛɛ mo nkwadafoɔ ma no.", "tokens": [{"surface": "ולא", "gloss": "na mo mmɔ"}, {"surface": "תוציאו", "gloss": "mmɔ"}, {"surface": "משא", "gloss": "nsoa"}, {"surface": "מבתיכם", "gloss": "firi mo afie mu"}, {"surface": "ביום", "gloss": "da"}, {"surface": "השבת", "gloss": "Shabbat"}, {"surface": "וכל", "gloss": "na biribiara"}, {"surface": "מלאכה", "gloss": "adwuma"}, {"surface": "לא", "gloss": "mo nnwuma"}, {"surface": "תעשו", "gloss": "nyɛ"}, {"surface": "וקדשתם", "gloss": "na mo kronkronyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Shabbat da no"}, {"surface": "יום", "gloss": "da no"}, {"surface": "השבת", "gloss": "Shabbat"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "צויתי", "gloss": "me hyɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo nkwadafoɔ"}, {"surface": "אבותיכם", "gloss": "mo nkwadafoɔ"}], "timestamp": "2026-09-16T00:13:13.577040333Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 17:22",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "na mo mmɔ nsoa firi mo afie mu ɛda Shabbat, na mo nyɛ adwuma biara; na mo kronkronyɛ ⟨את⟩ Shabbat ⟨את⟩ da no, sɛnea me hyɛɛ mo nkwadafoɔ ma no.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na mo mmɔ"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "nsoa"
+    },
+    {
+      "surface": "מבתיכם",
+      "gloss": "firi mo afie mu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na biribiara"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mo nnwuma"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "na mo kronkronyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat da no"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da no"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "me hyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nkwadafoɔ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "mo nkwadafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:13:13.577040333Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,119 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "1-samuel 20:13", "book": "1-samuel", "lang": "tw", "chapter": 20, "translation": "Sɛnea Yawe bɛyɛ Yonatan saa, na ɔmmu bio — sɛ ɛyɛ dɛ m'agya pɛ sɛ ɔyɛ ⟨את⟩ bɔne no bɔ wo so, na mɛda ⟨את⟩ wo aso adi, na masoma wo ama wo kɔ asomdwoeɛ mu; na Yawe nka wo ho, sɛnea ɔkaa m'agya ho.", "tokens": [{"surface": "כה", "gloss": "sɛnea saa"}, {"surface": "יעשה", "gloss": "bɛyɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ליהונתן", "gloss": "Yonatan"}, {"surface": "וכה", "gloss": "na saa"}, {"surface": "יסיף", "gloss": "ɔmmu bio"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "ייטב", "gloss": "ɛyɛ dɛ"}, {"surface": "אל", "gloss": "sɛ"}, {"surface": "אבי", "gloss": "m'agya"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bɔne no"}, {"surface": "הרעה", "gloss": "bɔne no"}, {"surface": "עליך", "gloss": "bɔ wo so"}, {"surface": "וגליתי", "gloss": "na mɛda... adi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo aso"}, {"surface": "אזנך", "gloss": "wo aso"}, {"surface": "ושלחתיך", "gloss": "na masoma wo"}, {"surface": "והלכת", "gloss": "wo kɔ"}, {"surface": "לשלום", "gloss": "asomdwoeɛ mu"}, {"surface": "ויהי", "gloss": "na ɔnka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עמך", "gloss": "wo ho"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "היה", "gloss": "ɔkaa"}, {"surface": "עם", "gloss": "ho"}, {"surface": "אבי", "gloss": "m'agya"}], "timestamp": "2026-09-15T22:55:46.346674441Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 20:13",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Sɛnea Yawe bɛyɛ Yonatan saa, na ɔmmu bio — sɛ ɛyɛ dɛ m'agya pɛ sɛ ɔyɛ ⟨את⟩ bɔne no bɔ wo so, na mɛda ⟨את⟩ wo aso adi, na masoma wo ama wo kɔ asomdwoeɛ mu; na Yawe nka wo ho, sɛnea ɔkaa m'agya ho.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛnea saa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ליהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "na saa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ɔmmu bio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ɛyɛ dɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne no"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɔne no"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "bɔ wo so"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "na mɛda... adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo aso"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "wo aso"
+    },
+    {
+      "surface": "ושלחתיך",
+      "gloss": "na masoma wo"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "wo kɔ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "asomdwoeɛ mu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɔnka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:46.346674441Z",
+  "model": "glm-5.3"
+}

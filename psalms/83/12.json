@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 83:12","book":"psalms","lang":"tw","chapter":83,"translation":"Fa wɔn akannifoɔ yi wɔn sɛ Oreb ne sɛ Zeeb, na sɛ Zebah ne sɛ Zalmunna wɔn ahemfo nyinaa:","tokens":[{"surface":"שיתמו","gloss":"Fa wɔn akannifoɔ yi wɔn"},{"surface":"נדיבמו","gloss":"wɔn akannifoɔ"},{"surface":"כערב","gloss":"sɛ Oreb"},{"surface":"וכזאב","gloss":"ne sɛ Zeeb"},{"surface":"וכזבח","gloss":"na sɛ Zebah"},{"surface":"וכצלמנע","gloss":"ne sɛ Zalmunna"},{"surface":"כל","gloss":"nyinaa"},{"surface":"נסיכמו","gloss":"wɔn ahemfo"}],"timestamp":"2026-09-16T02:11:39.844072283Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Fa wɔn akannifoɔ yi wɔn sɛ Oreb ne sɛ Zeeb, na sɛ Zebah ne sɛ Zalmunna wɔn ahemfo nyinaa:",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Fa wɔn akannifoɔ yi wɔn"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "wɔn akannifoɔ"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "sɛ Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ne sɛ Zeeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "na sɛ Zebah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ne sɛ Zalmunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "wɔn ahemfo"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:39.844072283Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-samuel 1:13","book":"2-samuel","lang":"tw","chapter":1,"translation":"Daavid kaa kyerɛɛ abɔfra no a ɔka kyerɛɛ no sɛ: Wofiri he? Na ɔkaa sɛ: M'agya yɛ ⟨amammerɛni⟩, Amalekini; me ne ɔno.","tokens":[{"surface":"ויאמר","gloss":"kaa kyerɛɛ"},{"surface":"דוד","gloss":"Daavid"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"הנער","gloss":"abɔfra no"},{"surface":"המגיד","gloss":"a ɔka (ka-kyerɛfoɔ)"},{"surface":"לו","gloss":"no"},{"surface":"אי","gloss":"he?"},{"surface":"מזה","gloss":"wofiri"},{"surface":"אתה","gloss":"wo"},{"surface":"ויאמר","gloss":"kaa sɛ"},{"surface":"בן","gloss":"ba"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"גר","gloss":"ɔhɔhoɔ (amanfirini)"},{"surface":"עמלקי","gloss":"Amalekini"},{"surface":"אנכי","gloss":"me ne"}],"timestamp":"2026-09-15T23:00:24.907309823Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Daavid kaa kyerɛɛ abɔfra no a ɔka kyerɛɛ no sɛ: Wofiri he? Na ɔkaa sɛ: M'agya yɛ ⟨amammerɛni⟩, Amalekini; me ne ɔno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "a ɔka (ka-kyerɛfoɔ)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אי",
+      "gloss": "he?"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "wofiri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ɔhɔhoɔ (amanfirini)"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me ne"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:24.907309823Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,131 @@
-{"tier":"glm-5.2","verse":16,"ref":"2-kings 2:16","book":"2-kings","lang":"tw","chapter":2,"translation":"Wɔka kyerɛɛ no sɛ: “Hwɛ, mepa wo kyɛw, wɔ ⟨את⟩ wo nkoa mu wɔ mmarima aduonum, mma a ahoɔden wɔ mu; momma wɔnkɔ, mepa wo kyɛw, wɔnhwehwɛ ⟨את⟩ wo wura, sɛ ebia Yawe honhom no ɛfaa no na ɛtoow no wɔ mmepɔ no mu baako anaa asukɔkye ahodoɔ no mu baako so.” Na ɔkaa sɛ: “Mo nsomma.”","tokens":[{"surface":"ויאמרו","gloss":"wɔka kyerɛɛ"},{"surface":"אליו","gloss":"no"},{"surface":"הנה","gloss":"hwɛ"},{"surface":"נא","gloss":"mepa wo kyɛw"},{"surface":"יש","gloss":"wɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"wo nkoa"},{"surface":"עבדיך","gloss":"wo nkoa"},{"surface":"חמשים","gloss":"aduonum"},{"surface":"אנשים","gloss":"mmarima"},{"surface":"בני","gloss":"mma"},{"surface":"חיל","gloss":"ahoɔden"},{"surface":"ילכו","gloss":"momma wɔnkɔ"},{"surface":"נא","gloss":"mepa wo kyɛw"},{"surface":"ויבקשו","gloss":"wɔnhwehwɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"wo wura"},{"surface":"אדניך","gloss":"wo wura"},{"surface":"פן","gloss":"sɛ ebia"},{"surface":"נשאו","gloss":"ɛfaa no"},{"surface":"רוח","gloss":"honhom"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"וישלכהו","gloss":"ɛtoow no"},{"surface":"באחד","gloss":"wɔ ... baako"},{"surface":"ההרים","gloss":"mmepɔ no"},{"surface":"או","gloss":"anaa"},{"surface":"באחת","gloss":"wɔ ... baako"},{"surface":"הגיאות","gloss":"asukɔkye ahodoɔ no"},{"surface":"ויאמר","gloss":"ɔkaa sɛ"},{"surface":"לא","gloss":"nni"},{"surface":"תשלחו","gloss":"mo nsomma"}],"timestamp":"2026-09-15T23:27:29.978394433Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 2:16",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Wɔka kyerɛɛ no sɛ: “Hwɛ, mepa wo kyɛw, wɔ ⟨את⟩ wo nkoa mu wɔ mmarima aduonum, mma a ahoɔden wɔ mu; momma wɔnkɔ, mepa wo kyɛw, wɔnhwehwɛ ⟨את⟩ wo wura, sɛ ebia Yawe honhom no ɛfaa no na ɛtoow no wɔ mmepɔ no mu baako anaa asukɔkye ahodoɔ no mu baako so.” Na ɔkaa sɛ: “Mo nsomma.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔka kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nkoa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo nkoa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "momma wɔnkɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "wɔnhwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo wura"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wo wura"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛ ebia"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ɛfaa no"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלכהו",
+      "gloss": "ɛtoow no"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "wɔ ... baako"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mmepɔ no"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "wɔ ... baako"
+    },
+    {
+      "surface": "הגיאות",
+      "gloss": "asukɔkye ahodoɔ no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "mo nsomma"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:29.978394433Z",
+  "model": "glm-5.3"
+}

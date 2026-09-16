@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "jeremiah 35:1", "book": "jeremiah", "lang": "tw", "chapter": 35, "translation": "Asɛm a ɛbaa Yirmeyahu ho ⟨את⟩ firi Yawe nkyɛn, wɔ Yehoyakim, Yosia ba, Yuda ɔhene berɛ mu, sɛ:", "tokens": [{"surface": "הדבר", "gloss": "Asɛm"}, {"surface": "אשר", "gloss": "a ɛbaa"}, {"surface": "היה", "gloss": "baa...ho"}, {"surface": "אל", "gloss": "ho (kɔ)"}, {"surface": "ירמיהו", "gloss": "Yirmeyahu"}, {"surface": "מאת", "gloss": "firi ⟨את⟩", "marks": "Yawe nkyɛn"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "בימי", "gloss": "wɔ...berɛ mu"}, {"surface": "יהויקים", "gloss": "Yehoyakim"}, {"surface": "בן", "gloss": "ba"}, {"surface": "יאשיהו", "gloss": "Yosia"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "לאמר", "gloss": "sɛ:"}], "timestamp": "2026-09-16T00:22:29.267754744Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 35:1",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Asɛm a ɛbaa Yirmeyahu ho ⟨את⟩ firi Yawe nkyɛn, wɔ Yehoyakim, Yosia ba, Yuda ɔhene berɛ mu, sɛ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ɛbaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "baa...ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho (kɔ)"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩",
+      "marks": "Yawe nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "wɔ...berɛ mu"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ:"
+    }
+  ],
+  "timestamp": "2026-09-16T00:22:29.267754744Z",
+  "model": "glm-5.3"
+}

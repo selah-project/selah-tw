@@ -1,1 +1,68 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "1-samuel 19:15", "book": "1-samuel", "lang": "tw", "chapter": 19, "translation": "Shaul somaa ⟨את⟩ asɛmfoɔ no bio kɔhwɛ ⟨את⟩ Dawid, sɛ: Monya no ⟨את⟩ wɔ akonnwa no so mma no bra me nkyɛn, na makum no.", "tokens": [{"surface": "וישלח", "gloss": "somaa"}, {"surface": "שאול", "gloss": "Shaul"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛmfoɔ no"}, {"surface": "המלאכים", "gloss": "asɛmfoɔ no"}, {"surface": "לראות", "gloss": "kɔhwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dawid"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "העלו", "gloss": "monya no mma no bra"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "akonnwa no so"}, {"surface": "במטה", "gloss": "wɔ akonnwa no so"}, {"surface": "אלי", "gloss": "me nkyɛn"}, {"surface": "להמתו", "gloss": "na makum no"}], "timestamp": "2026-09-15T22:55:49.742801272Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Shaul somaa ⟨את⟩ asɛmfoɔ no bio kɔhwɛ ⟨את⟩ Dawid, sɛ: Monya no ⟨את⟩ wɔ akonnwa no so mma no bra me nkyɛn, na makum no.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛmfoɔ no"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "asɛmfoɔ no"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kɔhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "monya no mma no bra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "akonnwa no so"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "wɔ akonnwa no so"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "na makum no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:49.742801272Z",
+  "model": "glm-5.3"
+}

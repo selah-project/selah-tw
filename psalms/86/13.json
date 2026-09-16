@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":13,"ref":"psalms 86:13","book":"psalms","lang":"tw","chapter":86,"translation":"Ɛfiri sɛ wo hesed kɛseɛ wɔ me so, na wogyaa me kra fi Seol a ɛwɔ soro ase.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"חסדך","gloss":"wo hesed"},{"surface":"גדול","gloss":"kɛseɛ"},{"surface":"עלי","gloss":"wɔ me so"},{"surface":"והצלת","gloss":"na wogyaa"},{"surface":"נפשי","gloss":"me kra"},{"surface":"משאול","gloss":"fi Seol"},{"surface":"תחתיה","gloss":"a ɛwɔ ase"}],"timestamp":"2026-09-16T02:13:42.128908427Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Ɛfiri sɛ wo hesed kɛseɛ wɔ me so, na wogyaa me kra fi Seol a ɛwɔ soro ase.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "wo hesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ me so"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "na wogyaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "fi Seol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "a ɛwɔ ase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:42.128908427Z",
+  "model": "glm-5.3"
+}

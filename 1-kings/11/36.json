@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":36,"ref":"1-kings 11:36","book":"1-kings","lang":"tw","chapter":11,"translation":"Na ne ba deɛ, mɛma no abusuakuo baako, na Davida m'akoa benya kanea daa m'anim wɔ Yerusalem, kuro a mepaw de ama me ho, sɛ mɛde m'din besi hɔ.","tokens":[{"surface":"ולבנו","gloss":"Na ne ba deɛ"},{"surface":"אתן","gloss":"mɛma no"},{"surface":"שבט","gloss":"abusuakuo"},{"surface":"אחד","gloss":"baako"},{"surface":"למען","gloss":"na"},{"surface":"היות","gloss":"na...benya"},{"surface":"ניר","gloss":"kanea"},{"surface":"לדויד","gloss":"Davida"},{"surface":"עבדי","gloss":"m'akoa"},{"surface":"כל","gloss":"daa"},{"surface":"הימים","gloss":"daa"},{"surface":"לפני","gloss":"m'anim"},{"surface":"בירושלם","gloss":"wɔ Yerusalem"},{"surface":"העיר","gloss":"kuro"},{"surface":"אשר","gloss":"a"},{"surface":"בחרתי","gloss":"mepaw"},{"surface":"לי","gloss":"de ama me ho"},{"surface":"לשום","gloss":"sɛ mɛde...besi hɔ"},{"surface":"שמי","gloss":"m'din"},{"surface":"שם","gloss":"hɔ"}],"timestamp":"2026-09-15T23:18:07.696385103Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 11:36",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ne ba deɛ, mɛma no abusuakuo baako, na Davida m'akoa benya kanea daa m'anim wɔ Yerusalem, kuro a mepaw de ama me ho, sɛ mɛde m'din besi hɔ.",
+  "tokens": [
+    {
+      "surface": "ולבנו",
+      "gloss": "Na ne ba deɛ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mɛma no"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "abusuakuo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "היות",
+      "gloss": "na...benya"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "kanea"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "m'akoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "daa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "m'anim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mepaw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de ama me ho"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "sɛ mɛde...besi hɔ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "m'din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:07.696385103Z",
+  "model": "glm-5.3"
+}

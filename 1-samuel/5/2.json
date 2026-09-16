@@ -1,1 +1,68 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "1-samuel 5:2", "book": "1-samuel", "lang": "tw", "chapter": 5, "translation": "Abibiremfoɔ de ⟨את⟩ Eloohim ⟨את⟩ adaka ⟨את⟩ no baa Dagon fie, na wɔde no sii Dagon nkyɛn.", "tokens": [{"surface": "ויקחו", "gloss": "wɔde...baeɛ"}, {"surface": "פלשתים", "gloss": "Abibiremfoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Eloohim adaka"}, {"surface": "ארון", "gloss": "adaka"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "ויביאו", "gloss": "wɔde no baa"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "Dagon fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "דגון", "gloss": "Dagon"}, {"surface": "ויציגו", "gloss": "wɔde no sii"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "Dagon nkyɛn"}, {"surface": "אצל", "gloss": "nkyɛn"}, {"surface": "דגון", "gloss": "Dagon"}], "timestamp": "2026-09-15T22:48:03.996725045Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Abibiremfoɔ de ⟨את⟩ Eloohim ⟨את⟩ adaka ⟨את⟩ no baa Dagon fie, na wɔde no sii Dagon nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wɔde...baeɛ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abibiremfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim adaka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wɔde no baa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Dagon fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "wɔde no sii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Dagon nkyɛn"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:03.996725045Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":2,"ref":"song-of-songs 7:2","book":"song-of-songs","lang":"tw","chapter":7,"translation":"Sɛ dɛn na wo nan dadaa yɛ fɛ wɔ mpaboa mu, ɔhene aba! Wo nansoaa ntɔmmɔ te sɛ mpea, nsam adwuma a nsaanidwumafoɔ de nsa ayɛ.","tokens":[{"surface":"מה","gloss":"sɛ dɛn"},{"surface":"יפו","gloss":"yɛ fɛ"},{"surface":"פעמיך","gloss":"wo nan dadaa"},{"surface":"בנעלים","gloss":"wɔ mpaboa mu"},{"surface":"בת","gloss":"aba"},{"surface":"נדיב","gloss":"ɔhene"},{"surface":"חמוקי","gloss":"ntɔmmɔ"},{"surface":"ירכיך","gloss":"wo nansoaa"},{"surface":"כמו","gloss":"te sɛ"},{"surface":"חלאים","gloss":"mpea"},{"surface":"מעשה","gloss":"adwuma"},{"surface":"ידי","gloss":"nsa"},{"surface":"אמן","gloss":"nsaanidwumafoɔ"}],"timestamp":"2026-09-16T03:43:24.612439387Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 7:2",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Sɛ dɛn na wo nan dadaa yɛ fɛ wɔ mpaboa mu, ɔhene aba! Wo nansoaa ntɔmmɔ te sɛ mpea, nsam adwuma a nsaanidwumafoɔ de nsa ayɛ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sɛ dɛn"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "yɛ fɛ"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "wo nan dadaa"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "wɔ mpaboa mu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "aba"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "חמוקי",
+      "gloss": "ntɔmmɔ"
+    },
+    {
+      "surface": "ירכיך",
+      "gloss": "wo nansoaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "te sɛ"
+    },
+    {
+      "surface": "חלאים",
+      "gloss": "mpea"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "nsaanidwumafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:43:24.612439387Z",
+  "model": "glm-5.3"
+}

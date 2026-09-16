@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "genesis 6:14", "book": "genesis", "lang": "tw", "chapter": 6, "translation": "Yɛ wo fa goffer nnua nsuhyɛn; yɛ da-mmeae wɔ ⟨את⟩ nsuhyɛn no mu; na srã ⟨את⟩ no ngo-tuntum (kopher) mu ne akyi.", "tokens": [{"surface": "עשה", "gloss": "Yɛ"}, {"surface": "לך", "gloss": "wo fa"}, {"surface": "תבת", "gloss": "nsuhyɛn"}, {"surface": "עצי", "gloss": "nnua"}, {"surface": "גפר", "gloss": "goffer"}, {"surface": "קנים", "gloss": "da-mmeae"}, {"surface": "תעשה", "gloss": "yɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsuhyɛn no"}, {"surface": "התבה", "gloss": "nsuhyɛn no"}, {"surface": "וכפרת", "gloss": "na srã"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "mu ne akyi"}, {"surface": "מבית", "gloss": "mu"}, {"surface": "ומחוץ", "gloss": "ne akyi"}, {"surface": "בכפר", "gloss": "ngo-tuntum (kopher)"}], "timestamp": "2026-09-15T20:18:18.010779238Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Yɛ wo fa goffer nnua nsuhyɛn; yɛ da-mmeae wɔ ⟨את⟩ nsuhyɛn no mu; na srã ⟨את⟩ no ngo-tuntum (kopher) mu ne akyi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo fa"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "nsuhyɛn"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "goffer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "da-mmeae"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsuhyɛn no"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "nsuhyɛn no"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "na srã"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mu ne akyi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ne akyi"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ngo-tuntum (kopher)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:18:18.010779238Z",
+  "model": "glm-5.3"
+}

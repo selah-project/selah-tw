@@ -1,1 +1,114 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "exodus 32:13", "book": "exodus", "lang": "tw", "chapter": 32, "translation": "Ka Abraham, Yitsak, ne Yisrael a wɔyɛ wo nkoa no ho dwuma, wo twam wɔn sɛ, na wokaa kyɛrɛ wɔn sɛ, Mɛma ⟨את⟩ mo nkwadaa dɔɔso sɛ ɔsoro nsoromma, na asase yi nyinaa a mekasaa no, mɛde ama mo nkwadaa, na wɔbɛdi so daa.", "tokens": [{"surface": "זכר", "gloss": "Ka ... ho dwuma"}, {"surface": "לאברהם", "gloss": "Abraham"}, {"surface": "ליצחק", "gloss": "Yitsak"}, {"surface": "ולישראל", "gloss": "ne Yisrael"}, {"surface": "עבדיך", "gloss": "wo nkoa"}, {"surface": "אשר", "gloss": "sɛ"}, {"surface": "נשבעת", "gloss": "wo twam"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "בך", "gloss": "wo ho"}, {"surface": "ותדבר", "gloss": "na wokaa kyɛrɛ"}, {"surface": "אלהם", "gloss": "wɔn"}, {"surface": "ארבה", "gloss": "Mɛma ... dɔɔso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo nkwadaa"}, {"surface": "זרעכם", "gloss": "mo nkwadaa"}, {"surface": "ככוכבי", "gloss": "sɛ"}, {"surface": "השמים", "gloss": "ɔsoro nsoromma"}, {"surface": "וכל", "gloss": "ne ... nyinaa"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "אשר", "gloss": "a ... no"}, {"surface": "אמרתי", "gloss": "mekasaa"}, {"surface": "אתן", "gloss": "mɛde ama"}, {"surface": "לזרעכם", "gloss": "mo nkwadaa"}, {"surface": "ונחלו", "gloss": "na wɔbɛdi so"}, {"surface": "לעלם", "gloss": "daa"}], "timestamp": "2026-09-15T21:02:22.839186833Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 32:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Ka Abraham, Yitsak, ne Yisrael a wɔyɛ wo nkoa no ho dwuma, wo twam wɔn sɛ, na wokaa kyɛrɛ wɔn sɛ, Mɛma ⟨את⟩ mo nkwadaa dɔɔso sɛ ɔsoro nsoromma, na asase yi nyinaa a mekasaa no, mɛde ama mo nkwadaa, na wɔbɛdi so daa.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ka ... ho dwuma"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ne Yisrael"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo nkoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "wo twam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "na wokaa kyɛrɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Mɛma ... dɔɔso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nkwadaa"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "mo nkwadaa"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro nsoromma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ... no"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mekasaa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mɛde ama"
+    },
+    {
+      "surface": "לזרעכם",
+      "gloss": "mo nkwadaa"
+    },
+    {
+      "surface": "ונחלו",
+      "gloss": "na wɔbɛdi so"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:02:22.839186833Z",
+  "model": "glm-5.3"
+}

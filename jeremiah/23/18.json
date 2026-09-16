@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "jeremiah 23:18", "book": "jeremiah", "lang": "tw", "chapter": 23, "translation": "Ɛfiri sɛ hwan na ɔgyinaa Yawe apam ase na ɔhunuu na ɔtee ⟨את⟩ asɛm no? Hwan na ɔhwɛɛ Yawe asɛm yie na ɔtee?", "tokens": [{"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "מי", "gloss": "hwan"}, {"surface": "עמד", "gloss": "ɔgyinaa"}, {"surface": "בסוד", "gloss": "apam ase"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "וירא", "gloss": "na ɔhunuu"}, {"surface": "וישמע", "gloss": "na ɔtee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm no"}, {"surface": "דברו", "gloss": "asɛm no"}, {"surface": "מי", "gloss": "hwan"}, {"surface": "הקשיב", "gloss": "ɔhwɛɛ ... yie"}, {"surface": "דברי", "gloss": "asɛm"}, {"surface": "וישמע", "gloss": "na ɔtee"}], "timestamp": "2026-09-16T00:16:02.340575787Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Ɛfiri sɛ hwan na ɔgyinaa Yawe apam ase na ɔhunuu na ɔtee ⟨את⟩ asɛm no? Hwan na ɔhwɛɛ Yawe asɛm yie na ɔtee?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ɔgyinaa"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "apam ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na ɔhunuu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na ɔtee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm no"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "asɛm no"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "ɔhwɛɛ ... yie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na ɔtee"
+    }
+  ],
+  "timestamp": "2026-09-16T00:16:02.340575787Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "ezekiel 33:32", "book": "ezekiel", "lang": "tw", "chapter": 33, "translation": "Na hwɛ, wo wɔ ⟨את⟩ wɔn ho sɛ dɔ dwom, nne a ɛyɛ fɛ, ne sankɔto a ɛyɛ dɛ; wɔte ⟨את⟩ wo nsɛm no, nanso wɔrennyɛ.", "tokens": [{"surface": "והנך", "gloss": "Na hwɛ, wo"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "כשיר", "gloss": "sɛ dɔ dwom"}, {"surface": "עגבים", "gloss": "dɔ"}, {"surface": "יפה", "gloss": "a ɛyɛ fɛ"}, {"surface": "קול", "gloss": "nne"}, {"surface": "ומטב", "gloss": "ne deɛ ɛyɛ dɛ"}, {"surface": "נגן", "gloss": "sankɔto"}, {"surface": "ושמעו", "gloss": "wɔte"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nsɛm no"}, {"surface": "דבריך", "gloss": "wo nsɛm no"}, {"surface": "ועשים", "gloss": "wɔyɛ"}, {"surface": "אינם", "gloss": "da"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}], "timestamp": "2026-09-16T00:53:18.078652191Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na hwɛ, wo wɔ ⟨את⟩ wɔn ho sɛ dɔ dwom, nne a ɛyɛ fɛ, ne sankɔto a ɛyɛ dɛ; wɔte ⟨את⟩ wo nsɛm no, nanso wɔrennyɛ.",
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "Na hwɛ, wo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "sɛ dɔ dwom"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "a ɛyɛ fɛ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "ne deɛ ɛyɛ dɛ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "sankɔto"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "wɔte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsɛm no"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "wo nsɛm no"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T00:53:18.078652191Z",
+  "model": "glm-5.3"
+}

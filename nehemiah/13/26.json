@@ -1,1 +1,122 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "nehemiah 13:26", "book": "nehemiah", "lang": "tw", "chapter": 13, "translation": "Ei, na ɛnyɛ saa nsɛm yi enti Israel ɔhene Shelomoh yɛɛ bɔne? Na wɔ amanaman pii mu no, ɔhene a ɔte ne sɛ annihɔ; na na ɔyɛ ne Eloohim dɔfoɔ, na Eloohim yɛ no ɔhene wɔ Israel nyinaa so — mmom ɔno ara mpo, amanaman mma na ɛ⟨את⟩ de bɔne bae.", "tokens": [{"surface": "הלוא", "gloss": "Ei, na ɛnyɛ"}, {"surface": "על", "gloss": "enti"}, {"surface": "אלה", "gloss": "saa nsɛm yi"}, {"surface": "חטא", "gloss": "yɛɛ bɔne"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "ובגוים", "gloss": "na wɔ amanaman mu"}, {"surface": "הרבים", "gloss": "pii"}, {"surface": "לא", "gloss": "nnihɔ"}, {"surface": "היה", "gloss": "hɔɔ"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "כמהו", "gloss": "a ɔte ne sɛ"}, {"surface": "ואהוב", "gloss": "na na ɔyɛ…dɔfoɔ"}, {"surface": "לאלהיו", "gloss": "ne Eloohim"}, {"surface": "היה", "gloss": "hɔɔ"}, {"surface": "ויתנהו", "gloss": "yɛɛ no"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "על", "gloss": "wɔ … so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "גם", "gloss": "mmom…mpo"}, {"surface": "אותו", "gloss": "⟨את⟩", "marks": "ɔno ara"}, {"surface": "החטיאו", "gloss": "de bɔne bae"}, {"surface": "הנשים", "gloss": "amma"}, {"surface": "הנכריות", "gloss": "amanaman"}], "timestamp": "2026-09-16T04:33:50.875489923Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 13:26",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ei, na ɛnyɛ saa nsɛm yi enti Israel ɔhene Shelomoh yɛɛ bɔne? Na wɔ amanaman pii mu no, ɔhene a ɔte ne sɛ annihɔ; na na ɔyɛ ne Eloohim dɔfoɔ, na Eloohim yɛ no ɔhene wɔ Israel nyinaa so — mmom ɔno ara mpo, amanaman mma na ɛ⟨את⟩ de bɔne bae.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ei, na ɛnyɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "enti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "saa nsɛm yi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "yɛɛ bɔne"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "na wɔ amanaman mu"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnihɔ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hɔɔ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "a ɔte ne sɛ"
+    },
+    {
+      "surface": "ואהוב",
+      "gloss": "na na ɔyɛ…dɔfoɔ"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "ne Eloohim"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hɔɔ"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "yɛɛ no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mmom…mpo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ɔno ara"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "de bɔne bae"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "amma"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "amanaman"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:50.875489923Z",
+  "model": "glm-5.3"
+}

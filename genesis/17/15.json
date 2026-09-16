@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "genesis 17:15", "book": "genesis", "lang": "tw", "chapter": 17, "translation": "Eloohim kaa kyerɛ Abraham se: Sarai wo yere, nfrɛ ⟨את⟩ ne din Sarai bio; ɛfiri sɛ Sarah ne ne din.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛ"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "אברהם", "gloss": "Abraham"}, {"surface": "שרי", "gloss": "Sarai"}, {"surface": "אשתך", "gloss": "wo yere"}, {"surface": "לא", "gloss": "nfrɛ"}, {"surface": "תקרא", "gloss": "frɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne din"}, {"surface": "שמה", "gloss": "ne din"}, {"surface": "שרי", "gloss": "Sarai"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "שרה", "gloss": "Sarah"}, {"surface": "שמה", "gloss": "ne din"}], "timestamp": "2026-09-15T20:22:12.949922194Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Eloohim kaa kyerɛ Abraham se: Sarai wo yere, nfrɛ ⟨את⟩ ne din Sarai bio; ɛfiri sɛ Sarah ne ne din.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "wo yere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nfrɛ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ne din"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:12.949922194Z",
+  "model": "glm-5.3"
+}

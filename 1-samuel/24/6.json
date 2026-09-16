@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "1-samuel 24:6", "book": "1-samuel", "lang": "tw", "chapter": 24, "translation": "Ɛ⟨את⟩ no akyi no, David akoma bɔɔ no, ɛfiri sɛ ɔtetee ⟨את⟩ Saul atadeɛ no ntwam.", "tokens": [{"surface": "ויהי", "gloss": "Ɛno akyi"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "כן", "gloss": "ɛno"}, {"surface": "ויך", "gloss": "bɔɔ"}, {"surface": "לב", "gloss": "akoma"}, {"surface": "דוד", "gloss": "David"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "על", "gloss": "efiri sɛ"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "כרת", "gloss": "ɔtetee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "atadeɛ no ntwam"}, {"surface": "כנף", "gloss": "ntwam"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לשאול", "gloss": "Saul dea"}], "timestamp": "2026-09-15T22:57:44.705380895Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ɛ⟨את⟩ no akyi no, David akoma bɔɔ no, ɛfiri sɛ ɔtetee ⟨את⟩ Saul atadeɛ no ntwam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛno akyi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "efiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ɔtetee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ no ntwam"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ntwam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saul dea"
+    }
+  ],
+  "timestamp": "2026-09-15T22:57:44.705380895Z",
+  "model": "glm-5.3"
+}

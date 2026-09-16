@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":13,"ref":"joel 1:13","book":"joel","lang":"tw","chapter":1,"translation":"Monfare mo ho na momu asuo, akwadifoɔ; monwɛ, mfarfoɔ a mo wɔ bɔfuo no so; momra, monna wɔ kɛntɛn mu, mfarfoɔ a mo som m'Eloohim; ɛfiri sɛ wɔasiw aduane-nnwoma ne nsu-nnwoma ano afi mo Eloohim fie.","tokens":[{"surface":"חגרו","gloss":"Monfare mo ho"},{"surface":"וספדו","gloss":"na momu asuo"},{"surface":"הכהנים","gloss":"akwadifoɔ"},{"surface":"הילילו","gloss":"monwɛ"},{"surface":"משרתי","gloss":"mfarfoɔ a mo wɔ"},{"surface":"מזבח","gloss":"bɔfuo no so"},{"surface":"באו","gloss":"momra"},{"surface":"לינו","gloss":"monna"},{"surface":"בשקים","gloss":"wɔ kɛntɛn mu"},{"surface":"משרתי","gloss":"mfarfoɔ a mo som"},{"surface":"אלהי","gloss":"m'Eloohim"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"נמנע","gloss":"wɔasiw ano"},{"surface":"מבית","gloss":"afi ... fie"},{"surface":"אלהיכם","gloss":"mo Eloohim"},{"surface":"מנחה","gloss":"aduane-nnwoma"},{"surface":"ונסך","gloss":"ne nsu-nnwoma"}],"timestamp":"2026-09-16T01:08:12.975744269Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joel 1:13",
+  "book": "joel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Monfare mo ho na momu asuo, akwadifoɔ; monwɛ, mfarfoɔ a mo wɔ bɔfuo no so; momra, monna wɔ kɛntɛn mu, mfarfoɔ a mo som m'Eloohim; ɛfiri sɛ wɔasiw aduane-nnwoma ne nsu-nnwoma ano afi mo Eloohim fie.",
+  "tokens": [
+    {
+      "surface": "חגרו",
+      "gloss": "Monfare mo ho"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "na momu asuo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "akwadifoɔ"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "monwɛ"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "mfarfoɔ a mo wɔ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bɔfuo no so"
+    },
+    {
+      "surface": "באו",
+      "gloss": "momra"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "monna"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "wɔ kɛntɛn mu"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "mfarfoɔ a mo som"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "m'Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נמנע",
+      "gloss": "wɔasiw ano"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "afi ... fie"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "aduane-nnwoma"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "ne nsu-nnwoma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:08:12.975744269Z",
+  "model": "glm-5.3"
+}

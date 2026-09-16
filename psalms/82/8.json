@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 82:8","book":"psalms","lang":"tw","chapter":82,"translation":"Sɔre, Eloohim, bu asase no atɛn; ɛfiri sɛ wo na wo bɛdi aman nyinaa so awuraa.","tokens":[{"surface":"קומה","gloss":"Sɔre"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"שפטה","gloss":"bu ... atɛn"},{"surface":"הארץ","gloss":"asase no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אתה","gloss":"wo"},{"surface":"תנחל","gloss":"bɛdi ... so awuraa"},{"surface":"בכל","gloss":"nyinaa"},{"surface":"הגוים","gloss":"aman"}],"timestamp":"2026-09-16T02:12:11.516193073Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 82,
+  "translation": "Sɔre, Eloohim, bu asase no atɛn; ɛfiri sɛ wo na wo bɛdi aman nyinaa so awuraa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "bu ... atɛn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "bɛdi ... so awuraa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:11.516193073Z",
+  "model": "glm-5.3"
+}

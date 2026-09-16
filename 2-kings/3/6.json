@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "2-kings 3:6", "book": "2-kings", "lang": "tw", "chapter": 3, "translation": "Na ɔhene Yehoram no firi Shomron wɔ ɛda no mu no, na ɔhyehyɛɛ Israel ⟨את⟩ nyinaa ma wɔsɔɔ hwɛɛ.", "tokens": [{"surface": "ויצא", "gloss": "firi"}, {"surface": "המלך", "gloss": "⟨the⟩ ɔhene"}, {"surface": "יהורם", "gloss": "Yehoram"}, {"surface": "ביום", "gloss": "wɔ ɛda no mu"}, {"surface": "ההוא", "gloss": "no"}, {"surface": "משמרון", "gloss": "Shomron"}, {"surface": "ויפקד", "gloss": "na ɔhyehyɛɛ ... ma wɔsɔɔ hwɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israel nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ישראל", "gloss": "Israel"}], "timestamp": "2026-09-15T23:27:26.975514456Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na ɔhene Yehoram no firi Shomron wɔ ɛda no mu no, na ɔhyehyɛɛ Israel ⟨את⟩ nyinaa ma wɔsɔɔ hwɛɛ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "firi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ ɔhene"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na ɔhyehyɛɛ ... ma wɔsɔɔ hwɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:26.975514456Z",
+  "model": "glm-5.3"
+}

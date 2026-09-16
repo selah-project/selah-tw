@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":3,"ref":"isaiah 17:3","book":"isaiah","lang":"tw","chapter":17,"translation":"Na ban a ɛwɛ no bɛtwam fi Efraim, na ahennie fi Damaaseko, na Aram nkaeɛ bɛyɛ sɛ Yisraelfoɔ animuonyam — Yawe Tsewafoɔ no asɛm.","tokens":[{"surface":"ונשבת","gloss":"bɛtwam"},{"surface":"מבצר","gloss":"ban a ɛwɛ"},{"surface":"מאפרים","gloss":"fi Efraim"},{"surface":"וממלכה","gloss":"na ahennie"},{"surface":"מדמשק","gloss":"fi Damaaseko"},{"surface":"ושאר","gloss":"na nkaeɛ"},{"surface":"ארם","gloss":"Aram"},{"surface":"ככבוד","gloss":"sɛ animuonyam"},{"surface":"בני","gloss":"foɔ"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"יהיו","gloss":"bɛyɛ"},{"surface":"נאם","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"}],"timestamp":"2026-09-15T23:46:15.503015032Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 17:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na ban a ɛwɛ no bɛtwam fi Efraim, na ahennie fi Damaaseko, na Aram nkaeɛ bɛyɛ sɛ Yisraelfoɔ animuonyam — Yawe Tsewafoɔ no asɛm.",
+  "tokens": [
+    {
+      "surface": "ונשבת",
+      "gloss": "bɛtwam"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ban a ɛwɛ"
+    },
+    {
+      "surface": "מאפרים",
+      "gloss": "fi Efraim"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "na ahennie"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "fi Damaaseko"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "na nkaeɛ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ככבוד",
+      "gloss": "sɛ animuonyam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "foɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:15.503015032Z",
+  "model": "glm-5.3"
+}

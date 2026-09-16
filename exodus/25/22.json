@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "exodus 25:22", "book": "exodus", "lang": "tw", "chapter": 25, "translation": "Na mɛ⟨את⟩ ne wo hyia hɔ, na mɛne ⟨את⟩ wo besie firi akata no so, firi kerubim mmienu ntam a wɔwɔ adanseɛ adaka no so — ⟨את⟩ biribiara a mɛhyɛ wo sɛ wo nka no kyerɛ Yisrael mma.", "tokens": [{"surface": "ונועדתי", "gloss": "mɛne wo hyia"}, {"surface": "לך", "gloss": "wo"}, {"surface": "שם", "gloss": "hɔ"}, {"surface": "ודברתי", "gloss": "mɛbesie"}, {"surface": "אתך", "gloss": "⟨את⟩ ne wo"}, {"surface": "מעל", "gloss": "firi ... so"}, {"surface": "הכפרת", "gloss": "akata no"}, {"surface": "מבין", "gloss": "firi ... ntam"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "הכרבים", "gloss": "kerubim"}, {"surface": "אשר", "gloss": "a"}, {"surface": "על", "gloss": "so"}, {"surface": "ארן", "gloss": "adaka"}, {"surface": "העדת", "gloss": "adanseɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "biribiara"}, {"surface": "כל", "gloss": "biribiara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אצוה", "gloss": "mɛhyɛ ... sɛ wo nka"}, {"surface": "אותך", "gloss": "⟨את⟩", "marks": "wo"}, {"surface": "אל", "gloss": "kyerɛ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}], "timestamp": "2026-09-15T20:58:06.657249089Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 25:22",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na mɛ⟨את⟩ ne wo hyia hɔ, na mɛne ⟨את⟩ wo besie firi akata no so, firi kerubim mmienu ntam a wɔwɔ adanseɛ adaka no so — ⟨את⟩ biribiara a mɛhyɛ wo sɛ wo nka no kyerɛ Yisrael mma.",
+  "tokens": [
+    {
+      "surface": "ונועדתי",
+      "gloss": "mɛne wo hyia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "mɛbesie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ne wo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi ... so"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "akata no"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "firi ... ntam"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adanseɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biribiara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "mɛhyɛ ... sɛ wo nka"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:06.657249089Z",
+  "model": "glm-5.3"
+}

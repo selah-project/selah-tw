@@ -1,1 +1,151 @@
-{"tier":"glm-5.2","verse":5,"ref":"esther 8:5","book":"esther","lang":"tw","chapter":8,"translation":"Na ɔkaa sɛ: Sɛ ɛyɛ papa wɔ ɔhene no anim, na sɛ mahunu adom wɔ n'anim, na asɛm no fata ɔhene no anim, na ɛyɛ papa wɔ n'ani so, wɔnkyerɛwee sɛ wɔnsesa ⟨את⟩ nkrato no — Haman, Medata ba, Agagi no adwene — a ɔkyerɛwee sɛ ɔbɛsɛe ⟨את⟩ Yudafoɔ no, a wɔwɔ ɔhene no aman nyinaa mu.","tokens":[{"surface":"ותאמר","gloss":"na ɔkaa sɛ"},{"surface":"אם","gloss":"sɛ"},{"surface":"על","gloss":"wɔ … anim"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"טוב","gloss":"ɛyɛ papa"},{"surface":"ואם","gloss":"na sɛ"},{"surface":"מצאתי","gloss":"mahunu"},{"surface":"חן","gloss":"adom"},{"surface":"לפניו","gloss":"wɔ n'anim"},{"surface":"וכשר","gloss":"na ɛfata"},{"surface":"הדבר","gloss":"asɛm no"},{"surface":"לפני","gloss":"wɔ … anim"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"וטובה","gloss":"na ɛyɛ papa"},{"surface":"אני","gloss":"me"},{"surface":"בעיניו","gloss":"wɔ n'ani so"},{"surface":"יכתב","gloss":"wɔnkyerɛwee"},{"surface":"להשיב","gloss":"sɛ wɔnsesa"},{"surface":"את","gloss":"⟨את⟩","marks":"nkrato no"},{"surface":"הספרים","gloss":"nkrato no"},{"surface":"מחשבת","gloss":"adwene"},{"surface":"המן","gloss":"Haman"},{"surface":"בן","gloss":"ba"},{"surface":"המדתא","gloss":"Medata"},{"surface":"האגגי","gloss":"Agagi no"},{"surface":"אשר","gloss":"a"},{"surface":"כתב","gloss":"ɔkyerɛwee"},{"surface":"לאבד","gloss":"sɛ ɔbɛsɛe"},{"surface":"את","gloss":"⟨את⟩","marks":"Yudafoɔ no"},{"surface":"היהודים","gloss":"Yudafoɔ no"},{"surface":"אשר","gloss":"a"},{"surface":"בכל","gloss":"wɔ … nyinaa mu"},{"surface":"מדינות","gloss":"aman"},{"surface":"המלך","gloss":"ɔhene no"}],"timestamp":"2026-09-16T04:05:01.938564598Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 8:5",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔkaa sɛ: Sɛ ɛyɛ papa wɔ ɔhene no anim, na sɛ mahunu adom wɔ n'anim, na asɛm no fata ɔhene no anim, na ɛyɛ papa wɔ n'ani so, wɔnkyerɛwee sɛ wɔnsesa ⟨את⟩ nkrato no — Haman, Medata ba, Agagi no adwene — a ɔkyerɛwee sɛ ɔbɛsɛe ⟨את⟩ Yudafoɔ no, a wɔwɔ ɔhene no aman nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "mahunu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "adom"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wɔ n'anim"
+    },
+    {
+      "surface": "וכשר",
+      "gloss": "na ɛfata"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ … anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "na ɛyɛ papa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wɔ n'ani so"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "wɔnkyerɛwee"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sɛ wɔnsesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkrato no"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "nkrato no"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "adwene"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagi no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ɔkyerɛwee"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "sɛ ɔbɛsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yudafoɔ no"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yudafoɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ … nyinaa mu"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "aman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:05:01.938564598Z",
+  "model": "glm-5.3"
+}

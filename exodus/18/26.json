@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":26,"ref":"exodus 18:26","book":"exodus","lang":"tw","chapter":18,"translation":"Na wɔde atemmuentumm hyɛɛ ⟨את⟩ nkorɔfoɔ mu berɛ nyinaa; ⟨את⟩ asɛm a ɛyɛ den no, wɔde brɛɛ Mosheh, na asɛm nketewa biara no, wɔ ankasa na wɔde hyɛɛ mu.","tokens":[{"surface":"ושפטו","gloss":"Na wɔde atemmuentumm hyɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"nkorɔfoɔ no"},{"surface":"העם","gloss":"nkorɔfoɔ no"},{"surface":"בכל","gloss":"nyinaa"},{"surface":"עת","gloss":"berɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"asɛm a ɛyɛ den no"},{"surface":"הדבר","gloss":"asɛm"},{"surface":"הקשה","gloss":"a ɛyɛ den no"},{"surface":"יביאון","gloss":"wɔde brɛɛ"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"משה","gloss":"Mosheh"},{"surface":"וכל","gloss":"na ... biara"},{"surface":"הדבר","gloss":"asɛm"},{"surface":"הקטן","gloss":"nketewa no"},{"surface":"ישפוטו","gloss":"wɔde hyɛɛ mu"},{"surface":"הם","gloss":"wɔ ankasa"}],"timestamp":"2026-09-15T20:51:12.554396977Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na wɔde atemmuentumm hyɛɛ ⟨את⟩ nkorɔfoɔ mu berɛ nyinaa; ⟨את⟩ asɛm a ɛyɛ den no, wɔde brɛɛ Mosheh, na asɛm nketewa biara no, wɔ ankasa na wɔde hyɛɛ mu.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Na wɔde atemmuentumm hyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm a ɛyɛ den no"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "a ɛyɛ den no"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "wɔde brɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... biara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nketewa no"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "wɔde hyɛɛ mu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔ ankasa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:12.554396977Z",
+  "model": "glm-5.3"
+}

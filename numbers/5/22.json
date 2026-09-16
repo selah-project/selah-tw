@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":22,"ref":"numbers 5:22","book":"numbers","lang":"tw","chapter":5,"translation":"Na saa nsuo a ɛde adua ba yi mu wo yam mu, de ma yafunu no ho ayɛ hye na nan kɛseɛ no asiw agu; na ɔbaa no bɛka sɛ: Amen, Amen.","tokens":[{"surface":"ובאו","gloss":"na ... mu"},{"surface":"המים","gloss":"nsuo"},{"surface":"המאררים","gloss":"a ɛde adua ba"},{"surface":"האלה","gloss":"saa yi"},{"surface":"במעיך","gloss":"wo yam mu"},{"surface":"לצבות","gloss":"de ma ... ayɛ hye"},{"surface":"בטן","gloss":"yafunu"},{"surface":"ולנפל","gloss":"na ... asiw agu"},{"surface":"ירך","gloss":"nan kɛseɛ"},{"surface":"ואמרה","gloss":"na ɔka sɛ"},{"surface":"האשה","gloss":"ɔbaa no"},{"surface":"אמן","gloss":"Amen"},{"surface":"אמן","gloss":"Amen"}],"timestamp":"2026-09-15T21:27:38.371207926Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 5:22",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na saa nsuo a ɛde adua ba yi mu wo yam mu, de ma yafunu no ho ayɛ hye na nan kɛseɛ no asiw agu; na ɔbaa no bɛka sɛ: Amen, Amen.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "na ... mu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "a ɛde adua ba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "saa yi"
+    },
+    {
+      "surface": "במעיך",
+      "gloss": "wo yam mu"
+    },
+    {
+      "surface": "לצבות",
+      "gloss": "de ma ... ayɛ hye"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "yafunu"
+    },
+    {
+      "surface": "ולנפל",
+      "gloss": "na ... asiw agu"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "nan kɛseɛ"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "na ɔka sɛ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:38.371207926Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "jeremiah 23:27", "book": "jeremiah", "lang": "tw", "chapter": 23, "translation": "Wɔn a wɔdwene sɛ wɔbɛma ⟨את⟩ me nkurɔfoɔ werɛ afiri me din wɔ wɔn tirimupɔ mu, a obiara ka kyerɛ ne yɔnko, sɛnea wɔn agyapadefoɔ werɛ firii ⟨את⟩ me din wɔ Baal mu no.", "tokens": [{"surface": "החשבים", "gloss": "wɔn a wɔdwene"}, {"surface": "להשכיח", "gloss": "sɛ wɔbɛma werɛ afiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nkurɔfoɔ"}, {"surface": "עמי", "gloss": "me nkurɔfoɔ"}, {"surface": "שמי", "gloss": "me din"}, {"surface": "בחלומתם", "gloss": "wɔ wɔn tirimupɔ mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יספרו", "gloss": "wɔka"}, {"surface": "איש", "gloss": "obiara"}, {"surface": "לרעהו", "gloss": "kyerɛ ne yɔnko"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "שכחו", "gloss": "wɔn werɛ firii"}, {"surface": "אבותם", "gloss": "wɔn agyapadefoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me din"}, {"surface": "שמי", "gloss": "me din"}, {"surface": "בבעל", "gloss": "wɔ Baal mu"}], "timestamp": "2026-09-16T00:16:00.214690230Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 23:27",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wɔn a wɔdwene sɛ wɔbɛma ⟨את⟩ me nkurɔfoɔ werɛ afiri me din wɔ wɔn tirimupɔ mu, a obiara ka kyerɛ ne yɔnko, sɛnea wɔn agyapadefoɔ werɛ firii ⟨את⟩ me din wɔ Baal mu no.",
+  "tokens": [
+    {
+      "surface": "החשבים",
+      "gloss": "wɔn a wɔdwene"
+    },
+    {
+      "surface": "להשכיח",
+      "gloss": "sɛ wɔbɛma werɛ afiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "me din"
+    },
+    {
+      "surface": "בחלומתם",
+      "gloss": "wɔ wɔn tirimupɔ mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "wɔka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "kyerɛ ne yɔnko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "wɔn werɛ firii"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "wɔn agyapadefoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me din"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "me din"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "wɔ Baal mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:16:00.214690230Z",
+  "model": "glm-5.3"
+}

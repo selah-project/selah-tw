@@ -1,1 +1,92 @@
-{"tier": "glm-5.2", "verse": 41, "ref": "ezekiel 20:41", "book": "ezekiel", "lang": "tw", "chapter": 20, "translation": "Wɔ nkorabata a ɛyɛ dɛ mu na mɛgye ⟨את⟩ mo atom, berɛ a mede ⟨את⟩ mo firi amanmufoɔ mu, na mɛboaboa ⟨את⟩ mo ano firi asase a moasanasana wɔ mu no, na mɛyɛ kronkron wɔ mo mu wɔ aman no anim.", "tokens": [{"surface": "בריח", "gloss": "wɔ nkorabata ... mu"}, {"surface": "ניחח", "gloss": "a ɛyɛ dɛ"}, {"surface": "ארצה", "gloss": "mɛgye mo atom"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "בהוציאי", "gloss": "berɛ a mede mo firi"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "מן", "gloss": "firi"}, {"surface": "העמים", "gloss": "amanmufoɔ mu"}, {"surface": "וקבצתי", "gloss": "na mɛboaboa ano"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "מן", "gloss": "firi"}, {"surface": "הארצות", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נפצתם", "gloss": "moasanasana"}, {"surface": "בם", "gloss": "wɔ mu"}, {"surface": "ונקדשתי", "gloss": "na mɛyɛ kronkron"}, {"surface": "בכם", "gloss": "wɔ mo mu"}, {"surface": "לעיני", "gloss": "wɔ ... anim"}, {"surface": "הגוים", "gloss": "aman no"}], "timestamp": "2026-09-16T00:46:14.430519944Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezekiel 20:41",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Wɔ nkorabata a ɛyɛ dɛ mu na mɛgye ⟨את⟩ mo atom, berɛ a mede ⟨את⟩ mo firi amanmufoɔ mu, na mɛboaboa ⟨את⟩ mo ano firi asase a moasanasana wɔ mu no, na mɛyɛ kronkron wɔ mo mu wɔ aman no anim.",
+  "tokens": [
+    {
+      "surface": "בריח",
+      "gloss": "wɔ nkorabata ... mu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a ɛyɛ dɛ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mɛgye mo atom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "berɛ a mede mo firi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amanmufoɔ mu"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "na mɛboaboa ano"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נפצתם",
+      "gloss": "moasanasana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "na mɛyɛ kronkron"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "wɔ mo mu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:46:14.430519944Z",
+  "model": "glm-5.3"
+}

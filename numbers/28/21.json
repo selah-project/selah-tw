@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":21,"ref":"numbers 28:21","book":"numbers","lang":"tw","chapter":28,"translation":"Ɛfa ne ɛfa na yɛbɛy ama ɔdwanba baako no, ama ɔdwanma esuon no.","tokens":[{"surface":"עשרון","gloss":"ɛfa"},{"surface":"עשרון","gloss":"ɛfa"},{"surface":"תעשה","gloss":"yɛbɛy"},{"surface":"לכבש","gloss":"ama ɔdwanba"},{"surface":"האחד","gloss":"baako no"},{"surface":"לשבעת","gloss":"ama esuon"},{"surface":"הכבשים","gloss":"ɔdwanma no"}],"timestamp":"2026-09-15T21:39:43.015955472Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Ɛfa ne ɛfa na yɛbɛy ama ɔdwanba baako no, ama ɔdwanma esuon no.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ɛfa"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ɛfa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yɛbɛy"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ama ɔdwanba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ama esuon"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ɔdwanma no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:43.015955472Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":2,"ref":"leviticus 23:2","book":"leviticus","lang":"tw","chapter":23,"translation":"Kasa akɔ Yisraelfoɔ mma no so, na ka kyɛ wɔn se: Yawe ⟨את⟩ nhyiamuda deɛ moyɛbɛfrɛ wɔn sɛ kronkron nhyiamu — ⟨ɛno⟩ ne Yawe nhyiamuda.","tokens":[{"surface":"דבר","gloss":"kasa"},{"surface":"אל","gloss":"kɔ"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisraelfoɔ"},{"surface":"ואמרת","gloss":"na ka kyɛ"},{"surface":"אלהם","gloss":"wɔn"},{"surface":"מועדי","gloss":"nhyiamuda"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אשר","gloss":"deɛ"},{"surface":"תקראו","gloss":"moyɛbɛfrɛ"},{"surface":"אתם","gloss":"⟨את⟩","marks":"kronkron nhyiamu"},{"surface":"מקראי","gloss":"nhyiamu"},{"surface":"קדש","gloss":"kronkron"},{"surface":"אלה","gloss":"ɛno"},{"surface":"הם","gloss":"ne"},{"surface":"מועדי","gloss":"nhyiamuda"}],"timestamp":"2026-09-15T21:20:36.398092026Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Kasa akɔ Yisraelfoɔ mma no so, na ka kyɛ wɔn se: Yawe ⟨את⟩ nhyiamuda deɛ moyɛbɛfrɛ wɔn sɛ kronkron nhyiamu — ⟨ɛno⟩ ne Yawe nhyiamuda.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ka kyɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nhyiamuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "moyɛbɛfrɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kronkron nhyiamu"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "nhyiamu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nhyiamuda"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:36.398092026Z",
+  "model": "glm-5.3"
+}

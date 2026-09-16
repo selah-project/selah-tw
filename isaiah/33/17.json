@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":17,"ref":"isaiah 33:17","book":"isaiah","lang":"tw","chapter":33,"translation":"W'ani bɛhunu ɔhene wɔ n'ahofama mu, wɔbɛhunu asase a ɛware paa.","tokens":[{"surface":"מלך","gloss":"ɔhene"},{"surface":"ביפיו","gloss":"wɔ n'ahofama mu"},{"surface":"תחזינה","gloss":"bɛhunu"},{"surface":"עיניך","gloss":"w'ani"},{"surface":"תראינה","gloss":"wɔbɛhunu"},{"surface":"ארץ","gloss":"asase"},{"surface":"מרחקים","gloss":"a ɛware paa"}],"timestamp":"2026-09-15T23:51:55.768507862Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "W'ani bɛhunu ɔhene wɔ n'ahofama mu, wɔbɛhunu asase a ɛware paa.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "wɔ n'ahofama mu"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "bɛhunu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "w'ani"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "wɔbɛhunu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "a ɛware paa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:51:55.768507862Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "lamentations 2:1", "book": "lamentations", "lang": "tw", "chapter": 2, "translation": "Sɛdeɛ Adonai ama sum atu ⟨את⟩ Ba-Tsiyon so wɔ ne bufuo mu! Wabu Yisrael ahonya firi ɔsoro agu asase so, na wanka ne nanwoma ho nkɔm wɔ ne bufuo da mu.", "tokens": [{"surface": "איכה", "gloss": "Sɛdeɛ"}, {"surface": "יעיב", "gloss": "ama sum atu"}, {"surface": "באפו", "gloss": "wɔ ne bufuo mu"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Ba-Tsiyon"}, {"surface": "בת", "gloss": "Ba"}, {"surface": "ציון", "gloss": "Tsiyon"}, {"surface": "השליך", "gloss": "Wabu ... agu"}, {"surface": "משמים", "gloss": "firi ɔsoro"}, {"surface": "ארץ", "gloss": "asase so"}, {"surface": "תפארת", "gloss": "ahonya"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "ולא", "gloss": "na wanka ... nkɔm"}, {"surface": "זכר", "gloss": "kae"}, {"surface": "הדם", "gloss": "nanwoma"}, {"surface": "רגליו", "gloss": "ne nan"}, {"surface": "ביום", "gloss": "wɔ da mu"}, {"surface": "אפו", "gloss": "ne bufuo"}], "timestamp": "2026-09-16T03:50:10.610068522Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 2:1",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Sɛdeɛ Adonai ama sum atu ⟨את⟩ Ba-Tsiyon so wɔ ne bufuo mu! Wabu Yisrael ahonya firi ɔsoro agu asase so, na wanka ne nanwoma ho nkɔm wɔ ne bufuo da mu.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "יעיב",
+      "gloss": "ama sum atu"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "wɔ ne bufuo mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba-Tsiyon"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "Wabu ... agu"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "firi ɔsoro"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ahonya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wanka ... nkɔm"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kae"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "nanwoma"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ne nan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da mu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ne bufuo"
+    }
+  ],
+  "timestamp": "2026-09-16T03:50:10.610068522Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-samuel 11:1","book":"1-samuel","lang":"tw","chapter":11,"translation":"Na Nakash, Ammonini no, baa so, na ɔkɔdɔɔ Yabesh-Gilad so; na Yabesh mmarima nyinaa kaa kyerɛɛ Nakash se: Tra apam bri yɛn, na yɛbɛsom wo.","tokens":[{"surface":"ויעל","gloss":"na ɔbaa so"},{"surface":"נחש","gloss":"Nakash"},{"surface":"העמוני","gloss":"Ammonini no"},{"surface":"ויחן","gloss":"na ɔkɔdɔɔ"},{"surface":"על","gloss":"so"},{"surface":"יבש","gloss":"Yabesh"},{"surface":"גלעד","gloss":"Gilad"},{"surface":"ויאמרו","gloss":"na wɔkaa kyerɛɛ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"אנשי","gloss":"mmarima"},{"surface":"יביש","gloss":"Yabesh"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"נחש","gloss":"Nakash"},{"surface":"כרת","gloss":"Tra … bri"},{"surface":"לנו","gloss":"yɛn"},{"surface":"ברית","gloss":"apam"},{"surface":"ונעבדך","gloss":"na yɛbɛsom wo"}],"timestamp":"2026-09-16T06:02:50.173031178Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Nakash, Ammonini no, baa so, na ɔkɔdɔɔ Yabesh-Gilad so; na Yabesh mmarima nyinaa kaa kyerɛɛ Nakash se: Tra apam bri yɛn, na yɛbɛsom wo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "na ɔbaa so"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakash"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Ammonini no"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "na ɔkɔdɔɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na wɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakash"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Tra … bri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "na yɛbɛsom wo"
+    }
+  ],
+  "timestamp": "2026-09-16T06:02:50.173031178Z",
+  "model": "glm-5.3"
+}

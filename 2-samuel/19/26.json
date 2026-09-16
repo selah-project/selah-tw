@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":26,"ref":"2-samuel 19:26","book":"2-samuel","lang":"tw","chapter":19,"translation":"Ɛbaa sɛ ɛberɛ a ɔduruu Yerusalem bɛkɔɔ hyiaa ɔhene no, ɔhene no kasa kyerɛɛ no sɛ: “Adɛn nna woantom me ho, Mefiboshet?”","tokens":[{"surface":"ויהי","gloss":"Ɛbaa sɛ"},{"surface":"כי","gloss":"ɛberɛ a"},{"surface":"בא","gloss":"duruu"},{"surface":"ירושלם","gloss":"Yerusalem"},{"surface":"לקראת","gloss":"bɛkɔɔ hyiaa"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"ויאמר","gloss":"kasa kyerɛɛ"},{"surface":"לו","gloss":"no"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"למה","gloss":"Adɛn"},{"surface":"לא","gloss":"nn"},{"surface":"הלכת","gloss":"antom"},{"surface":"עמי","gloss":"me ho"},{"surface":"מפיבשת","gloss":"Mefiboshet"}],"timestamp":"2026-09-15T23:08:16.391398018Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 19:26",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ɛbaa sɛ ɛberɛ a ɔduruu Yerusalem bɛkɔɔ hyiaa ɔhene no, ɔhene no kasa kyerɛɛ no sɛ: “Adɛn nna woantom me ho, Mefiboshet?”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛberɛ a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "duruu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "bɛkɔɔ hyiaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "antom"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Mefiboshet"
+    }
+  ],
+  "timestamp": "2026-09-15T23:08:16.391398018Z",
+  "model": "glm-5.3"
+}

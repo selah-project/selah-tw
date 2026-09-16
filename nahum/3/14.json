@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":14,"ref":"nahum 3:14","book":"nahum","lang":"tw","chapter":3,"translation":"Fa nsuo a ɛbɛbo ɔsɛe no sa wo ho; hyɛ wo din ahorow mu den; kɔ suro mu, na fam dɔte no; hyɛ aboɔwa fam afuo no den.","tokens":[{"surface":"מי","gloss":"nsuo"},{"surface":"מצור","gloss":"ɔsɛe"},{"surface":"שאבי","gloss":"sa"},{"surface":"לך","gloss":"wo ho"},{"surface":"חזקי","gloss":"hyɛ den"},{"surface":"מבצריך","gloss":"wo din ahorow"},{"surface":"באי","gloss":"kɔ"},{"surface":"בטיט","gloss":"suro mu"},{"surface":"ורמסי","gloss":"na fam"},{"surface":"בחמר","gloss":"dɔte"},{"surface":"החזיקי","gloss":"hyɛ den"},{"surface":"מלבן","gloss":"aboɔwa fam afuo"}],"timestamp":"2026-09-16T01:21:20.771653425Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nahum 3:14",
+  "book": "nahum",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Fa nsuo a ɛbɛbo ɔsɛe no sa wo ho; hyɛ wo din ahorow mu den; kɔ suro mu, na fam dɔte no; hyɛ aboɔwa fam afuo no den.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ɔsɛe"
+    },
+    {
+      "surface": "שאבי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "hyɛ den"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "wo din ahorow"
+    },
+    {
+      "surface": "באי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "בטיט",
+      "gloss": "suro mu"
+    },
+    {
+      "surface": "ורמסי",
+      "gloss": "na fam"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "dɔte"
+    },
+    {
+      "surface": "החזיקי",
+      "gloss": "hyɛ den"
+    },
+    {
+      "surface": "מלבן",
+      "gloss": "aboɔwa fam afuo"
+    }
+  ],
+  "timestamp": "2026-09-16T01:21:20.771653425Z",
+  "model": "glm-5.3"
+}

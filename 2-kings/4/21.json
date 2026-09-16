@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-kings 4:21","book":"2-kings","lang":"tw","chapter":4,"translation":"Na ɔforoɔ, na ɔdaa no wɔ Eloohim onipa no mpa so, na ɔbɔeɛ bɔn no mu wɔ n'aso, na ɔfirii mu.","tokens":[{"surface":"ותעל","gloss":"na ɔforoɔ"},{"surface":"ותשכבהו","gloss":"na ɔdaa no"},{"surface":"על","gloss":"wɔ…so"},{"surface":"מטת","gloss":"mpa"},{"surface":"איש","gloss":"onipa"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"ותסגר","gloss":"na ɔbɔeɛ"},{"surface":"בעדו","gloss":"wɔ n'aso"},{"surface":"ותצא","gloss":"na ɔfirii mu"}],"timestamp":"2026-09-15T23:26:33.459204969Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔforoɔ, na ɔdaa no wɔ Eloohim onipa no mpa so, na ɔbɔeɛ bɔn no mu wɔ n'aso, na ɔfirii mu.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "na ɔforoɔ"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "na ɔdaa no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ…so"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "mpa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "na ɔbɔeɛ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "wɔ n'aso"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "na ɔfirii mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:26:33.459204969Z",
+  "model": "glm-5.3"
+}

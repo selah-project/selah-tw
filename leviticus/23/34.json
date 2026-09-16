@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":34,"ref":"leviticus 23:34","book":"leviticus","lang":"tw","chapter":23,"translation":"Kasa kyerɛ Yisrael mma se: дaяsender seventh no — kyerɛ: Sukkot afahyɛ no bɛyɛ nnansonnnaw — bɛyɛ: Wɔ bosome a ɛtɔ so nson no da a ɛdi du-num no, Sukkot afahyɛ bɛyɛ nnafua nson de ma Yawe.","tokens":[{"surface":"דבר","gloss":"Kasa"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"לאמר","gloss":"se"},{"surface":"בחמשה","gloss":"da a ɛdi du-num"},{"surface":"עשר","gloss":"(du-num fa)"},{"surface":"יום","gloss":"da"},{"surface":"לחדש","gloss":"bosome"},{"surface":"השביעי","gloss":"a ɛtɔ so nson"},{"surface":"הזה","gloss":"yei"},{"surface":"חג","gloss":"afahyɛ"},{"surface":"הסכות","gloss":"Sukkot"},{"surface":"שבעת","gloss":"nson"},{"surface":"ימים","gloss":"nnafua"},{"surface":"ליהוה","gloss":"de ma Yawe"}],"timestamp":"2026-09-15T21:21:04.195008982Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 23:34",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Kasa kyerɛ Yisrael mma se: дaяsender seventh no — kyerɛ: Sukkot afahyɛ no bɛyɛ nnansonnnaw — bɛyɛ: Wɔ bosome a ɛtɔ so nson no da a ɛdi du-num no, Sukkot afahyɛ bɛyɛ nnafua nson de ma Yawe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "da a ɛdi du-num"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(du-num fa)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bosome"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a ɛtɔ so nson"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yei"
+    },
+    {
+      "surface": "חג",
+      "gloss": "afahyɛ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nson"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnafua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de ma Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:04.195008982Z",
+  "model": "glm-5.3"
+}

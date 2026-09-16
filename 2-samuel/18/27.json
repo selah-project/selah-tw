@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "2-samuel 18:27", "book": "2-samuel", "lang": "tw", "chapter": 18, "translation": "Na hwɛfoɔ no kaa sɛ: mehunu deɛ ɔdi kan no ⟨את⟩ mmirikatɛ te sɛ Ahimaaz, Tsadok ba, mmirikatɛ. Na ɔhene no kaa sɛ: onipa pa ni, na asɛmpa pa na ɛde ba.", "tokens": [{"surface": "ויאמר", "gloss": "kaa sɛ"}, {"surface": "הצפה", "gloss": "hwɛfoɔ no"}, {"surface": "אני", "gloss": "mehunu"}, {"surface": "ראה", "gloss": "hunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mmirikatɛ"}, {"surface": "מרוצת", "gloss": "mmirikatɛ"}, {"surface": "הראשון", "gloss": "deɛ ɔdi kan no"}, {"surface": "כמרצת", "gloss": "te sɛ mmirikatɛ"}, {"surface": "אחימעץ", "gloss": "Ahimaaz"}, {"surface": "בן", "gloss": "ba"}, {"surface": "צדוק", "gloss": "Tsadok"}, {"surface": "ויאמר", "gloss": "kaa sɛ"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "איש", "gloss": "onipa"}, {"surface": "טוב", "gloss": "pa"}, {"surface": "זה", "gloss": "ni"}, {"surface": "ואל", "gloss": "na ... ho"}, {"surface": "בשורה", "gloss": "asɛmpa pa"}, {"surface": "טובה", "gloss": "pa"}, {"surface": "יבוא", "gloss": "ba"}], "timestamp": "2026-09-15T23:07:50.113785198Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 18:27",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na hwɛfoɔ no kaa sɛ: mehunu deɛ ɔdi kan no ⟨את⟩ mmirikatɛ te sɛ Ahimaaz, Tsadok ba, mmirikatɛ. Na ɔhene no kaa sɛ: onipa pa ni, na asɛmpa pa na ɛde ba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "hwɛfoɔ no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mehunu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmirikatɛ"
+    },
+    {
+      "surface": "מרוצת",
+      "gloss": "mmirikatɛ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "deɛ ɔdi kan no"
+    },
+    {
+      "surface": "כמרצת",
+      "gloss": "te sɛ mmirikatɛ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ... ho"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "asɛmpa pa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-09-15T23:07:50.113785198Z",
+  "model": "glm-5.3"
+}

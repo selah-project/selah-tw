@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "micah 3:5", "book": "micah", "lang": "tw", "chapter": 3, "translation": "Saa na Yawe ka no, deɛ ɛfa nnabii a wɔde ⟨את⟩ me nkurɔfoɔ sesa kwan no ho: wɔn a wɔdatam wɔn seban, na wɔfrɛ asomdwoeɛ; na obi a ɔntwerɛ nneɛma wɔ wɔn ano no, wɔde ɔko dennen no.", "tokens": [{"surface": "כה", "gloss": "saa na"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "על", "gloss": "deɛ ɛfa…ho"}, {"surface": "הנביאים", "gloss": "nnabii no"}, {"surface": "המתעים", "gloss": "a wɔsesa kwan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nkurɔfoɔ"}, {"surface": "עמי", "gloss": "me nkurɔfoɔ"}, {"surface": "הנשכים", "gloss": "wɔn a wɔdatam"}, {"surface": "בשניהם", "gloss": "seban"}, {"surface": "וקראו", "gloss": "na wɔfrɛ"}, {"surface": "שלום", "gloss": "asomdwoeɛ"}, {"surface": "ואשר", "gloss": "na obi a"}, {"surface": "לא", "gloss": "nn…biara"}, {"surface": "יתן", "gloss": "ntwerɛ"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "פיהם", "gloss": "wɔn ano"}, {"surface": "וקדשו", "gloss": "wɔde hyɛ denden"}, {"surface": "עליו", "gloss": "no so"}, {"surface": "מלחמה", "gloss": "ɔko"}], "timestamp": "2026-09-16T01:19:52.888458507Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 3:5",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Saa na Yawe ka no, deɛ ɛfa nnabii a wɔde ⟨את⟩ me nkurɔfoɔ sesa kwan no ho: wɔn a wɔdatam wɔn seban, na wɔfrɛ asomdwoeɛ; na obi a ɔntwerɛ nneɛma wɔ wɔn ano no, wɔde ɔko dennen no.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "deɛ ɛfa…ho"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nnabii no"
+    },
+    {
+      "surface": "המתעים",
+      "gloss": "a wɔsesa kwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "הנשכים",
+      "gloss": "wɔn a wɔdatam"
+    },
+    {
+      "surface": "בשניהם",
+      "gloss": "seban"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "na wɔfrɛ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na obi a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn…biara"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ntwerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "wɔn ano"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "wɔde hyɛ denden"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    }
+  ],
+  "timestamp": "2026-09-16T01:19:52.888458507Z",
+  "model": "glm-5.3"
+}

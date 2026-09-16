@@ -1,1 +1,92 @@
-{"tier": "glm-5.2", "verse": 34, "ref": "exodus 34:34", "book": "exodus", "lang": "tw", "chapter": 34, "translation": "Na sɛ Mosheh baa Yawe anim mu kɔkasa ⟨את⟩ no ⟨את⟩ no, ɔyi ⟨את⟩ maswe no firi n'anim so kɔsii nea ɔpuee; na ɔpuee, kasa kyerɛ Yisrael mma deɛ Yawe hyɛɛ no.", "tokens": [{"surface": "ובבא", "gloss": "na sɛ ... baa"}, {"surface": "משה", "gloss": "Mosheh"}, {"surface": "לפני", "gloss": "anim mu"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לדבר", "gloss": "kɔkasa"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "no (Yawe)"}, {"surface": "יסיר", "gloss": "ɔyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "maswe no"}, {"surface": "המסוה", "gloss": "maswe no"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "צאתו", "gloss": "nea ɔpuee"}, {"surface": "ויצא", "gloss": "na ɔpuee"}, {"surface": "ודבר", "gloss": "kasa kyerɛ"}, {"surface": "אל", "gloss": "kyerɛ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ Yawe hyɛɛ no"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "יצוה", "gloss": "hyɛɛ no"}], "timestamp": "2026-09-15T21:03:01.125067775Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na sɛ Mosheh baa Yawe anim mu kɔkasa ⟨את⟩ no ⟨את⟩ no, ɔyi ⟨את⟩ maswe no firi n'anim so kɔsii nea ɔpuee; na ɔpuee, kasa kyerɛ Yisrael mma deɛ Yawe hyɛɛ no.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "na sɛ ... baa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kɔkasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Yawe)"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ɔyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maswe no"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "maswe no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "nea ɔpuee"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na ɔpuee"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kasa kyerɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yawe hyɛɛ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "hyɛɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:01.125067775Z",
+  "model": "glm-5.3"
+}

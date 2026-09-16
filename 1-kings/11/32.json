@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":32,"ref":"1-kings 11:32","book":"1-kings","lang":"tw","chapter":11,"translation":"Na abusuakuo baako no na ɛbɛyɛ ne dea, m'akoa Dawid nti, na Yerusalem, kurow a mepaw no firi Israel abusuakuo nyinaa mu, nti.","tokens":[{"surface":"והשבט","gloss":"Na abusuakuo"},{"surface":"האחד","gloss":"baako no"},{"surface":"יהיה","gloss":"bɛyɛ"},{"surface":"לו","gloss":"ne dea"},{"surface":"למען","gloss":"nti"},{"surface":"עבדי","gloss":"m'akoa"},{"surface":"דוד","gloss":"Dawid"},{"surface":"ולמען","gloss":"na ... nti"},{"surface":"ירושלם","gloss":"Yerusalem"},{"surface":"העיר","gloss":"kurow no"},{"surface":"אשר","gloss":"a"},{"surface":"בחרתי","gloss":"mepaw"},{"surface":"בה","gloss":"no"},{"surface":"מכל","gloss":"firi ... nyinaa"},{"surface":"שבטי","gloss":"abusuakuo"},{"surface":"ישראל","gloss":"Israel"}],"timestamp":"2026-09-15T23:18:57.851572965Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 11:32",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na abusuakuo baako no na ɛbɛyɛ ne dea, m'akoa Dawid nti, na Yerusalem, kurow a mepaw no firi Israel abusuakuo nyinaa mu, nti.",
+  "tokens": [
+    {
+      "surface": "והשבט",
+      "gloss": "Na abusuakuo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "m'akoa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na ... nti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mepaw"
+    },
+    {
+      "surface": "בה",
+      "gloss": "no"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "abusuakuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:57.851572965Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":17,"ref":"1-chronicles 2:17","book":"1-chronicles","lang":"tw","chapter":2,"translation":"Na Abigail woo ⟨את⟩ Amasa, na Amasa agya Yeter, Ismaelini.","tokens":[{"surface":"ואביגיל","gloss":"Na Abigail"},{"surface":"ילדה","gloss":"woo"},{"surface":"את","gloss":"⟨את⟩","marks":"Amasa"},{"surface":"עמשא","gloss":"Amasa"},{"surface":"ואבי","gloss":"na … agya"},{"surface":"עמשא","gloss":"Amasa"},{"surface":"יתר","gloss":"Yeter"},{"surface":"הישמעאלי","gloss":"Ismaelini"}],"timestamp":"2026-09-16T04:35:16.583776916Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Abigail woo ⟨את⟩ Amasa, na Amasa agya Yeter, Ismaelini.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Na Abigail"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "na … agya"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Ismaelini"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:16.583776916Z",
+  "model": "glm-5.3"
+}

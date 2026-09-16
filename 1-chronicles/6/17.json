@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":17,"ref":"1-chronicles 6:17","book":"1-chronicles","lang":"tw","chapter":6,"translation":"Na wɔyɛɛ asɔrefoɔ wɔ ⟨את⟩ Yawe asɔrefie anim wɔ Yerusalem, kɔsii sɛ Shelomoh sii Yawe fie no; na wɔgyinaa wɔn ahotosoɔ so wɔ wɔn som mu.","tokens":[{"surface":"ויהיו","gloss":"na wɔyɛɛ"},{"surface":"משרתים","gloss":"asɔrefoɔ"},{"surface":"לפני","gloss":"anim"},{"surface":"משכן","gloss":"abɔdan"},{"surface":"אהל","gloss":"atamfa"},{"surface":"מועד","gloss":"hyiabeɛ"},{"surface":"בשיר","gloss":"wɔ dwom mu"},{"surface":"עד","gloss":"kɔsii"},{"surface":"בנות","gloss":"sii"},{"surface":"שלמה","gloss":"Shelomoh"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe fie"},{"surface":"בית","gloss":"fie"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בירושלם","gloss":"wɔ Yerusalem"},{"surface":"ויעמדו","gloss":"na wɔgyinaa"},{"surface":"כמשפטם","gloss":"wɔn ahotosoɔ sɛnea ɛte"},{"surface":"על","gloss":"so"},{"surface":"עבודתם","gloss":"wɔn som"}],"timestamp":"2026-09-16T04:36:39.679040658Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 6:17",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔyɛɛ asɔrefoɔ wɔ ⟨את⟩ Yawe asɔrefie anim wɔ Yerusalem, kɔsii sɛ Shelomoh sii Yawe fie no; na wɔgyinaa wɔn ahotosoɔ so wɔ wɔn som mu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "asɔrefoɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "abɔdan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "atamfa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hyiabeɛ"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "wɔ dwom mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "sii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "na wɔgyinaa"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "wɔn ahotosoɔ sɛnea ɛte"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "עבודתם",
+      "gloss": "wɔn som"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:39.679040658Z",
+  "model": "glm-5.3"
+}

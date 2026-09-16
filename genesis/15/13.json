@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":13,"ref":"genesis 15:13","book":"genesis","lang":"tw","chapter":15,"translation":"Na ɔkaa kyerɛɛ Abram: “Nim kama sɛ wo nsu bɛyɛ ɔhɔhoɔ wɔ asase a ɛnyɛ wɔn dea mu, na wɔbɛasom wɔn, na wɔadew wɔn ⟨אתם⟩ — mfeɛ ahannan.","tokens":[{"surface":"ויאמר","gloss":"Na ɔkaa kyerɛɛ"},{"surface":"לאברם","gloss":"Abram"},{"surface":"ידע","gloss":"Nim"},{"surface":"תדע","gloss":"kama"},{"surface":"כי","gloss":"sɛ"},{"surface":"גר","gloss":"ɔhɔhoɔ"},{"surface":"יהיה","gloss":"bɛyɛ"},{"surface":"זרעך","gloss":"wo nsu"},{"surface":"בארץ","gloss":"wɔ asase"},{"surface":"לא","gloss":"ɛnyɛ"},{"surface":"להם","gloss":"wɔn dea"},{"surface":"ועבדום","gloss":"na wɔbɛasom wɔn"},{"surface":"וענו","gloss":"na wɔadew wɔn"},{"surface":"אתם","gloss":"⟨אתם⟩","marks":"wɔn (wo nsu no)"},{"surface":"ארבע","gloss":"ahan"},{"surface":"מאות","gloss":"nan"},{"surface":"שנה","gloss":"mfeɛ"}],"timestamp":"2026-09-15T22:24:46.715749641Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 15:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na ɔkaa kyerɛɛ Abram: “Nim kama sɛ wo nsu bɛyɛ ɔhɔhoɔ wɔ asase a ɛnyɛ wɔn dea mu, na wɔbɛasom wɔn, na wɔadew wɔn ⟨אתם⟩ — mfeɛ ahannan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Nim"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "kama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ɔhɔhoɔ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nsu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn dea"
+    },
+    {
+      "surface": "ועבדום",
+      "gloss": "na wɔbɛasom wɔn"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "na wɔadew wɔn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wɔn (wo nsu no)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ahan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:46.715749641Z",
+  "model": "glm-5.3"
+}

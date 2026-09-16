@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "genesis 40:6", "book": "genesis", "lang": "tw", "chapter": 40, "translation": "Na Yosef baa wɔn nkyɛn anɔpa, na ohuu ⟨אתם⟩ wɔn, ⟨את⟩ na hwɛ, wɔn anim abere.", "tokens": [{"surface": "ויבא", "gloss": "baa"}, {"surface": "אליהם", "gloss": "wɔn nkyɛn"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "בבקר", "gloss": "anɔpa"}, {"surface": "וירא", "gloss": "ohuu"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "והנם", "gloss": "na hwɛ"}, {"surface": "זעפים", "gloss": "wɔn anim abere"}], "timestamp": "2026-09-15T20:36:21.168910062Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na Yosef baa wɔn nkyɛn anɔpa, na ohuu ⟨אתם⟩ wɔn, ⟨את⟩ na hwɛ, wɔn anim abere.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn nkyɛn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ohuu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "wɔn anim abere"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:21.168910062Z",
+  "model": "glm-5.3"
+}

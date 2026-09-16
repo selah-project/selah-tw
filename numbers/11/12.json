@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "numbers 11:12", "book": "numbers", "lang": "tw", "chapter": 11, "translation": "Mewɔ nyinsɛn sɛ ⟨את⟩ nnipadɔm no ⟨את⟩ nyinaa? Anaa mewoo wɔn, sɛ wobɛka akyerɛ me sɛ: Fa no bɛn wɔ wo mu sɛdeɛ ɔwofoɔ bɛn abɔfra a ɔda aseɛ no, kɔ asase no so a wo bɔɔ wɔn agyapam sɛ wobɛma wɔn?", "tokens": [{"surface": "האנכי", "gloss": "mewɔ ... sɛ"}, {"surface": "הריתי", "gloss": "nyinsɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnipadɔm no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העם", "gloss": "nnipadɔm no"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "אם", "gloss": "anaa"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "ילדתיהו", "gloss": "mewoo wɔn"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "תאמר", "gloss": "wobɛka akyerɛ"}, {"surface": "אלי", "gloss": "me"}, {"surface": "שאהו", "gloss": "fa no bɛn"}, {"surface": "בחיקך", "gloss": "wɔ wo mu"}, {"surface": "כאשר", "gloss": "sɛdeɛ"}, {"surface": "ישא", "gloss": "bɛn"}, {"surface": "האמן", "gloss": "ɔwofoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "abɔfra a ɔda aseɛ no"}, {"surface": "הינק", "gloss": "abɔfra a ɔda aseɛ no"}, {"surface": "על", "gloss": "so"}, {"surface": "האדמה", "gloss": "asase no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נשבעת", "gloss": "wo bɔɔ ... agyapam"}, {"surface": "לאבתיו", "gloss": "wɔn agyapam"}], "timestamp": "2026-09-15T21:32:03.477908618Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 11:12",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Mewɔ nyinsɛn sɛ ⟨את⟩ nnipadɔm no ⟨את⟩ nyinaa? Anaa mewoo wɔn, sɛ wobɛka akyerɛ me sɛ: Fa no bɛn wɔ wo mu sɛdeɛ ɔwofoɔ bɛn abɔfra a ɔda aseɛ no, kɔ asase no so a wo bɔɔ wɔn agyapam sɛ wobɛma wɔn?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "mewɔ ... sɛ"
+    },
+    {
+      "surface": "הריתי",
+      "gloss": "nyinsɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipadɔm no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ילדתיהו",
+      "gloss": "mewoo wɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wobɛka akyerɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "fa no bɛn"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "wɔ wo mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "האמן",
+      "gloss": "ɔwofoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔfra a ɔda aseɛ no"
+    },
+    {
+      "surface": "הינק",
+      "gloss": "abɔfra a ɔda aseɛ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "wo bɔɔ ... agyapam"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "wɔn agyapam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:32:03.477908618Z",
+  "model": "glm-5.3"
+}

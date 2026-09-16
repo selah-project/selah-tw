@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":9,"ref":"ecclesiastes 11:9","book":"ecclesiastes","lang":"tw","chapter":11,"translation":"Serew, ababire, wo mmabunberɛ mu, na ma w'akoma mma wo nkyɛmfama wo mmabunberɛ nna mu, na na wo kɔ wo akoma kwan so, ne de w'ani hunu mu; na budɛn sɛ ɛbɛyɛ wo nsɛm nyinaa ho asoda, Eloohim bɛde wo aba asoda mu.","tokens":[{"surface":"שמח","gloss":"Serew"},{"surface":"בחור","gloss":"ababire"},{"surface":"בילדותיך","gloss":"wo mmabunberɛ mu"},{"surface":"ויטיבך","gloss":"na ma ... mma wo nkyɛmfama"},{"surface":"לבך","gloss":"w'akoma"},{"surface":"בימי","gloss":"nna mu"},{"surface":"בחורותך","gloss":"wo mmabunberɛ"},{"surface":"והלך","gloss":"na wo kɔ"},{"surface":"בדרכי","gloss":"kwan so"},{"surface":"לבך","gloss":"wo akoma"},{"surface":"ובמראי","gloss":"ne ... mu"},{"surface":"עיניך","gloss":"de w'ani hunu"},{"surface":"ודע","gloss":"na budɛn"},{"surface":"כי","gloss":"sɛ"},{"surface":"על","gloss":"ho"},{"surface":"כל","gloss":"nyinaa"},{"surface":"אלה","gloss":"nsɛm"},{"surface":"יביאך","gloss":"bɛde wo aba"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"במשפט","gloss":"asoda mu"}],"timestamp":"2026-09-16T03:57:25.500551563Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 11:9",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Serew, ababire, wo mmabunberɛ mu, na ma w'akoma mma wo nkyɛmfama wo mmabunberɛ nna mu, na na wo kɔ wo akoma kwan so, ne de w'ani hunu mu; na budɛn sɛ ɛbɛyɛ wo nsɛm nyinaa ho asoda, Eloohim bɛde wo aba asoda mu.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Serew"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ababire"
+    },
+    {
+      "surface": "בילדותיך",
+      "gloss": "wo mmabunberɛ mu"
+    },
+    {
+      "surface": "ויטיבך",
+      "gloss": "na ma ... mma wo nkyɛmfama"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "w'akoma"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nna mu"
+    },
+    {
+      "surface": "בחורותך",
+      "gloss": "wo mmabunberɛ"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "na wo kɔ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "kwan so"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ובמראי",
+      "gloss": "ne ... mu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "de w'ani hunu"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na budɛn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "bɛde wo aba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "asoda mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:25.500551563Z",
+  "model": "glm-5.3"
+}

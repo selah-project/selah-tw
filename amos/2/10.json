@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "amos 2:10", "book": "amos", "lang": "tw", "chapter": 2, "translation": "Me nso, meyii ⟨את⟩ mo firi Misraim asase mu, na mekyekyeree ⟨את⟩ monantew mo wɔ sare so mfeɛ aduanan, na mo bɛdi ⟨את⟩ Emorifoɔ asase no.", "tokens": [{"surface": "ואנכי", "gloss": "Me nso"}, {"surface": "העליתי", "gloss": "meyii mo"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "מארץ", "gloss": "firi asase mu"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "ואולך", "gloss": "na mekyekyeree monantew mo"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "במדבר", "gloss": "wɔ sare so"}, {"surface": "ארבעים", "gloss": "aduanan"}, {"surface": "שנה", "gloss": "mfeɛ"}, {"surface": "לרשת", "gloss": "na mo bɛdi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Emorifoɔ asase no"}, {"surface": "ארץ", "gloss": "asase no"}, {"surface": "האמרי", "gloss": "Emorifoɔ"}], "timestamp": "2026-09-16T01:10:39.358654991Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Me nso, meyii ⟨את⟩ mo firi Misraim asase mu, na mekyekyeree ⟨את⟩ monantew mo wɔ sare so mfeɛ aduanan, na mo bɛdi ⟨את⟩ Emorifoɔ asase no.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Me nso"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "meyii mo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "na mekyekyeree monantew mo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ sare so"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "na mo bɛdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorifoɔ asase no"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:10:39.358654991Z",
+  "model": "glm-5.3"
+}

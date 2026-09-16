@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "genesis 35:15", "book": "genesis", "lang": "tw", "chapter": 35, "translation": "Yakob frɛɛ baabi a Eloohim dii nkɔmmɔ ⟨את⟩ no hɔ no ⟨את⟩ din Bet-El.", "tokens": [{"surface": "ויקרא", "gloss": "frɛɛ"}, {"surface": "יעקב", "gloss": "Yakob"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "din"}, {"surface": "שם", "gloss": "din"}, {"surface": "המקום", "gloss": "baabi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "דבר", "gloss": "dii nkɔmmɔ"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "שם", "gloss": "hɔ"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "בית", "gloss": "Bet"}, {"surface": "אל", "gloss": "El"}], "timestamp": "2026-09-15T20:34:09.488413467Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Yakob frɛɛ baabi a Eloohim dii nkɔmmɔ ⟨את⟩ no hɔ no ⟨את⟩ din Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dii nkɔmmɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-15T20:34:09.488413467Z",
+  "model": "glm-5.3"
+}

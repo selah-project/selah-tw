@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "exodus 39:31", "book": "exodus", "lang": "tw", "chapter": 39, "translation": "Na wɔde ptil a ɛyɛ tekhelet bɔɔ so, de atena mitra no so wɔ akyire — sɛnea Yawe hyɛɛ ⟨את⟩ Moze no.", "tokens": [{"surface": "ויתנו", "gloss": "na wɔde bɔɔ so"}, {"surface": "עליו", "gloss": "so"}, {"surface": "פתיל", "gloss": "ptil (kwantenan)"}, {"surface": "תכלת", "gloss": "tekhelet"}, {"surface": "לתת", "gloss": "de ama ɛtena"}, {"surface": "על", "gloss": "so"}, {"surface": "המצנפת", "gloss": "mitra no"}, {"surface": "מלמעלה", "gloss": "wɔ akyire"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moze"}, {"surface": "משה", "gloss": "Moze"}], "timestamp": "2026-09-15T21:07:37.009349297Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na wɔde ptil a ɛyɛ tekhelet bɔɔ so, de atena mitra no so wɔ akyire — sɛnea Yawe hyɛɛ ⟨את⟩ Moze no.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "na wɔde bɔɔ so"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ptil (kwantenan)"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "de ama ɛtena"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitra no"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "wɔ akyire"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moze"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:37.009349297Z",
+  "model": "glm-5.3"
+}

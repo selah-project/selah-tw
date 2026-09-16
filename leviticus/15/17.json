@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":17,"ref":"leviticus 15:17","book":"leviticus","lang":"tw","chapter":15,"translation":"Na ntadeɛ biara, ne pɔkɔ biara, a mmɔfra nsuo bɛda so no, wɔbɛsuo no nsuo mu, na ahotɔ nni mu kɔsi anwummerɛ.","tokens":[{"surface":"וכל","gloss":"Na … biara"},{"surface":"בגד","gloss":"ntadeɛ"},{"surface":"וכל","gloss":"ne … biara"},{"surface":"עור","gloss":"pɔkɔ"},{"surface":"אשר","gloss":"a"},{"surface":"יהיה","gloss":"bɛyɛ"},{"surface":"עליו","gloss":"so"},{"surface":"שכבת","gloss":"da"},{"surface":"זרע","gloss":"mmɔfra nsuo"},{"surface":"וכבס","gloss":"wɔbɛsuo no"},{"surface":"במים","gloss":"nsuo mu"},{"surface":"וטמא","gloss":"na ahotɔ nni mu"},{"surface":"עד","gloss":"kɔsi"},{"surface":"הערב","gloss":"anwummerɛ"}],"timestamp":"2026-09-15T21:17:35.835084076Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na ntadeɛ biara, ne pɔkɔ biara, a mmɔfra nsuo bɛda so no, wɔbɛsuo no nsuo mu, na ahotɔ nni mu kɔsi anwummerɛ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na … biara"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ntadeɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne … biara"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pɔkɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "da"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mmɔfra nsuo"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "wɔbɛsuo no"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nsuo mu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "na ahotɔ nni mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "anwummerɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:35.835084076Z",
+  "model": "glm-5.3"
+}

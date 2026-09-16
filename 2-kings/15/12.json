@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-kings 15:12","book":"2-kings","lang":"tw","chapter":15,"translation":"Saa na ɛyɛ Yawe asɛm a ɔkaeɛ kyerɛɛ Yehu se: wo mma a wɔdɔɔso kɔ ɔtɔ nan bɛtena Yisrael ahennwa so; na ɛbaa saa.","tokens":[{"surface":"הוא","gloss":"saa"},{"surface":"דבר","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אשר","gloss":"a"},{"surface":"דבר","gloss":"ɔkaeɛ"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"יהוא","gloss":"Yehu"},{"surface":"לאמר","gloss":"se"},{"surface":"בני","gloss":"mma"},{"surface":"רביעים","gloss":"a wɔdɔɔso kɔ ɔtɔ nan"},{"surface":"ישבו","gloss":"bɛtena"},{"surface":"לך","gloss":"wo"},{"surface":"על","gloss":"so"},{"surface":"כסא","gloss":"ahennwa"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ויהי","gloss":"na ɛbaa"},{"surface":"כן","gloss":"saa"}],"timestamp":"2026-09-15T23:33:22.883825241Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 15:12",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Saa na ɛyɛ Yawe asɛm a ɔkaeɛ kyerɛɛ Yehu se: wo mma a wɔdɔɔso kɔ ɔtɔ nan bɛtena Yisrael ahennwa so; na ɛbaa saa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkaeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "רביעים",
+      "gloss": "a wɔdɔɔso kɔ ɔtɔ nan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ahennwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:22.883825241Z",
+  "model": "glm-5.3"
+}

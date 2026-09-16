@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 63:9","book":"psalms","lang":"tw","chapter":63,"translation":"Me kra adware wo akyi; wo nsa nifa tam me.","tokens":[{"surface":"דבקה","gloss":"adware"},{"surface":"נפשי","gloss":"me kra"},{"surface":"אחריך","gloss":"wo akyi"},{"surface":"בי","gloss":"me"},{"surface":"תמכה","gloss":"tam"},{"surface":"ימינך","gloss":"wo nsa nifa"}],"timestamp":"2026-09-16T01:59:16.848868346Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 63,
+  "translation": "Me kra adware wo akyi; wo nsa nifa tam me.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "adware"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "wo akyi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wo nsa nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:59:16.848868346Z",
+  "model": "glm-5.3"
+}

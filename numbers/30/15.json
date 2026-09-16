@@ -1,1 +1,116 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "numbers 30:15", "book": "numbers", "lang": "tw", "chapter": 30, "translation": "Na sɛ ne barima kommy na ɔkɔ so kommy wɔ n'aho afiri da kɔsi da, a ɔma ne nnyaeɛ no ⟨את⟩ nyinaa gyina, anaasɛ ne nhyira a ɛwɔ ne so no ⟨את⟩ nyinaa gyina; ɔma no ⟨את⟩ nyinaa gyina, ɛfiri sɛ ɔkommye wɔ n'aho da a ɔtee no.", "tokens": [{"surface": "ואם", "gloss": "na sɛ"}, {"surface": "החרש", "gloss": "kommy"}, {"surface": "יחריש", "gloss": "ɔkɔ so kommy"}, {"surface": "לה", "gloss": "wɔ n'aho"}, {"surface": "אישה", "gloss": "ne barima"}, {"surface": "מיום", "gloss": "firi da"}, {"surface": "אל", "gloss": "kɔsi"}, {"surface": "יום", "gloss": "da"}, {"surface": "והקים", "gloss": "a ɔma ... gyina"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nnyaeɛ no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "נדריה", "gloss": "ne nnyaeɛ"}, {"surface": "או", "gloss": "anaasɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nhyira no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אסריה", "gloss": "ne nhyira"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עליה", "gloss": "ɛwɔ ne so"}, {"surface": "הקים", "gloss": "ɔma ... gyina"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "no nyinaa"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "החרש", "gloss": "ɔkommye"}, {"surface": "לה", "gloss": "wɔ n'aho"}, {"surface": "ביום", "gloss": "da a"}, {"surface": "שמעו", "gloss": "ɔtee"}], "timestamp": "2026-09-15T22:31:48.286393513Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 30:15",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na sɛ ne barima kommy na ɔkɔ so kommy wɔ n'aho afiri da kɔsi da, a ɔma ne nnyaeɛ no ⟨את⟩ nyinaa gyina, anaasɛ ne nhyira a ɛwɔ ne so no ⟨את⟩ nyinaa gyina; ɔma no ⟨את⟩ nyinaa gyina, ɛfiri sɛ ɔkommye wɔ n'aho da a ɔtee no.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "kommy"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "ɔkɔ so kommy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wɔ n'aho"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ne barima"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "firi da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "a ɔma ... gyina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnyaeɛ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "ne nnyaeɛ"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nhyira no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אסריה",
+      "gloss": "ne nhyira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɛwɔ ne so"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ɔma ... gyina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no nyinaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "ɔkommye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wɔ n'aho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da a"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ɔtee"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:48.286393513Z",
+  "model": "glm-5.3"
+}

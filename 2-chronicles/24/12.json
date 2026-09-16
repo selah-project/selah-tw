@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "2-chronicles 24:12", "book": "2-chronicles", "lang": "tw", "chapter": 24, "translation": "Ɔhene no ne Yehoiada de maa wɔn a wɔyɛɛ adwuma no wɔ Yawe ⟨את⟩ fie som mu; na wɔyɛɛ wɔn adwadiefoɔ — mmintimfoɔ ne mfɛfoɔ — sɛ wɔmmɛma Yawe fie no mmɔ ho foforɔ, na ne nsensaneefoɔ — dadeɛ ne kɔkɔɔ mfɛfoɔ nso — sɛ wɔmmɛhyew Yawe fie no mu den.", "tokens": [{"surface": "ויתנהו", "gloss": "de maa"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "ויהוידע", "gloss": "ne Yehoiada"}, {"surface": "אל", "gloss": "maa"}, {"surface": "עושה", "gloss": "wɔn a wɔyɛɛ"}, {"surface": "מלאכת", "gloss": "adwuma no"}, {"surface": "עבודת", "gloss": "som"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ויהיו", "gloss": "wɔyɛɛ wɔn"}, {"surface": "שכרים", "gloss": "adwadiefoɔ"}, {"surface": "חצבים", "gloss": "mmintimfoɔ"}, {"surface": "וחרשים", "gloss": "ne mfɛfoɔ"}, {"surface": "לחדש", "gloss": "sɛ wɔmmɛma ... mmɔ ho foforɔ"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "וגם", "gloss": "na ... nso"}, {"surface": "לחרשי", "gloss": "nsensaneefoɔ"}, {"surface": "ברזל", "gloss": "dadeɛ"}, {"surface": "ונחשת", "gloss": "ne kɔkɔɔ"}, {"surface": "לחזק", "gloss": "sɛ wɔmmɛhyew ... mu den"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T05:04:54.317390759Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 24:12",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ɔhene no ne Yehoiada de maa wɔn a wɔyɛɛ adwuma no wɔ Yawe ⟨את⟩ fie som mu; na wɔyɛɛ wɔn adwadiefoɔ — mmintimfoɔ ne mfɛfoɔ — sɛ wɔmmɛma Yawe fie no mmɔ ho foforɔ, na ne nsensaneefoɔ — dadeɛ ne kɔkɔɔ mfɛfoɔ nso — sɛ wɔmmɛhyew Yawe fie no mu den.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "de maa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויהוידע",
+      "gloss": "ne Yehoiada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maa"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "wɔn a wɔyɛɛ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "adwuma no"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "som"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wɔyɛɛ wɔn"
+    },
+    {
+      "surface": "שכרים",
+      "gloss": "adwadiefoɔ"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "mmintimfoɔ"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ne mfɛfoɔ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sɛ wɔmmɛma ... mmɔ ho foforɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "לחרשי",
+      "gloss": "nsensaneefoɔ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dadeɛ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ne kɔkɔɔ"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "sɛ wɔmmɛhyew ... mu den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:04:54.317390759Z",
+  "model": "glm-5.3"
+}

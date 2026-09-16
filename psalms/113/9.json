@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 113:9","book":"psalms","lang":"tw","chapter":113,"translation":"Wayi oniwa no sɛ ɔtena fie, sɛ ɛna a ɔwɔ anigyeɛ wɔ ne mma mu. Monhyira Yah!","tokens":[{"surface":"מושיבי","gloss":"Wayi…sɛ ɔtena"},{"surface":"עקרת","gloss":"oniwa"},{"surface":"הבית","gloss":"fie"},{"surface":"אם","gloss":"ɛna"},{"surface":"הבנים","gloss":"mma"},{"surface":"שמחה","gloss":"anigyeɛ"},{"surface":"הללו","gloss":"monhyira"},{"surface":"יה","gloss":"Yah"}],"timestamp":"2026-09-16T02:24:50.402195786Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 113,
+  "translation": "Wayi oniwa no sɛ ɔtena fie, sɛ ɛna a ɔwɔ anigyeɛ wɔ ne mma mu. Monhyira Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Wayi…sɛ ɔtena"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "oniwa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ɛna"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "monhyira"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:50.402195786Z",
+  "model": "glm-5.3"
+}

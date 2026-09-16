@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "1-chronicles 2:19", "book": "1-chronicles", "lang": "tw", "chapter": 2, "translation": "Na Azuba wuiɛ, na Kaleb waree ⟨את⟩ Efrat, na ɔwoo no ⟨את⟩ Hur.", "tokens": [{"surface": "ותמת", "gloss": "wuiɛ"}, {"surface": "עזובה", "gloss": "Azuba"}, {"surface": "ויקח", "gloss": "waree"}, {"surface": "לו", "gloss": "no"}, {"surface": "כלב", "gloss": "Kaleb"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Efrat"}, {"surface": "אפרת", "gloss": "Efrat"}, {"surface": "ותלד", "gloss": "woo"}, {"surface": "לו", "gloss": "no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Hur"}, {"surface": "חור", "gloss": "Hur"}], "timestamp": "2026-09-16T04:35:16.584209338Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Azuba wuiɛ, na Kaleb waree ⟨את⟩ Efrat, na ɔwoo no ⟨את⟩ Hur.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "wuiɛ"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuba"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "waree"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrat"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Efrat"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hur"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    }
+  ],
+  "timestamp": "2026-09-16T04:35:16.584209338Z",
+  "model": "glm-5.3"
+}

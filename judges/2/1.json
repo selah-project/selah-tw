@@ -1,1 +1,112 @@
-{"tier":"glm-5.2","verse":1,"ref":"judges 2:1","book":"judges","lang":"tw","chapter":2,"translation":"Yawe abɔfoɔ firii Gilgal bae Bochim, na ɔkaa se: Mede ⟨את⟩ mo firii Misraim, na mede ⟨את⟩ mo baa asase a metwaa m'ahyɛ so mɔ mo awofoɔ no mu, na mekaa se: Mennubu m'apam ⟨את⟩ mo kɔ so da.","tokens":[{"surface":"ויעל","gloss":"bae"},{"surface":"מלאך","gloss":"abɔfoɔ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"מן","gloss":"firi"},{"surface":"הגלגל","gloss":"Gilgal"},{"surface":"אל","gloss":"bae kɔɔ"},{"surface":"הבכים","gloss":"Bochim"},{"surface":"ויאמר","gloss":"ɔkaa se"},{"surface":"אעלה","gloss":"mede mo bɛforo"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo (a wobefiri)"},{"surface":"ממצרים","gloss":"Misraim"},{"surface":"ואביא","gloss":"na mede mo baa"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo"},{"surface":"אל","gloss":"kɔ"},{"surface":"הארץ","gloss":"asase"},{"surface":"אשר","gloss":"a"},{"surface":"נשבעתי","gloss":"metwaa m'ahyɛ so"},{"surface":"לאבתיכם","gloss":"mɔ mo awofoɔ"},{"surface":"ואמר","gloss":"na mekaa se"},{"surface":"לא","gloss":"nn-"},{"surface":"אפר","gloss":"nubu"},{"surface":"בריתי","gloss":"m'apam"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo"},{"surface":"לעולם","gloss":"kɔ so da"}],"timestamp":"2026-09-15T22:36:57.949701463Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 2:1",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Yawe abɔfoɔ firii Gilgal bae Bochim, na ɔkaa se: Mede ⟨את⟩ mo firii Misraim, na mede ⟨את⟩ mo baa asase a metwaa m'ahyɛ so mɔ mo awofoɔ no mu, na mekaa se: Mennubu m'apam ⟨את⟩ mo kɔ so da.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bae"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "abɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bae kɔɔ"
+    },
+    {
+      "surface": "הבכים",
+      "gloss": "Bochim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa se"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mede mo bɛforo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (a wobefiri)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "na mede mo baa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "metwaa m'ahyɛ so"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "mɔ mo awofoɔ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mekaa se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "nubu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "m'apam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ so da"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:57.949701463Z",
+  "model": "glm-5.3"
+}

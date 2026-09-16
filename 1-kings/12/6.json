@@ -1,1 +1,108 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-kings 12:6","book":"1-kings","lang":"tw","chapter":12,"translation":"Na ɔhene Rɔhaboam bisaa ⟨את⟩ mpanyimfoɔ a wɔgyinaa Sɔlɔmɔn ne papa ⟨את⟩ nkyɛn berɛ a na wadi adeɛ no mu, sɛ: “Sɛdeɛ bɛn na moahunu sɛ ɔmmoa mma me na mayɛ mmuaeɛ ama ⟨את⟩ amanfoɔ yi asɛm?”","tokens":[{"surface":"ויועץ","gloss":"Na ... bisaa ... mu"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"רחבעם","gloss":"Rɔhaboam"},{"surface":"את","gloss":"⟨את⟩","marks":"mpanyimfoɔ"},{"surface":"הזקנים","gloss":"mpanyimfoɔ"},{"surface":"אשר","gloss":"a"},{"surface":"היו","gloss":"wɔgyinaa"},{"surface":"עמדים","gloss":"gyinaa"},{"surface":"את","gloss":"⟨את⟩","marks":"nkyɛn (Sɔlɔmɔn anim)"},{"surface":"פני","gloss":"nkyɛn"},{"surface":"שלמה","gloss":"Sɔlɔmɔn"},{"surface":"אביו","gloss":"ne papa"},{"surface":"בהיתו","gloss":"berɛ a na wadi"},{"surface":"חי","gloss":"adeɛ"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"איך","gloss":"Sɛdeɛ bɛn na"},{"surface":"אתם","gloss":"mo"},{"surface":"נועצים","gloss":"hunu / mmoa"},{"surface":"להשיב","gloss":"na mayɛ mmuaeɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"amanfoɔ yi"},{"surface":"העם","gloss":"amanfoɔ"},{"surface":"הזה","gloss":"yi"},{"surface":"דבר","gloss":"asɛm"}],"timestamp":"2026-09-15T23:18:55.342742020Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 12:6",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɔhene Rɔhaboam bisaa ⟨את⟩ mpanyimfoɔ a wɔgyinaa Sɔlɔmɔn ne papa ⟨את⟩ nkyɛn berɛ a na wadi adeɛ no mu, sɛ: “Sɛdeɛ bɛn na moahunu sɛ ɔmmoa mma me na mayɛ mmuaeɛ ama ⟨את⟩ amanfoɔ yi asɛm?”",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Na ... bisaa ... mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rɔhaboam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanyimfoɔ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔgyinaa"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkyɛn (Sɔlɔmɔn anim)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sɔlɔmɔn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "berɛ a na wadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "adeɛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Sɛdeɛ bɛn na"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "hunu / mmoa"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "na mayɛ mmuaeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanfoɔ yi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:55.342742020Z",
+  "model": "glm-5.3"
+}

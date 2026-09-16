@@ -1,1 +1,76 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "isaiah 29:10", "book": "isaiah", "lang": "tw", "chapter": 29, "translation": "Ɛfiri sɛ Yawe bɔɔ mo so ahum anaasɛ ɔde otwerɛdwerɛ honhom guu mo so, na ɔwie ⟨את⟩ mo aniwa — ⟨את⟩ aninnuanimfoɔ, ne ⟨את⟩ mo ti — nsɛmkenkanfoɔ no, ɔkata so.", "tokens": [{"surface": "כי", "gloss": "Ɛfiri sɛ"}, {"surface": "נסך", "gloss": "bɔɔ so / guu"}, {"surface": "עליכם", "gloss": "mo so"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "רוח", "gloss": "honhom"}, {"surface": "תרדמה", "gloss": "otwerɛdwerɛ"}, {"surface": "ויעצם", "gloss": "na ɔwie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo aniwa"}, {"surface": "עיניכם", "gloss": "mo aniwa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "aninnuanimfoɔ"}, {"surface": "הנביאים", "gloss": "aninnuanimfoɔ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "mo ti"}, {"surface": "ראשיכם", "gloss": "mo ti"}, {"surface": "החזים", "gloss": "nsɛmkenkanfoɔ"}, {"surface": "כסה", "gloss": "ɔkata so"}], "timestamp": "2026-09-15T23:49:33.147698226Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ɛfiri sɛ Yawe bɔɔ mo so ahum anaasɛ ɔde otwerɛdwerɛ honhom guu mo so, na ɔwie ⟨את⟩ mo aniwa — ⟨את⟩ aninnuanimfoɔ, ne ⟨את⟩ mo ti — nsɛmkenkanfoɔ no, ɔkata so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "bɔɔ so / guu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "otwerɛdwerɛ"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "na ɔwie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo aniwa"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mo aniwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aninnuanimfoɔ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "aninnuanimfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "mo ti"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mo ti"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "nsɛmkenkanfoɔ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ɔkata so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:49:33.147698226Z",
+  "model": "glm-5.3"
+}

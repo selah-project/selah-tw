@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 15:2","book":"isaiah","lang":"tw","chapter":15,"translation":"Wɔforoɔ kɔɔ fie no ne Dibon, mmea soronko, de bɛsu; wɔ Nebo ne Medeba so Moab teatea; wɔn tiara nyinaa yɛ sekyeraeɛ, nanteansiara nyinaa watwa.","tokens":[{"surface":"עלה","gloss":"wɔforoɔ"},{"surface":"הבית","gloss":"fie no"},{"surface":"ודיבן","gloss":"ne Dibon"},{"surface":"הבמות","gloss":"mmea soronko"},{"surface":"לבכי","gloss":"de bɛsu"},{"surface":"על","gloss":"so"},{"surface":"נבו","gloss":"Nebo"},{"surface":"ועל","gloss":"ne so"},{"surface":"מידבא","gloss":"Medeba"},{"surface":"מואב","gloss":"Moab"},{"surface":"ייליל","gloss":"teatea"},{"surface":"בכל","gloss":"wɔ…nyinaa"},{"surface":"ראשיו","gloss":"tiara"},{"surface":"קרחה","gloss":"sekyeraeɛ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"זקן","gloss":"nanteansiara"},{"surface":"גרועה","gloss":"watwa"}],"timestamp":"2026-09-15T23:45:41.935626671Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 15:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Wɔforoɔ kɔɔ fie no ne Dibon, mmea soronko, de bɛsu; wɔ Nebo ne Medeba so Moab teatea; wɔn tiara nyinaa yɛ sekyeraeɛ, nanteansiara nyinaa watwa.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "wɔforoɔ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "ne Dibon"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mmea soronko"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "de bɛsu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medeba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "teatea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ…nyinaa"
+    },
+    {
+      "surface": "ראשיו",
+      "gloss": "tiara"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "sekyeraeɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nanteansiara"
+    },
+    {
+      "surface": "גרועה",
+      "gloss": "watwa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:45:41.935626671Z",
+  "model": "glm-5.3"
+}

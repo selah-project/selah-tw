@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"exodus 21:8","book":"exodus","lang":"tw","chapter":21,"translation":"Sɛ ɔyɛ bɔne wɔ ne wura ani so — ɔno a ɔannhoto no mpo — ɔgye no firi; ɔrenntumi ntɔn no ama ɔman afoforɔ, ɛfiri sɛ wɔadi no ho atoro.","tokens":[{"surface":"אם","gloss":"sɛ"},{"surface":"רעה","gloss":"bɔne"},{"surface":"בעיני","gloss":"wɔ ... ani so"},{"surface":"אדניה","gloss":"ne wura"},{"surface":"אשר","gloss":"a"},{"surface":"לא","gloss":"ann"},{"surface":"יעדה","gloss":"hoto no"},{"surface":"והפדה","gloss":"ɔgye no firi"},{"surface":"לעם","gloss":"ama ɔman"},{"surface":"נכרי","gloss":"afoforɔ"},{"surface":"לא","gloss":"renntumi"},{"surface":"ימשל","gloss":"renn ... tumi"},{"surface":"למכרה","gloss":"tɔn no"},{"surface":"בבגדו","gloss":"wɔdi ... ho atoro"},{"surface":"בה","gloss":"no"}],"timestamp":"2026-09-15T20:54:50.109846026Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Sɛ ɔyɛ bɔne wɔ ne wura ani so — ɔno a ɔannhoto no mpo — ɔgye no firi; ɔrenntumi ntɔn no ama ɔman afoforɔ, ɛfiri sɛ wɔadi no ho atoro.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... ani so"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ne wura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "hoto no"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "ɔgye no firi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ama ɔman"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "afoforɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "renntumi"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "renn ... tumi"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "tɔn no"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "wɔdi ... ho atoro"
+    },
+    {
+      "surface": "בה",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:54:50.109846026Z",
+  "model": "glm-5.3"
+}

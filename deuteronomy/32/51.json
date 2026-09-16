@@ -1,1 +1,93 @@
-{"tier": "glm-5.2", "verse": 51, "ref": "deuteronomy 32:51", "book": "deuteronomy", "lang": "tw", "chapter": 32, "translation": "Ɛfiri sɛ moyii bɔne tiaa ⟨את⟩ me wɔ Yisrael mma mfimfini, wɔ Meriba nsuo a ɛwɔ Kadesh, wɔ Tsin asaase so; ɛfiri sɛ moannyɛ me kronkron wɔ Yisrael mma mfimfini.", "tokens": [{"surface": "על", "gloss": "Ɛfiri sɛ"}, {"surface": "אשר", "gloss": "sɛ"}, {"surface": "מעלתם", "gloss": "moyii bɔne tiaa"}, {"surface": "בי", "gloss": "me"}, {"surface": "בתוך", "gloss": "wɔ mfimfini"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "במי", "gloss": "wɔ nsuo ase"}, {"surface": "מריבת", "gloss": "Meriba"}, {"surface": "קדש", "gloss": "Kadesh"}, {"surface": "מדבר", "gloss": "wɔ asaase so"}, {"surface": "צן", "gloss": "Tsin"}, {"surface": "על", "gloss": "Ɛfiri sɛ"}, {"surface": "אשר", "gloss": "sɛ"}, {"surface": "לא", "gloss": "an-"}, {"surface": "קדשתם", "gloss": "moannyɛ me kronkron"}, {"surface": "אותי", "gloss": "⟨את⟩ me"}, {"surface": "בתוך", "gloss": "wɔ mfimfini"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}], "timestamp": "2026-09-15T21:59:12.465539251Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "deuteronomy 32:51",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Ɛfiri sɛ moyii bɔne tiaa ⟨את⟩ me wɔ Yisrael mma mfimfini, wɔ Meriba nsuo a ɛwɔ Kadesh, wɔ Tsin asaase so; ɛfiri sɛ moannyɛ me kronkron wɔ Yisrael mma mfimfini.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "moyii bɔne tiaa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ mfimfini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "במי",
+      "gloss": "wɔ nsuo ase"
+    },
+    {
+      "surface": "מריבת",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wɔ asaase so"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an-"
+    },
+    {
+      "surface": "קדשתם",
+      "gloss": "moannyɛ me kronkron"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ mfimfini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:12.465539251Z",
+  "model": "glm-5.3"
+}

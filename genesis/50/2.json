@@ -1,1 +1,69 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "genesis 50:2", "book": "genesis", "lang": "tw", "chapter": 50, "translation": "Yosef hyɛɛ ⟨את⟩ n'akoafoɔ — ⟨את⟩ nnuruyɛfoɔ no — sɛ wɔmmɔ ne papa no ho ban ara, wɔnna no ho nnuru (ḥanṭ); na ⟨את⟩ nnuruyɛfoɔ no daa ⟨את⟩ Yisrael no ho nnuru.", "tokens": [{"surface": "ויצו", "gloss": "hyɛɛ"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'akoafoɔ"}, {"surface": "עבדיו", "gloss": "n'akoafoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnuruyɛfoɔ no"}, {"surface": "הרפאים", "gloss": "nnuruyɛfoɔ no"}, {"surface": "לחנט", "gloss": "sɛ wɔnna no ho nnuru"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne papa no"}, {"surface": "אביו", "gloss": "ne papa no"}, {"surface": "ויחנטו", "gloss": "wɔdaa no ho nnuru"}, {"surface": "הרפאים", "gloss": "nnuruyɛfoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael"}, {"surface": "ישראל", "gloss": "Yisrael"}], "timestamp": "2026-09-15T20:43:15.494221036Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Yosef hyɛɛ ⟨את⟩ n'akoafoɔ — ⟨את⟩ nnuruyɛfoɔ no — sɛ wɔmmɔ ne papa no ho ban ara, wɔnna no ho nnuru (ḥanṭ); na ⟨את⟩ nnuruyɛfoɔ no daa ⟨את⟩ Yisrael no ho nnuru.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'akoafoɔ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoafoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnuruyɛfoɔ no"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "nnuruyɛfoɔ no"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "sɛ wɔnna no ho nnuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne papa no"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa no"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "wɔdaa no ho nnuru"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "nnuruyɛfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T20:43:15.494221036Z",
+  "model": "glm-5.3"
+}

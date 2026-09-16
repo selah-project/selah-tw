@@ -1,1 +1,128 @@
-{"tier": "glm-5.2", "verse": 37, "ref": "ezekiel 16:37", "book": "ezekiel", "lang": "tw", "chapter": 16, "translation": "Enti hwɛ, merebɔ ⟨את⟩ wo lɔfoɔ ⟨את⟩ nyinaa a wode ho hyɛɛ wɔn mu bom, ne ⟨את⟩ deɛ wodii dɔ nyinaa, ne deɛ wokyiw nyinaa; na mabom wɔn atia wo wɔ wo ho ahyia, na mada wo nanatew adi kyerɛ wɔn, na wɔbɛhunu ⟨את⟩ wo nanatew nyinaa.", "tokens": [{"surface": "לכן", "gloss": "Enti"}, {"surface": "הנני", "gloss": "hwɛ, me wɔ ha"}, {"surface": "מקבץ", "gloss": "merebɔ bom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo lɔfoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מאהביך", "gloss": "wo lɔfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ערבת", "gloss": "wode ho hyɛɛ wɔn mu bom"}, {"surface": "עליהם", "gloss": "wɔn ho"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "deɛ wodii dɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "אהבת", "gloss": "wodii dɔ"}, {"surface": "על", "gloss": "ne ho"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "שנאת", "gloss": "wokyiw"}, {"surface": "וקבצתי", "gloss": "na mabom wɔn"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "עליך", "gloss": "wo so"}, {"surface": "מסביב", "gloss": "ahyia"}, {"surface": "וגליתי", "gloss": "na mada ... adi"}, {"surface": "ערותך", "gloss": "wo nanatew"}, {"surface": "אלהם", "gloss": "kyerɛ wɔn"}, {"surface": "וראו", "gloss": "na wɔbɛhunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nanatew nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ערותך", "gloss": "wo nanatew"}], "timestamp": "2026-09-16T00:40:35.099060794Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 16:37",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Enti hwɛ, merebɔ ⟨את⟩ wo lɔfoɔ ⟨את⟩ nyinaa a wode ho hyɛɛ wɔn mu bom, ne ⟨את⟩ deɛ wodii dɔ nyinaa, ne deɛ wokyiw nyinaa; na mabom wɔn atia wo wɔ wo ho ahyia, na mada wo nanatew adi kyerɛ wɔn, na wɔbɛhunu ⟨את⟩ wo nanatew nyinaa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Enti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hwɛ, me wɔ ha"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "merebɔ bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo lɔfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "wo lɔfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "wode ho hyɛɛ wɔn mu bom"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "deɛ wodii dɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "wodii dɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "wokyiw"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "na mabom wɔn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ahyia"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "na mada ... adi"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "wo nanatew"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kyerɛ wɔn"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na wɔbɛhunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nanatew nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "wo nanatew"
+    }
+  ],
+  "timestamp": "2026-09-16T00:40:35.099060794Z",
+  "model": "glm-5.3"
+}

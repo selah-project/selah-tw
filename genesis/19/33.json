@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "genesis 19:33", "book": "genesis", "lang": "tw", "chapter": 19, "translation": "Na wɔmaa ⟨את⟩ wɔn agya nom nsam-efiri anadwo no mu, na ɔbaa a ɔdi kan no baeɛ, na ɔdaa ne agya so ⟨את⟩; na ɛwerɛhoɔ mmoa ne ho wɔ ne da aseɛ, na ɛnwerɛhoɔ wɔ ne sɔreɛ mu.", "tokens": [{"surface": "ותשקין", "gloss": "wɔmaa wɔn agya nom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn agya"}, {"surface": "אביהן", "gloss": "wɔn agya"}, {"surface": "יין", "gloss": "nsam-efiri"}, {"surface": "בלילה", "gloss": "anadwo no mu"}, {"surface": "הוא", "gloss": "no"}, {"surface": "ותבא", "gloss": "baaeɛ"}, {"surface": "הבכירה", "gloss": "ɔbaa a ɔdi kan"}, {"surface": "ותשכב", "gloss": "ɔdaa so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne agya"}, {"surface": "אביה", "gloss": "ne agya"}, {"surface": "ולא", "gloss": "na ɛnwerɛhoɔ"}, {"surface": "ידע", "gloss": "ne ho mmoa"}, {"surface": "בשכבה", "gloss": "wɔ ne da aseɛ"}, {"surface": "ובקומה", "gloss": "wɔ ne sɔreɛ mu"}], "timestamp": "2026-09-15T20:22:53.307825520Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na wɔmaa ⟨את⟩ wɔn agya nom nsam-efiri anadwo no mu, na ɔbaa a ɔdi kan no baeɛ, na ɔdaa ne agya so ⟨את⟩; na ɛwerɛhoɔ mmoa ne ho wɔ ne da aseɛ, na ɛnwerɛhoɔ wɔ ne sɔreɛ mu.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "wɔmaa wɔn agya nom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn agya"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "יין",
+      "gloss": "nsam-efiri"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo no mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "baaeɛ"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ɔbaa a ɔdi kan"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "ɔdaa so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne agya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ne agya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnwerɛhoɔ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ne ho mmoa"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "wɔ ne da aseɛ"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "wɔ ne sɔreɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:53.307825520Z",
+  "model": "glm-5.3"
+}

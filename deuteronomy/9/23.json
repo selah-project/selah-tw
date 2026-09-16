@@ -1,1 +1,112 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "deuteronomy 9:23", "book": "deuteronomy", "lang": "tw", "chapter": 9, "translation": "Na berɛ a Yawe soma mo firi ⟨את⟩ Kades-Barnea, sɛ: Montena, monnye ⟨את⟩ asase no so — asase a mede ama mo — na moyɛɛ asoɔden tiaa ⟨את⟩ Yawe mo Eloohim ano, moannyɛ no nkonim, na moantie ne nne.", "tokens": [{"surface": "ובשלח", "gloss": "berɛ a ... soma"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "מקדש", "gloss": "Kades"}, {"surface": "ברנע", "gloss": "Barnea"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "עלו", "gloss": "montena"}, {"surface": "ורשו", "gloss": "monnye so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נתתי", "gloss": "mede ama"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "ותמרו", "gloss": "moyɛɛ asoɔden"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ano"}, {"surface": "פי", "gloss": "ano"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "ולא", "gloss": "na moan-"}, {"surface": "האמנתם", "gloss": "nyɛɛ no nkonim"}, {"surface": "לו", "gloss": "no"}, {"surface": "ולא", "gloss": "na moan-"}, {"surface": "שמעתם", "gloss": "antie"}, {"surface": "בקלו", "gloss": "ne nne"}], "timestamp": "2026-09-15T21:48:50.327611082Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 9:23",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na berɛ a Yawe soma mo firi ⟨את⟩ Kades-Barnea, sɛ: Montena, monnye ⟨את⟩ asase no so — asase a mede ama mo — na moyɛɛ asoɔden tiaa ⟨את⟩ Yawe mo Eloohim ano, moannyɛ no nkonim, na moantie ne nne.",
+  "tokens": [
+    {
+      "surface": "ובשלח",
+      "gloss": "berɛ a ... soma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kades"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "montena"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "monnye so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede ama"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "moyɛɛ asoɔden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na moan-"
+    },
+    {
+      "surface": "האמנתם",
+      "gloss": "nyɛɛ no nkonim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na moan-"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "antie"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ne nne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:50.327611082Z",
+  "model": "glm-5.3"
+}

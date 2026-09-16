@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "deuteronomy 22:7", "book": "deuteronomy", "lang": "tw", "chapter": 22, "translation": "Papa no, hyɛ ⟨את⟩ maame no ma ɔnkɔ; na ⟨את⟩ mma no fa. Sɛnea deɛ ɛbɛyɛ yie ma wo, na wo nna atra hɔ dapɛn.", "tokens": [{"surface": "שלח", "gloss": "hyɛ ma ɔnkɔ"}, {"surface": "תשלח", "gloss": "papa no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "maame no"}, {"surface": "האם", "gloss": "maame no"}, {"surface": "ואת", "gloss": "na ⟨את⟩"}, {"surface": "הבנים", "gloss": "mma no"}, {"surface": "תקח", "gloss": "fa"}, {"surface": "לך", "gloss": "fa"}, {"surface": "למען", "gloss": "sɛnea"}, {"surface": "ייטב", "gloss": "ɛbɛyɛ yie"}, {"surface": "לך", "gloss": "ma wo"}, {"surface": "והארכת", "gloss": "na wo nna"}, {"surface": "ימים", "gloss": "atra hɔ dapɛn"}], "timestamp": "2026-09-15T21:54:11.825224288Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Papa no, hyɛ ⟨את⟩ maame no ma ɔnkɔ; na ⟨את⟩ mma no fa. Sɛnea deɛ ɛbɛyɛ yie ma wo, na wo nna atra hɔ dapɛn.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "hyɛ ma ɔnkɔ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "papa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maame no"
+    },
+    {
+      "surface": "האם",
+      "gloss": "maame no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mma no"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ɛbɛyɛ yie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "na wo nna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "atra hɔ dapɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:11.825224288Z",
+  "model": "glm-5.3"
+}

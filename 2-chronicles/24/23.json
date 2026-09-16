@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":23,"ref":"2-chronicles 24:23","book":"2-chronicles","lang":"tw","chapter":24,"translation":"Ɛbaa sɛ afe no hyɛɛ aseɛ foforɔ no, Aram asraafoɔ bɛsɔɔ ne so; wɔbaa Yehuda ne Yerusalem, wɔsɛee ⟨את⟩ nnipa no mpanimfoɔ nyinaa firi wɔn mu, na wɔde wɔn ngoɔ nyinaa kɔmaa ɔhene a ɔwɔ Darmasek.","tokens":[{"surface":"ויהי","gloss":"Ɛbaa sɛ"},{"surface":"לתקופת","gloss":"afe no hyɛɛ aseɛ foforɔ no"},{"surface":"השנה","gloss":"afe no"},{"surface":"עלה","gloss":"bɛsɔɔ"},{"surface":"עליו","gloss":"ne so"},{"surface":"חיל","gloss":"asraafoɔ"},{"surface":"ארם","gloss":"Aram"},{"surface":"ויבאו","gloss":"wɔbaa"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"וירושלם","gloss":"Yerusalem"},{"surface":"וישחיתו","gloss":"wɔsɛee"},{"surface":"את","gloss":"⟨את⟩","marks":"nnipa no mpanimfoɔ nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"שרי","gloss":"mpanimfoɔ"},{"surface":"העם","gloss":"nnipa no"},{"surface":"מעם","gloss":"firi wɔn mu"},{"surface":"וכל","gloss":"ne ... nyinaa"},{"surface":"שללם","gloss":"wɔn ngoɔ"},{"surface":"שלחו","gloss":"wɔde kɔmaa"},{"surface":"למלך","gloss":"ɔhene a ɔwɔ"},{"surface":"דרמשק","gloss":"Darmasek"}],"timestamp":"2026-09-16T05:06:04.777642192Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 24:23",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ɛbaa sɛ afe no hyɛɛ aseɛ foforɔ no, Aram asraafoɔ bɛsɔɔ ne so; wɔbaa Yehuda ne Yerusalem, wɔsɛee ⟨את⟩ nnipa no mpanimfoɔ nyinaa firi wɔn mu, na wɔde wɔn ngoɔ nyinaa kɔmaa ɔhene a ɔwɔ Darmasek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "לתקופת",
+      "gloss": "afe no hyɛɛ aseɛ foforɔ no"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "afe no"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bɛsɔɔ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wɔbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "wɔsɛee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no mpanimfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "firi wɔn mu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "wɔn ngoɔ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wɔde kɔmaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɔhene a ɔwɔ"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Darmasek"
+    }
+  ],
+  "timestamp": "2026-09-16T05:06:04.777642192Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "1-samuel 13:15", "book": "1-samuel", "lang": "tw", "chapter": 13, "translation": "Na Shemuël sɔree, na ɔfirii Gilgal kɔɔ Binjamin Gibea; na Shaoul kaa ⟨את⟩ nnipa a wɔne no wɔ hɔ no nnɔm — nnipa aha nsia bɛyɛ.", "tokens": [{"surface": "ויקם", "gloss": "Na ... sɔree"}, {"surface": "שמואל", "gloss": "Shemuël"}, {"surface": "ויעל", "gloss": "kɔɔ"}, {"surface": "מן", "gloss": "firii"}, {"surface": "הגלגל", "gloss": "Gilgal"}, {"surface": "גבעת", "gloss": "Gibea"}, {"surface": "בנימן", "gloss": "Binjamin"}, {"surface": "ויפקד", "gloss": "kaa ... nnɔm"}, {"surface": "שאול", "gloss": "Shaoul"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnipa no"}, {"surface": "העם", "gloss": "nnipa"}, {"surface": "הנמצאים", "gloss": "a wɔwɔ hɔ"}, {"surface": "עמו", "gloss": "ne no"}, {"surface": "כשש", "gloss": "bɛyɛ nsia"}, {"surface": "מאות", "gloss": "aha"}, {"surface": "איש", "gloss": "nnipa"}], "timestamp": "2026-09-15T22:51:24.827219642Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Shemuël sɔree, na ɔfirii Gilgal kɔɔ Binjamin Gibea; na Shaoul kaa ⟨את⟩ nnipa a wɔne no wɔ hɔ no nnɔm — nnipa aha nsia bɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Na ... sɔree"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firii"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kaa ... nnɔm"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "a wɔwɔ hɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne no"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "bɛyɛ nsia"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:24.827219642Z",
+  "model": "glm-5.3"
+}

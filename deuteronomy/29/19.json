@@ -1,1 +1,118 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "deuteronomy 29:19", "book": "deuteronomy", "lang": "tw", "chapter": 29, "translation": "Yawe rennye ntom sɛ ɔbɛkyɛ no; ɛfiri sɛ na Yawe bo ne n'ahotɔ bɛsow siga tia ɔbarima no, na ɛwɔdu nyinaa a wɔatwerɛ wɔ nwoma yi mu bɛda ne so, na Yawe bɛpepa ⟨את⟩ ne din firi ɔsoro ase.", "tokens": [{"surface": "לא", "gloss": "rennye ntom"}, {"surface": "יאבה", "gloss": "pɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "סלח", "gloss": "bɛkyɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "אז", "gloss": "na"}, {"surface": "יעשן", "gloss": "bɛsow siga"}, {"surface": "אף", "gloss": "bo"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "וקנאתו", "gloss": "ne n'ahotɔ"}, {"surface": "באיש", "gloss": "tia ɔbarima"}, {"surface": "ההוא", "gloss": "no"}, {"surface": "ורבצה", "gloss": "bɛda"}, {"surface": "בו", "gloss": "ne so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "האלה", "gloss": "ɛwɔdu"}, {"surface": "הכתובה", "gloss": "a wɔatwerɛ"}, {"surface": "בספר", "gloss": "wɔ nwoma"}, {"surface": "הזה", "gloss": "yi mu"}, {"surface": "ומחה", "gloss": "bɛpepa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne din"}, {"surface": "שמו", "gloss": "ne din"}, {"surface": "מתחת", "gloss": "firi ase"}, {"surface": "השמים", "gloss": "ɔsoro"}], "timestamp": "2026-09-15T21:58:27.003050895Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 29:19",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Yawe rennye ntom sɛ ɔbɛkyɛ no; ɛfiri sɛ na Yawe bo ne n'ahotɔ bɛsow siga tia ɔbarima no, na ɛwɔdu nyinaa a wɔatwerɛ wɔ nwoma yi mu bɛda ne so, na Yawe bɛpepa ⟨את⟩ ne din firi ɔsoro ase.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "rennye ntom"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סלח",
+      "gloss": "bɛkyɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "bɛsow siga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וקנאתו",
+      "gloss": "ne n'ahotɔ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "tia ɔbarima"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ורבצה",
+      "gloss": "bɛda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɛwɔdu"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "a wɔatwerɛ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "wɔ nwoma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi mu"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "bɛpepa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "firi ase"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    }
+  ],
+  "timestamp": "2026-09-15T21:58:27.003050895Z",
+  "model": "glm-5.3"
+}

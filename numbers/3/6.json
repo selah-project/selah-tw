@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "numbers 3:6", "book": "numbers", "lang": "tw", "chapter": 3, "translation": "Fa Levi ⟨את⟩ abusua ⟨את⟩ no brɛ na sisi ⟨את⟩ no wɔ Aharon ɔsɔfo no anim, na wɔnyɛ n'adwuma no; wɔsom no.", "tokens": [{"surface": "הקרב", "gloss": "Fa ... brɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Levi abusua no"}, {"surface": "מטה", "gloss": "abusua no"}, {"surface": "לוי", "gloss": "Levi"}, {"surface": "והעמדת", "gloss": "na sisi"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "לפני", "gloss": "wɔ ... anim"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "הכהן", "gloss": "ɔsɔfo no"}, {"surface": "ושרתו", "gloss": "na wɔnyɛ n'adwuma no / wɔsom"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}], "timestamp": "2026-09-15T21:25:21.103309150Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Fa Levi ⟨את⟩ abusua ⟨את⟩ no brɛ na sisi ⟨את⟩ no wɔ Aharon ɔsɔfo no anim, na wɔnyɛ n'adwuma no; wɔsom no.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Fa ... brɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi abusua no"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "abusua no"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "na sisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfo no"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "na wɔnyɛ n'adwuma no / wɔsom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:21.103309150Z",
+  "model": "glm-5.3"
+}

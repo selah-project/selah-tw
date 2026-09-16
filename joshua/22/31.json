@@ -1,1 +1,142 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "joshua 22:31", "book": "joshua", "lang": "tw", "chapter": 22, "translation": "Na Pinehas, Elazar ba, ɔsɔfoɔ no, kyerɛɛ Reuben ⟨את⟩ mma ne Gad mma ne Manasse mma no se: Ɛnnɛ yi yɛahu sɛ Yawe wɔ yɛn mu, ɛfiri sɛ moanyɛ mfomusoɔ yi ayɛ Yawe; na ɛno akyi no, moagye Israel mma afiri Yawe nsa mu.", "tokens": [{"surface": "ויאמר", "gloss": "na ... kyerɛɛ"}, {"surface": "פינחס", "gloss": "Pinehas"}, {"surface": "בן", "gloss": "ba"}, {"surface": "אלעזר", "gloss": "Elazar"}, {"surface": "הכהן", "gloss": "ɔsɔfoɔ"}, {"surface": "אל", "gloss": "kyerɛ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ראובן", "gloss": "Reuben"}, {"surface": "ואל", "gloss": "ne ... kyerɛ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "גד", "gloss": "Gad"}, {"surface": "ואל", "gloss": "ne ... kyerɛ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "מנשה", "gloss": "Manasse"}, {"surface": "היום", "gloss": "ɛnnɛ"}, {"surface": "ידענו", "gloss": "yɛahu"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "בתוכנו", "gloss": "yɛn mu"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אשר", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "anna"}, {"surface": "מעלתם", "gloss": "moanyɛ mfomusoɔ"}, {"surface": "ביהוה", "gloss": "Yawe"}, {"surface": "המעל", "gloss": "mfomusoɔ"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "אז", "gloss": "ɛno akyi"}, {"surface": "הצלתם", "gloss": "moagye"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israel mma"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "מיד", "gloss": "afiri ... nsa mu"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T22:09:33.960924403Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 22:31",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na Pinehas, Elazar ba, ɔsɔfoɔ no, kyerɛɛ Reuben ⟨את⟩ mma ne Gad mma ne Manasse mma no se: Ɛnnɛ yi yɛahu sɛ Yawe wɔ yɛn mu, ɛfiri sɛ moanyɛ mfomusoɔ yi ayɛ Yawe; na ɛno akyi no, moagye Israel mma afiri Yawe nsa mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... kyerɛɛ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne ... kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne ... kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "yɛahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "yɛn mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anna"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "moanyɛ mfomusoɔ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המעל",
+      "gloss": "mfomusoɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ɛno akyi"
+    },
+    {
+      "surface": "הצלתם",
+      "gloss": "moagye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "afiri ... nsa mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:09:33.960924403Z",
+  "model": "glm-5.3"
+}

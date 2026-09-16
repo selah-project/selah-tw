@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":14,"ref":"jeremiah 10:14","book":"jeremiah","lang":"tw","chapter":10,"translation":"Onipa biara ayɛ kotoku wɔ nimdeɛ mu; ɔyɛfoɔ biara watiredu wɔ ⟨А|h⟩botaeɛ no ho; ɛfiri sɛ de ɔtwa no yɛ nkontompo, na honhom nni mu.","tokens":[{"surface":"נבער","gloss":"ayɛ kotoku"},{"surface":"כל","gloss":"biara"},{"surface":"אדם","gloss":"onipa"},{"surface":"מדעת","gloss":"wɔ nimdeɛ mu"},{"surface":"הביש","gloss":"watiredu"},{"surface":"כל","gloss":"biara"},{"surface":"צורף","gloss":"ɔyɛfoɔ"},{"surface":"מפסל","gloss":"wɔ botaeɛ no ho"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"שקר","gloss":"yɛ nkontompo"},{"surface":"נסכו","gloss":"de ɔtwa no"},{"surface":"ולא","gloss":"na ... nni"},{"surface":"רוח","gloss":"honhom"},{"surface":"בם","gloss":"mu"}],"timestamp":"2026-09-16T05:29:31.062806419Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Onipa biara ayɛ kotoku wɔ nimdeɛ mu; ɔyɛfoɔ biara watiredu wɔ ⟨А|h⟩botaeɛ no ho; ɛfiri sɛ de ɔtwa no yɛ nkontompo, na honhom nni mu.",
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "ayɛ kotoku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "wɔ nimdeɛ mu"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "watiredu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "ɔyɛfoɔ"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "wɔ botaeɛ no ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yɛ nkontompo"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "de ɔtwa no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nni"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:29:31.062806419Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-samuel 16:8","book":"2-samuel","lang":"tw","chapter":16,"translation":"“Yawe ahyɛ Shaol fie mogya nyinaa ama wo, efise wonaa hɔ wɔ ne ananmu; na Yawe ama ⟨את⟩ ahennie no adi Abshalom wo ba nsa; na hwɛ, wo ho awu wo bone mu, efise woyɛ ɔwarmfoɔ.”","tokens":[{"surface":"השיב","gloss":"ahyɛ ... ama"},{"surface":"עליך","gloss":"wo ho"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"כל","gloss":"nyinaa"},{"surface":"דמי","gloss":"mogya"},{"surface":"בית","gloss":"fie"},{"surface":"שאול","gloss":"Shaol"},{"surface":"אשר","gloss":"a"},{"surface":"מלכת","gloss":"wonaa hɔ"},{"surface":"תחתו","gloss":"ne ananmu"},{"surface":"ויתן","gloss":"na ɔmaa"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"ahennie no"},{"surface":"המלוכה","gloss":"ahennie no"},{"surface":"ביד","gloss":"nsa"},{"surface":"אבשלום","gloss":"Abshalom"},{"surface":"בנך","gloss":"wo ba"},{"surface":"והנך","gloss":"na hwɛ, wo ho awu"},{"surface":"ברעתך","gloss":"wo bone mu"},{"surface":"כי","gloss":"efise"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"דמים","gloss":"ɔwarmfoɔ"},{"surface":"אתה","gloss":"woyɛ"}],"timestamp":"2026-09-15T23:06:54.262080297Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 16:8",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "“Yawe ahyɛ Shaol fie mogya nyinaa ama wo, efise wonaa hɔ wɔ ne ananmu; na Yawe ama ⟨את⟩ ahennie no adi Abshalom wo ba nsa; na hwɛ, wo ho awu wo bone mu, efise woyɛ ɔwarmfoɔ.”",
+  "tokens": [
+    {
+      "surface": "השיב",
+      "gloss": "ahyɛ ... ama"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "wonaa hɔ"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "ne ananmu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔmaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahennie no"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ahennie no"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "na hwɛ, wo ho awu"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "wo bone mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efise"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ɔwarmfoɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "woyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:54.262080297Z",
+  "model": "glm-5.3"
+}

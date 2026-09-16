@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "judges 7:22", "book": "judges", "lang": "tw", "chapter": 7, "translation": "Sɔfe aduasa no bɔɔ asɔfe; na Yawe de obiara ⟨את⟩ akofena toaa ne yɔnko so, ne asraa no mu nyinaa; na asraa no duanui kɔsii Bet-hash-Shitah, wɔ Tsererata, kɔsii Avel-Mechola hye so, wɔ Tabat.", "tokens": [{"surface": "ויתקעו", "gloss": "bɔɔ"}, {"surface": "שלש", "gloss": "aduasa... sɔfe"}, {"surface": "מאות", "gloss": ""}, {"surface": "השופרות", "gloss": "asɔfe"}, {"surface": "וישם", "gloss": "na ... toaa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "akofena"}, {"surface": "חרב", "gloss": "akofena"}, {"surface": "איש", "gloss": "obiara"}, {"surface": "ברעהו", "gloss": "ne yɔnko so"}, {"surface": "ובכל", "gloss": "ne ... nyinaa"}, {"surface": "המחנה", "gloss": "asraa no mu"}, {"surface": "וינס", "gloss": "na ... duanui"}, {"surface": "המחנה", "gloss": "asraa no"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "בית", "gloss": "Bet-"}, {"surface": "השטה", "gloss": "hash-Shitah"}, {"surface": "צררתה", "gloss": "wɔ Tsererata"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "שפת", "gloss": "hye so"}, {"surface": "אבל", "gloss": "Avel-"}, {"surface": "מחולה", "gloss": "Mechola"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "טבת", "gloss": "Tabat"}], "timestamp": "2026-09-15T22:37:43.812141821Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 7:22",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Sɔfe aduasa no bɔɔ asɔfe; na Yawe de obiara ⟨את⟩ akofena toaa ne yɔnko so, ne asraa no mu nyinaa; na asraa no duanui kɔsii Bet-hash-Shitah, wɔ Tsererata, kɔsii Avel-Mechola hye so, wɔ Tabat.",
+  "tokens": [
+    {
+      "surface": "ויתקעו",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "aduasa... sɔfe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "השופרות",
+      "gloss": "asɔfe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na ... toaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akofena"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ne yɔnko so"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "asraa no mu"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "na ... duanui"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "asraa no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "השטה",
+      "gloss": "hash-Shitah"
+    },
+    {
+      "surface": "צררתה",
+      "gloss": "wɔ Tsererata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "hye so"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Avel-"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mechola"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Tabat"
+    }
+  ],
+  "timestamp": "2026-09-15T22:37:43.812141821Z",
+  "model": "glm-5.3"
+}

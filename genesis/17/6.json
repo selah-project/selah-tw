@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "genesis 17:6", "book": "genesis", "lang": "tw", "chapter": 17, "translation": "Na mɛma ⟨את⟩ wo dwoɔ ayɛ dedaw ara, na mɛyɛ wo aman, na ahemfo bɛfiri wo mu aba.", "tokens": [{"surface": "והפרתי", "gloss": "na mɛma wo dwoɔ ayɛ"}, {"surface": "אתך", "gloss": "⟨את⟩ wo", "marks": "wo"}, {"surface": "במאד", "gloss": "dedaw ara"}, {"surface": "מאד", "gloss": "dodo ara"}, {"surface": "ונתתיך", "gloss": "na mɛyɛ wo"}, {"surface": "לגוים", "gloss": "aman"}, {"surface": "ומלכים", "gloss": "na ahemfo"}, {"surface": "ממך", "gloss": "wo mu"}, {"surface": "יצאו", "gloss": "bɛfiri aba"}], "timestamp": "2026-09-15T20:22:25.276319508Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na mɛma ⟨את⟩ wo dwoɔ ayɛ dedaw ara, na mɛyɛ wo aman, na ahemfo bɛfiri wo mu aba.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "na mɛma wo dwoɔ ayɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "dedaw ara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dodo ara"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "na mɛyɛ wo"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "na ahemfo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bɛfiri aba"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:25.276319508Z",
+  "model": "glm-5.3"
+}

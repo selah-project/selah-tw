@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":10,"ref":"leviticus 6:10","book":"leviticus","lang":"tw","chapter":6,"translation":"Wɔmmfa yafunu nnyera mu; wɔama no sɛ wɔn kyɛfa ⟨את⟩ firi m'ogyaserefoɔ mu; kronkron kronkron ne, te sɛ bɔne-yɛ asoma no, na te sɛ ka-no asoma no.","tokens":[{"surface":"לא","gloss":"wɔmmfa"},{"surface":"תאפה","gloss":"nnyera mu"},{"surface":"חמץ","gloss":"yafunu"},{"surface":"חלקם","gloss":"wɔn kyɛfa"},{"surface":"נתתי","gloss":"wɔama no sɛ"},{"surface":"אתה","gloss":"⟨את⟩","marks":"no"},{"surface":"מאשי","gloss":"firi m'ogyaserefoɔ mu"},{"surface":"קדש","gloss":"kronkron"},{"surface":"קדשים","gloss":"kronkron"},{"surface":"הוא","gloss":"ne"},{"surface":"כחטאת","gloss":"te sɛ bɔne-yɛ asoma no"},{"surface":"וכאשם","gloss":"na te sɛ ka-no asoma no"}],"timestamp":"2026-09-15T21:09:42.911563285Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Wɔmmfa yafunu nnyera mu; wɔama no sɛ wɔn kyɛfa ⟨את⟩ firi m'ogyaserefoɔ mu; kronkron kronkron ne, te sɛ bɔne-yɛ asoma no, na te sɛ ka-no asoma no.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wɔmmfa"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "nnyera mu"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "yafunu"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "wɔn kyɛfa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "wɔama no sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "firi m'ogyaserefoɔ mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "te sɛ bɔne-yɛ asoma no"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "na te sɛ ka-no asoma no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:42.911563285Z",
+  "model": "glm-5.3"
+}

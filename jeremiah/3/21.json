@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "jeremiah 3:21", "book": "jeremiah", "lang": "tw", "chapter": 3, "translation": "Nne wɔ mmɔnten atifi so — Yisraelfoɔ mma awerɛhoɔ ne mmɔborɔhunu — ɛfiri sɛ wɔkyerɛɛw ⟨את⟩ wɔn kwan, wɔwerɛfii Yawe, ⟨את⟩ wɔn Eloohim.", "tokens": [{"surface": "קול", "gloss": "nne"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "שפיים", "gloss": "mmɔnten atifi"}, {"surface": "נשמע", "gloss": "wote"}, {"surface": "בכי", "gloss": "awerɛhoɔ"}, {"surface": "תחנוני", "gloss": "mmɔborɔhunu"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisraelfoɔ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "העוו", "gloss": "wɔkyerɛɛw"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn kwan"}, {"surface": "דרכם", "gloss": "wɔn kwan"}, {"surface": "שכחו", "gloss": "wɔwerɛfii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיהם", "gloss": "wɔn Eloohim"}], "timestamp": "2026-09-16T00:06:02.797938738Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Nne wɔ mmɔnten atifi so — Yisraelfoɔ mma awerɛhoɔ ne mmɔborɔhunu — ɛfiri sɛ wɔkyerɛɛw ⟨את⟩ wɔn kwan, wɔwerɛfii Yawe, ⟨את⟩ wɔn Eloohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "mmɔnten atifi"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "awerɛhoɔ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mmɔborɔhunu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "wɔkyerɛɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn kwan"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "wɔn kwan"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "wɔwerɛfii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T00:06:02.797938738Z",
+  "model": "glm-5.3"
+}

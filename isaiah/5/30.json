@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":30,"ref":"isaiah 5:30","book":"isaiah","lang":"tw","chapter":5,"translation":"Na ⟨wɔ⟩bɛto ano wɔ so wɔ saa da no mu sɛnea ɛpo to ano; na wɔhwɛ asase no so, na hwɛ — sumɔ, ɛhaw; na hann no somu wɔ n'osuo mu.","tokens":[{"surface":"וינהם","gloss":"na wɔbɛto ano"},{"surface":"עליו","gloss":"wɔ so"},{"surface":"ביום","gloss":"wɔ da mu"},{"surface":"ההוא","gloss":"saa"},{"surface":"כנהמת","gloss":"sɛnea ... to ano"},{"surface":"ים","gloss":"ɛpo"},{"surface":"ונבט","gloss":"na wɔhwɛ"},{"surface":"לארץ","gloss":"asase no so"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"חשך","gloss":"sumɔ"},{"surface":"צר","gloss":"ɛhaw"},{"surface":"ואור","gloss":"na hann no"},{"surface":"חשך","gloss":"somu"},{"surface":"בעריפיה","gloss":"wɔ n'osuo mu"}],"timestamp":"2026-09-15T23:40:26.109065705Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 5:30",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na ⟨wɔ⟩bɛto ano wɔ so wɔ saa da no mu sɛnea ɛpo to ano; na wɔhwɛ asase no so, na hwɛ — sumɔ, ɛhaw; na hann no somu wɔ n'osuo mu.",
+  "tokens": [
+    {
+      "surface": "וינהם",
+      "gloss": "na wɔbɛto ano"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wɔ so"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "כנהמת",
+      "gloss": "sɛnea ... to ano"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "ונבט",
+      "gloss": "na wɔhwɛ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sumɔ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɛhaw"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na hann no"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "somu"
+    },
+    {
+      "surface": "בעריפיה",
+      "gloss": "wɔ n'osuo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:26.109065705Z",
+  "model": "glm-5.3"
+}

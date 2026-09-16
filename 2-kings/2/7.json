@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"2-kings 2:7","book":"2-kings","lang":"tw","chapter":2,"translation":"Nnabihi mma nkyimfoɔ aduonum kɔɔ, na wɔgyinaa wɔ akyirikyiri; wɔn baanu no nso gyinaa Yarden asuo no ho.","tokens":[{"surface":"וחמשים","gloss":"aduonum"},{"surface":"איש","gloss":"nkyimfoɔ"},{"surface":"מבני","gloss":"mma"},{"surface":"הנביאים","gloss":"nnabihi"},{"surface":"הלכו","gloss":"kɔɔ"},{"surface":"ויעמדו","gloss":"wɔgyinaa"},{"surface":"מנגד","gloss":"wɔ ho"},{"surface":"מרחוק","gloss":"akyirikyiri"},{"surface":"ושניהם","gloss":"wɔn baanu no"},{"surface":"עמדו","gloss":"gyinaa"},{"surface":"על","gloss":"ho"},{"surface":"הירדן","gloss":"Yarden"}],"timestamp":"2026-09-16T05:21:26.106940581Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 2:7",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Nnabihi mma nkyimfoɔ aduonum kɔɔ, na wɔgyinaa wɔ akyirikyiri; wɔn baanu no nso gyinaa Yarden asuo no ho.",
+  "tokens": [
+    {
+      "surface": "וחמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nkyimfoɔ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nnabihi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wɔgyinaa"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "wɔ ho"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "akyirikyiri"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "wɔn baanu no"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-16T05:21:26.106940581Z",
+  "model": "glm-5.3"
+}

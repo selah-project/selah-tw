@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "2-samuel 12:14", "book": "2-samuel", "lang": "tw", "chapter": 12, "translation": "Nanso ɛfiri sɛ wobuu Yawe ⟨את⟩ atamfoɔ animtia wɔ asɛm yi mu, ɛno nti deɛ, ɔba a wɔwoo no ma wo no, ɔbɛtwu ampa.", "tokens": [{"surface": "אפס", "gloss": "ɛno nti deɛ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "נאץ", "gloss": "wobuu ... animtia"}, {"surface": "נאצת", "gloss": "(nfatoho) animtia"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe atamfoɔ"}, {"surface": "איבי", "gloss": "atamfoɔ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "בדבר", "gloss": "wɔ asɛm"}, {"surface": "הזה", "gloss": "yi mu"}, {"surface": "גם", "gloss": "nso"}, {"surface": "הבן", "gloss": "ɔba"}, {"surface": "הילוד", "gloss": "a wɔwoo no"}, {"surface": "לך", "gloss": "ma wo"}, {"surface": "מות", "gloss": "bɛtwu"}, {"surface": "ימות", "gloss": "ampa"}], "timestamp": "2026-09-15T23:03:46.791691099Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Nanso ɛfiri sɛ wobuu Yawe ⟨את⟩ atamfoɔ animtia wɔ asɛm yi mu, ɛno nti deɛ, ɔba a wɔwoo no ma wo no, ɔbɛtwu ampa.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "ɛno nti deɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "wobuu ... animtia"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "(nfatoho) animtia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe atamfoɔ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "atamfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "wɔ asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ɔba"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "a wɔwoo no"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bɛtwu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ampa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:46.791691099Z",
+  "model": "glm-5.3"
+}

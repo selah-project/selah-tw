@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "proverbs 27:22", "book": "proverbs", "lang": "tw", "chapter": 27, "translation": "Sɛ wode ⟨את⟩ ɔkwasea bɔɔ mu wɔ aduane-kwan mu, wɔ aburoo a wɔabɔ mu mu, a ɔkɔmmɔ ne dwuma — ne kwaseasɛm rennya firi ne so.", "tokens": [{"surface": "אם", "gloss": "sɛ"}, {"surface": "תכתוש", "gloss": "wode ... bɔɔ mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔkwasea"}, {"surface": "האויל", "gloss": "ɔkwasea"}, {"surface": "במכתש", "gloss": "wɔ aduane-kwan mu"}, {"surface": "בתוך", "gloss": "wɔ ... mu"}, {"surface": "הריפות", "gloss": "aburoo a wɔabɔ mu"}, {"surface": "בעלי", "gloss": "ɔkɔmmɔ ne dwuma"}, {"surface": "לא", "gloss": "rennya"}, {"surface": "תסור", "gloss": "firi"}, {"surface": "מעליו", "gloss": "ne so"}, {"surface": "אולתו", "gloss": "ne kwaseasɛm"}], "timestamp": "2026-09-16T03:02:13.039037537Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Sɛ wode ⟨את⟩ ɔkwasea bɔɔ mu wɔ aduane-kwan mu, wɔ aburoo a wɔabɔ mu mu, a ɔkɔmmɔ ne dwuma — ne kwaseasɛm rennya firi ne so.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "wode ... bɔɔ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔkwasea"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "ɔkwasea"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "wɔ aduane-kwan mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "aburoo a wɔabɔ mu"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ɔkɔmmɔ ne dwuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rennya"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "firi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "ne kwaseasɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T03:02:13.039037537Z",
+  "model": "glm-5.3"
+}

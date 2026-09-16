@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":35,"ref":"1-kings 7:35","book":"1-kings","lang":"tw","chapter":7,"translation":"Na wɔ nnyinasoɔ no atifi no, ɛkɔ soro bɛyɛ amma no fã, ɛyɛ kurukuruwa a atwa ho hyia; na wɔ nnyinasoɔ no atifi no, ne nsa ne ne nsɛsoɔ fi mu.","tokens":[{"surface":"ובראש","gloss":"na wɔ atifi"},{"surface":"המכונה","gloss":"nnyinasoɔ no"},{"surface":"חצי","gloss":"fã"},{"surface":"האמה","gloss":"amma no"},{"surface":"קומה","gloss":"sorokɔ"},{"surface":"עגל","gloss":"kurukuruwa"},{"surface":"סביב","gloss":"atwa ho hyia"},{"surface":"ועל","gloss":"na wɔ so"},{"surface":"ראש","gloss":"atifi"},{"surface":"המכנה","gloss":"nnyinasoɔ no"},{"surface":"ידתיה","gloss":"ne nsa"},{"surface":"ומסגרתיה","gloss":"ne nsɛsoɔ"},{"surface":"ממנה","gloss":"fi mu"}],"timestamp":"2026-09-15T23:15:56.327320084Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 7:35",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na wɔ nnyinasoɔ no atifi no, ɛkɔ soro bɛyɛ amma no fã, ɛyɛ kurukuruwa a atwa ho hyia; na wɔ nnyinasoɔ no atifi no, ne nsa ne ne nsɛsoɔ fi mu.",
+  "tokens": [
+    {
+      "surface": "ובראש",
+      "gloss": "na wɔ atifi"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "nnyinasoɔ no"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "fã"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amma no"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "sorokɔ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kurukuruwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atwa ho hyia"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "nnyinasoɔ no"
+    },
+    {
+      "surface": "ידתיה",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ומסגרתיה",
+      "gloss": "ne nsɛsoɔ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "fi mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:15:56.327320084Z",
+  "model": "glm-5.3"
+}

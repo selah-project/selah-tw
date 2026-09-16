@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "1-chronicles 15:16", "book": "1-chronicles", "lang": "tw", "chapter": 15, "translation": "Dawid kaa kyɛm sɛ Levifoɔ no atitire, sɛ wɔnsisi ⟨את⟩ wɔn nuanom a wɔto nnwom no sɛ wɔnni nnwom mfiri — nnua akɛseɛ, kinnor nnua, ne nsɛnnua a wɔbɔ bom — sɛ wɔn nne bɛso den ama wɔ ate wɔ anigyeɛ mu.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyɛm sɛ"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "לשרי", "gloss": "atitire"}, {"surface": "הלוים", "gloss": "Levifoɔ no"}, {"surface": "להעמיד", "gloss": "sɛ wɔnsisi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nuanom a wɔto nnwom"}, {"surface": "אחיהם", "gloss": "wɔn nuanom"}, {"surface": "המשררים", "gloss": "a wɔto nnwom"}, {"surface": "בכלי", "gloss": "nnwom mfiri"}, {"surface": "שיר", "gloss": "nnwom"}, {"surface": "נבלים", "gloss": "nnua akɛseɛ"}, {"surface": "וכנרות", "gloss": "kinnor nnua"}, {"surface": "ומצלתים", "gloss": "nsɛnnua a wɔbɔ bom"}, {"surface": "משמיעים", "gloss": "sɛ wɔn nne bɛso den ama wɔ ate"}, {"surface": "להרים", "gloss": "bɛso den"}, {"surface": "בקול", "gloss": "nne"}, {"surface": "לשמחה", "gloss": "anigyeɛ mu"}], "timestamp": "2026-09-16T04:45:07.072512976Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 15:16",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Dawid kaa kyɛm sɛ Levifoɔ no atitire, sɛ wɔnsisi ⟨את⟩ wɔn nuanom a wɔto nnwom no sɛ wɔnni nnwom mfiri — nnua akɛseɛ, kinnor nnua, ne nsɛnnua a wɔbɔ bom — sɛ wɔn nne bɛso den ama wɔ ate wɔ anigyeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛm sɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "atitire"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levifoɔ no"
+    },
+    {
+      "surface": "להעמיד",
+      "gloss": "sɛ wɔnsisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nuanom a wɔto nnwom"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "wɔn nuanom"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "a wɔto nnwom"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "nnwom mfiri"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "nnua akɛseɛ"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "kinnor nnua"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "nsɛnnua a wɔbɔ bom"
+    },
+    {
+      "surface": "משמיעים",
+      "gloss": "sɛ wɔn nne bɛso den ama wɔ ate"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "bɛso den"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "לשמחה",
+      "gloss": "anigyeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:45:07.072512976Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 11:4","book":"psalms","lang":"tw","chapter":11,"translation":"Yawe wɔ ⟨no⟩ asɔredan kronkron mu; Yawe n'ahennwa wɔ ɔsoro mu. N'aniwa hwɛ; n'ani mmerɛnhwɛ so sɔhwɛ onipa mma.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"בהיכל","gloss":"asɔredan mu"},{"surface":"קדשו","gloss":"asɔredan kronkron"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בשמים","gloss":"ɔsoro mu"},{"surface":"כסאו","gloss":"n'ahennwa"},{"surface":"עיניו","gloss":"n'aniwa"},{"surface":"יחזו","gloss":"hwɛ"},{"surface":"עפעפיו","gloss":"n'ani mmerɛnhwɛ"},{"surface":"יבחנו","gloss":"sɔhwɛ"},{"surface":"בני","gloss":"mma"},{"surface":"אדם","gloss":"onipa"}],"timestamp":"2026-09-16T01:39:02.071688461Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yawe wɔ ⟨no⟩ asɔredan kronkron mu; Yawe n'ahennwa wɔ ɔsoro mu. N'aniwa hwɛ; n'ani mmerɛnhwɛ so sɔhwɛ onipa mma.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "asɔredan mu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "asɔredan kronkron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ɔsoro mu"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "n'ahennwa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "n'aniwa"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "n'ani mmerɛnhwɛ"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "sɔhwɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:39:02.071688461Z",
+  "model": "glm-5.3"
+}

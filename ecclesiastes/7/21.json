@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "ecclesiastes 7:21", "book": "ecclesiastes", "lang": "tw", "chapter": 7, "translation": "Nso, nsɛm biara a wɔbɛka no, mma wo akoma nka mu, sɛdeɛ ɛbɛyɛ a wonnte sɛ ⟨את⟩ wo akoa refo wo.", "tokens": [{"surface": "גם", "gloss": "Nso"}, {"surface": "לכל", "gloss": "biara"}, {"surface": "הדברים", "gloss": "nsɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ידברו", "gloss": "wɔbɛka"}, {"surface": "אל", "gloss": "mma"}, {"surface": "תתן", "gloss": "ma"}, {"surface": "לבך", "gloss": "wo akoma"}, {"surface": "אשר", "gloss": "sɛdeɛ ɛbɛyɛ a"}, {"surface": "לא", "gloss": "nn-"}, {"surface": "תשמע", "gloss": "wote"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo akoa"}, {"surface": "עבדך", "gloss": "wo akoa"}, {"surface": "מקללך", "gloss": "refo wo"}], "timestamp": "2026-09-16T03:55:00.022337907Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Nso, nsɛm biara a wɔbɛka no, mma wo akoma nka mu, sɛdeɛ ɛbɛyɛ a wonnte sɛ ⟨את⟩ wo akoa refo wo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wɔbɛka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛdeɛ ɛbɛyɛ a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "wote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo akoa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoa"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "refo wo"
+    }
+  ],
+  "timestamp": "2026-09-16T03:55:00.022337907Z",
+  "model": "glm-5.3"
+}

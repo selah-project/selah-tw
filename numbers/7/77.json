@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":77,"ref":"numbers 7:77","book":"numbers","lang":"tw","chapter":7,"translation":"Na wɔn a wɔde baa asomdwoeɛ afɔdeɛ mu no: anantwie mmienu, nantwiebɔfoɔ anum, ɔpampam anum, oguan a wɔadi afe baako anum — wei ne Pagiel, Okran ba, de baeɛ.","tokens":[{"surface":"ולזבח","gloss":"Na wɔn a wɔde baa asomdwoeɛ afɔdeɛ mu no"},{"surface":"השלמים","gloss":"asomdwoeɛ afɔdeɛ"},{"surface":"בקר","gloss":"anantwie"},{"surface":"שנים","gloss":"mmienu"},{"surface":"אילם","gloss":"nantwiebɔfoɔ"},{"surface":"חמשה","gloss":"anum"},{"surface":"עתדים","gloss":"ɔpampam"},{"surface":"חמשה","gloss":"anum"},{"surface":"כבשים","gloss":"oguan"},{"surface":"בני","gloss":"a wɔadi"},{"surface":"שנה","gloss":"afe baako"},{"surface":"חמשה","gloss":"anum"},{"surface":"זה","gloss":"wei"},{"surface":"קרבן","gloss":"afɔdeɛ"},{"surface":"פגעיאל","gloss":"Pagiel"},{"surface":"בן","gloss":"ba"},{"surface":"עכרן","gloss":"Okran"}],"timestamp":"2026-09-15T21:29:06.077799475Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "numbers 7:77",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na wɔn a wɔde baa asomdwoeɛ afɔdeɛ mu no: anantwie mmienu, nantwiebɔfoɔ anum, ɔpampam anum, oguan a wɔadi afe baako anum — wei ne Pagiel, Okran ba, de baeɛ.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "Na wɔn a wɔde baa asomdwoeɛ afɔdeɛ mu no"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "asomdwoeɛ afɔdeɛ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "nantwiebɔfoɔ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "anum"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "ɔpampam"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "anum"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "oguan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a wɔadi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe baako"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "anum"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wei"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "afɔdeɛ"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Pagiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Okran"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:06.077799475Z",
+  "model": "glm-5.3"
+}

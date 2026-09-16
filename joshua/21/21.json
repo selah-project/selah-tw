@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "joshua 21:21", "book": "joshua", "lang": "tw", "chapter": 21, "translation": "Wɔmaa wɔn ⟨את⟩ mmoankɔteɛ ⟨את⟩ kurow ma ɔkumfoɔ, ⟨את⟩ Shekem ne ⟨את⟩ n'adwadie asase wɔ Efraim bepɔ mu, ne ⟨את⟩ Gezer ne n'adwadie asase.", "tokens": [{"surface": "ויתנו", "gloss": "Wɔmaa"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mmoankɔteɛ kurow"}, {"surface": "עיר", "gloss": "kurow"}, {"surface": "מקלט", "gloss": "mmoankɔteɛ"}, {"surface": "הרצח", "gloss": "ma ɔkumfoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Shekem"}, {"surface": "שכם", "gloss": "Shekem"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "n'adwadie asase"}, {"surface": "מגרשה", "gloss": "n'adwadie asase"}, {"surface": "בהר", "gloss": "bepɔ mu"}, {"surface": "אפרים", "gloss": "Efraim"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Gezer"}, {"surface": "גזר", "gloss": "Gezer"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "n'adwadie asase"}, {"surface": "מגרשה", "gloss": "n'adwadie asase"}], "timestamp": "2026-09-15T22:08:32.720038623Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wɔmaa wɔn ⟨את⟩ mmoankɔteɛ ⟨את⟩ kurow ma ɔkumfoɔ, ⟨את⟩ Shekem ne ⟨את⟩ n'adwadie asase wɔ Efraim bepɔ mu, ne ⟨את⟩ Gezer ne n'adwadie asase.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Wɔmaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmoankɔteɛ kurow"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "mmoankɔteɛ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ma ɔkumfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'adwadie asase"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "n'adwadie asase"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bepɔ mu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'adwadie asase"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "n'adwadie asase"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:32.720038623Z",
+  "model": "glm-5.3"
+}

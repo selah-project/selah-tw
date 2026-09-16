@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 71:4","book":"psalms","lang":"tw","chapter":71,"translation":"Eloohim, gye me fi bɔnefoɔ no nsa mu, fi obi a ɔyɛ nkontompo ne ɔdehyeɛ no nsa mu.","tokens":[{"surface":"אלהי","gloss":"Eloohim"},{"surface":"פלטני","gloss":"gye me"},{"surface":"מיד","gloss":"fi... nsa mu"},{"surface":"רשע","gloss":"bɔnefoɔ no"},{"surface":"מכף","gloss":"fi... nsa mu"},{"surface":"מעול","gloss":"nkontompo"},{"surface":"וחומץ","gloss":"ne ɔdehyeɛ"}],"timestamp":"2026-09-16T02:06:01.998198483Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 71,
+  "translation": "Eloohim, gye me fi bɔnefoɔ no nsa mu, fi obi a ɔyɛ nkontompo ne ɔdehyeɛ no nsa mu.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "gye me"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fi... nsa mu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bɔnefoɔ no"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "fi... nsa mu"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "nkontompo"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ne ɔdehyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:01.998198483Z",
+  "model": "glm-5.3"
+}

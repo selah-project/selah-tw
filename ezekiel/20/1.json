@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "ezekiel 20:1", "book": "ezekiel", "lang": "tw", "chapter": 20, "translation": "Sɛ afe a ɛtɔ so nson no mu, ɔsram a ɛtɔ so enum no da a ɛtɔ so du no, Yisraɛl mpanimfoɔ bi baeɛ bɛbisa ⟨את⟩ Yawe; na wɔtenaeɛ me anim.", "tokens": [{"surface": "ויהי", "gloss": "Sɛ ... no mu (ɛbaa)"}, {"surface": "בשנה", "gloss": "afe no mu"}, {"surface": "השביעית", "gloss": "a ɛtɔ so nson"}, {"surface": "בחמשי", "gloss": "a ɛtɔ so enum (ɔsram no mu)"}, {"surface": "בעשור", "gloss": "da a ɛtɔ so du"}, {"surface": "לחדש", "gloss": "ɔsram no"}, {"surface": "באו", "gloss": "baeɛ"}, {"surface": "אנשים", "gloss": "nnipa bi"}, {"surface": "מזקני", "gloss": "mpanimfoɔ"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "לדרש", "gloss": "bɛbisa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "וישבו", "gloss": "na wɔtenaeɛ"}, {"surface": "לפני", "gloss": "me anim"}], "timestamp": "2026-09-16T00:42:28.929776408Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 20:1",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Sɛ afe a ɛtɔ so nson no mu, ɔsram a ɛtɔ so enum no da a ɛtɔ so du no, Yisraɛl mpanimfoɔ bi baeɛ bɛbisa ⟨את⟩ Yawe; na wɔtenaeɛ me anim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sɛ ... no mu (ɛbaa)"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "afe no mu"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "a ɛtɔ so nson"
+    },
+    {
+      "surface": "בחמשי",
+      "gloss": "a ɛtɔ so enum (ɔsram no mu)"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "da a ɛtɔ so du"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ɔsram no"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baeɛ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "nnipa bi"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "bɛbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na wɔtenaeɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "me anim"
+    }
+  ],
+  "timestamp": "2026-09-16T00:42:28.929776408Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,128 @@
-{"tier":"glm-5.2","verse":6,"ref":"nehemiah 9:6","book":"nehemiah","lang":"tw","chapter":9,"translation":"Wone ⟨no⟩ Yawe, wo nko ara; ⟨את⟩ wode bɔɔ ⟨את⟩ ɔsoro, ⟨את⟩ ɔsoro a ɛwɔ ɔsoro so ne wɔn asraa nyinaa, asase ne deɛ ɛwɔ so nyinaa, nsuo ahodoɔ ne deɛ ɛwɔ mu nyinaa, na wote ase wɔn nyinaa; na ɔsoro asraa no da w'anim butu.","tokens":[{"surface":"אתה","gloss":"Wo"},{"surface":"הוא","gloss":"⟩⟨no⟩"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לבדך","gloss":"wo nko ara"},{"surface":"את","gloss":"⟨את⟩","marks":"wode bɔɔ"},{"surface":"עשית","gloss":"wode bɔɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔsoro"},{"surface":"השמים","gloss":"ɔsoro"},{"surface":"שמי","gloss":"ɔsoro"},{"surface":"השמים","gloss":"ɔsoro a ɛwɔ ɔsoro so"},{"surface":"וכל","gloss":"ne ... nyinaa"},{"surface":"צבאם","gloss":"wɔn asraa"},{"surface":"הארץ","gloss":"asase"},{"surface":"וכל","gloss":"ne deɛ ... nyinaa"},{"surface":"אשר","gloss":"deɛ"},{"surface":"עליה","gloss":"ɛwɔ so"},{"surface":"הימים","gloss":"nsuo ahodoɔ"},{"surface":"וכל","gloss":"ne deɛ ... nyinaa"},{"surface":"אשר","gloss":"deɛ"},{"surface":"בהם","gloss":"ɛwɔ mu"},{"surface":"ואתה","gloss":"na wo"},{"surface":"מחיה","gloss":"te ase"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn nyinaa"},{"surface":"כלם","gloss":"wɔn nyinaa"},{"surface":"וצבא","gloss":"na ... asraa"},{"surface":"השמים","gloss":"ɔsoro"},{"surface":"לך","gloss":"w'anim"},{"surface":"משתחוים","gloss":"da butu"}],"timestamp":"2026-09-16T04:31:59.062839876Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 9:6",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wone ⟨no⟩ Yawe, wo nko ara; ⟨את⟩ wode bɔɔ ⟨את⟩ ɔsoro, ⟨את⟩ ɔsoro a ɛwɔ ɔsoro so ne wɔn asraa nyinaa, asase ne deɛ ɛwɔ so nyinaa, nsuo ahodoɔ ne deɛ ɛwɔ mu nyinaa, na wote ase wɔn nyinaa; na ɔsoro asraa no da w'anim butu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟩⟨no⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wo nko ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wode bɔɔ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wode bɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro a ɛwɔ ɔsoro so"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "wɔn asraa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne deɛ ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɛwɔ so"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nsuo ahodoɔ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne deɛ ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɛwɔ mu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "te ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nyinaa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "וצבא",
+      "gloss": "na ... asraa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "da butu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:31:59.062839876Z",
+  "model": "glm-5.3"
+}

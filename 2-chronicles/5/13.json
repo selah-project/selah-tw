@@ -1,1 +1,125 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-chronicles 5:13","book":"2-chronicles","lang":"tw","chapter":5,"translation":"Na ɛbɛyɛɛ sɛ wɔbɛyɛ adwuma sɛ ɔbaako — awerefoɔ ne nnwontofoɔ — de sɛdeɛ nne baako bɛtee, a wɔrehyira Yawe na wɔreda nhyira ase; na wɔberee wɔn nne so wɔ awere mu, wɔ nnwinnua mu, ne nnwom nnwinnua mu, na wɔhyiraa Yawe, sɛ: ɛyɛ dɛ, ɛfiri sɛ n'ahotere⟨hesed⟩ gyina daa; na Yawe fie hyɛɛ ma ɛyɛɛ nnom — Yawe fie.","tokens":[{"surface":"ויהי","gloss":"ɛbɛyɛɛ"},{"surface":"כאחד","gloss":"sɛ ɔbaako"},{"surface":"למחצצרים","gloss":"awerefoɔ"},{"surface":"ולמשררים","gloss":"ne nnwontofoɔ"},{"surface":"להשמיע","gloss":"de sɛdeɛ ... bɛtee"},{"surface":"קול","gloss":"nne"},{"surface":"אחד","gloss":"baako"},{"surface":"להלל","gloss":"a wɔrehyira"},{"surface":"ולהדות","gloss":"na wɔreda nhyira ase"},{"surface":"ליהוה","gloss":"Yawe"},{"surface":"וכהרים","gloss":"na wɔberee wɔn nne so"},{"surface":"קול","gloss":"nne"},{"surface":"בחצצרות","gloss":"wɔ awere mu"},{"surface":"ובמצלתים","gloss":"wɔ nnwinnua mu"},{"surface":"ובכלי","gloss":"ne nnwom nnwinnua"},{"surface":"השיר","gloss":"nnwom"},{"surface":"ובהלל","gloss":"na wɔhyiraa"},{"surface":"ליהוה","gloss":"Yawe"},{"surface":"כי","gloss":"sɛ"},{"surface":"טוב","gloss":"ɛyɛ dɛ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"לעולם","gloss":"gyina daa"},{"surface":"חסדו","gloss":"n'ahotere⟨hesed⟩"},{"surface":"והבית","gloss":"na fie no"},{"surface":"מלא","gloss":"hyɛɛ ma"},{"surface":"ענן","gloss":"nnom"},{"surface":"בית","gloss":"fie"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T04:54:34.498138915Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 5:13",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na ɛbɛyɛɛ sɛ wɔbɛyɛ adwuma sɛ ɔbaako — awerefoɔ ne nnwontofoɔ — de sɛdeɛ nne baako bɛtee, a wɔrehyira Yawe na wɔreda nhyira ase; na wɔberee wɔn nne so wɔ awere mu, wɔ nnwinnua mu, ne nnwom nnwinnua mu, na wɔhyiraa Yawe, sɛ: ɛyɛ dɛ, ɛfiri sɛ n'ahotere⟨hesed⟩ gyina daa; na Yawe fie hyɛɛ ma ɛyɛɛ nnom — Yawe fie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbɛyɛɛ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "sɛ ɔbaako"
+    },
+    {
+      "surface": "למחצצרים",
+      "gloss": "awerefoɔ"
+    },
+    {
+      "surface": "ולמשררים",
+      "gloss": "ne nnwontofoɔ"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "de sɛdeɛ ... bɛtee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "a wɔrehyira"
+    },
+    {
+      "surface": "ולהדות",
+      "gloss": "na wɔreda nhyira ase"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכהרים",
+      "gloss": "na wɔberee wɔn nne so"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "wɔ awere mu"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "wɔ nnwinnua mu"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "ne nnwom nnwinnua"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "ובהלל",
+      "gloss": "na wɔhyiraa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ dɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "gyina daa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "n'ahotere⟨hesed⟩"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na fie no"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hyɛɛ ma"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "nnom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T04:54:34.498138915Z",
+  "model": "glm-5.3"
+}

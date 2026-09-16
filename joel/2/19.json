@@ -1,1 +1,92 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "joel 2:19", "book": "joel", "lang": "tw", "chapter": 2, "translation": "Na Yawe buaa, na ɔka kyerɛɛ ne nkurɔfoɔ se: Menewɔ, meresoma mo ⟨את⟩ aburoo no, ne nsa foforɔ, ne ngo no, na mo bɛsɔ; ⟨את⟩ na mere nsa ⟨את⟩ mo bio ayɛ animguaseɛ wɔ aman mu.", "tokens": [{"surface": "ויען", "gloss": "na ɔbuaa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ויאמר", "gloss": "ka kyerɛɛ"}, {"surface": "לעמו", "gloss": "ne nkurɔfoɔ"}, {"surface": "הנני", "gloss": "Menewɔ"}, {"surface": "שלח", "gloss": "meresoma"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "aburoo no"}, {"surface": "הדגן", "gloss": "aburoo no"}, {"surface": "והתירוש", "gloss": "ne nsa foforɔ"}, {"surface": "והיצהר", "gloss": "ne ngo no"}, {"surface": "ושבעתם", "gloss": "na mo bɛsɔ"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "ולא", "gloss": "na mere nsa"}, {"surface": "אתן", "gloss": "mfa"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "חרפה", "gloss": "ayɛ animguaseɛ"}, {"surface": "בגוים", "gloss": "wɔ aman mu"}], "timestamp": "2026-09-16T01:10:39.031370986Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joel 2:19",
+  "book": "joel",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Yawe buaa, na ɔka kyerɛɛ ne nkurɔfoɔ se: Menewɔ, meresoma mo ⟨את⟩ aburoo no, ne nsa foforɔ, ne ngo no, na mo bɛsɔ; ⟨את⟩ na mere nsa ⟨את⟩ mo bio ayɛ animguaseɛ wɔ aman mu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "na ɔbuaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kyerɛɛ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ne nkurɔfoɔ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Menewɔ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "meresoma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aburoo no"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "aburoo no"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "ne nsa foforɔ"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "ne ngo no"
+    },
+    {
+      "surface": "ושבעתם",
+      "gloss": "na mo bɛsɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mere nsa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mfa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ayɛ animguaseɛ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ aman mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:10:39.031370986Z",
+  "model": "glm-5.3"
+}

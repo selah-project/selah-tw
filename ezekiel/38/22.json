@@ -1,1 +1,89 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "ezekiel 38:22", "book": "ezekiel", "lang": "tw", "chapter": 38, "translation": "Na mɛbu atɛn ⟨את⟩ no wɔ yadeɛ mu ne mogya mu; na osuo a ɛtoɔ nsu, ne aboɔ elgabish, ogya ne nsulfɔre na mɛma nsuo ntɔ agu ne so, ne ne nnwompe so, ne aman pii a wɔne ⟨את⟩ no wɔ hɔ no so.", "tokens": [{"surface": "ונשפטתי", "gloss": "na mɛbu atɛn"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "בדבר", "gloss": "wɔ yadeɛ mu"}, {"surface": "ובדם", "gloss": "ne mogya mu"}, {"surface": "וגשם", "gloss": "na osuo"}, {"surface": "שוטף", "gloss": "a ɛtoɔ nsu"}, {"surface": "ואבני", "gloss": "ne aboɔ"}, {"surface": "אלגביש", "gloss": "elgabish"}, {"surface": "אש", "gloss": "ogya"}, {"surface": "וגפרית", "gloss": "ne nsulfɔre"}, {"surface": "אמטיר", "gloss": "na mɛma nsuo ntɔ agu"}, {"surface": "עליו", "gloss": "ne so"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "אגפיו", "gloss": "ne nnwompe"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "עמים", "gloss": "aman"}, {"surface": "רבים", "gloss": "pii"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}], "timestamp": "2026-09-16T00:55:17.113108004Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 38:22",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na mɛbu atɛn ⟨את⟩ no wɔ yadeɛ mu ne mogya mu; na osuo a ɛtoɔ nsu, ne aboɔ elgabish, ogya ne nsulfɔre na mɛma nsuo ntɔ agu ne so, ne ne nnwompe so, ne aman pii a wɔne ⟨את⟩ no wɔ hɔ no so.",
+  "tokens": [
+    {
+      "surface": "ונשפטתי",
+      "gloss": "na mɛbu atɛn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "wɔ yadeɛ mu"
+    },
+    {
+      "surface": "ובדם",
+      "gloss": "ne mogya mu"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "na osuo"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "a ɛtoɔ nsu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ne aboɔ"
+    },
+    {
+      "surface": "אלגביש",
+      "gloss": "elgabish"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ne nsulfɔre"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "na mɛma nsuo ntɔ agu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "ne nnwompe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:55:17.113108004Z",
+  "model": "glm-5.3"
+}

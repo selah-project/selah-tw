@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-chronicles 17:7","book":"1-chronicles","lang":"tw","chapter":17,"translation":"Na seesei, saa na wobɛka akyerɛ me akɔfoɔ Dawid se: Saa na Yawe Sabaoot ka: Mewo fi nnwan adwuma mu, firi nnwan akyi, sɛ wobɛyɛ ɔkandifoɔ wɔ me nkorɔfoɔ Yisrael so.","tokens":[{"surface":"ועתה","gloss":"na seesei"},{"surface":"כה","gloss":"saa"},{"surface":"תאמר","gloss":"wobɛka"},{"surface":"לעבדי","gloss":"akyerɛ me akɔfoɔ"},{"surface":"לדויד","gloss":"Dawid"},{"surface":"כה","gloss":"saa"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"אני","gloss":"me"},{"surface":"לקחתיך","gloss":"mewoo wo fi"},{"surface":"מן","gloss":"firi"},{"surface":"הנוה","gloss":"nnwan adwuma mu"},{"surface":"מן","gloss":"firi"},{"surface":"אחרי","gloss":"akyi"},{"surface":"הצאן","gloss":"nnwan"},{"surface":"להיות","gloss":"sɛ wobɛyɛ"},{"surface":"נגיד","gloss":"ɔkandifoɔ"},{"surface":"על","gloss":"wɔ ... so"},{"surface":"עמי","gloss":"me nkorɔfoɔ"},{"surface":"ישראל","gloss":"Yisrael"}],"timestamp":"2026-09-16T04:45:31.507503364Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 17:7",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na seesei, saa na wobɛka akyerɛ me akɔfoɔ Dawid se: Saa na Yawe Sabaoot ka: Mewo fi nnwan adwuma mu, firi nnwan akyi, sɛ wobɛyɛ ɔkandifoɔ wɔ me nkorɔfoɔ Yisrael so.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wobɛka"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "akyerɛ me akɔfoɔ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "mewoo wo fi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הנוה",
+      "gloss": "nnwan adwuma mu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sɛ wobɛyɛ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ɔkandifoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-16T04:45:31.507503364Z",
+  "model": "glm-5.3"
+}

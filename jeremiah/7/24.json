@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "jeremiah 7:24", "book": "jeremiah", "lang": "tw", "chapter": 7, "translation": "Nanso wɔantie, na wɔamma ⟨את⟩ wɔn aso mmoa, na wɔkɔɔ wɔn afutusɛm mu ne wɔn akoma bɔne ahomasoare mu; wɔdanee akyiri, ɛnyɛ anim.", "tokens": [{"surface": "ולא", "gloss": "nanso wɔan-"}, {"surface": "שמעו", "gloss": "tie"}, {"surface": "ולא", "gloss": "na wɔan-"}, {"surface": "הטו", "gloss": "amma mmoa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn aso"}, {"surface": "אזנם", "gloss": "wɔn aso"}, {"surface": "וילכו", "gloss": "na wɔkɔɔ"}, {"surface": "במעצות", "gloss": "wɔn afutusɛm mu"}, {"surface": "בשררות", "gloss": "ahomasoare mu"}, {"surface": "לבם", "gloss": "wɔn akoma"}, {"surface": "הרע", "gloss": "bɔne"}, {"surface": "ויהיו", "gloss": "wɔyɛɛ"}, {"surface": "לאחור", "gloss": "akyiri"}, {"surface": "ולא", "gloss": "ɛnyɛ"}, {"surface": "לפנים", "gloss": "anim"}], "timestamp": "2026-09-16T05:28:43.919650586Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 7:24",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Nanso wɔantie, na wɔamma ⟨את⟩ wɔn aso mmoa, na wɔkɔɔ wɔn afutusɛm mu ne wɔn akoma bɔne ahomasoare mu; wɔdanee akyiri, ɛnyɛ anim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nanso wɔan-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔan-"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "amma mmoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn aso"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "wɔn aso"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na wɔkɔɔ"
+    },
+    {
+      "surface": "במעצות",
+      "gloss": "wɔn afutusɛm mu"
+    },
+    {
+      "surface": "בשררות",
+      "gloss": "ahomasoare mu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "akyiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:28:43.919650586Z",
+  "model": "glm-5.3"
+}

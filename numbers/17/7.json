@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":7,"ref":"numbers 17:7","book":"numbers","lang":"tw","chapter":17,"translation":"Ɛbaee sɛ, wɔboaboaa kuw no ano wɔ Mose ne Aharon so no, wɔdan wɔn ani kɔɔ nhyiam tetee no so, na hwɛ, ɛsu no tetee no, na Yawe kɛseyɛ daa adi.","tokens":[{"surface":"ויהי","gloss":"ɛbaee sɛ"},{"surface":"בהקהל","gloss":"wɔboaboaa ... ano wɔ"},{"surface":"העדה","gloss":"kuw no"},{"surface":"על","gloss":"so"},{"surface":"משה","gloss":"Mose"},{"surface":"ועל","gloss":"ne ... so"},{"surface":"אהרן","gloss":"Aharon"},{"surface":"ויפנו","gloss":"wɔdan wɔn ani"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"אהל","gloss":"tetee"},{"surface":"מועד","gloss":"nhyiam"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"כסהו","gloss":"tetee no"},{"surface":"הענן","gloss":"ɛsu no"},{"surface":"וירא","gloss":"daa ... adi"},{"surface":"כבוד","gloss":"kɛseyɛ"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-15T21:33:59.316062098Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 17:7",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Ɛbaee sɛ, wɔboaboaa kuw no ano wɔ Mose ne Aharon so no, wɔdan wɔn ani kɔɔ nhyiam tetee no so, na hwɛ, ɛsu no tetee no, na Yawe kɛseyɛ daa adi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbaee sɛ"
+    },
+    {
+      "surface": "בהקהל",
+      "gloss": "wɔboaboaa ... ano wɔ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kuw no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויפנו",
+      "gloss": "wɔdan wɔn ani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tetee"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "כסהו",
+      "gloss": "tetee no"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ɛsu no"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "daa ... adi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kɛseyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:33:59.316062098Z",
+  "model": "glm-5.3"
+}

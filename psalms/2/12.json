@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 2:12","book":"psalms","lang":"tw","chapter":2,"translation":"Fɛm ɔba no, ancere ɔbɛbo afuw na moayera ɔkwan no so, ɛfiri sɛ sɛ n'abufuo hye kakra a,. Nhyira nka wɔn nyinaa a wɔde wɔn ho to no so.","tokens":[{"surface":"נשקו","gloss":"Fɛm"},{"surface":"בר","gloss":"ɔba no"},{"surface":"פן","gloss":"ancere"},{"surface":"יאנף","gloss":"ɔbɛbo afuw"},{"surface":"ותאבדו","gloss":"na moayera"},{"surface":"דרך","gloss":"ɔkwan no so"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"יבער","gloss":"bɛhye"},{"surface":"כמעט","gloss":"kakra"},{"surface":"אפו","gloss":"n'abufuo"},{"surface":"אשרי","gloss":"Nhyira nka"},{"surface":"כל","gloss":"wɔn nyinaa"},{"surface":"חוסי","gloss":"a wɔde wɔn ho to"},{"surface":"בו","gloss":"no so"}],"timestamp":"2026-09-16T05:39:46.211775444Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Fɛm ɔba no, ancere ɔbɛbo afuw na moayera ɔkwan no so, ɛfiri sɛ sɛ n'abufuo hye kakra a,. Nhyira nka wɔn nyinaa a wɔde wɔn ho to no so.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "Fɛm"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ɔba no"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ancere"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "ɔbɛbo afuw"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "na moayera"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ɔkwan no so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "bɛhye"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kakra"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "n'abufuo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Nhyira nka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "a wɔde wɔn ho to"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:46.211775444Z",
+  "model": "glm-5.3"
+}

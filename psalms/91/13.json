@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":13,"ref":"psalms 91:13","book":"psalms","lang":"tw","chapter":91,"translation":"Wode wo nan si gyata ne ɔwɔ so; wopam gyata ba ne ɔwɔ kɛseɛ so.","tokens":[{"surface":"על","gloss":"so"},{"surface":"שחל","gloss":"gyata"},{"surface":"ופתן","gloss":"ne ɔwɔ"},{"surface":"תדרך","gloss":"wode wo nan si"},{"surface":"תרמס","gloss":"wopam"},{"surface":"כפיר","gloss":"gyata ba"},{"surface":"ותנין","gloss":"ne ɔwɔ kɛseɛ"}],"timestamp":"2026-09-16T02:16:01.768296550Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Wode wo nan si gyata ne ɔwɔ so; wopam gyata ba ne ɔwɔ kɛseɛ so.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "gyata"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ne ɔwɔ"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "wode wo nan si"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "wopam"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "gyata ba"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ne ɔwɔ kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:01.768296550Z",
+  "model": "glm-5.3"
+}

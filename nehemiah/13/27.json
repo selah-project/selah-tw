@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "nehemiah 13:27", "book": "nehemiah", "lang": "tw", "chapter": 13, "translation": "Na mo nso, yɛbɛtie mo na yɛnyɛ bɔne kɛseɛ yi ⟨את⟩ nyinaa, ayɛ mfomusoɔ wɔ yɛn Eloohim ho, na yɛbɛgya amanaman mma?", "tokens": [{"surface": "ולכם", "gloss": "mo nso"}, {"surface": "הנשמע", "gloss": "yɛbɛtie"}, {"surface": "לעשת", "gloss": "na yɛnyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bɔne kɛseɛ yi nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הרעה", "gloss": "bɔne"}, {"surface": "הגדולה", "gloss": "kɛseɛ"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "למעל", "gloss": "ayɛ mfomusoɔ"}, {"surface": "באלהינו", "gloss": "yɛn Eloohim ho"}, {"surface": "להשיב", "gloss": "na yɛbɛgya"}, {"surface": "נשים", "gloss": "mma"}, {"surface": "נכריות", "gloss": "amanaman"}], "timestamp": "2026-09-16T04:33:50.875789566Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 13:27",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na mo nso, yɛbɛtie mo na yɛnyɛ bɔne kɛseɛ yi ⟨את⟩ nyinaa, ayɛ mfomusoɔ wɔ yɛn Eloohim ho, na yɛbɛgya amanaman mma?",
+  "tokens": [
+    {
+      "surface": "ולכם",
+      "gloss": "mo nso"
+    },
+    {
+      "surface": "הנשמע",
+      "gloss": "yɛbɛtie"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "na yɛnyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne kɛseɛ yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "ayɛ mfomusoɔ"
+    },
+    {
+      "surface": "באלהינו",
+      "gloss": "yɛn Eloohim ho"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "na yɛbɛgya"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "amanaman"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:50.875789566Z",
+  "model": "glm-5.3"
+}

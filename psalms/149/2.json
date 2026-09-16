@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 149:2","book":"psalms","lang":"tw","chapter":149,"translation":"Israel mma nyɛ ahurisi wɔ wɔn Bɔfoɔ mu; Tsiyon mma nyɛ anigye wɔ wɔn Ɔhene mu.","tokens":[{"surface":"ישמח","gloss":"nyɛ ahurisi"},{"surface":"ישראל","gloss":"Israel"},{"surface":"בעשיו","gloss":"wɔ wɔn Bɔfoɔ mu"},{"surface":"בני","gloss":"mma"},{"surface":"ציון","gloss":"Tsiyon"},{"surface":"יגילו","gloss":"nyɛ anigye"},{"surface":"במלכם","gloss":"wɔ wɔn Ɔhene mu"}],"timestamp":"2026-09-16T02:41:37.767046509Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 149,
+  "translation": "Israel mma nyɛ ahurisi wɔ wɔn Bɔfoɔ mu; Tsiyon mma nyɛ anigye wɔ wɔn Ɔhene mu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "nyɛ ahurisi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "wɔ wɔn Bɔfoɔ mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "nyɛ anigye"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "wɔ wɔn Ɔhene mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:37.767046509Z",
+  "model": "glm-5.3"
+}

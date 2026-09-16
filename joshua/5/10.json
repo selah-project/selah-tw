@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":10,"ref":"joshua 5:10","book":"joshua","lang":"tw","chapter":5,"translation":"Na Yisrael mma tenaa ase wɔ Gilgal, na wɔyɛɛ ⟨את⟩ Paskah da a ɛtɔ so nnan wɔ bosome no mu, anwummerɛ, wɔ Yeriko nsase so.","tokens":[{"surface":"ויחנו","gloss":"tenaa ase"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"בגלגל","gloss":"wɔ Gilgal"},{"surface":"ויעשו","gloss":"wɔyɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Paskah"},{"surface":"הפסח","gloss":"Paskah"},{"surface":"בארבעה","gloss":"da a ɛtɔ so"},{"surface":"עשר","gloss":"nnan"},{"surface":"יום","gloss":"da"},{"surface":"לחדש","gloss":"wɔ bosome no mu"},{"surface":"בערב","gloss":"anwummerɛ"},{"surface":"בערבות","gloss":"nsase"},{"surface":"יריחו","gloss":"Yeriko"}],"timestamp":"2026-09-15T22:01:14.015353648Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Yisrael mma tenaa ase wɔ Gilgal, na wɔyɛɛ ⟨את⟩ Paskah da a ɛtɔ so nnan wɔ bosome no mu, anwummerɛ, wɔ Yeriko nsase so.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "wɔ Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "da a ɛtɔ so"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wɔ bosome no mu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nsase"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    }
+  ],
+  "timestamp": "2026-09-15T22:01:14.015353648Z",
+  "model": "glm-5.3"
+}

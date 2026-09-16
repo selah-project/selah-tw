@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":14,"ref":"leviticus 14:14","book":"leviticus","lang":"tw","chapter":14,"translation":"Na ɔsɔfoɔ no bɛgye asotwefɔdeɛ no mogya mu bi, na ɔsɔfoɔ no bɛde ahyɛ nifa asɔ ano wɔ nea worehohoro no so, ne nifa nsateaa kɛseɛ so, ne nifa nan kɛseɛ so.","tokens":[{"surface":"ולקח","gloss":"bɛgye"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"מדם","gloss":"firi mogya"},{"surface":"האשם","gloss":"asotwefɔdeɛ no"},{"surface":"ונתן","gloss":"na ... bɛde ahyɛ"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"על","gloss":"so"},{"surface":"תנוך","gloss":"ano"},{"surface":"אזן","gloss":"asɔ"},{"surface":"המטהר","gloss":"nea worehohoro no"},{"surface":"הימנית","gloss":"nifa"},{"surface":"ועל","gloss":"ne so"},{"surface":"בהן","gloss":"nsateaa kɛseɛ"},{"surface":"ידו","gloss":"nifa nsa"},{"surface":"הימנית","gloss":"nifa"},{"surface":"ועל","gloss":"ne so"},{"surface":"בהן","gloss":"nan kɛseɛ"},{"surface":"רגלו","gloss":"nan"},{"surface":"הימנית","gloss":"nifa"}],"timestamp":"2026-09-16T05:15:03.029562442Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 14:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔsɔfoɔ no bɛgye asotwefɔdeɛ no mogya mu bi, na ɔsɔfoɔ no bɛde ahyɛ nifa asɔ ano wɔ nea worehohoro no so, ne nifa nsateaa kɛseɛ so, ne nifa nan kɛseɛ so.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bɛgye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "firi mogya"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asotwefɔdeɛ no"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na ... bɛde ahyɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "asɔ"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nea worehohoro no"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nifa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nsateaa kɛseɛ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "nifa nsa"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nifa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nan kɛseɛ"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nifa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:15:03.029562442Z",
+  "model": "glm-5.3"
+}

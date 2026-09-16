@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":31,"ref":"1-kings 5:31","book":"1-kings","lang":"tw","chapter":5,"translation":"Ɔhene no hyɛɛ aseɛ, na wɔtutuu nkuta akɛseɛ, nkuta a ɛbo ho kɛseɛ, de yɛɛ fie no nnyinasoɔ — nkuta a wɔatwa no yiye.","tokens":[{"surface":"ויצו","gloss":"hyɛɛ aseɛ"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"ויסעו","gloss":"na wɔtutuu"},{"surface":"אבנים","gloss":"nkuta"},{"surface":"גדלות","gloss":"akɛseɛ"},{"surface":"אבנים","gloss":"nkuta"},{"surface":"יקרות","gloss":"a ɛbo ho kɛseɛ"},{"surface":"ליסד","gloss":"de yɛɛ nnyinasoɔ"},{"surface":"הבית","gloss":"fie no"},{"surface":"אבני","gloss":"nkuta"},{"surface":"גזית","gloss":"a wɔatwa no yiye"}],"timestamp":"2026-09-16T05:20:46.502378952Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 5:31",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ɔhene no hyɛɛ aseɛ, na wɔtutuu nkuta akɛseɛ, nkuta a ɛbo ho kɛseɛ, de yɛɛ fie no nnyinasoɔ — nkuta a wɔatwa no yiye.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hyɛɛ aseɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "na wɔtutuu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkuta"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkuta"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "a ɛbo ho kɛseɛ"
+    },
+    {
+      "surface": "ליסד",
+      "gloss": "de yɛɛ nnyinasoɔ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "nkuta"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "a wɔatwa no yiye"
+    }
+  ],
+  "timestamp": "2026-09-16T05:20:46.502378952Z",
+  "model": "glm-5.3"
+}

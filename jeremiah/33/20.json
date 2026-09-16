@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "jeremiah 33:20", "book": "jeremiah", "lang": "tw", "chapter": 33, "translation": "Yawe ka sɛ: Sɛ motebɛbɔ ⟨את⟩ me nhyehyɛeɛ a ɛwɔ anɔpa no ne ⟨את⟩ me nhyehyɛeɛ a ɛwɔ anwummerɛ no mu, na ɛmma awia ne anwummerɛ nnsi hɔ wɔ ne bere mu—", "tokens": [{"surface": "כה", "gloss": "sɛnea"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אם", "gloss": "Sɛ"}, {"surface": "תפרו", "gloss": "motebɛbɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nhyehyɛeɛ a ɛwɔ anɔpa no"}, {"surface": "בריתי", "gloss": "me nhyehyɛeɛ"}, {"surface": "היום", "gloss": "anɔpa"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "me nhyehyɛeɛ a ɛwɔ anwummerɛ no"}, {"surface": "בריתי", "gloss": "me nhyehyɛeɛ"}, {"surface": "הלילה", "gloss": "anwummerɛ"}, {"surface": "ולבלתי", "gloss": "na ɛmma"}, {"surface": "היות", "gloss": "nnsi hɔ"}, {"surface": "יומם", "gloss": "awia"}, {"surface": "ולילה", "gloss": "ne anwummerɛ"}, {"surface": "בעתם", "gloss": "wɔ ne bere mu"}], "timestamp": "2026-09-16T00:20:50.280603322Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Yawe ka sɛ: Sɛ motebɛbɔ ⟨את⟩ me nhyehyɛeɛ a ɛwɔ anɔpa no ne ⟨את⟩ me nhyehyɛeɛ a ɛwɔ anwummerɛ no mu, na ɛmma awia ne anwummerɛ nnsi hɔ wɔ ne bere mu—",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "motebɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nhyehyɛeɛ a ɛwɔ anɔpa no"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me nhyehyɛeɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me nhyehyɛeɛ a ɛwɔ anwummerɛ no"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me nhyehyɛeɛ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "na ɛmma"
+    },
+    {
+      "surface": "היות",
+      "gloss": "nnsi hɔ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awia"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ne anwummerɛ"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "wɔ ne bere mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:20:50.280603322Z",
+  "model": "glm-5.3"
+}

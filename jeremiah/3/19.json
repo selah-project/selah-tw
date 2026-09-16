@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":19,"ref":"jeremiah 3:19","book":"jeremiah","lang":"tw","chapter":3,"translation":"Nanso menkaa sɛ: Sɛdeɛ na mɛde wo asie wɔ mma mu, na ama wo asa a anigyeɛ wɔ mu, agyapadze a ɛyɛ fɛ sen amanaman dodoɔ no ara! Na mekaa sɛ: Mofrɛ me se M'agya, na moantwa mo ho mfiri me akyi.","tokens":[{"surface":"ואנכי","gloss":"Nanso me"},{"surface":"אמרתי","gloss":"menkaa"},{"surface":"איך","gloss":"Sɛdeɛ na"},{"surface":"אשיתך","gloss":"mɛde wo asie"},{"surface":"בבנים","gloss":"wɔ mma mu"},{"surface":"ואתן","gloss":"na ama"},{"surface":"לך","gloss":"wo"},{"surface":"ארץ","gloss":"asa"},{"surface":"חמדה","gloss":"a anigyeɛ wɔ mu"},{"surface":"נחלת","gloss":"agyapadze"},{"surface":"צבי","gloss":"a ɛyɛ fɛ"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"גוים","gloss":"amanaman"},{"surface":"ואמר","gloss":"Na mekaa"},{"surface":"אבי","gloss":"se M'agya"},{"surface":"תקראו","gloss":"Mofrɛ"},{"surface":"לי","gloss":"me"},{"surface":"ומאחרי","gloss":"firi me akyi"},{"surface":"לא","gloss":"n-"},{"surface":"תשובו","gloss":"moantwa mo ho m"}],"timestamp":"2026-09-16T00:06:47.208267625Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 3:19",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Nanso menkaa sɛ: Sɛdeɛ na mɛde wo asie wɔ mma mu, na ama wo asa a anigyeɛ wɔ mu, agyapadze a ɛyɛ fɛ sen amanaman dodoɔ no ara! Na mekaa sɛ: Mofrɛ me se M'agya, na moantwa mo ho mfiri me akyi.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Nanso me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "menkaa"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Sɛdeɛ na"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "mɛde wo asie"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "wɔ mma mu"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "na ama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asa"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "a anigyeɛ wɔ mu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "agyapadze"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "a ɛyɛ fɛ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Na mekaa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se M'agya"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "Mofrɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ומאחרי",
+      "gloss": "firi me akyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "moantwa mo ho m"
+    }
+  ],
+  "timestamp": "2026-09-16T00:06:47.208267625Z",
+  "model": "glm-5.3"
+}

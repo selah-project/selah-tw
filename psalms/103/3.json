@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 103:3","book":"psalms","lang":"tw","chapter":103,"translation":"Ɔno na ɔkyɛ w'ayaware bone nyinaa, ɔno na ɔsa w'yadeɛ nyinaa.","tokens":[{"surface":"הסלח","gloss":"ɔkyɛ ... bone"},{"surface":"לכל","gloss":"nyinaa"},{"surface":"עונכי","gloss":"w'ayaware bone"},{"surface":"הרפא","gloss":"ɔsa"},{"surface":"לכל","gloss":"nyinaa"},{"surface":"תחלאיכי","gloss":"w'yadeɛ"}],"timestamp":"2026-09-16T02:21:24.907932628Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Ɔno na ɔkyɛ w'ayaware bone nyinaa, ɔno na ɔsa w'yadeɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "ɔkyɛ ... bone"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "w'ayaware bone"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "ɔsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "w'yadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:24.907932628Z",
+  "model": "glm-5.3"
+}

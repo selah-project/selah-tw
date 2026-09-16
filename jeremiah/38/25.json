@@ -1,1 +1,117 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "jeremiah 38:25", "book": "jeremiah", "lang": "tw", "chapter": 38, "translation": "Na sɛ asahena no te sɛ me ne wo kasaa, na wɔba ⟨את⟩ wo nkyɛn, na wɔka akyerɛ wo se: Ka kyerɛ yɛn, mepa mo kyɛw, deɛ wokaa kyerɛ ɔhene no; nsɛm no mfiri yɛn hɔ, na yɛrenkum wo; na deɛ ɔhene no kaa kyerɛ wo—", "tokens": [{"surface": "וכי", "gloss": "Na sɛ"}, {"surface": "ישמעו", "gloss": "te"}, {"surface": "השרים", "gloss": "asahena no"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "דברתי", "gloss": "mekasa"}, {"surface": "אתך", "gloss": "⟨את⟩ wo nkyɛn"}, {"surface": "ובאו", "gloss": "na wɔbɛba"}, {"surface": "אליך", "gloss": "wo nkyɛn"}, {"surface": "ואמרו", "gloss": "na wɔbɛka"}, {"surface": "אליך", "gloss": "akyerɛ wo"}, {"surface": "הגידה", "gloss": "Ka"}, {"surface": "נא", "gloss": "mepa mo kyɛw"}, {"surface": "לנו", "gloss": "kyerɛ yɛn"}, {"surface": "מה", "gloss": "deɛ"}, {"surface": "דברת", "gloss": "wokaa kyerɛ"}, {"surface": "אל", "gloss": "ɔhene no"}, {"surface": "המלך", "gloss": "deɛ"}, {"surface": "אל", "gloss": "nnsuma no"}, {"surface": "תכחד", "gloss": "mfiri"}, {"surface": "ממנו", "gloss": "yɛn hɔ"}, {"surface": "ולא", "gloss": "na yɛren"}, {"surface": "נמיתך", "gloss": "kum wo"}, {"surface": "ומה", "gloss": "na deɛ"}, {"surface": "דבר", "gloss": "kae kyerɛ"}, {"surface": "אליך", "gloss": "wo"}, {"surface": "המלך", "gloss": "ɔhene no"}], "timestamp": "2026-09-16T00:22:41.275198695Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 38:25",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na sɛ asahena no te sɛ me ne wo kasaa, na wɔba ⟨את⟩ wo nkyɛn, na wɔka akyerɛ wo se: Ka kyerɛ yɛn, mepa mo kyɛw, deɛ wokaa kyerɛ ɔhene no; nsɛm no mfiri yɛn hɔ, na yɛrenkum wo; na deɛ ɔhene no kaa kyerɛ wo—",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "te"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "asahena no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mekasa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo nkyɛn"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na wɔbɛba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "na wɔbɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "akyerɛ wo"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa mo kyɛw"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kyerɛ yɛn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wokaa kyerɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nnsuma no"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "mfiri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "yɛn hɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yɛren"
+    },
+    {
+      "surface": "נמיתך",
+      "gloss": "kum wo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kae kyerɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:22:41.275198695Z",
+  "model": "glm-5.3"
+}

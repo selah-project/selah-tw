@@ -1,1 +1,123 @@
-{"tier":"glm-5.2","verse":8,"ref":"ezekiel 20:8","book":"ezekiel","lang":"tw","chapter":20,"translation":"Nanso wɔyɛɛ asoɔden tiaa me, na wɔampɛ sɛ wɔtie me; obiara amfa ⟨את⟩ n'ani so nkyɛyɛdeɛ nto gu, na wɔannwerɛ ⟨את⟩ Misraim abosom no; na mekae sɛ mɛto me abufuo gu wɔn so, de bɛwie me ɔsɛe wɔ wɔn so wɔ Misraim asase no mu.","tokens":[{"surface":"וימרו","gloss":"wɔyɛɛ asoɔden"},{"surface":"בי","gloss":"tiaa me"},{"surface":"ולא","gloss":"na wɔann"},{"surface":"אבו","gloss":"pɛ"},{"surface":"לשמע","gloss":"sɛ wɔtie"},{"surface":"אלי","gloss":"me"},{"surface":"איש","gloss":"obiara"},{"surface":"את","gloss":"⟨את⟩","marks":"nkyɛyɛdeɛ"},{"surface":"שקוצי","gloss":"nkyɛyɛdeɛ"},{"surface":"עיניהם","gloss":"wɔn ani so"},{"surface":"לא","gloss":"ann"},{"surface":"השליכו","gloss":"to gu"},{"surface":"ואת","gloss":"⟨את⟩","marks":"Misraim abosom"},{"surface":"גלולי","gloss":"abosom"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"לא","gloss":"ann"},{"surface":"עזבו","gloss":"werɛ"},{"surface":"ואמר","gloss":"na mekae"},{"surface":"לשפך","gloss":"sɛ mɛto... gu"},{"surface":"חמתי","gloss":"me abufuo"},{"surface":"עליהם","gloss":"wɔn so"},{"surface":"לכלות","gloss":"de bɛwie"},{"surface":"אפי","gloss":"me ɔsɛe"},{"surface":"בהם","gloss":"wɔ wɔn so"},{"surface":"בתוך","gloss":"wɔ... mu"},{"surface":"ארץ","gloss":"asase"},{"surface":"מצרים","gloss":"Misraim"}],"timestamp":"2026-09-16T00:43:50.819015010Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 20:8",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Nanso wɔyɛɛ asoɔden tiaa me, na wɔampɛ sɛ wɔtie me; obiara amfa ⟨את⟩ n'ani so nkyɛyɛdeɛ nto gu, na wɔannwerɛ ⟨את⟩ Misraim abosom no; na mekae sɛ mɛto me abufuo gu wɔn so, de bɛwie me ɔsɛe wɔ wɔn so wɔ Misraim asase no mu.",
+  "tokens": [
+    {
+      "surface": "וימרו",
+      "gloss": "wɔyɛɛ asoɔden"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tiaa me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔann"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sɛ wɔtie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkyɛyɛdeɛ"
+    },
+    {
+      "surface": "שקוצי",
+      "gloss": "nkyɛyɛdeɛ"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wɔn ani so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "to gu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim abosom"
+    },
+    {
+      "surface": "גלולי",
+      "gloss": "abosom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "werɛ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mekae"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "sɛ mɛto... gu"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "me abufuo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "de bɛwie"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "me ɔsɛe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ wɔn so"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ... mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-16T00:43:50.819015010Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "2-chronicles 6:4", "book": "2-chronicles", "lang": "tw", "chapter": 6, "translation": "Na ɔkaa sɛ, nhyira nka Yawe, Yisrael Eloohim, a ɔde n'ano kasa maa ⟨את⟩ David me agya, na ɔde ne nsa wiee no, sɛ:", "tokens": [{"surface": "ויאמר", "gloss": "na ɔkaa sɛ"}, {"surface": "ברוך", "gloss": "nhyira nka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "אשר", "gloss": "a"}, {"surface": "דבר", "gloss": "kasa"}, {"surface": "בפיו", "gloss": "ne n'ano"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "David me agya"}, {"surface": "דויד", "gloss": "David"}, {"surface": "אבי", "gloss": "me agya"}, {"surface": "ובידיו", "gloss": "ne nsa"}, {"surface": "מלא", "gloss": "wiee"}, {"surface": "לאמר", "gloss": "sɛ"}], "timestamp": "2026-09-16T04:56:19.282190072Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ɔkaa sɛ, nhyira nka Yawe, Yisrael Eloohim, a ɔde n'ano kasa maa ⟨את⟩ David me agya, na ɔde ne nsa wiee no, sɛ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nhyira nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ne n'ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David me agya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "me agya"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wiee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:56:19.282190072Z",
+  "model": "glm-5.3"
+}

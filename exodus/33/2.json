@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":2,"ref":"exodus 33:2","book":"exodus","lang":"tw","chapter":33,"translation":"Na mɛsoma ɔsomafoɔ adi wo anim kan, na magyaw ⟨את⟩ Kenaani no akɔ, ne Emori no, ne Hiti no, ne Perizi no, Hivi no, ne Yebusi no.","tokens":[{"surface":"ושלחתי","gloss":"na mɛsoma"},{"surface":"לפניך","gloss":"adi wo anim kan"},{"surface":"מלאך","gloss":"ɔsomafoɔ"},{"surface":"וגרשתי","gloss":"na magyaw … akɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Kenaani no"},{"surface":"הכנעני","gloss":"Kenaani no"},{"surface":"האמרי","gloss":"Emori no"},{"surface":"והחתי","gloss":"ne Hiti no"},{"surface":"והפרזי","gloss":"ne Perizi no"},{"surface":"החוי","gloss":"Hivi no"},{"surface":"והיבוסי","gloss":"ne Yebusi no"}],"timestamp":"2026-09-16T05:14:40.806579963Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na mɛsoma ɔsomafoɔ adi wo anim kan, na magyaw ⟨את⟩ Kenaani no akɔ, ne Emori no, ne Hiti no, ne Perizi no, Hivi no, ne Yebusi no.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "na mɛsoma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "adi wo anim kan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ɔsomafoɔ"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "na magyaw … akɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani no"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani no"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori no"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ne Hiti no"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ne Perizi no"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi no"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ne Yebusi no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:40.806579963Z",
+  "model": "glm-5.3"
+}

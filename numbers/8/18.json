@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "numbers 8:18", "book": "numbers", "lang": "tw", "chapter": 8, "translation": "Na mfaa ⟨את⟩ Levi asɔfoɔ sii biribiara a ɔdikan wo wɔ Yisraɛl mma mu anan.", "tokens": [{"surface": "ואקח", "gloss": "Na mfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Levi asɔfoɔ"}, {"surface": "הלוים", "gloss": "Levi asɔfoɔ"}, {"surface": "תחת", "gloss": "sii ... anan"}, {"surface": "כל", "gloss": "biribiara"}, {"surface": "בכור", "gloss": "a ɔdikan wo"}, {"surface": "בבני", "gloss": "wɔ ... mma mu"}, {"surface": "ישראל", "gloss": "Yisraɛl"}], "timestamp": "2026-09-15T21:30:24.088594993Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na mfaa ⟨את⟩ Levi asɔfoɔ sii biribiara a ɔdikan wo wɔ Yisraɛl mma mu anan.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Na mfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi asɔfoɔ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi asɔfoɔ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sii ... anan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "a ɔdikan wo"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wɔ ... mma mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T21:30:24.088594993Z",
+  "model": "glm-5.3"
+}

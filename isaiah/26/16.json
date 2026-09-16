@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":16,"ref":"isaiah 26:16","book":"isaiah","lang":"tw","chapter":26,"translation":"Yawe, wɔhwehwɛɛ wo wɔ ahohiahia mu; berɛ a woahyɛde no hyeɛ wɔn so no, wɔtooo komm-mpaeɛ.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"בצר","gloss":"wɔ ahohiahia mu"},{"surface":"פקדוך","gloss":"wɔhwehwɛɛ wo"},{"surface":"צקון","gloss":"wɔtooo"},{"surface":"לחש","gloss":"komm-mpaeɛ"},{"surface":"מוסרך","gloss":"woahyɛde"},{"surface":"למו","gloss":"wɔ so"}],"timestamp":"2026-09-16T05:25:01.956593974Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Yawe, wɔhwehwɛɛ wo wɔ ahohiahia mu; berɛ a woahyɛde no hyeɛ wɔn so no, wɔtooo komm-mpaeɛ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "wɔ ahohiahia mu"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "wɔhwehwɛɛ wo"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "wɔtooo"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "komm-mpaeɛ"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "woahyɛde"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wɔ so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:25:01.956593974Z",
+  "model": "glm-5.3"
+}

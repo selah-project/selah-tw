@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "exodus 31:8", "book": "exodus", "lang": "tw", "chapter": 31, "translation": "⟨את⟩ ne ⟨את⟩ ponno no ⟨את⟩ ne ne nneɛma, ne ⟨את⟩ kanea teɛfɛ no ne n'adeɛ nyinaa, ne ⟨את⟩ nnurom-afɔrebɔ no.", "tokens": [{"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ponno no"}, {"surface": "השלחן", "gloss": "ponno"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne nneɛma"}, {"surface": "כליו", "gloss": "ne nneɛma"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "kanea teɛfɛ no"}, {"surface": "המנרה", "gloss": "kanea"}, {"surface": "הטהרה", "gloss": "teɛfɛ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "n'adeɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "כליה", "gloss": "n'adeɛ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "nnurom-afɔrebɔ no"}, {"surface": "מזבח", "gloss": "afɔrebɔ"}, {"surface": "הקטרת", "gloss": "nnurom"}], "timestamp": "2026-09-15T21:01:29.027513695Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "⟨את⟩ ne ⟨את⟩ ponno no ⟨את⟩ ne ne nneɛma, ne ⟨את⟩ kanea teɛfɛ no ne n'adeɛ nyinaa, ne ⟨את⟩ nnurom-afɔrebɔ no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ponno no"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ponno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne nneɛma"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nneɛma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "kanea teɛfɛ no"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kanea"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "teɛfɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'adeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "n'adeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nnurom-afɔrebɔ no"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "afɔrebɔ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "nnurom"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:29.027513695Z",
+  "model": "glm-5.3"
+}

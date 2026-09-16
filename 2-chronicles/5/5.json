@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "2-chronicles 5:5", "book": "2-chronicles", "lang": "tw", "chapter": 5, "translation": "Na wɔde ⟨את⟩ adaka no ne ⟨את⟩ nhyiam ⟨את⟩ dua no ne ⟨את⟩ nneɛma kronkron a ɛwɔ dua no mu no nyinaa sɔɔ so; Levi asɔfoɔ no na wɔde sɔɔ ɛso.", "tokens": [{"surface": "ויעלו", "gloss": "na wɔde sɔɔ so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "adaka no"}, {"surface": "הארון", "gloss": "adaka no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nhyiam dua no"}, {"surface": "אהל", "gloss": "dua"}, {"surface": "מועד", "gloss": "nhyiam"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nneɛma kronkron no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "כלי", "gloss": "nneɛma"}, {"surface": "הקדש", "gloss": "kronkron"}, {"surface": "אשר", "gloss": "a"}, {"surface": "באהל", "gloss": "ɛwɔ dua no mu"}, {"surface": "העלו", "gloss": "wɔde sɔɔ ɛso"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "הכהנים", "gloss": "asɔfoɔ no"}, {"surface": "הלוים", "gloss": "Levi asɔfoɔ"}], "timestamp": "2026-09-16T04:53:59.027570676Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na wɔde ⟨את⟩ adaka no ne ⟨את⟩ nhyiam ⟨את⟩ dua no ne ⟨את⟩ nneɛma kronkron a ɛwɔ dua no mu no nyinaa sɔɔ so; Levi asɔfoɔ no na wɔde sɔɔ ɛso.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "na wɔde sɔɔ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nhyiam dua no"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nneɛma kronkron no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nneɛma"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ɛwɔ dua no mu"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "wɔde sɔɔ ɛso"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi asɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:53:59.027570676Z",
+  "model": "glm-5.3"
+}

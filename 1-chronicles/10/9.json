@@ -1,1 +1,77 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "1-chronicles 10:9", "book": "1-chronicles", "lang": "tw", "chapter": 10, "translation": "Wɔtwaa no amo, wɔfaa ⟨את⟩ ne ti ne ⟨את⟩ ne nnwinnadeɛ, na wɔsoma kɔɔ Peleshtim asase so aman mu nyinaa, na wɔka ho asɛm kɔmaa ⟨את⟩ wɔn bɔnebonsam ne ⟨את⟩ amanfoɔ no.", "tokens": [{"surface": "ויפשיטהו", "gloss": "wɔtwaa no amo"}, {"surface": "וישאו", "gloss": "wɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne ti"}, {"surface": "ראשו", "gloss": "ne ti"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne nnwinnadeɛ"}, {"surface": "כליו", "gloss": "ne nnwinnadeɛ"}, {"surface": "וישלחו", "gloss": "wɔsoma"}, {"surface": "בארץ", "gloss": "wɔ asase so"}, {"surface": "פלשתים", "gloss": "Peleshtim"}, {"surface": "סביב", "gloss": "aman mu nyinaa"}, {"surface": "לבשר", "gloss": "kɔka ho asɛm"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn bɔnebonsam"}, {"surface": "עצביהם", "gloss": "wɔn bɔnebonsam"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "amanfoɔ no"}, {"surface": "העם", "gloss": "amanfoɔ no"}], "timestamp": "2026-09-16T04:40:03.875969650Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Wɔtwaa no amo, wɔfaa ⟨את⟩ ne ti ne ⟨את⟩ ne nnwinnadeɛ, na wɔsoma kɔɔ Peleshtim asase so aman mu nyinaa, na wɔka ho asɛm kɔmaa ⟨את⟩ wɔn bɔnebonsam ne ⟨את⟩ amanfoɔ no.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "wɔtwaa no amo"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne ti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnwinnadeɛ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nnwinnadeɛ"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "wɔsoma"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aman mu nyinaa"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "kɔka ho asɛm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn bɔnebonsam"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "wɔn bɔnebonsam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amanfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:03.875969650Z",
+  "model": "glm-5.3"
+}

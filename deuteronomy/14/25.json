@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":25,"ref":"deuteronomy 14:25","book":"deuteronomy","lang":"tw","chapter":14,"translation":"Na wodɛ no sika mu, na wosiesie sika no wɔ wo nsa mu, na woakɔ kɔ baabi a Yawe wo Eloohim bɛpaw no mu.","tokens":[{"surface":"ונתתה","gloss":"wodɛ"},{"surface":"בכסף","gloss":"sika mu"},{"surface":"וצרת","gloss":"wosiesie"},{"surface":"הכסף","gloss":"sika no"},{"surface":"בידך","gloss":"wɔ wo nsa mu"},{"surface":"והלכת","gloss":"na woakɔ"},{"surface":"אל","gloss":"kɔ"},{"surface":"המקום","gloss":"baabi"},{"surface":"אשר","gloss":"a"},{"surface":"יבחר","gloss":"bɛpaw"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"בו","gloss":"no mu"}],"timestamp":"2026-09-15T21:51:05.317037480Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wodɛ no sika mu, na wosiesie sika no wɔ wo nsa mu, na woakɔ kɔ baabi a Yawe wo Eloohim bɛpaw no mu.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "wodɛ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sika mu"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "wosiesie"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sika no"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "wɔ wo nsa mu"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "na woakɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "bɛpaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:05.317037480Z",
+  "model": "glm-5.3"
+}

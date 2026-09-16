@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "joshua 4:1", "book": "joshua", "lang": "tw", "chapter": 4, "translation": "Ɛbaeɛ sɛ berɛ a amanfoɔ no nyinaa wiee ⟨את⟩ Yarden no twam no, Yawe kasa kyerɛɛ Yehoshua se,", "tokens": [{"surface": "ויהי", "gloss": "Ɛbaeɛ sɛ"}, {"surface": "כאשר", "gloss": "berɛ a"}, {"surface": "תמו", "gloss": "wiee"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הגוי", "gloss": "amanfoɔ no"}, {"surface": "לעבור", "gloss": "twam"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yarden"}, {"surface": "הירדן", "gloss": "Yarden"}, {"surface": "ויאמר", "gloss": "kasa kyerɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "לאמר", "gloss": "se"}], "timestamp": "2026-09-15T22:01:34.997348746Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛbaeɛ sɛ berɛ a amanfoɔ no nyinaa wiee ⟨את⟩ Yarden no twam no, Yawe kasa kyerɛɛ Yehoshua se,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaeɛ sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "wiee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "twam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T22:01:34.997348746Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "isaiah 51:9", "book": "isaiah", "lang": "tw", "chapter": 51, "translation": "Sɔre, sɔre, hyɛ ⟨את⟩ wo mu ahoɔden, Yawe nsa; sɔre, sɛda a ɛdii mfitiaseɛ no, mmusua a ɛtwaam no mu. ɛnyɛ wo nso na wotwaa Rahab, na wode wo sɛe seɛ-serpent no?", "tokens": [{"surface": "עורי", "gloss": "sɔre"}, {"surface": "עורי", "gloss": "sɔre"}, {"surface": "לבשי", "gloss": "hyɛ wo mu"}, {"surface": "עז", "gloss": "ahoɔden"}, {"surface": "זרוע", "gloss": "nsa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עורי", "gloss": "sɔre"}, {"surface": "כימי", "gloss": "sɛda a"}, {"surface": "קדם", "gloss": "a ɛdii mfitiaseɛ"}, {"surface": "דרות", "gloss": "mmusua"}, {"surface": "עולמים", "gloss": "a ɛtwaam"}, {"surface": "הלוא", "gloss": "ɛnyɛ… nso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo"}, {"surface": "היא", "gloss": "wo"}, {"surface": "המחצבת", "gloss": "na wotwaa"}, {"surface": "רהב", "gloss": "Rahab"}, {"surface": "מחוללת", "gloss": "na wode wo sɛe"}, {"surface": "תנין", "gloss": "seɛ-serpent"}], "timestamp": "2026-09-15T23:58:18.525762917Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 51:9",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Sɔre, sɔre, hyɛ ⟨את⟩ wo mu ahoɔden, Yawe nsa; sɔre, sɛda a ɛdii mfitiaseɛ no, mmusua a ɛtwaam no mu. ɛnyɛ wo nso na wotwaa Rahab, na wode wo sɛe seɛ-serpent no?",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "hyɛ wo mu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sɛda a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "a ɛdii mfitiaseɛ"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "mmusua"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "a ɛtwaam"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ɛnyɛ… nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wo"
+    },
+    {
+      "surface": "המחצבת",
+      "gloss": "na wotwaa"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "מחוללת",
+      "gloss": "na wode wo sɛe"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "seɛ-serpent"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:18.525762917Z",
+  "model": "glm-5.3"
+}

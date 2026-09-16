@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 18:4","book":"jeremiah","lang":"tw","chapter":18,"translation":"Na kuruwa a na ɔreyɛ no firi anwea mu no bui wɔ nkukuu-yɛfoɔ nsam; na ɔsane yɛɛ no kuruwa foforɔ, sɛnea ɛyɛ yie wɔ nkukuu-yɛfoɔ ani so sɛ ɔbɛyɛ.","tokens":[{"surface":"ונשחת","gloss":"Na ... bui"},{"surface":"הכלי","gloss":"kuruwa"},{"surface":"אשר","gloss":"a"},{"surface":"הוא","gloss":"ɔ"},{"surface":"עשה","gloss":"ɔreyɛ no"},{"surface":"בחמר","gloss":"firi anwea mu"},{"surface":"ביד","gloss":"wɔ ... nsam"},{"surface":"היוצר","gloss":"nkukuu-yɛfoɔ"},{"surface":"ושב","gloss":"na ɔsane"},{"surface":"ויעשהו","gloss":"yɛɛ no"},{"surface":"כלי","gloss":"kuruwa"},{"surface":"אחר","gloss":"foforɔ"},{"surface":"כאשר","gloss":"sɛnea"},{"surface":"ישר","gloss":"ɛyɛ yie"},{"surface":"בעיני","gloss":"wɔ ... ani so"},{"surface":"היוצר","gloss":"nkukuu-yɛfoɔ"},{"surface":"לעשות","gloss":"sɛ ɔbɛyɛ"}],"timestamp":"2026-09-16T00:14:12.958041864Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 18:4",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na kuruwa a na ɔreyɛ no firi anwea mu no bui wɔ nkukuu-yɛfoɔ nsam; na ɔsane yɛɛ no kuruwa foforɔ, sɛnea ɛyɛ yie wɔ nkukuu-yɛfoɔ ani so sɛ ɔbɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ונשחת",
+      "gloss": "Na ... bui"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "kuruwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔreyɛ no"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "firi anwea mu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wɔ ... nsam"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "nkukuu-yɛfoɔ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na ɔsane"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "yɛɛ no"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuruwa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ɛyɛ yie"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... ani so"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "nkukuu-yɛfoɔ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ ɔbɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:14:12.958041864Z",
+  "model": "glm-5.3"
+}

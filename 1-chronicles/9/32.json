@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":32,"ref":"1-chronicles 9:32","book":"1-chronicles","lang":"tw","chapter":9,"translation":"Na wɔn nuanom mu bi, Kehat mma no mu deɛ, na wɔwɔ duadɛn a wɔto gu so no so, sɛ wɔbɛsiesie no Sabbath biara Sabbath.","tokens":[{"surface":"ומן","gloss":"Na firi"},{"surface":"בני","gloss":"mma"},{"surface":"הקהתי","gloss":"Kehat-ni"},{"surface":"מן","gloss":"firi"},{"surface":"אחיהם","gloss":"wɔn nuanom"},{"surface":"על","gloss":"so"},{"surface":"לחם","gloss":"duadɛn"},{"surface":"המערכת","gloss":"⟨the⟩ a wɔto gu so"},{"surface":"להכין","gloss":"sɛ wɔbɛsiesie"},{"surface":"שבת","gloss":"Sabbath"},{"surface":"שבת","gloss":"Sabbath biara"}],"timestamp":"2026-09-16T04:40:08.595695634Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 9:32",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wɔn nuanom mu bi, Kehat mma no mu deɛ, na wɔwɔ duadɛn a wɔto gu so no so, sɛ wɔbɛsiesie no Sabbath biara Sabbath.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Na firi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehat-ni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "wɔn nuanom"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duadɛn"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "⟨the⟩ a wɔto gu so"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "sɛ wɔbɛsiesie"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath biara"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:08.595695634Z",
+  "model": "glm-5.3"
+}

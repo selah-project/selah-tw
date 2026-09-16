@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":12,"ref":"ezekiel 1:12","book":"ezekiel","lang":"tw","chapter":1,"translation":"Na obiara nam kɔ n'ani anim kwan so; baabi a mframa pɛ sɛ ɛkɔ no, wɔkɔ; wɔntwerɛ wɔn ho wɔ wɔn nante mu.","tokens":[{"surface":"ואיש","gloss":"na obiara"},{"surface":"אל","gloss":"kɔ"},{"surface":"עבר","gloss":"kwan so"},{"surface":"פניו","gloss":"n'ani anim"},{"surface":"ילכו","gloss":"nam"},{"surface":"אל","gloss":"baabi a"},{"surface":"אשר","gloss":"—"},{"surface":"יהיה","gloss":"pɛ"},{"surface":"שמה","gloss":"hɔ"},{"surface":"הרוח","gloss":"mframa"},{"surface":"ללכת","gloss":"sɛ ɛkɔ"},{"surface":"ילכו","gloss":"wɔkɔ"},{"surface":"לא","gloss":"nn"},{"surface":"יסבו","gloss":"ntwerɛ wɔn ho"},{"surface":"בלכתן","gloss":"wɔ wɔn nante mu"}],"timestamp":"2026-09-16T00:33:10.563231036Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na obiara nam kɔ n'ani anim kwan so; baabi a mframa pɛ sɛ ɛkɔ no, wɔkɔ; wɔntwerɛ wɔn ho wɔ wɔn nante mu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "na obiara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kwan so"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'ani anim"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baabi a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sɛ ɛkɔ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "wɔkɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "ntwerɛ wɔn ho"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "wɔ wɔn nante mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:33:10.563231036Z",
+  "model": "glm-5.3"
+}

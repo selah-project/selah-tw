@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":14,"ref":"micah 7:14","book":"micah","lang":"tw","chapter":7,"translation":"Hwɛ w'amanfoɔ so wɔ wo pɛn mu, nnwan a wɔyɛ wo agyapadeɛ, a wɔte baako pɛ wɔ kwae mu, wɔ Karmel mfimfini; wɔnnɔ Bashan ne Gilead, sɛ tete nnɛ no.","tokens":[{"surface":"רעה","gloss":"hwɛ ... so"},{"surface":"עמך","gloss":"w'amanfoɔ"},{"surface":"בשבטך","gloss":"wɔ wo pɛn mu"},{"surface":"צאן","gloss":"nnwan"},{"surface":"נחלתך","gloss":"wo agyapadeɛ"},{"surface":"שכני","gloss":"wɔte"},{"surface":"לבדד","gloss":"baako pɛ"},{"surface":"יער","gloss":"kwae"},{"surface":"בתוך","gloss":"wɔ mfimfini"},{"surface":"כרמל","gloss":"Karmel"},{"surface":"ירעו","gloss":"wɔnnɔ"},{"surface":"בשן","gloss":"Bashan"},{"surface":"וגלעד","gloss":"ne Gilead"},{"surface":"כימי","gloss":"sɛ nnɛ"},{"surface":"עולם","gloss":"tete"}],"timestamp":"2026-09-16T01:18:54.099291820Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 7:14",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Hwɛ w'amanfoɔ so wɔ wo pɛn mu, nnwan a wɔyɛ wo agyapadeɛ, a wɔte baako pɛ wɔ kwae mu, wɔ Karmel mfimfini; wɔnnɔ Bashan ne Gilead, sɛ tete nnɛ no.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "hwɛ ... so"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "w'amanfoɔ"
+    },
+    {
+      "surface": "בשבטך",
+      "gloss": "wɔ wo pɛn mu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "wo agyapadeɛ"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "wɔte"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "baako pɛ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kwae"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ mfimfini"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "wɔnnɔ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ne Gilead"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sɛ nnɛ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tete"
+    }
+  ],
+  "timestamp": "2026-09-16T01:18:54.099291820Z",
+  "model": "glm-5.3"
+}

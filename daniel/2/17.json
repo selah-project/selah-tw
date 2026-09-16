@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":17,"ref":"daniel 2:17","book":"daniel","lang":"tw","chapter":2,"translation":"Afei Daniel kɔɔ n'afe mu, na ɔdaa asɛm no adi kyɛɛ ne mfɛfoɔ Hanania, Mishaɛl ne Azaria.","tokens":[{"surface":"אדין","gloss":"afei"},{"surface":"דניאל","gloss":"Daniel"},{"surface":"לביתה","gloss":"wɔ n'afe mu"},{"surface":"אזל","gloss":"kɔɔ"},{"surface":"ולחנניה","gloss":"ne Hanania"},{"surface":"מישאל","gloss":"Mishaɛl"},{"surface":"ועזריה","gloss":"ne Azaria"},{"surface":"חברוהי","gloss":"ne mfɛfoɔ"},{"surface":"מלתא","gloss":"asɛm no"},{"surface":"הודע","gloss":"ɔdaa no adi"}],"timestamp":"2026-09-16T05:51:12.247580386Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 2:17",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Afei Daniel kɔɔ n'afe mu, na ɔdaa asɛm no adi kyɛɛ ne mfɛfoɔ Hanania, Mishaɛl ne Azaria.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "afei"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "wɔ n'afe mu"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "ne Hanania"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaɛl"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ne Azaria"
+    },
+    {
+      "surface": "חברוהי",
+      "gloss": "ne mfɛfoɔ"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "asɛm no"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ɔdaa no adi"
+    }
+  ],
+  "timestamp": "2026-09-16T05:51:12.247580386Z",
+  "model": "glm-5.3"
+}

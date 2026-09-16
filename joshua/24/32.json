@@ -1,1 +1,118 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "joshua 24:32", "book": "joshua", "lang": "tw", "chapter": 24, "translation": "Na Yosef ⟨את⟩ nnomwan nwoma ⟨את⟩ a Israel mma de firii Misraim no, wɔsiee wɔ Sekem, wɔ afuo fam a Yakob tɔɔ firi Hamor mma, Sekem agya nkyɛn, wɔ kesita ɔha mu; na ɛbɛɛ Yosef mma dagya.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "nnomwan nwoma"}, {"surface": "עצמות", "gloss": "nnomwan nwoma"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "אשר", "gloss": "a"}, {"surface": "העלו", "gloss": "de firii"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "ממצרים", "gloss": "Misraim"}, {"surface": "קברו", "gloss": "wɔsiee"}, {"surface": "בשכם", "gloss": "wɔ Sekem"}, {"surface": "בחלקת", "gloss": "wɔ fam"}, {"surface": "השדה", "gloss": "afuo"}, {"surface": "אשר", "gloss": "a"}, {"surface": "קנה", "gloss": "tɔɔ"}, {"surface": "יעקב", "gloss": "Yakob"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "בני", "gloss": "mma"}, {"surface": "חמור", "gloss": "Hamor"}, {"surface": "אבי", "gloss": "agya"}, {"surface": "שכם", "gloss": "Sekem"}, {"surface": "במאה", "gloss": "wɔ ɔha mu"}, {"surface": "קשיטה", "gloss": "kesita"}, {"surface": "ויהיו", "gloss": "na ɛbɛɛ"}, {"surface": "לבני", "gloss": "mma"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "לנחלה", "gloss": "dagya"}], "timestamp": "2026-09-15T22:33:24.167892930Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 24:32",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na Yosef ⟨את⟩ nnomwan nwoma ⟨את⟩ a Israel mma de firii Misraim no, wɔsiee wɔ Sekem, wɔ afuo fam a Yakob tɔɔ firi Hamor mma, Sekem agya nkyɛn, wɔ kesita ɔha mu; na ɛbɛɛ Yosef mma dagya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnomwan nwoma"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "nnomwan nwoma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "de firii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "wɔsiee"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "wɔ Sekem"
+    },
+    {
+      "surface": "בחלקת",
+      "gloss": "wɔ fam"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "afuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tɔɔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekem"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "wɔ ɔha mu"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "kesita"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na ɛbɛɛ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dagya"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:24.167892930Z",
+  "model": "glm-5.3"
+}

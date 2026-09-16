@@ -1,1 +1,81 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "joshua 23:12", "book": "joshua", "lang": "tw", "chapter": 23, "translation": "Nanso sɛ ⟨את⟩ mosan wɔ akyi, na momu ba wɔ amanman a aka yi a wɔka mo ho no mu, na mo ne wɔn aware, na mo ba wɔn mu, na wɔn nso ba mo mu,", "tokens": [{"surface": "כי", "gloss": "nanso sɛ"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "שוב", "gloss": "mosan wɔ akyi"}, {"surface": "תשובו", "gloss": "mosan wɔ akyi"}, {"surface": "ודבקתם", "gloss": "momu ba wɔ mu"}, {"surface": "ביתר", "gloss": "a aka"}, {"surface": "הגוים", "gloss": "amanman"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "הנשארים", "gloss": "a wɔka mo ho"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "והתחתנתם", "gloss": "mo ne wɔn aware"}, {"surface": "בהם", "gloss": "wɔn"}, {"surface": "ובאתם", "gloss": "mo ba"}, {"surface": "בהם", "gloss": "wɔn mu"}, {"surface": "והם", "gloss": "na wɔn nso"}, {"surface": "בכם", "gloss": "ba mo mu"}], "timestamp": "2026-09-15T22:09:47.438516288Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 23:12",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Nanso sɛ ⟨את⟩ mosan wɔ akyi, na momu ba wɔ amanman a aka yi a wɔka mo ho no mu, na mo ne wɔn aware, na mo ba wɔn mu, na wɔn nso ba mo mu,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanso sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "mosan wɔ akyi"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "mosan wɔ akyi"
+    },
+    {
+      "surface": "ודבקתם",
+      "gloss": "momu ba wɔ mu"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "a aka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanman"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a wɔka mo ho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "והתחתנתם",
+      "gloss": "mo ne wɔn aware"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "mo ba"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na wɔn nso"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ba mo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:09:47.438516288Z",
+  "model": "glm-5.3"
+}

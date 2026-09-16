@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-samuel 14:3", "book": "2-samuel", "lang": "tw", "chapter": 14, "translation": "Na wode wo ho bɛkɔ ɔhene no nkyɛn, na wone no bɛkasa sɛnea asɛm yi teɛ; na Yowab de ⟨את⟩ asɛm no guu ɔno ano.", "tokens": [{"surface": "ובאת", "gloss": "bɛkɔ"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "ודברת", "gloss": "bɛkasa"}, {"surface": "אליו", "gloss": "ne ho"}, {"surface": "כדבר", "gloss": "sɛnea asɛm"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "וישם", "gloss": "guu"}, {"surface": "יואב", "gloss": "Yowab"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm no"}, {"surface": "הדברים", "gloss": "asɛm no"}, {"surface": "בפיה", "gloss": "ɔno ano"}], "timestamp": "2026-09-15T23:06:45.556718226Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wode wo ho bɛkɔ ɔhene no nkyɛn, na wone no bɛkasa sɛnea asɛm yi teɛ; na Yowab de ⟨את⟩ asɛm no guu ɔno ano.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "bɛkasa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛnea asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "guu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm no"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "asɛm no"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ɔno ano"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:45.556718226Z",
+  "model": "glm-5.3"
+}

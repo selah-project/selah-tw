@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":6,"ref":"isaiah 25:6","book":"isaiah","lang":"tw","chapter":25,"translation":"Na Yawe Tsafoɔ bɛyɛ ama wɔ bepɔ yi so aduane kesie ama aman nyinaa — aduane kesie a ɛwɔ ngo ne nsã a asɔten, ngo a ɛdɔɔso ne nsã a wɔayɛ no fɛ.","tokens":[{"surface":"ועשה","gloss":"bɛyɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"לכל","gloss":"ama ... nyinaa"},{"surface":"העמים","gloss":"aman"},{"surface":"בהר","gloss":"wɔ bepɔ no so"},{"surface":"הזה","gloss":"yi"},{"surface":"משתה","gloss":"aduane kesie"},{"surface":"שמנים","gloss":"a ɛwɔ ngo"},{"surface":"משתה","gloss":"aduane kesie"},{"surface":"שמרים","gloss":"nsã a asɔten"},{"surface":"שמנים","gloss":"ngo"},{"surface":"ממחים","gloss":"a ɛdɔɔso"},{"surface":"שמרים","gloss":"nsã a asɔten"},{"surface":"מזקקים","gloss":"a wɔayɛ no fɛ"}],"timestamp":"2026-09-15T23:48:34.070421525Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 25:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na Yawe Tsafoɔ bɛyɛ ama wɔ bepɔ yi so aduane kesie ama aman nyinaa — aduane kesie a ɛwɔ ngo ne nsã a asɔten, ngo a ɛdɔɔso ne nsã a wɔayɛ no fɛ.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ama ... nyinaa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "wɔ bepɔ no so"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "aduane kesie"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "a ɛwɔ ngo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "aduane kesie"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "nsã a asɔten"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ממחים",
+      "gloss": "a ɛdɔɔso"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "nsã a asɔten"
+    },
+    {
+      "surface": "מזקקים",
+      "gloss": "a wɔayɛ no fɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:48:34.070421525Z",
+  "model": "glm-5.3"
+}

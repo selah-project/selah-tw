@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "joshua 10:22", "book": "joshua", "lang": "tw", "chapter": 10, "translation": "Na Yehoshua kaa sɛ: Monyina abɔ ⟨את⟩ no ano, na momfa ɔhene ⟨את⟩ anum yi fi abɔ no mu brɛ me.", "tokens": [{"surface": "ויאמר", "gloss": "kaa sɛ"}, {"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "פתחו", "gloss": "Monyina ... ano"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "abɔ no ano"}, {"surface": "פי", "gloss": "no ano"}, {"surface": "המערה", "gloss": "abɔ no"}, {"surface": "והוציאו", "gloss": "na momfa ... brɛ"}, {"surface": "אלי", "gloss": "brɛ me"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔhene anum yi"}, {"surface": "חמשת", "gloss": "anum"}, {"surface": "המלכים", "gloss": "ɔhene"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "מן", "gloss": "fi"}, {"surface": "המערה", "gloss": "abɔ no mu"}], "timestamp": "2026-09-15T22:04:21.063598452Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Yehoshua kaa sɛ: Monyina abɔ ⟨את⟩ no ano, na momfa ɔhene ⟨את⟩ anum yi fi abɔ no mu brɛ me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Monyina ... ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔ no ano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "no ano"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "abɔ no"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "na momfa ... brɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "brɛ me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene anum yi"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "anum"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "abɔ no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:21.063598452Z",
+  "model": "glm-5.3"
+}

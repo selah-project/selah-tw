@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":5,"ref":"leviticus 25:5","book":"leviticus","lang":"tw","chapter":25,"translation":"⟨את⟩ deɛ ɛnyini kwa wɔ wo nnyɛeɛ mu no, wonntwa; na ⟨את⟩ wo dua a woantew no nsã no, wonntotua; afe a homeɛ wɔ mu na ɛbɛyɛ ama asase no.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"deɛ ɛnyini kwa wɔ wo nnyɛeɛ mu"},{"surface":"ספיח","gloss":"deɛ ɛnyini kwa"},{"surface":"קצירך","gloss":"wo nnyɛeɛ"},{"surface":"לא","gloss":"nn"},{"surface":"תקצור","gloss":"tw"},{"surface":"ואת","gloss":"⟨את⟩","marks":"wo dua a woantew no nsã"},{"surface":"ענבי","gloss":"nsã"},{"surface":"נזירך","gloss":"wo dua a woantew no"},{"surface":"לא","gloss":"nn"},{"surface":"תבצר","gloss":"totua nsã"},{"surface":"שנת","gloss":"afe"},{"surface":"שבתון","gloss":"a homeɛ wɔ mu"},{"surface":"יהיה","gloss":"bɛyɛ"},{"surface":"לארץ","gloss":"ama asase no"}],"timestamp":"2026-09-15T21:21:55.370135307Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "⟨את⟩ deɛ ɛnyini kwa wɔ wo nnyɛeɛ mu no, wonntwa; na ⟨את⟩ wo dua a woantew no nsã no, wonntotua; afe a homeɛ wɔ mu na ɛbɛyɛ ama asase no.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛnyini kwa wɔ wo nnyɛeɛ mu"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "deɛ ɛnyini kwa"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "wo nnyɛeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "tw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo dua a woantew no nsã"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "nsã"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "wo dua a woantew no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "totua nsã"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "afe"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "a homeɛ wɔ mu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ama asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:55.370135307Z",
+  "model": "glm-5.3"
+}

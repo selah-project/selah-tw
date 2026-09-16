@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":9,"ref":"deuteronomy 20:9","book":"deuteronomy","lang":"tw","chapter":20,"translation":"Na ɛbɛyɛ sɛ, sɛ asoafoɔ no wie nsɛm a wɔreka kyerɛ nnipa no a, wɔbɛpaw asraafoɔ mpanimfoɔ atena nnipa no anim.","tokens":[{"surface":"והיה","gloss":"Na ɛbɛyɛ sɛ"},{"surface":"ככלת","gloss":"sɛ ... wie"},{"surface":"השטרים","gloss":"asoafoɔ no"},{"surface":"לדבר","gloss":"nsɛm a wɔreka"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"העם","gloss":"nnipa no"},{"surface":"ופקדו","gloss":"wɔbɛpaw"},{"surface":"שרי","gloss":"mpanimfoɔ"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"בראש","gloss":"atena ... anim"},{"surface":"העם","gloss":"nnipa no"}],"timestamp":"2026-09-15T21:53:00.717084383Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 20:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɛbɛyɛ sɛ, sɛ asoafoɔ no wie nsɛm a wɔreka kyerɛ nnipa no a, wɔbɛpaw asraafoɔ mpanimfoɔ atena nnipa no anim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbɛyɛ sɛ"
+    },
+    {
+      "surface": "ככלת",
+      "gloss": "sɛ ... wie"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "asoafoɔ no"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nsɛm a wɔreka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "wɔbɛpaw"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "atena ... anim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:00.717084383Z",
+  "model": "glm-5.3"
+}

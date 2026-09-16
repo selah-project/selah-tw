@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":8,"ref":"jonah 2:8","book":"jonah","lang":"tw","chapter":2,"translation":"Bɛrɛ a me nkwa no ani bɔeɛ wɔ me mu no, maka Yawe fo⟨את⟩; na m'apae baa wo ho, wo hekral kronkron no mu.","tokens":[{"surface":"בהתעטף","gloss":"bɛrɛ a ... ani bɔeɛ"},{"surface":"עלי","gloss":"wɔ me mu"},{"surface":"נפשי","gloss":"me nkwa no"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"זכרתי","gloss":"maka ... fo"},{"surface":"ותבוא","gloss":"na ... baa"},{"surface":"אליך","gloss":"wo ho"},{"surface":"תפלתי","gloss":"m'apae"},{"surface":"אל","gloss":"mu"},{"surface":"היכל","gloss":"hekral"},{"surface":"קדשך","gloss":"wo kronkron no"}],"timestamp":"2026-09-16T05:35:58.729234095Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Bɛrɛ a me nkwa no ani bɔeɛ wɔ me mu no, maka Yawe fo⟨את⟩; na m'apae baa wo ho, wo hekral kronkron no mu.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "bɛrɛ a ... ani bɔeɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ me mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "maka ... fo"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "na ... baa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "m'apae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hekral"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "wo kronkron no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:35:58.729234095Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "2-chronicles 24:4", "book": "2-chronicles", "lang": "tw", "chapter": 24, "translation": "Akyire yi, ɛbaa sɛ Yoash tirim hyɛɛ aseɛ sɛ ɔbɛsesa Yawe ⟨את⟩ fie no.", "tokens": [{"surface": "ויהי", "gloss": "sɛ ... bae"}, {"surface": "אחרי", "gloss": "Akyire"}, {"surface": "כן", "gloss": "yi"}, {"surface": "היה", "gloss": "ɛbaa sɛ"}, {"surface": "עם", "gloss": "tirim"}, {"surface": "לב", "gloss": "tirim"}, {"surface": "יואש", "gloss": "Yoash"}, {"surface": "לחדש", "gloss": "sɛ ɔbɛsesa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T05:03:16.284582178Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Akyire yi, ɛbaa sɛ Yoash tirim hyɛɛ aseɛ sɛ ɔbɛsesa Yawe ⟨את⟩ fie no.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sɛ ... bae"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Akyire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ɛbaa sɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tirim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tirim"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sɛ ɔbɛsesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:03:16.284582178Z",
+  "model": "glm-5.3"
+}

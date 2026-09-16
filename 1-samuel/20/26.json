@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":26,"ref":"1-samuel 20:26","book":"1-samuel","lang":"tw","chapter":20,"translation":"Nanso Sha'ul annka asɛm biara wɔ ɛda no mu; ɛfiri sɛ ɔdwenee sɛ, biribi asii — ɔho nte, ɛyɛ nokorɛ sɛ ɔho nte.","tokens":[{"surface":"ולא","gloss":"Nanso ... annka"},{"surface":"דבר","gloss":"ka"},{"surface":"שאול","gloss":"Sha'ul"},{"surface":"מאומה","gloss":"asɛm biara"},{"surface":"ביום","gloss":"wɔ ɛda no mu"},{"surface":"ההוא","gloss":"no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אמר","gloss":"ɔdwenee"},{"surface":"מקרה","gloss":"biribi asii"},{"surface":"הוא","gloss":"ne"},{"surface":"בלתי","gloss":"nte"},{"surface":"טהור","gloss":"ɔho"},{"surface":"הוא","gloss":"ne"},{"surface":"כי","gloss":"ɛyɛ nokorɛ sɛ"},{"surface":"לא","gloss":"nte"},{"surface":"טהור","gloss":"ɔho"}],"timestamp":"2026-09-16T05:17:17.349627358Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Nanso Sha'ul annka asɛm biara wɔ ɛda no mu; ɛfiri sɛ ɔdwenee sɛ, biribi asii — ɔho nte, ɛyɛ nokorɛ sɛ ɔho nte.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nanso ... annka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "asɛm biara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔdwenee"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "biribi asii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nte"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ɔho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛyɛ nokorɛ sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nte"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ɔho"
+    }
+  ],
+  "timestamp": "2026-09-16T05:17:17.349627358Z",
+  "model": "glm-5.3"
+}

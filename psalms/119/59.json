@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":59,"ref":"psalms 119:59","book":"psalms","lang":"tw","chapter":119,"translation":"Mehwɛɛ m'akwan so, na mesan de me nananom baa wo adansedie nsɛm no mu.","tokens":[{"surface":"חשבתי","gloss":"mehwɛɛ (mehwɛɛ so)"},{"surface":"דרכי","gloss":"m'akwan"},{"surface":"ואשיבה","gloss":"na mesan de ... baa"},{"surface":"רגלי","gloss":"me nananom"},{"surface":"אל","gloss":"baa ... mu"},{"surface":"עדתיך","gloss":"wo adansedie nsɛm no"}],"timestamp":"2026-09-16T02:28:09.932910911Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Mehwɛɛ m'akwan so, na mesan de me nananom baa wo adansedie nsɛm no mu.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "mehwɛɛ (mehwɛɛ so)"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "m'akwan"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "na mesan de ... baa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "me nananom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa ... mu"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "wo adansedie nsɛm no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:28:09.932910911Z",
+  "model": "glm-5.3"
+}

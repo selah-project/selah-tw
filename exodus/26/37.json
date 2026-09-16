@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":37,"ref":"exodus 26:37","book":"exodus","lang":"tw","chapter":26,"translation":"Na wode ayɛ ama ɛhyɛn-ama no: adanum a wɔde shittim dua ayɛ, na wode sikagold bɛhata ⟨את⟩ so; wɔn akontenafoɔ yɛ sika; na wɔbɛto akokodanum a wɔde kɔberɛ ayɛ ama wɔn.","tokens":[{"surface":"ועשית","gloss":"na wode ayɛ"},{"surface":"למסך","gloss":"ama ⟨the⟩ ɛhyɛn-ama no"},{"surface":"חמשה","gloss":"adanum"},{"surface":"עמודי","gloss":"nsɔrenan"},{"surface":"שטים","gloss":"shittim dua"},{"surface":"וצפית","gloss":"na wode bɛhata so"},{"surface":"אתם","gloss":"⟨את⟩","marks":"wɔn (nnipa-nsiananmu: 'wɔn' — ɛkyerɛ nsɔrenan no)"},{"surface":"זהב","gloss":"sika"},{"surface":"וויהם","gloss":"wɔn akontenafoɔ"},{"surface":"זהב","gloss":"sika"},{"surface":"ויצקת","gloss":"na wode bɛto"},{"surface":"להם","gloss":"ama wɔn"},{"surface":"חמשה","gloss":"ananum"},{"surface":"אדני","gloss":"nkyɛnmu"},{"surface":"נחשת","gloss":"kɔberɛ"}],"timestamp":"2026-09-15T20:57:06.906632404Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 26:37",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na wode ayɛ ama ɛhyɛn-ama no: adanum a wɔde shittim dua ayɛ, na wode sikagold bɛhata ⟨את⟩ so; wɔn akontenafoɔ yɛ sika; na wɔbɛto akokodanum a wɔde kɔberɛ ayɛ ama wɔn.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wode ayɛ"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "ama ⟨the⟩ ɛhyɛn-ama no"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "adanum"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "nsɔrenan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim dua"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "na wode bɛhata so"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn (nnipa-nsiananmu: 'wɔn' — ɛkyerɛ nsɔrenan no)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "wɔn akontenafoɔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "na wode bɛto"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ama wɔn"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ananum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkyɛnmu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kɔberɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:06.906632404Z",
+  "model": "glm-5.3"
+}

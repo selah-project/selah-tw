@@ -1,1 +1,106 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "jeremiah 28:3", "book": "jeremiah", "lang": "tw", "chapter": 28, "translation": "Afe mmienu a ɛteɛ pɛ akyi, mede Yawe fie akodeɛ ⟨את⟩ nyinaa bɛsan de aba baabi yi, deɛ Nebukadnesar, Babilon ɔhene, firi baabi yi faa kɔɔ Babilon no.", "tokens": [{"surface": "בעוד", "gloss": "akyi"}, {"surface": "שנתים", "gloss": "afe mmienu"}, {"surface": "ימים", "gloss": "a ɛteɛ pɛ"}, {"surface": "אני", "gloss": "me"}, {"surface": "משיב", "gloss": "bɛsan de aba"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "המקום", "gloss": "baabi"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe fie akodeɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "כלי", "gloss": "akodeɛ"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "לקח", "gloss": "faa"}, {"surface": "נבוכדנאצר", "gloss": "Nebukadnesar"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "בבל", "gloss": "Babilon"}, {"surface": "מן", "gloss": "firi"}, {"surface": "המקום", "gloss": "baabi"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "ויביאם", "gloss": "de wɔn kɔɔ"}, {"surface": "בבל", "gloss": "Babilon"}], "timestamp": "2026-09-16T00:19:19.113874924Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 28:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Afe mmienu a ɛteɛ pɛ akyi, mede Yawe fie akodeɛ ⟨את⟩ nyinaa bɛsan de aba baabi yi, deɛ Nebukadnesar, Babilon ɔhene, firi baabi yi faa kɔɔ Babilon no.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "afe mmienu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a ɛteɛ pɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "bɛsan de aba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie akodeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "akodeɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "de wɔn kɔɔ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T00:19:19.113874924Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":13,"ref":"numbers 25:13","book":"numbers","lang":"tw","chapter":25,"translation":"Na ɛbɛyɛ ne dea, ne ne nkyirima a ɔbɛto no, ɔyaredan abamu; ɛyɛ asɔfoɔ som a ɛkɔ so daa, ɛfiri sɛ ɔyɛɛ akokɔduru maa ne Eloohim, na ɔyɛɛ esiane maa Yisraelfoɔ mma.","tokens":[{"surface":"והיתה","gloss":"ɛbɛyɛ"},{"surface":"לו","gloss":"nea"},{"surface":"ולזרעו","gloss":"ne ne nkyirima"},{"surface":"אחריו","gloss":"a ɔbɛto no"},{"surface":"ברית","gloss":"ɔyaredan abamu"},{"surface":"כהנת","gloss":"asɔfoɔ som"},{"surface":"עולם","gloss":"a ɛkɔ so daa"},{"surface":"תחת","gloss":"ɛfiri sɛ"},{"surface":"אשר","gloss":"sɛ"},{"surface":"קנא","gloss":"ɔyɛɛ akokɔduru"},{"surface":"לאלהיו","gloss":"maa ne Eloohim"},{"surface":"ויכפר","gloss":"na ɔyɛɛ esiane"},{"surface":"על","gloss":"maa"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisraelfoɔ"}],"timestamp":"2026-09-15T22:30:56.694900918Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 25:13",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɛbɛyɛ ne dea, ne ne nkyirima a ɔbɛto no, ɔyaredan abamu; ɛyɛ asɔfoɔ som a ɛkɔ so daa, ɛfiri sɛ ɔyɛɛ akokɔduru maa ne Eloohim, na ɔyɛɛ esiane maa Yisraelfoɔ mma.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nea"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "ne ne nkyirima"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "a ɔbɛto no"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ɔyaredan abamu"
+    },
+    {
+      "surface": "כהנת",
+      "gloss": "asɔfoɔ som"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛkɔ so daa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ɔyɛɛ akokɔduru"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "maa ne Eloohim"
+    },
+    {
+      "surface": "ויכפר",
+      "gloss": "na ɔyɛɛ esiane"
+    },
+    {
+      "surface": "על",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:30:56.694900918Z",
+  "model": "glm-5.3"
+}

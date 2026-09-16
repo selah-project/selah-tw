@@ -1,1 +1,84 @@
-{"tier":"glm-5.2","verse":33,"ref":"leviticus 16:33","book":"leviticus","lang":"tw","chapter":16,"translation":"Na ɔbɛkyɛ ⟨את⟩ asɔredan kronkron no, na ⟨את⟩ nhyiamu tent no, na ⟨את⟩ opono no ɔbɛkyɛ; na ɔbɛkyɛ asɔfoɔ no, na ɔbɛkyɛ nnipa dodoɔ no nyinaa — amanbumufoɔ no.","tokens":[{"surface":"וכפר","gloss":"Na ɔbɛkyɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"asɔredan kronkron no"},{"surface":"מקדש","gloss":"asɔredan"},{"surface":"הקדש","gloss":"kronkron no"},{"surface":"ואת","gloss":"na ⟨את⟩","marks":"nhyiamu tent no"},{"surface":"אהל","gloss":"tent"},{"surface":"מועד","gloss":"nhyiamu"},{"surface":"ואת","gloss":"na ⟨את⟩","marks":"opono no"},{"surface":"המזבח","gloss":"opono no"},{"surface":"יכפר","gloss":"ɔbɛkyɛ"},{"surface":"ועל","gloss":"na ama"},{"surface":"הכהנים","gloss":"asɔfoɔ no"},{"surface":"ועל","gloss":"na ama"},{"surface":"כל","gloss":"nyinaa"},{"surface":"עם","gloss":"nnipa dodoɔ"},{"surface":"הקהל","gloss":"amanbumufoɔ no"},{"surface":"יכפר","gloss":"ɔbɛkyɛ"}],"timestamp":"2026-09-15T21:16:23.386574858Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔbɛkyɛ ⟨את⟩ asɔredan kronkron no, na ⟨את⟩ nhyiamu tent no, na ⟨את⟩ opono no ɔbɛkyɛ; na ɔbɛkyɛ asɔfoɔ no, na ɔbɛkyɛ nnipa dodoɔ no nyinaa — amanbumufoɔ no.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Na ɔbɛkyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɔredan kronkron no"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "asɔredan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nhyiamu tent no"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "opono no"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "opono no"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ɔbɛkyɛ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ama"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa dodoɔ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "amanbumufoɔ no"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ɔbɛkyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:23.386574858Z",
+  "model": "glm-5.3"
+}

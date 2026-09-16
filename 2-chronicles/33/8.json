@@ -1,1 +1,115 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "2-chronicles 33:8", "book": "2-chronicles", "lang": "tw", "chapter": 33, "translation": "Ɛnna mmerebɔ nhwɛ biara nka sɛ megya Israel ⟨את⟩ nan firi asase a mehyɛɛ mo agya so, gɛl sɛ wɔhwɛ so yɛ ⟨את⟩ deɛ mehyɛɛ wɔn nyinaa — Torah nyinaa, mmara ne atemmu ahodoɔ a ɛwɔ Mose nsa so.", "tokens": [{"surface": "ולא", "gloss": "ɛnna ... nhwɛ biara"}, {"surface": "אוסיף", "gloss": "nka bio"}, {"surface": "להסיר", "gloss": "megya ... firi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israel nan"}, {"surface": "רגל", "gloss": "nan"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "מעל", "gloss": "firi ... so"}, {"surface": "האדמה", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "העמדתי", "gloss": "mehyɛɛ"}, {"surface": "לאבתיכם", "gloss": "mo agya"}, {"surface": "רק", "gloss": "gɛl sɛ"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "ישמרו", "gloss": "wɔhwɛ so"}, {"surface": "לעשות", "gloss": "yɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ ... nyinaa"}, {"surface": "כל", "gloss": "deɛ ... nyinaa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צויתים", "gloss": "mehyɛɛ wɔn"}, {"surface": "לכל", "gloss": "— (nyinaa)"}, {"surface": "התורה", "gloss": "Torah"}, {"surface": "והחקים", "gloss": "ne mmara"}, {"surface": "והמשפטים", "gloss": "ne atemmu ahodoɔ"}, {"surface": "ביד", "gloss": "a ... nsa so"}, {"surface": "משה", "gloss": "Mose"}], "timestamp": "2026-09-16T05:12:28.922475667Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 33:8",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Ɛnna mmerebɔ nhwɛ biara nka sɛ megya Israel ⟨את⟩ nan firi asase a mehyɛɛ mo agya so, gɛl sɛ wɔhwɛ so yɛ ⟨את⟩ deɛ mehyɛɛ wɔn nyinaa — Torah nyinaa, mmara ne atemmu ahodoɔ a ɛwɔ Mose nsa so.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ɛnna ... nhwɛ biara"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nka bio"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "megya ... firi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel nan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi ... so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העמדתי",
+      "gloss": "mehyɛɛ"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "mo agya"
+    },
+    {
+      "surface": "רק",
+      "gloss": "gɛl sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "wɔhwɛ so"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ... nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "deɛ ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "mehyɛɛ wɔn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "— (nyinaa)"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "ne atemmu ahodoɔ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a ... nsa so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-16T05:12:28.922475667Z",
+  "model": "glm-5.3"
+}

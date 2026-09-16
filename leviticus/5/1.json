@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":1,"ref":"leviticus 5:1","book":"leviticus","lang":"tw","chapter":5,"translation":"Na sɛ ɔkra bɛyɛ bɔne, na ɔte nne a ɛyɛ ketea (aduaradeɛ), na ɔno yɛ odansefoɔ — sɛ ɔhunuu anaasɛ ɔnim — sɛ ɔnka a, na ɔbɛsoa ne bɔne.","tokens":[{"surface":"ונפש","gloss":"Na ɔkra"},{"surface":"כי","gloss":"sɛ"},{"surface":"תחטא","gloss":"bɛyɛ bɔne"},{"surface":"ושמעה","gloss":"na ɔte"},{"surface":"קול","gloss":"nne"},{"surface":"אלה","gloss":"ketea (aduaradeɛ)"},{"surface":"והוא","gloss":"na ɔno"},{"surface":"עד","gloss":"yɛ odansefoɔ"},{"surface":"או","gloss":"anaasɛ"},{"surface":"ראה","gloss":"ɔhunuu"},{"surface":"או","gloss":"anaasɛ"},{"surface":"ידע","gloss":"ɔnim"},{"surface":"אם","gloss":"sɛ"},{"surface":"לוא","gloss":"n-"},{"surface":"יגיד","gloss":"ka (nka)"},{"surface":"ונשא","gloss":"ɔbɛsoa"},{"surface":"עונו","gloss":"ne bɔne"}],"timestamp":"2026-09-15T21:10:43.923909159Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na sɛ ɔkra bɛyɛ bɔne, na ɔte nne a ɛyɛ ketea (aduaradeɛ), na ɔno yɛ odansefoɔ — sɛ ɔhunuu anaasɛ ɔnim — sɛ ɔnka a, na ɔbɛsoa ne bɔne.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Na ɔkra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "bɛyɛ bɔne"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "na ɔte"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ketea (aduaradeɛ)"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yɛ odansefoɔ"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ɔhunuu"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ɔnim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ka (nka)"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ɔbɛsoa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ne bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:43.923909159Z",
+  "model": "glm-5.3"
+}

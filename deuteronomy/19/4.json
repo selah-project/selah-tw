@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "deuteronomy 19:4", "book": "deuteronomy", "lang": "tw", "chapter": 19, "translation": "Na yeinom ne asɛm a ɛfa onipa kumfo a ɔtetim kɔ hɔ na ɔtra aseɛ: obi a ɔbɔ ⟨את⟩ n'yɔnko nimdeɛ biara nni mu, na ɔnni ɔtan afra no; ɛnyɛ ndɛ, na ɛnyɛ nnapɔn a atwam no —", "tokens": [{"surface": "וזה", "gloss": "na yeinom"}, {"surface": "דבר", "gloss": "asɛm"}, {"surface": "הרצח", "gloss": "onipa kumfo no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ינוס", "gloss": "ɔtetim"}, {"surface": "שמה", "gloss": "kɔ hɔ"}, {"surface": "וחי", "gloss": "na ɔtra aseɛ"}, {"surface": "אשר", "gloss": "obi a"}, {"surface": "יכה", "gloss": "ɔbɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'yɔnko"}, {"surface": "רעהו", "gloss": "n'yɔnko"}, {"surface": "בבלי", "gloss": "a nimdeɛ biara nni mu"}, {"surface": "דעת", "gloss": "nimdeɛ"}, {"surface": "והוא", "gloss": "na ɔ"}, {"surface": "לא", "gloss": "nni"}, {"surface": "שנא", "gloss": "ɔtan"}, {"surface": "לו", "gloss": "afra no"}, {"surface": "מתמל", "gloss": "ɛnyɛ ndɛ"}, {"surface": "שלשם", "gloss": "na ɛnyɛ nnapɔn a atwam"}], "timestamp": "2026-09-15T21:53:16.587098739Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na yeinom ne asɛm a ɛfa onipa kumfo a ɔtetim kɔ hɔ na ɔtra aseɛ: obi a ɔbɔ ⟨את⟩ n'yɔnko nimdeɛ biara nni mu, na ɔnni ɔtan afra no; ɛnyɛ ndɛ, na ɛnyɛ nnapɔn a atwam no —",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "na yeinom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "onipa kumfo no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ɔtetim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kɔ hɔ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na ɔtra aseɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obi a"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ɔbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'yɔnko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n'yɔnko"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "a nimdeɛ biara nni mu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ɔtan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "afra no"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "ɛnyɛ ndɛ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "na ɛnyɛ nnapɔn a atwam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:16.587098739Z",
+  "model": "glm-5.3"
+}

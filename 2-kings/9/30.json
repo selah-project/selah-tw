@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":30,"ref":"2-kings 9:30","book":"2-kings","lang":"tw","chapter":9,"translation":"Yehu baa Yizreel; na Izebel tee asɛm no, ɔde pukuu siw n'ani, ɔtee ⟨את⟩ ne ti yɛɛ fɛ, na ɔhwɛɛ faa tokuro no mu.","tokens":[{"surface":"ויבוא","gloss":"baa"},{"surface":"יהוא","gloss":"Yehu"},{"surface":"יזרעאלה","gloss":"Yizreel"},{"surface":"ואיזבל","gloss":"na Izebel"},{"surface":"שמעה","gloss":"tee asɛm"},{"surface":"ותשם","gloss":"ɔde ... siw"},{"surface":"בפוך","gloss":"pukuu"},{"surface":"עיניה","gloss":"n'ani"},{"surface":"ותיטב","gloss":"ɔtee ... yɛɛ fɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"ne ti"},{"surface":"ראשה","gloss":"ne ti"},{"surface":"ותשקף","gloss":"ɔhwɛɛ faa"},{"surface":"בעד","gloss":"faa ... mu"},{"surface":"החלון","gloss":"tokuro no"}],"timestamp":"2026-09-15T23:31:09.792497823Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Yehu baa Yizreel; na Izebel tee asɛm no, ɔde pukuu siw n'ani, ɔtee ⟨את⟩ ne ti yɛɛ fɛ, na ɔhwɛɛ faa tokuro no mu.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "na Izebel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tee asɛm"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ɔde ... siw"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "pukuu"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "n'ani"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "ɔtee ... yɛɛ fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ti"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ne ti"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "ɔhwɛɛ faa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "faa ... mu"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "tokuro no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:31:09.792497823Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,118 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-samuel 15:21","book":"2-samuel","lang":"tw","chapter":15,"translation":"Na Itai buaa ⟨את⟩ hene no, ɔkaa sɛ: Sɛ Yawe da so wɔ nkwa mu, na sɛ me Adonai hene no da so wɔ nkwa mu, wɔ beaeɛ a me Adonai hene no bɛwɔ hɔ — sɛ ɛyɛ awu, sɛ ɛyɛ nkwa — hɔ na wo akoadini bɛwɔ.","tokens":[{"surface":"ויען","gloss":"buaa"},{"surface":"אתי","gloss":"Itai"},{"surface":"את","gloss":"⟨את⟩","marks":"hene no"},{"surface":"המלך","gloss":"hene no"},{"surface":"ויאמר","gloss":"ɔkaa sɛ"},{"surface":"חי","gloss":"da so wɔ nkwa mu"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"וחי","gloss":"na sɛ ... da so wɔ nkwa mu"},{"surface":"אדני","gloss":"Adonai"},{"surface":"המלך","gloss":"hene no"},{"surface":"כי","gloss":"sɛ"},{"surface":"אם","gloss":"sɛ (anaasɛ)"},{"surface":"במקום","gloss":"wɔ beaeɛ"},{"surface":"אשר","gloss":"a"},{"surface":"יהיה","gloss":"bɛwɔ"},{"surface":"שם","gloss":"hɔ"},{"surface":"אדני","gloss":"Adonai"},{"surface":"המלך","gloss":"hene no"},{"surface":"אם","gloss":"sɛ"},{"surface":"למות","gloss":"awu"},{"surface":"אם","gloss":"sɛ"},{"surface":"לחיים","gloss":"nkwa"},{"surface":"כי","gloss":"ampa"},{"surface":"שם","gloss":"hɔ"},{"surface":"יהיה","gloss":"bɛwɔ"},{"surface":"עבדך","gloss":"wo akoadini"}],"timestamp":"2026-09-15T23:06:40.756430115Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 15:21",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Itai buaa ⟨את⟩ hene no, ɔkaa sɛ: Sɛ Yawe da so wɔ nkwa mu, na sɛ me Adonai hene no da so wɔ nkwa mu, wɔ beaeɛ a me Adonai hene no bɛwɔ hɔ — sɛ ɛyɛ awu, sɛ ɛyɛ nkwa — hɔ na wo akoadini bɛwɔ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "da so wɔ nkwa mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na sɛ ... da so wɔ nkwa mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ (anaasɛ)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ beaeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛwɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "awu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛwɔ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoadini"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:40.756430115Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":17,"ref":"zechariah 11:17","book":"zechariah","lang":"tw","chapter":11,"translation":"Adɛeɛ, ɔhwɛfoɔ nkwasea a ɔgyaw nnwan no! Afena bɛto ne nsa so, na ne nifa ani so; ne nsa bɛwuw koraa, na ne nifa ani bɛyɛ sum koraa.","tokens":[{"surface":"הוי","gloss":"Adɛeɛ"},{"surface":"רעי","gloss":"ɔhwɛfoɔ"},{"surface":"האליל","gloss":"nkwasea"},{"surface":"עזבי","gloss":"a ɔgyaw"},{"surface":"הצאן","gloss":"nnwan"},{"surface":"חרב","gloss":"Afena"},{"surface":"על","gloss":"so"},{"surface":"זרועו","gloss":"ne nsa"},{"surface":"ועל","gloss":"na ... so"},{"surface":"עין","gloss":"ani"},{"surface":"ימינו","gloss":"nifa"},{"surface":"זרעו","gloss":"ne nsa"},{"surface":"יבוש","gloss":"bɛwuw"},{"surface":"תיבש","gloss":"bɛwuw koraa"},{"surface":"ועין","gloss":"na ne ani"},{"surface":"ימינו","gloss":"nifa"},{"surface":"כהה","gloss":"bɛyɛ sum"},{"surface":"תכהה","gloss":"bɛyɛ sum koraa"}],"timestamp":"2026-09-16T01:29:53.130175714Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 11:17",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Adɛeɛ, ɔhwɛfoɔ nkwasea a ɔgyaw nnwan no! Afena bɛto ne nsa so, na ne nifa ani so; ne nsa bɛwuw koraa, na ne nifa ani bɛyɛ sum koraa.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Adɛeɛ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ɔhwɛfoɔ"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "nkwasea"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "a ɔgyaw"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Afena"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ... so"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "nifa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "יבוש",
+      "gloss": "bɛwuw"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "bɛwuw koraa"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "na ne ani"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "nifa"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "bɛyɛ sum"
+    },
+    {
+      "surface": "תכהה",
+      "gloss": "bɛyɛ sum koraa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:29:53.130175714Z",
+  "model": "glm-5.3"
+}

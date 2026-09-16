@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":15,"ref":"ezekiel 7:15","book":"ezekiel","lang":"tw","chapter":7,"translation":"Amane no wɔ abɔntene, na yadeɛ no ne ɔkɔm no wɔ fie; deɛ ɔwɔ asasetam so, amane bɛkum no, na deɛ ɔwɔ kuro no mu, ɔkɔm ne yadeɛ bɛwe no.","tokens":[{"surface":"החרב","gloss":"amane no"},{"surface":"בחוץ","gloss":"wɔ abɔntene"},{"surface":"והדבר","gloss":"na yadeɛ no"},{"surface":"והרעב","gloss":"na ɔkɔm no"},{"surface":"מבית","gloss":"wɔ fie mu"},{"surface":"אשר","gloss":"deɛ"},{"surface":"בשדה","gloss":"ɔwɔ asasetam so"},{"surface":"בחרב","gloss":"amane"},{"surface":"ימות","gloss":"bɛkum"},{"surface":"ואשר","gloss":"na deɛ"},{"surface":"בעיר","gloss":"ɔwɔ kuro no mu"},{"surface":"רעב","gloss":"ɔkɔm"},{"surface":"ודבר","gloss":"ne yadeɛ"},{"surface":"יאכלנו","gloss":"bɛwe no"}],"timestamp":"2026-09-16T00:36:55.109849669Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Amane no wɔ abɔntene, na yadeɛ no ne ɔkɔm no wɔ fie; deɛ ɔwɔ asasetam so, amane bɛkum no, na deɛ ɔwɔ kuro no mu, ɔkɔm ne yadeɛ bɛwe no.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "amane no"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "wɔ abɔntene"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "na yadeɛ no"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "na ɔkɔm no"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wɔ fie mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ɔwɔ asasetam so"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "amane"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bɛkum"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ɔwɔ kuro no mu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ɔkɔm"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ne yadeɛ"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "bɛwe no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:36:55.109849669Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 135:8","book":"psalms","lang":"tw","chapter":135,"translation":"Nea ɔkum Misraim abakanfoɔ, firi onipa de kɔ aboa so.","tokens":[{"surface":"שהכה","gloss":"Nea ɔkum"},{"surface":"בכורי","gloss":"abakanfoɔ"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"מאדם","gloss":"firi onipa"},{"surface":"עד","gloss":"de kɔ … so"},{"surface":"בהמה","gloss":"aboa"}],"timestamp":"2026-09-16T02:35:30.396654579Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 135,
+  "translation": "Nea ɔkum Misraim abakanfoɔ, firi onipa de kɔ aboa so.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Nea ɔkum"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "abakanfoɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "firi onipa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔ … so"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "aboa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:30.396654579Z",
+  "model": "glm-5.3"
+}

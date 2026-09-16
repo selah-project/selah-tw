@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":17,"ref":"isaiah 37:17","book":"isaiah","lang":"tw","chapter":37,"translation":"Twe wo aso, Yawe, na tie; bue wo ani, Yawe, na hwɛ, na tie ⟨את⟩ Sancherib nsɛm nyinaa a ɔsomaa sɛ ɔmmɔ Eloohim a ɔte ase⟨Eloohim⟩ animtia.","tokens":[{"surface":"הטה","gloss":"Twe"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אזנך","gloss":"wo aso"},{"surface":"ושמע","gloss":"na tie"},{"surface":"פקח","gloss":"bue"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"עינך","gloss":"wo ani"},{"surface":"וראה","gloss":"na hwɛ"},{"surface":"ושמע","gloss":"na tie"},{"surface":"את","gloss":"⟨את⟩","marks":"Sancherib nsɛm nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"דברי","gloss":"nsɛm"},{"surface":"סנחריב","gloss":"Sancherib"},{"surface":"אשר","gloss":"a"},{"surface":"שלח","gloss":"ɔsomaa"},{"surface":"לחרף","gloss":"sɛ ɔmmɔ animtia"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"חי","gloss":"a ɔte ase"}],"timestamp":"2026-09-15T23:53:16.515256156Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 37:17",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Twe wo aso, Yawe, na tie; bue wo ani, Yawe, na hwɛ, na tie ⟨את⟩ Sancherib nsɛm nyinaa a ɔsomaa sɛ ɔmmɔ Eloohim a ɔte ase⟨Eloohim⟩ animtia.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Twe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "wo aso"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na tie"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "bue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "wo ani"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sancherib nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ɔsomaa"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "sɛ ɔmmɔ animtia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a ɔte ase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:53:16.515256156Z",
+  "model": "glm-5.3"
+}

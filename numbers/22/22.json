@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":22,"ref":"numbers 22:22","book":"numbers","lang":"tw","chapter":22,"translation":"Eloohim ani gyee no, ɛfiri sɛ ɔrekɔ; na Yawe bɔfo no gyinaa ɔkwan no so sɛ ɔnsɔ ani so gu no so. Na ɔno regu ne bɔdamoa no so, na ne mmarima mmienu nso ka ne ho.","tokens":[{"surface":"ויחר","gloss":"ani gyee"},{"surface":"אף","gloss":"ani"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"הולך","gloss":"ɔrekɔ"},{"surface":"הוא","gloss":"ɔno"},{"surface":"ויתיצב","gloss":"gyinaa"},{"surface":"מלאך","gloss":"bɔfo"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בדרך","gloss":"ɔkwan no so"},{"surface":"לשטן","gloss":"sɛ ɔnsɔ ani so"},{"surface":"לו","gloss":"gu no so"},{"surface":"והוא","gloss":"na ɔno"},{"surface":"רכב","gloss":"regu"},{"surface":"על","gloss":"so"},{"surface":"אתנו","gloss":"ne bɔdamoa no"},{"surface":"ושני","gloss":"ne mmienu"},{"surface":"נעריו","gloss":"ne mmarima"},{"surface":"עמו","gloss":"ka ne ho"}],"timestamp":"2026-09-15T22:31:21.267114417Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 22:22",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Eloohim ani gyee no, ɛfiri sɛ ɔrekɔ; na Yawe bɔfo no gyinaa ɔkwan no so sɛ ɔnsɔ ani so gu no so. Na ɔno regu ne bɔdamoa no so, na ne mmarima mmienu nso ka ne ho.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ani gyee"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ɔrekɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "bɔfo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɔkwan no so"
+    },
+    {
+      "surface": "לשטן",
+      "gloss": "sɛ ɔnsɔ ani so"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gu no so"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "regu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ne bɔdamoa no"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ne mmienu"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "ne mmarima"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ka ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:21.267114417Z",
+  "model": "glm-5.3"
+}

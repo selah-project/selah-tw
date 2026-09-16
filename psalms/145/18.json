@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":18,"ref":"psalms 145:18","book":"psalms","lang":"tw","chapter":145,"translation":"Yawe ⟨yɛ⟩ nyina baabiara ma wɔn a wɔfrɛ no, ma wɔn nyinaa a wɔfrɛ no wɔ nokorɛ mu.","tokens":[{"surface":"קרוב","gloss":"nyina"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לכל","gloss":"ma wɔn nyinaa"},{"surface":"קראיו","gloss":"a wɔfrɛ no"},{"surface":"לכל","gloss":"ma wɔn nyinaa"},{"surface":"אשר","gloss":"a"},{"surface":"יקראהו","gloss":"wɔfrɛ no"},{"surface":"באמת","gloss":"wɔ nokorɛ mu"}],"timestamp":"2026-09-16T02:38:35.431039544Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Yawe ⟨yɛ⟩ nyina baabiara ma wɔn a wɔfrɛ no, ma wɔn nyinaa a wɔfrɛ no wɔ nokorɛ mu.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma wɔn nyinaa"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "a wɔfrɛ no"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma wɔn nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "wɔfrɛ no"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "wɔ nokorɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:38:35.431039544Z",
+  "model": "glm-5.3"
+}

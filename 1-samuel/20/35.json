@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":35,"ref":"1-samuel 20:35","book":"1-samuel","lang":"tw","chapter":20,"translation":"Anɔpa no Yehonatan kɔɔ wura mu wɔ berɛ a ɔne Dawid hyɛɛ da no mu, na abɔfra ketewa bi ka ho.","tokens":[{"surface":"ויהי","gloss":"wɔ"},{"surface":"בבקר","gloss":"Anɔpa no"},{"surface":"ויצא","gloss":"kɔɔ"},{"surface":"יהונתן","gloss":"Yehonatan"},{"surface":"השדה","gloss":"wura mu"},{"surface":"למועד","gloss":"wɔ berɛ a...hyɛɛ da no mu"},{"surface":"דוד","gloss":"Dawid"},{"surface":"ונער","gloss":"na abɔfra bi"},{"surface":"קטן","gloss":"ketewa"},{"surface":"עמו","gloss":"ka ho"}],"timestamp":"2026-09-15T22:56:03.984206796Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 20:35",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Anɔpa no Yehonatan kɔɔ wura mu wɔ berɛ a ɔne Dawid hyɛɛ da no mu, na abɔfra ketewa bi ka ho.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "Anɔpa no"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura mu"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "wɔ berɛ a...hyɛɛ da no mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "na abɔfra bi"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ketewa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ka ho"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:03.984206796Z",
+  "model": "glm-5.3"
+}

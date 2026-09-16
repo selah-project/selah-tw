@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":7,"ref":"haggai 2:7","book":"haggai","lang":"tw","chapter":2,"translation":"Mɛwoso ⟨את⟩ amanaman nyinaa, na hwee a amanaman nyinaa pɛ no bɛba, na mɛma ⟨את⟩ fie yi ahyɛ animuonyam, Yawe Sabaoot se.","tokens":[{"surface":"והרעשתי","gloss":"Mɛwoso"},{"surface":"את","gloss":"⟨את⟩","marks":"amanaman nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הגוים","gloss":"amanaman"},{"surface":"ובאו","gloss":"na ... bɛba"},{"surface":"חמדת","gloss":"hwee a ... pɛ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הגוים","gloss":"amanaman"},{"surface":"ומלאתי","gloss":"na mɛma ... ahyɛ ma"},{"surface":"את","gloss":"⟨את⟩","marks":"fie yi"},{"surface":"הבית","gloss":"fie"},{"surface":"הזה","gloss":"yi"},{"surface":"כבוד","gloss":"animuonyam"},{"surface":"אמר","gloss":"se"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"}],"timestamp":"2026-09-16T01:27:22.708724125Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Mɛwoso ⟨את⟩ amanaman nyinaa, na hwee a amanaman nyinaa pɛ no bɛba, na mɛma ⟨את⟩ fie yi ahyɛ animuonyam, Yawe Sabaoot se.",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "Mɛwoso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanaman nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na ... bɛba"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "hwee a ... pɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "na mɛma ... ahyɛ ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie yi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:22.708724125Z",
+  "model": "glm-5.3"
+}

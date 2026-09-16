@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "numbers 8:22", "book": "numbers", "lang": "tw", "chapter": 8, "translation": "Afei, wɔ akyire no, Lɛvifoɔ no baeɛ bɛyɛɛ ⟨את⟩ wɔn som adwuma wɔ Hyia Tɛntɛn no mu, wɔ Aharon anim ne ne mma anim; sɛnea Yawe hyɛɛ Mose ⟨את⟩ wɔ Lɛvifoɔ no ho no, saa na wɔyɛɛ maa wɔn.", "tokens": [{"surface": "ואחרי", "gloss": "wɔ akyire no"}, {"surface": "כן", "gloss": "afei"}, {"surface": "באו", "gloss": "baeɛ"}, {"surface": "הלוים", "gloss": "Lɛvifoɔ no"}, {"surface": "לעבד", "gloss": "bɛyɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn som adwuma"}, {"surface": "עבדתם", "gloss": "wɔn som adwuma"}, {"surface": "באהל", "gloss": "wɔ ... mu"}, {"surface": "מועד", "gloss": "Hyia Tɛntɛn"}, {"surface": "לפני", "gloss": "wɔ ... anim"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ולפני", "gloss": "ne ... anim"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Mose"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "על", "gloss": "wɔ ... ho"}, {"surface": "הלוים", "gloss": "Lɛvifoɔ no"}, {"surface": "כן", "gloss": "saa"}, {"surface": "עשו", "gloss": "wɔyɛɛ"}, {"surface": "להם", "gloss": "maa wɔn"}], "timestamp": "2026-09-15T21:29:12.198865473Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 8:22",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Afei, wɔ akyire no, Lɛvifoɔ no baeɛ bɛyɛɛ ⟨את⟩ wɔn som adwuma wɔ Hyia Tɛntɛn no mu, wɔ Aharon anim ne ne mma anim; sɛnea Yawe hyɛɛ Mose ⟨את⟩ wɔ Lɛvifoɔ no ho no, saa na wɔyɛɛ maa wɔn.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "wɔ akyire no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "afei"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baeɛ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lɛvifoɔ no"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bɛyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn som adwuma"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "wɔn som adwuma"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hyia Tɛntɛn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ne ... anim"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lɛvifoɔ no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maa wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:12.198865473Z",
+  "model": "glm-5.3"
+}

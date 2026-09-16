@@ -1,1 +1,117 @@
-{"tier":"glm-5.2","verse":26,"ref":"2-kings 18:26","book":"2-kings","lang":"tw","chapter":18,"translation":"Na Elyakim, Hilkia ba, ne Shebna ne Yoah kaa kyerɛɛ Rabshakeh sɛ: Yɛsrɛ wo, kasa Aram kasa kyerɛ wo nkoa, ɛfiri sɛ yɛte ase; na wonkasa Yuda kasa nkyerɛ yɛn wɔ nnipa a wɔwɔ mporam no so aso.","tokens":[{"surface":"ויאמר","gloss":"na … kaa kyerɛɛ"},{"surface":"אליקים","gloss":"Elyakim"},{"surface":"בן","gloss":"ba"},{"surface":"חלקיהו","gloss":"Hilkia"},{"surface":"ושבנה","gloss":"ne Shebna"},{"surface":"ויואח","gloss":"ne Yoah"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"רב","gloss":"Rab-"},{"surface":"שקה","gloss":"-shakeh"},{"surface":"דבר","gloss":"kasa"},{"surface":"נא","gloss":"yɛsrɛ wo"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"עבדיך","gloss":"wo nkoa"},{"surface":"ארמית","gloss":"Aram kasa"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"שמעים","gloss":"yɛte ase"},{"surface":"אנחנו","gloss":"yɛn"},{"surface":"ואל","gloss":"na wo nkasa"},{"surface":"תדבר","gloss":"nkasa"},{"surface":"עמנו","gloss":"ne yɛn"},{"surface":"יהודית","gloss":"Yuda kasa"},{"surface":"באזני","gloss":"wɔ … aso"},{"surface":"העם","gloss":"nnipa"},{"surface":"אשר","gloss":"a"},{"surface":"על","gloss":"wɔ"},{"surface":"החמה","gloss":"mporam no"}],"timestamp":"2026-09-15T23:36:38.375082017Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 18:26",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Elyakim, Hilkia ba, ne Shebna ne Yoah kaa kyerɛɛ Rabshakeh sɛ: Yɛsrɛ wo, kasa Aram kasa kyerɛ wo nkoa, ɛfiri sɛ yɛte ase; na wonkasa Yuda kasa nkyerɛ yɛn wɔ nnipa a wɔwɔ mporam no so aso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na … kaa kyerɛɛ"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkia"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "ne Shebna"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "ne Yoah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-shakeh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yɛsrɛ wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo nkoa"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "Aram kasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "yɛte ase"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wo nkasa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nkasa"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ne yɛn"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Yuda kasa"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "wɔ … aso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "mporam no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:36:38.375082017Z",
+  "model": "glm-5.3"
+}

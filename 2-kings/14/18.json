@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":18,"ref":"2-kings 14:18","book":"2-kings","lang":"tw","chapter":14,"translation":"Na deɛ ɛka Amatsia nsɛm no, wonyɛ nsɛm no nyinaa wo atwerɛ wɔ nsɛm nwoma mu, Yehuda ahene nn da mu? Hwen na ɛnni hɔ — wɔatwerɛ wɔ Ɔsoro Nwoma (Chronicles) mu.","tokens":[{"surface":"ויתר","gloss":"deɛ ɛka"},{"surface":"דברי","gloss":"nsɛm"},{"surface":"אמציהו","gloss":"Amatsia"},{"surface":"הלא","gloss":"wonyɛ... ?"},{"surface":"הם","gloss":"no nyinaa"},{"surface":"כתובים","gloss":"wɔatwerɛ"},{"surface":"על","gloss":"wɔ"},{"surface":"ספר","gloss":"nwoma"},{"surface":"דברי","gloss":"nsɛm"},{"surface":"הימים","gloss":"nn"},{"surface":"למלכי","gloss":"ahene"},{"surface":"יהודה","gloss":"Yehuda"}],"timestamp":"2026-09-15T23:33:09.310502840Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 14:18",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na deɛ ɛka Amatsia nsɛm no, wonyɛ nsɛm no nyinaa wo atwerɛ wɔ nsɛm nwoma mu, Yehuda ahene nn da mu? Hwen na ɛnni hɔ — wɔatwerɛ wɔ Ɔsoro Nwoma (Chronicles) mu.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "deɛ ɛka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsia"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "wonyɛ... ?"
+    },
+    {
+      "surface": "הם",
+      "gloss": "no nyinaa"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "wɔatwerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nn"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ahene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:09.310502840Z",
+  "model": "glm-5.3"
+}

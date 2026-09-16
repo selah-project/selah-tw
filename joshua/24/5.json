@@ -1,1 +1,72 @@
-{"tier": "glm-5.3", "verse": 5, "ref": "joshua 24:5", "book": "joshua", "lang": "tw", "chapter": 24, "translation": "Mede ⟨את⟩ Moshe ne ⟨את⟩ Aharon somaa, na mebɔɔ ⟨את⟩ Misraim sofɔw sɛnea meyɛeɛ wɔ ne mu; akyire yi mepie ⟨את⟩ mo firii mu.", "tokens": [{"surface": "ואשלח", "gloss": "mesomaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moshe"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ואגף", "gloss": "mebɔɔ sofɔw"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Misraim"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "עשיתי", "gloss": "meyɛeɛ"}, {"surface": "בקרבו", "gloss": "wɔ ne mu"}, {"surface": "ואחר", "gloss": "akyire yi"}, {"surface": "הוצאתי", "gloss": "mepie mo firii mu"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}], "timestamp": "2026-09-16T06:31:52.325579679Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.3",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Mede ⟨את⟩ Moshe ne ⟨את⟩ Aharon somaa, na mebɔɔ ⟨את⟩ Misraim sofɔw sɛnea meyɛeɛ wɔ ne mu; akyire yi mepie ⟨את⟩ mo firii mu.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "mesomaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "mebɔɔ sofɔw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "meyɛeɛ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "wɔ ne mu"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "akyire yi"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mepie mo firii mu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-16T06:31:52.325579679Z",
+  "model": "glm-5.3"
+}

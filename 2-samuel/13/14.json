@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "2-samuel 13:14", "book": "2-samuel", "lang": "tw", "chapter": 13, "translation": "Na ɔampɛ da sɛ ɔbɛtie ne nne, na ɔyɛɛ den sen ⟨את⟩ no, na odii no so, na odɔe no.", "tokens": [{"surface": "ולא", "gloss": "Na ... da"}, {"surface": "אבה", "gloss": "ampɛ"}, {"surface": "לשמע", "gloss": "sɛ ɔbɛtie"}, {"surface": "בקולה", "gloss": "ne nne"}, {"surface": "ויחזק", "gloss": "ɔyɛɛ den"}, {"surface": "ממנה", "gloss": "sen no"}, {"surface": "ויענה", "gloss": "odii no so"}, {"surface": "וישכב", "gloss": "odɔe"}, {"surface": "אתה", "gloss": "⟨את⟩ no", "marks": "no (Tamar)"}], "timestamp": "2026-09-15T23:06:23.160154597Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔampɛ da sɛ ɔbɛtie ne nne, na ɔyɛɛ den sen ⟨את⟩ no, na odii no so, na odɔe no.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ... da"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ampɛ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sɛ ɔbɛtie"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "ne nne"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ɔyɛɛ den"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sen no"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "odii no so"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "odɔe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Tamar)"
+    }
+  ],
+  "timestamp": "2026-09-15T23:06:23.160154597Z",
+  "model": "glm-5.3"
+}

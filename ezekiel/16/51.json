@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 51, "ref": "ezekiel 16:51", "book": "ezekiel", "lang": "tw", "chapter": 16, "translation": "Na Samaria antumi anbɔ wo mfomɔɔ no fa mpo; na wodɔɔ so wɔ ⟨את⟩ wo nneyɛeɛ ɔyaw mu kyɛn wɔn, na woamaa ⟨את⟩ wo nuanom ayɛ trenee wɔ wo ɔyaw nyinaa mu a woyɛeɛ no mu.", "tokens": [{"surface": "ושמרון", "gloss": "na Samaria"}, {"surface": "כחצי", "gloss": "fa"}, {"surface": "חטאתיך", "gloss": "wo mfomɔɔ"}, {"surface": "לא", "gloss": "antumi an"}, {"surface": "חטאה", "gloss": "bɔ mfomɔɔ"}, {"surface": "ותרבי", "gloss": "na wodɔɔ so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nneyɛeɛ ɔyaw"}, {"surface": "תועבותיך", "gloss": "wo nneyɛeɛ ɔyaw"}, {"surface": "מהנה", "gloss": "kyɛn wɔn"}, {"surface": "ותצדקי", "gloss": "na woamaa ... ayɛ trenee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nuanom"}, {"surface": "אחותך", "gloss": "wo nua"}, {"surface": "בכל", "gloss": "nyinaa mu"}, {"surface": "תועבותיך", "gloss": "wo ɔyaw"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשיתי", "gloss": "woyɛeɛ"}], "timestamp": "2026-09-16T00:42:03.775740839Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezekiel 16:51",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Samaria antumi anbɔ wo mfomɔɔ no fa mpo; na wodɔɔ so wɔ ⟨את⟩ wo nneyɛeɛ ɔyaw mu kyɛn wɔn, na woamaa ⟨את⟩ wo nuanom ayɛ trenee wɔ wo ɔyaw nyinaa mu a woyɛeɛ no mu.",
+  "tokens": [
+    {
+      "surface": "ושמרון",
+      "gloss": "na Samaria"
+    },
+    {
+      "surface": "כחצי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "wo mfomɔɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "antumi an"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "bɔ mfomɔɔ"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "na wodɔɔ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nneyɛeɛ ɔyaw"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "wo nneyɛeɛ ɔyaw"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "kyɛn wɔn"
+    },
+    {
+      "surface": "ותצדקי",
+      "gloss": "na woamaa ... ayɛ trenee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nuanom"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "wo ɔyaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "woyɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:42:03.775740839Z",
+  "model": "glm-5.3"
+}

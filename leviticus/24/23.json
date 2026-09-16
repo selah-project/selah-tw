@@ -1,1 +1,104 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "leviticus 24:23", "book": "leviticus", "lang": "tw", "chapter": 24, "translation": "Na Moshe kasa kyerɛɛ Yisrael mma; na wɔde ⟨את⟩ wɔn a wɔkaa afɔdwm no baeɛ kɔɔ asɔredan no akyi, na wɔde ⟨את⟩ aboɔ bɔɔ no kum; na Yisrael mma yɛɛ sɛnea Yawe hyɛɛ ⟨את⟩ Moshe no.", "tokens": [{"surface": "וידבר", "gloss": "Na … kasa kyerɛɛ"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "ויוציאו", "gloss": "na wɔde … baeɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn a wɔkaa afɔdwm no"}, {"surface": "המקלל", "gloss": "wɔn a wɔkaa afɔdwm"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "מחוץ", "gloss": "akyi"}, {"surface": "למחנה", "gloss": "asɔredan no"}, {"surface": "וירגמו", "gloss": "na wɔde aboɔ bɔɔ no kum"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "אבן", "gloss": "aboɔ"}, {"surface": "ובני", "gloss": "na … mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "עשו", "gloss": "yɛɛ"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moshe"}, {"surface": "משה", "gloss": "Moshe"}], "timestamp": "2026-09-15T21:21:39.962009968Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 24:23",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na Moshe kasa kyerɛɛ Yisrael mma; na wɔde ⟨את⟩ wɔn a wɔkaa afɔdwm no baeɛ kɔɔ asɔredan no akyi, na wɔde ⟨את⟩ aboɔ bɔɔ no kum; na Yisrael mma yɛɛ sɛnea Yawe hyɛɛ ⟨את⟩ Moshe no.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na … kasa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "na wɔde … baeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔkaa afɔdwm no"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "wɔn a wɔkaa afɔdwm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "asɔredan no"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "na wɔde aboɔ bɔɔ no kum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na … mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:39.962009968Z",
+  "model": "glm-5.3"
+}

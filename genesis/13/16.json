@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "genesis 13:16", "book": "genesis", "lang": "tw", "chapter": 13, "translation": "Na mɛma ⟨את⟩ wo nkyirimma ayɛ te sɛ asase no mfuturo; sɛ ɔbarima tumi kan asase no mfuturo a, na ⟨את⟩ wo nkyirimma nso wobɛkan no.", "tokens": [{"surface": "ושמתי", "gloss": "Na mɛma ... ayɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nkyirimma"}, {"surface": "זרעך", "gloss": "wo nkyirimma"}, {"surface": "כעפר", "gloss": "te sɛ ... mfuturo"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "אשר", "gloss": "(nkyerɛkyerɛmu)"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "יוכל", "gloss": "tumi"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "למנות", "gloss": "kan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no mfuturo"}, {"surface": "עפר", "gloss": "mfuturo"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "גם", "gloss": "nso"}, {"surface": "זרעך", "gloss": "wo nkyirimma"}, {"surface": "ימנה", "gloss": "wobɛkan no"}], "timestamp": "2026-09-15T20:19:07.717899024Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na mɛma ⟨את⟩ wo nkyirimma ayɛ te sɛ asase no mfuturo; sɛ ɔbarima tumi kan asase no mfuturo a, na ⟨את⟩ wo nkyirimma nso wobɛkan no.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Na mɛma ... ayɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nkyirimma"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nkyirimma"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "te sɛ ... mfuturo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(nkyerɛkyerɛmu)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no mfuturo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mfuturo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nkyirimma"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "wobɛkan no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:07.717899024Z",
+  "model": "glm-5.3"
+}

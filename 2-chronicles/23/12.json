@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "2-chronicles 23:12", "book": "2-chronicles", "lang": "tw", "chapter": 23, "translation": "Na Atalya tee nnipa no ⟨את⟩ nne — wɔn a wɔredi mmirikaturo na wɔrekyerɛ ⟨את⟩ ɔhene no animuonyam — na ɔbaa nnipa no mu wɔ Yawe fie no mu.", "tokens": [{"surface": "ותשמע", "gloss": "tee"}, {"surface": "עתליהו", "gloss": "Atalya"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnipa no nne"}, {"surface": "קול", "gloss": "nne"}, {"surface": "העם", "gloss": "nnipa"}, {"surface": "הרצים", "gloss": "redi mmirikaturo"}, {"surface": "והמהללים", "gloss": "rekyerɛ animuonyam"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔhene"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "ותבוא", "gloss": "baa"}, {"surface": "אל", "gloss": "mu"}, {"surface": "העם", "gloss": "nnipa"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T05:04:55.334510040Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Atalya tee nnipa no ⟨את⟩ nne — wɔn a wɔredi mmirikaturo na wɔrekyerɛ ⟨את⟩ ɔhene no animuonyam — na ɔbaa nnipa no mu wɔ Yawe fie no mu.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no nne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "redi mmirikaturo"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "rekyerɛ animuonyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:04:55.334510040Z",
+  "model": "glm-5.3"
+}

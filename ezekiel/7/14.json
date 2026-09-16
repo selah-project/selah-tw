@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":14,"ref":"ezekiel 7:14","book":"ezekiel","lang":"tw","chapter":7,"translation":"Wɔbɔɔ asɔw no, na wɔhyɛɛ nyinaa den, nanso obiara nni hɔ a ɔkɔ ɔko mu; ɛfiri sɛ me bufuo wɔ nkuo no nyinaa so.","tokens":[{"surface":"תקעו","gloss":"wɔbɔɔ"},{"surface":"בתקוע","gloss":"asɔw no"},{"surface":"והכין","gloss":"na wɔhyɛɛ den"},{"surface":"הכל","gloss":"nyinaa"},{"surface":"ואין","gloss":"nanso obiara nni hɔ"},{"surface":"הלך","gloss":"a ɔkɔ"},{"surface":"למלחמה","gloss":"ɔko mu"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"חרוני","gloss":"me bufuo"},{"surface":"אל","gloss":"so"},{"surface":"כל","gloss":"nyinaa"},{"surface":"המונה","gloss":"nkuo no dodoɔ"}],"timestamp":"2026-09-16T00:36:55.109667089Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 7:14",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Wɔbɔɔ asɔw no, na wɔhyɛɛ nyinaa den, nanso obiara nni hɔ a ɔkɔ ɔko mu; ɛfiri sɛ me bufuo wɔ nkuo no nyinaa so.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "wɔbɔɔ"
+    },
+    {
+      "surface": "בתקוע",
+      "gloss": "asɔw no"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "na wɔhyɛɛ den"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nanso obiara nni hɔ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a ɔkɔ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ɔko mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "חרוני",
+      "gloss": "me bufuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "nkuo no dodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:36:55.109667089Z",
+  "model": "glm-5.3"
+}

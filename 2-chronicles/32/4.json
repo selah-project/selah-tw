@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "2-chronicles 32:4", "book": "2-chronicles", "lang": "tw", "chapter": 32, "translation": "Nnipa bebree boaa wɔn ho bom, wɔsii atare ⟨את⟩ nyinaa ano, ne ⟨את⟩ asubɔnten a ɛsene fa asase no mu, sɛ: Adɛn nti na Ashur ahemfo bɛba abɛhunu nsuo pii?", "tokens": [{"surface": "ויקבצו", "gloss": "wɔboaa wɔn ho bom"}, {"surface": "עם", "gloss": "nnipa"}, {"surface": "רב", "gloss": "bebree"}, {"surface": "ויסתמו", "gloss": "wɔsii ano"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "המעינות", "gloss": "atore"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "asubɔnten"}, {"surface": "הנחל", "gloss": "asubɔnten"}, {"surface": "השוטף", "gloss": "a ɛsene"}, {"surface": "בתוך", "gloss": "fa mu"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "למה", "gloss": "Adɛn"}, {"surface": "יבואו", "gloss": "bɛba"}, {"surface": "מלכי", "gloss": "ahemfo"}, {"surface": "אשור", "gloss": "Ashur"}, {"surface": "ומצאו", "gloss": "abɛhunu"}, {"surface": "מים", "gloss": "nsuo"}, {"surface": "רבים", "gloss": "pii"}], "timestamp": "2026-09-16T05:09:49.145736046Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Nnipa bebree boaa wɔn ho bom, wɔsii atare ⟨את⟩ nyinaa ano, ne ⟨את⟩ asubɔnten a ɛsene fa asase no mu, sɛ: Adɛn nti na Ashur ahemfo bɛba abɛhunu nsuo pii?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "wɔboaa wɔn ho bom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bebree"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "wɔsii ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "atore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asubɔnten"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "a ɛsene"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "fa mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "abɛhunu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    }
+  ],
+  "timestamp": "2026-09-16T05:09:49.145736046Z",
+  "model": "glm-5.3"
+}

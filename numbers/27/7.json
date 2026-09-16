@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":7,"ref":"numbers 27:7","book":"numbers","lang":"tw","chapter":27,"translation":"Tselophchad mma no de nokorɛ na wɔka; ma wɔn agyapadie wɔ wɔn agyapadie mu wɔ wɔn agya nuanom mu; na fa ⟨את⟩ wɔn agya agyapadɛ no ma wɔn.","tokens":[{"surface":"כן","gloss":"nokwarɛ"},{"surface":"בנות","gloss":"mma"},{"surface":"צלפחד","gloss":"Tselophchad"},{"surface":"דברת","gloss":"wɔka"},{"surface":"נתן","gloss":"ma"},{"surface":"תתן","gloss":"ma"},{"surface":"להם","gloss":"wɔn"},{"surface":"אחזת","gloss":"agyapadie"},{"surface":"נחלה","gloss":"agyapadɛ mu"},{"surface":"בתוך","gloss":"wɔ ... mu"},{"surface":"אחי","gloss":"nuanom"},{"surface":"אביהם","gloss":"wɔn agya"},{"surface":"והעברת","gloss":"na fa"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn agya agyapadε no"},{"surface":"נחלת","gloss":"agyapadɛ"},{"surface":"אביהן","gloss":"wɔn agya"},{"surface":"להן","gloss":"ma wɔn"}],"timestamp":"2026-09-15T21:40:17.508556063Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 27:7",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Tselophchad mma no de nokorɛ na wɔka; ma wɔn agyapadie wɔ wɔn agyapadie mu wɔ wɔn agya nuanom mu; na fa ⟨את⟩ wɔn agya agyapadɛ no ma wɔn.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "nokwarɛ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselophchad"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wɔka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "agyapadie"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "agyapadɛ mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuanom"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "והעברת",
+      "gloss": "na fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn agya agyapadε no"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "agyapadɛ"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ma wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:40:17.508556063Z",
+  "model": "glm-5.3"
+}

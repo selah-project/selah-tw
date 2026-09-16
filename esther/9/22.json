@@ -1,1 +1,117 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "esther 9:22", "book": "esther", "lang": "tw", "chapter": 9, "translation": "Ɛnam sɛDA a Yudafoɔ tenaa aseɛ wɔ wɔn atamfoɔ nsam ⟨את⟩ no so na bosome a ɛdane fir awerɛhoɔ mu baa anigyeɛ mu, fir awufoɔ-suso mu baa da pa so; sɛ wɔbɛyɛ no DA a wɔnom nom ne anigyeɛ wɔ mu, ne sɛ wɔbɔ apata biara yera ne yɔnko, na wɔde nkyɛnoma ma ahiafoɔ.", "tokens": [{"surface": "כימים", "gloss": "Ɛnam sɛ DA"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נחו", "gloss": "tenaa aseɛ"}, {"surface": "בהם", "gloss": "wɔ mu"}, {"surface": "היהודים", "gloss": "Yudafoɔ"}, {"surface": "מאויביהם", "gloss": "wɔn atamfoɔ nsam"}, {"surface": "והחדש", "gloss": "na bosome"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נהפך", "gloss": "ɛdane"}, {"surface": "להם", "gloss": "wɔn kyerɛ"}, {"surface": "מיגון", "gloss": "fir awerɛhoɔ mu"}, {"surface": "לשמחה", "gloss": "baa anigyeɛ mu"}, {"surface": "ומאבל", "gloss": "fir awufoɔ-suso mu"}, {"surface": "ליום", "gloss": "baa DA"}, {"surface": "טוב", "gloss": "pa so"}, {"surface": "לעשות", "gloss": "sɛ wɔbɛyɛ"}, {"surface": "אותם", "gloss": "⟨את⟩ no"}, {"surface": "ימי", "gloss": "DA"}, {"surface": "משתה", "gloss": "a wɔnom nom"}, {"surface": "ושמחה", "gloss": "ne anigyeɛ"}, {"surface": "ומשלוח", "gloss": "ne sɛ wɔbɔ apata"}, {"surface": "מנות", "gloss": "biara"}, {"surface": "איש", "gloss": "onipa"}, {"surface": "לרעהו", "gloss": "ne yɔnko"}, {"surface": "ומתנות", "gloss": "na nkyɛnoma"}, {"surface": "לאביונים", "gloss": "ma ahiafoɔ"}], "timestamp": "2026-09-16T04:02:01.533359279Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 9:22",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɛnam sɛDA a Yudafoɔ tenaa aseɛ wɔ wɔn atamfoɔ nsam ⟨את⟩ no so na bosome a ɛdane fir awerɛhoɔ mu baa anigyeɛ mu, fir awufoɔ-suso mu baa da pa so; sɛ wɔbɛyɛ no DA a wɔnom nom ne anigyeɛ wɔ mu, ne sɛ wɔbɔ apata biara yera ne yɔnko, na wɔde nkyɛnoma ma ahiafoɔ.",
+  "tokens": [
+    {
+      "surface": "כימים",
+      "gloss": "Ɛnam sɛ DA"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נחו",
+      "gloss": "tenaa aseɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yudafoɔ"
+    },
+    {
+      "surface": "מאויביהם",
+      "gloss": "wɔn atamfoɔ nsam"
+    },
+    {
+      "surface": "והחדש",
+      "gloss": "na bosome"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ɛdane"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn kyerɛ"
+    },
+    {
+      "surface": "מיגון",
+      "gloss": "fir awerɛhoɔ mu"
+    },
+    {
+      "surface": "לשמחה",
+      "gloss": "baa anigyeɛ mu"
+    },
+    {
+      "surface": "ומאבל",
+      "gloss": "fir awufoɔ-suso mu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "baa DA"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa so"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ wɔbɛyɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "DA"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "a wɔnom nom"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ne anigyeɛ"
+    },
+    {
+      "surface": "ומשלוח",
+      "gloss": "ne sɛ wɔbɔ apata"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "biara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "ומתנות",
+      "gloss": "na nkyɛnoma"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ma ahiafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:02:01.533359279Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":11,"ref":"isaiah 6:11","book":"isaiah","lang":"tw","chapter":6,"translation":"Na mekasaaa sɛ: Adonai, berɛ tia ahe na? Na ɔkaa sɛ: Kɔsi sɛ nkurow bɛsɛe, na obiara nni mu, na afie nni onipa, na asase bɛyɛ ɛserɛ a abom kwa.","tokens":[{"surface":"ואמר","gloss":"Na mekaa"},{"surface":"עד","gloss":"Kɔsi"},{"surface":"מתי","gloss":"berɛ tia ahe na"},{"surface":"אדני","gloss":"Adonai"},{"surface":"ויאמר","gloss":"Na ɔkaa"},{"surface":"עד","gloss":"Kɔsi"},{"surface":"אשר","gloss":"sɛ"},{"surface":"אם","gloss":"ara (nokwasɛm sɛ)"},{"surface":"שאו","gloss":"bɛsɛe"},{"surface":"ערים","gloss":"nkurow"},{"surface":"מאין","gloss":"obiara nni mu"},{"surface":"יושב","gloss":"ɔtenafo"},{"surface":"ובתים","gloss":"na afie"},{"surface":"מאין","gloss":"nni"},{"surface":"אדם","gloss":"onipa"},{"surface":"והאדמה","gloss":"na asase"},{"surface":"תשאה","gloss":"bɛyera abom"},{"surface":"שממה","gloss":"ɛserɛ a abom kwa"}],"timestamp":"2026-09-15T23:40:46.582594991Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 6:11",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na mekasaaa sɛ: Adonai, berɛ tia ahe na? Na ɔkaa sɛ: Kɔsi sɛ nkurow bɛsɛe, na obiara nni mu, na afie nni onipa, na asase bɛyɛ ɛserɛ a abom kwa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Na mekaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kɔsi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "berɛ tia ahe na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kɔsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ara (nokwasɛm sɛ)"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "bɛsɛe"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "obiara nni mu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ɔtenafo"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "na afie"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "na asase"
+    },
+    {
+      "surface": "תשאה",
+      "gloss": "bɛyera abom"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ɛserɛ a abom kwa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:40:46.582594991Z",
+  "model": "glm-5.3"
+}

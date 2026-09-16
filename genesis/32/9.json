@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":9,"ref":"genesis 32:9","book":"genesis","lang":"tw","chapter":32,"translation":"Na ɔkaa sɛ: Sɛ Esav ba asraafoɔ kuo baako so na ɔbɔ a, na kuo a ɛaka no bɛtumi ate afiri mu.","tokens":[{"surface":"ויאמר","gloss":"Na ɔkaa sɛ"},{"surface":"אם","gloss":"Sɛ"},{"surface":"יבוא","gloss":"ba"},{"surface":"עשו","gloss":"Esav"},{"surface":"אל","gloss":"so"},{"surface":"המחנה","gloss":"asraafoɔ kuo"},{"surface":"האחת","gloss":"baako"},{"surface":"והכהו","gloss":"na ɔbɔ"},{"surface":"והיה","gloss":"na"},{"surface":"המחנה","gloss":"kuo"},{"surface":"הנשאר","gloss":"a ɛaka"},{"surface":"לפליטה","gloss":"bɛtumi ate afiri mu"}],"timestamp":"2026-09-15T20:30:16.905892837Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na ɔkaa sɛ: Sɛ Esav ba asraafoɔ kuo baako so na ɔbɔ a, na kuo a ɛaka no bɛtumi ate afiri mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "asraafoɔ kuo"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "na ɔbɔ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "a ɛaka"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "bɛtumi ate afiri mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:30:16.905892837Z",
+  "model": "glm-5.3"
+}

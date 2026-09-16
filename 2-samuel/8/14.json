@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "2-samuel 8:14", "book": "2-samuel", "lang": "tw", "chapter": 8, "translation": "Ɔde asraa-ahwɛfoɔ sii Edom — wɔ Edom nyinaa mu ɔde asraa-ahwɛfoɔ sii — na Edom nyinaa bɛɛ ⟨את⟩ Dawid nkoa; Yawe gyee Dawid wɔ biribiara a ɔfae mu.", "tokens": [{"surface": "וישם", "gloss": "ɔde ... sii"}, {"surface": "באדום", "gloss": "wɔ Edom"}, {"surface": "נצבים", "gloss": "asraa-ahwɛfoɔ"}, {"surface": "בכל", "gloss": "wɔ ... nyinaa mu"}, {"surface": "אדום", "gloss": "Edom"}, {"surface": "שם", "gloss": "ɔde ... sii"}, {"surface": "נצבים", "gloss": "asraa-ahwɛfoɔ"}, {"surface": "ויהי", "gloss": "na ... bɛɛ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אדום", "gloss": "Edom"}, {"surface": "עבדים", "gloss": "nkoa"}, {"surface": "לדוד", "gloss": "Dawid dea"}, {"surface": "ויושע", "gloss": "gyee"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dawid"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "בכל", "gloss": "wɔ ... nyinaa mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הלך", "gloss": "ɔfae"}], "timestamp": "2026-09-15T23:03:35.021438071Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 8:14",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɔde asraa-ahwɛfoɔ sii Edom — wɔ Edom nyinaa mu ɔde asraa-ahwɛfoɔ sii — na Edom nyinaa bɛɛ ⟨את⟩ Dawid nkoa; Yawe gyee Dawid wɔ biribiara a ɔfae mu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ɔde ... sii"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "wɔ Edom"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "asraa-ahwɛfoɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɔde ... sii"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "asraa-ahwɛfoɔ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ... bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nkoa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "gyee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ɔfae"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:35.021438071Z",
+  "model": "glm-5.3"
+}

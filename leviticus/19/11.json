@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":11,"ref":"leviticus 19:11","book":"leviticus","lang":"tw","chapter":19,"translation":"Ɛnnyɛ hwee na momɔ nkorɔm; na ɛnnyɛ hwee na momimdi nkontompopɔ; na ɛnnyɛ hwee na monnya owu anoa — ɔbarima ne ne yɔnko.","tokens":[{"surface":"לא","gloss":"ɛnnyɛ hwee"},{"surface":"תגנבו","gloss":"momɔ nkorɔm"},{"surface":"ולא","gloss":"na ɛnnyɛ hwee"},{"surface":"תכחשו","gloss":"momimdi atɛmmuka"},{"surface":"ולא","gloss":"na ɛnnyɛ hwee"},{"surface":"תשקרו","gloss":"momma nokorɛ nnyina"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"בעמיתו","gloss":"ne yɔnko"}],"timestamp":"2026-09-15T21:17:03.539559279Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ɛnnyɛ hwee na momɔ nkorɔm; na ɛnnyɛ hwee na momimdi nkontompopɔ; na ɛnnyɛ hwee na monnya owu anoa — ɔbarima ne ne yɔnko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɛnnyɛ hwee"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "momɔ nkorɔm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnnyɛ hwee"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "momimdi atɛmmuka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnnyɛ hwee"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "momma nokorɛ nnyina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ne yɔnko"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:03.539559279Z",
+  "model": "glm-5.3"
+}

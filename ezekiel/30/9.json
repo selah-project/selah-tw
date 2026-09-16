@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "ezekiel 30:9", "book": "ezekiel", "lang": "tw", "chapter": 30, "translation": "Wo ⟨ɛda⟩ no, asomafoɔ bɛfiri me anim ama, wɔhyɛ mmɔhyɛn mu, sɛ wɔbɛhyɛ ⟨את⟩ Kuush a ⟨ɔdi ho⟩ ase dwoodwoo; ɛhuhuarɛ bɛba wɔn mu wɔ Misraim da no, ɛfiri sɛ hwɛ, ɛreba.", "tokens": [{"surface": "ביום", "gloss": "wɔ ɛda no"}, {"surface": "ההוא", "gloss": "no"}, {"surface": "יצאו", "gloss": "bɛfiri … ama"}, {"surface": "מלאכים", "gloss": "asomafoɔ"}, {"surface": "מלפני", "gloss": "firi me anim"}, {"surface": "בצים", "gloss": "wɔ mmɔhyɛn mu"}, {"surface": "להחריד", "gloss": "sɛ wɔbɛhyɛ … ase dwoodwoo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Kuush"}, {"surface": "כוש", "gloss": "Kuush"}, {"surface": "בטח", "gloss": "a ɔdi ho"}, {"surface": "והיתה", "gloss": "bɛba"}, {"surface": "חלחלה", "gloss": "ɛhuhuarɛ"}, {"surface": "בהם", "gloss": "wɔ wɔn mu"}, {"surface": "ביום", "gloss": "wɔ … da no"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "הנה", "gloss": "hwɛ"}, {"surface": "באה", "gloss": "ɛreba"}], "timestamp": "2026-09-16T00:50:27.471892523Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 30:9",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Wo ⟨ɛda⟩ no, asomafoɔ bɛfiri me anim ama, wɔhyɛ mmɔhyɛn mu, sɛ wɔbɛhyɛ ⟨את⟩ Kuush a ⟨ɔdi ho⟩ ase dwoodwoo; ɛhuhuarɛ bɛba wɔn mu wɔ Misraim da no, ɛfiri sɛ hwɛ, ɛreba.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bɛfiri … ama"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "asomafoɔ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "firi me anim"
+    },
+    {
+      "surface": "בצים",
+      "gloss": "wɔ mmɔhyɛn mu"
+    },
+    {
+      "surface": "להחריד",
+      "gloss": "sɛ wɔbɛhyɛ … ase dwoodwoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kuush"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "a ɔdi ho"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "ɛhuhuarɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ wɔn mu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ … da no"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ɛreba"
+    }
+  ],
+  "timestamp": "2026-09-16T00:50:27.471892523Z",
+  "model": "glm-5.3"
+}

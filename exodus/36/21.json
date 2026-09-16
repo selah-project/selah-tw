@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":21,"ref":"exodus 36:21","book":"exodus","lang":"tw","chapter":36,"translation":"Kɔla du na ɔyɛ krataa no tenten, na kɔla baako ne fã wɔ kɔla no mu na ɛyɛ krataa baako no akyi nsɛsoɔ.","tokens":[{"surface":"עשר","gloss":"du"},{"surface":"אמת","gloss":"kɔla (amah)"},{"surface":"ארך","gloss":"tenten"},{"surface":"הקרש","gloss":"krataa no"},{"surface":"ואמה","gloss":"na kɔla baako"},{"surface":"וחצי","gloss":"ne fã"},{"surface":"האמה","gloss":"wɔ kɔla no mu"},{"surface":"רחב","gloss":"akyi nsɛsoɔ"},{"surface":"הקרש","gloss":"krataa no"},{"surface":"האחד","gloss":"baako no"}],"timestamp":"2026-09-15T21:04:48.751056897Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Kɔla du na ɔyɛ krataa no tenten, na kɔla baako ne fã wɔ kɔla no mu na ɛyɛ krataa baako no akyi nsɛsoɔ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kɔla (amah)"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "krataa no"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na kɔla baako"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fã"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wɔ kɔla no mu"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "akyi nsɛsoɔ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "krataa no"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:48.751056897Z",
+  "model": "glm-5.3"
+}

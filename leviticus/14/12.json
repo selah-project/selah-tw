@@ -1,1 +1,81 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "leviticus 14:12", "book": "leviticus", "lang": "tw", "chapter": 14, "translation": "Na asɔfoɔ no bɛfa ⟨את⟩ nnwan ba baako no, de bɛbɔ no ⟨את⟩ asham, ne ⟨את⟩ log ngo no, na ɔbɛbɔ wɔn nsa kɔ soro ⟨את⟩ tenupa wɔ Yawe anim.", "tokens": [{"surface": "ולקח", "gloss": "bɛfa"}, {"surface": "הכהן", "gloss": "asɔfoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnwan ba baako no"}, {"surface": "הכבש", "gloss": "nnwan ba"}, {"surface": "האחד", "gloss": "baako no"}, {"surface": "והקריב", "gloss": "de bɛbɔ asɔdeɛ"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "asham asɔdeɛ"}, {"surface": "לאשם", "gloss": "asham"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "log ngo no"}, {"surface": "לג", "gloss": "log"}, {"surface": "השמן", "gloss": "ngo no"}, {"surface": "והניף", "gloss": "na ɔbɛbɔ wɔn nsa kɔ soro"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "tenupa"}, {"surface": "תנופה", "gloss": "tenupa"}, {"surface": "לפני", "gloss": "wɔ ... anim"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T22:29:32.448061511Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na asɔfoɔ no bɛfa ⟨את⟩ nnwan ba baako no, de bɛbɔ no ⟨את⟩ asham, ne ⟨את⟩ log ngo no, na ɔbɛbɔ wɔn nsa kɔ soro ⟨את⟩ tenupa wɔ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bɛfa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "asɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnwan ba baako no"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nnwan ba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "de bɛbɔ asɔdeɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "asham asɔdeɛ"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "log ngo no"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ngo no"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "na ɔbɛbɔ wɔn nsa kɔ soro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tenupa"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenupa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:29:32.448061511Z",
+  "model": "glm-5.3"
+}

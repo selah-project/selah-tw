@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":29,"ref":"1-chronicles 27:29","book":"1-chronicles","lang":"tw","chapter":27,"translation":"Na wɔ ahwɛ nantwie a wɔwea wɔ Sharon asase so so no, na Shitrai, Sharonni no; na wɔ ahwɛ nantwie a ɛwɔ nsubɔne mu so no, na Shafat, Adlai ba.","tokens":[{"surface":"ועל","gloss":"na wɔ ahwɛ ... so so"},{"surface":"הבקר","gloss":"nantwie"},{"surface":"הרעים","gloss":"a wɔwea"},{"surface":"בשרון","gloss":"wɔ Sharon"},{"surface":"שטרי","gloss":"Shitrai"},{"surface":"השרוני","gloss":"Sharonni"},{"surface":"ועל","gloss":"na wɔ ahwɛ ... so so"},{"surface":"הבקר","gloss":"nantwie"},{"surface":"בעמקים","gloss":"wɔ nsubɔne mu"},{"surface":"שפט","gloss":"Shafat"},{"surface":"בן","gloss":"ba"},{"surface":"עדלי","gloss":"Adlai"}],"timestamp":"2026-09-16T04:50:13.244343244Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 27:29",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na wɔ ahwɛ nantwie a wɔwea wɔ Sharon asase so so no, na Shitrai, Sharonni no; na wɔ ahwɛ nantwie a ɛwɔ nsubɔne mu so no, na Shafat, Adlai ba.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ ahwɛ ... so so"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nantwie"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "a wɔwea"
+    },
+    {
+      "surface": "בשרון",
+      "gloss": "wɔ Sharon"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "Shitrai"
+    },
+    {
+      "surface": "השרוני",
+      "gloss": "Sharonni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ ahwɛ ... so so"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nantwie"
+    },
+    {
+      "surface": "בעמקים",
+      "gloss": "wɔ nsubɔne mu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עדלי",
+      "gloss": "Adlai"
+    }
+  ],
+  "timestamp": "2026-09-16T04:50:13.244343244Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":29,"ref":"1-chronicles 9:29","book":"1-chronicles","lang":"tw","chapter":9,"translation":"Na wɔn mu bi na wɔahyɛ wɔn sɛ wɔnhwɛ ahemawa no so, ne kronkron ahemawa nyinaa so, ne anwensã so, ne nsã no, ne ngo no, ne fankyere no, ne nkaadɔ no.","tokens":[{"surface":"ומהם","gloss":"Na wɔn mu bi"},{"surface":"ממנים","gloss":"wɔahyɛ wɔn"},{"surface":"על","gloss":"so"},{"surface":"הכלים","gloss":"⟨the⟩ ahemawa no"},{"surface":"ועל","gloss":"ne ... so"},{"surface":"כל","gloss":"nyinaa"},{"surface":"כלי","gloss":"ahemawa"},{"surface":"הקדש","gloss":"kronkron"},{"surface":"ועל","gloss":"ne ... so"},{"surface":"הסלת","gloss":"⟨the⟩ anwensã"},{"surface":"והיין","gloss":"ne nsã no"},{"surface":"והשמן","gloss":"ne ngo no"},{"surface":"והלבונה","gloss":"ne fankyere no"},{"surface":"והבשמים","gloss":"ne nkaadɔ no"}],"timestamp":"2026-09-16T04:40:08.594775816Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 9:29",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wɔn mu bi na wɔahyɛ wɔn sɛ wɔnhwɛ ahemawa no so, ne kronkron ahemawa nyinaa so, ne anwensã so, ne nsã no, ne ngo no, ne fankyere no, ne nkaadɔ no.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "Na wɔn mu bi"
+    },
+    {
+      "surface": "ממנים",
+      "gloss": "wɔahyɛ wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "⟨the⟩ ahemawa no"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ahemawa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "הסלת",
+      "gloss": "⟨the⟩ anwensã"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "ne nsã no"
+    },
+    {
+      "surface": "והשמן",
+      "gloss": "ne ngo no"
+    },
+    {
+      "surface": "והלבונה",
+      "gloss": "ne fankyere no"
+    },
+    {
+      "surface": "והבשמים",
+      "gloss": "ne nkaadɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:08.594775816Z",
+  "model": "glm-5.3"
+}

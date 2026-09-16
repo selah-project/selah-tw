@@ -1,1 +1,42 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "psalms 103:12", "book": "psalms", "lang": "tw", "chapter": 103, "translation": "Sɛnea apueɛ kyɛ atɔeɛ adefuom no, saa ara Ɔde ⟨את⟩ yɛn bɔne no akyirikyiri firi yɛn ho.", "tokens": [{"surface": "כרחק", "gloss": "Sɛnea ... kyɛ"}, {"surface": "מזרח", "gloss": "apueɛ"}, {"surface": "ממערב", "gloss": "atɔeɛ"}, {"surface": "הרחיק", "gloss": "dɛ akyirikyiri"}, {"surface": "ממנו", "gloss": "firi yɛn ho"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yɛn bɔne no"}, {"surface": "פשעינו", "gloss": "yɛn bɔne"}], "timestamp": "2026-09-16T02:19:33.269239190Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 103,
+  "translation": "Sɛnea apueɛ kyɛ atɔeɛ adefuom no, saa ara Ɔde ⟨את⟩ yɛn bɔne no akyirikyiri firi yɛn ho.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Sɛnea ... kyɛ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "apueɛ"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "atɔeɛ"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "dɛ akyirikyiri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "firi yɛn ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn bɔne no"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "yɛn bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:33.269239190Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":29,"ref":"genesis 38:29","book":"genesis","lang":"tw","chapter":38,"translation":"Ɛbaa sɛ, sɛ ɔsan de ne nsa no, hwɛ, ne nua no puee; na ɔkaa sɛ: Ɛdeɛn na woapueɛ sɛɛ? — mu-duru no wɔ wo so. Afei wɔtoo ne din Perets.","tokens":[{"surface":"ויהי","gloss":"Ɛbaa sɛ"},{"surface":"כמשיב","gloss":"sɛ ɔsan de"},{"surface":"ידו","gloss":"ne nsa"},{"surface":"והנה","gloss":"hwɛ"},{"surface":"יצא","gloss":"puee"},{"surface":"אחיו","gloss":"ne nua"},{"surface":"ותאמר","gloss":"ɔkaa sɛ"},{"surface":"מה","gloss":"Ɛdeɛn"},{"surface":"פרצת","gloss":"woapueɛ"},{"surface":"עליך","gloss":"w'aso"},{"surface":"פרץ","gloss":"mu-duru no"},{"surface":"ויקרא","gloss":"wɔtoo ne din"},{"surface":"שמו","gloss":"ne din"},{"surface":"פרץ","gloss":"Perets"}],"timestamp":"2026-09-15T20:35:14.286275897Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 38:29",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Ɛbaa sɛ, sɛ ɔsan de ne nsa no, hwɛ, ne nua no puee; na ɔkaa sɛ: Ɛdeɛn na woapueɛ sɛɛ? — mu-duru no wɔ wo so. Afei wɔtoo ne din Perets.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "כמשיב",
+      "gloss": "sɛ ɔsan de"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "puee"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ɛdeɛn"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "woapueɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "w'aso"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "mu-duru no"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wɔtoo ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:14.286275897Z",
+  "model": "glm-5.3"
+}

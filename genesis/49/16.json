@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":16,"ref":"genesis 49:16","book":"genesis","lang":"tw","chapter":49,"translation":"Dan bɛdi ne nkorɔfoɔ asɛm, sɛ Yisrael afanan baako.","tokens":[{"surface":"דן","gloss":"Dan"},{"surface":"ידין","gloss":"bɛdi...asɛm"},{"surface":"עמו","gloss":"ne nkorɔfoɔ"},{"surface":"כאחד","gloss":"sɛ...baako"},{"surface":"שבטי","gloss":"afanan"},{"surface":"ישראל","gloss":"Yisrael"}],"timestamp":"2026-09-15T20:41:42.399151420Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Dan bɛdi ne nkorɔfoɔ asɛm, sɛ Yisrael afanan baako.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bɛdi...asɛm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nkorɔfoɔ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "sɛ...baako"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "afanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:42.399151420Z",
+  "model": "glm-5.3"
+}

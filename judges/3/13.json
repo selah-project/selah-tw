@@ -1,1 +1,72 @@
-{"tier":"glm-5.2","verse":13,"ref":"judges 3:13","book":"judges","lang":"tw","chapter":3,"translation":"Ɔboaboaa ⟨את⟩ aba Bnei Ammon ne Amalek ano, na ɔkɔɔ, ɔbɔɔ ⟨את⟩ Yisrael, na wɔtutusii ⟨את⟩ kuro a ɛdebɔ no.","tokens":[{"surface":"ויאסף","gloss":"ɔboaboaa ano"},{"surface":"אליו","gloss":"ne ho"},{"surface":"את","gloss":"⟨את⟩","marks":"aba Bnei Ammon"},{"surface":"בני","gloss":"aba"},{"surface":"עמון","gloss":"Ammon"},{"surface":"ועמלק","gloss":"ne Amalek"},{"surface":"וילך","gloss":"na ɔkɔɔ"},{"surface":"ויך","gloss":"ɔbɔɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yisrael"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ויירשו","gloss":"na wɔtutusii"},{"surface":"את","gloss":"⟨את⟩","marks":"kuro a εdebɔ no"},{"surface":"עיר","gloss":"kuro"},{"surface":"התמרים","gloss":"a ɛdebɔ no"}],"timestamp":"2026-09-15T22:36:10.551776568Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ɔboaboaa ⟨את⟩ aba Bnei Ammon ne Amalek ano, na ɔkɔɔ, ɔbɔɔ ⟨את⟩ Yisrael, na wɔtutusii ⟨את⟩ kuro a ɛdebɔ no.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ɔboaboaa ano"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aba Bnei Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ne Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "na wɔtutusii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuro a εdebɔ no"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "a ɛdebɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:10.551776568Z",
+  "model": "glm-5.3"
+}

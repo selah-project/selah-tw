@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":7,"ref":"exodus 17:7","book":"exodus","lang":"tw","chapter":17,"translation":"Wɔfrɛɛ baabi no din Massa ne Meriba, ɛfiri sɛ Yisrael mma no gyee agu, na wɔsɔɔ ⟨את⟩ Yawe hwɛɛ, wɔkae sɛ: So Yawe wɔ yɛn mu, anaa ɔnni hɔ?","tokens":[{"surface":"ויקרא","gloss":"wɔfrɛɛ"},{"surface":"שם","gloss":"din"},{"surface":"המקום","gloss":"baabi no"},{"surface":"מסה","gloss":"Massa"},{"surface":"ומריבה","gloss":"ne Meriba"},{"surface":"על","gloss":"ɛfiri sɛ"},{"surface":"ריב","gloss":"gyee agu"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ועל","gloss":"na ɛfiri sɛ"},{"surface":"נסתם","gloss":"wɔsɔɔ ... hwɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לאמר","gloss":"wɔkae sɛ"},{"surface":"היש","gloss":"So"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בקרבנו","gloss":"wɔ yɛn mu"},{"surface":"אם","gloss":"anaa"},{"surface":"אין","gloss":"ɔnni hɔ"}],"timestamp":"2026-09-15T20:52:34.428307093Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Wɔfrɛɛ baabi no din Massa ne Meriba, ɛfiri sɛ Yisrael mma no gyee agu, na wɔsɔɔ ⟨את⟩ Yawe hwɛɛ, wɔkae sɛ: So Yawe wɔ yɛn mu, anaa ɔnni hɔ?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wɔfrɛɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "baabi no"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "ne Meriba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "gyee agu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ɛfiri sɛ"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "wɔsɔɔ ... hwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wɔkae sɛ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "So"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "wɔ yɛn mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɔnni hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:34.428307093Z",
+  "model": "glm-5.3"
+}

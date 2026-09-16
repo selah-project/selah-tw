@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":27,"ref":"deuteronomy 3:27","book":"deuteronomy","lang":"tw","chapter":3,"translation":"Kɔ Pɛsga no atifi soro, na yi w'ani soɔ nhwɛ atɔeɛ, atifi, anaafoɔ, ne epueeɛ; hunu no w'ani soɔ; ɛfiri sɛ wonkɔsɔ ⟨את⟩ Yordan yi so.","tokens":[{"surface":"עלה","gloss":"kɔ ... soro"},{"surface":"ראש","gloss":"atifi"},{"surface":"הפסגה","gloss":"Pɛsga no"},{"surface":"ושא","gloss":"na yi w'ani soɔ"},{"surface":"עיניך","gloss":"w'ani soɔ"},{"surface":"ימה","gloss":"atɔeɛ"},{"surface":"וצפנה","gloss":"atifi"},{"surface":"ותימנה","gloss":"anaafoɔ"},{"surface":"ומזרחה","gloss":"epueeɛ"},{"surface":"וראה","gloss":"hunu"},{"surface":"בעיניך","gloss":"w'ani soɔ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"לא","gloss":"n-"},{"surface":"תעבר","gloss":"kɔsɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yordan yi"},{"surface":"הירדן","gloss":"Yordan"},{"surface":"הזה","gloss":"yi"}],"timestamp":"2026-09-15T21:46:21.118930229Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 3:27",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Kɔ Pɛsga no atifi soro, na yi w'ani soɔ nhwɛ atɔeɛ, atifi, anaafoɔ, ne epueeɛ; hunu no w'ani soɔ; ɛfiri sɛ wonkɔsɔ ⟨את⟩ Yordan yi so.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "kɔ ... soro"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pɛsga no"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "na yi w'ani soɔ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "w'ani soɔ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "atɔeɛ"
+    },
+    {
+      "surface": "וצפנה",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "ותימנה",
+      "gloss": "anaafoɔ"
+    },
+    {
+      "surface": "ומזרחה",
+      "gloss": "epueeɛ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "w'ani soɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "kɔsɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordan yi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:21.118930229Z",
+  "model": "glm-5.3"
+}

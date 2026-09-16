@@ -1,1 +1,55 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "psalms 47:5", "book": "psalms", "lang": "tw", "chapter": 47, "translation": "Ɔpaw ⟨את⟩ yɛn agyapɛdɛ ma yɛn, ⟨את⟩ Yaakob animuonyam, deɛ ɔdɔeɛ. Selah.", "tokens": [{"surface": "יבחר", "gloss": "Ɔpaw"}, {"surface": "לנו", "gloss": "ma yɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yɛn agyapɛdɛ"}, {"surface": "נחלתנו", "gloss": "yɛn agyapɛdɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaakob animuonyam"}, {"surface": "גאון", "gloss": "animuonyam"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "אהב", "gloss": "ɔdɔeɛ"}, {"surface": "סלה", "gloss": "Selah"}], "timestamp": "2026-09-16T01:52:59.787257744Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Ɔpaw ⟨את⟩ yɛn agyapɛdɛ ma yɛn, ⟨את⟩ Yaakob animuonyam, deɛ ɔdɔeɛ. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Ɔpaw"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ma yɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn agyapɛdɛ"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "yɛn agyapɛdɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob animuonyam"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ɔdɔeɛ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:59.787257744Z",
+  "model": "glm-5.3"
+}

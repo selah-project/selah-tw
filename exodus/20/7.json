@@ -1,1 +1,84 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "exodus 20:7", "book": "exodus", "lang": "tw", "chapter": 20, "translation": "Mommf⟨את⟩ a Yawe, mo Eloohim, ⟨את⟩ din no nsi ɛhɔ da; ɛfiri sɛ Yawe remmfa ne ho adane onipa a ɔde ne ⟨את⟩ din si ɛhɔ no.", "tokens": [{"surface": "לא", "gloss": "mm"}, {"surface": "תשא", "gloss": "mfa ... nsi ɛhɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "din"}, {"surface": "שם", "gloss": "din"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיך", "gloss": "mo Eloohim"}, {"surface": "לשוא", "gloss": "ɛhɔ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "nn"}, {"surface": "ינקה", "gloss": "remmfa ne ho adane"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "onipa a ɔde ne din si ɛhɔ no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ישא", "gloss": "ɔde ... si ɛhɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne din"}, {"surface": "שמו", "gloss": "ne din"}, {"surface": "לשוא", "gloss": "ɛhɔ"}], "timestamp": "2026-09-15T20:51:27.460096952Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Mommf⟨את⟩ a Yawe, mo Eloohim, ⟨את⟩ din no nsi ɛhɔ da; ɛfiri sɛ Yawe remmfa ne ho adane onipa a ɔde ne ⟨את⟩ din si ɛhɔ no.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mm"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mfa ... nsi ɛhɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ɛhɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "remmfa ne ho adane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa a ɔde ne din si ɛhɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ɔde ... si ɛhɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ɛhɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:27.460096952Z",
+  "model": "glm-5.3"
+}

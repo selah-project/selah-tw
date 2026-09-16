@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":28,"ref":"psalms 68:28","book":"psalms","lang":"tw","chapter":68,"translation":"Hɔ no Binyamin ketewa no di wɔn so, Yuda mpanimfoɔ ne wɔn nhyiam, Sebulon mpanimfoɔ, Naftali mpanimfoɔ.","tokens":[{"surface":"שם","gloss":"hɔ no"},{"surface":"בנימן","gloss":"Binyamin"},{"surface":"צעיר","gloss":"ketewa no"},{"surface":"רדם","gloss":"di wɔn so"},{"surface":"שרי","gloss":"mpanimfoɔ"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"רגמתם","gloss":"ne wɔn nhyiam"},{"surface":"שרי","gloss":"mpanimfoɔ"},{"surface":"זבלון","gloss":"Sebulon"},{"surface":"שרי","gloss":"mpanimfoɔ"},{"surface":"נפתלי","gloss":"Naftali"}],"timestamp":"2026-09-16T06:56:56.963020928Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 68,
+  "translation": "Hɔ no Binyamin ketewa no di wɔn so, Yuda mpanimfoɔ ne wɔn nhyiam, Sebulon mpanimfoɔ, Naftali mpanimfoɔ.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "hɔ no"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "ketewa no"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "di wɔn so"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "ne wɔn nhyiam"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Sebulon"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    }
+  ],
+  "timestamp": "2026-09-16T06:56:56.963020928Z",
+  "model": "glm-5.3"
+}

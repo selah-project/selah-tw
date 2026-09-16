@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":6,"ref":"jeremiah 9:6","book":"jeremiah","lang":"tw","chapter":9,"translation":"Enti saa na Yawe Sabaoft ka sɛ: Hwɛ, Me wɔ ha; Metɔ wɔn fonomma na Mede wɔn sɔ hwɛ, ɛfiri sɛ, ɛbɛyɛ dɛn na meyɛ, mma me manfoɔ baa no?","tokens":[{"surface":"לכן","gloss":"Enti"},{"surface":"כה","gloss":"saa na"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"הנני","gloss":"Hwɛ, Me wɔ ha"},{"surface":"צורפם","gloss":"Metɔ wɔn fonomma"},{"surface":"ובחנתים","gloss":"na Mede wɔn sɔ hwɛ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"איך","gloss":"ɛbɛyɛ dɛn"},{"surface":"אעשה","gloss":"na meyɛ"},{"surface":"מפני","gloss":"mma"},{"surface":"בת","gloss":"baa"},{"surface":"עמי","gloss":"me manfoɔ"}],"timestamp":"2026-09-16T00:09:27.453661851Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 9:6",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Enti saa na Yawe Sabaoft ka sɛ: Hwɛ, Me wɔ ha; Metɔ wɔn fonomma na Mede wɔn sɔ hwɛ, ɛfiri sɛ, ɛbɛyɛ dɛn na meyɛ, mma me manfoɔ baa no?",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Enti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hwɛ, Me wɔ ha"
+    },
+    {
+      "surface": "צורפם",
+      "gloss": "Metɔ wɔn fonomma"
+    },
+    {
+      "surface": "ובחנתים",
+      "gloss": "na Mede wɔn sɔ hwɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ɛbɛyɛ dɛn"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "na meyɛ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "baa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me manfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:09:27.453661851Z",
+  "model": "glm-5.3"
+}

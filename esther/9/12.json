@@ -1,1 +1,130 @@
-{"tier":"glm-5.2","verse":12,"ref":"esther 9:12","book":"esther","lang":"tw","chapter":9,"translation":"Ɔhene no kaa kyerɛɛ Ɔhemaa Ester sɛ: \"Yehudifoɔ no kunkumuu wɔn, na wɔsɛee nnipa ahiɛnum wɔ Shushan ahemfie hɔ, ne ⟨את⟩ Haman mma dumienu; wɔ rest provinces ɔhene no mu de, deɛ wɔyɛeɛ sɛn? Na w'abisadeɛ deɛ, wobɛma wo; na w'abisadeɛ a aka bio deɛ, wobɛyɛ.\"","tokens":[{"surface":"ויאמר","gloss":"kaa kyerɛɛ"},{"surface":"המלך","gloss":"Ɔhene no"},{"surface":"לאסתר","gloss":"kyerɛɛ Ester"},{"surface":"המלכה","gloss":"Ɔhemaa"},{"surface":"בשושן","gloss":"wɔ Shushan"},{"surface":"הבירה","gloss":"ahemfie hɔ"},{"surface":"הרגו","gloss":"kunkumuu wɔn"},{"surface":"היהודים","gloss":"Yehudifoɔ no"},{"surface":"ואבד","gloss":"na wɔsɛee"},{"surface":"חמש","gloss":"num"},{"surface":"מאות","gloss":"aha"},{"surface":"איש","gloss":"nnipa"},{"surface":"ואת","gloss":"⟨את⟩","marks":"Haman mma dumienu"},{"surface":"עשרת","gloss":"du"},{"surface":"בני","gloss":"mma"},{"surface":"המן","gloss":"Haman"},{"surface":"בשאר","gloss":"wɔ deɛ ɛka"},{"surface":"מדינות","gloss":"aman mu"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"מה","gloss":"sɛn"},{"surface":"עשו","gloss":"wɔyɛeɛ"},{"surface":"ומה","gloss":"na deɛ"},{"surface":"שאלתך","gloss":"w'abisadeɛ"},{"surface":"וינתן","gloss":"wobɛma"},{"surface":"לך","gloss":"wo"},{"surface":"ומה","gloss":"na deɛ"},{"surface":"בקשתך","gloss":"w'abisadeɛ"},{"surface":"עוד","gloss":"bio"},{"surface":"ותעש","gloss":"wobɛyɛ"}],"timestamp":"2026-09-16T06:54:15.481782758Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 9:12",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɔhene no kaa kyerɛɛ Ɔhemaa Ester sɛ: \"Yehudifoɔ no kunkumuu wɔn, na wɔsɛee nnipa ahiɛnum wɔ Shushan ahemfie hɔ, ne ⟨את⟩ Haman mma dumienu; wɔ rest provinces ɔhene no mu de, deɛ wɔyɛeɛ sɛn? Na w'abisadeɛ deɛ, wobɛma wo; na w'abisadeɛ a aka bio deɛ, wobɛyɛ.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene no"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kyerɛɛ Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "Ɔhemaa"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "wɔ Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ahemfie hɔ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kunkumuu wɔn"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudifoɔ no"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "na wɔsɛee"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "num"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haman mma dumienu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "du"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "wɔ deɛ ɛka"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "aman mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛeɛ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "w'abisadeɛ"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "wobɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "w'abisadeɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "wobɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T06:54:15.481782758Z",
+  "model": "glm-5.3"
+}

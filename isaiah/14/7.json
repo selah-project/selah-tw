@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 14:7","book":"isaiah","lang":"tw","chapter":14,"translation":"⟨Asase no nyinaa anya ahome, na asieee; wɔatɔ dwom anom.⟩","tokens":[{"surface":"נחה","gloss":"anya ahome"},{"surface":"שקטה","gloss":"asieee"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הארץ","gloss":"asase no"},{"surface":"פצחו","gloss":"atɔ dwom anom"},{"surface":"רנה","gloss":"dwom"}],"timestamp":"2026-09-15T23:45:03.919829379Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "⟨Asase no nyinaa anya ahome, na asieee; wɔatɔ dwom anom.⟩",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "anya ahome"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "asieee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "atɔ dwom anom"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "dwom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:45:03.919829379Z",
+  "model": "glm-5.3"
+}

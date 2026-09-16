@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":11,"ref":"2-kings 10:11","book":"2-kings","lang":"tw","chapter":10,"translation":"Na Yehu bɔɔ ⟨את⟩ deɛ ɛkaa wɔ Ahab fie mu wɔ Yizreel, ne ne akɛseɛ nyinaa, ne ne nnamfo a wɔnim no nyinaa, ne ne asɔfoɔ nyinaa; ɔansɛ biribiara mma ɔnkɔ so nka no.","tokens":[{"surface":"ויך","gloss":"ɔbɔɔ"},{"surface":"יהוא","gloss":"Yehu"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ ɛkaa no nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הנשארים","gloss":"deɛ ɛkaa"},{"surface":"לבית","gloss":"fie"},{"surface":"אחאב","gloss":"Ahab"},{"surface":"ביזרעאל","gloss":"wɔ Yizreel"},{"surface":"וכל","gloss":"ne ... nyinaa"},{"surface":"גדליו","gloss":"ne akɛseɛ"},{"surface":"ומידעיו","gloss":"ne nnamfo a wɔnim no"},{"surface":"וכהניו","gloss":"ne asɔfoɔ"},{"surface":"עד","gloss":"kɔsi"},{"surface":"בלתי","gloss":"ɛnnee"},{"surface":"השאיר","gloss":"ɔansɛ mma"},{"surface":"לו","gloss":"no"},{"surface":"שריד","gloss":"biribiara a ɛkɔ so nka"}],"timestamp":"2026-09-15T23:31:19.114902510Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Yehu bɔɔ ⟨את⟩ deɛ ɛkaa wɔ Ahab fie mu wɔ Yizreel, ne ne akɛseɛ nyinaa, ne ne nnamfo a wɔnim no nyinaa, ne ne asɔfoɔ nyinaa; ɔansɛ biribiara mma ɔnkɔ so nka no.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛkaa no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "deɛ ɛkaa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "wɔ Yizreel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "ne akɛseɛ"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "ne nnamfo a wɔnim no"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "ne asɔfoɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ɛnnee"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ɔansɛ mma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "biribiara a ɛkɔ so nka"
+    }
+  ],
+  "timestamp": "2026-09-15T23:31:19.114902510Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":47,"ref":"psalms 106:47","book":"psalms","lang":"tw","chapter":106,"translation":"Gye yɛn, Yawe yɛn Eloohim, na boabua yɛn firi aman no mu, na yɛnkyerɛ ne da wɔ wo din kronkron mu, na yɛnho afɛ wɔ wo ayɛmyie mu.","tokens":[{"surface":"הושיענו","gloss":"Gye yɛn"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהינו","gloss":"yɛn Eloohim"},{"surface":"וקבצנו","gloss":"na boabua yɛn"},{"surface":"מן","gloss":"firi"},{"surface":"הגוים","gloss":"aman no mu"},{"surface":"להדות","gloss":"na yɛnkyerɛ ne da"},{"surface":"לשם","gloss":"wɔ ... mu"},{"surface":"קדשך","gloss":"wo din kronkron"},{"surface":"להשתבח","gloss":"na yɛnho afɛ"},{"surface":"בתהלתך","gloss":"wɔ wo ayɛmyie mu"}],"timestamp":"2026-09-16T02:24:33.776714916Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 106:47",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Gye yɛn, Yawe yɛn Eloohim, na boabua yɛn firi aman no mu, na yɛnkyerɛ ne da wɔ wo din kronkron mu, na yɛnho afɛ wɔ wo ayɛmyie mu.",
+  "tokens": [
+    {
+      "surface": "הושיענו",
+      "gloss": "Gye yɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "וקבצנו",
+      "gloss": "na boabua yɛn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman no mu"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "na yɛnkyerɛ ne da"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "wo din kronkron"
+    },
+    {
+      "surface": "להשתבח",
+      "gloss": "na yɛnho afɛ"
+    },
+    {
+      "surface": "בתהלתך",
+      "gloss": "wɔ wo ayɛmyie mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:24:33.776714916Z",
+  "model": "glm-5.3"
+}

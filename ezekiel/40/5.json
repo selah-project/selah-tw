@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":5,"ref":"ezekiel 40:5","book":"ezekiel","lang":"tw","chapter":40,"translation":"Na hwɛ, afasu wɔ fie no akyi, ahyɛ so ahyɛ so; na wɔ ɔbarima no nsa mu no, kanɛ a wɔde susuw — ɛyɛ amma nsia, amma baako ne nsatɛn; ɔsusuui ⟨את⟩ ɛdan no tɛtrɛtɛ — kanɛ baako; na ne sorokɔ — kanɛ baako.","tokens":[{"surface":"והנה","gloss":"Na hwɛ"},{"surface":"חומה","gloss":"afasu"},{"surface":"מחוץ","gloss":"wɔ akyi"},{"surface":"לבית","gloss":"fie no"},{"surface":"סביב","gloss":"ahyɛ so"},{"surface":"סביב","gloss":"ahyɛ so"},{"surface":"וביד","gloss":"na wɔ nsa mu"},{"surface":"האיש","gloss":"ɔbarima no"},{"surface":"קנה","gloss":"kanɛ"},{"surface":"המדה","gloss":"a wɔde susuw"},{"surface":"שש","gloss":"nsia"},{"surface":"אמות","gloss":"amma"},{"surface":"באמה","gloss":"amma baako"},{"surface":"וטפח","gloss":"ne nsatɛn"},{"surface":"וימד","gloss":"ɔsusuui"},{"surface":"את","gloss":"⟨את⟩","marks":"ɛdan no tɛtrɛtɛ"},{"surface":"רחב","gloss":"tɛtrɛtɛ"},{"surface":"הבנין","gloss":"ɛdan no"},{"surface":"קנה","gloss":"kanɛ"},{"surface":"אחד","gloss":"baako"},{"surface":"וקומה","gloss":"na ne sorokɔ"},{"surface":"קנה","gloss":"kanɛ"},{"surface":"אחד","gloss":"baako"}],"timestamp":"2026-09-16T00:56:37.390304788Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 40:5",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na hwɛ, afasu wɔ fie no akyi, ahyɛ so ahyɛ so; na wɔ ɔbarima no nsa mu no, kanɛ a wɔde susuw — ɛyɛ amma nsia, amma baako ne nsatɛn; ɔsusuui ⟨את⟩ ɛdan no tɛtrɛtɛ — kanɛ baako; na ne sorokɔ — kanɛ baako.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Na hwɛ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "afasu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wɔ akyi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ahyɛ so"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ahyɛ so"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na wɔ nsa mu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kanɛ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "a wɔde susuw"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amma baako"
+    },
+    {
+      "surface": "וטפח",
+      "gloss": "ne nsatɛn"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ɔsusuui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛdan no tɛtrɛtɛ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "tɛtrɛtɛ"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "ɛdan no"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kanɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "na ne sorokɔ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kanɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-16T00:56:37.390304788Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-chronicles 29:3","book":"1-chronicles","lang":"tw","chapter":29,"translation":"Na bio, ɛfiri sɛ m'ani gye m'Eloohim fie ho na mewɔ agyapadeɛ — sika kɔkɔɔ ne dwetɛ — migye ama m'Eloohim fie, bɔne nnipa dea boroo deɛ mahyɛɛ ama kronkron fie no nyinaa so.","tokens":[{"surface":"ועוד","gloss":"Na bio"},{"surface":"ברצותי","gloss":"m'ani gye ... ho"},{"surface":"בבית","gloss":"fie"},{"surface":"אלהי","gloss":"m'Eloohim"},{"surface":"יש","gloss":"mewɔ"},{"surface":"לי","gloss":"me"},{"surface":"סגלה","gloss":"agyapadeɛ"},{"surface":"זהב","gloss":"sika kɔkɔɔ"},{"surface":"וכסף","gloss":"ne dwetɛ"},{"surface":"נתתי","gloss":"migye ama"},{"surface":"לבית","gloss":"fie"},{"surface":"אלהי","gloss":"m'Eloohim"},{"surface":"למעלה","gloss":"boroo ... so"},{"surface":"מכל","gloss":"sen deɛ ... nyinaa"},{"surface":"הכינותי","gloss":"mahyɛɛ"},{"surface":"לבית","gloss":"fie"},{"surface":"הקדש","gloss":"kronkron"}],"timestamp":"2026-09-16T04:52:45.829942027Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 29:3",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na bio, ɛfiri sɛ m'ani gye m'Eloohim fie ho na mewɔ agyapadeɛ — sika kɔkɔɔ ne dwetɛ — migye ama m'Eloohim fie, bɔne nnipa dea boroo deɛ mahyɛɛ ama kronkron fie no nyinaa so.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Na bio"
+    },
+    {
+      "surface": "ברצותי",
+      "gloss": "m'ani gye ... ho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "m'Eloohim"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mewɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "agyapadeɛ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ne dwetɛ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "migye ama"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "m'Eloohim"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "boroo ... so"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sen deɛ ... nyinaa"
+    },
+    {
+      "surface": "הכינותי",
+      "gloss": "mahyɛɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    }
+  ],
+  "timestamp": "2026-09-16T04:52:45.829942027Z",
+  "model": "glm-5.3"
+}

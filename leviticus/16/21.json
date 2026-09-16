@@ -1,1 +1,141 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "leviticus 16:21", "book": "leviticus", "lang": "tw", "chapter": 16, "translation": "Na Aharon de ne nsa ⟨את⟩ mmienu bɛsii ⟨את⟩ ɔkraman no a ɔte ase no ti so, na wakahyɛ ne ho asɛm so — ⟨את⟩ Yisraelfoɔ mma bɔne nyinaa ne ⟨את⟩ wɔn asoɔden nyinaa wɔ wɔn bɔne nyinaa mu — de sii ɔkraman no ti so, na ɔde somaa no wɔ ɔbarima a wɔahyɛ no da no nsa mu kɔɔ asaseten mu.", "tokens": [{"surface": "וסמך", "gloss": "bɛsii"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsa mmienu"}, {"surface": "שתי", "gloss": "mmienu"}, {"surface": "ידו", "gloss": "ne nsa"}, {"surface": "על", "gloss": "so"}, {"surface": "ראש", "gloss": "ti"}, {"surface": "השעיר", "gloss": "ɔkraman no"}, {"surface": "החי", "gloss": "a ɔte ase"}, {"surface": "והתודה", "gloss": "na wakahyɛ ne ho asɛm"}, {"surface": "עליו", "gloss": "so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bɔne nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עונת", "gloss": "bɔne"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisraelfoɔ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "asoɔden nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "פשעיהם", "gloss": "wɔn asoɔden"}, {"surface": "לכל", "gloss": "wɔ ... nyinaa mu"}, {"surface": "חטאתם", "gloss": "wɔn bɔne"}, {"surface": "ונתן", "gloss": "de sii"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ti no so"}, {"surface": "על", "gloss": "so"}, {"surface": "ראש", "gloss": "ti"}, {"surface": "השעיר", "gloss": "ɔkraman no"}, {"surface": "ושלח", "gloss": "de somaa"}, {"surface": "ביד", "gloss": "wɔ ... nsa mu"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "עתי", "gloss": "a wɔahyɛ no da"}, {"surface": "המדברה", "gloss": "asaseten mu"}], "timestamp": "2026-09-15T21:17:55.026107052Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 16:21",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Aharon de ne nsa ⟨את⟩ mmienu bɛsii ⟨את⟩ ɔkraman no a ɔte ase no ti so, na wakahyɛ ne ho asɛm so — ⟨את⟩ Yisraelfoɔ mma bɔne nyinaa ne ⟨את⟩ wɔn asoɔden nyinaa wɔ wɔn bɔne nyinaa mu — de sii ɔkraman no ti so, na ɔde somaa no wɔ ɔbarima a wɔahyɛ no da no nsa mu kɔɔ asaseten mu.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "bɛsii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsa mmienu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ɔkraman no"
+    },
+    {
+      "surface": "החי",
+      "gloss": "a ɔte ase"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "na wakahyɛ ne ho asɛm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asoɔden nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "wɔn asoɔden"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "wɔn bɔne"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "de sii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ti no so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ɔkraman no"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "de somaa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wɔ ... nsa mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "a wɔahyɛ no da"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "asaseten mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:55.026107052Z",
+  "model": "glm-5.3"
+}

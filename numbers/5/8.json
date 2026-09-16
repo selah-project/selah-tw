@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":8,"ref":"numbers 5:8","book":"numbers","lang":"tw","chapter":5,"translation":"Na sɛ ɔnni onipa a ɔbɛsan de aka no ho de aba no, aka no a wɔasan de aba no ne Yawe dea — ɔsɔfo no dea; ɛnka oduan ko a wɔde bɛgye no fɔ no ho.","tokens":[{"surface":"ואם","gloss":"Na sɛ"},{"surface":"אין","gloss":"ɛnni"},{"surface":"לאיש","gloss":"onipa a"},{"surface":"גאל","gloss":"ɔbɛsan de aka"},{"surface":"להשיב","gloss":"de aba"},{"surface":"האשם","gloss":"aka no"},{"surface":"אליו","gloss":"no"},{"surface":"האשם","gloss":"aka no"},{"surface":"המושב","gloss":"a wɔasan de aba"},{"surface":"ליהוה","gloss":"Yawe dea"},{"surface":"לכהן","gloss":"ɔsɔfo no dea"},{"surface":"מלבד","gloss":"ɛnka"},{"surface":"איל","gloss":"oduan"},{"surface":"הכפרים","gloss":"ko a wɔde bɛgye no fɔ"},{"surface":"אשר","gloss":"a"},{"surface":"יכפר","gloss":"wɔde bɛgye no fɔ"},{"surface":"בו","gloss":""},{"surface":"עליו","gloss":"no"}],"timestamp":"2026-09-15T21:27:18.563015815Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 5:8",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na sɛ ɔnni onipa a ɔbɛsan de aka no ho de aba no, aka no a wɔasan de aba no ne Yawe dea — ɔsɔfo no dea; ɛnka oduan ko a wɔde bɛgye no fɔ no ho.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "onipa a"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ɔbɛsan de aka"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "de aba"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aka no"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aka no"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "a wɔasan de aba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe dea"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ɔsɔfo no dea"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ɛnka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oduan"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "ko a wɔde bɛgye no fɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "wɔde bɛgye no fɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:18.563015815Z",
+  "model": "glm-5.3"
+}

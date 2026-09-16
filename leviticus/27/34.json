@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 34, "ref": "leviticus 27:34", "book": "leviticus", "lang": "tw", "chapter": 27, "translation": "Nneɛma yi ne nhyehyɛeɛ a Yawe hyɛɛ ⟨את⟩ Moshe sɛ ɔmfa nkɔ Israelfoɔ nkyɛn wɔ Sini bepɔ so.", "tokens": [{"surface": "אלה", "gloss": "nneɛma yi"}, {"surface": "המצות", "gloss": "nhyehyɛeɛ"}, {"surface": "אשר", "gloss": "…no"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moshe"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "אל", "gloss": "sɛ ɔmfa nkɔ"}, {"surface": "בני", "gloss": "…foɔ"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}, {"surface": "בהר", "gloss": "wɔ … bepɔ so"}, {"surface": "סיני", "gloss": "Sini"}], "timestamp": "2026-09-15T21:22:50.540226308Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Nneɛma yi ne nhyehyɛeɛ a Yawe hyɛɛ ⟨את⟩ Moshe sɛ ɔmfa nkɔ Israelfoɔ nkyɛn wɔ Sini bepɔ so.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "nneɛma yi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sɛ ɔmfa nkɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…foɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "wɔ … bepɔ so"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sini"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:50.540226308Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,130 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "joshua 6:25", "book": "joshua", "lang": "tw", "chapter": 6, "translation": "Na Yehosua de ⟨את⟩ Rihab akwatakwa no ne ⟨את⟩ n'agya ⟨את⟩ fie no ne ⟨את⟩ deɛ ɔwɔ nyinaa maa wɔtena ase; ɔtenaa Israel ase mu kɔsii ɛda yi, ɛfiri sɛ ɔkwati asomafoɔ no a Yehosua somaa wɔn kɔhwɛɛ ⟨את⟩ Yeriko.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "Rihab"}, {"surface": "רחב", "gloss": "Rihab"}, {"surface": "הזונה", "gloss": "akwatakwa no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "n'agya fie no"}, {"surface": "בית", "gloss": "fie"}, {"surface": "אביה", "gloss": "n'agya"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "deɛ ɔwɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "לה", "gloss": "ɔwɔ"}, {"surface": "החיה", "gloss": "maa wɔtena ase"}, {"surface": "יהושע", "gloss": "Yehosua"}, {"surface": "ותשב", "gloss": "ɔtenaa"}, {"surface": "בקרב", "gloss": "ase mu"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "היום", "gloss": "ɛda"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "החביאה", "gloss": "ɔkwati"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asomafoɔ no"}, {"surface": "המלאכים", "gloss": "asomafoɔ no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "שלח", "gloss": "somaa"}, {"surface": "יהושע", "gloss": "Yehosua"}, {"surface": "לרגל", "gloss": "kɔhwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yeriko"}, {"surface": "יריחו", "gloss": "Yeriko"}], "timestamp": "2026-09-15T22:03:26.188036284Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 6:25",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yehosua de ⟨את⟩ Rihab akwatakwa no ne ⟨את⟩ n'agya ⟨את⟩ fie no ne ⟨את⟩ deɛ ɔwɔ nyinaa maa wɔtena ase; ɔtenaa Israel ase mu kɔsii ɛda yi, ɛfiri sɛ ɔkwati asomafoɔ no a Yehosua somaa wɔn kɔhwɛɛ ⟨את⟩ Yeriko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rihab"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rihab"
+    },
+    {
+      "surface": "הזונה",
+      "gloss": "akwatakwa no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'agya fie no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɔwɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "maa wɔtena ase"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ɔtenaa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ase mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "החביאה",
+      "gloss": "ɔkwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asomafoɔ no"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "asomafoɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "kɔhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriko"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:26.188036284Z",
+  "model": "glm-5.3"
+}

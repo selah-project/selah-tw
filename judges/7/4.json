@@ -1,1 +1,156 @@
-{"tier":"glm-5.2","verse":4,"ref":"judges 7:4","book":"judges","lang":"tw","chapter":7,"translation":"Yawe kaa kyerɛɛ Gideon se: “Nnurɔfoɔ no dɔɔso dodo daakye; sian ⟨את⟩ wɔn kɔ nsuo ho, na mɛsɔ wɔn hwɛ ama wo wɔ hɔ. Na ɛbɛyɛ sɛ obi a mebɛka kyerɛ wo se, ‘Yi bɛkɔ ⟨את⟩ wo,’ ɔno na ɔbɛkɔ ⟨את⟩ wo; obiara a mebɛka kyerɛ wo se, ‘Yi nnkɔ wo,’ ɔno nnyɛ na ɔnkɔ.”","tokens":[{"surface":"ויאמר","gloss":"kaa"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"גדעון","gloss":"Gideon"},{"surface":"עוד","gloss":"daakye"},{"surface":"העם","gloss":"nnurɔfoɔ no"},{"surface":"רב","gloss":"dɔɔso dodo"},{"surface":"הורד","gloss":"sian"},{"surface":"אותם","gloss":"⟨את⟩ wɔn","marks":"nsuo"},{"surface":"אל","gloss":"kɔ ... ho"},{"surface":"המים","gloss":"nsuo"},{"surface":"ואצרפנו","gloss":"mɛsɔ wɔn hwɛ"},{"surface":"לך","gloss":"ama wo"},{"surface":"שם","gloss":"wɔ hɔ"},{"surface":"והיה","gloss":"na ɛbɛyɛ sɛ"},{"surface":"אשר","gloss":"obi a"},{"surface":"אמר","gloss":"bɛka"},{"surface":"אליך","gloss":"kyerɛ wo"},{"surface":"זה","gloss":"se obi yi"},{"surface":"ילך","gloss":"ɔbɛkɔ"},{"surface":"אתך","gloss":"⟨את⟩ wo","marks":"wo — Gideon"},{"surface":"הוא","gloss":"ɔno"},{"surface":"ילך","gloss":"ɔbɛkɔ"},{"surface":"אתך","gloss":"⟨את⟩ wo","marks":"wo — Gideon"},{"surface":"וכל","gloss":"obiara a"},{"surface":"אשר","gloss":"a"},{"surface":"אמר","gloss":"bɛka"},{"surface":"אליך","gloss":"kyerɛ wo"},{"surface":"זה","gloss":"se obi yi"},{"surface":"לא","gloss":"nnkɔ"},{"surface":"ילך","gloss":"ɔbɛkɔ da"},{"surface":"עמך","gloss":"ne wo"},{"surface":"הוא","gloss":"ɔno"},{"surface":"לא","gloss":"nnkɔ"},{"surface":"ילך","gloss":"ɔnkɔ"}],"timestamp":"2026-09-15T22:39:23.828135223Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 7:4",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yawe kaa kyerɛɛ Gideon se: “Nnurɔfoɔ no dɔɔso dodo daakye; sian ⟨את⟩ wɔn kɔ nsuo ho, na mɛsɔ wɔn hwɛ ama wo wɔ hɔ. Na ɛbɛyɛ sɛ obi a mebɛka kyerɛ wo se, ‘Yi bɛkɔ ⟨את⟩ wo,’ ɔno na ɔbɛkɔ ⟨את⟩ wo; obiara a mebɛka kyerɛ wo se, ‘Yi nnkɔ wo,’ ɔno nnyɛ na ɔnkɔ.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daakye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnurɔfoɔ no"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dɔɔso dodo"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "sian"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "nsuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ ... ho"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "ואצרפנו",
+      "gloss": "mɛsɔ wɔn hwɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obi a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kyerɛ wo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se obi yi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ɔbɛkɔ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo — Gideon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ɔbɛkɔ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo — Gideon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "obiara a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kyerɛ wo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se obi yi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnkɔ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ɔbɛkɔ da"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ne wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnkɔ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ɔnkɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:39:23.828135223Z",
+  "model": "glm-5.3"
+}

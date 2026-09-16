@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "leviticus 20:9", "book": "leviticus", "lang": "tw", "chapter": 20, "translation": "Adeɛ bɛnara a ɔbarima bɛtumi ayɛ — onipa biara a ɔbɛto ⟨את⟩ n'agya ne ne na-awofoɔ animhu, wu awu; wakum ⟨את⟩ n'agya ne ne na-wofoɔ: ne mogya no wɔ ne so.", "tokens": [{"surface": "כי", "gloss": "adeɛ bɛnara a"}, {"surface": "איש", "gloss": "onipa"}, {"surface": "איש", "gloss": "barima biara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יקלל", "gloss": "bɛto animhu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'agya"}, {"surface": "אביו", "gloss": "n'agya"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne na-awofoɔ"}, {"surface": "אמו", "gloss": "ne na-awofoɔ"}, {"surface": "מות", "gloss": "wu"}, {"surface": "יומת", "gloss": "awu"}, {"surface": "אביו", "gloss": "n'agya"}, {"surface": "ואמו", "gloss": "ne na-wofoɔ"}, {"surface": "קלל", "gloss": "watɔ animhu"}, {"surface": "דמיו", "gloss": "ne mogya"}, {"surface": "בו", "gloss": "ne so"}], "timestamp": "2026-09-15T21:19:45.283093448Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Adeɛ bɛnara a ɔbarima bɛtumi ayɛ — onipa biara a ɔbɛto ⟨את⟩ n'agya ne ne na-awofoɔ animhu, wu awu; wakum ⟨את⟩ n'agya ne ne na-wofoɔ: ne mogya no wɔ ne so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "adeɛ bɛnara a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "barima biara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "bɛto animhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'agya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne na-awofoɔ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne na-awofoɔ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "awu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ne na-wofoɔ"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "watɔ animhu"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ne mogya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:45.283093448Z",
+  "model": "glm-5.3"
+}

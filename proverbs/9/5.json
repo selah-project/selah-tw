@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":5,"ref":"proverbs 9:5","book":"proverbs","lang":"tw","chapter":9,"translation":"Momma, mom me aduane, na monom me wayin a mayam de aka ho no.","tokens":[{"surface":"לכו","gloss":"Momma"},{"surface":"לחמו","gloss":"mom (aduane)"},{"surface":"בלחמי","gloss":"wɔ me aduane mu"},{"surface":"ושתו","gloss":"na monom"},{"surface":"ביין","gloss":"wayin"},{"surface":"מסכתי","gloss":"a mayam de aka ho no"}],"timestamp":"2026-09-16T02:50:47.446750290Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Momma, mom me aduane, na monom me wayin a mayam de aka ho no.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Momma"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mom (aduane)"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "wɔ me aduane mu"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "na monom"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "wayin"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "a mayam de aka ho no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:50:47.446750290Z",
+  "model": "glm-5.3"
+}

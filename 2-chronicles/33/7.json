@@ -1,1 +1,127 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "2-chronicles 33:7", "book": "2-chronicles", "lang": "tw", "chapter": 33, "translation": "Na ɔde ⟨את⟩ bɔne-bsere a ɔyɛeɛ no sii Eloohim fie, a Eloohim kyerɛɛ Dawid ne ne ba Selomo se, Wɔ fie yi mu ne Yerusalem a mepaw fɔm Israel afamuon nyinaa mu no, mɛsi ⟨את⟩ me din wɔ hɔ daa.", "tokens": [{"surface": "וישם", "gloss": "na ɔde ... sii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bɔne-bsere"}, {"surface": "פסל", "gloss": "bɔne-bsere"}, {"surface": "הסמל", "gloss": "suman"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשה", "gloss": "ɔyɛeɛ"}, {"surface": "בבית", "gloss": "wɔ ... fie"}, {"surface": "האלהים", "gloss": "Eloohim (de)"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אמר", "gloss": "kyerɛɛ ... se"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אל", "gloss": "kyerɛɛ (kɔ)"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "ואל", "gloss": "ne (kyerɛɛ)"}, {"surface": "שלמה", "gloss": "Selomo"}, {"surface": "בנו", "gloss": "ne ba"}, {"surface": "בבית", "gloss": "wɔ fie ... mu"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "ובירושלם", "gloss": "ne Yerusalem"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בחרתי", "gloss": "mepaw"}, {"surface": "מכל", "gloss": "firi ... nyinaa mu"}, {"surface": "שבטי", "gloss": "afamuon"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "אשים", "gloss": "mɛsi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me din"}, {"surface": "שמי", "gloss": "me din"}, {"surface": "לעילום", "gloss": "daa"}], "timestamp": "2026-09-16T05:12:28.921578763Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 33:7",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na ɔde ⟨את⟩ bɔne-bsere a ɔyɛeɛ no sii Eloohim fie, a Eloohim kyerɛɛ Dawid ne ne ba Selomo se, Wɔ fie yi mu ne Yerusalem a mepaw fɔm Israel afamuon nyinaa mu no, mɛsi ⟨את⟩ me din wɔ hɔ daa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "na ɔde ... sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne-bsere"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "bɔne-bsere"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "suman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛeɛ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ ... fie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim (de)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kyerɛɛ ... se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ (kɔ)"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne (kyerɛɛ)"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie ... mu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ne Yerusalem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mepaw"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa mu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "afamuon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "mɛsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me din"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "me din"
+    },
+    {
+      "surface": "לעילום",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:12:28.921578763Z",
+  "model": "glm-5.3"
+}

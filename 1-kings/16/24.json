@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "1-kings 16:24", "book": "1-kings", "lang": "tw", "chapter": 16, "translation": "Na ɔtɔɔ ⟨את⟩ bepɔ Shomeron ⟨את⟩ firii Shemer nkyɛn sika talent mmienu, na ɔsii ⟨את⟩ bepɔ no, na ɔtoo kuropɔn a ɔsiiɛ no din Shomeron, wɔ Shemer, ⟨את⟩ bepɔ no awura, din.", "tokens": [{"surface": "ויקן", "gloss": "Na ɔtɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bepɔ Shomeron"}, {"surface": "ההר", "gloss": "bepɔ"}, {"surface": "שמרון", "gloss": "Shomeron"}, {"surface": "מאת", "gloss": "firii ... nkyɛn ⟨את⟩"}, {"surface": "שמר", "gloss": "Shemer"}, {"surface": "בככרים", "gloss": "talent"}, {"surface": "כסף", "gloss": "sika"}, {"surface": "ויבן", "gloss": "na ɔsii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bepɔ no"}, {"surface": "ההר", "gloss": "bepɔ no"}, {"surface": "ויקרא", "gloss": "na ɔtoo ... din"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kuropɔn no din"}, {"surface": "שם", "gloss": "din"}, {"surface": "העיר", "gloss": "kuropɔn"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בנה", "gloss": "ɔsiiɛ"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "שם", "gloss": "din"}, {"surface": "שמר", "gloss": "Shemer"}, {"surface": "אדני", "gloss": "awura"}, {"surface": "ההר", "gloss": "bepɔ no"}, {"surface": "שמרון", "gloss": "Shomeron"}], "timestamp": "2026-09-15T23:22:38.960362158Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 16:24",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔtɔɔ ⟨את⟩ bepɔ Shomeron ⟨את⟩ firii Shemer nkyɛn sika talent mmienu, na ɔsii ⟨את⟩ bepɔ no, na ɔtoo kuropɔn a ɔsiiɛ no din Shomeron, wɔ Shemer, ⟨את⟩ bepɔ no awura, din.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "Na ɔtɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ Shomeron"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firii ... nkyɛn ⟨את⟩"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Shemer"
+    },
+    {
+      "surface": "בככרים",
+      "gloss": "talent"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na ɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ no"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔtoo ... din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuropɔn no din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuropɔn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɔsiiɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Shemer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "awura"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:38.960362158Z",
+  "model": "glm-5.3"
+}

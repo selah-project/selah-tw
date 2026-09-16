@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "numbers 21:2", "book": "numbers", "lang": "tw", "chapter": 21, "translation": "Na Israel bɔɔ bɔhyɛ kɔɔ Yawe nkyɛn, na ɔkae sɛ, sɛ wode ⟨את⟩ nnipa yi ma me nsa a, mɛbubu ⟨את⟩ wɔn nkurow.", "tokens": [{"surface": "וידר", "gloss": "bɔɔ bɔhyɛ"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "נדר", "gloss": "bɔhyɛ"}, {"surface": "ליהוה", "gloss": "kɔɔ Yawe nkyɛn"}, {"surface": "ויאמר", "gloss": "na ɔkae sɛ"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "נתן", "gloss": "ma (diasɛ)"}, {"surface": "תתן", "gloss": "ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnipa yi"}, {"surface": "העם", "gloss": "nnipa yi"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "בידי", "gloss": "me nsa"}, {"surface": "והחרמתי", "gloss": "mɛbubu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nkurow"}, {"surface": "עריהם", "gloss": "wɔn nkurow"}], "timestamp": "2026-09-15T21:35:56.800786641Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Israel bɔɔ bɔhyɛ kɔɔ Yawe nkyɛn, na ɔkae sɛ, sɛ wode ⟨את⟩ nnipa yi ma me nsa a, mɛbubu ⟨את⟩ wɔn nkurow.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "bɔɔ bɔhyɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "bɔhyɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kɔɔ Yawe nkyɛn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkae sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ma (diasɛ)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa yi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa yi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "mɛbubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nkurow"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "wɔn nkurow"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:56.800786641Z",
+  "model": "glm-5.3"
+}

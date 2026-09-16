@@ -1,1 +1,106 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "2-kings 2:5", "book": "2-kings", "lang": "tw", "chapter": 2, "translation": "Mmarima a wɔyɛ anansɛmfoɔ mma no a wɔwɔ Yeriko no bɛn Elisha, wɔka kyerɛɛ no sɛ: Wahunu sɛ nnɛ Yawe bɛfa ⟨את⟩ wo wura no fi wo ti so? Na ɔkaa sɛ: Mempɛnso, me hunu; monkommyɛ.", "tokens": [{"surface": "ויגשו", "gloss": "wɔbɛn"}, {"surface": "בני", "gloss": "mma"}, {"surface": "הנביאים", "gloss": "anansɛmfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ביריחו", "gloss": "wɔwɔ Yeriko"}, {"surface": "אל", "gloss": "bɛn"}, {"surface": "אלישע", "gloss": "Elisha"}, {"surface": "ויאמרו", "gloss": "wɔkaa kyerɛɛ no"}, {"surface": "אליו", "gloss": "kyerɛɛ no"}, {"surface": "הידעת", "gloss": "Wahunu"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "היום", "gloss": "nnɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לקח", "gloss": "bɛfa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo wura"}, {"surface": "אדניך", "gloss": "wo wura"}, {"surface": "מעל", "gloss": "fi"}, {"surface": "ראשך", "gloss": "wo ti so"}, {"surface": "ויאמר", "gloss": "Na ɔkaa"}, {"surface": "גם", "gloss": "mempɛnso"}, {"surface": "אני", "gloss": "me"}, {"surface": "ידעתי", "gloss": "hunu"}, {"surface": "החשו", "gloss": "monkommyɛ"}], "timestamp": "2026-09-16T05:21:24.513240368Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 2:5",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Mmarima a wɔyɛ anansɛmfoɔ mma no a wɔwɔ Yeriko no bɛn Elisha, wɔka kyerɛɛ no sɛ: Wahunu sɛ nnɛ Yawe bɛfa ⟨את⟩ wo wura no fi wo ti so? Na ɔkaa sɛ: Mempɛnso, me hunu; monkommyɛ.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "wɔbɛn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "anansɛmfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביריחו",
+      "gloss": "wɔwɔ Yeriko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔkaa kyerɛɛ no"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "Wahunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "bɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo wura"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wo wura"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "wo ti so"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mempɛnso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "החשו",
+      "gloss": "monkommyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:21:24.513240368Z",
+  "model": "glm-5.3"
+}

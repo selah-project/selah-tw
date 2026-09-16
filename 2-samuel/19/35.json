@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 35, "ref": "2-samuel 19:35", "book": "2-samuel", "lang": "tw", "chapter": 19, "translation": "Na Barsilai kaa kyerɛɛ ⟨את⟩ ɔhene no sɛ: “Sɛn na me nkwa mmerɛ no dɔɔso, na meforo akɔ Yerusalem aka ɔhene no?”", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "ברזלי", "gloss": "Barsilai"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "כמה", "gloss": "Sɛn na ... dɔɔso"}, {"surface": "ימי", "gloss": "nnawɔtwe"}, {"surface": "שני", "gloss": "mfeɛ"}, {"surface": "חיי", "gloss": "me nkwa"}, {"surface": "כי", "gloss": "na"}, {"surface": "אעלה", "gloss": "meforo akɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔhene no"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "ירושלם", "gloss": "Yerusalem"}], "timestamp": "2026-09-15T23:09:09.837923154Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na Barsilai kaa kyerɛɛ ⟨את⟩ ɔhene no sɛ: “Sɛn na me nkwa mmerɛ no dɔɔso, na meforo akɔ Yerusalem aka ɔhene no?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barsilai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Sɛn na ... dɔɔso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nnawɔtwe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "meforo akɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:09.837923154Z",
+  "model": "glm-5.3"
+}

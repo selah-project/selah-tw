@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "1-kings 16:19", "book": "1-kings", "lang": "tw", "chapter": 16, "translation": "Ɛnam n'abɔneɛ a ɔbɔeɛ — sɛ ɔyɛɛ bɔne wɔ Yawe anim, na ɔfaa Yaroboam kwan so, ne n'abɔneɛ a ɔyɛeɛ de maa ⟨את⟩ Israel bɔne kyerɛɛ no nti.", "tokens": [{"surface": "על", "gloss": "Ɛnam ... nti"}, {"surface": "חטאתו", "gloss": "n'abɔneɛ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "חטא", "gloss": "ɔbɔeɛ"}, {"surface": "לעשות", "gloss": "sɛ ɔyɛɛ"}, {"surface": "הרע", "gloss": "bɔne"}, {"surface": "בעיני", "gloss": "wɔ ... anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ללכת", "gloss": "na ɔfaa"}, {"surface": "בדרך", "gloss": "kwan so"}, {"surface": "ירבעם", "gloss": "Yaroboam"}, {"surface": "ובחטאתו", "gloss": "ne n'abɔneɛ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשה", "gloss": "ɔyɛeɛ"}, {"surface": "להחטיא", "gloss": "de maa ... bɔne kyerɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israel"}, {"surface": "ישראל", "gloss": "Israel"}], "timestamp": "2026-09-15T23:22:06.696985594Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 16:19",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Ɛnam n'abɔneɛ a ɔbɔeɛ — sɛ ɔyɛɛ bɔne wɔ Yawe anim, na ɔfaa Yaroboam kwan so, ne n'abɔneɛ a ɔyɛeɛ de maa ⟨את⟩ Israel bɔne kyerɛɛ no nti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɛnam ... nti"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "n'abɔneɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ɔbɔeɛ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ ɔyɛɛ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "na ɔfaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kwan so"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroboam"
+    },
+    {
+      "surface": "ובחטאתו",
+      "gloss": "ne n'abɔneɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛeɛ"
+    },
+    {
+      "surface": "להחטיא",
+      "gloss": "de maa ... bɔne kyerɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:06.696985594Z",
+  "model": "glm-5.3"
+}

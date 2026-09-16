@@ -1,1 +1,65 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "deuteronomy 30:15", "book": "deuteronomy", "lang": "tw", "chapter": 30, "translation": "Hwɛ, mede ⟨את⟩ nkwa ne ⟨את⟩ pa asɛ wo anim nnɛ, ne ⟨את⟩ owuo ne ⟨את⟩ bɔne nso;", "tokens": [{"surface": "ראה", "gloss": "Hwɛ"}, {"surface": "נתתי", "gloss": "mede ... asɛ"}, {"surface": "לפניך", "gloss": "wo anim"}, {"surface": "היום", "gloss": "nnɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nkwa"}, {"surface": "החיים", "gloss": "nkwa"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "pa"}, {"surface": "הטוב", "gloss": "pa"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "owuo"}, {"surface": "המות", "gloss": "owuo"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "bɔne"}, {"surface": "הרע", "gloss": "bɔne"}], "timestamp": "2026-09-15T21:57:54.093933475Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Hwɛ, mede ⟨את⟩ nkwa ne ⟨את⟩ pa asɛ wo anim nnɛ, ne ⟨את⟩ owuo ne ⟨את⟩ bɔne nso;",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede ... asɛ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkwa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "owuo"
+    },
+    {
+      "surface": "המות",
+      "gloss": "owuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:54.093933475Z",
+  "model": "glm-5.3"
+}

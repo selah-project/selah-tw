@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":8,"ref":"1-samuel 19:8","book":"1-samuel","lang":"tw","chapter":19,"translation":"Ako no san baa bio, na Dawid tuu aman ko tiaa Filistifo no, na ɔbɔɔ wɔn akasakasa kɛseɛ, na wɔdwane fii ne anim.","tokens":[{"surface":"ותוסף","gloss":"san baa bio"},{"surface":"המלחמה","gloss":"ako no"},{"surface":"להיות","gloss":"baa"},{"surface":"ויצא","gloss":"tuu aman"},{"surface":"דוד","gloss":"Dawid"},{"surface":"וילחם","gloss":"ko tiaa"},{"surface":"בפלשתים","gloss":"Filistifo no"},{"surface":"ויך","gloss":"ɔbɔɔ"},{"surface":"בהם","gloss":"wɔn"},{"surface":"מכה","gloss":"akasakasa"},{"surface":"גדולה","gloss":"kɛseɛ"},{"surface":"וינסו","gloss":"wɔdwane"},{"surface":"מפניו","gloss":"fii ne anim"}],"timestamp":"2026-09-15T22:55:30.429940269Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ako no san baa bio, na Dawid tuu aman ko tiaa Filistifo no, na ɔbɔɔ wɔn akasakasa kɛseɛ, na wɔdwane fii ne anim.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "san baa bio"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ako no"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "baa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "tuu aman"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ko tiaa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistifo no"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "akasakasa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wɔdwane"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fii ne anim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:30.429940269Z",
+  "model": "glm-5.3"
+}

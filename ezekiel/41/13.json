@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":13,"ref":"ezekiel 41:13","book":"ezekiel","lang":"tw","chapter":41,"translation":"Na ɔsusuu ⟨את⟩ fie no: tenten — ɔha amma; na nkyekyɛmu-bea no ne ɔdan no ne ne mfon-mmea, tenten — ɔha amma.","tokens":[{"surface":"ומדד","gloss":"Na ɔsusuu"},{"surface":"את","gloss":"⟨את⟩","marks":"fie no"},{"surface":"הבית","gloss":"fie no"},{"surface":"ארך","gloss":"tenten"},{"surface":"מאה","gloss":"ɔha"},{"surface":"אמה","gloss":"amma"},{"surface":"והגזרה","gloss":"na nkyekyɛmu-bea no"},{"surface":"והבניה","gloss":"ne ɔdan no"},{"surface":"וקירותיה","gloss":"ne ne mfon-mmea"},{"surface":"ארך","gloss":"tenten"},{"surface":"מאה","gloss":"ɔha"},{"surface":"אמה","gloss":"amma"}],"timestamp":"2026-09-16T00:59:15.607666415Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 41:13",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Na ɔsusuu ⟨את⟩ fie no: tenten — ɔha amma; na nkyekyɛmu-bea no ne ɔdan no ne ne mfon-mmea, tenten — ɔha amma.",
+  "tokens": [
+    {
+      "surface": "ומדד",
+      "gloss": "Na ɔsusuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "na nkyekyɛmu-bea no"
+    },
+    {
+      "surface": "והבניה",
+      "gloss": "ne ɔdan no"
+    },
+    {
+      "surface": "וקירותיה",
+      "gloss": "ne ne mfon-mmea"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    }
+  ],
+  "timestamp": "2026-09-16T00:59:15.607666415Z",
+  "model": "glm-5.3"
+}

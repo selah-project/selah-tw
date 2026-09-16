@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":2,"ref":"song-of-songs 8:2","book":"song-of-songs","lang":"tw","chapter":8,"translation":"Mɛkyerɛ wo kwan de wo akɔ me maame fie; wo kyerɛ me ntoaso; mama wo nom nsa a wɔade nnuru aka ho, ne me pomegrenate aduaba nsu.","tokens":[{"surface":"אנהגך","gloss":"Mɛkyerɛ wo kwan"},{"surface":"אביאך","gloss":"de wo akɔ"},{"surface":"אל","gloss":"kɔ"},{"surface":"בית","gloss":"fie"},{"surface":"אמי","gloss":"me maame"},{"surface":"תלמדני","gloss":"wo kyerɛ me ntoaso"},{"surface":"אשקך","gloss":"mama wo nom"},{"surface":"מיין","gloss":"nsa"},{"surface":"הרקח","gloss":"a wɔade nnuru aka ho"},{"surface":"מעסיס","gloss":"aduaba nsu"},{"surface":"רמני","gloss":"me pomegrenate"}],"timestamp":"2026-09-16T03:43:48.283347985Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mɛkyerɛ wo kwan de wo akɔ me maame fie; wo kyerɛ me ntoaso; mama wo nom nsa a wɔade nnuru aka ho, ne me pomegrenate aduaba nsu.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "Mɛkyerɛ wo kwan"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "de wo akɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me maame"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "wo kyerɛ me ntoaso"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "mama wo nom"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "a wɔade nnuru aka ho"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "aduaba nsu"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "me pomegrenate"
+    }
+  ],
+  "timestamp": "2026-09-16T03:43:48.283347985Z",
+  "model": "glm-5.3"
+}

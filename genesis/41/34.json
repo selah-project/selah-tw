@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":34,"ref":"genesis 41:34","book":"genesis","lang":"tw","chapter":41,"translation":"Parhao nyɛ saa, na ɔmmisa nhwɛsofoɔ so ⟨את⟩ asase no so, na wɔmmisa nkyɛnumu as mfomsoɔ.","tokens":[{"surface":"יעשה","gloss":"nyɛ"},{"surface":"פרעה","gloss":"Parhao"},{"surface":"ויפקד","gloss":"na ɔmmisa"},{"surface":"פקדים","gloss":"nhwɛsofoɔ"},{"surface":"על","gloss":"so"},{"surface":"הארץ","gloss":"⟨asase no⟩"},{"surface":"וחמש","gloss":"na wɔmmisa nkyɛnumu"},{"surface":"את","gloss":"⟨את⟩","marks":"asase Misraim"},{"surface":"ארץ","gloss":"asase"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"בשבע","gloss":"wɔ nson"},{"surface":"שני","gloss":"afe"},{"surface":"השבע","gloss":"abɔboroɔ no mu"}],"timestamp":"2026-09-15T20:38:55.595929014Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Parhao nyɛ saa, na ɔmmisa nhwɛsofoɔ so ⟨את⟩ asase no so, na wɔmmisa nkyɛnumu as mfomsoɔ.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhao"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na ɔmmisa"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "nhwɛsofoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨asase no⟩"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na wɔmmisa nkyɛnumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase Misraim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "wɔ nson"
+    },
+    {
+      "surface": "שני",
+      "gloss": "afe"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "abɔboroɔ no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:55.595929014Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":6,"ref":"joshua 16:6","book":"joshua","lang":"tw","chapter":16,"translation":"Hyeɛ no firiɔ kɔ atɔeɛ anafoɔ fam wɔ Mikmetat, na hyeɛ no dan apuei kɔ Taanat-Shilo, na ɛtwam ⟨את⟩ no wɔ apuei fam kɔ Yanoha.","tokens":[{"surface":"ויצא","gloss":"firiɔ"},{"surface":"הגבול","gloss":"hyeɛ no"},{"surface":"הימה","gloss":"kɔ atɔeɛ"},{"surface":"המכמתת","gloss":"Mikmetat"},{"surface":"מצפון","gloss":"anafoɔ fam"},{"surface":"ונסב","gloss":"dan"},{"surface":"הגבול","gloss":"hyeɛ no"},{"surface":"מזרחה","gloss":"apuei"},{"surface":"תאנת","gloss":"Taanat"},{"surface":"שלה","gloss":"Shilo"},{"surface":"ועבר","gloss":"twam"},{"surface":"אותו","gloss":"⟨את⟩","marks":"no (Taanat-Shilo)"},{"surface":"ממזרח","gloss":"wɔ apuei fam"},{"surface":"ינוחה","gloss":"Yanoha"}],"timestamp":"2026-09-15T22:07:20.030120002Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Hyeɛ no firiɔ kɔ atɔeɛ anafoɔ fam wɔ Mikmetat, na hyeɛ no dan apuei kɔ Taanat-Shilo, na ɛtwam ⟨את⟩ no wɔ apuei fam kɔ Yanoha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "firiɔ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "hyeɛ no"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "kɔ atɔeɛ"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "Mikmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "anafoɔ fam"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "hyeɛ no"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "apuei"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanat"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "twam"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Taanat-Shilo)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "wɔ apuei fam"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Yanoha"
+    }
+  ],
+  "timestamp": "2026-09-15T22:07:20.030120002Z",
+  "model": "glm-5.3"
+}

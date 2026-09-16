@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "jeremiah 9:15", "book": "jeremiah", "lang": "tw", "chapter": 9, "translation": "Mɛsankerɛ wɔn mu wɔ aman mu a wɔn ne wɔn agya nyinaa nnim; na mesoma ⟨את⟩ akofena wɔ wɔn akyi, kɔsi sɛ mɛwie ⟨את⟩ wɔn afiri hɔ.", "tokens": [{"surface": "והפצותים", "gloss": "Mɛsankerɛ wɔn mu"}, {"surface": "בגוים", "gloss": "wɔ aman mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "nnim"}, {"surface": "ידעו", "gloss": "wɔnim"}, {"surface": "המה", "gloss": "wɔn"}, {"surface": "ואבותם", "gloss": "ne wɔn agya nyinaa"}, {"surface": "ושלחתי", "gloss": "na mesoma"}, {"surface": "אחריהם", "gloss": "wɔ wɔn akyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "akofena"}, {"surface": "החרב", "gloss": "akofena"}, {"surface": "עד", "gloss": "kɔsi sɛ"}, {"surface": "כלותי", "gloss": "mɛwie"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn afiri hɔ"}], "timestamp": "2026-09-16T05:28:31.974189352Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 9:15",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Mɛsankerɛ wɔn mu wɔ aman mu a wɔn ne wɔn agya nyinaa nnim; na mesoma ⟨את⟩ akofena wɔ wɔn akyi, kɔsi sɛ mɛwie ⟨את⟩ wɔn afiri hɔ.",
+  "tokens": [
+    {
+      "surface": "והפצותים",
+      "gloss": "Mɛsankerɛ wɔn mu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ aman mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔnim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "ne wɔn agya nyinaa"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "na mesoma"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "wɔ wɔn akyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akofena"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi sɛ"
+    },
+    {
+      "surface": "כלותי",
+      "gloss": "mɛwie"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn afiri hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:28:31.974189352Z",
+  "model": "glm-5.3"
+}

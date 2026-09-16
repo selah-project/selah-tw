@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "2-chronicles 10:15", "book": "2-chronicles", "lang": "tw", "chapter": 10, "translation": "Na ɔhene no annye asafo no asɛm, ɛfiri sɛ nsɛm no dane no bae firi Eloohim hɔ, ama Yawe asi ⟨את⟩ n'asɛm no so, asɛm a ɔkae de Achiya a ofiri Shilo nsa kyerɛɛ Yerobeam, Nebat ba no.", "tokens": [{"surface": "ולא", "gloss": "Na…an-"}, {"surface": "שמע", "gloss": "-nye asɛm"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "אל", "gloss": ""}, {"surface": "העם", "gloss": "asafo no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "היתה", "gloss": "bae"}, {"surface": "נסבה", "gloss": "nsɛm no dane"}, {"surface": "מעם", "gloss": "firi"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "למען", "gloss": "ama"}, {"surface": "הקים", "gloss": "si…so"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'asɛm"}, {"surface": "דברו", "gloss": "n'asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "דבר", "gloss": "ɔkae"}, {"surface": "ביד", "gloss": "de…nsa"}, {"surface": "אחיהו", "gloss": "Achiya"}, {"surface": "השלוני", "gloss": "a ofiri Shilo"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "ירבעם", "gloss": "Yerobeam"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נבט", "gloss": "Nebat"}], "timestamp": "2026-09-16T04:59:48.534047239Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɔhene no annye asafo no asɛm, ɛfiri sɛ nsɛm no dane no bae firi Eloohim hɔ, ama Yawe asi ⟨את⟩ n'asɛm no so, asɛm a ɔkae de Achiya a ofiri Shilo nsa kyerɛɛ Yerobeam, Nebat ba no.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na…an-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "-nye asɛm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "asafo no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bae"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "nsɛm no dane"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "firi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ama"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "si…so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'asɛm"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "n'asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkae"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "de…nsa"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achiya"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "a ofiri Shilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    }
+  ],
+  "timestamp": "2026-09-16T04:59:48.534047239Z",
+  "model": "glm-5.3"
+}

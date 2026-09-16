@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":13,"ref":"micah 1:13","book":"micah","lang":"tw","chapter":1,"translation":"Tow karete no akɔ ɔpɔnkɔ ntɛmntɛm so, wo a wote Lakhish; ɔno ne mfomaseɛ aseɛ maa Ɔbaa Tsiyon, efisɛ wo mu na wɔhunuu Yisrael bɔneyɛ.","tokens":[{"surface":"רתם","gloss":"Tow"},{"surface":"המרכבה","gloss":"karete no"},{"surface":"לרכש","gloss":"akɔ ɔpɔnkɔ ntɛmntɛm so"},{"surface":"יושבת","gloss":"wo a wote"},{"surface":"לכיש","gloss":"Lakhish"},{"surface":"ראשית","gloss":"aseɛ"},{"surface":"חטאת","gloss":"mfomaseɛ"},{"surface":"היא","gloss":"ɔno ne"},{"surface":"לבת","gloss":"maa Ɔbaa"},{"surface":"ציון","gloss":"Tsiyon"},{"surface":"כי","gloss":"efisɛ"},{"surface":"בך","gloss":"wo mu"},{"surface":"נמצאו","gloss":"wɔhunuu"},{"surface":"פשעי","gloss":"bɔneyɛ"},{"surface":"ישראל","gloss":"Yisrael"}],"timestamp":"2026-09-16T01:16:34.272010994Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 1:13",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Tow karete no akɔ ɔpɔnkɔ ntɛmntɛm so, wo a wote Lakhish; ɔno ne mfomaseɛ aseɛ maa Ɔbaa Tsiyon, efisɛ wo mu na wɔhunuu Yisrael bɔneyɛ.",
+  "tokens": [
+    {
+      "surface": "רתם",
+      "gloss": "Tow"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "karete no"
+    },
+    {
+      "surface": "לרכש",
+      "gloss": "akɔ ɔpɔnkɔ ntɛmntɛm so"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "wo a wote"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakhish"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mfomaseɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɔno ne"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "maa Ɔbaa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "bɔneyɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-16T01:16:34.272010994Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 80:2","book":"psalms","lang":"tw","chapter":80,"translation":"Israelfoɔ adwumafoɔ, sisa yɛn aso; wode Yosef kɔ sɛnea wɔde anantwie kɔ; wo a wote Kerubim so, hyerɛn bra.","tokens":[{"surface":"רעה","gloss":"adwumafoɔ"},{"surface":"ישראל","gloss":"Israelfoɔ"},{"surface":"האזינה","gloss":"sisa yɛn aso"},{"surface":"נהג","gloss":"wode ... kɔ"},{"surface":"כצאן","gloss":"sɛnea wɔde anantwie kɔ"},{"surface":"יוסף","gloss":"Yosef"},{"surface":"ישב","gloss":"wo a wote"},{"surface":"הכרובים","gloss":"Kerubim so"},{"surface":"הופיעה","gloss":"hyerɛn bra"}],"timestamp":"2026-09-16T06:56:58.437013815Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Israelfoɔ adwumafoɔ, sisa yɛn aso; wode Yosef kɔ sɛnea wɔde anantwie kɔ; wo a wote Kerubim so, hyerɛn bra.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "adwumafoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sisa yɛn aso"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "wode ... kɔ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sɛnea wɔde anantwie kɔ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wo a wote"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "Kerubim so"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "hyerɛn bra"
+    }
+  ],
+  "timestamp": "2026-09-16T06:56:58.437013815Z",
+  "model": "glm-5.3"
+}

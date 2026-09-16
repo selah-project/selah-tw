@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":8,"ref":"isaiah 19:8","book":"isaiah","lang":"tw","chapter":19,"translation":"Na ahyiasafoɔ bɛsu, wɔn a wɔto kyɛnɛ wɔ asuo no mu nyinaa bɛda adwamu, na wɔn a wɔtrɛ wɔn nyɛnsodeɛ nsuo so no aberɛw.","tokens":[{"surface":"ואנו","gloss":"bɛsu"},{"surface":"הדיגים","gloss":"ahyiasafoɔ"},{"surface":"ואבלו","gloss":"bɛda adwamu"},{"surface":"כל","gloss":"nyinaa"},{"surface":"משליכי","gloss":"wɔn a wɔto"},{"surface":"ביאור","gloss":"wɔ asuo no mu"},{"surface":"חכה","gloss":"kyɛnɛ"},{"surface":"ופרשי","gloss":"na wɔn a wɔtrɛ"},{"surface":"מכמרת","gloss":"nyɛnsodeɛ"},{"surface":"על","gloss":"so"},{"surface":"פני","gloss":"... so"},{"surface":"מים","gloss":"nsuo"},{"surface":"אמללו","gloss":"aberɛw"}],"timestamp":"2026-09-15T23:46:13.298952774Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na ahyiasafoɔ bɛsu, wɔn a wɔto kyɛnɛ wɔ asuo no mu nyinaa bɛda adwamu, na wɔn a wɔtrɛ wɔn nyɛnsodeɛ nsuo so no aberɛw.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "bɛsu"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "ahyiasafoɔ"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "bɛda adwamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "wɔn a wɔto"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "wɔ asuo no mu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "kyɛnɛ"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "na wɔn a wɔtrɛ"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "nyɛnsodeɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פני",
+      "gloss": "... so"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "aberɛw"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:13.298952774Z",
+  "model": "glm-5.3"
+}

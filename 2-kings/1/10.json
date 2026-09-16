@@ -1,1 +1,121 @@
-{"tier":"glm-5.2","verse":10,"ref":"2-kings 1:10","book":"2-kings","lang":"tw","chapter":1,"translation":"Eliya buaa na ɔkasa kyerɛɛ ɔsahene a ɔdi aduonum no sɛ: Sɛ meyɛ Eloohim onipa a, ogya nsiiane firi ɔsoro mmɛdi ⟨את⟩ wo awu ne ⟨את⟩ w'aduonum no awu; na ogya siane firi ɔsoro bɛdi ⟨את⟩ no awu ne ⟨את⟩ ne aduonum no awu.","tokens":[{"surface":"ויענה","gloss":"na Eliya buaa"},{"surface":"אליהו","gloss":"Eliya"},{"surface":"וידבר","gloss":"na ɔkasa kyerɛɛ"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"שר","gloss":"ɔsahene"},{"surface":"החמשים","gloss":"a ɔdi aduonum no"},{"surface":"ואם","gloss":"sɛ"},{"surface":"איש","gloss":"onipa"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"אני","gloss":"meyɛ"},{"surface":"תרד","gloss":"nsiiane"},{"surface":"אש","gloss":"ogya"},{"surface":"מן","gloss":"firi"},{"surface":"השמים","gloss":"ɔsoro"},{"surface":"ותאכל","gloss":"mmɛdi"},{"surface":"אתך","gloss":"⟨את⟩","marks":"wo"},{"surface":"ואת","gloss":"⟨את⟩","marks":"w'aduonum no"},{"surface":"חמשיך","gloss":"w'aduonum no"},{"surface":"ותרד","gloss":"na ... siane"},{"surface":"אש","gloss":"ogya"},{"surface":"מן","gloss":"firi"},{"surface":"השמים","gloss":"ɔsoro"},{"surface":"ותאכל","gloss":"bɛdi"},{"surface":"אתו","gloss":"⟨את⟩","marks":"no"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ne aduonum no"},{"surface":"חמשיו","gloss":"ne aduonum no"}],"timestamp":"2026-09-16T05:22:12.594445611Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Eliya buaa na ɔkasa kyerɛɛ ɔsahene a ɔdi aduonum no sɛ: Sɛ meyɛ Eloohim onipa a, ogya nsiiane firi ɔsoro mmɛdi ⟨את⟩ wo awu ne ⟨את⟩ w'aduonum no awu; na ogya siane firi ɔsoro bɛdi ⟨את⟩ no awu ne ⟨את⟩ ne aduonum no awu.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "na Eliya buaa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na ɔkasa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɔsahene"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "a ɔdi aduonum no"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "meyɛ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "nsiiane"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mmɛdi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "w'aduonum no"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "w'aduonum no"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "na ... siane"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "bɛdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne aduonum no"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "ne aduonum no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:22:12.594445611Z",
+  "model": "glm-5.3"
+}

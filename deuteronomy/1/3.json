@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "deuteronomy 1:3", "book": "deuteronomy", "lang": "tw", "chapter": 1, "translation": "Na ɛbɛyɛ wɔ afe aduanan mu, wɔ ɔsram du-baako mu, wɔ ɔsram no da a ɛdi kan, na Mose kaa nsɛm kyerɛɛ Israel mma, sɛnea Yawe hyɛɛ no ⟨אתו⟩ ⟨את⟩ de kyerɛɛ wɔn nyinaa.", "tokens": [{"surface": "ויהי", "gloss": "na ɛbɛyɛ"}, {"surface": "בארבעים", "gloss": "wɔ aduanan mu"}, {"surface": "שנה", "gloss": "afe"}, {"surface": "בעשתי", "gloss": "wɔ du-"}, {"surface": "עשר", "gloss": "baako mu"}, {"surface": "חדש", "gloss": "ɔsram"}, {"surface": "באחד", "gloss": "wɔ da a ɛdi kan"}, {"surface": "לחדש", "gloss": "wɔ ɔsram no mu"}, {"surface": "דבר", "gloss": "kaa nsɛm kyerɛɛ"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "ככל", "gloss": "sɛnea … nyinaa"}, {"surface": "אשר", "gloss": "de"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "Mose"}, {"surface": "אלהם", "gloss": "de kyerɛɛ wɔn"}], "timestamp": "2026-09-15T21:45:31.569414425Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɛbɛyɛ wɔ afe aduanan mu, wɔ ɔsram du-baako mu, wɔ ɔsram no da a ɛdi kan, na Mose kaa nsɛm kyerɛɛ Israel mma, sɛnea Yawe hyɛɛ no ⟨אתו⟩ ⟨את⟩ de kyerɛɛ wɔn nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "wɔ aduanan mu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "wɔ du-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baako mu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ɔsram"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "wɔ da a ɛdi kan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wɔ ɔsram no mu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kaa nsɛm kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea … nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "de kyerɛɛ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:31.569414425Z",
+  "model": "glm-5.3"
+}

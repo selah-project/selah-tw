@@ -1,1 +1,114 @@
-{"tier": "glm-5.2", "verse": 51, "ref": "leviticus 14:51", "book": "leviticus", "lang": "tw", "chapter": 14, "translation": "Na ɔbɛfa ⟨את⟩ arɛdua no, ne ⟨את⟩ sɔso no, ne ⟨את⟩ kɔkɔɔ-bɔɔfoɔ nwowa no, ne ⟨את⟩ nonoɔ a wanyane no, na ɔbɛto no mu wɔ ⟨את⟩ nonoɔ a wakum no mu no, ne nsuo a ɛte aseɛ no mu, na ɔbɛgu gu fie no so mpɔnsɔn.", "tokens": [{"surface": "ולקח", "gloss": "na ɔbɛfa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "arɛdua no"}, {"surface": "עץ", "gloss": "arɛdua"}, {"surface": "הארז", "gloss": "no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "sɔso no"}, {"surface": "האזב", "gloss": "sɔso no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "kɔkɔɔ-bɔɔfoɔ nwowa no"}, {"surface": "שני", "gloss": "kɔkɔɔ-bɔɔfoɔ"}, {"surface": "התולעת", "gloss": "nwowa no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nonoɔ a wanyane no"}, {"surface": "הצפר", "gloss": "nonoɔ"}, {"surface": "החיה", "gloss": "a wanyane no"}, {"surface": "וטבל", "gloss": "na ɔbɛto no mu"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn", "marks": "nneɛma no nyinaa"}, {"surface": "בדם", "gloss": "wɔ ... mu"}, {"surface": "הצפר", "gloss": "nonoɔ"}, {"surface": "השחוטה", "gloss": "a wakum no"}, {"surface": "ובמים", "gloss": "ne nsuo no mu"}, {"surface": "החיים", "gloss": "a ɛte aseɛ"}, {"surface": "והזה", "gloss": "na ɔbɛgu"}, {"surface": "אל", "gloss": "gu"}, {"surface": "הבית", "gloss": "fie no so"}, {"surface": "שבע", "gloss": "mpɔnsɔn"}, {"surface": "פעמים", "gloss": "mpɔnsɔn"}], "timestamp": "2026-09-15T21:13:47.358616278Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "leviticus 14:51",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔbɛfa ⟨את⟩ arɛdua no, ne ⟨את⟩ sɔso no, ne ⟨את⟩ kɔkɔɔ-bɔɔfoɔ nwowa no, ne ⟨את⟩ nonoɔ a wanyane no, na ɔbɛto no mu wɔ ⟨את⟩ nonoɔ a wakum no mu no, ne nsuo a ɛte aseɛ no mu, na ɔbɛgu gu fie no so mpɔnsɔn.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "na ɔbɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arɛdua no"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "arɛdua"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sɔso no"
+    },
+    {
+      "surface": "האזב",
+      "gloss": "sɔso no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kɔkɔɔ-bɔɔfoɔ nwowa no"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kɔkɔɔ-bɔɔfoɔ"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "nwowa no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nonoɔ a wanyane no"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "nonoɔ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "a wanyane no"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "na ɔbɛto no mu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "nneɛma no nyinaa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "nonoɔ"
+    },
+    {
+      "surface": "השחוטה",
+      "gloss": "a wakum no"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ne nsuo no mu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "a ɛte aseɛ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "na ɔbɛgu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no so"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mpɔnsɔn"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mpɔnsɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:47.358616278Z",
+  "model": "glm-5.3"
+}

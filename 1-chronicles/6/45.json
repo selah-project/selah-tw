@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 45, "ref": "1-chronicles 6:45", "book": "1-chronicles", "lang": "tw", "chapter": 6, "translation": "Na wɔ Binjamin abusuakuo no mu no, ⟨את⟩ Geba ⟨את⟩ ne n'afuo-mmea, ⟨את⟩ ne ⟨את⟩ Alemeth ⟨את⟩ ne n'afuo-mmea, ne ⟨את⟩ Anathoth ne n'afuo-mmea; wɔn nkurow nyinaa yɛ nkurow dunsia wɔ wɔn abusua mu.", "tokens": [{"surface": "וממטה", "gloss": "na wɔ ... abusuakuo no mu"}, {"surface": "בנימן", "gloss": "Binjamin"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Geba"}, {"surface": "גבע", "gloss": "Geba"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "n'afuo-mmea"}, {"surface": "מגרשיה", "gloss": "n'afuo-mmea"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Alemeth"}, {"surface": "עלמת", "gloss": "Alemeth"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "n'afuo-mmea"}, {"surface": "מגרשיה", "gloss": "n'afuo-mmea"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Anathoth"}, {"surface": "ענתות", "gloss": "Anathoth"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "n'afuo-mmea"}, {"surface": "מגרשיה", "gloss": "n'afuo-mmea"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עריהם", "gloss": "wɔn nkurow"}, {"surface": "שלש", "gloss": "dunsia (nsia)"}, {"surface": "עשרה", "gloss": "(du) nsia"}, {"surface": "עיר", "gloss": "nkurow"}, {"surface": "במשפחותיהם", "gloss": "wɔ wɔn abusua mu"}], "timestamp": "2026-09-16T04:37:05.798752835Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔ Binjamin abusuakuo no mu no, ⟨את⟩ Geba ⟨את⟩ ne n'afuo-mmea, ⟨את⟩ ne ⟨את⟩ Alemeth ⟨את⟩ ne n'afuo-mmea, ne ⟨את⟩ Anathoth ne n'afuo-mmea; wɔn nkurow nyinaa yɛ nkurow dunsia wɔ wɔn abusua mu.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na wɔ ... abusuakuo no mu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'afuo-mmea"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "n'afuo-mmea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Alemeth"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'afuo-mmea"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "n'afuo-mmea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Anathoth"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'afuo-mmea"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "n'afuo-mmea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "wɔn nkurow"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "dunsia (nsia)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(du) nsia"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "wɔ wɔn abusua mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:37:05.798752835Z",
+  "model": "glm-5.3"
+}

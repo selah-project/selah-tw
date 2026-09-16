@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "2-kings 18:12", "book": "2-kings", "lang": "tw", "chapter": 18, "translation": "Ɛfiri sɛ wɔantie Yawe wɔn Eloohim nne, na wɔbɔɔ ⟨את⟩ ne apam so — ⟨את⟩ biribiara a Moshe, Yawe akɔnafoɔ, hyɛɛ wɔn — na wɔantie, na wɔanso yɛ.", "tokens": [{"surface": "על", "gloss": "Ɛfiri sɛ"}, {"surface": "אשר", "gloss": ""}, {"surface": "לא", "gloss": "ann-"}, {"surface": "שמעו", "gloss": "tie"}, {"surface": "בקול", "gloss": "nne"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיהם", "gloss": "wɔn Eloohim"}, {"surface": "ויעברו", "gloss": "na wɔbɔɔ ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne apam"}, {"surface": "בריתו", "gloss": "ne apam"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "biribiara"}, {"surface": "כל", "gloss": "biribiara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צוה", "gloss": "hyɛɛ wɔn"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "עבד", "gloss": "akɔnafoɔ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ולא", "gloss": "na wɔann-"}, {"surface": "שמעו", "gloss": "tie"}, {"surface": "ולא", "gloss": "na wɔanso"}, {"surface": "עשו", "gloss": "yɛ"}], "timestamp": "2026-09-15T23:35:12.424770953Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 18:12",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɛfiri sɛ wɔantie Yawe wɔn Eloohim nne, na wɔbɔɔ ⟨את⟩ ne apam so — ⟨את⟩ biribiara a Moshe, Yawe akɔnafoɔ, hyɛɛ wɔn — na wɔantie, na wɔanso yɛ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "na wɔbɔɔ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne apam"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biribiara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ wɔn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akɔnafoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔann-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔanso"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:12.424770953Z",
+  "model": "glm-5.3"
+}

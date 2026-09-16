@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "1-samuel 6:13", "book": "1-samuel", "lang": "tw", "chapter": 6, "translation": "Na wɔn a wɔwɔ Beti-Shemesh no rebu amansee wɔ kwaeɛ mu, na wɔmaa ⟨את⟩ wɔn ani hwɛɛ sɔn, na wɔhunuu ⟨את⟩ adaka no, na wɔ anigyeɛ mu sɛ wɔhunu.", "tokens": [{"surface": "ובית", "gloss": "na wɔn a wɔwɔ Beti-Shemesh"}, {"surface": "שמש", "gloss": "Beti-Shemesh"}, {"surface": "קצרים", "gloss": "wɔrebubu amansee"}, {"surface": "קציר", "gloss": "amansee-bu"}, {"surface": "חטים", "gloss": "amansee (nguo)"}, {"surface": "בעמק", "gloss": "wɔ kwaeɛ mu"}, {"surface": "וישאו", "gloss": "na wɔmaa wɔn ani so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn ani (עיניהם)"}, {"surface": "עיניהם", "gloss": "wɔn ani"}, {"surface": "ויראו", "gloss": "na wɔhunuu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "adaka no (הארון)"}, {"surface": "הארון", "gloss": "adaka no"}, {"surface": "וישמחו", "gloss": "na wɔyɛɛ anigyeɛ"}, {"surface": "לראות", "gloss": "sɛ wɔhunu"}], "timestamp": "2026-09-15T22:47:41.580721503Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔn a wɔwɔ Beti-Shemesh no rebu amansee wɔ kwaeɛ mu, na wɔmaa ⟨את⟩ wɔn ani hwɛɛ sɔn, na wɔhunuu ⟨את⟩ adaka no, na wɔ anigyeɛ mu sɛ wɔhunu.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "na wɔn a wɔwɔ Beti-Shemesh"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Beti-Shemesh"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "wɔrebubu amansee"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "amansee-bu"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "amansee (nguo)"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "wɔ kwaeɛ mu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "na wɔmaa wɔn ani so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ani (עיניהם)"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wɔn ani"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na wɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka no (הארון)"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na wɔyɛɛ anigyeɛ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sɛ wɔhunu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:41.580721503Z",
+  "model": "glm-5.3"
+}

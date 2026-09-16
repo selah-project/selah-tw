@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":13,"ref":"psalms 89:13","book":"psalms","lang":"tw","chapter":89,"translation":"Atifi ne nifa, wo na wobɔeɛ; Tabor ne Hermon wɔ wo din mu de anigye bɛto dwom.","tokens":[{"surface":"צפון","gloss":"Atifi"},{"surface":"וימין","gloss":"ne nifa"},{"surface":"אתה","gloss":"wo na"},{"surface":"בראתם","gloss":"wobɔeɛ"},{"surface":"תבור","gloss":"Tabor"},{"surface":"וחרמון","gloss":"ne Hermon"},{"surface":"בשמך","gloss":"wɔ wo din mu"},{"surface":"ירננו","gloss":"bɛto dwom"}],"timestamp":"2026-09-16T02:15:31.324488950Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Atifi ne nifa, wo na wobɔeɛ; Tabor ne Hermon wɔ wo din mu de anigye bɛto dwom.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Atifi"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ne nifa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo na"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "wobɔeɛ"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ne Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "wɔ wo din mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bɛto dwom"
+    }
+  ],
+  "timestamp": "2026-09-16T02:15:31.324488950Z",
+  "model": "glm-5.3"
+}

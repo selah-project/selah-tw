@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 56, "ref": "psalms 78:56", "book": "psalms", "lang": "tw", "chapter": 78, "translation": "Nanso wɔsɔɔ ⟨את⟩ Eloohim, Ɔkorɔn no, hwɛe, na wɔannie n'adansedie so.", "tokens": [{"surface": "וינסו", "gloss": "wɔsɔɔ ... hwɛe"}, {"surface": "וימרו", "gloss": "wɔanne"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Eloohim"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "עליון", "gloss": "Ɔkorɔn no"}, {"surface": "ועדותיו", "gloss": "n'adansedie"}, {"surface": "לא", "gloss": "ann-"}, {"surface": "שמרו", "gloss": "die so"}], "timestamp": "2026-09-16T02:09:38.808245973Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Nanso wɔsɔɔ ⟨את⟩ Eloohim, Ɔkorɔn no, hwɛe, na wɔannie n'adansedie so.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "wɔsɔɔ ... hwɛe"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "wɔanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɔkorɔn no"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "n'adansedie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann-"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "die so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:38.808245973Z",
+  "model": "glm-5.3"
+}

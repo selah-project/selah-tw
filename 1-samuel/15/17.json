@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":17,"ref":"1-samuel 15:17","book":"1-samuel","lang":"tw","chapter":15,"translation":"Na Shemuɛl kaa sɛ: Ɛnyɛ sɛ, berɛ a wonyaa hɔ wɔ w'ani so no, wode Yisraɛl asua mmienu so asua? na Yawe srane wo mmanu sɛ ɔhene wɔ Yisraɛl so.","tokens":[{"surface":"ויאמר","gloss":"Na ... kaa sɛ"},{"surface":"שמואל","gloss":"Shemuɛl"},{"surface":"הלוא","gloss":"ɛnyɛ sɛ"},{"surface":"אם","gloss":"sɛ"},{"surface":"קטן","gloss":"ketewa"},{"surface":"אתה","gloss":"wo"},{"surface":"בעיניך","gloss":"w'ani so"},{"surface":"ראש","gloss":"mmienu so asua"},{"surface":"שבטי","gloss":"asua"},{"surface":"ישראל","gloss":"Yisraɛl"},{"surface":"אתה","gloss":"wonifira"},{"surface":"וימשחך","gloss":"srane wo mmanu"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"למלך","gloss":"sɛ ɔhene"},{"surface":"על","gloss":"wɔ ... so"},{"surface":"ישראל","gloss":"Yisraɛl"}],"timestamp":"2026-09-15T22:52:04.631946802Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 15:17",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Shemuɛl kaa sɛ: Ɛnyɛ sɛ, berɛ a wonyaa hɔ wɔ w'ani so no, wode Yisraɛl asua mmienu so asua? na Yawe srane wo mmanu sɛ ɔhene wɔ Yisraɛl so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kaa sɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ketewa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "w'ani so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mmienu so asua"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "asua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wonifira"
+    },
+    {
+      "surface": "וימשחך",
+      "gloss": "srane wo mmanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sɛ ɔhene"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T22:52:04.631946802Z",
+  "model": "glm-5.3"
+}

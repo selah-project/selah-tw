@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "2-kings 17:21", "book": "2-kings", "lang": "tw", "chapter": 17, "translation": "Esiane sɛ ⟨ɔ⟩tetew Yisrael firi Beti Dawid so nti, na wɔmaa ⟨את⟩ Yeroboam, Nebat ba, yɛɛ ɔhene; na Yeroboam dwir Yisrael ⟨את⟩ firii Yawe akyi, na ɔmaa wɔyɛɛ bɔne kɛseɛ.", "tokens": [{"surface": "כי", "gloss": "esiane sɛ"}, {"surface": "קרע", "gloss": "ɔtetew"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "מעל", "gloss": "firi … so"}, {"surface": "בית", "gloss": "Beti"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "וימליכו", "gloss": "na wɔmaa … yɛɛ ɔhene"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yeroboam"}, {"surface": "ירבעם", "gloss": "Yeroboam"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נבט", "gloss": "Nebat"}, {"surface": "וידא", "gloss": "na ɔdwir"}, {"surface": "ירבעם", "gloss": "Yeroboam"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "מאחרי", "gloss": "firii … akyi"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "והחטיאם", "gloss": "na ɔmaa wɔyɛɛ bɔne"}, {"surface": "חטאה", "gloss": "bɔne"}, {"surface": "גדולה", "gloss": "kɛseɛ"}], "timestamp": "2026-09-15T23:34:00.107204922Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Esiane sɛ ⟨ɔ⟩tetew Yisrael firi Beti Dawid so nti, na wɔmaa ⟨את⟩ Yeroboam, Nebat ba, yɛɛ ɔhene; na Yeroboam dwir Yisrael ⟨את⟩ firii Yawe akyi, na ɔmaa wɔyɛɛ bɔne kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "esiane sɛ"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "ɔtetew"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi … so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "na wɔmaa … yɛɛ ɔhene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroboam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "na ɔdwir"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "firii … akyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "na ɔmaa wɔyɛɛ bɔne"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:34:00.107204922Z",
+  "model": "glm-5.3"
+}

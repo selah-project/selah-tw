@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "2-chronicles 36:13", "book": "2-chronicles", "lang": "tw", "chapter": 36, "translation": "Na ɔsan sɔɔ ɔhene Nebukadnesar so, de ɔno a wɔde Eloohim di hyɛɛ no ase no; na ɔmaa ⟨את⟩ ne kɔnɔ yɛɛ den, na ɔhyɛɛ ⟨את⟩ ne akoma mu den a ɔnsakra mmra Yawe, Israel Eloohim no nkyɛn.", "tokens": [{"surface": "וגם", "gloss": "Na ɔsan"}, {"surface": "במלך", "gloss": "ɔhene ... so"}, {"surface": "נבוכדנאצר", "gloss": "Nebukadnesar"}, {"surface": "מרד", "gloss": "sɔɔ"}, {"surface": "אשר", "gloss": "de ɔno a"}, {"surface": "השביעו", "gloss": "wɔdi hyɛɛ no ase"}, {"surface": "באלהים", "gloss": "Eloohim"}, {"surface": "ויקש", "gloss": "na ɔmaa ... yɛɛ den"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne kɔnɔ"}, {"surface": "ערפו", "gloss": "ne kɔnɔ"}, {"surface": "ויאמץ", "gloss": "na ɔhyɛɛ ... mu den"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne akoma"}, {"surface": "לבבו", "gloss": "ne akoma"}, {"surface": "משוב", "gloss": "a ɔnsakra mmra"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israel"}], "timestamp": "2026-09-16T05:13:17.196722813Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 36:13",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na ɔsan sɔɔ ɔhene Nebukadnesar so, de ɔno a wɔde Eloohim di hyɛɛ no ase no; na ɔmaa ⟨את⟩ ne kɔnɔ yɛɛ den, na ɔhyɛɛ ⟨את⟩ ne akoma mu den a ɔnsakra mmra Yawe, Israel Eloohim no nkyɛn.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na ɔsan"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ɔhene ... so"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מרד",
+      "gloss": "sɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de ɔno a"
+    },
+    {
+      "surface": "השביעו",
+      "gloss": "wɔdi hyɛɛ no ase"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויקש",
+      "gloss": "na ɔmaa ... yɛɛ den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kɔnɔ"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ne kɔnɔ"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "na ɔhyɛɛ ... mu den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne akoma"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ne akoma"
+    },
+    {
+      "surface": "משוב",
+      "gloss": "a ɔnsakra mmra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T05:13:17.196722813Z",
+  "model": "glm-5.3"
+}

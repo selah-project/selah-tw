@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "exodus 9:28", "book": "exodus", "lang": "tw", "chapter": 9, "translation": "Monkɔ Yawe nkyɛn ⟨את⟩ monkotan no, na ɛnkɔ so — Yawe nnenee ne esikyire — na mɛma mo akɔ, na mo nka mo so tena ha.", "tokens": [{"surface": "העתירו", "gloss": "monkotan no"}, {"surface": "אל", "gloss": "kɔ ... nkyɛn"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ורב", "gloss": "adɔɔso"}, {"surface": "מהית", "gloss": "ɛnkɔ so"}, {"surface": "קלת", "gloss": "nnenee"}, {"surface": "אלהים", "gloss": "Yawe deɛ"}, {"surface": "וברד", "gloss": "ne esikyire"}, {"surface": "ואשלחה", "gloss": "mɛma mo akɔ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "אתכם — aleph-tav a ɛkyerɛ mo (Mose ne Aaron)"}, {"surface": "ולא", "gloss": "na ... nka"}, {"surface": "תספון", "gloss": "nka mo so"}, {"surface": "לעמד", "gloss": "tena ha"}], "timestamp": "2026-09-15T20:47:26.799854369Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Monkɔ Yawe nkyɛn ⟨את⟩ monkotan no, na ɛnkɔ so — Yawe nnenee ne esikyire — na mɛma mo akɔ, na mo nka mo so tena ha.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "monkotan no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ ... nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "adɔɔso"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "ɛnkɔ so"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "nnenee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Yawe deɛ"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ne esikyire"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "mɛma mo akɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "אתכם — aleph-tav a ɛkyerɛ mo (Mose ne Aaron)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nka"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "nka mo so"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "tena ha"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:26.799854369Z",
+  "model": "glm-5.3"
+}

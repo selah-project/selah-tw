@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":12,"ref":"exodus 20:12","book":"exodus","lang":"tw","chapter":20,"translation":"Bu ⟨את⟩ wo agya ne ⟨את⟩ wo ɛna animuonyam, na wo nna bɛtene ⟨asase⟩ no so, a Yawe wo Eloohim de ma wo no.","tokens":[{"surface":"כבד","gloss":"bu animuonyam"},{"surface":"את","gloss":"⟨את⟩","marks":"wo agya"},{"surface":"אביך","gloss":"wo agya"},{"surface":"ואת","gloss":"⟨את⟩","marks":"wo ɛna"},{"surface":"אמך","gloss":"wo ɛna"},{"surface":"למען","gloss":"na"},{"surface":"יארכון","gloss":"bɛtene"},{"surface":"ימיך","gloss":"wo nna"},{"surface":"על","gloss":"so"},{"surface":"האדמה","gloss":"asase no"},{"surface":"אשר","gloss":"a"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"נתן","gloss":"de ma"},{"surface":"לך","gloss":"wo"}],"timestamp":"2026-09-15T22:27:26.812600290Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Bu ⟨את⟩ wo agya ne ⟨את⟩ wo ɛna animuonyam, na wo nna bɛtene ⟨asase⟩ no so, a Yawe wo Eloohim de ma wo no.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "bu animuonyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo agya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo ɛna"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wo ɛna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "bɛtene"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "wo nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de ma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:26.812600290Z",
+  "model": "glm-5.3"
+}

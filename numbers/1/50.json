@@ -1,1 +1,119 @@
-{"tier": "glm-5.2", "verse": 50, "ref": "numbers 1:50", "book": "numbers", "lang": "tw", "chapter": 1, "translation": "Na wo, paapae ⟨את⟩ Lɛvim no sɛ wɔnhwɛ adwuma so wɔ Mankaneɛ a Adanseɛ wɔ mu no so, ne ne nnwinnadeɛ nyinaa so, ne deɛ ɛwɔ mu nyinaa so; wɔnom na wɔbɛsoa ⟨את⟩ mankaneɛ no ne ⟨את⟩ ne nnwinnadeɛ nyinaa, na wɔnom na wɔbɛsom no, na wɔn atenae bɛkata mankaneɛ no ho.", "tokens": [{"surface": "ואתה", "gloss": "na wo"}, {"surface": "הפקד", "gloss": "paapae"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Lɛvim no"}, {"surface": "הלוים", "gloss": "Lɛvim no"}, {"surface": "על", "gloss": "sɛ ... so"}, {"surface": "משכן", "gloss": "mankaneɛ"}, {"surface": "העדת", "gloss": "a Adanseɛ wɔ mu"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "כליו", "gloss": "ne nnwinnadeɛ"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "לו", "gloss": "ɛwɔ mu"}, {"surface": "המה", "gloss": "wɔnom"}, {"surface": "ישאו", "gloss": "wɔbɛsoa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mankaneɛ no"}, {"surface": "המשכן", "gloss": "mankaneɛ no"}, {"surface": "ואת", "gloss": "ne ⟨את⟩"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "כליו", "gloss": "ne nnwinnadeɛ"}, {"surface": "והם", "gloss": "na wɔnom"}, {"surface": "ישרתהו", "gloss": "wɔbɛsom no"}, {"surface": "וסביב", "gloss": "na wɔn atenae bɛkata ... ho"}, {"surface": "למשכן", "gloss": "mankaneɛ no"}, {"surface": "יחנו", "gloss": "wɔbɛtena hɔ"}], "timestamp": "2026-09-15T21:24:27.779409556Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wo, paapae ⟨את⟩ Lɛvim no sɛ wɔnhwɛ adwuma so wɔ Mankaneɛ a Adanseɛ wɔ mu no so, ne ne nnwinnadeɛ nyinaa so, ne deɛ ɛwɔ mu nyinaa so; wɔnom na wɔbɛsoa ⟨את⟩ mankaneɛ no ne ⟨את⟩ ne nnwinnadeɛ nyinaa, na wɔnom na wɔbɛsom no, na wɔn atenae bɛkata mankaneɛ no ho.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "paapae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lɛvim no"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lɛvim no"
+    },
+    {
+      "surface": "על",
+      "gloss": "sɛ ... so"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mankaneɛ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a Adanseɛ wɔ mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nnwinnadeɛ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɛwɔ mu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔnom"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wɔbɛsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mankaneɛ no"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mankaneɛ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ne nnwinnadeɛ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na wɔnom"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "wɔbɛsom no"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "na wɔn atenae bɛkata ... ho"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "mankaneɛ no"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "wɔbɛtena hɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:27.779409556Z",
+  "model": "glm-5.3"
+}

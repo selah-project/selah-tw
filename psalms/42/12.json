@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 42:12","book":"psalms","lang":"tw","chapter":42,"translation":"Adɛn na wode ho sɛre me kra? Na adɛn na wodi awerɛhoɔ me mu? Twɛn Eloohim, ɛfiri sɛ mɛda no ase daakye; ɔno ne m'anim Nkwagyeɛ ne me Eloohim.","tokens":[{"surface":"מה","gloss":"adɛn na"},{"surface":"תשתוחחי","gloss":"wode ho sɛre"},{"surface":"נפשי","gloss":"me kra"},{"surface":"ומה","gloss":"na adɛn na"},{"surface":"תהמי","gloss":"wodi awerɛhoɔ"},{"surface":"עלי","gloss":"me mu"},{"surface":"הוחילי","gloss":"twɛn"},{"surface":"לאלהים","gloss":"Eloohim"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"עוד","gloss":"daakye"},{"surface":"אודנו","gloss":"mɛda no ase"},{"surface":"ישועת","gloss":"Nkwagyeɛ"},{"surface":"פני","gloss":"m'anim"},{"surface":"ואלהי","gloss":"ne me Eloohim"}],"timestamp":"2026-09-16T05:40:16.098438044Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Adɛn na wode ho sɛre me kra? Na adɛn na wodi awerɛhoɔ me mu? Twɛn Eloohim, ɛfiri sɛ mɛda no ase daakye; ɔno ne m'anim Nkwagyeɛ ne me Eloohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "adɛn na"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "wode ho sɛre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na adɛn na"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "wodi awerɛhoɔ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me mu"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "twɛn"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daakye"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "mɛda no ase"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "Nkwagyeɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "m'anim"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ne me Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:16.098438044Z",
+  "model": "glm-5.3"
+}

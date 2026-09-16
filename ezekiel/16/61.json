@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 61, "ref": "ezekiel 16:61", "book": "ezekiel", "lang": "tw", "chapter": 16, "translation": "Na wobɛka ⟨את⟩ w'akwan ho adwene, na w'anim bɛbere, berɛ a woregye ⟨את⟩ wo nuanom — wɔn a wɔyɛ akɛseɛ sen wo — ne wɔn a wɔyɛ nketewa sen wo; na mɛma ⟨את⟩ wɔn ama wo ayɛ wɔn mma, ɛnyɛ w'apam no mu.", "tokens": [{"surface": "וזכרת", "gloss": "na wobɛka ho adwene"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'akwan"}, {"surface": "דרכיך", "gloss": "w'akwan"}, {"surface": "ונכלמת", "gloss": "na w'anim bɛbere"}, {"surface": "בקחתך", "gloss": "berɛ a woregye"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nuanom"}, {"surface": "אחותיך", "gloss": "wo nuanom"}, {"surface": "הגדלות", "gloss": "akɛseɛ"}, {"surface": "ממך", "gloss": "sen wo"}, {"surface": "אל", "gloss": "ne"}, {"surface": "הקטנות", "gloss": "nketewa"}, {"surface": "ממך", "gloss": "sen wo"}, {"surface": "ונתתי", "gloss": "na mɛma"}, {"surface": "אתהן", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "לך", "gloss": "ama wo"}, {"surface": "לבנות", "gloss": "mma"}, {"surface": "ולא", "gloss": "ɛnyɛ"}, {"surface": "מבריתך", "gloss": "w'apam no mu"}], "timestamp": "2026-09-16T00:41:30.361830556Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "ezekiel 16:61",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na wobɛka ⟨את⟩ w'akwan ho adwene, na w'anim bɛbere, berɛ a woregye ⟨את⟩ wo nuanom — wɔn a wɔyɛ akɛseɛ sen wo — ne wɔn a wɔyɛ nketewa sen wo; na mɛma ⟨את⟩ wɔn ama wo ayɛ wɔn mma, ɛnyɛ w'apam no mu.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "na wobɛka ho adwene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'akwan"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "w'akwan"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "na w'anim bɛbere"
+    },
+    {
+      "surface": "בקחתך",
+      "gloss": "berɛ a woregye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nuanom"
+    },
+    {
+      "surface": "אחותיך",
+      "gloss": "wo nuanom"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sen wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הקטנות",
+      "gloss": "nketewa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sen wo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na mɛma"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "מבריתך",
+      "gloss": "w'apam no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:41:30.361830556Z",
+  "model": "glm-5.3"
+}

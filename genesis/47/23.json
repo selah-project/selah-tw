@@ -1,1 +1,84 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "genesis 47:23", "book": "genesis", "lang": "tw", "chapter": 47, "translation": "Na Yosef kaa kyɛn ⟨את⟩ nnipa no sɛ: Hwɛ, nnɛ me tɔm ⟨את⟩ mo ne ⟨את⟩ mo asaase ama Paro; hwɛ, nhwiren wɔ mo; momma mo nhwini asaase no mu.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyɛn"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "אל", "gloss": "kyɛn"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "הן", "gloss": "hwɛ"}, {"surface": "קניתי", "gloss": "me tɔm"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "היום", "gloss": "nnɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "mo asaase"}, {"surface": "אדמתכם", "gloss": "mo asaase"}, {"surface": "לפרעה", "gloss": "ama Paro"}, {"surface": "הא", "gloss": "hwɛ"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "זרע", "gloss": "nhwiren"}, {"surface": "וזרעתם", "gloss": "momma mo nhwini"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asaase no"}, {"surface": "האדמה", "gloss": "asaase no"}], "timestamp": "2026-09-15T20:41:20.893404918Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Na Yosef kaa kyɛn ⟨את⟩ nnipa no sɛ: Hwɛ, nnɛ me tɔm ⟨את⟩ mo ne ⟨את⟩ mo asaase ama Paro; hwɛ, nhwiren wɔ mo; momma mo nhwini asaase no mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyɛn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "me tɔm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo asaase"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "mo asaase"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ama Paro"
+    },
+    {
+      "surface": "הא",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nhwiren"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "momma mo nhwini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asaase no"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asaase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:20.893404918Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 8:7","book":"psalms","lang":"tw","chapter":8,"translation":"Woama no di ade wɔ wo nsa adwuma so; deɛ nyinaa wode asii n'anantew ase.","tokens":[{"surface":"תמשילהו","gloss":"Woama no di ade"},{"surface":"במעשי","gloss":"wɔ ... adwuma so"},{"surface":"ידיך","gloss":"wo nsa"},{"surface":"כל","gloss":"deɛ nyinaa"},{"surface":"שתה","gloss":"wode asii"},{"surface":"תחת","gloss":"ase"},{"surface":"רגליו","gloss":"n'anantew"}],"timestamp":"2026-09-16T01:38:55.816391461Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Woama no di ade wɔ wo nsa adwuma so; deɛ nyinaa wode asii n'anantew ase.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Woama no di ade"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "wɔ ... adwuma so"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "deɛ nyinaa"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "wode asii"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "n'anantew"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:55.816391461Z",
+  "model": "glm-5.3"
+}

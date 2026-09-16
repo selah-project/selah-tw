@@ -1,1 +1,65 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "2-chronicles 34:23", "book": "2-chronicles", "lang": "tw", "chapter": 34, "translation": "Na ɔkaa kyerɛɛ wɔn sɛ: Yawe, Yisrael Eloohim, seɛ saa: Monka kyerɛ onipa a ɔsomaa ⟨את⟩ mo brɛ me no sɛ:", "tokens": [{"surface": "ותאמר", "gloss": "ɔkaa kyerɛɛ"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "כה", "gloss": "saa"}, {"surface": "אמר", "gloss": "seɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "אמרו", "gloss": "monka"}, {"surface": "לאיש", "gloss": "kyerɛ onipa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "שלח", "gloss": "ɔsomaa"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "אלי", "gloss": "brɛ me"}], "timestamp": "2026-09-16T05:11:26.387418633Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 34:23",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na ɔkaa kyerɛɛ wɔn sɛ: Yawe, Yisrael Eloohim, seɛ saa: Monka kyerɛ onipa a ɔsomaa ⟨את⟩ mo brɛ me no sɛ:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "seɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "monka"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kyerɛ onipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ɔsomaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "brɛ me"
+    }
+  ],
+  "timestamp": "2026-09-16T05:11:26.387418633Z",
+  "model": "glm-5.3"
+}

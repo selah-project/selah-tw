@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"numbers 15:10","book":"numbers","lang":"tw","chapter":15,"translation":"Na nsa na wobɛbɛn de ama nsa-tɔ-ma no — fã hyin no — ogu-adwuma a ne ho yɛ dɛ ma Yawe.","tokens":[{"surface":"ויין","gloss":"Na nsa"},{"surface":"תקריב","gloss":"wobɛbɛn de ama"},{"surface":"לנסך","gloss":"nsa-tɔ-ma no"},{"surface":"חצי","gloss":"fã"},{"surface":"ההין","gloss":"hyin no"},{"surface":"אשה","gloss":"ogu-adwuma"},{"surface":"ריח","gloss":"ne ho yɛ dɛ"},{"surface":"ניחח","gloss":"a ɛma home"},{"surface":"ליהוה","gloss":"ma Yawe"}],"timestamp":"2026-09-16T06:55:16.840940243Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 15:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na nsa na wobɛbɛn de ama nsa-tɔ-ma no — fã hyin no — ogu-adwuma a ne ho yɛ dɛ ma Yawe.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Na nsa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "wobɛbɛn de ama"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "nsa-tɔ-ma no"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "fã"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hyin no"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ogu-adwuma"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ne ho yɛ dɛ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a ɛma home"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T06:55:16.840940243Z",
+  "model": "glm-5.3"
+}

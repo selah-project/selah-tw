@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "numbers 32:9", "book": "numbers", "lang": "tw", "chapter": 32, "translation": "Wɔforo kɔɔ asubɔnten Esikol so, na wɔhunuu ⟨את⟩ asase no, na wɔsii Yisrael mma no akoma kwan, ma wɔankɔ ⟨את⟩ asase a Yawe de maa wɔn no mu.", "tokens": [{"surface": "ויעלו", "gloss": "wɔforo kɔɔ"}, {"surface": "עד", "gloss": "so"}, {"surface": "נחל", "gloss": "asubɔnten"}, {"surface": "אשכול", "gloss": "Esikol"}, {"surface": "ויראו", "gloss": "na wɔhunuu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "ויניאו", "gloss": "na wɔsii...kwan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "akoma"}, {"surface": "לב", "gloss": "akoma"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "לבלתי", "gloss": "ma wɔankɔ"}, {"surface": "בא", "gloss": "kɔ"}, {"surface": "אל", "gloss": "mu"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נתן", "gloss": "de maa"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T21:41:40.311507204Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 32:9",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Wɔforo kɔɔ asubɔnten Esikol so, na wɔhunuu ⟨את⟩ asase no, na wɔsii Yisrael mma no akoma kwan, ma wɔankɔ ⟨את⟩ asase a Yawe de maa wɔn no mu.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "wɔforo kɔɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "so"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "Esikol"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na wɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויניאו",
+      "gloss": "na wɔsii...kwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akoma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ma wɔankɔ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de maa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:41:40.311507204Z",
+  "model": "glm-5.3"
+}

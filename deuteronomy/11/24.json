@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":24,"ref":"deuteronomy 11:24","book":"deuteronomy","lang":"tw","chapter":11,"translation":"Baabiara a mo nan pɔnpɔn bɛkyekye mu no, ɛbɛyɛ mo dea; firi sare no ne Lebanon, firi ⟨asubɔnten⟩ no — Perat asubɔnten — kɔsi ɛpo a ɛwɔ akyiri no, ɛno na mo ahyeɛ bɛyɛ.","tokens":[{"surface":"כל","gloss":"Baabiara"},{"surface":"המקום","gloss":"baabi"},{"surface":"אשר","gloss":"a"},{"surface":"תדרך","gloss":"bɛkyekye"},{"surface":"כף","gloss":"pɔnpɔn"},{"surface":"רגלכם","gloss":"mo nan"},{"surface":"בו","gloss":"mu"},{"surface":"לכם","gloss":"mo"},{"surface":"יהיה","gloss":"bɛyɛ … dea"},{"surface":"מן","gloss":"firi"},{"surface":"המדבר","gloss":"sare no"},{"surface":"והלבנון","gloss":"ne Lebanon"},{"surface":"מן","gloss":"firi"},{"surface":"הנהר","gloss":"⟨asubɔnten⟩ no"},{"surface":"נהר","gloss":"asubɔnten"},{"surface":"פרת","gloss":"Perat"},{"surface":"ועד","gloss":"kɔsi"},{"surface":"הים","gloss":"ɛpo"},{"surface":"האחרון","gloss":"a ɛwɔ akyiri"},{"surface":"יהיה","gloss":"bɛyɛ"},{"surface":"גבלכם","gloss":"mo ahyeɛ"}],"timestamp":"2026-09-15T21:49:15.906539827Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 11:24",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Baabiara a mo nan pɔnpɔn bɛkyekye mu no, ɛbɛyɛ mo dea; firi sare no ne Lebanon, firi ⟨asubɔnten⟩ no — Perat asubɔnten — kɔsi ɛpo a ɛwɔ akyiri no, ɛno na mo ahyeɛ bɛyɛ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Baabiara"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "bɛkyekye"
+    },
+    {
+      "surface": "כף",
+      "gloss": "pɔnpɔn"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "mo nan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ … dea"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sare no"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ne Lebanon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "⟨asubɔnten⟩ no"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "a ɛwɔ akyiri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "גבלכם",
+      "gloss": "mo ahyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:15.906539827Z",
+  "model": "glm-5.3"
+}

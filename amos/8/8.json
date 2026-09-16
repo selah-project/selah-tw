@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":8,"ref":"amos 8:8","book":"amos","lang":"tw","chapter":8,"translation":"Enti wɔ asɛm yi so, asase no nso bɛyɛ wo wɔ mu ana? Nneɛma a wɔte mu nyinaa bɛda adwirem; ɛbɛforo sɛ Nile asubɔnten no sɛ ɛyɛ baako pɛ, na ɛbɛtɔ fam bio, sɛ Misraim asubɔnten no.","tokens":[{"surface":"העל","gloss":"wɔ ... so"},{"surface":"זאת","gloss":"asɛm yi"},{"surface":"לא","gloss":"nso ... ana"},{"surface":"תרגז","gloss":"bɛyɛ wo wɔ mu"},{"surface":"הארץ","gloss":"asase no"},{"surface":"ואבל","gloss":"na ... bɛda adwirem"},{"surface":"כל","gloss":"nyinaa"},{"surface":"יושב","gloss":"wɔte mu"},{"surface":"בה","gloss":"mu"},{"surface":"ועלתה","gloss":"na ɛbɛforo"},{"surface":"כאר","gloss":"sɛ asubɔnten"},{"surface":"כלה","gloss":"ɛyɛ baako pɛ"},{"surface":"ונגרשה","gloss":"na ɛbɛtetew"},{"surface":"ונשקה","gloss":"na ɛbɛtɔ fam"},{"surface":"כיאור","gloss":"sɛ asubɔnten"},{"surface":"מצרים","gloss":"Misraim"}],"timestamp":"2026-09-16T01:15:06.246347298Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 8:8",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Enti wɔ asɛm yi so, asase no nso bɛyɛ wo wɔ mu ana? Nneɛma a wɔte mu nyinaa bɛda adwirem; ɛbɛforo sɛ Nile asubɔnten no sɛ ɛyɛ baako pɛ, na ɛbɛtɔ fam bio, sɛ Misraim asubɔnten no.",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "asɛm yi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nso ... ana"
+    },
+    {
+      "surface": "תרגז",
+      "gloss": "bɛyɛ wo wɔ mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "na ... bɛda adwirem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wɔte mu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "na ɛbɛforo"
+    },
+    {
+      "surface": "כאר",
+      "gloss": "sɛ asubɔnten"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ɛyɛ baako pɛ"
+    },
+    {
+      "surface": "ונגרשה",
+      "gloss": "na ɛbɛtetew"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "na ɛbɛtɔ fam"
+    },
+    {
+      "surface": "כיאור",
+      "gloss": "sɛ asubɔnten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:15:06.246347298Z",
+  "model": "glm-5.3"
+}

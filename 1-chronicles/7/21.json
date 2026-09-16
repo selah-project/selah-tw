@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":21,"ref":"1-chronicles 7:21","book":"1-chronicles","lang":"tw","chapter":7,"translation":"Zabad ne ba, Shutelah ne ba, Ezer ne Elad; Gath ammarima a wɔwoo wɔn wɔ asase no mu no kum wɔn, ɛfiri sɛ wɔsii akɔtɔ sɛ wɔbɛgya ⟨את⟩ wɔn anantwine.","tokens":[{"surface":"וזבד","gloss":"Zabad"},{"surface":"בנו","gloss":"ne ba"},{"surface":"ושותלח","gloss":"Shutelah"},{"surface":"בנו","gloss":"ne ba"},{"surface":"ועזר","gloss":"Ezer"},{"surface":"ואלעד","gloss":"Elad"},{"surface":"והרגום","gloss":"kum wɔn"},{"surface":"אנשי","gloss":"ammarima"},{"surface":"גת","gloss":"Gath"},{"surface":"הנולדים","gloss":"a wɔwoo wɔn"},{"surface":"בארץ","gloss":"wɔ asase no mu"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"ירדו","gloss":"wɔsii akɔtɔ"},{"surface":"לקחת","gloss":"sɛ wɔbɛgya"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn anantwine"},{"surface":"מקניהם","gloss":"wɔn anantwine"}],"timestamp":"2026-09-16T04:39:01.036810582Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 7:21",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Zabad ne ba, Shutelah ne ba, Ezer ne Elad; Gath ammarima a wɔwoo wɔn wɔ asase no mu no kum wɔn, ɛfiri sɛ wɔsii akɔtɔ sɛ wɔbɛgya ⟨את⟩ wɔn anantwine.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zabad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ושותלח",
+      "gloss": "Shutelah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "ואלעד",
+      "gloss": "Elad"
+    },
+    {
+      "surface": "והרגום",
+      "gloss": "kum wɔn"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ammarima"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "הנולדים",
+      "gloss": "a wɔwoo wɔn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "wɔsii akɔtɔ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sɛ wɔbɛgya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn anantwine"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "wɔn anantwine"
+    }
+  ],
+  "timestamp": "2026-09-16T04:39:01.036810582Z",
+  "model": "glm-5.3"
+}

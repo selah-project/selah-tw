@@ -1,1 +1,100 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "deuteronomy 3:24", "book": "deuteronomy", "lang": "tw", "chapter": 3, "translation": "Adonai Yawe, wo na woahyɛ aseɛ da ⟨את⟩ w'akoa ⟨את⟩ wo kɛseɛ ne ⟨את⟩ wo nsa den no adi; ɛfiri sɛ hwan ne El a ɔwɔ ɔsoro anaa asase so a ɔbɛyɛ sɛ nnwuma wo deɛ, ne ahoɔden wo deɛ no?", "tokens": [{"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתה", "gloss": "wo na"}, {"surface": "החלות", "gloss": "woahyɛ aseɛ"}, {"surface": "להראות", "gloss": "da … adi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'akoa"}, {"surface": "עבדך", "gloss": "w'akoa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo kɛseɛ"}, {"surface": "גדלך", "gloss": "wo kɛseɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wo nsa den"}, {"surface": "ידך", "gloss": "wo nsa"}, {"surface": "החזקה", "gloss": "den"}, {"surface": "אשר", "gloss": "ɛfiri sɛ"}, {"surface": "מי", "gloss": "hwan"}, {"surface": "אל", "gloss": "El"}, {"surface": "בשמים", "gloss": "ɔwɔ ɔsoro"}, {"surface": "ובארץ", "gloss": "anaa asase so"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יעשה", "gloss": "ɔbɛyɛ"}, {"surface": "כמעשיך", "gloss": "sɛ nnwuma wo deɛ"}, {"surface": "וכגבורתך", "gloss": "ne ahoɔden wo deɛ"}], "timestamp": "2026-09-15T21:45:45.799107450Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Adonai Yawe, wo na woahyɛ aseɛ da ⟨את⟩ w'akoa ⟨את⟩ wo kɛseɛ ne ⟨את⟩ wo nsa den no adi; ɛfiri sɛ hwan ne El a ɔwɔ ɔsoro anaa asase so a ɔbɛyɛ sɛ nnwuma wo deɛ, ne ahoɔden wo deɛ no?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo na"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "woahyɛ aseɛ"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "da … adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'akoa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "w'akoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo kɛseɛ"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "wo kɛseɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa den"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "den"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ɔwɔ ɔsoro"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "anaa asase so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ɔbɛyɛ"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "sɛ nnwuma wo deɛ"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "ne ahoɔden wo deɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:45.799107450Z",
+  "model": "glm-5.3"
+}

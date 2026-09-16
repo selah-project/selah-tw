@@ -1,1 +1,96 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-samuel 2:22","book":"1-samuel","lang":"tw","chapter":2,"translation":"Na Eli nyaa mmerɛ dodo, na ɔtee ⟨את⟩ deɛ ne mma no yɛ no nyinaa wɔ Israelfoɔ nyinaa ho, ne ⟨את⟩ deɛ wɔda ⟨את⟩ mmaa a wɔboaboa ano wɔ Nhyiam Tenda no ano.","tokens":[{"surface":"ועלי","gloss":"Na Eli"},{"surface":"זקן","gloss":"nyaa mmerɛ"},{"surface":"מאד","gloss":"dodo"},{"surface":"ושמע","gloss":"na ɔtee"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ ... nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"אשר","gloss":"deɛ"},{"surface":"יעשון","gloss":"yɛ"},{"surface":"בניו","gloss":"ne mma no"},{"surface":"לכל","gloss":"wɔ ... nyinaa ho"},{"surface":"ישראל","gloss":"Israelfoɔ"},{"surface":"ואת","gloss":"ne ⟨את⟩","marks":"deɛ wɔda"},{"surface":"אשר","gloss":"deɛ"},{"surface":"ישכבון","gloss":"wɔda"},{"surface":"את","gloss":"⟨את⟩","marks":"mmaa a wɔboaboa ano"},{"surface":"הנשים","gloss":"mmaa"},{"surface":"הצבאות","gloss":"a wɔboaboa ano"},{"surface":"פתח","gloss":"ano"},{"surface":"אהל","gloss":"Tenda"},{"surface":"מועד","gloss":"Nhyiam"}],"timestamp":"2026-09-15T22:47:31.984068052Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Eli nyaa mmerɛ dodo, na ɔtee ⟨את⟩ deɛ ne mma no yɛ no nyinaa wɔ Israelfoɔ nyinaa ho, ne ⟨את⟩ deɛ wɔda ⟨את⟩ mmaa a wɔboaboa ano wɔ Nhyiam Tenda no ano.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Na Eli"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nyaa mmerɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dodo"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na ɔtee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ... nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma no"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wɔ ... nyinaa ho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "deɛ wɔda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "wɔda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmaa a wɔboaboa ano"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mmaa"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "a wɔboaboa ano"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:31.984068052Z",
+  "model": "glm-5.3"
+}

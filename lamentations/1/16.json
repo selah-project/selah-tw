@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":16,"ref":"lamentations 1:16","book":"lamentations","lang":"tw","chapter":1,"translation":"Eyi nyinaa enti na mesu; me ani, me ani, nsuo retɔ; ɛfiri sɛ obi a ɔbɛtete me kra no wɔ akyirikyiri; m'amma ayɛ amanefoɔ, ɛfiri sɛ atamfoɔ adi so nkunim.","tokens":[{"surface":"על","gloss":"enti"},{"surface":"אלה","gloss":"eyi nyinaa"},{"surface":"אני","gloss":"me"},{"surface":"בוכיה","gloss":"mesu"},{"surface":"עיני","gloss":"me ani"},{"surface":"עיני","gloss":"me ani"},{"surface":"ירדה","gloss":"retɔ"},{"surface":"מים","gloss":"nsuo"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"רחק","gloss":"wɔ akyirikyiri"},{"surface":"ממני","gloss":"afi me hɔ"},{"surface":"מנחם","gloss":"obi a ɔbɛtete"},{"surface":"משיב","gloss":"ɔbɛsan abrɛ"},{"surface":"נפשי","gloss":"me kra"},{"surface":"היו","gloss":"ayɛ"},{"surface":"בני","gloss":"m'amma"},{"surface":"שוממים","gloss":"amanefoɔ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"גבר","gloss":"di so nkunim"},{"surface":"אויב","gloss":"atamfoɔ"}],"timestamp":"2026-09-16T03:48:49.859475002Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 1:16",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Eyi nyinaa enti na mesu; me ani, me ani, nsuo retɔ; ɛfiri sɛ obi a ɔbɛtete me kra no wɔ akyirikyiri; m'amma ayɛ amanefoɔ, ɛfiri sɛ atamfoɔ adi so nkunim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "enti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "eyi nyinaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "בוכיה",
+      "gloss": "mesu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "retɔ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "wɔ akyirikyiri"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "afi me hɔ"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "obi a ɔbɛtete"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "ɔbɛsan abrɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "m'amma"
+    },
+    {
+      "surface": "שוממים",
+      "gloss": "amanefoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "di so nkunim"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "atamfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:48:49.859475002Z",
+  "model": "glm-5.3"
+}

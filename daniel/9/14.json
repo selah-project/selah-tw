@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":14,"ref":"daniel 9:14","book":"daniel","lang":"tw","chapter":9,"translation":"Yawe hwɛɛ ɔhaw no so na ɔde baa yɛn so, ɛfiri sɛ ɔteɛ ne Yawe, yɛn Eloohim, wɔ ne dwuma nyinaa mu a ɔyɛeɛ, na yɛantie ne nne.","tokens":[{"surface":"וישקד","gloss":"hwɛɛ ...so"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"על","gloss":"...so"},{"surface":"הרעה","gloss":"ɔhaw no"},{"surface":"ויביאה","gloss":"na ɔde baa"},{"surface":"עלינו","gloss":"yɛn so"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"צדיק","gloss":"ɔteɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהינו","gloss":"yɛn Eloohim"},{"surface":"על","gloss":"wɔ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"מעשיו","gloss":"ne dwuma"},{"surface":"אשר","gloss":"a"},{"surface":"עשה","gloss":"ɔyɛeɛ"},{"surface":"ולא","gloss":"na yɛan-"},{"surface":"שמענו","gloss":"tie"},{"surface":"בקלו","gloss":"ne nne"}],"timestamp":"2026-09-16T04:16:02.477515668Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 9:14",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Yawe hwɛɛ ɔhaw no so na ɔde baa yɛn so, ɛfiri sɛ ɔteɛ ne Yawe, yɛn Eloohim, wɔ ne dwuma nyinaa mu a ɔyɛeɛ, na yɛantie ne nne.",
+  "tokens": [
+    {
+      "surface": "וישקד",
+      "gloss": "hwɛɛ ...so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "...so"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ɔhaw no"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "na ɔde baa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔteɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ne dwuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛeɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yɛan-"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ne nne"
+    }
+  ],
+  "timestamp": "2026-09-16T04:16:02.477515668Z",
+  "model": "glm-5.3"
+}

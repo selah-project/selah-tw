@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":16,"ref":"1-samuel 18:16","book":"1-samuel","lang":"tw","chapter":18,"translation":"Na Yisrael nyinaa ne Yehuda dɔɔ ⟨את⟩ Dawid, ɛfiri sɛ no na ɔtu kɔ na ɔba wɔn anim.","tokens":[{"surface":"וכל","gloss":"nyinaa"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ויהודה","gloss":"ne Yehuda"},{"surface":"אהב","gloss":"dɔɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Dawid"},{"surface":"דוד","gloss":"Dawid"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"הוא","gloss":"no"},{"surface":"יוצא","gloss":"ɔtu kɔ"},{"surface":"ובא","gloss":"na ɔba"},{"surface":"לפניהם","gloss":"wɔn anim"}],"timestamp":"2026-09-15T22:53:37.924535938Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Yisrael nyinaa ne Yehuda dɔɔ ⟨את⟩ Dawid, ɛfiri sɛ no na ɔtu kɔ na ɔba wɔn anim.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ne Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ɔtu kɔ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na ɔba"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "wɔn anim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:37.924535938Z",
+  "model": "glm-5.3"
+}

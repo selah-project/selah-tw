@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":17,"ref":"1-chronicles 8:17","book":"1-chronicles","lang":"tw","chapter":8,"translation":"Zebadaya ne Meshullam ne Hizki ne Haber.","tokens":[{"surface":"וזבדיה","gloss":"Zebadaya"},{"surface":"ומשלם","gloss":"ne Meshullam"},{"surface":"וחזקי","gloss":"ne Hizki"},{"surface":"וחבר","gloss":"ne Haber"}],"timestamp":"2026-09-16T04:38:33.206809562Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Zebadaya ne Meshullam ne Hizki ne Haber.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "Zebadaya"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ne Meshullam"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ne Hizki"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ne Haber"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:33.206809562Z",
+  "model": "glm-5.3"
+}

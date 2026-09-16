@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":9,"ref":"haggai 1:9","book":"haggai","lang":"tw","chapter":1,"translation":"Moohwɛɛ dɛ ɛdɔɔso, na hwɛ, ɛyɛɛ kakraabi; na moadii deɛ mofirii no baa fie, na mehuu mu. Ɛdeɛ nti? Yawe Twafoɔ ne no de. Ɛfiri sɛ me fie no asɛeɛ, na moara mo mu biara tu mmirika kɔ n'ankasa fie.","tokens":[{"surface":"פנה","gloss":"Moohwɛɛ"},{"surface":"אל","gloss":"kɔ"},{"surface":"הרבה","gloss":"dɛ ɛdɔɔso"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"למעט","gloss":"ɛyɛɛ kakraabi"},{"surface":"והבאתם","gloss":"na moadii deɛ mofirii no baa fie"},{"surface":"הבית","gloss":"baa fie"},{"surface":"ונפחתי","gloss":"na mehuu mu"},{"surface":"בו","gloss":"mu"},{"surface":"יען","gloss":"Ɛdeɛ nti"},{"surface":"מה","gloss":"nidi"},{"surface":"נאם","gloss":"ne no de"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"יען","gloss":"Ɛfiri sɛ"},{"surface":"ביתי","gloss":"me fie"},{"surface":"אשר","gloss":"sɛ"},{"surface":"הוא","gloss":"no"},{"surface":"חרב","gloss":"asɛeɛ"},{"surface":"ואתם","gloss":"na mo"},{"surface":"רצים","gloss":"tu mmirika"},{"surface":"איש","gloss":"mo mu biara"},{"surface":"לביתו","gloss":"kɔ n'ankasa fie"}],"timestamp":"2026-09-16T01:28:04.999937078Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "haggai 1:9",
+  "book": "haggai",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Moohwɛɛ dɛ ɛdɔɔso, na hwɛ, ɛyɛɛ kakraabi; na moadii deɛ mofirii no baa fie, na mehuu mu. Ɛdeɛ nti? Yawe Twafoɔ ne no de. Ɛfiri sɛ me fie no asɛeɛ, na moara mo mu biara tu mmirika kɔ n'ankasa fie.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Moohwɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "dɛ ɛdɔɔso"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "ɛyɛɛ kakraabi"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "na moadii deɛ mofirii no baa fie"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "baa fie"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "na mehuu mu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Ɛdeɛ nti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nidi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ne no de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "me fie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "asɛeɛ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na mo"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "tu mmirika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mo mu biara"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kɔ n'ankasa fie"
+    }
+  ],
+  "timestamp": "2026-09-16T01:28:04.999937078Z",
+  "model": "glm-5.3"
+}

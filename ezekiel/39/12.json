@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "ezekiel 39:12", "book": "ezekiel", "lang": "tw", "chapter": 39, "translation": "Na Yisrael fie no bɛsie wɔn, sɛdeɛ ⟨את⟩ asaase no bɛho etew — bosome nson.", "tokens": [{"surface": "וקברום", "gloss": "na wɔbɛsie wɔn"}, {"surface": "בית", "gloss": "fie"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "למען", "gloss": "sɛdeɛ"}, {"surface": "טהר", "gloss": "bɛho etew"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asaase no"}, {"surface": "הארץ", "gloss": "asaase no"}, {"surface": "שבעה", "gloss": "nson"}, {"surface": "חדשים", "gloss": "bosome"}], "timestamp": "2026-09-16T00:55:58.641699505Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na Yisrael fie no bɛsie wɔn, sɛdeɛ ⟨את⟩ asaase no bɛho etew — bosome nson.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "na wɔbɛsie wɔn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "bɛho etew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asaase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asaase no"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nson"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bosome"
+    }
+  ],
+  "timestamp": "2026-09-16T00:55:58.641699505Z",
+  "model": "glm-5.3"
+}

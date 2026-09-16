@@ -1,1 +1,45 @@
-{"tier": "glm-5.2", "verse": 37, "ref": "ezekiel 20:37", "book": "ezekiel", "lang": "tw", "chapter": 20, "translation": "Na mɛma ⟨את⟩ mo atwam nsateaa no ase, na mɛde ⟨את⟩ mo aba apam no abamu mu.", "tokens": [{"surface": "והעברתי", "gloss": "na mɛma mo atwam"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "תחת", "gloss": "ase"}, {"surface": "השבט", "gloss": "nsateaa no"}, {"surface": "והבאתי", "gloss": "na mɛde mo aba"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "במסרת", "gloss": "abamu mu"}, {"surface": "הברית", "gloss": "apam no"}], "timestamp": "2026-09-16T00:46:16.952737521Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na mɛma ⟨את⟩ mo atwam nsateaa no ase, na mɛde ⟨את⟩ mo aba apam no abamu mu.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "na mɛma mo atwam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "nsateaa no"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "na mɛde mo aba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "abamu mu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "apam no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:46:16.952737521Z",
+  "model": "glm-5.3"
+}

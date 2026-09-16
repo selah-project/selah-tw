@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "1-kings 11:10", "book": "1-kings", "lang": "tw", "chapter": 11, "translation": "Na ɔhyɛɛ no sɛ wɔ asɛm yi ho no, ɔnkɔ akyiri Eloohim foforɔ; nanso ɔankora ⟨את⟩ deɛ Yawe hyɛɛ no so no.", "tokens": [{"surface": "וצוה", "gloss": "ɔhyɛɛ"}, {"surface": "אליו", "gloss": "no"}, {"surface": "על", "gloss": "wɔ ... ho"}, {"surface": "הדבר", "gloss": "asɛm"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "לבלתי", "gloss": "sɛ ɔnkɔ"}, {"surface": "לכת", "gloss": "nkɔ"}, {"surface": "אחרי", "gloss": "akyiri"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אחרים", "gloss": "foforɔ"}, {"surface": "ולא", "gloss": "nanso ... ɔannkora"}, {"surface": "שמר", "gloss": "kora"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ Yawe hyɛɛ no so no"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T23:17:56.586264604Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɔhyɛɛ no sɛ wɔ asɛm yi ho no, ɔnkɔ akyiri Eloohim foforɔ; nanso ɔankora ⟨את⟩ deɛ Yawe hyɛɛ no so no.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ɔhyɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sɛ ɔnkɔ"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyiri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... ɔannkora"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yawe hyɛɛ no so no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:56.586264604Z",
+  "model": "glm-5.3"
+}

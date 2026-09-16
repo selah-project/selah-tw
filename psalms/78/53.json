@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 53, "ref": "psalms 78:53", "book": "psalms", "lang": "tw", "chapter": 78, "translation": "Na ɔdwannaa wɔn dɔɔso wɔ asomdwoe mu, na wɔanhaw dwom; na ɛpo no kataa ⟨את⟩ wɔn atamfoɔ so.", "tokens": [{"surface": "וינחם", "gloss": "ɔdwannaa wɔn"}, {"surface": "לבטח", "gloss": "wɔ asomdwoe mu"}, {"surface": "ולא", "gloss": "na wɔanhaw dwom"}, {"surface": "פחדו", "gloss": "anhaw dwom"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn atamfoɔ"}, {"surface": "אויביהם", "gloss": "wɔn atamfoɔ"}, {"surface": "כסה", "gloss": "kataa so"}, {"surface": "הים", "gloss": "ɛpo no"}], "timestamp": "2026-09-16T02:09:38.801990406Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Na ɔdwannaa wɔn dɔɔso wɔ asomdwoe mu, na wɔanhaw dwom; na ɛpo no kataa ⟨את⟩ wɔn atamfoɔ so.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ɔdwannaa wɔn"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "wɔ asomdwoe mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔanhaw dwom"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "anhaw dwom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn atamfoɔ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "wɔn atamfoɔ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kataa so"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:09:38.801990406Z",
+  "model": "glm-5.3"
+}

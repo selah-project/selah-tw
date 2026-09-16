@@ -1,1 +1,101 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "leviticus 20:18", "book": "leviticus", "lang": "tw", "chapter": 20, "translation": "Na ɔbarima a ɔbɛda ⟨את⟩ ɔbea a ɔyare (ne menses mu) so na ɔbɛda ⟨את⟩ ne nkwaseasɛm ase — ⟨את⟩ ne ntokuro no na ɔdiiie, na ɔno nso daa ⟨את⟩ ne mogya ntokuro no ase — wɔbɛtwa wɔn baanu nyinaa fi wɔn man mu.", "tokens": [{"surface": "ואיש", "gloss": "na ɔbarima"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ישכב", "gloss": "ɔbɛda ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔbea a ɔyare"}, {"surface": "אשה", "gloss": "ɔbea"}, {"surface": "דוה", "gloss": "a ɔyare (menses mu)"}, {"surface": "וגלה", "gloss": "na ɔbɛda ... ase"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nkwaseasɛm"}, {"surface": "ערותה", "gloss": "ne nkwaseasɛm"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne ntokuro"}, {"surface": "מקרה", "gloss": "ne ntokuro"}, {"surface": "הערה", "gloss": "na ɔdiiie"}, {"surface": "והיא", "gloss": "na ɔno nso"}, {"surface": "גלתה", "gloss": "daa ... ase"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne mogya ntokuro"}, {"surface": "מקור", "gloss": "ntokuro"}, {"surface": "דמיה", "gloss": "ne mogya"}, {"surface": "ונכרתו", "gloss": "wɔbɛtwa wɔn"}, {"surface": "שניהם", "gloss": "baanu nyinaa"}, {"surface": "מקרב", "gloss": "fi ... mu"}, {"surface": "עמם", "gloss": "wɔn man"}], "timestamp": "2026-09-15T21:20:17.050609600Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔbarima a ɔbɛda ⟨את⟩ ɔbea a ɔyare (ne menses mu) so na ɔbɛda ⟨את⟩ ne nkwaseasɛm ase — ⟨את⟩ ne ntokuro no na ɔdiiie, na ɔno nso daa ⟨את⟩ ne mogya ntokuro no ase — wɔbɛtwa wɔn baanu nyinaa fi wɔn man mu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "na ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ɔbɛda ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbea a ɔyare"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbea"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "a ɔyare (menses mu)"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "na ɔbɛda ... ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkwaseasɛm"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ne nkwaseasɛm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ntokuro"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ne ntokuro"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "na ɔdiiie"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "na ɔno nso"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "daa ... ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mogya ntokuro"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ntokuro"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ne mogya"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "wɔbɛtwa wɔn"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "baanu nyinaa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "fi ... mu"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wɔn man"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:17.050609600Z",
+  "model": "glm-5.3"
+}

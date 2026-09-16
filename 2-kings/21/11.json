@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "2-kings 21:11", "book": "2-kings", "lang": "tw", "chapter": 21, "translation": "Ɛfiri sɛ Manaseh, Yuda ɔhene, yɛɛ abɔbonefiɛ yi, na ɔyɛɛ bɔne sene deɛ Emorfi no yɛeɛ a wɔdedii n'anim no nyinaa, na ɔmaa ⟨את⟩ Yeda nso yɛɛ bɔne wɔ n'abosomsɔne mu:", "tokens": [{"surface": "יען", "gloss": "ɛfiri sɛ"}, {"surface": "אשר", "gloss": "—"}, {"surface": "עשה", "gloss": "yɛɛ"}, {"surface": "מנשה", "gloss": "Manaseh"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "התעבות", "gloss": "abɔbonefiɛ"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "הרע", "gloss": "yɛɛ bɔne"}, {"surface": "מכל", "gloss": "sene ... nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "עשו", "gloss": "yɛeɛ"}, {"surface": "האמרי", "gloss": "Emorfi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לפניו", "gloss": "wɔdedii n'anim"}, {"surface": "ויחטא", "gloss": "maa ... yɛɛ bɔne"}, {"surface": "גם", "gloss": "nso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yeda"}, {"surface": "יהודה", "gloss": "Yeda"}, {"surface": "בגלוליו", "gloss": "wɔ n'abosomsɔne mu"}], "timestamp": "2026-09-15T23:35:03.516741147Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 21:11",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ɛfiri sɛ Manaseh, Yuda ɔhene, yɛɛ abɔbonefiɛ yi, na ɔyɛɛ bɔne sene deɛ Emorfi no yɛeɛ a wɔdedii n'anim no nyinaa, na ɔmaa ⟨את⟩ Yeda nso yɛɛ bɔne wɔ n'abosomsɔne mu:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manaseh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "abɔbonefiɛ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yɛɛ bɔne"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sene ... nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wɔdedii n'anim"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "maa ... yɛɛ bɔne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeda"
+    },
+    {
+      "surface": "בגלוליו",
+      "gloss": "wɔ n'abosomsɔne mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:03.516741147Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "ecclesiastes 4:2", "book": "ecclesiastes", "lang": "tw", "chapter": 4, "translation": "Na mesɛɛ ⟨את⟩ awufoɔ a wɔawu dedaw no ⟨kyɛn⟩ nkwafoɔ a wɔda so sɛ wɔwɔ nkwa mu no.", "tokens": [{"surface": "ושבח", "gloss": "Na mesɛɛ"}, {"surface": "אני", "gloss": "me"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "awufoɔ"}, {"surface": "המתים", "gloss": "awufoɔ"}, {"surface": "שכבר", "gloss": "dedaw"}, {"surface": "מתו", "gloss": "wɔawu"}, {"surface": "מן", "gloss": "kyɛn"}, {"surface": "החיים", "gloss": "nkwafoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "המה", "gloss": "wɔ"}, {"surface": "חיים", "gloss": "wɔwɔ nkwa mu"}, {"surface": "עדנה", "gloss": "da so"}], "timestamp": "2026-09-16T05:49:07.695657827Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na mesɛɛ ⟨את⟩ awufoɔ a wɔawu dedaw no ⟨kyɛn⟩ nkwafoɔ a wɔda so sɛ wɔwɔ nkwa mu no.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Na mesɛɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awufoɔ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "awufoɔ"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "dedaw"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "wɔawu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kyɛn"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nkwafoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wɔwɔ nkwa mu"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "da so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:49:07.695657827Z",
+  "model": "glm-5.3"
+}

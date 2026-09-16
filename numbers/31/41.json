@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":41,"ref":"numbers 31:41","book":"numbers","lang":"tw","chapter":31,"translation":"Na Mosheh maa ⟨את⟩ sika-bɔ Yawe toroma no maa Elazar ɔsɔfoɔ no, sɛnea Yawe hyɛɛ ⟨את⟩ Mosheɛ.","tokens":[{"surface":"ויתן","gloss":"maa"},{"surface":"משה","gloss":"Mosheh"},{"surface":"את","gloss":"⟨את⟩","marks":"sika-bɔ (moka)"},{"surface":"מכס","gloss":"sika-bɔ"},{"surface":"תרומת","gloss":"toroma"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לאלעזר","gloss":"maa Elazar"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"כאשר","gloss":"sɛnea"},{"surface":"צוה","gloss":"hyɛɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"Mosheh"},{"surface":"משה","gloss":"Mosheh"}],"timestamp":"2026-09-15T21:41:17.419998529Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 31:41",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na Mosheh maa ⟨את⟩ sika-bɔ Yawe toroma no maa Elazar ɔsɔfoɔ no, sɛnea Yawe hyɛɛ ⟨את⟩ Mosheɛ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika-bɔ (moka)"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "sika-bɔ"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "toroma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "maa Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-09-15T21:41:17.419998529Z",
+  "model": "glm-5.3"
+}

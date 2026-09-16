@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "exodus 37:27", "book": "exodus", "lang": "tw", "chapter": 37, "translation": "Na ɔyɛɛ nkotokuu mmienu a wɔde sika kɔkɔɔ ayɛ maa no, wɔ ne kwanhyɛdeɛ no ase, wɔ ne mmea⟨את⟩ mudua mmienu so, wɔ ne nhwiaban mmienu so — sɛ ɛyɛ beaeɛ a wɔde bɛhyɛ mmadea mu de bɛsoa no.", "tokens": [{"surface": "ושתי", "gloss": "na ... mmienu"}, {"surface": "טבעת", "gloss": "nkotokuu"}, {"surface": "זהב", "gloss": "sika kɔkɔɔ"}, {"surface": "עשה", "gloss": "ɔyɛɛ"}, {"surface": "לו", "gloss": "mmaa no"}, {"surface": "מתחת", "gloss": "wɔ ... ase"}, {"surface": "לזרו", "gloss": "ne kwanhyɛdeɛ no"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "שתי", "gloss": "mmienu"}, {"surface": "צלעתיו", "gloss": "ne mmeamudua mmienu"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "צדיו", "gloss": "ne nhwiaban mmienu"}, {"surface": "לבתים", "gloss": "sɛ ɛyɛ beaeɛ"}, {"surface": "לבדים", "gloss": "a wɔde bɛhyɛ mmadea mu"}, {"surface": "לשאת", "gloss": "de bɛsoa"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "בהם", "gloss": "mu"}], "timestamp": "2026-09-15T21:06:19.480468642Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 37:27",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na ɔyɛɛ nkotokuu mmienu a wɔde sika kɔkɔɔ ayɛ maa no, wɔ ne kwanhyɛdeɛ no ase, wɔ ne mmea⟨את⟩ mudua mmienu so, wɔ ne nhwiaban mmienu so — sɛ ɛyɛ beaeɛ a wɔde bɛhyɛ mmadea mu de bɛsoa no.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na ... mmienu"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "nkotokuu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mmaa no"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "wɔ ... ase"
+    },
+    {
+      "surface": "לזרו",
+      "gloss": "ne kwanhyɛdeɛ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "צלעתיו",
+      "gloss": "ne mmeamudua mmienu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "צדיו",
+      "gloss": "ne nhwiaban mmienu"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "sɛ ɛyɛ beaeɛ"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "a wɔde bɛhyɛ mmadea mu"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "de bɛsoa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:19.480468642Z",
+  "model": "glm-5.3"
+}

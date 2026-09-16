@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "1-kings 11:23", "book": "1-kings", "lang": "tw", "chapter": 11, "translation": "Eloohim sɔɔ ɔtamfoɔ ma no — ⟨את⟩ Rezon, Eliada ba, a ɔdwanee firi ⟨את⟩ ne wura Hadadezer, ɔhene a ɔwɔ Sobah hɔ no nkyɛn.", "tokens": [{"surface": "ויקם", "gloss": "sɔɔ ma"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "לו", "gloss": "ma no"}, {"surface": "שטן", "gloss": "ɔtamfoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Rezon"}, {"surface": "רזון", "gloss": "Rezon"}, {"surface": "בן", "gloss": "ba"}, {"surface": "אלידע", "gloss": "Eliada"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ברח", "gloss": "ɔdwanee"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "הדדעזר", "gloss": "Hadadezer"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "צובה", "gloss": "Sobah"}, {"surface": "אדניו", "gloss": "ne wura"}], "timestamp": "2026-09-15T23:17:58.779264663Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Eloohim sɔɔ ɔtamfoɔ ma no — ⟨את⟩ Rezon, Eliada ba, a ɔdwanee firi ⟨את⟩ ne wura Hadadezer, ɔhene a ɔwɔ Sobah hɔ no nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔɔ ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ɔtamfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ɔdwanee"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Sobah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ne wura"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:58.779264663Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,55 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "joshua 24:10", "book": "joshua", "lang": "tw", "chapter": 24, "translation": "Na minnie sɛ metie Bileam; na ɔhyiraa ⟨את⟩ mo mpenua, na ⟨את⟩ magye mo firi ne nsa mu.", "tokens": [{"surface": "ולא", "gloss": "na minnie"}, {"surface": "אביתי", "gloss": "ampɛ"}, {"surface": "לשמע", "gloss": "sɛ metie"}, {"surface": "לבלעם", "gloss": "Bileam"}, {"surface": "ויברך", "gloss": "ɔhyiraa"}, {"surface": "ברוך", "gloss": "mpenua"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "ואצל", "gloss": "magye"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "מידו", "gloss": "firi ne nsa mu"}], "timestamp": "2026-09-15T22:32:49.634240319Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na minnie sɛ metie Bileam; na ɔhyiraa ⟨את⟩ mo mpenua, na ⟨את⟩ magye mo firi ne nsa mu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na minnie"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ampɛ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sɛ metie"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ɔhyiraa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "mpenua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "magye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "firi ne nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:49.634240319Z",
+  "model": "glm-5.3"
+}

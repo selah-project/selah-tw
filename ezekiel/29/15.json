@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":15,"ref":"ezekiel 29:15","book":"ezekiel","lang":"tw","chapter":29,"translation":"Ɛbɛyɛ ahennie a ɛso fam sen ahenkyeree no mu biara, na ɛrentena aman no so da biom; na mɛma wɔn so atew, ama wɔrendi aman no so da.","tokens":[{"surface":"מן","gloss":"sen"},{"surface":"הממלכות","gloss":"ahenkyeree no"},{"surface":"תהיה","gloss":"ɛbɛyɛ"},{"surface":"שפלה","gloss":"a ɛso wɔ fam"},{"surface":"ולא","gloss":"na ɛrenn"},{"surface":"תתנשא","gloss":"tena ... so"},{"surface":"עוד","gloss":"da biom"},{"surface":"על","gloss":"so"},{"surface":"הגוים","gloss":"aman no"},{"surface":"והמעטתים","gloss":"na mɛma wɔn so atew"},{"surface":"לבלתי","gloss":"ama wɔrenn"},{"surface":"רדות","gloss":"di ... so"},{"surface":"בגוים","gloss":"aman no so"}],"timestamp":"2026-09-16T00:51:14.922994965Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 29:15",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ɛbɛyɛ ahennie a ɛso fam sen ahenkyeree no mu biara, na ɛrentena aman no so da biom; na mɛma wɔn so atew, ama wɔrendi aman no so da.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "ahenkyeree no"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "a ɛso wɔ fam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛrenn"
+    },
+    {
+      "surface": "תתנשא",
+      "gloss": "tena ... so"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "da biom"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "והמעטתים",
+      "gloss": "na mɛma wɔn so atew"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ama wɔrenn"
+    },
+    {
+      "surface": "רדות",
+      "gloss": "di ... so"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "aman no so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:51:14.922994965Z",
+  "model": "glm-5.3"
+}

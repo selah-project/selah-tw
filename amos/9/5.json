@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":5,"ref":"amos 9:5","book":"amos","lang":"tw","chapter":9,"translation":"Adonai Yawe Tsebaoth, ɔno na ɔka asase, na ɛyera, na wɔn a wɔte mu no nyinaa susuw awerɛhoɔ; na ɛboroso nyinaa sɛ asubɔnten, na ɛso agu sɛ Misraim asubɔnten.","tokens":[{"surface":"ואדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"הצבאות","gloss":"Tsevaot"},{"surface":"הנוגע","gloss":"ɔka"},{"surface":"בארץ","gloss":"asase"},{"surface":"ותמוג","gloss":"na ɛyera"},{"surface":"ואבלו","gloss":"na wɔsusu awerɛhoɔ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"יושבי","gloss":"wɔn a wɔte"},{"surface":"בה","gloss":"mu"},{"surface":"ועלתה","gloss":"na ɛboroso"},{"surface":"כיאר","gloss":"sɛ asubɔnten"},{"surface":"כלה","gloss":"nyinaa"},{"surface":"ושקעה","gloss":"na ɛso agu"},{"surface":"כיאר","gloss":"sɛ asubɔnten"},{"surface":"מצרים","gloss":"Misraim"}],"timestamp":"2026-09-16T01:16:47.240588618Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Adonai Yawe Tsebaoth, ɔno na ɔka asase, na ɛyera, na wɔn a wɔte mu no nyinaa susuw awerɛhoɔ; na ɛboroso nyinaa sɛ asubɔnten, na ɛso agu sɛ Misraim asubɔnten.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "ɔka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "na ɛyera"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "na wɔsusu awerɛhoɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "na ɛboroso"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sɛ asubɔnten"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "na ɛso agu"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sɛ asubɔnten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:16:47.240588618Z",
+  "model": "glm-5.3"
+}

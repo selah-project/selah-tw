@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":41,"ref":"psalms 78:41","book":"psalms","lang":"tw","chapter":78,"translation":"Wɔsan baa wɔn akyi, na wɔsɔɔ El ahwɛ, na wɔyɛɛ Israel Kronkronni no awerɛhoɔ.","tokens":[{"surface":"וישובו","gloss":"Wɔsan baa wɔn akyi"},{"surface":"וינסו","gloss":"na wɔsɔɔ ahwɛ"},{"surface":"אל","gloss":"El"},{"surface":"וקדוש","gloss":"na Kronkronni"},{"surface":"ישראל","gloss":"Israel"},{"surface":"התוו","gloss":"wɔyɛɛ no awerɛhoɔ"}],"timestamp":"2026-09-16T02:08:50.105019477Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 78,
+  "translation": "Wɔsan baa wɔn akyi, na wɔsɔɔ El ahwɛ, na wɔyɛɛ Israel Kronkronni no awerɛhoɔ.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Wɔsan baa wɔn akyi"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "na wɔsɔɔ ahwɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "na Kronkronni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "wɔyɛɛ no awerɛhoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:08:50.105019477Z",
+  "model": "glm-5.3"
+}

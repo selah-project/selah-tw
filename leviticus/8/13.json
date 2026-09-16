@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "leviticus 8:13", "book": "leviticus", "lang": "tw", "chapter": 8, "translation": "Na Mosheh de Aharon ⟨את⟩ mma no baa ⟨את⟩, na ɔhyɛɛ wɔn kütannɛ, na ɔhyɛɛ wɔn aseɛ abɛntoma, na ɔkaa atadeɛ kuruw bee wɔn ti so, sɛnea Yawe hyɛɛ ⟨את⟩ Mosheh no.", "tokens": [{"surface": "ויקרב", "gloss": "de no baa"}, {"surface": "משה", "gloss": "Mosheh"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Aharon mma no"}, {"surface": "בני", "gloss": "mma"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "וילבשם", "gloss": "ɔhyɛɛ wɔn"}, {"surface": "כתנת", "gloss": "kütannɛ"}, {"surface": "ויחגר", "gloss": "ɔhyɛɛ wɔn aseɛ"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "abɛntoma"}, {"surface": "אבנט", "gloss": "abɛntoma"}, {"surface": "ויחבש", "gloss": "ɔkaa"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "מגבעות", "gloss": "atadeɛ kuruw"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Mosheh"}, {"surface": "משה", "gloss": "Mosheh"}], "timestamp": "2026-09-15T21:12:07.605652391Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 8:13",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Mosheh de Aharon ⟨את⟩ mma no baa ⟨את⟩, na ɔhyɛɛ wɔn kütannɛ, na ɔhyɛɛ wɔn aseɛ abɛntoma, na ɔkaa atadeɛ kuruw bee wɔn ti so, sɛnea Yawe hyɛɛ ⟨את⟩ Mosheh no.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "de no baa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon mma no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ɔhyɛɛ wɔn"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kütannɛ"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "ɔhyɛɛ wɔn aseɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abɛntoma"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "abɛntoma"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "atadeɛ kuruw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:07.605652391Z",
+  "model": "glm-5.3"
+}

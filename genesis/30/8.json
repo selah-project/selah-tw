@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 30:8","book":"genesis","lang":"tw","chapter":30,"translation":"Na Rahel kaa sɛ: \"Nsɛmpere a ɛte sɛ Eloohim de na mesoe ne me nuabea, na medii nkonim.\" Ɛno nti ɔtoo ne din Naftali.","tokens":[{"surface":"ותאמר","gloss":"kaa sɛ"},{"surface":"רחל","gloss":"Rahel"},{"surface":"נפתולי","gloss":"nsɛmpere"},{"surface":"אלהים","gloss":"te sɛ Eloohim de"},{"surface":"נפתלתי","gloss":"mesoe"},{"surface":"עם","gloss":"ne"},{"surface":"אחתי","gloss":"me nuabea"},{"surface":"גם","gloss":"na"},{"surface":"יכלתי","gloss":"medii nkonim"},{"surface":"ותקרא","gloss":"too din"},{"surface":"שמו","gloss":"ne din"},{"surface":"נפתלי","gloss":"Naftali"}],"timestamp":"2026-09-15T20:27:48.599678543Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 30:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na Rahel kaa sɛ: \"Nsɛmpere a ɛte sɛ Eloohim de na mesoe ne me nuabea, na medii nkonim.\" Ɛno nti ɔtoo ne din Naftali.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "נפתולי",
+      "gloss": "nsɛmpere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "te sɛ Eloohim de"
+    },
+    {
+      "surface": "נפתלתי",
+      "gloss": "mesoe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "me nuabea"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "medii nkonim"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "too din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:48.599678543Z",
+  "model": "glm-5.3"
+}

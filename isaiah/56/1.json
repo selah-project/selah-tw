@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":1,"ref":"isaiah 56:1","book":"isaiah","lang":"tw","chapter":56,"translation":"Sɛdeɛ Yawe ka no: Bɔ atemmu na moyɛ nokware, ɛfiri sɛ m'ahokyere no bɛn abɛba, na m'nokwaredie bɛda adi.","tokens":[{"surface":"כה","gloss":"sɛdeɛ"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"שמרו","gloss":"bɔ"},{"surface":"משפט","gloss":"atemmu"},{"surface":"ועשו","gloss":"na moyɛ"},{"surface":"צדקה","gloss":"nokware"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"קרובה","gloss":"bɛn"},{"surface":"ישועתי","gloss":"m'ahokyere"},{"surface":"לבוא","gloss":"abɛba"},{"surface":"וצדקתי","gloss":"na m'nokwaredie"},{"surface":"להגלות","gloss":"bɛda adi"}],"timestamp":"2026-09-16T00:01:23.238392814Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 56,
+  "translation": "Sɛdeɛ Yawe ka no: Bɔ atemmu na moyɛ nokware, ɛfiri sɛ m'ahokyere no bɛn abɛba, na m'nokwaredie bɛda adi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na moyɛ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "nokware"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "m'ahokyere"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "abɛba"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "na m'nokwaredie"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "bɛda adi"
+    }
+  ],
+  "timestamp": "2026-09-16T00:01:23.238392814Z",
+  "model": "glm-5.3"
+}

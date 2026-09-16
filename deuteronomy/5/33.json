@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":33,"ref":"deuteronomy 5:33","book":"deuteronomy","lang":"tw","chapter":5,"translation":"Monam wɔ akwan no nyinaa mu a Yawe mo Eloohim hyɛɛ mo ⟨את⟩; na mo bɛtena ase, na biribi bɛtɔ mo so, na mo nna bɛware wɔ asase no mu a mo bɛdii so.","tokens":[{"surface":"בכל","gloss":"wɔ ... nyinaa mu"},{"surface":"הדרך","gloss":"akwan no"},{"surface":"אשר","gloss":"a"},{"surface":"צוה","gloss":"hyɛɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיכם","gloss":"mo Eloohim"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo (nnwuma no tiawa)"},{"surface":"תלכו","gloss":"Monam"},{"surface":"למען","gloss":"na"},{"surface":"תחיון","gloss":"mo bɛtena ase"},{"surface":"וטוב","gloss":"na biribi bɛtɔ mo so"},{"surface":"לכם","gloss":"mo"},{"surface":"והארכתם","gloss":"na mo nna bɛware"},{"surface":"ימים","gloss":"nna"},{"surface":"בארץ","gloss":"wɔ asase no mu"},{"surface":"אשר","gloss":"a"},{"surface":"תירשון","gloss":"mo bɛdii so"}],"timestamp":"2026-09-15T21:46:14.056285656Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 5:33",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Monam wɔ akwan no nyinaa mu a Yawe mo Eloohim hyɛɛ mo ⟨את⟩; na mo bɛtena ase, na biribi bɛtɔ mo so, na mo nna bɛware wɔ asase no mu a mo bɛdii so.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "akwan no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (nnwuma no tiawa)"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "Monam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "mo bɛtena ase"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "na biribi bɛtɔ mo so"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "והארכתם",
+      "gloss": "na mo nna bɛware"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תירשון",
+      "gloss": "mo bɛdii so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:14.056285656Z",
+  "model": "glm-5.3"
+}

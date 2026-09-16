@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":6,"ref":"nehemiah 2:6","book":"nehemiah","lang":"tw","chapter":2,"translation":"Ɔhene no bisaa me — na ɔhemaa no tenaa n'nkyɛn — se: dɛn na w'akwantuo bɛtwa? ɛbɛn bere na wobɛsan aba? Na ɛyɛɛ yie w'ani so ma ɔhene no, na ɔsomaa me, na maa no ahyɛda.","tokens":[{"surface":"ויאמר","gloss":"bisaa"},{"surface":"לי","gloss":"me"},{"surface":"המלך","gloss":"Ɔhene no"},{"surface":"והשגל","gloss":"na ɔhemaa no"},{"surface":"יושבת","gloss":"tenaa"},{"surface":"אצלו","gloss":"n'nkyɛn"},{"surface":"עד","gloss":"—"},{"surface":"מתי","gloss":"dɛn na"},{"surface":"יהיה","gloss":"bɛtwa"},{"surface":"מהלכך","gloss":"w'akwantuo"},{"surface":"ומתי","gloss":"ɛbɛn bere na"},{"surface":"תשוב","gloss":"wobɛsan aba"},{"surface":"וייטב","gloss":"Na ɛyɛɛ yie"},{"surface":"לפני","gloss":"w'ani so ma"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"וישלחני","gloss":"na ɔsomaa me"},{"surface":"ואתנה","gloss":"na maa no"},{"surface":"לו","gloss":"no"},{"surface":"זמן","gloss":"ahyɛda"}],"timestamp":"2026-09-16T04:26:16.464660224Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 2:6",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɔhene no bisaa me — na ɔhemaa no tenaa n'nkyɛn — se: dɛn na w'akwantuo bɛtwa? ɛbɛn bere na wobɛsan aba? Na ɛyɛɛ yie w'ani so ma ɔhene no, na ɔsomaa me, na maa no ahyɛda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bisaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene no"
+    },
+    {
+      "surface": "והשגל",
+      "gloss": "na ɔhemaa no"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "n'nkyɛn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dɛn na"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛtwa"
+    },
+    {
+      "surface": "מהלכך",
+      "gloss": "w'akwantuo"
+    },
+    {
+      "surface": "ומתי",
+      "gloss": "ɛbɛn bere na"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wobɛsan aba"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "Na ɛyɛɛ yie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "w'ani so ma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "וישלחני",
+      "gloss": "na ɔsomaa me"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na maa no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ahyɛda"
+    }
+  ],
+  "timestamp": "2026-09-16T04:26:16.464660224Z",
+  "model": "glm-5.3"
+}

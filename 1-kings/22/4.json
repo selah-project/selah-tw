@@ -1,1 +1,89 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "1-kings 22:4", "book": "1-kings", "lang": "tw", "chapter": 22, "translation": "Na ɔkaa kyerɛɛ Yehoshafat sɛ: Wobɛkɔ ⟨את⟩ me ho akɔ ɔko mu wɔ Ramot-Gilead? Na Yehoshafat kaa kyerɛɛ Yisraɛl hene sɛ: Mɛte sɛ wo, me nkorɔfoɔ te sɛ wo nkorɔfoɔ, me apɔnkyeɛ te sɛ wo apɔnkyeɛ.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "יהושפט", "gloss": "Yehoshafat"}, {"surface": "התלך", "gloss": "Wobɛkɔ"}, {"surface": "אתי", "gloss": "⟨את⟩ me ho"}, {"surface": "למלחמה", "gloss": "ɔko mu"}, {"surface": "רמת", "gloss": "Ramot"}, {"surface": "גלעד", "gloss": "Gilead"}, {"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "יהושפט", "gloss": "Yehoshafat"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "מלך", "gloss": "hene"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "כמוני", "gloss": "Mɛte sɛ"}, {"surface": "כמוך", "gloss": "wo"}, {"surface": "כעמי", "gloss": "me nkorɔfoɔ te sɛ"}, {"surface": "כעמך", "gloss": "wo nkorɔfoɔ"}, {"surface": "כסוסי", "gloss": "me apɔnkyeɛ te sɛ"}, {"surface": "כסוסיך", "gloss": "wo apɔnkyeɛ"}], "timestamp": "2026-09-15T23:25:16.250265846Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ɔkaa kyerɛɛ Yehoshafat sɛ: Wobɛkɔ ⟨את⟩ me ho akɔ ɔko mu wɔ Ramot-Gilead? Na Yehoshafat kaa kyerɛɛ Yisraɛl hene sɛ: Mɛte sɛ wo, me nkorɔfoɔ te sɛ wo nkorɔfoɔ, me apɔnkyeɛ te sɛ wo apɔnkyeɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Wobɛkɔ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me ho"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ɔko mu"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Mɛte sɛ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "me nkorɔfoɔ te sɛ"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "wo nkorɔfoɔ"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "me apɔnkyeɛ te sɛ"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "wo apɔnkyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:25:16.250265846Z",
+  "model": "glm-5.3"
+}

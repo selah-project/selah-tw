@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "jeremiah 11:8", "book": "jeremiah", "lang": "tw", "chapter": 11, "translation": "Nanso wɔantie, na wɔamma wɔn ⟨את⟩ aso; obiara kɔɔ n'akoma denkorɔ bɔne mu. Enti mede ⟨את⟩ apam yi nsɛm nyinaa baa wɔn so, a mehyɛɛ wɔn sɛ wɔnyɛ — nanso wɔanyɛ.", "tokens": [{"surface": "ולא", "gloss": "nanso wɔan-"}, {"surface": "שמעו", "gloss": "tie"}, {"surface": "ולא", "gloss": "na wɔan-"}, {"surface": "הטו", "gloss": "maa wɔn aso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn aso"}, {"surface": "אזנם", "gloss": "aso"}, {"surface": "וילכו", "gloss": "kɔɔ"}, {"surface": "איש", "gloss": "obiara"}, {"surface": "בשרירות", "gloss": "denkorɔ mu"}, {"surface": "לבם", "gloss": "n'akoma"}, {"surface": "הרע", "gloss": "bɔne"}, {"surface": "ואביא", "gloss": "medi … baa"}, {"surface": "עליהם", "gloss": "wɔn so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "apam yi nsɛm nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "דברי", "gloss": "nsɛm"}, {"surface": "הברית", "gloss": "apam"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צויתי", "gloss": "mehyɛɛ wɔn"}, {"surface": "לעשות", "gloss": "sɛ wɔnyɛ"}, {"surface": "ולא", "gloss": "nanso wɔan-"}, {"surface": "עשו", "gloss": "nyɛ"}], "timestamp": "2026-09-16T00:11:52.145595626Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 11:8",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Nanso wɔantie, na wɔamma wɔn ⟨את⟩ aso; obiara kɔɔ n'akoma denkorɔ bɔne mu. Enti mede ⟨את⟩ apam yi nsɛm nyinaa baa wɔn so, a mehyɛɛ wɔn sɛ wɔnyɛ — nanso wɔanyɛ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nanso wɔan-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔan-"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "maa wɔn aso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn aso"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "aso"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "denkorɔ mu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "n'akoma"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "medi … baa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apam yi nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mehyɛɛ wɔn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ wɔnyɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso wɔan-"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:52.145595626Z",
+  "model": "glm-5.3"
+}

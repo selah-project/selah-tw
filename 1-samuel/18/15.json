@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":15,"ref":"1-samuel 18:15","book":"1-samuel","lang":"tw","chapter":18,"translation":"Na Shaul hui sɛ no yɛɛ nyansafoɔ paa, na ɔsuroe no.","tokens":[{"surface":"וירא","gloss":"na ... hui"},{"surface":"שאול","gloss":"Shaul"},{"surface":"אשר","gloss":"sɛ"},{"surface":"הוא","gloss":"no"},{"surface":"משכיל","gloss":"yɛɛ nyansafoɔ"},{"surface":"מאד","gloss":"paa"},{"surface":"ויגר","gloss":"na ɔsuroe"},{"surface":"מפניו","gloss":"no"}],"timestamp":"2026-09-15T22:53:37.924351260Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Shaul hui sɛ no yɛɛ nyansafoɔ paa, na ɔsuroe no.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "na ... hui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yɛɛ nyansafoɔ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "na ɔsuroe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:37.924351260Z",
+  "model": "glm-5.3"
+}

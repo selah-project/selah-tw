@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":17,"ref":"psalms 147:17","book":"psalms","lang":"tw","chapter":147,"translation":"Ɔtow ne mpaemuIce gu sɛ nkuruma nketewa; wɔ ne nwini anim, hena na ɔbɛgyina? — Ɔtow karɛ no gu mu sɛ kɔkɔɔ nketewa; wɔ ne kokɔ-dwom anim, hena na ɔbɛtumi agyina?","tokens":[{"surface":"משליך","gloss":"Ɔtow gu"},{"surface":"קרחו","gloss":"ne mpaemuIce no"},{"surface":"כפתים","gloss":"sɛ kɔkɔɔ nketewa"},{"surface":"לפני","gloss":"wɔ anim"},{"surface":"קרתו","gloss":"ne kokɔo"},{"surface":"מי","gloss":"hena"},{"surface":"יעמד","gloss":"bɛgyina"}],"timestamp":"2026-09-16T02:39:13.952607738Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 147,
+  "translation": "Ɔtow ne mpaemuIce gu sɛ nkuruma nketewa; wɔ ne nwini anim, hena na ɔbɛgyina? — Ɔtow karɛ no gu mu sɛ kɔkɔɔ nketewa; wɔ ne kokɔ-dwom anim, hena na ɔbɛtumi agyina?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Ɔtow gu"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ne mpaemuIce no"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "sɛ kɔkɔɔ nketewa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ anim"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "ne kokɔo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hena"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bɛgyina"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:13.952607738Z",
+  "model": "glm-5.3"
+}

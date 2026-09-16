@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "deuteronomy 6:2", "book": "deuteronomy", "lang": "tw", "chapter": 6, "translation": "Sɛnea wode bɛsuro ⟨את⟩ Yawe, wo Eloohim, na woabɔ ⟨את⟩ n'ahyɛdeɛ nyinaa ne ne mmara no ho ban, a me hyɛ wo — wo, wo ba, ne wo ba ba — wo nkwa nna nyinaa; na sɛnea w'annya ntɛmso bio.", "tokens": [{"surface": "למען", "gloss": "Sɛnea"}, {"surface": "תירא", "gloss": "wode bɛsuro"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיך", "gloss": "wo Eloohim"}, {"surface": "לשמר", "gloss": "na woabɔ ... ho ban"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'ahyɛdeɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "חקתיו", "gloss": "n'ahyɛdeɛ"}, {"surface": "ומצותיו", "gloss": "ne mmara no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "מצוך", "gloss": "hyɛ wo"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "ובנך", "gloss": "wo ba"}, {"surface": "ובן", "gloss": "ne ba"}, {"surface": "בנך", "gloss": "wo ba ba"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ימי", "gloss": "nna"}, {"surface": "חייך", "gloss": "wo nkwa"}, {"surface": "ולמען", "gloss": "na sɛnea"}, {"surface": "יארכן", "gloss": "w'annya ntɛmso bio"}, {"surface": "ימיך", "gloss": "w'anni"}], "timestamp": "2026-09-15T21:47:47.701155662Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Sɛnea wode bɛsuro ⟨את⟩ Yawe, wo Eloohim, na woabɔ ⟨את⟩ n'ahyɛdeɛ nyinaa ne ne mmara no ho ban, a me hyɛ wo — wo, wo ba, ne wo ba ba — wo nkwa nna nyinaa; na sɛnea w'annya ntɛmso bio.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Sɛnea"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wode bɛsuro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "na woabɔ ... ho ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ahyɛdeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "n'ahyɛdeɛ"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ne mmara no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "hyɛ wo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wo ba ba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "wo nkwa"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na sɛnea"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "w'annya ntɛmso bio"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "w'anni"
+    }
+  ],
+  "timestamp": "2026-09-15T21:47:47.701155662Z",
+  "model": "glm-5.3"
+}

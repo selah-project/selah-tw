@@ -1,1 +1,121 @@
-{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 7:1","book":"deuteronomy","lang":"tw","chapter":7,"translation":"Sɛ Yawe wo Eloohim de wo ba asase a worekɔ hɔ sɛ wobɛsɔ no mu a, ɔbɛtu aman pii afiri wo anim — Hiti, ne Girgashi, ne Amori, ne Kenaani, ne Perizi, ne Hivi, ne Yebusi; aman nson a dɔɔso na emu yɛ den sen wo.","tokens":[{"surface":"כי","gloss":"Sɛ"},{"surface":"יביאך","gloss":"wobɛde wo ba"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"אל","gloss":"ba"},{"surface":"הארץ","gloss":"asase"},{"surface":"אשר","gloss":"a"},{"surface":"אתה","gloss":"wo"},{"surface":"בא","gloss":"worekɔ"},{"surface":"שמה","gloss":"hɔ"},{"surface":"לרשתה","gloss":"sɛ wobɛsɔ no"},{"surface":"ונשל","gloss":"ɔbɛtu"},{"surface":"גוים","gloss":"aman"},{"surface":"רבים","gloss":"pii"},{"surface":"מפניך","gloss":"afiri wo anim"},{"surface":"החתי","gloss":"Hiti"},{"surface":"והגרגשי","gloss":"ne Girgashi"},{"surface":"והאמרי","gloss":"ne Amori"},{"surface":"והכנעני","gloss":"ne Kenaani"},{"surface":"והפרזי","gloss":"ne Perizi"},{"surface":"והחוי","gloss":"ne Hivi"},{"surface":"והיבוסי","gloss":"ne Yebusi"},{"surface":"שבעה","gloss":"nson"},{"surface":"גוים","gloss":"aman"},{"surface":"רבים","gloss":"a dɔɔso"},{"surface":"ועצומים","gloss":"na emu yɛ den"},{"surface":"ממך","gloss":"sen wo"}],"timestamp":"2026-09-15T21:48:21.834826268Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 7:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Sɛ Yawe wo Eloohim de wo ba asase a worekɔ hɔ sɛ wobɛsɔ no mu a, ɔbɛtu aman pii afiri wo anim — Hiti, ne Girgashi, ne Amori, ne Kenaani, ne Perizi, ne Hivi, ne Yebusi; aman nson a dɔɔso na emu yɛ den sen wo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "wobɛde wo ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "worekɔ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "sɛ wobɛsɔ no"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "ɔbɛtu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "afiri wo anim"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "והגרגשי",
+      "gloss": "ne Girgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ne Amori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ne Kenaani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ne Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ne Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ne Yebusi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nson"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a dɔɔso"
+    },
+    {
+      "surface": "ועצומים",
+      "gloss": "na emu yɛ den"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sen wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:21.834826268Z",
+  "model": "glm-5.3"
+}

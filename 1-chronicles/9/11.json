@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":11,"ref":"1-chronicles 9:11","book":"1-chronicles","lang":"tw","chapter":9,"translation":"na Azarya, Helkia ba, Meshulam ba, Tsadok ba, Merayot ba, Akitub ba, ɔyɛ ɔhotefoɔ wɔ Eloohim fie.","tokens":[{"surface":"ועזריה","gloss":"na Azarya"},{"surface":"בן","gloss":"ba"},{"surface":"חלקיה","gloss":"Helkia"},{"surface":"בן","gloss":"ba"},{"surface":"משלם","gloss":"Meshulam"},{"surface":"בן","gloss":"ba"},{"surface":"צדוק","gloss":"Tsadok"},{"surface":"בן","gloss":"ba"},{"surface":"מריות","gloss":"Merayot"},{"surface":"בן","gloss":"ba"},{"surface":"אחיטוב","gloss":"Akitub"},{"surface":"נגיד","gloss":"ɔhotefoɔ"},{"surface":"בית","gloss":"wɔ ... fie"},{"surface":"האלהים","gloss":"Eloohim"}],"timestamp":"2026-09-16T04:38:51.161989699Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 9:11",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "na Azarya, Helkia ba, Meshulam ba, Tsadok ba, Merayot ba, Akitub ba, ɔyɛ ɔhotefoɔ wɔ Eloohim fie.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Helkia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshulam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitub"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ɔhotefoɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wɔ ... fie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:51.161989699Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":19,"ref":"psalms 69:19","book":"psalms","lang":"tw","chapter":69,"translation":"Bɛn me kra ho, gyae no; esiane m'atamfoɔ nti, fa me sie.","tokens":[{"surface":"קרבה","gloss":"Bɛn"},{"surface":"אל","gloss":"ho (kɔ)"},{"surface":"נפשי","gloss":"me kra"},{"surface":"גאלה","gloss":"gyae no"},{"surface":"למען","gloss":"esiane ... nti"},{"surface":"איבי","gloss":"m'atamfoɔ"},{"surface":"פדני","gloss":"fa me sie"}],"timestamp":"2026-09-16T06:57:01.318661868Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Bɛn me kra ho, gyae no; esiane m'atamfoɔ nti, fa me sie.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Bɛn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho (kɔ)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "gyae no"
+    },
+    {
+      "surface": "למען",
+      "gloss": "esiane ... nti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "m'atamfoɔ"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "fa me sie"
+    }
+  ],
+  "timestamp": "2026-09-16T06:57:01.318661868Z",
+  "model": "glm-5.3"
+}

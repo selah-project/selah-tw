@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 1:10","book":"isaiah","lang":"tw","chapter":1,"translation":"Tie Yawe asɛm, Sodom mpanimfoɔ; ma mo aso nhunu yɛn Eloohim mmara, Gomorra nkurɔfoɔ.","tokens":[{"surface":"שמעו","gloss":"Tie"},{"surface":"דבר","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"קציני","gloss":"mpanimfoɔ"},{"surface":"סדם","gloss":"Sodom"},{"surface":"האזינו","gloss":"ma mo aso nhunu"},{"surface":"תורת","gloss":"mmara"},{"surface":"אלהינו","gloss":"yɛn Eloohim"},{"surface":"עם","gloss":"nkurɔfoɔ"},{"surface":"עמרה","gloss":"Gomorra"}],"timestamp":"2026-09-15T23:39:02.936188670Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Tie Yawe asɛm, Sodom mpanimfoɔ; ma mo aso nhunu yɛn Eloohim mmara, Gomorra nkurɔfoɔ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ma mo aso nhunu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkurɔfoɔ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorra"
+    }
+  ],
+  "timestamp": "2026-09-15T23:39:02.936188670Z",
+  "model": "glm-5.3"
+}

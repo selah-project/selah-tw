@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "exodus 28:14", "book": "exodus", "lang": "tw", "chapter": 28, "translation": "Na nnwangowa mmienu a ɛyɛ sika kɔkɔɔ-tew, wɔ ano-hyeɛ so; sɛ nkyɛn-nkɔnkɔn ⟨את⟩ adwuma wobɛyɛ ⟨אתם⟩, na wode nnwangowa nkyɛn-nkɔnkɔn no bɛto ⟨את⟩ mmebuwa-nnhyɛmu no so.", "tokens": [{"surface": "ושתי", "gloss": "na mmienu"}, {"surface": "שרשרת", "gloss": "nnwangowa"}, {"surface": "זהב", "gloss": "sika kɔkɔɔ"}, {"surface": "טהור", "gloss": "tew"}, {"surface": "מגבלת", "gloss": "ano-hyeɛ so"}, {"surface": "תעשה", "gloss": "wobɛyɛ"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔ (nnwangowa no)"}, {"surface": "מעשה", "gloss": "adwuma"}, {"surface": "עבת", "gloss": "nkyɛn-nkɔnkɔn"}, {"surface": "ונתתה", "gloss": "na wode bɛto"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnwangowa nkyɛn-nkɔnkɔn no"}, {"surface": "שרשרת", "gloss": "nnwangowa"}, {"surface": "העבתת", "gloss": "nkyɛn-nkɔnkɔn no"}, {"surface": "על", "gloss": "so"}, {"surface": "המשבצת", "gloss": "mmebuwa-nnhyɛmu no"}], "timestamp": "2026-09-15T20:59:28.153354227Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na nnwangowa mmienu a ɛyɛ sika kɔkɔɔ-tew, wɔ ano-hyeɛ so; sɛ nkyɛn-nkɔnkɔn ⟨את⟩ adwuma wobɛyɛ ⟨אתם⟩, na wode nnwangowa nkyɛn-nkɔnkɔn no bɛto ⟨את⟩ mmebuwa-nnhyɛmu no so.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na mmienu"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "nnwangowa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tew"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "ano-hyeɛ so"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔ (nnwangowa no)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "nkyɛn-nkɔnkɔn"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na wode bɛto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnwangowa nkyɛn-nkɔnkɔn no"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "nnwangowa"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "nkyɛn-nkɔnkɔn no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "mmebuwa-nnhyɛmu no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:28.153354227Z",
+  "model": "glm-5.3"
+}

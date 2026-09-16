@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "song-of-songs 8:4", "book": "song-of-songs", "lang": "tw", "chapter": 8, "translation": "Mabɔ mo afɔdu, Yerusalem ⟨את⟩ mma: munnyaw ⟨את⟩ ɔdɔ no, na munnhyɛ no so nso — kɔsɛ ɔpɛ.", "tokens": [{"surface": "השבעתי", "gloss": "Mabɔ mo afɔdu"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "Yerusalem mma"}, {"surface": "בנות", "gloss": "mma"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "מה", "gloss": "—"}, {"surface": "תעירו", "gloss": "munnyaw"}, {"surface": "ומה", "gloss": "nso"}, {"surface": "תעררו", "gloss": "munnhyɛ no so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔdɔ no"}, {"surface": "האהבה", "gloss": "ɔdɔ no"}, {"surface": "עד", "gloss": "kɔsɛ"}, {"surface": "שתחפץ", "gloss": "ɔpɛ"}], "timestamp": "2026-09-16T03:43:48.283577922Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mabɔ mo afɔdu, Yerusalem ⟨את⟩ mma: munnyaw ⟨את⟩ ɔdɔ no, na munnhyɛ no so nso — kɔsɛ ɔpɛ.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Mabɔ mo afɔdu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem mma"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "—"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "munnyaw"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nso"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "munnhyɛ no so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔdɔ no"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ɔdɔ no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsɛ"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ɔpɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:43:48.283577922Z",
+  "model": "glm-5.3"
+}

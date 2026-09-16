@@ -1,1 +1,51 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "exodus 30:30", "book": "exodus", "lang": "tw", "chapter": 30, "translation": "Na wo bra ⟨את⟩ Aharon ⟨את⟩ ne ⟨את⟩ ne mma ma wɔn ho ngu ngo mu, na wo de wɔn ho akɔso ayɛ wɔn sɛ m′asɔfoɔ.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mma"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "תמשח", "gloss": "ma wɔn ho ngu ngo mu"}, {"surface": "וקדשת", "gloss": "na wo de wɔn ho akɔso ayɛ wɔn"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "לכהן", "gloss": "sɛ m′asɔfoɔ"}, {"surface": "לי", "gloss": "me"}], "timestamp": "2026-09-15T21:00:51.079527792Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wo bra ⟨את⟩ Aharon ⟨את⟩ ne ⟨את⟩ ne mma ma wɔn ho ngu ngo mu, na wo de wɔn ho akɔso ayɛ wɔn sɛ m′asɔfoɔ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ma wɔn ho ngu ngo mu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na wo de wɔn ho akɔso ayɛ wɔn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sɛ m′asɔfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:51.079527792Z",
+  "model": "glm-5.3"
+}

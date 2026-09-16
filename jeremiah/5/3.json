@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "jeremiah 5:3", "book": "jeremiah", "lang": "tw", "chapter": 5, "translation": "Yawe, wo ani nnyɛ nokorɛ so anaa? Woboa wɔn, ⟨את⟩ na wɔannya awerɛhoɔ; wowedii wɔn awie, na wɔampene sɛ wɔbɛgya adwenkyerɛ; wɔde wɔn anim ayɛ den sen abɔbo, na wɔampene sɛ wɔbɛsan aba.", "tokens": [{"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עיניך", "gloss": "wo ani"}, {"surface": "הלוא", "gloss": "ɛnyɛ ... so anaa"}, {"surface": "לאמונה", "gloss": "nokorɛ"}, {"surface": "הכיתה", "gloss": "woboa"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "ולא", "gloss": "na wɔannya"}, {"surface": "חלו", "gloss": "werɛhoɔ"}, {"surface": "כליתם", "gloss": "wowedii wɔn awie"}, {"surface": "מאנו", "gloss": "wɔampene"}, {"surface": "קחת", "gloss": "sɛ wɔbɛgya"}, {"surface": "מוסר", "gloss": "adwenkyerɛ"}, {"surface": "חזקו", "gloss": "wɔayɛ den"}, {"surface": "פניהם", "gloss": "wɔn anim"}, {"surface": "מסלע", "gloss": "sen abɔbo"}, {"surface": "מאנו", "gloss": "wɔampene"}, {"surface": "לשוב", "gloss": "sɛ wɔbɛsan aba"}], "timestamp": "2026-09-16T05:28:03.921514649Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Yawe, wo ani nnyɛ nokorɛ so anaa? Woboa wɔn, ⟨את⟩ na wɔannya awerɛhoɔ; wowedii wɔn awie, na wɔampene sɛ wɔbɛgya adwenkyerɛ; wɔde wɔn anim ayɛ den sen abɔbo, na wɔampene sɛ wɔbɛsan aba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "wo ani"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ɛnyɛ ... so anaa"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "woboa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔannya"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "werɛhoɔ"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "wowedii wɔn awie"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "wɔampene"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "sɛ wɔbɛgya"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "adwenkyerɛ"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "wɔayɛ den"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "sen abɔbo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "wɔampene"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "sɛ wɔbɛsan aba"
+    }
+  ],
+  "timestamp": "2026-09-16T05:28:03.921514649Z",
+  "model": "glm-5.3"
+}

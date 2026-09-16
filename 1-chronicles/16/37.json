@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":37,"ref":"1-chronicles 16:37","book":"1-chronicles","lang":"tw","chapter":16,"translation":"Na ɔgyaaw hɔ, wɔ Yawe apam adaka anim, Asafo ne ne nuanom, sɛ wɔsom adaka no anim daa, da ne ne da mu dwuma sɛnea ɛte.","tokens":[{"surface":"ויעזב","gloss":"Na ɔgyaaw"},{"surface":"שם","gloss":"hɔ"},{"surface":"לפני","gloss":"anim"},{"surface":"ארון","gloss":"adaka"},{"surface":"ברית","gloss":"apam"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לאסף","gloss":"ma Asafo"},{"surface":"ולאחיו","gloss":"ne ne nuanom"},{"surface":"לשרת","gloss":"sɛ wɔsom"},{"surface":"לפני","gloss":"anim"},{"surface":"הארון","gloss":"adaka no"},{"surface":"תמיד","gloss":"daa"},{"surface":"לדבר","gloss":"dwuma ho"},{"surface":"יום","gloss":"da"},{"surface":"ביומו","gloss":"ne da mu"}],"timestamp":"2026-09-16T04:43:45.856784862Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 16:37",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔgyaaw hɔ, wɔ Yawe apam adaka anim, Asafo ne ne nuanom, sɛ wɔsom adaka no anim daa, da ne ne da mu dwuma sɛnea ɛte.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Na ɔgyaaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ma Asafo"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ne ne nuanom"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "sɛ wɔsom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "adaka no"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dwuma ho"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ne da mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:43:45.856784862Z",
+  "model": "glm-5.3"
+}

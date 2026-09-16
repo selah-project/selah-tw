@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":17,"ref":"esther 9:17","book":"esther","lang":"tw","chapter":9,"translation":"Wɔ da a ɛtɔ so dunsia wɔ bosome Adar mu no, na wɔhomee wɔ nnanson so, na wɔyɛɛ ⟨את⟩ no da a ɛyɛ apontoɔ ne anigyeɛ.","tokens":[{"surface":"ביום","gloss":"wɔ da ... mu"},{"surface":"שלשה","gloss":"du"},{"surface":"עשר","gloss":"nsia"},{"surface":"לחדש","gloss":"wɔ bosome no mu"},{"surface":"אדר","gloss":"Adar"},{"surface":"ונוח","gloss":"na wɔhomee"},{"surface":"בארבעה","gloss":"wɔ nnan"},{"surface":"עשר","gloss":"nson"},{"surface":"בו","gloss":"so"},{"surface":"ועשה","gloss":"na wɔyɛɛ"},{"surface":"אתו","gloss":"⟨את⟩","marks":"da"},{"surface":"יום","gloss":"da"},{"surface":"משתה","gloss":"apontoɔ"},{"surface":"ושמחה","gloss":"ne anigyeɛ"}],"timestamp":"2026-09-16T04:03:50.857891427Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wɔ da a ɛtɔ so dunsia wɔ bosome Adar mu no, na wɔhomee wɔ nnanson so, na wɔyɛɛ ⟨את⟩ no da a ɛyɛ apontoɔ ne anigyeɛ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da ... mu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wɔ bosome no mu"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "na wɔhomee"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "wɔ nnan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nson"
+    },
+    {
+      "surface": "בו",
+      "gloss": "so"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "apontoɔ"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ne anigyeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:03:50.857891427Z",
+  "model": "glm-5.3"
+}

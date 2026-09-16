@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":14,"ref":"exodus 9:14","book":"exodus","lang":"tw","chapter":9,"translation":"Ɛfiri sɛ mprenu yi mebɛsoma ⟨את⟩ me nkaeɛ nyinaa akɔ w'akoma so, ne w'asomfoɔ so, ne w'nkurɔfoɔ so — sɛdeɛ wobɛhu sɛ obiara te sɛ me nni asase nyinaa so.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"בפעם","gloss":"mprenu"},{"surface":"הזאת","gloss":"yi"},{"surface":"אני","gloss":"me"},{"surface":"שלח","gloss":"bɛsoma"},{"surface":"את","gloss":"⟨את⟩","marks":"me nkaeɛ nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"מגפתי","gloss":"me nkaeɛ"},{"surface":"אל","gloss":"akɔ"},{"surface":"לבך","gloss":"w'akoma so"},{"surface":"ובעבדיך","gloss":"ne w'asomfoɔ so"},{"surface":"ובעמך","gloss":"ne w'nkurɔfoɔ so"},{"surface":"בעבור","gloss":"sɛdeɛ"},{"surface":"תדע","gloss":"wobɛhu"},{"surface":"כי","gloss":"sɛ"},{"surface":"אין","gloss":"nni hɔ"},{"surface":"כמני","gloss":"obiara te sɛ me"},{"surface":"בכל","gloss":"asase nyinaa"},{"surface":"הארץ","gloss":"so"}],"timestamp":"2026-09-15T20:47:42.064127104Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Ɛfiri sɛ mprenu yi mebɛsoma ⟨את⟩ me nkaeɛ nyinaa akɔ w'akoma so, ne w'asomfoɔ so, ne w'nkurɔfoɔ so — sɛdeɛ wobɛhu sɛ obiara te sɛ me nni asase nyinaa so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "mprenu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bɛsoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkaeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "me nkaeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "w'akoma so"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "ne w'asomfoɔ so"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ne w'nkurɔfoɔ so"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wobɛhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "obiara te sɛ me"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "asase nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:42.064127104Z",
+  "model": "glm-5.3"
+}

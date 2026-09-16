@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":10,"ref":"amos 6:10","book":"amos","lang":"tw","chapter":6,"translation":"Na ne wɔfa bɛsoa no na waye no de nnɔwa afi fie no mu, na ɔbɛka kyerɛ obi a ɔwɔ fie no nkyɛnmu se, “So obi ka wo ho?” Na ɔbɛka se, “Hwee nni hɔ.” Na ɔbɛka se, “Tẽ! ɛfiri sɛ ɛnsɛ sɛ yɛka Yawe din no.”","tokens":[{"surface":"ונשאו","gloss":"bɛsoa no"},{"surface":"דודו","gloss":"ne wɔfa"},{"surface":"ומסרפו","gloss":"na waye no"},{"surface":"להוציא","gloss":"de ... afi"},{"surface":"עצמים","gloss":"nnɔwa"},{"surface":"מן","gloss":"afi"},{"surface":"הבית","gloss":"fie no mu"},{"surface":"ואמר","gloss":"na ɔbɛka"},{"surface":"לאשר","gloss":"kyerɛ obi a ɔwɔ"},{"surface":"בירכתי","gloss":"nkyɛnmu"},{"surface":"הבית","gloss":"fie no"},{"surface":"העוד","gloss":"So obi ka"},{"surface":"עמך","gloss":"wo ho"},{"surface":"ואמר","gloss":"na ɔbɛka"},{"surface":"אפס","gloss":"Hwee nni hɔ"},{"surface":"ואמר","gloss":"na ɔbɛka"},{"surface":"הס","gloss":"Tẽ!"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"לא","gloss":"ɛnsɛ ... ɛnni"},{"surface":"להזכיר","gloss":"yɛka"},{"surface":"בשם","gloss":"din"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T01:12:38.176294414Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 6:10",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ne wɔfa bɛsoa no na waye no de nnɔwa afi fie no mu, na ɔbɛka kyerɛ obi a ɔwɔ fie no nkyɛnmu se, “So obi ka wo ho?” Na ɔbɛka se, “Hwee nni hɔ.” Na ɔbɛka se, “Tẽ! ɛfiri sɛ ɛnsɛ sɛ yɛka Yawe din no.”",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "bɛsoa no"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "ne wɔfa"
+    },
+    {
+      "surface": "ומסרפו",
+      "gloss": "na waye no"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "de ... afi"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "nnɔwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "afi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no mu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ɔbɛka"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kyerɛ obi a ɔwɔ"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "nkyɛnmu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "So obi ka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ɔbɛka"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "Hwee nni hɔ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ɔbɛka"
+    },
+    {
+      "surface": "הס",
+      "gloss": "Tẽ!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnsɛ ... ɛnni"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "yɛka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:12:38.176294414Z",
+  "model": "glm-5.3"
+}

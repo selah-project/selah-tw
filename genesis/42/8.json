@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 42:8","book":"genesis","lang":"tw","chapter":42,"translation":"Yosef hunuu ⟨את⟩ ne nuanom, na wɔn nso anhunu no.","tokens":[{"surface":"ויכר","gloss":"hunuu"},{"surface":"יוסף","gloss":"Yosef"},{"surface":"את","gloss":"⟨את⟩","marks":"ne nuanom"},{"surface":"אחיו","gloss":"ne nuanom"},{"surface":"והם","gloss":"wɔn nso"},{"surface":"לא","gloss":"ann"},{"surface":"הכרהו","gloss":"anhunu no"}],"timestamp":"2026-09-15T20:38:14.086252311Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Yosef hunuu ⟨את⟩ ne nuanom, na wɔn nso anhunu no.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nuanom"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanom"
+    },
+    {
+      "surface": "והם",
+      "gloss": "wɔn nso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "anhunu no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:14.086252311Z",
+  "model": "glm-5.3"
+}

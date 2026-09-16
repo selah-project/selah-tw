@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":4,"ref":"leviticus 20:4","book":"leviticus","lang":"tw","chapter":20,"translation":"Sɛ asase no man no soma ⟨את⟩ wɔn ani fri ɔbarima no ho wɔ berɛ a ɔde ne mma ma Molech, na wɔankum ⟨את⟩ no a,","tokens":[{"surface":"ואם","gloss":"Sɛ"},{"surface":"העלם","gloss":"soma"},{"surface":"יעלימו","gloss":"soma wɔn ani"},{"surface":"עם","gloss":"man"},{"surface":"הארץ","gloss":"asase no"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn ani"},{"surface":"עיניהם","gloss":"wɔn ani"},{"surface":"מן","gloss":"firi"},{"surface":"האיש","gloss":"ɔbarima no"},{"surface":"ההוא","gloss":"no"},{"surface":"בתתו","gloss":"wɔ berɛ a ɔde ... ma"},{"surface":"מזרעו","gloss":"ne mma"},{"surface":"למלך","gloss":"Molech"},{"surface":"לבלתי","gloss":"na wɔankum"},{"surface":"המית","gloss":"kum"},{"surface":"אתו","gloss":"⟨את⟩","marks":"no"}],"timestamp":"2026-09-15T21:20:25.922337999Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Sɛ asase no man no soma ⟨את⟩ wɔn ani fri ɔbarima no ho wɔ berɛ a ɔde ne mma ma Molech, na wɔankum ⟨את⟩ no a,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "soma"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "soma wɔn ani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ani"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wɔn ani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "wɔ berɛ a ɔde ... ma"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molech"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na wɔankum"
+    },
+    {
+      "surface": "המית",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:25.922337999Z",
+  "model": "glm-5.3"
+}

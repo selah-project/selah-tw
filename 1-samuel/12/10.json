@@ -1,1 +1,92 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "1-samuel 12:10", "book": "1-samuel", "lang": "tw", "chapter": 12, "translation": "Wɔfrɛɛ ⟨את⟩ Yawe, wɔkaa sɛ: Yɛbɔne efisɛ yɛagyaw Yawe, na yɛasom ⟨את⟩ Baalfoɔ ne ⟨את⟩ Ashtorethfoɔ; na seesei gyae yɛn fi yɛn atamfoɔ nsa mu, na yɛbɛsompɔ.", "tokens": [{"surface": "ויזעקו", "gloss": "wɔfrɛɛ"}, {"surface": "אל", "gloss": "kɔkɔɔ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ויאמר", "gloss": "wɔkaa sɛ"}, {"surface": "חטאנו", "gloss": "yɛbɔne"}, {"surface": "כי", "gloss": "efisɛ"}, {"surface": "עזבנו", "gloss": "yɛagyaw"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ונעבד", "gloss": "na yɛasom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Baalfoɔ"}, {"surface": "הבעלים", "gloss": "Baalfoɔ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Ashtorethfoɔ"}, {"surface": "העשתרות", "gloss": "Ashtorethfoɔ"}, {"surface": "ועתה", "gloss": "na seesei"}, {"surface": "הצילנו", "gloss": "gyae yɛn"}, {"surface": "מיד", "gloss": "fi ... nsa mu"}, {"surface": "איבינו", "gloss": "yɛn atamfoɔ"}, {"surface": "ונעבדך", "gloss": "na yɛbɛsompɔ"}], "timestamp": "2026-09-15T22:51:51.127554077Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Wɔfrɛɛ ⟨את⟩ Yawe, wɔkaa sɛ: Yɛbɔne efisɛ yɛagyaw Yawe, na yɛasom ⟨את⟩ Baalfoɔ ne ⟨את⟩ Ashtorethfoɔ; na seesei gyae yɛn fi yɛn atamfoɔ nsa mu, na yɛbɛsompɔ.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "wɔfrɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔkɔɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wɔkaa sɛ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "yɛbɔne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "yɛagyaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "na yɛasom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalfoɔ"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtorethfoɔ"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtorethfoɔ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "gyae yɛn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fi ... nsa mu"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "yɛn atamfoɔ"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "na yɛbɛsompɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:51.127554077Z",
+  "model": "glm-5.3"
+}

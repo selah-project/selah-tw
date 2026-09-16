@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":7,"ref":"hosea 11:7","book":"hosea","lang":"tw","chapter":11,"translation":"Na m'man atɛmm ama m'asan bra; ɛwom sɛ wɔfrɛ wɔn kɔ Elyon ⟨Ɔkorɔnfoɔ no⟩ nkyɛn de, wɔn nyinaa mmɔ tirim.","tokens":[{"surface":"ועמי","gloss":"na m'man"},{"surface":"תלואים","gloss":"atɛmm (agyina mu)"},{"surface":"למשובתי","gloss":"ama m'asan bra"},{"surface":"ואל","gloss":"kɔ"},{"surface":"על","gloss":"Elyon ⟨Ɔkorɔnfoɔ no⟩"},{"surface":"יקראהו","gloss":"wɔfrɛ no"},{"surface":"יחד","gloss":"wɔn nyinaa"},{"surface":"לא","gloss":"mmɔ"},{"surface":"ירומם","gloss":"tirim"}],"timestamp":"2026-09-16T01:06:18.542270595Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na m'man atɛmm ama m'asan bra; ɛwom sɛ wɔfrɛ wɔn kɔ Elyon ⟨Ɔkorɔnfoɔ no⟩ nkyɛn de, wɔn nyinaa mmɔ tirim.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "na m'man"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "atɛmm (agyina mu)"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "ama m'asan bra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "Elyon ⟨Ɔkorɔnfoɔ no⟩"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "wɔfrɛ no"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "tirim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:18.542270595Z",
+  "model": "glm-5.3"
+}

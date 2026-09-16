@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "hosea 1:6", "book": "hosea", "lang": "tw", "chapter": 1, "translation": "Obi foo bio, ɔwoo ɔbea ba, na ɔka kyerɛɛ no sɛ: Frɛ no din Lo-Ruhamah, ɛfiri sɛ merebɛnya mmɔborɔhunu wɔ Yisraɛl ⟨את⟩ fie so bio da; mmom mede wɔn bɛto hɔ kɔ so.", "tokens": [{"surface": "ותהר", "gloss": "obi foo"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "ותלד", "gloss": "ɔwoo"}, {"surface": "בת", "gloss": "ɔbea ba"}, {"surface": "ויאמר", "gloss": "na ɔka kyerɛɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "קרא", "gloss": "frɛ"}, {"surface": "שמה", "gloss": "no din"}, {"surface": "לא", "gloss": "Lo-"}, {"surface": "רחמה", "gloss": "Ruhamah"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "da"}, {"surface": "אוסיף", "gloss": "merekɔ so"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "ארחם", "gloss": "anya mmɔborɔhunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisraɛl fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "כי", "gloss": "mmom"}, {"surface": "נשא", "gloss": "mede bɛto"}, {"surface": "אשא", "gloss": "kɔ so"}, {"surface": "להם", "gloss": "wɔn"}], "timestamp": "2026-09-16T01:03:33.360695065Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 1:6",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Obi foo bio, ɔwoo ɔbea ba, na ɔka kyerɛɛ no sɛ: Frɛ no din Lo-Ruhamah, ɛfiri sɛ merebɛnya mmɔborɔhunu wɔ Yisraɛl ⟨את⟩ fie so bio da; mmom mede wɔn bɛto hɔ kɔ so.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "obi foo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ɔwoo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɔbea ba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔka kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "no din"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "merekɔ so"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "anya mmɔborɔhunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mmom"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mede bɛto"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kɔ so"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T01:03:33.360695065Z",
+  "model": "glm-5.3"
+}

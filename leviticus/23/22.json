@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "leviticus 23:22", "book": "leviticus", "lang": "tw", "chapter": 23, "translation": "Na sɛ moasie mo asase no ⟨את⟩ aba a, monnwera mo afuo no ntamano nyinaa wɔ moasie no mu, na moasie no nkaeɛ nso monnsa; monngyae ama ahiafoɔ ne amanfrafoɔ; me ne Yawe, mo Eloohim.", "tokens": [{"surface": "ובקצרכם", "gloss": "sɛ moasie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo asase no aba"}, {"surface": "קציר", "gloss": "aba"}, {"surface": "ארצכם", "gloss": "mo asase no"}, {"surface": "לא", "gloss": "nn-"}, {"surface": "תכלה", "gloss": "nwera nyinaa"}, {"surface": "פאת", "gloss": "ntamano"}, {"surface": "שדך", "gloss": "wo afuo no"}, {"surface": "בקצרך", "gloss": "wo sie mu"}, {"surface": "ולקט", "gloss": "nkaeɛ"}, {"surface": "קצירך", "gloss": "wo aba no"}, {"surface": "לא", "gloss": "nn-"}, {"surface": "תלקט", "gloss": "nsa"}, {"surface": "לעני", "gloss": "ama ahiafoɔ"}, {"surface": "ולגר", "gloss": "ne amanfrafoɔ"}, {"surface": "תעזב", "gloss": "ngyae ama"}, {"surface": "אתם", "gloss": "⟨אתם⟩", "marks": "ahiafoɔ ne amanfrafoɔ"}, {"surface": "אני", "gloss": "me ne"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}], "timestamp": "2026-09-15T21:21:06.888805750Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na sɛ moasie mo asase no ⟨את⟩ aba a, monnwera mo afuo no ntamano nyinaa wɔ moasie no mu, na moasie no nkaeɛ nso monnsa; monngyae ama ahiafoɔ ne amanfrafoɔ; me ne Yawe, mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "sɛ moasie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo asase no aba"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "mo asase no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "nwera nyinaa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ntamano"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "wo afuo no"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "wo sie mu"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "wo aba no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ama ahiafoɔ"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ne amanfrafoɔ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ngyae ama"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ahiafoɔ ne amanfrafoɔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:06.888805750Z",
+  "model": "glm-5.3"
+}

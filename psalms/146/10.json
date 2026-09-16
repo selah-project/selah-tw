@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"psalms 146:10","book":"psalms","lang":"tw","chapter":146,"translation":"Yawe bɛdi adeɛ daa; wo Eloohim, ɔ Zion, nnesoɔ so deɛ. Momma mo ayi Yah ayɛ.","tokens":[{"surface":"ימלך","gloss":"bɛdi adeɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לעולם","gloss":"daa"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"ציון","gloss":"Zion"},{"surface":"לדר","gloss":"nnesoɔ so"},{"surface":"ודר","gloss":"deɛ"},{"surface":"הללו","gloss":"Momma mo ayi ... ayɛ"},{"surface":"יה","gloss":"Yah"}],"timestamp":"2026-09-16T02:37:26.722027344Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 146,
+  "translation": "Yawe bɛdi adeɛ daa; wo Eloohim, ɔ Zion, nnesoɔ so deɛ. Momma mo ayi Yah ayɛ.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "bɛdi adeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nnesoɔ so"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Momma mo ayi ... ayɛ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-16T02:37:26.722027344Z",
+  "model": "glm-5.3"
+}

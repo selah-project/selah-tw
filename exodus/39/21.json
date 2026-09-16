@@ -1,1 +1,107 @@
-{"tier":"glm-5.2","verse":21,"ref":"exodus 39:21","book":"exodus","lang":"tw","chapter":39,"translation":"Na wɔkae ⟨את⟩ hoshen no mu wɔ ne nkotokuo so de kɔɔ ɛfod no nkotokuo mu wɔ ɛbrɛɛ nkyekye mu, sɛ ɛbɛtena ɛfod no nkɔnsɔ so, na hoshen no nnyera firi ɛfod no so; sɛnea Yawe hyɛɛ ⟨את⟩ Mose.","tokens":[{"surface":"וירכסו","gloss":"Na wɔkae mu"},{"surface":"את","gloss":"⟨את⟩","marks":"hoshen no"},{"surface":"החשן","gloss":"hoshen no"},{"surface":"מטבעתיו","gloss":"ne nkotokuo so"},{"surface":"אל","gloss":"de kɔɔ"},{"surface":"טבעת","gloss":"nkotokuo"},{"surface":"האפד","gloss":"ɛfod no"},{"surface":"בפתיל","gloss":"wɔ nkyekye mu"},{"surface":"תכלת","gloss":"ɛbrɛɛ"},{"surface":"להית","gloss":"sɛ ɛbɛtena"},{"surface":"על","gloss":"so"},{"surface":"חשב","gloss":"nkɔnsɔ"},{"surface":"האפד","gloss":"ɛfod no"},{"surface":"ולא","gloss":"na ... nnyera"},{"surface":"יזח","gloss":"nnyera"},{"surface":"החשן","gloss":"hoshen no"},{"surface":"מעל","gloss":"firi ... so"},{"surface":"האפד","gloss":"ɛfod no"},{"surface":"כאשר","gloss":"sɛnea"},{"surface":"צוה","gloss":"hyɛɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"Mose"},{"surface":"משה","gloss":"Mose"}],"timestamp":"2026-09-15T21:07:24.966326312Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na wɔkae ⟨את⟩ hoshen no mu wɔ ne nkotokuo so de kɔɔ ɛfod no nkotokuo mu wɔ ɛbrɛɛ nkyekye mu, sɛ ɛbɛtena ɛfod no nkɔnsɔ so, na hoshen no nnyera firi ɛfod no so; sɛnea Yawe hyɛɛ ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "Na wɔkae mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshen no"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen no"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "ne nkotokuo so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de kɔɔ"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "nkotokuo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ɛfod no"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "wɔ nkyekye mu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ɛbrɛɛ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "sɛ ɛbɛtena"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nkɔnsɔ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ɛfod no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nnyera"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "nnyera"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen no"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi ... so"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ɛfod no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:24.966326312Z",
+  "model": "glm-5.3"
+}

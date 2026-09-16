@@ -1,1 +1,140 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-chronicles 35:3", "book": "2-chronicles", "lang": "tw", "chapter": 35, "translation": "Na ɔka kyerɛɛ Lewifoɔ a wɔkyerɛkyerɛ Israelfoɔ nyinaa, a wɔyɛ kronkron maa ⟨את⟩ Yawe, se: Momfa ⟨את⟩ Adaka kronkron no nsie wɔ fie a Shelomoh, Dawid ba, Israelfoɔ ɔhene, siiɛ mu; ɛnsɛ sɛ mo bɛn so fa bio; seesei momma nsom Yawe, mo Eloohim, na momsom ⟨את⟩ ne nkurɔfoɔ Israelfoɔ.", "tokens": [{"surface": "ויאמר", "gloss": "Na ɔka kyerɛɛ"}, {"surface": "ללוים", "gloss": "Lewifoɔ"}, {"surface": "המבונים", "gloss": "a wɔkyerɛkyerɛ"}, {"surface": "לכל", "gloss": "nyinaa"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}, {"surface": "הקדושים", "gloss": "a wɔyɛ kronkron"}, {"surface": "ליהוה", "gloss": "maa Yawe"}, {"surface": "תנו", "gloss": "Momfa ... nsie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Adaka kronkron no"}, {"surface": "ארון", "gloss": "Adaka"}, {"surface": "הקדש", "gloss": "kronkron no"}, {"surface": "בבית", "gloss": "wɔ fie"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בנה", "gloss": "siiɛ"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "בן", "gloss": "ba"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}, {"surface": "אין", "gloss": "ɛnsɛ sɛ"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "משא", "gloss": "fa"}, {"surface": "בכתף", "gloss": "bɛn so"}, {"surface": "עתה", "gloss": "seesei"}, {"surface": "עבדו", "gloss": "momma nsom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne nkurɔfoɔ Israelfoɔ"}, {"surface": "עמו", "gloss": "ne nkurɔfoɔ"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}], "timestamp": "2026-09-16T05:11:57.916941999Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 35:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Na ɔka kyerɛɛ Lewifoɔ a wɔkyerɛkyerɛ Israelfoɔ nyinaa, a wɔyɛ kronkron maa ⟨את⟩ Yawe, se: Momfa ⟨את⟩ Adaka kronkron no nsie wɔ fie a Shelomoh, Dawid ba, Israelfoɔ ɔhene, siiɛ mu; ɛnsɛ sɛ mo bɛn so fa bio; seesei momma nsom Yawe, mo Eloohim, na momsom ⟨את⟩ ne nkurɔfoɔ Israelfoɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔka kyerɛɛ"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewifoɔ"
+    },
+    {
+      "surface": "המבונים",
+      "gloss": "a wɔkyerɛkyerɛ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "הקדושים",
+      "gloss": "a wɔyɛ kronkron"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Momfa ... nsie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adaka kronkron no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Adaka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron no"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "siiɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɛnsɛ sɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משא",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "bɛn so"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "seesei"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "momma nsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkurɔfoɔ Israelfoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nkurɔfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:11:57.916941999Z",
+  "model": "glm-5.3"
+}

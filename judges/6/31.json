@@ -1,1 +1,126 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "judges 6:31", "book": "judges", "lang": "tw", "chapter": 6, "translation": "Na Yoash kaa kyerɛɔ wɔn nyinaa a wɔgyinaeɛ tiaa no sɛ, Mo na mepɛ sɛ moba Baal asɛm anaasɛ mogyye no? Obi a ɔbɛba ⟨את⟩ ne ho asɛm no, wɔnkum no ansa na anɔpa adwo; sɛ ɔyɛ El, na ɔmmɔ ne ho asɛm ⟨את⟩ ne afɔreɛ pon a watubu no ho.", "tokens": [{"surface": "ויאמר", "gloss": "Na Yoash kaa kyerɛɔ"}, {"surface": "יואש", "gloss": "Yoash"}, {"surface": "לכל", "gloss": "wɔn nyinaa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עמדו", "gloss": "wɔgyinaeɛ"}, {"surface": "עליו", "gloss": "tiaa no"}, {"surface": "האתם", "gloss": "Mo"}, {"surface": "תריבון", "gloss": "mepɛ sɛ moba … asɛm"}, {"surface": "לבעל", "gloss": "Baal"}, {"surface": "אם", "gloss": "anaasɛ"}, {"surface": "אתם", "gloss": "mo"}, {"surface": "תושיעון", "gloss": "mogyye no"}, {"surface": "אותו", "gloss": "⟨את⟩ ne ho asɛm"}, {"surface": "אשר", "gloss": "Obi a"}, {"surface": "יריב", "gloss": "ɔbɛba … asɛm"}, {"surface": "לו", "gloss": "ne"}, {"surface": "יומת", "gloss": "wɔnkum no"}, {"surface": "עד", "gloss": "ansa na"}, {"surface": "הבקר", "gloss": "anɔpa"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "אלהים", "gloss": "El"}, {"surface": "הוא", "gloss": "ɔyɛ"}, {"surface": "ירב", "gloss": "na ɔmmɔ … asɛm"}, {"surface": "לו", "gloss": "ne ho"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "נתץ", "gloss": "watubu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne afɔreɛ pon"}, {"surface": "מזבחו", "gloss": "ne afɔreɛ pon"}], "timestamp": "2026-09-15T22:38:51.299995741Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 6:31",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yoash kaa kyerɛɔ wɔn nyinaa a wɔgyinaeɛ tiaa no sɛ, Mo na mepɛ sɛ moba Baal asɛm anaasɛ mogyye no? Obi a ɔbɛba ⟨את⟩ ne ho asɛm no, wɔnkum no ansa na anɔpa adwo; sɛ ɔyɛ El, na ɔmmɔ ne ho asɛm ⟨את⟩ ne afɔreɛ pon a watubu no ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yoash kaa kyerɛɔ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "wɔgyinaeɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tiaa no"
+    },
+    {
+      "surface": "האתם",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "mepɛ sɛ moba … asɛm"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anaasɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תושיעון",
+      "gloss": "mogyye no"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ne ho asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Obi a"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ɔbɛba … asɛm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wɔnkum no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "na ɔmmɔ … asɛm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "watubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne afɔreɛ pon"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "ne afɔreɛ pon"
+    }
+  ],
+  "timestamp": "2026-09-15T22:38:51.299995741Z",
+  "model": "glm-5.3"
+}

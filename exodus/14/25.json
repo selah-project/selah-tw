@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":25,"ref":"exodus 14:25","book":"exodus","lang":"tw","chapter":14,"translation":"Na ɔsii ⟨את⟩ ntaabo a ɛwɔ wɔn mmɛre mu, na wɔde brɛnee twaa mu; na Misraim no kaa sɛ: “Momma yɛnnyane yɛn ho mfiri Yisraɛl anim, na Yawe retware afra wɔn ani so wɔ Misraim so.”","tokens":[{"surface":"ויסר","gloss":"Na ɔsii"},{"surface":"את","gloss":"⟨את⟩","marks":"ntaabo"},{"surface":"אפן","gloss":"ntaabo"},{"surface":"מרכבתיו","gloss":"a ɛwɔ wɔn mmɛre mu"},{"surface":"וינהגהו","gloss":"na wɔde brɛnee twaa mu"},{"surface":"בכבדת","gloss":"de brɛnee"},{"surface":"ויאמר","gloss":"na ... kaa sɛ"},{"surface":"מצרים","gloss":"Misraim no"},{"surface":"אנוסה","gloss":"Momma yɛnnyane yɛn ho"},{"surface":"מפני","gloss":"mfiri ... anim"},{"surface":"ישראל","gloss":"Yisraɛl"},{"surface":"כי","gloss":"na"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"נלחם","gloss":"retware afra"},{"surface":"להם","gloss":"wɔn ani so"},{"surface":"במצרים","gloss":"wɔ Misraim so"}],"timestamp":"2026-09-15T20:49:57.853208687Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔsii ⟨את⟩ ntaabo a ɛwɔ wɔn mmɛre mu, na wɔde brɛnee twaa mu; na Misraim no kaa sɛ: “Momma yɛnnyane yɛn ho mfiri Yisraɛl anim, na Yawe retware afra wɔn ani so wɔ Misraim so.”",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Na ɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntaabo"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "ntaabo"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "a ɛwɔ wɔn mmɛre mu"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "na wɔde brɛnee twaa mu"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "de brɛnee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... kaa sɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim no"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Momma yɛnnyane yɛn ho"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mfiri ... anim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "retware afra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn ani so"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:57.853208687Z",
+  "model": "glm-5.3"
+}

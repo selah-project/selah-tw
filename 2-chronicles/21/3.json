@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-chronicles 21:3", "book": "2-chronicles", "lang": "tw", "chapter": 21, "translation": "Wɔn agya maa wɔn awadeɛ ahodoɔ — sika kɔkɔɔ ne dwetɛ ne nneɛma a ɛsom bo, ne Yuda mmardedua nkurow — nanso ⟨את⟩ ɔman no de ma Yehoram, ɛfiri sɛ ɔno ne ɔba a ɔdi kan.", "tokens": [{"surface": "ויתן", "gloss": "maa"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "אביהם", "gloss": "wɔn agya"}, {"surface": "מתנות", "gloss": "awadeɛ"}, {"surface": "רבות", "gloss": "ahodoɔ"}, {"surface": "לכסף", "gloss": "dwetɛ"}, {"surface": "ולזהב", "gloss": "ne sika kɔkɔɔ"}, {"surface": "ולמגדנות", "gloss": "ne nneɛma a ɛsom bo"}, {"surface": "עם", "gloss": "ne"}, {"surface": "ערי", "gloss": "nkurow"}, {"surface": "מצרות", "gloss": "mmardedua"}, {"surface": "ביהודה", "gloss": "Yuda"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ɔman no"}, {"surface": "הממלכה", "gloss": "ɔman no"}, {"surface": "נתן", "gloss": "de ma"}, {"surface": "ליהורם", "gloss": "Yehoram"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "הבכור", "gloss": "ɔba a ɔdi kan"}], "timestamp": "2026-09-16T05:58:12.798096925Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 21:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wɔn agya maa wɔn awadeɛ ahodoɔ — sika kɔkɔɔ ne dwetɛ ne nneɛma a ɛsom bo, ne Yuda mmardedua nkurow — nanso ⟨את⟩ ɔman no de ma Yehoram, ɛfiri sɛ ɔno ne ɔba a ɔdi kan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "awadeɛ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ahodoɔ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "ולזהב",
+      "gloss": "ne sika kɔkɔɔ"
+    },
+    {
+      "surface": "ולמגדנות",
+      "gloss": "ne nneɛma a ɛsom bo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "mmardedua"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de ma"
+    },
+    {
+      "surface": "ליהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ɔba a ɔdi kan"
+    }
+  ],
+  "timestamp": "2026-09-16T05:58:12.798096925Z",
+  "model": "glm-5.3"
+}

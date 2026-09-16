@@ -1,1 +1,100 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "numbers 36:2", "book": "numbers", "lang": "tw", "chapter": 36, "translation": "Na wɔkaa sɛ: ⟨את⟩ Adonai, Yawe hyɛɛ wo sɛ ɔde ⟨את⟩ asase no ma Israɛl mma sɛ agyapadie denam tosor so; na wode Yawe nhyɛ so sɛ ɔde ⟨את⟩ yɛn nua Tselofad agyapadie no ma ne mma.", "tokens": [{"surface": "ויאמרו", "gloss": "na wɔkaa sɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Adonai"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לתת", "gloss": "sɛ ɔde bɛma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "בנחלה", "gloss": "sɛ agyapadie"}, {"surface": "בגורל", "gloss": "denam tosor so"}, {"surface": "לבני", "gloss": "ma"}, {"surface": "ישראל", "gloss": "Israɛl"}, {"surface": "ואדני", "gloss": "na Adonai"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "ביהוה", "gloss": "Yawe ase"}, {"surface": "לתת", "gloss": "sɛ ɔde bɛma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "agyapadie"}, {"surface": "נחלת", "gloss": "agyapadie"}, {"surface": "צלפחד", "gloss": "Tselofad"}, {"surface": "אחינו", "gloss": "yɛn nua"}, {"surface": "לבנתיו", "gloss": "ma ne mma"}], "timestamp": "2026-09-15T21:45:04.842274391Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na wɔkaa sɛ: ⟨את⟩ Adonai, Yawe hyɛɛ wo sɛ ɔde ⟨את⟩ asase no ma Israɛl mma sɛ agyapadie denam tosor so; na wode Yawe nhyɛ so sɛ ɔde ⟨את⟩ yɛn nua Tselofad agyapadie no ma ne mma.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na wɔkaa sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ ɔde bɛma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "sɛ agyapadie"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "denam tosor so"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "na Adonai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe ase"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ ɔde bɛma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agyapadie"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "agyapadie"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofad"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "yɛn nua"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "ma ne mma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:04.842274391Z",
+  "model": "glm-5.3"
+}

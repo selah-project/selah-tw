@@ -1,1 +1,96 @@
-{"tier":"glm-5.2","verse":13,"ref":"leviticus 14:13","book":"leviticus","lang":"tw","chapter":14,"translation":"Na ɔbɛbua ⟨את⟩ oguan no wɔ baabi a wɔbua ⟨את⟩ bɔneafɔdeɛ no ne ⟨את⟩ hyewafɔdeɛ no, wɔ kronkronma mu; ɛfiri sɛ sɛnea bɔneafɔdeɛ no yɛ ɔsɔfoɔ dea, saa ara na asotwefɔdeɛ no yɛ ne dea; ɛyɛ kronkron kronkron asɛm.","tokens":[{"surface":"ושחט","gloss":"ɔbɛbua"},{"surface":"את","gloss":"⟨את⟩","marks":"oguan no"},{"surface":"הכבש","gloss":"oguan no"},{"surface":"במקום","gloss":"wɔ baabi"},{"surface":"אשר","gloss":"a"},{"surface":"ישחט","gloss":"wɔbua"},{"surface":"את","gloss":"⟨את⟩","marks":"bɔneafɔdeɛ no"},{"surface":"החטאת","gloss":"bɔneafɔdeɛ no"},{"surface":"ואת","gloss":"⟨את⟩","marks":"hyewafɔdeɛ no"},{"surface":"העלה","gloss":"hyewafɔdeɛ no"},{"surface":"במקום","gloss":"wɔ baabi"},{"surface":"הקדש","gloss":"kronkronma mu"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"כחטאת","gloss":"sɛnea bɔneafɔdeɛ no"},{"surface":"האשם","gloss":"asotwefɔdeɛ no"},{"surface":"הוא","gloss":"yɛ"},{"surface":"לכהן","gloss":"ɔsɔfoɔ dea"},{"surface":"קדש","gloss":"kronkron"},{"surface":"קדשים","gloss":"kronkron asɛm"},{"surface":"הוא","gloss":"ne"}],"timestamp":"2026-09-16T05:15:03.028813474Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔbɛbua ⟨את⟩ oguan no wɔ baabi a wɔbua ⟨את⟩ bɔneafɔdeɛ no ne ⟨את⟩ hyewafɔdeɛ no, wɔ kronkronma mu; ɛfiri sɛ sɛnea bɔneafɔdeɛ no yɛ ɔsɔfoɔ dea, saa ara na asotwefɔdeɛ no yɛ ne dea; ɛyɛ kronkron kronkron asɛm.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ɔbɛbua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oguan no"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "oguan no"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ baabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "wɔbua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔneafɔdeɛ no"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bɔneafɔdeɛ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hyewafɔdeɛ no"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hyewafɔdeɛ no"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ baabi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkronma mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "sɛnea bɔneafɔdeɛ no"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asotwefɔdeɛ no"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ɔsɔfoɔ dea"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kronkron asɛm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-09-16T05:15:03.028813474Z",
+  "model": "glm-5.3"
+}

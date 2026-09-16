@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":11,"ref":"joshua 19:11","book":"joshua","lang":"tw","chapter":19,"translation":"Na wɔn ahyeɛ no kɔɔ soro kɔɔ atɔeɛ fam kɔ Marala, na ɛkɔhyɛɛ Dabeshet so, na ɛkɔhyɛɛ asubɔnten no a ɛda Yokneam anim no so.","tokens":[{"surface":"ועלה","gloss":"kɔɔ soro"},{"surface":"גבולם","gloss":"wɔn ahyeɛ"},{"surface":"לימה","gloss":"kɔɔ atɔeɛ fam"},{"surface":"ומרעלה","gloss":"kɔ Marala"},{"surface":"ופגע","gloss":"kɔhyɛɛ so"},{"surface":"בדבשת","gloss":"Dabeshet"},{"surface":"ופגע","gloss":"kɔhyɛɛ so"},{"surface":"אל","gloss":"kɔ"},{"surface":"הנחל","gloss":"asubɔnten no"},{"surface":"אשר","gloss":"a"},{"surface":"על","gloss":"da"},{"surface":"פני","gloss":"anim"},{"surface":"יקנעם","gloss":"Yokneam"}],"timestamp":"2026-09-15T22:34:15.258802836Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 19:11",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na wɔn ahyeɛ no kɔɔ soro kɔɔ atɔeɛ fam kɔ Marala, na ɛkɔhyɛɛ Dabeshet so, na ɛkɔhyɛɛ asubɔnten no a ɛda Yokneam anim no so.",
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "kɔɔ soro"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "wɔn ahyeɛ"
+    },
+    {
+      "surface": "לימה",
+      "gloss": "kɔɔ atɔeɛ fam"
+    },
+    {
+      "surface": "ומרעלה",
+      "gloss": "kɔ Marala"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "kɔhyɛɛ so"
+    },
+    {
+      "surface": "בדבשת",
+      "gloss": "Dabeshet"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "kɔhyɛɛ so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "asubɔnten no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    }
+  ],
+  "timestamp": "2026-09-15T22:34:15.258802836Z",
+  "model": "glm-5.3"
+}

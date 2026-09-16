@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":5,"ref":"nahum 3:5","book":"nahum","lang":"tw","chapter":3,"translation":"Yɛn sɛ me wɔ hɔ tia wo, Yawe Sebaot asɛm; na mɛbue wo mpɔtam so wɔ wo anim, na mɛkyerɛ amanaman ne ahemman ahonyam.","tokens":[{"surface":"הנני","gloss":"Yɛn, me wɔ hɔ"},{"surface":"אליך","gloss":"tia wo"},{"surface":"נאם","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"וגליתי","gloss":"na mɛbue"},{"surface":"שוליך","gloss":"wo mpɔtam so"},{"surface":"על","gloss":"wɔ"},{"surface":"פניך","gloss":"wo anim"},{"surface":"והראיתי","gloss":"na mɛkyerɛ"},{"surface":"גוים","gloss":"amanaman"},{"surface":"מערך","gloss":"wo nnaasɛm"},{"surface":"וממלכות","gloss":"ne ahemman"},{"surface":"קלונך","gloss":"wo ahonyam"}],"timestamp":"2026-09-16T01:21:15.444939842Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 3:5",
+  "book": "nahum",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yɛn sɛ me wɔ hɔ tia wo, Yawe Sebaot asɛm; na mɛbue wo mpɔtam so wɔ wo anim, na mɛkyerɛ amanaman ne ahemman ahonyam.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yɛn, me wɔ hɔ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tia wo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "na mɛbue"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "wo mpɔtam so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "והראיתי",
+      "gloss": "na mɛkyerɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "מערך",
+      "gloss": "wo nnaasɛm"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ne ahemman"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "wo ahonyam"
+    }
+  ],
+  "timestamp": "2026-09-16T01:21:15.444939842Z",
+  "model": "glm-5.3"
+}

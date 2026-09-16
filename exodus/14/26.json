@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "exodus 14:26", "book": "exodus", "lang": "tw", "chapter": 14, "translation": "Na Yawe kaa kyerɛɛ Mose sɛ: “Tene ⟨את⟩ wo nsa so wɔ po no so, na nsuo no nnsan mmra Misraim so, ne wɔn mmɛre so, ne wɔn apampam so.”", "tokens": [{"surface": "ויאמר", "gloss": "Na ... kaa sɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "נטה", "gloss": "Tene"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nsa"}, {"surface": "ידך", "gloss": "wo nsa"}, {"surface": "על", "gloss": "so wɔ ... so"}, {"surface": "הים", "gloss": "po no"}, {"surface": "וישבו", "gloss": "na ... nnsan mmra"}, {"surface": "המים", "gloss": "nsuo no"}, {"surface": "על", "gloss": "so"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "על", "gloss": "ne ... so"}, {"surface": "רכבו", "gloss": "wɔn mmɛre"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "פרשיו", "gloss": "wɔn apampam"}], "timestamp": "2026-09-15T20:49:57.853710910Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Yawe kaa kyerɛɛ Mose sɛ: “Tene ⟨את⟩ wo nsa so wɔ po no so, na nsuo no nnsan mmra Misraim so, ne wɔn mmɛre so, ne wɔn apampam so.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kaa sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so wɔ ... so"
+    },
+    {
+      "surface": "הים",
+      "gloss": "po no"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na ... nnsan mmra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "wɔn mmɛre"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "wɔn apampam"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:57.853710910Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "1-samuel 20:31", "book": "1-samuel", "lang": "tw", "chapter": 20, "translation": "Ɛfiri sɛ berɛ nyinaa a Yisai ba te asase so no, wo ne wo ahennie rennyina pintinn; enti seƐ som bo na fa no bra ⟨את⟩ me nkyɛn, ɛfiri sɛ ɔyɛ owu ba.", "tokens": [{"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "כל", "gloss": "berɛ nyinaa"}, {"surface": "הימים", "gloss": "nnenna"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בן", "gloss": "ba"}, {"surface": "ישי", "gloss": "Yisai"}, {"surface": "חי", "gloss": "te"}, {"surface": "על", "gloss": "so"}, {"surface": "האדמה", "gloss": "asase"}, {"surface": "לא", "gloss": "ɛnninyina"}, {"surface": "תכון", "gloss": "pintinn"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "ומלכותך", "gloss": "wo ahennie"}, {"surface": "ועתה", "gloss": "seƐ"}, {"surface": "שלח", "gloss": "som bo"}, {"surface": "וקח", "gloss": "fa no bra"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "אלי", "gloss": "me nkyɛn"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "בן", "gloss": "ba"}, {"surface": "מות", "gloss": "owu"}, {"surface": "הוא", "gloss": "ɔyɛ"}], "timestamp": "2026-09-15T22:56:39.990832942Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 20:31",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ɛfiri sɛ berɛ nyinaa a Yisai ba te asase so no, wo ne wo ahennie rennyina pintinn; enti seƐ som bo na fa no bra ⟨את⟩ me nkyɛn, ɛfiri sɛ ɔyɛ owu ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "berɛ nyinaa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nnenna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisai"
+    },
+    {
+      "surface": "חי",
+      "gloss": "te"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnninyina"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "pintinn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ומלכותך",
+      "gloss": "wo ahennie"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "seƐ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "som bo"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "fa no bra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "owu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:39.990832942Z",
+  "model": "glm-5.3"
+}

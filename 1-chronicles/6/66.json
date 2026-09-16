@@ -1,1 +1,49 @@
-{"tier": "glm-5.2", "verse": 66, "ref": "1-chronicles 6:66", "book": "1-chronicles", "lang": "tw", "chapter": 6, "translation": "⟨את⟩ ne ⟨את⟩ Heshbon ⟨את⟩ ne ne asaasetam, ne ⟨את⟩ Yazer ne ne asaasetam.", "tokens": [{"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Heshbon"}, {"surface": "חשבון", "gloss": "Heshbon"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne asaasetam"}, {"surface": "מגרשיה", "gloss": "ne asaasetam"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Yazer"}, {"surface": "יעזיר", "gloss": "Yazer"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne asaasetam"}, {"surface": "מגרשיה", "gloss": "ne asaasetam"}], "timestamp": "2026-09-16T04:36:36.667108757Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "⟨את⟩ ne ⟨את⟩ Heshbon ⟨את⟩ ne ne asaasetam, ne ⟨את⟩ Yazer ne ne asaasetam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Heshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne asaasetam"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asaasetam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne asaasetam"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ne asaasetam"
+    }
+  ],
+  "timestamp": "2026-09-16T04:36:36.667108757Z",
+  "model": "glm-5.3"
+}

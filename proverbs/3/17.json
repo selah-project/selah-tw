@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":17,"ref":"proverbs 3:17","book":"proverbs","lang":"tw","chapter":3,"translation":"N'akwan yɛ anigyeɛ akwan, na n'akwantuo nyinaa yɛ asomdwoeɛ.","tokens":[{"surface":"דרכיה","gloss":"n'akwan"},{"surface":"דרכי","gloss":"akwan"},{"surface":"נעם","gloss":"anigyeɛ"},{"surface":"וכל","gloss":"na ... nyinaa"},{"surface":"נתיבותיה","gloss":"n'akwantuo"},{"surface":"שלום","gloss":"asomdwoeɛ"}],"timestamp":"2026-09-16T02:43:00.115861798Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "N'akwan yɛ anigyeɛ akwan, na n'akwantuo nyinaa yɛ asomdwoeɛ.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "n'akwan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "akwan"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "n'akwantuo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:43:00.115861798Z",
+  "model": "glm-5.3"
+}

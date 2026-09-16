@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "1-samuel 17:11", "book": "1-samuel", "lang": "tw", "chapter": 17, "translation": "Saul ne Israel nyinaa tee Filistini no ⟨את⟩ asɛm yi, na wɔdwirii wɔn, na wɔsuroo yie.", "tokens": [{"surface": "וישמע", "gloss": "tee"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "וכל", "gloss": "ne ... nyinaa"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Filistini no asɛm"}, {"surface": "דברי", "gloss": "asɛm"}, {"surface": "הפלשתי", "gloss": "Filistini no"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "ויחתו", "gloss": "na wɔdwirii wɔn"}, {"surface": "ויראו", "gloss": "na wɔsuroo"}, {"surface": "מאד", "gloss": "yie"}], "timestamp": "2026-09-15T22:53:54.492470780Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Saul ne Israel nyinaa tee Filistini no ⟨את⟩ asɛm yi, na wɔdwirii wɔn, na wɔsuroo yie.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tee"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistini no asɛm"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistini no"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "na wɔdwirii wɔn"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na wɔsuroo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yie"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:54.492470780Z",
+  "model": "glm-5.3"
+}

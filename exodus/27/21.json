@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "exodus 27:21", "book": "exodus", "lang": "tw", "chapter": 27, "translation": "Wɔhyehyɛ no wɔ Frae Fie no mu, fa abɔn ⟨את⟩ pardɛ no a ɛda adanseɛ no so no ho, ⟨את⟩ Aharon ne ne mma; anwummerɛ kɔsi anɔpa, Yawe anim; ɛyɛ mmara a ɛda hɔ daa wɔ wɔn nkyirimmu nyinaa mu, firi ⟨את⟩ Israelfoɔ mma no hɔ.", "tokens": [{"surface": "באהל", "gloss": "wɔ Frae Fie no mu"}, {"surface": "מועד", "gloss": "Frae"}, {"surface": "מחוץ", "gloss": "fa ... abɔn ... ho"}, {"surface": "לפרכת", "gloss": "⟨את⟩ pardɛ no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "על", "gloss": "da ... so"}, {"surface": "העדת", "gloss": "adanseɛ no"}, {"surface": "יערך", "gloss": "wɔhyehyɛ"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no (dɔla no)"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ובניו", "gloss": "ne ne mma"}, {"surface": "מערב", "gloss": "anwummerɛ"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "בקר", "gloss": "anɔpa"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "חקת", "gloss": "mmara"}, {"surface": "עולם", "gloss": "a ɛda hɔ daa"}, {"surface": "לדרתם", "gloss": "wɔ wɔn nkyirimmu nyinaa mu"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}], "timestamp": "2026-09-15T20:57:08.261956424Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 27:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Wɔhyehyɛ no wɔ Frae Fie no mu, fa abɔn ⟨את⟩ pardɛ no a ɛda adanseɛ no so no ho, ⟨את⟩ Aharon ne ne mma; anwummerɛ kɔsi anɔpa, Yawe anim; ɛyɛ mmara a ɛda hɔ daa wɔ wɔn nkyirimmu nyinaa mu, firi ⟨את⟩ Israelfoɔ mma no hɔ.",
+  "tokens": [
+    {
+      "surface": "באהל",
+      "gloss": "wɔ Frae Fie no mu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Frae"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fa ... abɔn ... ho"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "⟨את⟩ pardɛ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ... so"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adanseɛ no"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "wɔhyehyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (dɔla no)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛda hɔ daa"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "wɔ wɔn nkyirimmu nyinaa mu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:08.261956424Z",
+  "model": "glm-5.3"
+}

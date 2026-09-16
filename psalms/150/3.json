@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 150:3","book":"psalms","lang":"tw","chapter":150,"translation":"Modinnoɔ wɔ abɛn bɔ mu; modinnoɔ wɔ nnwomaa ne tweneegye mu.","tokens":[{"surface":"הללוהו","gloss":"modinnoɔ"},{"surface":"בתקע","gloss":"wɔ ... bɔ mu"},{"surface":"שופר","gloss":"abɛn"},{"surface":"הללוהו","gloss":"modinnoɔ"},{"surface":"בנבל","gloss":"wɔ nnwomaa mu"},{"surface":"וכנור","gloss":"ne tweneegye"}],"timestamp":"2026-09-16T02:41:13.216051832Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 150,
+  "translation": "Modinnoɔ wɔ abɛn bɔ mu; modinnoɔ wɔ nnwomaa ne tweneegye mu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "modinnoɔ"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "wɔ ... bɔ mu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "abɛn"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "modinnoɔ"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "wɔ nnwomaa mu"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ne tweneegye"
+    }
+  ],
+  "timestamp": "2026-09-16T02:41:13.216051832Z",
+  "model": "glm-5.3"
+}

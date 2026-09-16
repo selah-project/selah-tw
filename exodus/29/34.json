@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 34, "ref": "exodus 29:34", "book": "exodus", "lang": "tw", "chapter": 29, "translation": "Na sɛ nam a wɔde sii asɔfoɔ anaa buroo no mu biaka kɔsɛ anɔpa, na wobɛhye ⟨את⟩ deɛ aka no wɔ ogya mu; ɛnnidi, ɛfiri sɛ ɛyɛ kronkron.", "tokens": [{"surface": "ואם", "gloss": "na sɛ"}, {"surface": "יותר", "gloss": "biaka"}, {"surface": "מבשר", "gloss": "firi nam"}, {"surface": "המלאים", "gloss": "a wɔde sii asɔfoɔ"}, {"surface": "ומן", "gloss": "anaa deɛ efi"}, {"surface": "הלחם", "gloss": "buroo no"}, {"surface": "עד", "gloss": "kɔsɛ"}, {"surface": "הבקר", "gloss": "anɔpa"}, {"surface": "ושרפת", "gloss": "na wobɛhye"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ aka no"}, {"surface": "הנותר", "gloss": "deɛ aka no"}, {"surface": "באש", "gloss": "wɔ ogya mu"}, {"surface": "לא", "gloss": "ɛn"}, {"surface": "יאכל", "gloss": "ndi"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "קדש", "gloss": "kronkron"}, {"surface": "הוא", "gloss": "ɛno"}], "timestamp": "2026-09-15T21:00:26.637573669Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na sɛ nam a wɔde sii asɔfoɔ anaa buroo no mu biaka kɔsɛ anɔpa, na wobɛhye ⟨את⟩ deɛ aka no wɔ ogya mu; ɛnnidi, ɛfiri sɛ ɛyɛ kronkron.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "biaka"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "firi nam"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a wɔde sii asɔfoɔ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "anaa deɛ efi"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "buroo no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsɛ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "na wobɛhye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ aka no"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "deɛ aka no"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wɔ ogya mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛn"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛno"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:26.637573669Z",
+  "model": "glm-5.3"
+}

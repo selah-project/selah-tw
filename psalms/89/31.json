@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":31,"ref":"psalms 89:31","book":"psalms","lang":"tw","chapter":89,"translation":"Sɛ n'mma gu m'Mmara no so, na wɔnnam me mmua so:","tokens":[{"surface":"אם","gloss":"sɛ"},{"surface":"יעזבו","gloss":"wɔbɛgu ... so"},{"surface":"בניו","gloss":"n'mma"},{"surface":"תורתי","gloss":"m'Mmara"},{"surface":"ובמשפטי","gloss":"na m'mmua mu"},{"surface":"לא","gloss":"nn"},{"surface":"ילכון","gloss":"wɔbɛnam"}],"timestamp":"2026-09-16T02:14:41.965056801Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 89,
+  "translation": "Sɛ n'mma gu m'Mmara no so, na wɔnnam me mmua so:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "wɔbɛgu ... so"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n'mma"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "m'Mmara"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "na m'mmua mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "wɔbɛnam"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:41.965056801Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":5,"ref":"psalms 95:5","book":"psalms","lang":"tw","chapter":95,"translation":"Apo ⟨ne⟩ na ɛyɛ ⟨deɛ⟩ — ɛno na Ɔbɔɔ no, na nensa na ɛyɛɛ asase-asuo no.","tokens":[{"surface":"אשר","gloss":"apo"},{"surface":"לו","gloss":"⟨⟨ne⟩⟩ na ɛyɛ ⟨⟨deɛ⟩⟩"},{"surface":"הים","gloss":"po no"},{"surface":"והוא","gloss":"na ɛno"},{"surface":"עשהו","gloss":"Ɔbɔɔ no"},{"surface":"ויבשת","gloss":"na asase-asuo"},{"surface":"ידיו","gloss":"nensa"},{"surface":"יצרו","gloss":"ɛyɛɛ"}],"timestamp":"2026-09-16T06:24:00.312875761Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 95,
+  "translation": "Apo ⟨ne⟩ na ɛyɛ ⟨deɛ⟩ — ɛno na Ɔbɔɔ no, na nensa na ɛyɛɛ asase-asuo no.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨⟨ne⟩⟩ na ɛyɛ ⟨⟨deɛ⟩⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "po no"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɛno"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Ɔbɔɔ no"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "na asase-asuo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "nensa"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ɛyɛɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T06:24:00.312875761Z",
+  "model": "glm-5.3"
+}

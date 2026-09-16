@@ -1,1 +1,84 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "leviticus 24:14", "book": "leviticus", "lang": "tw", "chapter": 24, "translation": "Fa ⟨את⟩ deɛ ɔkomgyee no kɔ ntaban no akyi, na wɔ a wɔtee no ⟨את⟩ nyinaa de ⟨את⟩ wɔn nsa to ne ti so, na abadwa no nyinaa nto no aboɔ.", "tokens": [{"surface": "הוצא", "gloss": "Fa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ ɔkomgyee no"}, {"surface": "המקלל", "gloss": "deɛ ɔkomgyee no"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "מחוץ", "gloss": "akyi"}, {"surface": "למחנה", "gloss": "ntaban no"}, {"surface": "וסמכו", "gloss": "na wɔde wɔn nsa to"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "השמעים", "gloss": "wɔ a wɔte no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nsa"}, {"surface": "ידיהם", "gloss": "wɔn nsa"}, {"surface": "על", "gloss": "so"}, {"surface": "ראשו", "gloss": "ne ti"}, {"surface": "ורגמו", "gloss": "na wonto no aboɔ"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העדה", "gloss": "abadwa no"}], "timestamp": "2026-09-15T21:22:16.696261021Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 24:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Fa ⟨את⟩ deɛ ɔkomgyee no kɔ ntaban no akyi, na wɔ a wɔtee no ⟨את⟩ nyinaa de ⟨את⟩ wɔn nsa to ne ti so, na abadwa no nyinaa nto no aboɔ.",
+  "tokens": [
+    {
+      "surface": "הוצא",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɔkomgyee no"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "deɛ ɔkomgyee no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ntaban no"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "na wɔde wɔn nsa to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "wɔ a wɔte no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne ti"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "na wonto no aboɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "abadwa no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:16.696261021Z",
+  "model": "glm-5.3"
+}

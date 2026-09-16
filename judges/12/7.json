@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "judges 12:7", "book": "judges", "lang": "tw", "chapter": 12, "translation": "Yiftah temmuaa ⟨את⟩ Israël afe nsia; afei Yiftah, Giladni no, wui, wɔsiee no wɔ Gilad nkuropɔn mu baako mu.", "tokens": [{"surface": "וישפט", "gloss": "temmuaa"}, {"surface": "יפתח", "gloss": "Yiftah"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israël"}, {"surface": "ישראל", "gloss": "Israël"}, {"surface": "שש", "gloss": "nsia"}, {"surface": "שנים", "gloss": "afe"}, {"surface": "וימת", "gloss": "wui"}, {"surface": "יפתח", "gloss": "Yiftah"}, {"surface": "הגלעדי", "gloss": "Giladni no"}, {"surface": "ויקבר", "gloss": "wɔsiee no"}, {"surface": "בערי", "gloss": "wɔ nkuropɔn mu"}, {"surface": "גלעד", "gloss": "Gilad"}], "timestamp": "2026-09-15T22:41:00.123824316Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Yiftah temmuaa ⟨את⟩ Israël afe nsia; afei Yiftah, Giladni no, wui, wɔsiee no wɔ Gilad nkuropɔn mu baako mu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "temmuaa"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wui"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladni no"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wɔsiee no"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "wɔ nkuropɔn mu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-15T22:41:00.123824316Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":41,"ref":"psalms 105:41","book":"psalms","lang":"tw","chapter":105,"translation":"Ɔbuee ↄbotan no, na nsuo guu ase; ɛkɔɔ so sɛ asubɔnten wɔ ɛserɛ mu.","tokens":[{"surface":"פתח","gloss":"Ɔbuee"},{"surface":"צור","gloss":"ↄbotan"},{"surface":"ויזובו","gloss":"na nsuo guu ase"},{"surface":"מים","gloss":"nsuo"},{"surface":"הלכו","gloss":"ɛkɔɔ so"},{"surface":"בציות","gloss":"wɔ ɛserɛ mu"},{"surface":"נהר","gloss":"sɛ asubɔnten"}],"timestamp":"2026-09-16T02:20:12.680553026Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 105,
+  "translation": "Ɔbuee ↄbotan no, na nsuo guu ase; ɛkɔɔ so sɛ asubɔnten wɔ ɛserɛ mu.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Ɔbuee"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ↄbotan"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "na nsuo guu ase"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ɛkɔɔ so"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "wɔ ɛserɛ mu"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sɛ asubɔnten"
+    }
+  ],
+  "timestamp": "2026-09-16T02:20:12.680553026Z",
+  "model": "glm-5.3"
+}

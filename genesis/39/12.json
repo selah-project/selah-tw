@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":12,"ref":"genesis 39:12","book":"genesis","lang":"tw","chapter":39,"translation":"Na ɔdii Yosef n'atadeɛ no so seɛ sɛ: “Bɛda me!” Na ɔgyaee n'atadeɛ no wɔ ne nsa mu, na ɔdwanee yɛɛ ɔkwan guu mu kɔɔ akyire.","tokens":[{"surface":"ותתפשהו","gloss":"ɔdii ... no so seɛ"},{"surface":"בבגדו","gloss":"n'atadeɛ"},{"surface":"לאמר","gloss":"sɛ:"},{"surface":"שכבה","gloss":"Bɛda"},{"surface":"עמי","gloss":"me"},{"surface":"ויעזב","gloss":"ɔgyaee"},{"surface":"בגדו","gloss":"n'atadeɛ"},{"surface":"בידה","gloss":"wɔ ne nsa mu"},{"surface":"וינס","gloss":"ɔdwanee"},{"surface":"ויצא","gloss":"yɛɛ ɔkwan guu mu"},{"surface":"החוצה","gloss":"kɔɔ akyire"}],"timestamp":"2026-09-15T20:35:51.738158591Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 39:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na ɔdii Yosef n'atadeɛ no so seɛ sɛ: “Bɛda me!” Na ɔgyaee n'atadeɛ no wɔ ne nsa mu, na ɔdwanee yɛɛ ɔkwan guu mu kɔɔ akyire.",
+  "tokens": [
+    {
+      "surface": "ותתפשהו",
+      "gloss": "ɔdii ... no so seɛ"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "n'atadeɛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ:"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "Bɛda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ɔgyaee"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "n'atadeɛ"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "wɔ ne nsa mu"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ɔdwanee"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yɛɛ ɔkwan guu mu"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "kɔɔ akyire"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:51.738158591Z",
+  "model": "glm-5.3"
+}

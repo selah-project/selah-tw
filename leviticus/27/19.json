@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "leviticus 27:19", "book": "leviticus", "lang": "tw", "chapter": 27, "translation": "Na sɛ obɔɔ ⟨את⟩ wura no ⟨את⟩ ma ɛyɛ kronkron no pɛ sɛ ɔgya no bio, ɔde sika no nkyem anum baako ka wo bo-hyɛdeɛ no ho, na ɛbɛgyina ne dea.", "tokens": [{"surface": "ואם", "gloss": "na sɛ"}, {"surface": "גאל", "gloss": "ɔgya (onipa a ɔpɛ sɛ ɔgya)"}, {"surface": "יגאל", "gloss": "ɔgya no bio"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wura no"}, {"surface": "השדה", "gloss": "wura no"}, {"surface": "המקדיש", "gloss": "obɔɔ no kronkron no"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "wura no"}, {"surface": "ויסף", "gloss": "na ɔde ka ho"}, {"surface": "חמשית", "gloss": "nkyem anum baako"}, {"surface": "כסף", "gloss": "sika"}, {"surface": "ערכך", "gloss": "wo bo-hyɛdeɛ"}, {"surface": "עליו", "gloss": "no so"}, {"surface": "וקם", "gloss": "na ɛgyina"}, {"surface": "לו", "gloss": "ne dea"}], "timestamp": "2026-09-15T21:23:52.266215644Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na sɛ obɔɔ ⟨את⟩ wura no ⟨את⟩ ma ɛyɛ kronkron no pɛ sɛ ɔgya no bio, ɔde sika no nkyem anum baako ka wo bo-hyɛdeɛ no ho, na ɛbɛgyina ne dea.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ɔgya (onipa a ɔpɛ sɛ ɔgya)"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ɔgya no bio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wura no"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura no"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "obɔɔ no kronkron no"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wura no"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "na ɔde ka ho"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "nkyem anum baako"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "wo bo-hyɛdeɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "na ɛgyina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:52.266215644Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-chronicles 29:9","book":"1-chronicles","lang":"tw","chapter":29,"translation":"Na nkorɔfoɔ no ani gyee yie wɔ wɔn afɔdeɛ a wɔde too hɔ voluntarily, ɛfiri sɛ wɔde akoma a ɛyɛ dween de too afɔdeɛ voluntarily maa Yawe; na Dawid ɔhene nso ani gyee anigyeɛ kɛseɛ.","tokens":[{"surface":"וישמחו","gloss":"ani gyee yie"},{"surface":"העם","gloss":"⟨the⟩ nkorɔfoɔ no"},{"surface":"על","gloss":"wɔ"},{"surface":"התנדבם","gloss":"wɔn afɔdeɛ a wɔde too hɔ voluntarily"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בלב","gloss":"akoma"},{"surface":"שלם","gloss":"a ɛyɛ dween"},{"surface":"התנדבו","gloss":"de too afɔdeɛ voluntarily"},{"surface":"ליהוה","gloss":"maa Yawe"},{"surface":"וגם","gloss":"na ... nso"},{"surface":"דויד","gloss":"Dawid"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"שמח","gloss":"ani gyee"},{"surface":"שמחה","gloss":"anigyeɛ"},{"surface":"גדולה","gloss":"kɛseɛ"}],"timestamp":"2026-09-16T04:51:16.253188384Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 29:9",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na nkorɔfoɔ no ani gyee yie wɔ wɔn afɔdeɛ a wɔde too hɔ voluntarily, ɛfiri sɛ wɔde akoma a ɛyɛ dween de too afɔdeɛ voluntarily maa Yawe; na Dawid ɔhene nso ani gyee anigyeɛ kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ani gyee yie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ nkorɔfoɔ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "התנדבם",
+      "gloss": "wɔn afɔdeɛ a wɔde too hɔ voluntarily"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "a ɛyɛ dween"
+    },
+    {
+      "surface": "התנדבו",
+      "gloss": "de too afɔdeɛ voluntarily"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ani gyee"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:51:16.253188384Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":14,"ref":"2-chronicles 20:14","book":"2-chronicles","lang":"tw","chapter":20,"translation":"Na Yahaeɛl ba Zekaria, ba Benaja, ba Jeiel, ba Matania, Levini no, Asafo mma mu nipa no so, Yawe Honhom baa ne so wɔ nhyiam no mfimfini.","tokens":[{"surface":"ויחזיאל","gloss":"Na Yahaeɛl"},{"surface":"בן","gloss":"ba"},{"surface":"זכריהו","gloss":"Zekaria"},{"surface":"בן","gloss":"ba"},{"surface":"בניה","gloss":"Benaja"},{"surface":"בן","gloss":"ba"},{"surface":"יעיאל","gloss":"Jeiel"},{"surface":"בן","gloss":"ba"},{"surface":"מתניה","gloss":"Matania"},{"surface":"הלוי","gloss":"Levini no"},{"surface":"מן","gloss":"mu"},{"surface":"בני","gloss":"mma"},{"surface":"אסף","gloss":"Asafo"},{"surface":"היתה","gloss":"baa"},{"surface":"עליו","gloss":"ne so"},{"surface":"רוח","gloss":"Honhom"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בתוך","gloss":"wɔ ... mfimfini"},{"surface":"הקהל","gloss":"nhyiam no"}],"timestamp":"2026-09-16T05:02:31.015876869Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 20:14",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Yahaeɛl ba Zekaria, ba Benaja, ba Jeiel, ba Matania, Levini no, Asafo mma mu nipa no so, Yawe Honhom baa ne so wɔ nhyiam no mfimfini.",
+  "tokens": [
+    {
+      "surface": "ויחזיאל",
+      "gloss": "Na Yahaeɛl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaria"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Benaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matania"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levini no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Honhom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mfimfini"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nhyiam no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:02:31.015876869Z",
+  "model": "glm-5.3"
+}

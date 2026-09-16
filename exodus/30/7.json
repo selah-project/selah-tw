@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "exodus 30:7", "book": "exodus", "lang": "tw", "chapter": 30, "translation": "Na Aharon bɛhyɛ nnuru-kɛtɛnkɛtɛn gu so anɔpa biara, anɔpa biara; aberɛ a ɔretoto ⟨את⟩ atia no, ɔbɛhyɛ no.", "tokens": [{"surface": "והקטיר", "gloss": "na bɛhyɛ ... gu so"}, {"surface": "עליו", "gloss": "so"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "קטרת", "gloss": "nnuru-kɛtɛnkɛtɛn"}, {"surface": "סמים", "gloss": "nnuru dɔ"}, {"surface": "בבקר", "gloss": "anɔpa biara"}, {"surface": "בבקר", "gloss": "anɔpa biara"}, {"surface": "בהיטיבו", "gloss": "aberɛ a ɔretoto"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "atia no"}, {"surface": "הנרת", "gloss": "atia no"}, {"surface": "יקטירנה", "gloss": "ɔbɛhyɛ no"}], "timestamp": "2026-09-15T20:59:53.455276746Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 30:7",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na Aharon bɛhyɛ nnuru-kɛtɛnkɛtɛn gu so anɔpa biara, anɔpa biara; aberɛ a ɔretoto ⟨את⟩ atia no, ɔbɛhyɛ no.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "na bɛhyɛ ... gu so"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nnuru-kɛtɛnkɛtɛn"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "nnuru dɔ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa biara"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpa biara"
+    },
+    {
+      "surface": "בהיטיבו",
+      "gloss": "aberɛ a ɔretoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atia no"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "atia no"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ɔbɛhyɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:53.455276746Z",
+  "model": "glm-5.3"
+}

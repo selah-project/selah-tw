@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":10,"ref":"genesis 39:10","book":"genesis","lang":"tw","chapter":39,"translation":"Na ɛbaa sɛ, berɛ a ɔkasa tia Yosef da biara no, ɔantie no so sɛ ɔbɛda ne nkyɛn anaa sɛ ɔbɛne no.","tokens":[{"surface":"ויהי","gloss":"Na ɛbaa sɛ"},{"surface":"כדברה","gloss":"berɛ a ɔkasa tia"},{"surface":"אל","gloss":"ania"},{"surface":"יוסף","gloss":"Yosef"},{"surface":"יום","gloss":"da"},{"surface":"יום","gloss":"biara"},{"surface":"ולא","gloss":"ɔan-"},{"surface":"שמע","gloss":"tie"},{"surface":"אליה","gloss":"no so"},{"surface":"לשכב","gloss":"sɛ ɔbɛda ne nkyɛn"},{"surface":"אצלה","gloss":"bɛne no"},{"surface":"להיות","gloss":"sɛ ɔbɛyɛ"},{"surface":"עמה","gloss":"ne ho"}],"timestamp":"2026-09-15T20:35:51.737821401Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na ɛbaa sɛ, berɛ a ɔkasa tia Yosef da biara no, ɔantie no so sɛ ɔbɛda ne nkyɛn anaa sɛ ɔbɛne no.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "berɛ a ɔkasa tia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ania"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "יום",
+      "gloss": "biara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɔan-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "no so"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "sɛ ɔbɛda ne nkyɛn"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "bɛne no"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sɛ ɔbɛyɛ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:51.737821401Z",
+  "model": "glm-5.3"
+}

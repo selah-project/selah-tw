@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":1,"ref":"micah 1:1","book":"micah","lang":"tw","chapter":1,"translation":"Yawe asɛm a ɛbaa Mika Moraseteni nkyɛn, wɔ Yotam, Ahas, Hizkia, Yuda ahempɔn bere so; asɛm a ɔhunuu faa Shomeron ne Yerusalem ho.","tokens":[{"surface":"דבר","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אשר","gloss":"a"},{"surface":"היה","gloss":"baa"},{"surface":"אל","gloss":"nkyɛn"},{"surface":"מיכה","gloss":"Mika"},{"surface":"המרשתי","gloss":"Moraseteni"},{"surface":"בימי","gloss":"wɔ ... bere so"},{"surface":"יותם","gloss":"Yotam"},{"surface":"אחז","gloss":"Ahas"},{"surface":"יחזקיה","gloss":"Hizkia"},{"surface":"מלכי","gloss":"ahempɔn"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"אשר","gloss":"a"},{"surface":"חזה","gloss":"ɔhunuu"},{"surface":"על","gloss":"faa ... ho"},{"surface":"שמרון","gloss":"Shomeron"},{"surface":"וירושלם","gloss":"ne Yerusalem"}],"timestamp":"2026-09-16T01:17:13.447130240Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 1:1",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yawe asɛm a ɛbaa Mika Moraseteni nkyɛn, wɔ Yotam, Ahas, Hizkia, Yuda ahempɔn bere so; asɛm a ɔhunuu faa Shomeron ne Yerusalem ho.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "המרשתי",
+      "gloss": "Moraseteni"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "wɔ ... bere so"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahas"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahempɔn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ɔhunuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "faa ... ho"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ne Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T01:17:13.447130240Z",
+  "model": "glm-5.3"
+}

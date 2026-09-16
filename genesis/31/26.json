@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 31:26","book":"genesis","lang":"tw","chapter":31,"translation":"Laban ka kyerɛɛ Yakob se: Adɛn na wode saa yɛeɛ? Wode sum sum ⟨את⟩ m'akoma so, na wode ⟨את⟩ me mmawaawa no kɔeɛ sɛ wɔyɛ nkoa a wɔde akofena kyeree wɔ.","tokens":[{"surface":"ויאמר","gloss":"kaa kyerɛɛ"},{"surface":"לבן","gloss":"Laban"},{"surface":"ליעקב","gloss":"kyerɛɛ Yakob"},{"surface":"מה","gloss":"Adɛn"},{"surface":"עשית","gloss":"wode saa yɛeɛ"},{"surface":"ותגנב","gloss":"wode sum sum"},{"surface":"את","gloss":"⟨את⟩","marks":"m'akoma"},{"surface":"לבבי","gloss":"m'akoma"},{"surface":"ותנהג","gloss":"wode wɔn kɔeɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"me mmawaawa"},{"surface":"בנתי","gloss":"me mmawaawa"},{"surface":"כשביות","gloss":"sɛ wɔyɛ nkoa"},{"surface":"חרב","gloss":"a wɔde akofena kyeree wɔ"}],"timestamp":"2026-09-15T20:28:54.915603821Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Laban ka kyerɛɛ Yakob se: Adɛn na wode saa yɛeɛ? Wode sum sum ⟨את⟩ m'akoma so, na wode ⟨את⟩ me mmawaawa no kɔeɛ sɛ wɔyɛ nkoa a wɔde akofena kyeree wɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kyerɛɛ Yakob"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wode saa yɛeɛ"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "wode sum sum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'akoma"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "m'akoma"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "wode wɔn kɔeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me mmawaawa"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "me mmawaawa"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "sɛ wɔyɛ nkoa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a wɔde akofena kyeree wɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:28:54.915603821Z",
+  "model": "glm-5.3"
+}

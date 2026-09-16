@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":11,"ref":"amos 6:11","book":"amos","lang":"tw","chapter":6,"translation":"Ɛfiri sɛ hwɛ, Yawe rehyɛ, na ɔbɛbɔ fie kɛseɛ no ayɛ nkesua, na fie ketewa no ayɛ nkyɛmu.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"הנה","gloss":"hwɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"מצוה","gloss":"rehyɛ"},{"surface":"והכה","gloss":"na ɔbɛbɔ"},{"surface":"הבית","gloss":"fie"},{"surface":"הגדול","gloss":"kɛseɛ no"},{"surface":"רסיסים","gloss":"nkesua"},{"surface":"והבית","gloss":"na fie"},{"surface":"הקטן","gloss":"ketewa no"},{"surface":"בקעים","gloss":"nkyɛmu"}],"timestamp":"2026-09-16T01:12:38.177072930Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 6:11",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɛfiri sɛ hwɛ, Yawe rehyɛ, na ɔbɛbɔ fie kɛseɛ no ayɛ nkesua, na fie ketewa no ayɛ nkyɛmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "rehyɛ"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "na ɔbɛbɔ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kɛseɛ no"
+    },
+    {
+      "surface": "רסיסים",
+      "gloss": "nkesua"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na fie"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ketewa no"
+    },
+    {
+      "surface": "בקעים",
+      "gloss": "nkyɛmu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:12:38.177072930Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 84:2","book":"psalms","lang":"tw","chapter":84,"translation":"Yawe Sabaofo, wo tenabea ahodoɔ no dɛ sɛn!","tokens":[{"surface":"מה","gloss":"sɛn"},{"surface":"ידידות","gloss":"dɛ"},{"surface":"משכנותיך","gloss":"wo tenabea ahodoɔ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"}],"timestamp":"2026-09-16T02:12:58.933555167Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 84,
+  "translation": "Yawe Sabaofo, wo tenabea ahodoɔ no dɛ sɛn!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sɛn"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "dɛ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "wo tenabea ahodoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:58.933555167Z",
+  "model": "glm-5.3"
+}

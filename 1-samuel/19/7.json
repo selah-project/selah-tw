@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "1-samuel 19:7", "book": "1-samuel", "lang": "tw", "chapter": 19, "translation": "Yonatan frɛɛ Dawid, na Yonatan kyerɛɛ no nsɛm yi ⟨את⟩ nyinaa; na Yonatan de ⟨את⟩ Dawid baa Saul nkyɛn, na ɔtenaa ne anim sɛ dedaw.", "tokens": [{"surface": "ויקרא", "gloss": "frɛɛ"}, {"surface": "יהונתן", "gloss": "Yonatan"}, {"surface": "לדוד", "gloss": "Dawid"}, {"surface": "ויגד", "gloss": "kyerɛɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "יהונתן", "gloss": "Yonatan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɛm yi nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הדברים", "gloss": "nsɛm"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "ויבא", "gloss": "de ... baa"}, {"surface": "יהונתן", "gloss": "Yonatan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dawid"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "אל", "gloss": "baa ... nkyɛn"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "ויהי", "gloss": "ɔtenaa"}, {"surface": "לפניו", "gloss": "ne anim"}, {"surface": "כאתמול", "gloss": "sɛ dedaw"}, {"surface": "שלשום", "gloss": ""}], "timestamp": "2026-09-15T22:55:30.429774241Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 19:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Yonatan frɛɛ Dawid, na Yonatan kyerɛɛ no nsɛm yi ⟨את⟩ nyinaa; na Yonatan de ⟨את⟩ Dawid baa Saul nkyɛn, na ɔtenaa ne anim sɛ dedaw.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "de ... baa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa ... nkyɛn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ɔtenaa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "כאתמול",
+      "gloss": "sɛ dedaw"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-15T22:55:30.429774241Z",
+  "model": "glm-5.3"
+}

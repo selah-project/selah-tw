@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":6,"ref":"genesis 12:6","book":"genesis","lang":"tw","chapter":12,"translation":"Na Abram twaa asase no mu so kɔsii Shekem beaeɛ, kɔsii Moreh dua kronkron no; na Kenaanni no na ɔwɔ asase no mu saa bere no.","tokens":[{"surface":"ויעבר","gloss":"twaa"},{"surface":"אברם","gloss":"Abram"},{"surface":"בארץ","gloss":"wɔ asase no mu"},{"surface":"עד","gloss":"kɔsii"},{"surface":"מקום","gloss":"beaeɛ"},{"surface":"שכם","gloss":"Shekem"},{"surface":"עד","gloss":"kɔsii"},{"surface":"אלון","gloss":"dua kronkron"},{"surface":"מורה","gloss":"Moreh"},{"surface":"והכנעני","gloss":"na Kenaanni"},{"surface":"אז","gloss":"saa bere no"},{"surface":"בארץ","gloss":"wɔ asase no mu"}],"timestamp":"2026-09-15T20:20:21.991059444Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Abram twaa asase no mu so kɔsii Shekem beaeɛ, kɔsii Moreh dua kronkron no; na Kenaanni no na ɔwɔ asase no mu saa bere no.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "twaa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "beaeɛ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "dua kronkron"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "Moreh"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "na Kenaanni"
+    },
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:21.991059444Z",
+  "model": "glm-5.3"
+}

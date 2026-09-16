@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "numbers 21:7", "book": "numbers", "lang": "tw", "chapter": 21, "translation": "Ná nnipa no baa Moshe nkyɛn, wɔkaa sɛ: Yɛabɔ bɔne, ɛfiri sɛ yɛakasa atia Yawe ne wo; bɔ mpaeɛ ma Yawe na ɔnyi ⟨את⟩ nnwonsɛm no firi yɛn so. Enti Moshe bɔɔ mpaeɛ maa nnipa no.", "tokens": [{"surface": "ויבא", "gloss": "baa"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ויאמרו", "gloss": "wɔkaa sɛ"}, {"surface": "חטאנו", "gloss": "Yɛabɔ bɔne"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "דברנו", "gloss": "yɛakasa"}, {"surface": "ביהוה", "gloss": "tiaa Yawe"}, {"surface": "ובך", "gloss": "ne wo"}, {"surface": "התפלל", "gloss": "bɔ mpaeɛ"}, {"surface": "אל", "gloss": "ma"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ויסר", "gloss": "na ɔnyi"}, {"surface": "מעלינו", "gloss": "firi yɛn so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnwonsɛm no"}, {"surface": "הנחש", "gloss": "nnwonsɛm no"}, {"surface": "ויתפלל", "gloss": "bɔɔ mpaeɛ"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "בעד", "gloss": "maa"}, {"surface": "העם", "gloss": "nnipa no"}], "timestamp": "2026-09-15T21:36:46.100645558Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 21:7",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ná nnipa no baa Moshe nkyɛn, wɔkaa sɛ: Yɛabɔ bɔne, ɛfiri sɛ yɛakasa atia Yawe ne wo; bɔ mpaeɛ ma Yawe na ɔnyi ⟨את⟩ nnwonsɛm no firi yɛn so. Enti Moshe bɔɔ mpaeɛ maa nnipa no.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔkaa sɛ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Yɛabɔ bɔne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "yɛakasa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "tiaa Yawe"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "ne wo"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "bɔ mpaeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "na ɔnyi"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "firi yɛn so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnwonsɛm no"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nnwonsɛm no"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "bɔɔ mpaeɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "maa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:36:46.100645558Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 49, "ref": "numbers 1:49", "book": "numbers", "lang": "tw", "chapter": 1, "translation": "Nanso ankasa ⟨את⟩ afade Levi wonkenkan wɔn nnipa dodoɔ, ⟨את⟩ na wɔn ti dodoɔ nso wonnsusa wɔ Yisrael mma no mu.", "tokens": [{"surface": "אך", "gloss": "nanso ankasa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "afade Levi"}, {"surface": "מטה", "gloss": "afade"}, {"surface": "לוי", "gloss": "Levi"}, {"surface": "לא", "gloss": "nnipa"}, {"surface": "תפקד", "gloss": "wonkenkan"}, {"surface": "ואת", "gloss": "na ⟨את⟩"}, {"surface": "ראשם", "gloss": "wɔn ti dodoɔ"}, {"surface": "לא", "gloss": "nso"}, {"surface": "תשא", "gloss": "wonnsusa"}, {"surface": "בתוך", "gloss": "wɔ ... mu"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}], "timestamp": "2026-09-15T21:24:27.778862144Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nanso ankasa ⟨את⟩ afade Levi wonkenkan wɔn nnipa dodoɔ, ⟨את⟩ na wɔn ti dodoɔ nso wonnsusa wɔ Yisrael mma no mu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanso ankasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afade Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "afade"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "wonkenkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "wɔn ti dodoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nso"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wonnsusa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:27.778862144Z",
+  "model": "glm-5.3"
+}

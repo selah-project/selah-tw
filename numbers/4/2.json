@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "numbers 4:2", "book": "numbers", "lang": "tw", "chapter": 4, "translation": "Kenkan Kehat mma no ⟨את⟩ dodoɔ wɔ Levi mma no mu, wɔn abusua mu, wɔn agyapadie fie mu,", "tokens": [{"surface": "נשא", "gloss": "kenkan dodoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Kehat mma no dodoɔ"}, {"surface": "ראש", "gloss": "dodoɔ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "קהת", "gloss": "Kehat"}, {"surface": "מתוך", "gloss": "wɔ ... mu"}, {"surface": "בני", "gloss": "mma"}, {"surface": "לוי", "gloss": "Levi"}, {"surface": "למשפחתם", "gloss": "wɔn abusua mu"}, {"surface": "לבית", "gloss": "fie mu"}, {"surface": "אבתם", "gloss": "wɔn agyapadie"}], "timestamp": "2026-09-15T22:28:41.328307494Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Kenkan Kehat mma no ⟨את⟩ dodoɔ wɔ Levi mma no mu, wɔn abusua mu, wɔn agyapadie fie mu,",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "kenkan dodoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kehat mma no dodoɔ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "wɔn abusua mu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie mu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "wɔn agyapadie"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:41.328307494Z",
+  "model": "glm-5.3"
+}

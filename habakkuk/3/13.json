@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":13,"ref":"habakkuk 3:13","book":"habakkuk","lang":"tw","chapter":3,"translation":"Wotwaa hɔ sɛ wobegyaa w'aman no, sɛ wobegyaa ⟨את⟩ w'Mashíaj; wobuae atifi firi ɔyɛfoɔ fie mu, woadan nnyinasoɔ no adi daakɔ de kɔsi kɔn. Selah.","tokens":[{"surface":"יצאת","gloss":"wotwaa hɔ"},{"surface":"לישע","gloss":"sɛ wobegyaa"},{"surface":"עמך","gloss":"w'aman no"},{"surface":"לישע","gloss":"sɛ wobegyaa"},{"surface":"את","gloss":"⟨את⟩","marks":"wʼMashíaj"},{"surface":"משיחך","gloss":"w'Mashíaj"},{"surface":"מחצת","gloss":"wobuae"},{"surface":"ראש","gloss":"atifi"},{"surface":"מבית","gloss":"firi fie"},{"surface":"רשע","gloss":"ɔyɛfoɔ"},{"surface":"ערות","gloss":"woadan adi daakɔ"},{"surface":"יסוד","gloss":"nnyinasoɔ"},{"surface":"עד","gloss":"de kɔsi"},{"surface":"צואר","gloss":"kɔn"},{"surface":"סלה","gloss":"Selah"}],"timestamp":"2026-09-16T01:22:49.699922084Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Wotwaa hɔ sɛ wobegyaa w'aman no, sɛ wobegyaa ⟨את⟩ w'Mashíaj; wobuae atifi firi ɔyɛfoɔ fie mu, woadan nnyinasoɔ no adi daakɔ de kɔsi kɔn. Selah.",
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "wotwaa hɔ"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "sɛ wobegyaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "w'aman no"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "sɛ wobegyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wʼMashíaj"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "w'Mashíaj"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "wobuae"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi fie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔyɛfoɔ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "woadan adi daakɔ"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔsi"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "kɔn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:22:49.699922084Z",
+  "model": "glm-5.3"
+}

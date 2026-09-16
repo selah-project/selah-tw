@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 46, "ref": "exodus 29:46", "book": "exodus", "lang": "tw", "chapter": 29, "translation": "Na wɔbɛhuu sɛ me ne Yawe, wɔn Eloohim, a mede wɔn firi Misraim ⟨את⟩ asase so na metena wɔn mu; me ne Yawe, wɔn Eloohim.", "tokens": [{"surface": "וידעו", "gloss": "na wɔbɛhuu"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "אני", "gloss": "me"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיהם", "gloss": "wɔn Eloohim"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הוצאתי", "gloss": "mede wɔn firi"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "מארץ", "gloss": "asase so"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "לשכני", "gloss": "na metena"}, {"surface": "בתוכם", "gloss": "wɔn mu"}, {"surface": "אני", "gloss": "me"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיהם", "gloss": "wɔn Eloohim"}], "timestamp": "2026-09-15T20:59:03.661307514Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 29:46",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wɔbɛhuu sɛ me ne Yawe, wɔn Eloohim, a mede wɔn firi Misraim ⟨את⟩ asase so na metena wɔn mu; me ne Yawe, wɔn Eloohim.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "na wɔbɛhuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mede wɔn firi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לשכני",
+      "gloss": "na metena"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:03.661307514Z",
+  "model": "glm-5.3"
+}

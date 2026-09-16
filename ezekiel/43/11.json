@@ -1,1 +1,144 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "ezekiel 43:11", "book": "ezekiel", "lang": "tw", "chapter": 43, "translation": "Sɛ wɔ anim abere wɔ deɛ wɔayɛ ⟨את⟩ nyinaa ho a, fie no nkyerɛkyerɛ, ne ne nhyehyɛeɛ, ne n'ananmusie ne ne mu kwan, ne ne nkyerɛkyerɛ ⟨את⟩ nyinaa, ne ⟨את⟩ ne mmara nyinaa — kyerɛ wɔn, na twerɛ wɔ wɔn ani so, na wɔmmɛhwɛ ⟨את⟩ ne nkyerɛkyerɛ nyinaa ne ⟨את⟩ ne mmara nyinaa so, na wɔmmɛyɛ.", "tokens": [{"surface": "ואם", "gloss": "Sɛ"}, {"surface": "נכלמו", "gloss": "wɔ anim abere"}, {"surface": "מכל", "gloss": "nyinaa ho"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "עשו", "gloss": "wɔayɛ"}, {"surface": "צורת", "gloss": "nkyerɛkyerɛ"}, {"surface": "הבית", "gloss": "fie no"}, {"surface": "ותכונתו", "gloss": "ne nhyehyɛeɛ"}, {"surface": "ומוצאיו", "gloss": "n'ananmusie"}, {"surface": "ומובאיו", "gloss": "ne mu kwan"}, {"surface": "וכל", "gloss": "nyinaa"}, {"surface": "צורתו", "gloss": "ne nkyerɛkyerɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne mmara nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "חקתיו", "gloss": "ne mmara"}, {"surface": "וכל", "gloss": "nyinaa"}, {"surface": "צורתי", "gloss": "ne nkyerɛkyerɛ"}, {"surface": "וכל", "gloss": "ne ... nyinaa"}, {"surface": "תורתו", "gloss": "ne nhyehyɛeɛ mmara"}, {"surface": "הודע", "gloss": "kyerɛ wɔn"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "וכתב", "gloss": "na twerɛ"}, {"surface": "לעיניהם", "gloss": "wɔ wɔn ani so"}, {"surface": "וישמרו", "gloss": "na wɔmmɛhwɛ ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nkyerɛkyerɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "צורתו", "gloss": "ne nkyerɛkyerɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne mmara nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "חקתיו", "gloss": "ne mmara"}, {"surface": "ועשו", "gloss": "na wɔmmɛyɛ"}, {"surface": "אותם", "gloss": "⟨את⟩ ɛno"}], "timestamp": "2026-09-16T00:59:56.241467439Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 43:11",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Sɛ wɔ anim abere wɔ deɛ wɔayɛ ⟨את⟩ nyinaa ho a, fie no nkyerɛkyerɛ, ne ne nhyehyɛeɛ, ne n'ananmusie ne ne mu kwan, ne ne nkyerɛkyerɛ ⟨את⟩ nyinaa, ne ⟨את⟩ ne mmara nyinaa — kyerɛ wɔn, na twerɛ wɔ wɔn ani so, na wɔmmɛhwɛ ⟨את⟩ ne nkyerɛkyerɛ nyinaa ne ⟨את⟩ ne mmara nyinaa so, na wɔmmɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "wɔ anim abere"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nyinaa ho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔayɛ"
+    },
+    {
+      "surface": "צורת",
+      "gloss": "nkyerɛkyerɛ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "ותכונתו",
+      "gloss": "ne nhyehyɛeɛ"
+    },
+    {
+      "surface": "ומוצאיו",
+      "gloss": "n'ananmusie"
+    },
+    {
+      "surface": "ומובאיו",
+      "gloss": "ne mu kwan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צורתו",
+      "gloss": "ne nkyerɛkyerɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmara nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צורתי",
+      "gloss": "ne nkyerɛkyerɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "תורתו",
+      "gloss": "ne nhyehyɛeɛ mmara"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "kyerɛ wɔn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "na twerɛ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "wɔ wɔn ani so"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "na wɔmmɛhwɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nkyerɛkyerɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צורתו",
+      "gloss": "ne nkyerɛkyerɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmara nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na wɔmmɛyɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɛno"
+    }
+  ],
+  "timestamp": "2026-09-16T00:59:56.241467439Z",
+  "model": "glm-5.3"
+}

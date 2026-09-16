@@ -1,1 +1,139 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "jeremiah 21:4", "book": "jeremiah", "lang": "tw", "chapter": 21, "translation": "Sɛdeɛ Yawe, Israel Eloohim, ka se: Mehɔ, merebɛdan ⟨את⟩ koodie a ɛwɔ mo nsa mu, a mo de bɛko animia Babilon ⟨את⟩ ɔhene ne ⟨את⟩ Kasdim a wɔabɔ mo ho ban wɔ ban no akyi no ano, na mɛboaboa wɔn ⟨את⟩ ama wɔn akɔ akɔnnwa mu wɔ kuro yi mu.", "tokens": [{"surface": "כה", "gloss": "Sɛdeɛ"}, {"surface": "אמר", "gloss": "ka se"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "הנני", "gloss": "Mehɔ"}, {"surface": "מסב", "gloss": "merebɛdan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "koodie"}, {"surface": "כלי", "gloss": "koodie"}, {"surface": "המלחמה", "gloss": "koo"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בידכם", "gloss": "a ɛwɔ mo nsa mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתם", "gloss": "mo"}, {"surface": "נלחמים", "gloss": "de bɛko animia"}, {"surface": "בם", "gloss": "wɔn ho"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔhene"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "בבל", "gloss": "Babilon"}, {"surface": "ואת", "gloss": "ne ⟨את⟩"}, {"surface": "הכשדים", "gloss": "Kasdim"}, {"surface": "הצרים", "gloss": "a wɔabɔ … ban"}, {"surface": "עליכם", "gloss": "mo ho"}, {"surface": "מחוץ", "gloss": "akyi"}, {"surface": "לחומה", "gloss": "ban no"}, {"surface": "ואספתי", "gloss": "na mɛboaboa"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "אל", "gloss": "ama wɔn akɔ"}, {"surface": "תוך", "gloss": "mu"}, {"surface": "העיר", "gloss": "kuro"}, {"surface": "הזאת", "gloss": "yi"}], "timestamp": "2026-09-16T00:15:59.644508838Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 21:4",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Sɛdeɛ Yawe, Israel Eloohim, ka se: Mehɔ, merebɛdan ⟨את⟩ koodie a ɛwɔ mo nsa mu, a mo de bɛko animia Babilon ⟨את⟩ ɔhene ne ⟨את⟩ Kasdim a wɔabɔ mo ho ban wɔ ban no akyi no ano, na mɛboaboa wɔn ⟨את⟩ ama wɔn akɔ akɔnnwa mu wɔ kuro yi mu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mehɔ"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "merebɛdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koodie"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "koodie"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "a ɛwɔ mo nsa mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "de bɛko animia"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "a wɔabɔ … ban"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "ban no"
+    },
+    {
+      "surface": "ואספתי",
+      "gloss": "na mɛboaboa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama wɔn akɔ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T00:15:59.644508838Z",
+  "model": "glm-5.3"
+}

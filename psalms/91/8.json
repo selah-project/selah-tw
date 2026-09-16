@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 91:8","book":"psalms","lang":"tw","chapter":91,"translation":"Na w'ani so nko ara na wobɛhwɛ; abɔnefoɔ akatua na wobɛhunu.","tokens":[{"surface":"רק","gloss":"nko ara"},{"surface":"בעיניך","gloss":"w'ani so"},{"surface":"תביט","gloss":"bɛhwɛ"},{"surface":"ושלמת","gloss":"akatua"},{"surface":"רשעים","gloss":"abɔnefoɔ"},{"surface":"תראה","gloss":"bɛhunu"}],"timestamp":"2026-09-16T02:14:14.101429683Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Na w'ani so nko ara na wobɛhwɛ; abɔnefoɔ akatua na wobɛhunu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "w'ani so"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "bɛhwɛ"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "akatua"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bɛhunu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:14.101429683Z",
+  "model": "glm-5.3"
+}

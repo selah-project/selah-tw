@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":19,"ref":"ezekiel 13:19","book":"ezekiel","lang":"tw","chapter":13,"translation":"Na mo ahwera me wɔ ⟨את⟩ m'aman mu esiane mmɔre nsam ne aburoo aduane nketewa nti, de kum nkwa a ɛrenwu, na de nkwa a ɛrenna ase ma wɔtena ase, wɔ mo nkontompo mu, m'aman no a wɔte nkontompo.","tokens":[{"surface":"ותחללנה","gloss":"Na mo ahwera"},{"surface":"אתי","gloss":"⟨את⟩","marks":"me"},{"surface":"אל","gloss":"wɔ … mu"},{"surface":"עמי","gloss":"m'aman"},{"surface":"בשעלי","gloss":"mmɔre nsam"},{"surface":"שערים","gloss":"aburoo"},{"surface":"ובפתותי","gloss":"ne nketewa"},{"surface":"לחם","gloss":"aduane"},{"surface":"להמית","gloss":"de kum"},{"surface":"נפשות","gloss":"nkwa"},{"surface":"אשר","gloss":"a"},{"surface":"לא","gloss":"ɛnni"},{"surface":"תמותנה","gloss":"renwu"},{"surface":"ולחיות","gloss":"na de ma wɔtena ase"},{"surface":"נפשות","gloss":"nkwa"},{"surface":"אשר","gloss":"a"},{"surface":"לא","gloss":"ɛnni"},{"surface":"תחיינה","gloss":"renna ase"},{"surface":"בכזבכם","gloss":"mo nkontompo mu"},{"surface":"לעמי","gloss":"m'aman"},{"surface":"שמעי","gloss":"wɔte"},{"surface":"כזב","gloss":"nkontompo"}],"timestamp":"2026-09-16T00:39:33.018527741Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 13:19",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na mo ahwera me wɔ ⟨את⟩ m'aman mu esiane mmɔre nsam ne aburoo aduane nketewa nti, de kum nkwa a ɛrenwu, na de nkwa a ɛrenna ase ma wɔtena ase, wɔ mo nkontompo mu, m'aman no a wɔte nkontompo.",
+  "tokens": [
+    {
+      "surface": "ותחללנה",
+      "gloss": "Na mo ahwera"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "m'aman"
+    },
+    {
+      "surface": "בשעלי",
+      "gloss": "mmɔre nsam"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "aburoo"
+    },
+    {
+      "surface": "ובפתותי",
+      "gloss": "ne nketewa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "de kum"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "תמותנה",
+      "gloss": "renwu"
+    },
+    {
+      "surface": "ולחיות",
+      "gloss": "na de ma wɔtena ase"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "תחיינה",
+      "gloss": "renna ase"
+    },
+    {
+      "surface": "בכזבכם",
+      "gloss": "mo nkontompo mu"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "m'aman"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "wɔte"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "nkontompo"
+    }
+  ],
+  "timestamp": "2026-09-16T00:39:33.018527741Z",
+  "model": "glm-5.3"
+}

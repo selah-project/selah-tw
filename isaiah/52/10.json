@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "isaiah 52:10", "book": "isaiah", "lang": "tw", "chapter": 52, "translation": "Yawe ada ne kronkron ⟨את⟩ nsa adi wɔ amanaman nyinaa anim; na asase nnyinasoɔ nyinaa behunu ⟨את⟩ yɛn Eloohim ngyebo.", "tokens": [{"surface": "חשף", "gloss": "da ... adi"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne kronkron nsa"}, {"surface": "זרוע", "gloss": "nsa"}, {"surface": "קדשו", "gloss": "ne kronkron"}, {"surface": "לעיני", "gloss": "wɔ ... anim"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הגוים", "gloss": "amanaman"}, {"surface": "וראו", "gloss": "na ... behunu"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אפסי", "gloss": "nnyinasoɔ"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yɛn Eloohim ngyebo"}, {"surface": "ישועת", "gloss": "ngyebo"}, {"surface": "אלהינו", "gloss": "yɛn Eloohim"}], "timestamp": "2026-09-15T23:58:04.162220955Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Yawe ada ne kronkron ⟨את⟩ nsa adi wɔ amanaman nyinaa anim; na asase nnyinasoɔ nyinaa behunu ⟨את⟩ yɛn Eloohim ngyebo.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "da ... adi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kronkron nsa"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ne kronkron"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na ... behunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn Eloohim ngyebo"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ngyebo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:04.162220955Z",
+  "model": "glm-5.3"
+}

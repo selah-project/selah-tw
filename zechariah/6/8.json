@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "zechariah 6:8", "book": "zechariah", "lang": "tw", "chapter": 6, "translation": "Ɔfrɛɛ me ⟨את⟩ na ɔkaa ho asɛm kyerɛɛ me sɛ: Hwɛ, wɔn a wɔretoa so kɔ atifi fam asase no mu no, wɔama ⟨את⟩ me Honhom no anya home wɔ atifi fam asase no mu.", "tokens": [{"surface": "ויזעק", "gloss": "Ɔfrɛɛ me"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me"}, {"surface": "וידבר", "gloss": "na ɔkaa ho asɛm kyerɛɛ me"}, {"surface": "אלי", "gloss": "kyerɛɛ me"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "ראה", "gloss": "Hwɛ"}, {"surface": "היוצאים", "gloss": "wɔn a wɔretoa so kɔ"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "צפון", "gloss": "atifi fam"}, {"surface": "הניחו", "gloss": "wɔama ... anya home"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me Honhom no"}, {"surface": "רוחי", "gloss": "me Honhom no"}, {"surface": "בארץ", "gloss": "wɔ atifi fam asase no mu"}, {"surface": "צפון", "gloss": "atifi fam"}], "timestamp": "2026-09-16T05:37:09.299028026Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɔfrɛɛ me ⟨את⟩ na ɔkaa ho asɛm kyerɛɛ me sɛ: Hwɛ, wɔn a wɔretoa so kɔ atifi fam asase no mu no, wɔama ⟨את⟩ me Honhom no anya home wɔ atifi fam asase no mu.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "Ɔfrɛɛ me"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na ɔkaa ho asɛm kyerɛɛ me"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛɛ me"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "wɔn a wɔretoa so kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "atifi fam"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "wɔama ... anya home"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me Honhom no"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "me Honhom no"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ atifi fam asase no mu"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "atifi fam"
+    }
+  ],
+  "timestamp": "2026-09-16T05:37:09.299028026Z",
+  "model": "glm-5.3"
+}

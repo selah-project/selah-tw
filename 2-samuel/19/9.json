@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":9,"ref":"2-samuel 19:9","book":"2-samuel","lang":"tw","chapter":19,"translation":"Hene no sɔre tenaa ase wɔ ɛpono ano mu, na wɔbɔɔ amaneɛ kyerɛɛ nnipa no nyinaa se: Hwɛ, hene no te ase wɔ ɛpono ano mu; na nnipa no nyinaa baa hene no anim, na Yisrael mu no ɔbarima biara dwanee kɔɔ ne tabo mu.","tokens":[{"surface":"ויקם","gloss":"sɔre"},{"surface":"המלך","gloss":"hene no"},{"surface":"וישב","gloss":"tenaa ase"},{"surface":"בשער","gloss":"wɔ ɛpono ano mu"},{"surface":"ולכל","gloss":"na kyerɛɛ … nyinaa"},{"surface":"העם","gloss":"nnipa no"},{"surface":"הגידו","gloss":"wɔbɔɔ amaneɛ"},{"surface":"לאמר","gloss":"se"},{"surface":"הנה","gloss":"Hwɛ"},{"surface":"המלך","gloss":"hene no"},{"surface":"יושב","gloss":"te ase"},{"surface":"בשער","gloss":"wɔ ɛpono ano mu"},{"surface":"ויבא","gloss":"na … baa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"העם","gloss":"nnipa no"},{"surface":"לפני","gloss":"anim"},{"surface":"המלך","gloss":"hene no"},{"surface":"וישראל","gloss":"na Yisrael"},{"surface":"נס","gloss":"dwanee"},{"surface":"איש","gloss":"ɔbarima biara"},{"surface":"לאהליו","gloss":"kɔɔ ne tabo mu"}],"timestamp":"2026-09-15T23:08:21.275381883Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 19:9",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Hene no sɔre tenaa ase wɔ ɛpono ano mu, na wɔbɔɔ amaneɛ kyerɛɛ nnipa no nyinaa se: Hwɛ, hene no te ase wɔ ɛpono ano mu; na nnipa no nyinaa baa hene no anim, na Yisrael mu no ɔbarima biara dwanee kɔɔ ne tabo mu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tenaa ase"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "wɔ ɛpono ano mu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kyerɛɛ … nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "wɔbɔɔ amaneɛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "te ase"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "wɔ ɛpono ano mu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na … baa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "נס",
+      "gloss": "dwanee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima biara"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "kɔɔ ne tabo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:08:21.275381883Z",
+  "model": "glm-5.3"
+}

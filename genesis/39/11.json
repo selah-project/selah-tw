@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":11,"ref":"genesis 39:11","book":"genesis","lang":"tw","chapter":39,"translation":"Na ɛbaa sɛ da bi, sɛnea da no bi yɛeɛ no, ɔkɔɔ fie no mu kɔyɛɛ ne adwuma, na fie no mmarima mu baako nni hɔ wɔ fie no mu.","tokens":[{"surface":"ויהי","gloss":"Na ɛbaa sɛ"},{"surface":"כהיום","gloss":"da bi"},{"surface":"הזה","gloss":"no bi"},{"surface":"ויבא","gloss":"ɔkɔɔ"},{"surface":"הביתה","gloss":"fie no mu"},{"surface":"לעשות","gloss":"kɔyɛɛ"},{"surface":"מלאכתו","gloss":"ne adwuma"},{"surface":"ואין","gloss":"na ... nni hɔ"},{"surface":"איש","gloss":"oniipa"},{"surface":"מאנשי","gloss":"mmarima mu"},{"surface":"הבית","gloss":"fie no"},{"surface":"שם","gloss":"wɔ hɔ"},{"surface":"בבית","gloss":"wɔ fie no mu"}],"timestamp":"2026-09-15T20:35:51.738000291Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 39:11",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na ɛbaa sɛ da bi, sɛnea da no bi yɛeɛ no, ɔkɔɔ fie no mu kɔyɛɛ ne adwuma, na fie no mmarima mu baako nni hɔ wɔ fie no mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "no bi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ɔkɔɔ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "fie no mu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kɔyɛɛ"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ne adwuma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oniipa"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "mmarima mu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:51.738000291Z",
+  "model": "glm-5.3"
+}

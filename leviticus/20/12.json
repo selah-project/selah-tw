@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "leviticus 20:12", "book": "leviticus", "lang": "tw", "chapter": 20, "translation": "Na ɔbarima a ɔbɛda ⟨את⟩ ne ba yere — asɛmfua bɔne kɛseɛ na wɔayɛ — wɔn baanu no nyinaa wu awu; wɔn mogya wɔ wɔn so.", "tokens": [{"surface": "ואיש", "gloss": "na ɔbarima"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ישכב", "gloss": "bɛda ... ase"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne ba yere"}, {"surface": "כלתו", "gloss": "ne ba yere"}, {"surface": "מות", "gloss": "wu"}, {"surface": "יומתו", "gloss": "awu"}, {"surface": "שניהם", "gloss": "wɔn baanu"}, {"surface": "תבל", "gloss": "asɛmfua bɔne"}, {"surface": "עשו", "gloss": "wɔayɛ"}, {"surface": "דמיהם", "gloss": "wɔn mogya"}, {"surface": "בם", "gloss": "wɔn so"}], "timestamp": "2026-09-15T21:19:45.283976406Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔbarima a ɔbɛda ⟨את⟩ ne ba yere — asɛmfua bɔne kɛseɛ na wɔayɛ — wɔn baanu no nyinaa wu awu; wɔn mogya wɔ wɔn so.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "na ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bɛda ... ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba yere"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ne ba yere"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "awu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "asɛmfua bɔne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔayɛ"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "wɔn mogya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:45.283976406Z",
+  "model": "glm-5.3"
+}

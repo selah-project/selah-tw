@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":16,"ref":"ezekiel 27:16","book":"ezekiel","lang":"tw","chapter":27,"translation":"Aram nso yɛɛ wo dwadifoɔ ɛfiri sɛ wo nnwuma dɔɔso; wɔde nɔɔfɛ, tuntum kɔkɔɔ ntonko, atadeɛ a wɔato mu, ketekete ntoma, ebirekyie anim nsensanee, ne kɔkɔɔ amonkyebere de sii wo nsiesie mu.","tokens":[{"surface":"ארם","gloss":"Aram"},{"surface":"סחרתך","gloss":"wo dwadifoɔ"},{"surface":"מרב","gloss":"dɔɔso enti"},{"surface":"מעשיך","gloss":"wo nnwuma"},{"surface":"בנפך","gloss":"nɔɔfɛ"},{"surface":"ארגמן","gloss":"tuntum kɔkɔɔ ntonko"},{"surface":"ורקמה","gloss":"atadeɛ a wɔato mu"},{"surface":"ובוץ","gloss":"ketekete ntoma"},{"surface":"וראמת","gloss":"ebirekyie anim nsensanee"},{"surface":"וכדכד","gloss":"kɔkɔɔ amonkyebere"},{"surface":"נתנו","gloss":"de sii"},{"surface":"בעזבוניך","gloss":"wo nsiesie mu"}],"timestamp":"2026-09-16T00:48:01.187656877Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 27:16",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Aram nso yɛɛ wo dwadifoɔ ɛfiri sɛ wo nnwuma dɔɔso; wɔde nɔɔfɛ, tuntum kɔkɔɔ ntonko, atadeɛ a wɔato mu, ketekete ntoma, ebirekyie anim nsensanee, ne kɔkɔɔ amonkyebere de sii wo nsiesie mu.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "סחרתך",
+      "gloss": "wo dwadifoɔ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dɔɔso enti"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "wo nnwuma"
+    },
+    {
+      "surface": "בנפך",
+      "gloss": "nɔɔfɛ"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "tuntum kɔkɔɔ ntonko"
+    },
+    {
+      "surface": "ורקמה",
+      "gloss": "atadeɛ a wɔato mu"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "ketekete ntoma"
+    },
+    {
+      "surface": "וראמת",
+      "gloss": "ebirekyie anim nsensanee"
+    },
+    {
+      "surface": "וכדכד",
+      "gloss": "kɔkɔɔ amonkyebere"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "de sii"
+    },
+    {
+      "surface": "בעזבוניך",
+      "gloss": "wo nsiesie mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:48:01.187656877Z",
+  "model": "glm-5.3"
+}

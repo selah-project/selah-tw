@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":16,"ref":"psalms 25:16","book":"psalms","lang":"tw","chapter":25,"translation":"Dan w'ani mmra me so, na hu me mmɔborɔhunu, ɛfiri sɛ nkumaa na ɔhafoɔ na meyɛ.","tokens":[{"surface":"פנה","gloss":"dan w'ani mmra ... so"},{"surface":"אלי","gloss":"me"},{"surface":"וחנני","gloss":"na hu me mmɔborɔhunu"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"יחיד","gloss":"nkumaa"},{"surface":"ועני","gloss":"ɔhafoɔ"},{"surface":"אני","gloss":"meyɛ"}],"timestamp":"2026-09-16T01:43:25.564212521Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Dan w'ani mmra me so, na hu me mmɔborɔhunu, ɛfiri sɛ nkumaa na ɔhafoɔ na meyɛ.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "dan w'ani mmra ... so"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "na hu me mmɔborɔhunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "nkumaa"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ɔhafoɔ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "meyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:43:25.564212521Z",
+  "model": "glm-5.3"
+}

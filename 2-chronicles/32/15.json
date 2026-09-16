@@ -1,1 +1,141 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "2-chronicles 32:15", "book": "2-chronicles", "lang": "tw", "chapter": 32, "translation": "Na seesei, ⟨את⟩ monna Hizikia mmɔ ⟨את⟩ mo ho ahome, na ɔnmmɔ mo mo kwa, na mo nnye no nni: ɛfiri sɛ, ɔman anaa ahennie biara nyame ntumi ngye ne manfoɔ fii me nsa mu, na m'agya nsa mu; na mo nso, mo Eloohim rentumi nngye ⟨את⟩ mo fii me nsa mu.", "tokens": [{"surface": "ועתה", "gloss": "na seesei"}, {"surface": "אל", "gloss": "monna"}, {"surface": "ישיא", "gloss": "mmɔ mo ho ahome"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "חזקיהו", "gloss": "Hizikia"}, {"surface": "ואל", "gloss": "na ɔnmmɔ"}, {"surface": "יסית", "gloss": "mo mo kwa"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "כזאת", "gloss": "kwa"}, {"surface": "ואל", "gloss": "na mo nnye"}, {"surface": "תאמינו", "gloss": "nni"}, {"surface": "לו", "gloss": "no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "n-"}, {"surface": "יוכל", "gloss": "ntumi"}, {"surface": "כל", "gloss": "biara"}, {"surface": "אלוה", "gloss": "nyame"}, {"surface": "כל", "gloss": "biara"}, {"surface": "גוי", "gloss": "ɔman"}, {"surface": "וממלכה", "gloss": "anaa ahennie"}, {"surface": "להציל", "gloss": "ngye"}, {"surface": "עמו", "gloss": "ne manfoɔ"}, {"surface": "מידי", "gloss": "fii me nsa mu"}, {"surface": "ומיד", "gloss": "fii"}, {"surface": "אבותי", "gloss": "m'agya nsa mu"}, {"surface": "אף", "gloss": "na mo nso"}, {"surface": "כי", "gloss": "nso"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "לא", "gloss": "ren-"}, {"surface": "יצילו", "gloss": "tumi nngye"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "מידי", "gloss": "fii me nsa mu"}], "timestamp": "2026-09-16T05:10:51.049429831Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 32:15",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na seesei, ⟨את⟩ monna Hizikia mmɔ ⟨את⟩ mo ho ahome, na ɔnmmɔ mo mo kwa, na mo nnye no nni: ɛfiri sɛ, ɔman anaa ahennie biara nyame ntumi ngye ne manfoɔ fii me nsa mu, na m'agya nsa mu; na mo nso, mo Eloohim rentumi nngye ⟨את⟩ mo fii me nsa mu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "mmɔ mo ho ahome"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikia"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ɔnmmɔ"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "mo mo kwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mo nnye"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ntumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "nyame"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "anaa ahennie"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "ngye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne manfoɔ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "fii me nsa mu"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "m'agya nsa mu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na mo nso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren-"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "tumi nngye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "fii me nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:10:51.049429831Z",
+  "model": "glm-5.3"
+}

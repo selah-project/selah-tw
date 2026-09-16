@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":7,"ref":"deuteronomy 17:7","book":"deuteronomy","lang":"tw","chapter":17,"translation":"Adansedfoɔ nsa na ɛdi kan bɔ no kum no, na aman nyinaa nsa di akyire; na woapopa bɔne no fi wo mu.","tokens":[{"surface":"יד","gloss":"nsa"},{"surface":"העדים","gloss":"adansedfoɔ"},{"surface":"תהיה","gloss":"na ɛdi kan bɔ"},{"surface":"בו","gloss":"no"},{"surface":"בראשנה","gloss":"kan"},{"surface":"להמיתו","gloss":"kum no"},{"surface":"ויד","gloss":"na nsa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"העם","gloss":"aman"},{"surface":"באחרנה","gloss":"di akyire"},{"surface":"ובערת","gloss":"na woapopa"},{"surface":"הרע","gloss":"bɔne"},{"surface":"מקרבך","gloss":"fi wo mu"}],"timestamp":"2026-09-15T22:31:24.164926339Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Adansedfoɔ nsa na ɛdi kan bɔ no kum no, na aman nyinaa nsa di akyire; na woapopa bɔne no fi wo mu.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "adansedfoɔ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "na ɛdi kan bɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kum no"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "na nsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aman"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "di akyire"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "na woapopa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "fi wo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:24.164926339Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "2-kings 2:10", "book": "2-kings", "lang": "tw", "chapter": 2, "translation": "Na ɔkaa sɛ: \"Woabisasɛ biribi a ɛyɛ den; nanso sɛ wohunu me sɛ ⟨את⟩ meyerɛ afiri wo nkyɛn ⟨את⟩ a, ɛbɛyɛ wo dea; sɛ wonhunu a, ɛrenyɛ hwee.\"", "tokens": [{"surface": "ויאמר", "gloss": "Na ɔkaa sɛ"}, {"surface": "הקשית", "gloss": "Woabisasɛ biribi a ɛyɛ den"}, {"surface": "לשאול", "gloss": "abisa"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "תראה", "gloss": "wohunu"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me"}, {"surface": "לקח", "gloss": "meyerɛ afiri"}, {"surface": "מאתך", "gloss": "⟨את⟩ wo nkyɛn"}, {"surface": "יהי", "gloss": "ɛbɛyɛ"}, {"surface": "לך", "gloss": "wo dea"}, {"surface": "כן", "gloss": "saa ara"}, {"surface": "ואם", "gloss": "sɛ ... a"}, {"surface": "אין", "gloss": "wonhunu"}, {"surface": "לא", "gloss": "ɛrenyɛ"}, {"surface": "יהיה", "gloss": "hwee"}], "timestamp": "2026-09-15T23:26:34.484506343Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔkaa sɛ: \"Woabisasɛ biribi a ɛyɛ den; nanso sɛ wohunu me sɛ ⟨את⟩ meyerɛ afiri wo nkyɛn ⟨את⟩ a, ɛbɛyɛ wo dea; sɛ wonhunu a, ɛrenyɛ hwee.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa sɛ"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Woabisasɛ biribi a ɛyɛ den"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "abisa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "wohunu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "meyerɛ afiri"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ wo nkyɛn"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo dea"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sɛ ... a"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wonhunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛrenyɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hwee"
+    }
+  ],
+  "timestamp": "2026-09-15T23:26:34.484506343Z",
+  "model": "glm-5.3"
+}

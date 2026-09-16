@@ -1,1 +1,64 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "exodus 23:25", "book": "exodus", "lang": "tw", "chapter": 23, "translation": "Na mo asom ⟨את⟩ Yawe, mo Eloohim, na ɔbɛhyira ⟨את⟩ mo duadɔn ne ⟨את⟩ mo nsuo; na mɛyi yadeɛ firi mo mu.", "tokens": [{"surface": "ועבדתם", "gloss": "na mo asom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "וברך", "gloss": "na ɔbɛhyira"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo duadɔn"}, {"surface": "לחמך", "gloss": "mo duadɔn"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "mo nsuo"}, {"surface": "מימיך", "gloss": "mo nsuo"}, {"surface": "והסרתי", "gloss": "na mɛyi"}, {"surface": "מחלה", "gloss": "yadeɛ"}, {"surface": "מקרבך", "gloss": "firi mo mu"}], "timestamp": "2026-09-15T22:26:53.852742730Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na mo asom ⟨את⟩ Yawe, mo Eloohim, na ɔbɛhyira ⟨את⟩ mo duadɔn ne ⟨את⟩ mo nsuo; na mɛyi yadeɛ firi mo mu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "na mo asom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "na ɔbɛhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo duadɔn"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "mo duadɔn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo nsuo"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "mo nsuo"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "na mɛyi"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "yadeɛ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "firi mo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:26:53.852742730Z",
+  "model": "glm-5.3"
+}

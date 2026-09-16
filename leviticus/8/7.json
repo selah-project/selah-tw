@@ -1,1 +1,104 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "leviticus 8:7", "book": "leviticus", "lang": "tw", "chapter": 8, "translation": "Ɔhyɛɛ ⟨את⟩ no ⟨את⟩ atadeɛ ⟨את⟩ no, ɔde mpaboa hyɛɛ ⟨את⟩ no ase; ɔhyɛɛ no ⟨את⟩ atadeɛ kɛseɛ no, ɔde ⟨את⟩ efod no sii no so, ɔde efod no ntoma-bogya hyɛɛ no ase, na ɔde bɔɔ no mu.", "tokens": [{"surface": "ויתן", "gloss": "hyɛɛ"}, {"surface": "עליו", "gloss": "no so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "atadeɛ no"}, {"surface": "הכתנת", "gloss": "atadeɛ no"}, {"surface": "ויחגר", "gloss": "hyɛɛ no ase"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "באבנט", "gloss": "mpaboa"}, {"surface": "וילבש", "gloss": "hyɛɛ"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "atadeɛ kɛseɛ no"}, {"surface": "המעיל", "gloss": "atadeɛ kɛseɛ no"}, {"surface": "ויתן", "gloss": "sii ... so"}, {"surface": "עליו", "gloss": "no so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "efod no"}, {"surface": "האפד", "gloss": "efod no"}, {"surface": "ויחגר", "gloss": "hyɛɛ no ase"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "בחשב", "gloss": "ntoma-bogya"}, {"surface": "האפד", "gloss": "efod no"}, {"surface": "ויאפד", "gloss": "bɔɔ no mu"}, {"surface": "לו", "gloss": "no"}, {"surface": "בו", "gloss": "de"}], "timestamp": "2026-09-15T21:12:44.712759181Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɔhyɛɛ ⟨את⟩ no ⟨את⟩ atadeɛ ⟨את⟩ no, ɔde mpaboa hyɛɛ ⟨את⟩ no ase; ɔhyɛɛ no ⟨את⟩ atadeɛ kɛseɛ no, ɔde ⟨את⟩ efod no sii no so, ɔde efod no ntoma-bogya hyɛɛ no ase, na ɔde bɔɔ no mu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ no"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "atadeɛ no"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "hyɛɛ no ase"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "mpaboa"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ kɛseɛ no"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "atadeɛ kɛseɛ no"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sii ... so"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod no"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod no"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "hyɛɛ no ase"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ntoma-bogya"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod no"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "bɔɔ no mu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:44.712759181Z",
+  "model": "glm-5.3"
+}

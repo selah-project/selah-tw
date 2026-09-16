@@ -1,1 +1,85 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "joshua 24:4", "book": "joshua", "lang": "tw", "chapter": 24, "translation": "Manoma Yitsak ⟨את⟩ Yakyɛb ne ⟨את⟩ Esau; na manoma Esau ⟨את⟩ Seir bepɔ no sɛ ɔnyɛ ne dea, na ⟨את⟩ Yakyɛb ne ne mma no kɔɔ ase Misraim.", "tokens": [{"surface": "ואתן", "gloss": "manoma"}, {"surface": "ליצחק", "gloss": "Yitsak"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yakyɛb"}, {"surface": "יעקב", "gloss": "Yakyɛb"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Esau"}, {"surface": "עשו", "gloss": "Esau"}, {"surface": "ואתן", "gloss": "manoma"}, {"surface": "לעשו", "gloss": "Esau"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Seir bɛpɔ"}, {"surface": "הר", "gloss": "bepɔ"}, {"surface": "שעיר", "gloss": "Seir"}, {"surface": "לרשת", "gloss": "sɛ ɔnyɛ ne dea"}, {"surface": "אותו", "gloss": "⟨את⟩ no", "marks": "Seir bɛpɔ"}, {"surface": "ויעקב", "gloss": "Yakyɛb"}, {"surface": "ובניו", "gloss": "ne mma"}, {"surface": "ירדו", "gloss": "kɔɔ ase"}, {"surface": "מצרים", "gloss": "Misraim"}], "timestamp": "2026-09-16T05:14:44.760893023Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Manoma Yitsak ⟨את⟩ Yakyɛb ne ⟨את⟩ Esau; na manoma Esau ⟨את⟩ Seir bepɔ no sɛ ɔnyɛ ne dea, na ⟨את⟩ Yakyɛb ne ne mma no kɔɔ ase Misraim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "manoma"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakyɛb"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakyɛb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "manoma"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seir bɛpɔ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "sɛ ɔnyɛ ne dea"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Seir bɛpɔ"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yakyɛb"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "kɔɔ ase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:44.760893023Z",
+  "model": "glm-5.3"
+}

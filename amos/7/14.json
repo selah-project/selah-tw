@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":14,"ref":"amos 7:14","book":"amos","lang":"tw","chapter":7,"translation":"Amos buaa, ɔka kyerɛɛ Amatsia se: mennyɛ ɔhanufoɔ, na mennyɛ ɔhanufoɔ ba; m’adwuma ne sɛ merehwɛ mmɔyɛfoɔ so, na mepata ⟨shikma⟩ dua so aba.","tokens":[{"surface":"ויען","gloss":"buaa"},{"surface":"עמוס","gloss":"Amos"},{"surface":"ויאמר","gloss":"ɔka kyerɛɛ"},{"surface":"אל","gloss":"kerɛɛ"},{"surface":"אמציה","gloss":"Amatsia"},{"surface":"לא","gloss":"mennyɛ"},{"surface":"נביא","gloss":"ɔhanufoɔ"},{"surface":"אנכי","gloss":"me"},{"surface":"ולא","gloss":"na mennyɛ"},{"surface":"בן","gloss":"ba"},{"surface":"נביא","gloss":"ɔhanufoɔ"},{"surface":"אנכי","gloss":"me"},{"surface":"כי","gloss":"m’adwuma ne sɛ"},{"surface":"בוקר","gloss":"merehwɛ mmɔyɛfoɔ so"},{"surface":"אנכי","gloss":"me"},{"surface":"ובולס","gloss":"na mepata so aba"},{"surface":"שקמים","gloss":"shikma dua"}],"timestamp":"2026-09-16T01:11:04.247480790Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 7:14",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Amos buaa, ɔka kyerɛɛ Amatsia se: mennyɛ ɔhanufoɔ, na mennyɛ ɔhanufoɔ ba; m’adwuma ne sɛ merehwɛ mmɔyɛfoɔ so, na mepata ⟨shikma⟩ dua so aba.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔka kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kerɛɛ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mennyɛ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ɔhanufoɔ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mennyɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ɔhanufoɔ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "m’adwuma ne sɛ"
+    },
+    {
+      "surface": "בוקר",
+      "gloss": "merehwɛ mmɔyɛfoɔ so"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ובולס",
+      "gloss": "na mepata so aba"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "shikma dua"
+    }
+  ],
+  "timestamp": "2026-09-16T01:11:04.247480790Z",
+  "model": "glm-5.3"
+}

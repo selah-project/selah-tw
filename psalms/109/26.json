@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":26,"ref":"psalms 109:26","book":"psalms","lang":"tw","chapter":109,"translation":"Boa me, Yawe Eloohim me dea; gye me, sɛnea wo hesed te.","tokens":[{"surface":"עזרני","gloss":"Boa me"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהי","gloss":"Eloohim me dea"},{"surface":"הושיעני","gloss":"gye me"},{"surface":"כחסדך","gloss":"sɛnea wo hesed te"}],"timestamp":"2026-09-16T02:23:03.697457485Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 109,
+  "translation": "Boa me, Yawe Eloohim me dea; gye me, sɛnea wo hesed te.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Boa me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim me dea"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gye me"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sɛnea wo hesed te"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:03.697457485Z",
+  "model": "glm-5.3"
+}

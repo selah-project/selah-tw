@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":33,"ref":"exodus 23:33","book":"exodus","lang":"tw","chapter":23,"translation":"Wɔmmɔ wɔn tena wo asase mu, sɛ ɛnsɛ sɛ wɔbɛma wo bɔ mfomwɔ ⟨את⟩ wo amɛ me; ɛfiri sɛ wubɛsom ⟨את⟩ wɔn anyame, ɛfiri sɛ ɛbɛyɛ mfomma ama wo.","tokens":[{"surface":"לא","gloss":"mmɔ"},{"surface":"ישבו","gloss":"wɔn tena"},{"surface":"בארצך","gloss":"wo asase mu"},{"surface":"פן","gloss":"sɛ ɛnsɛ sɛ"},{"surface":"יחטיאו","gloss":"wɔbɛma wo bɔ mfomwɔ"},{"surface":"אתך","gloss":"⟨את⟩ wo","marks":"wo"},{"surface":"לי","gloss":"amɛ me"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"תעבד","gloss":"wubɛsom"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn anyame"},{"surface":"אלהיהם","gloss":"wɔn anyame"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"יהיה","gloss":"ɛbɛyɛ"},{"surface":"לך","gloss":"ama wo"},{"surface":"למוקש","gloss":"mfomma"}],"timestamp":"2026-09-15T20:53:44.256052483Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wɔmmɔ wɔn tena wo asase mu, sɛ ɛnsɛ sɛ wɔbɛma wo bɔ mfomwɔ ⟨את⟩ wo amɛ me; ɛfiri sɛ wubɛsom ⟨את⟩ wɔn anyame, ɛfiri sɛ ɛbɛyɛ mfomma ama wo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wɔn tena"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "wo asase mu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛ ɛnsɛ sɛ"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "wɔbɛma wo bɔ mfomwɔ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amɛ me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "wubɛsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn anyame"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn anyame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mfomma"
+    }
+  ],
+  "timestamp": "2026-09-15T20:53:44.256052483Z",
+  "model": "glm-5.3"
+}

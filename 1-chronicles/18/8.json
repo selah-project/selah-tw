@@ -1,1 +1,96 @@
-{"tier":"glm-5.2","verse":8,"ref":"1-chronicles 18:8","book":"1-chronicles","lang":"tw","chapter":18,"translation":"Na firi Tibaht ne firi Kun, Hadadezer nkurow mu no, Dawid faa kɔbere dodoɔ a ɛdɔɔso paa; Selomo de yɛɛ ⟨את⟩ kɔbere po no ne ⟨את⟩ nnuanan no ne ⟨את⟩ kɔbere nnwuma no.","tokens":[{"surface":"ומטבחת","gloss":"firi Tibaht"},{"surface":"ומכון","gloss":"ne firi Kun"},{"surface":"ערי","gloss":"nkurow"},{"surface":"הדדעזר","gloss":"Hadadezer"},{"surface":"לקח","gloss":"faa"},{"surface":"דויד","gloss":"Dawid"},{"surface":"נחשת","gloss":"kɔbere"},{"surface":"רבה","gloss":"dodoɔ a ɛdɔɔso"},{"surface":"מאד","gloss":"paa"},{"surface":"בה","gloss":"de"},{"surface":"עשה","gloss":"yɛɛ"},{"surface":"שלמה","gloss":"Selomo"},{"surface":"את","gloss":"⟨את⟩","marks":"kɔbere po no"},{"surface":"ים","gloss":"po"},{"surface":"הנחשת","gloss":"kɔbere"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nnuanan no"},{"surface":"העמודים","gloss":"nnuanan no"},{"surface":"ואת","gloss":"⟨את⟩","marks":"kɔbere nnwuma no"},{"surface":"כלי","gloss":"nnwuma"},{"surface":"הנחשת","gloss":"kɔbere"}],"timestamp":"2026-09-16T04:44:39.083649092Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na firi Tibaht ne firi Kun, Hadadezer nkurow mu no, Dawid faa kɔbere dodoɔ a ɛdɔɔso paa; Selomo de yɛɛ ⟨את⟩ kɔbere po no ne ⟨את⟩ nnuanan no ne ⟨את⟩ kɔbere nnwuma no.",
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "firi Tibaht"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "ne firi Kun"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kɔbere"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dodoɔ a ɛdɔɔso"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɔbere po no"
+    },
+    {
+      "surface": "ים",
+      "gloss": "po"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔbere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnuanan no"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "nnuanan no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kɔbere nnwuma no"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nnwuma"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔbere"
+    }
+  ],
+  "timestamp": "2026-09-16T04:44:39.083649092Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":22,"ref":"genesis 44:22","book":"genesis","lang":"tw","chapter":44,"translation":"Na yɛkaa kyerɛɛ me Adonai sɛ, “Abɔfra no ntumi ngya ⟨את⟩ ne papa; sɛ ɔgya ⟨את⟩ ne papa a, ɔbɛwu.”","tokens":[{"surface":"ונאמר","gloss":"Na yɛkaa"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"אדני","gloss":"me Adonai"},{"surface":"לא","gloss":"n-"},{"surface":"יוכל","gloss":"ntumi"},{"surface":"הנער","gloss":"abɔfra no"},{"surface":"לעזב","gloss":"ngya"},{"surface":"את","gloss":"⟨את⟩","marks":"ne papa"},{"surface":"אביו","gloss":"ne papa"},{"surface":"ועזב","gloss":"sɛ ɔgya"},{"surface":"את","gloss":"⟨את⟩","marks":"ne papa"},{"surface":"אביו","gloss":"ne papa"},{"surface":"ומת","gloss":"ɔbɛwu"}],"timestamp":"2026-09-15T20:37:37.790761611Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Na yɛkaa kyerɛɛ me Adonai sɛ, “Abɔfra no ntumi ngya ⟨את⟩ ne papa; sɛ ɔgya ⟨את⟩ ne papa a, ɔbɛwu.”",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Na yɛkaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ntumi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ngya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "sɛ ɔgya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ɔbɛwu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:37.790761611Z",
+  "model": "glm-5.3"
+}

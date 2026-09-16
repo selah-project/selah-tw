@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "leviticus 20:16", "book": "leviticus", "lang": "tw", "chapter": 20, "translation": "Na ɔbaa a ɔbɛkɔ mmoa biara nkyɛn sɛ ɔda ⟨את⟩ no so, kum ɔbaa ⟨את⟩ no ne ⟨את⟩ mmoa no; wɔmmu wɔn; wɔn mogye wɔ wɔn so.", "tokens": [{"surface": "ואשה", "gloss": "Na ɔbaa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "תקרב", "gloss": "ɔbɛkɔ"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "כל", "gloss": "biara"}, {"surface": "בהמה", "gloss": "mmoa"}, {"surface": "לרבעה", "gloss": "sɛ ɔbɛda ne so"}, {"surface": "אתה", "gloss": "⟨את⟩ no"}, {"surface": "והרגת", "gloss": "kum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔbaa no"}, {"surface": "האשה", "gloss": "ɔbaa no"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "mmoa no"}, {"surface": "הבהמה", "gloss": "mmoa no"}, {"surface": "מות", "gloss": "wɔmmu"}, {"surface": "יומתו", "gloss": "wɔmmu wɔn"}, {"surface": "דמיהם", "gloss": "wɔn mogye"}, {"surface": "בם", "gloss": "wɔ wɔn so"}], "timestamp": "2026-09-15T21:20:43.021070679Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ɔbaa a ɔbɛkɔ mmoa biara nkyɛn sɛ ɔda ⟨את⟩ no so, kum ɔbaa ⟨את⟩ no ne ⟨את⟩ mmoa no; wɔmmu wɔn; wɔn mogye wɔ wɔn so.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Na ɔbaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ɔbɛkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "sɛ ɔbɛda ne so"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbaa no"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "mmoa no"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mmoa no"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wɔmmu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "wɔmmu wɔn"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "wɔn mogye"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔ wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:43.021070679Z",
+  "model": "glm-5.3"
+}

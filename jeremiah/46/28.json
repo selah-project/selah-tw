@@ -1,1 +1,122 @@
-{"tier":"glm-5.2","verse":28,"ref":"jeremiah 46:28","book":"jeremiah","lang":"tw","chapter":46,"translation":"Wo, me ɔsomfoɔ Yakob, nsuro, Yawe de asɛm no to gu; efisɛ me ne ⟨את⟩ wo; efisɛ mɛyɛ awiee koraa wɔ aman nyinaa a mekɔɔ so guu ⟨את⟩ wo hɔ no mu; nanso wo, mmɛyɛ awiee koraa; mɛyɛ wo atɛnterɛ atemmu, na mɛmpam wo pefee da.","tokens":[{"surface":"אתה","gloss":"Wo"},{"surface":"אל","gloss":"n-"},{"surface":"תירא","gloss":"suro"},{"surface":"עבדי","gloss":"me ɔsomfoɔ"},{"surface":"יעקב","gloss":"Yakob"},{"surface":"נאם","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"כי","gloss":"efisɛ"},{"surface":"אתך","gloss":"⟨את⟩ wo"},{"surface":"אני","gloss":"me"},{"surface":"כי","gloss":"efisɛ"},{"surface":"אעשה","gloss":"mɛyɛ"},{"surface":"כלה","gloss":"awiee koraa"},{"surface":"בכל","gloss":"wɔ ... nyinaa"},{"surface":"הגוים","gloss":"aman"},{"surface":"אשר","gloss":"a"},{"surface":"הדחתיך","gloss":"mekɔɔ so guu wo"},{"surface":"שמה","gloss":"hɔ"},{"surface":"ואתך","gloss":"⟨את⟩ wo","marks":"wo"},{"surface":"לא","gloss":"m-"},{"surface":"אעשה","gloss":"ɛyɛ"},{"surface":"כלה","gloss":"awiee koraa"},{"surface":"ויסרתיך","gloss":"mɛyɛ wo atɛnterɛ"},{"surface":"למשפט","gloss":"atemmu"},{"surface":"ונקה","gloss":"mɛmpam"},{"surface":"לא","gloss":"-da"},{"surface":"אנקך","gloss":"wo pefee"}],"timestamp":"2026-09-16T00:29:55.239545428Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 46:28",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Wo, me ɔsomfoɔ Yakob, nsuro, Yawe de asɛm no to gu; efisɛ me ne ⟨את⟩ wo; efisɛ mɛyɛ awiee koraa wɔ aman nyinaa a mekɔɔ so guu ⟨את⟩ wo hɔ no mu; nanso wo, mmɛyɛ awiee koraa; mɛyɛ wo atɛnterɛ atemmu, na mɛmpam wo pefee da.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "me ɔsomfoɔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mɛyɛ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "awiee koraa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הדחתיך",
+      "gloss": "mekɔɔ so guu wo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m-"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "awiee koraa"
+    },
+    {
+      "surface": "ויסרתיך",
+      "gloss": "mɛyɛ wo atɛnterɛ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "mɛmpam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-da"
+    },
+    {
+      "surface": "אנקך",
+      "gloss": "wo pefee"
+    }
+  ],
+  "timestamp": "2026-09-16T00:29:55.239545428Z",
+  "model": "glm-5.3"
+}

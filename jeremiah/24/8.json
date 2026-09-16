@@ -1,1 +1,124 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "jeremiah 24:8", "book": "jeremiah", "lang": "tw", "chapter": 24, "translation": "Na sɛnea anantwire bɔne a wonnhu sɛ ɛyɛ dɛ wɔbɛdi esiane bɔne nti, Yawe ka sɛ: Sɛnea ara mɛma ⟨את⟩ Tsidkiyahu, Yuda ɔhene, ne ⟨את⟩ ne mpanimfoɔ, ne ⟨את⟩ Yerusalem nkaeɛ a wɔaka wɔ asase yi so, ne wɔn a wɔte Misraim asase so no.", "tokens": [{"surface": "וכתאנים", "gloss": "Na sɛnea anantwire"}, {"surface": "הרעות", "gloss": "bɔne"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "wennhu"}, {"surface": "תאכלנה", "gloss": "sɛ ɛyɛ dɛ wɔbɛdi"}, {"surface": "מרע", "gloss": "esiane bɔne"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "כה", "gloss": "Sɛnea ara"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "כן", "gloss": "sɛ"}, {"surface": "אתן", "gloss": "mɛma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Tsidkiyahu"}, {"surface": "צדקיהו", "gloss": "Tsidkiyahu"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne mpanimfoɔ"}, {"surface": "שריו", "gloss": "ne mpanimfoɔ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Yerusalem nkaeɛ"}, {"surface": "שארית", "gloss": "nkaeɛ"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "הנשארים", "gloss": "a wɔaka"}, {"surface": "בארץ", "gloss": "wɔ asase"}, {"surface": "הזאת", "gloss": "yi so"}, {"surface": "והישבים", "gloss": "ne wɔn a wɔte"}, {"surface": "בארץ", "gloss": "wɔ asase"}, {"surface": "מצרים", "gloss": "Misraim"}], "timestamp": "2026-09-16T05:30:13.448251082Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 24:8",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na sɛnea anantwire bɔne a wonnhu sɛ ɛyɛ dɛ wɔbɛdi esiane bɔne nti, Yawe ka sɛ: Sɛnea ara mɛma ⟨את⟩ Tsidkiyahu, Yuda ɔhene, ne ⟨את⟩ ne mpanimfoɔ, ne ⟨את⟩ Yerusalem nkaeɛ a wɔaka wɔ asase yi so, ne wɔn a wɔte Misraim asase so no.",
+  "tokens": [
+    {
+      "surface": "וכתאנים",
+      "gloss": "Na sɛnea anantwire"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wennhu"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "sɛ ɛyɛ dɛ wɔbɛdi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "esiane bɔne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sɛnea ara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mɛma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mpanimfoɔ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ne mpanimfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem nkaeɛ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a wɔaka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi so"
+    },
+    {
+      "surface": "והישבים",
+      "gloss": "ne wɔn a wɔte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:30:13.448251082Z",
+  "model": "glm-5.3"
+}

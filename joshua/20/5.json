@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "joshua 20:5", "book": "joshua", "lang": "tw", "chapter": 20, "translation": "Na sɛ mogya no ɔgye-ɔhawfoɔ toa hmɔ no a, wɔremmma ⟨את⟩ kumfoɔ no nkɔma no nsa mu, ɛfiri sɛ ɔkumm ⟨את⟩ ne yɔnko wɔ nimdeɛ biara nni hɔ mu, na ɔtanee no firi mfitiaseɛ.", "tokens": [{"surface": "וכי", "gloss": "na sɛ"}, {"surface": "ירדף", "gloss": "toa hmɔ"}, {"surface": "גאל", "gloss": "ɔgye-ɔhawfoɔ"}, {"surface": "הדם", "gloss": "mogya no"}, {"surface": "אחריו", "gloss": "no akyi"}, {"surface": "ולא", "gloss": "na wɔrenkwati"}, {"surface": "יסגרו", "gloss": "wɔremmma no nkɔma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kumfoɔ no"}, {"surface": "הרצח", "gloss": "kumfoɔ no"}, {"surface": "בידו", "gloss": "no nsa mu"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "בבלי", "gloss": "wɔ nimdeɛ biara nni hɔ mu"}, {"surface": "דעת", "gloss": "nimdeɛ"}, {"surface": "הכה", "gloss": "ɔkumm"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne yɔnko"}, {"surface": "רעהו", "gloss": "ne yɔnko"}, {"surface": "ולא", "gloss": "na ɔantow"}, {"surface": "שנא", "gloss": "ɔtanee"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "לו", "gloss": "no"}, {"surface": "מתמול", "gloss": "firi ndɛnuo"}, {"surface": "שלשום", "gloss": "wo mfitiaseɛ"}], "timestamp": "2026-09-15T22:09:25.640551344Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na sɛ mogya no ɔgye-ɔhawfoɔ toa hmɔ no a, wɔremmma ⟨את⟩ kumfoɔ no nkɔma no nsa mu, ɛfiri sɛ ɔkumm ⟨את⟩ ne yɔnko wɔ nimdeɛ biara nni hɔ mu, na ɔtanee no firi mfitiaseɛ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "toa hmɔ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ɔgye-ɔhawfoɔ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "no akyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔrenkwati"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "wɔremmma no nkɔma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumfoɔ no"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "kumfoɔ no"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "no nsa mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "wɔ nimdeɛ biara nni hɔ mu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nimdeɛ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ɔkumm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yɔnko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔantow"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ɔtanee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "firi ndɛnuo"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "wo mfitiaseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:09:25.640551344Z",
+  "model": "glm-5.3"
+}

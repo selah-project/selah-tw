@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 101:8","book":"psalms","lang":"tw","chapter":101,"translation":"Anɔpatutuutu mɛpow asase no bɔnefoɔ nyinaa, na matu Yawe kurom ayɔnkofoɔ nyinaa.","tokens":[{"surface":"לבקרים","gloss":"anɔpatutuutu"},{"surface":"אצמית","gloss":"mɛpow"},{"surface":"כל","gloss":"nyinaa"},{"surface":"רשעי","gloss":"bɔnefoɔ"},{"surface":"ארץ","gloss":"asase no"},{"surface":"להכרית","gloss":"na matu"},{"surface":"מעיר","gloss":"kurom"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"כל","gloss":"nyinaa"},{"surface":"פעלי","gloss":"ayɔnkofoɔ"},{"surface":"און","gloss":"bɔne"}],"timestamp":"2026-09-16T02:19:08.107374702Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 101,
+  "translation": "Anɔpatutuutu mɛpow asase no bɔnefoɔ nyinaa, na matu Yawe kurom ayɔnkofoɔ nyinaa.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "anɔpatutuutu"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "mɛpow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "na matu"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kurom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ayɔnkofoɔ"
+    },
+    {
+      "surface": "און",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T02:19:08.107374702Z",
+  "model": "glm-5.3"
+}

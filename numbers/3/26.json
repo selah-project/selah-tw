@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":26,"ref":"numbers 3:26","book":"numbers","lang":"tw","chapter":3,"translation":"Ne nsɔnhodoɔ a ɛwɔ awia afuo no mu, ne ⟨את⟩ nkyɛnmu nhwiren a ɛwɔ awia afuo no ano, a ɛwɔ mmeamudua no ne bɔfo no so ahoɔden, ne ⟨את⟩ ne nnyaadeɛ, de wɔ ne somdwuma nyinaa.","tokens":[{"surface":"וקלעי","gloss":"ne nsɔnhodoɔ"},{"surface":"החצר","gloss":"awia afuo no"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nkyɛnmu nhwiren"},{"surface":"מסך","gloss":"nkyɛnmu nhwiren"},{"surface":"פתח","gloss":"ano"},{"surface":"החצר","gloss":"awia afuo no"},{"surface":"אשר","gloss":"a"},{"surface":"על","gloss":"so"},{"surface":"המשכן","gloss":"mmeamudua no"},{"surface":"ועל","gloss":"ne ... so"},{"surface":"המזבח","gloss":"bɔfo no"},{"surface":"סביב","gloss":"ahoɔden"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ne nnyaadeɛ"},{"surface":"מיתריו","gloss":"ne nnyaadeɛ"},{"surface":"לכל","gloss":"nyinaa"},{"surface":"עבדתו","gloss":"ne somdwuma"}],"timestamp":"2026-09-15T21:24:54.401532424Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ne nsɔnhodoɔ a ɛwɔ awia afuo no mu, ne ⟨את⟩ nkyɛnmu nhwiren a ɛwɔ awia afuo no ano, a ɛwɔ mmeamudua no ne bɔfo no so ahoɔden, ne ⟨את⟩ ne nnyaadeɛ, de wɔ ne somdwuma nyinaa.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "ne nsɔnhodoɔ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "awia afuo no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkyɛnmu nhwiren"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "nkyɛnmu nhwiren"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "awia afuo no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mmeamudua no"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bɔfo no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnyaadeɛ"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "ne nnyaadeɛ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ne somdwuma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:54.401532424Z",
+  "model": "glm-5.3"
+}

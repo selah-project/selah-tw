@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":21,"ref":"jeremiah 2:21","book":"jeremiah","lang":"tw","chapter":2,"translation":"Na mene de, metutuu wo safɛ pa, nhwiren nyinaa yɛ nokware; na adɛn na wode wo ho asesa ama me ayɛ safɛ a atera mu, ɔhɔho dea?","tokens":[{"surface":"ואנכי","gloss":"na mene"},{"surface":"נטעתיך","gloss":"metutuu wo"},{"surface":"שרק","gloss":"safɛ pa"},{"surface":"כלה","gloss":"nyinaa"},{"surface":"זרע","gloss":"nhwiren"},{"surface":"אמת","gloss":"nokware"},{"surface":"ואיך","gloss":"na adɛn"},{"surface":"נהפכת","gloss":"wode wo ho asesa"},{"surface":"לי","gloss":"ama me"},{"surface":"סורי","gloss":"atera mu"},{"surface":"הגפן","gloss":"⟨the⟩ safɛ"},{"surface":"נכריה","gloss":"ɔhɔho dea"}],"timestamp":"2026-09-16T00:05:50.477904709Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 2:21",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na mene de, metutuu wo safɛ pa, nhwiren nyinaa yɛ nokware; na adɛn na wode wo ho asesa ama me ayɛ safɛ a atera mu, ɔhɔho dea?",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "na mene"
+    },
+    {
+      "surface": "נטעתיך",
+      "gloss": "metutuu wo"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "safɛ pa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nhwiren"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokware"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na adɛn"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "wode wo ho asesa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    },
+    {
+      "surface": "סורי",
+      "gloss": "atera mu"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "⟨the⟩ safɛ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ɔhɔho dea"
+    }
+  ],
+  "timestamp": "2026-09-16T00:05:50.477904709Z",
+  "model": "glm-5.3"
+}

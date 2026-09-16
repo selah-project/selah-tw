@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":45,"ref":"joshua 21:45","book":"joshua","lang":"tw","chapter":21,"translation":"Asɛm baako mpo anmoa wɔ nsɛm pa nyinaa mu a Yawe kaa kyerɛɛ Yisraelfie; ne nyinaa siiɛ.","tokens":[{"surface":"לא","gloss":"mpo anmoa"},{"surface":"נפל","gloss":"anmoa"},{"surface":"דבר","gloss":"Asɛm baako"},{"surface":"מכל","gloss":"wɔ ... nyinaa mu"},{"surface":"הדבר","gloss":"nsɛm"},{"surface":"הטוב","gloss":"pa"},{"surface":"אשר","gloss":"a"},{"surface":"דבר","gloss":"kaa kyerɛɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אל","gloss":"kerɛɛ"},{"surface":"בית","gloss":"Yisraelfie"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"הכל","gloss":"ne nyinaa"},{"surface":"בא","gloss":"siiɛ"}],"timestamp":"2026-09-15T22:07:58.066113602Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Asɛm baako mpo anmoa wɔ nsɛm pa nyinaa mu a Yawe kaa kyerɛɛ Yisraelfie; ne nyinaa siiɛ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mpo anmoa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "anmoa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Asɛm baako"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kerɛɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Yisraelfie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "siiɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:07:58.066113602Z",
+  "model": "glm-5.3"
+}

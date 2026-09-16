@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":3,"ref":"jeremiah 8:3","book":"jeremiah","lang":"tw","chapter":8,"translation":"Na owu bɛyɛ nea wɔpaw sen nkwa ma nkaeɛ nyinaa a wɔaka wɔ abusua bɔne yi mu, a wɔwɔ mmea nyinaa a mahyɛɛ wɔn guo hɔ no, Yawe Tsebaot asɛm deɛ.","tokens":[{"surface":"ונבחר","gloss":"na ... bɛyɛ nea wɔpaw"},{"surface":"מות","gloss":"owu"},{"surface":"מחיים","gloss":"sen nkwa"},{"surface":"לכל","gloss":"ma nyinaa"},{"surface":"השארית","gloss":"nkaeɛ"},{"surface":"הנשארים","gloss":"a wɔaka"},{"surface":"מן","gloss":"wɔ ... mu"},{"surface":"המשפחה","gloss":"abusua"},{"surface":"הרעה","gloss":"bɔne"},{"surface":"הזאת","gloss":"yi"},{"surface":"בכל","gloss":"wɔ nyinaa"},{"surface":"המקמות","gloss":"mmea"},{"surface":"הנשארים","gloss":"a wɔwɔ"},{"surface":"אשר","gloss":"a"},{"surface":"הדחתים","gloss":"mahyɛɛ wɔn guo"},{"surface":"שם","gloss":"hɔ"},{"surface":"נאם","gloss":"asɛm deɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"}],"timestamp":"2026-09-16T00:08:50.936571718Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 8:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na owu bɛyɛ nea wɔpaw sen nkwa ma nkaeɛ nyinaa a wɔaka wɔ abusua bɔne yi mu, a wɔwɔ mmea nyinaa a mahyɛɛ wɔn guo hɔ no, Yawe Tsebaot asɛm deɛ.",
+  "tokens": [
+    {
+      "surface": "ונבחר",
+      "gloss": "na ... bɛyɛ nea wɔpaw"
+    },
+    {
+      "surface": "מות",
+      "gloss": "owu"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "sen nkwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma nyinaa"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a wɔaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ nyinaa"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "mmea"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a wɔwɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הדחתים",
+      "gloss": "mahyɛɛ wɔn guo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm deɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T00:08:50.936571718Z",
+  "model": "glm-5.3"
+}

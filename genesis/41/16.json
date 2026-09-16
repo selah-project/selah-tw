@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "genesis 41:16", "book": "genesis", "lang": "tw", "chapter": 41, "translation": "Yosef buaa ⟨את⟩ Paroh so sɛ: Ɛnyɛ me; Eloohim na ɔbɛma Paroh ⟨את⟩ asomdwoe mmuae.", "tokens": [{"surface": "ויען", "gloss": "buaa"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Paroh"}, {"surface": "פרעה", "gloss": "Paroh"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "בלעדי", "gloss": "Ɛnyɛ me"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "יענה", "gloss": "ɔbɛma… mmuae"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asomdwoe mmuae"}, {"surface": "שלום", "gloss": "asomdwoe"}, {"surface": "פרעה", "gloss": "Paroh"}], "timestamp": "2026-09-15T20:37:06.729768033Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Yosef buaa ⟨את⟩ Paroh so sɛ: Ɛnyɛ me; Eloohim na ɔbɛma Paroh ⟨את⟩ asomdwoe mmuae.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Ɛnyɛ me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ɔbɛma… mmuae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asomdwoe mmuae"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:06.729768033Z",
+  "model": "glm-5.3"
+}

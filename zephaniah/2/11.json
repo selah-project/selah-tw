@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "zephaniah 2:11", "book": "zephaniah", "lang": "tw", "chapter": 2, "translation": "Yawe bɛyɛ ɛsɛm wɔ wɔn so, efisɛ ɔbɛma asase no ⟨את⟩ nyinaa anyame nyinaa ayɛ fie; na amanfoɔ a wɔwɔ mpoano nyinaa bɛkɔso no, obiara firi ne baabi — amanamanmpoano nyinaa.", "tokens": [{"surface": "נורא", "gloss": "bɛyɛ ɛsɛm"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עליהם", "gloss": "wɔ ... so"}, {"surface": "כי", "gloss": "efisɛ"}, {"surface": "רזה", "gloss": "bɛma ... ayɛ fie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no nyinaa anyame nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אלהי", "gloss": "anyame"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "וישתחוו", "gloss": "bɛkɔso"}, {"surface": "לו", "gloss": "no"}, {"surface": "איש", "gloss": "obiara"}, {"surface": "ממקומו", "gloss": "firi ne baabi"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "איי", "gloss": "mpoano"}, {"surface": "הגוים", "gloss": "amanamanmpoano"}], "timestamp": "2026-09-16T01:22:12.599111211Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Yawe bɛyɛ ɛsɛm wɔ wɔn so, efisɛ ɔbɛma asase no ⟨את⟩ nyinaa anyame nyinaa ayɛ fie; na amanfoɔ a wɔwɔ mpoano nyinaa bɛkɔso no, obiara firi ne baabi — amanamanmpoano nyinaa.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "bɛyɛ ɛsɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "bɛma ... ayɛ fie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no nyinaa anyame nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "anyame"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bɛkɔso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "firi ne baabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "איי",
+      "gloss": "mpoano"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanamanmpoano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:22:12.599111211Z",
+  "model": "glm-5.3"
+}

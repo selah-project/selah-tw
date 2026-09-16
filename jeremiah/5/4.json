@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 5:4","book":"jeremiah","lang":"tw","chapter":5,"translation":"Na me de, mekaa sɛ: nokorɛ sɛ, wɔyɛ ahiafoɔ; wɔyɛɛ akokɔfoɔ, ɛfiri sɛ wɔnnim Yawe kwan, ne wɔn Eloohim atemmu.","tokens":[{"surface":"ואני","gloss":"Na me de"},{"surface":"אמרתי","gloss":"mekaa sɛ"},{"surface":"אך","gloss":"nokorɛ sɛ"},{"surface":"דלים","gloss":"ahiafoɔ"},{"surface":"הם","gloss":"wɔyɛ"},{"surface":"נואלו","gloss":"wɔyɛɛ akokɔfoɔ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"לא","gloss":"nnim ... da"},{"surface":"ידעו","gloss":"wɔnnim"},{"surface":"דרך","gloss":"kwan"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"משפט","gloss":"atemmu"},{"surface":"אלהיהם","gloss":"wɔn Eloohim"}],"timestamp":"2026-09-16T05:28:03.924389900Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 5:4",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na me de, mekaa sɛ: nokorɛ sɛ, wɔyɛ ahiafoɔ; wɔyɛɛ akokɔfoɔ, ɛfiri sɛ wɔnnim Yawe kwan, ne wɔn Eloohim atemmu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me de"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mekaa sɛ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nokorɛ sɛ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "נואלו",
+      "gloss": "wɔyɛɛ akokɔfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim ... da"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔnnim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:28:03.924389900Z",
+  "model": "glm-5.3"
+}

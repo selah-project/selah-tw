@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "esther 9:16", "book": "esther", "lang": "tw", "chapter": 9, "translation": "Na Yehudifoɔ a aka a wɔwɔ ɔhene no aman mu no bɔɔ wɔn ho bo, gyinaa hɔ maa wɔn nkwa, na wɔnya home firi wɔn atamfoɔ nsam, na wɔkum wɔn atamfoɔ no mu nnipa 75,000; na ⟨את⟩ wɔn nsa annkɔ asɛe no so koraa.", "tokens": [{"surface": "ושאר", "gloss": "na deɛ aka"}, {"surface": "היהודים", "gloss": "Yehudifoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "במדינות", "gloss": "wɔ aman mu"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "נקהלו", "gloss": "bɔɔ wɔn ho bo"}, {"surface": "ועמד", "gloss": "na wɔgyinaeɛ"}, {"surface": "על", "gloss": "maa"}, {"surface": "נפשם", "gloss": "wɔn nkwa"}, {"surface": "ונוח", "gloss": "na wɔnya home"}, {"surface": "מאיביהם", "gloss": "firi wɔn atamfoɔ nsam"}, {"surface": "והרג", "gloss": "na wɔkum"}, {"surface": "בשנאיהם", "gloss": "wɔn atamfoɔ no mu"}, {"surface": "חמשה", "gloss": "num"}, {"surface": "ושבעים", "gloss": "ne aduɔson"}, {"surface": "אלף", "gloss": "apem"}, {"surface": "ובבזה", "gloss": "na asɛe no so"}, {"surface": "לא", "gloss": "annkɔ koraa"}, {"surface": "שלחו", "gloss": "wɔantow wɔn nsa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nsa"}, {"surface": "ידם", "gloss": "wɔn nsa"}], "timestamp": "2026-09-16T05:50:09.613009587Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 9:16",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Yehudifoɔ a aka a wɔwɔ ɔhene no aman mu no bɔɔ wɔn ho bo, gyinaa hɔ maa wɔn nkwa, na wɔnya home firi wɔn atamfoɔ nsam, na wɔkum wɔn atamfoɔ no mu nnipa 75,000; na ⟨את⟩ wɔn nsa annkɔ asɛe no so koraa.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "na deɛ aka"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudifoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "wɔ aman mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "נקהלו",
+      "gloss": "bɔɔ wɔn ho bo"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "na wɔgyinaeɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "maa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn nkwa"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "na wɔnya home"
+    },
+    {
+      "surface": "מאיביהם",
+      "gloss": "firi wɔn atamfoɔ nsam"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "na wɔkum"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "wɔn atamfoɔ no mu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "num"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ne aduɔson"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "na asɛe no so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annkɔ koraa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wɔantow wɔn nsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "wɔn nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:50:09.613009587Z",
+  "model": "glm-5.3"
+}

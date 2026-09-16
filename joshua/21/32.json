@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "joshua 21:32", "book": "joshua", "lang": "tw", "chapter": 21, "translation": "Na firi Naftali abusuakuo no mu: ⟨את⟩ kurow a ɛyɛ guankɔbea ma ɔkumfoɔ no — ⟨את⟩ Kedesh wɔ Galil ne ⟨את⟩ ne mmeaeɛ, ⟨את⟩ Chamot-Dor ne ⟨את⟩ ne mmeaeɛ, na ⟨את⟩ Kartan ne ne mmeaeɛ — n⟨את⟩ kurow ɛmiɛnsa.", "tokens": [{"surface": "וממטה", "gloss": "na firi abusuakuo no mu"}, {"surface": "נפתלי", "gloss": "Naftali"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kurow a ɛyɛ guankɔbea"}, {"surface": "עיר", "gloss": "kurow"}, {"surface": "מקלט", "gloss": "guankɔbea"}, {"surface": "הרצח", "gloss": "ma ɔkumfoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Kedesh"}, {"surface": "קדש", "gloss": "Kedesh"}, {"surface": "בגליל", "gloss": "wɔ Galil"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne mmeaeɛ"}, {"surface": "מגרשה", "gloss": "ne mmeaeɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Chamot-Dor"}, {"surface": "חמת", "gloss": "Chamot"}, {"surface": "דאר", "gloss": "Dor"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne mmeaeɛ"}, {"surface": "מגרשה", "gloss": "ne mmeaeɛ"}, {"surface": "ואת", "gloss": "na ⟨את⟩", "marks": "Kartan"}, {"surface": "קרתן", "gloss": "Kartan"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne mmeaeɛ"}, {"surface": "מגרשה", "gloss": "ne mmeaeɛ"}, {"surface": "ערים", "gloss": "nkurow"}, {"surface": "שלש", "gloss": "ɛmiɛnsa"}], "timestamp": "2026-09-15T22:08:56.269103914Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 21:32",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na firi Naftali abusuakuo no mu: ⟨את⟩ kurow a ɛyɛ guankɔbea ma ɔkumfoɔ no — ⟨את⟩ Kedesh wɔ Galil ne ⟨את⟩ ne mmeaeɛ, ⟨את⟩ Chamot-Dor ne ⟨את⟩ ne mmeaeɛ, na ⟨את⟩ Kartan ne ne mmeaeɛ — n⟨את⟩ kurow ɛmiɛnsa.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na firi abusuakuo no mu"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow a ɛyɛ guankɔbea"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "guankɔbea"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ma ɔkumfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "wɔ Galil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmeaeɛ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmeaeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chamot-Dor"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamot"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmeaeɛ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmeaeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kartan"
+    },
+    {
+      "surface": "קרתן",
+      "gloss": "Kartan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmeaeɛ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmeaeɛ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ɛmiɛnsa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:56.269103914Z",
+  "model": "glm-5.3"
+}

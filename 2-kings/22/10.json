@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":10,"ref":"2-kings 22:10","book":"2-kings","lang":"tw","chapter":22,"translation":"Na Shafan ɔtwerɛfoɔ no kyerɛɛ ɔhene no sɛ, Hilkia ɔsɔfoɔ no maa me nwoma; na Shafan kenkanee no wɔ ɔhene no anim.","tokens":[{"surface":"ויגד","gloss":"na ɔkyerɛɛ"},{"surface":"שפן","gloss":"Shafan"},{"surface":"הספר","gloss":"ɔtwerɛfoɔ no"},{"surface":"למלך","gloss":"ɔhene no"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"ספר","gloss":"nwoma"},{"surface":"נתן","gloss":"maa"},{"surface":"לי","gloss":"me"},{"surface":"חלקיה","gloss":"Hilkia"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"ויקראהו","gloss":"na ɔkenkanee no"},{"surface":"שפן","gloss":"Shafan"},{"surface":"לפני","gloss":"wɔ anim"},{"surface":"המלך","gloss":"ɔhene no"}],"timestamp":"2026-09-15T23:37:37.747695813Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na Shafan ɔtwerɛfoɔ no kyerɛɛ ɔhene no sɛ, Hilkia ɔsɔfoɔ no maa me nwoma; na Shafan kenkanee no wɔ ɔhene no anim.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "na ɔkyerɛɛ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ɔtwerɛfoɔ no"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "na ɔkenkanee no"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:37:37.747695813Z",
+  "model": "glm-5.3"
+}

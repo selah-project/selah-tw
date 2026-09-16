@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":30,"ref":"numbers 11:30","book":"numbers","lang":"tw","chapter":11,"translation":"Na Moshe san kɔɔ asafo atrae no mu, ɔno ne Yisrael mpanyimfoɔ no.","tokens":[{"surface":"ויאסף","gloss":"san kɔɔ"},{"surface":"משה","gloss":"Moshe"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"המחנה","gloss":"asafo atrae no mu"},{"surface":"הוא","gloss":"ɔno"},{"surface":"וזקני","gloss":"ne mpanyimfoɔ"},{"surface":"ישראל","gloss":"Yisrael"}],"timestamp":"2026-09-15T21:32:44.719695339Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Moshe san kɔɔ asafo atrae no mu, ɔno ne Yisrael mpanyimfoɔ no.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "san kɔɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "asafo atrae no mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ne mpanyimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T21:32:44.719695339Z",
+  "model": "glm-5.3"
+}

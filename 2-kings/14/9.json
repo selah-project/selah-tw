@@ -1,1 +1,139 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "2-kings 14:9", "book": "2-kings", "lang": "tw", "chapter": 14, "translation": "Na Yehoash, Yisrael ɔhene, somaa asɛm kɔɔ Amatsiahu, Yuda ɔhene no hɔ, se: \"Kasakasa dua a ɛwɔ Lebanon no somaa asɛm kɔɔ seda dua a ɛwɔ Lebanon no hɔ, se: \"Ma ⟨את⟩ wo ba no ware m'abarimaa.\" Na moa a ɛwɔ Lebanon no tu kwan yii, na ɛboroo ⟨את⟩ kasakasa dua no so.\"", "tokens": [{"surface": "וישלח", "gloss": "somaa asɛm"}, {"surface": "יהואש", "gloss": "Yehoash"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "אמציהו", "gloss": "Amatsiahu"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "לאמר", "gloss": "se"}, {"surface": "החוח", "gloss": "kasakasa dua"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בלבנון", "gloss": "wɔ Lebanon"}, {"surface": "שלח", "gloss": "somaa asɛm"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "הארז", "gloss": "seda dua"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בלבנון", "gloss": "wɔ Lebanon"}, {"surface": "לאמר", "gloss": "se"}, {"surface": "תנה", "gloss": "Ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo ba no"}, {"surface": "בתך", "gloss": "wo ba"}, {"surface": "לבני", "gloss": "m'abarimaa"}, {"surface": "לאשה", "gloss": "ware"}, {"surface": "ותעבר", "gloss": "tuu kwan yii"}, {"surface": "חית", "gloss": "moa"}, {"surface": "השדה", "gloss": "wura"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בלבנון", "gloss": "wɔ Lebanon"}, {"surface": "ותרמס", "gloss": "boroo so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kasakasa dua no"}, {"surface": "החוח", "gloss": "kasakasa dua no"}], "timestamp": "2026-09-15T23:33:17.567910260Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 14:9",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Yehoash, Yisrael ɔhene, somaa asɛm kɔɔ Amatsiahu, Yuda ɔhene no hɔ, se: \"Kasakasa dua a ɛwɔ Lebanon no somaa asɛm kɔɔ seda dua a ɛwɔ Lebanon no hɔ, se: \"Ma ⟨את⟩ wo ba no ware m'abarimaa.\" Na moa a ɛwɔ Lebanon no tu kwan yii, na ɛboroo ⟨את⟩ kasakasa dua no so.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa asɛm"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "החוח",
+      "gloss": "kasakasa dua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "wɔ Lebanon"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "somaa asɛm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "seda dua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "wɔ Lebanon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ba no"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "m'abarimaa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ware"
+    },
+    {
+      "surface": "ותעבר",
+      "gloss": "tuu kwan yii"
+    },
+    {
+      "surface": "חית",
+      "gloss": "moa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "wɔ Lebanon"
+    },
+    {
+      "surface": "ותרמס",
+      "gloss": "boroo so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasakasa dua no"
+    },
+    {
+      "surface": "החוח",
+      "gloss": "kasakasa dua no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:17.567910260Z",
+  "model": "glm-5.3"
+}

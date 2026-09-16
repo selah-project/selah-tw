@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":15,"ref":"psalms 115:15","book":"psalms","lang":"tw","chapter":115,"translation":"Mo wɔ nhyira mu wɔ Yawe, Ɔyɛ ɔsoro ne asase.","tokens":[{"surface":"ברוכים","gloss":"wɔ nhyira mu"},{"surface":"אתם","gloss":"mo"},{"surface":"ליהוה","gloss":"wɔ Yawe"},{"surface":"עשה","gloss":"Ɔyɛ"},{"surface":"שמים","gloss":"ɔsoro"},{"surface":"וארץ","gloss":"ne asase"}],"timestamp":"2026-09-16T02:25:42.612577972Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 115,
+  "translation": "Mo wɔ nhyira mu wɔ Yawe, Ɔyɛ ɔsoro ne asase.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "wɔ nhyira mu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wɔ Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ɔyɛ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ne asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:42.612577972Z",
+  "model": "glm-5.3"
+}

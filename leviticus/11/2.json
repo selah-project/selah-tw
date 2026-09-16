@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":2,"ref":"leviticus 11:2","book":"leviticus","lang":"tw","chapter":11,"translation":"Kasa kyerɛ Yisrael mma, se: Mmoa yi ne deɛ mo bɛtumi adi, wɔ mmoa a wɔwɔ asase so nyinaa mu:","tokens":[{"surface":"דברו","gloss":"Kasa"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"לאמר","gloss":"se"},{"surface":"זאת","gloss":"yi"},{"surface":"החיה","gloss":"mmoa"},{"surface":"אשר","gloss":"a"},{"surface":"תאכלו","gloss":"mo bɛtumi adi"},{"surface":"מכל","gloss":"wɔ ... nyinaa mu"},{"surface":"הבהמה","gloss":"mmoa"},{"surface":"אשר","gloss":"a"},{"surface":"על","gloss":"so"},{"surface":"הארץ","gloss":"asase"}],"timestamp":"2026-09-15T21:12:42.620386104Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Kasa kyerɛ Yisrael mma, se: Mmoa yi ne deɛ mo bɛtumi adi, wɔ mmoa a wɔwɔ asase so nyinaa mu:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mo bɛtumi adi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:42.620386104Z",
+  "model": "glm-5.3"
+}

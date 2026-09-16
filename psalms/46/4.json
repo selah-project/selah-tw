@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 46:4","book":"psalms","lang":"tw","chapter":46,"translation":"Nnɛ no mu nsuo rebɔ dede, regyegye; mmepɔ no resesa wɔ n'ahantan mu. Selah.","tokens":[{"surface":"יהמו","gloss":"rebɔ dede"},{"surface":"יחמרו","gloss":"regyegye"},{"surface":"מימיו","gloss":"nnɛ no mu nsuo"},{"surface":"ירעשו","gloss":"resesa"},{"surface":"הרים","gloss":"mmepɔ"},{"surface":"בגאותו","gloss":"wɔ n'ahantan mu"},{"surface":"סלה","gloss":"Selah"}],"timestamp":"2026-09-16T01:52:31.563702326Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Nnɛ no mu nsuo rebɔ dede, regyegye; mmepɔ no resesa wɔ n'ahantan mu. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "rebɔ dede"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "regyegye"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "nnɛ no mu nsuo"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "resesa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "wɔ n'ahantan mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:31.563702326Z",
+  "model": "glm-5.3"
+}

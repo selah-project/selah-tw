@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "leviticus 8:22", "book": "leviticus", "lang": "tw", "chapter": 8, "translation": "Na ɔde ⟨את⟩ odwan a ɛtɔ so mmienu no baeɛ, ⟨את⟩ odwan a wɔde sie no; na Aharon ne ne mma de wɔn nsa too odwan no ti so.", "tokens": [{"surface": "ויקרב", "gloss": "ɔde baeɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "odwan a ɛtɔ so mmienu no"}, {"surface": "האיל", "gloss": "odwan"}, {"surface": "השני", "gloss": "a ɛtɔ so mmienu"}, {"surface": "איל", "gloss": "odwan"}, {"surface": "המלאים", "gloss": "a wɔde sie no"}, {"surface": "ויסמכו", "gloss": "de wɔn nsa too"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ובניו", "gloss": "ne ne mma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nsa"}, {"surface": "ידיהם", "gloss": "wɔn nsa"}, {"surface": "על", "gloss": "so"}, {"surface": "ראש", "gloss": "ti"}, {"surface": "האיל", "gloss": "odwan no"}], "timestamp": "2026-09-15T21:13:09.870346068Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔde ⟨את⟩ odwan a ɛtɔ so mmienu no baeɛ, ⟨את⟩ odwan a wɔde sie no; na Aharon ne ne mma de wɔn nsa too odwan no ti so.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɔde baeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odwan a ɛtɔ so mmienu no"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "odwan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "odwan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a wɔde sie no"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "de wɔn nsa too"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "odwan no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:09.870346068Z",
+  "model": "glm-5.3"
+}

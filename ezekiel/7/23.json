@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":23,"ref":"ezekiel 7:23","book":"ezekiel","lang":"tw","chapter":7,"translation":"Yɛ ntwam; ɛfiri sɛ asase afu mogya atem, na kurow afu basabasayɛ.","tokens":[{"surface":"עשה","gloss":"Yɛ"},{"surface":"הרתוק","gloss":"ntwam"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"הארץ","gloss":"⟨the⟩ asase"},{"surface":"מלאה","gloss":"afu"},{"surface":"משפט","gloss":"atem"},{"surface":"דמים","gloss":"mogya"},{"surface":"והעיר","gloss":"na ⟨the⟩ kurow"},{"surface":"מלאה","gloss":"afu"},{"surface":"חמס","gloss":"basabasayɛ"}],"timestamp":"2026-09-16T05:32:03.783468167Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yɛ ntwam; ɛfiri sɛ asase afu mogya atem, na kurow afu basabasayɛ.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "ntwam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ asase"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "afu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atem"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na ⟨the⟩ kurow"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "afu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "basabasayɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:32:03.783468167Z",
+  "model": "glm-5.3"
+}

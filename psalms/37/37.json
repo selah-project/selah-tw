@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":37,"ref":"psalms 37:37","book":"psalms","lang":"tw","chapter":37,"translation":"Hwɛ ⟨onipa a odii te⟩ na hwɛ onipa trenee, ɛfiri sɛ n'awieeɛ ne ⟨asomdwoe⟩.","tokens":[{"surface":"שמר","gloss":"Hwɛ"},{"surface":"תם","gloss":"onipa a odii te"},{"surface":"וראה","gloss":"na hwɛ"},{"surface":"ישר","gloss":"onipa trenee"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אחרית","gloss":"n'awieeɛ"},{"surface":"לאיש","gloss":"(onipa no)"},{"surface":"שלום","gloss":"asomdwoe"}],"timestamp":"2026-09-16T01:48:13.378863379Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Hwɛ ⟨onipa a odii te⟩ na hwɛ onipa trenee, ɛfiri sɛ n'awieeɛ ne ⟨asomdwoe⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "onipa a odii te"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "onipa trenee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "n'awieeɛ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "(onipa no)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:48:13.378863379Z",
+  "model": "glm-5.3"
+}

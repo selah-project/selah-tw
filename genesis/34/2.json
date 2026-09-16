@@ -1,1 +1,68 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "genesis 34:2", "book": "genesis", "lang": "tw", "chapter": 34, "translation": "⟨את⟩ Shekem, Chamor ba, Hivini no, a ɔyɛ asase no hene, hunuu ⟨את⟩ no; ɔde no tee, ⟨את⟩ odidi ne no, na ɔmaa no anihaaye.", "tokens": [{"surface": "וירא", "gloss": "hunuu"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "שכם", "gloss": "Shekem"}, {"surface": "בן", "gloss": "ba"}, {"surface": "חמור", "gloss": "Chamor"}, {"surface": "החוי", "gloss": "Hivini no"}, {"surface": "נשיא", "gloss": "hene"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "ויקח", "gloss": "ɔde no tee"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "וישכב", "gloss": "odidi ne no"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "ויענה", "gloss": "ɔmaa no anihaaye"}], "timestamp": "2026-09-15T20:34:12.070092680Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "⟨את⟩ Shekem, Chamor ba, Hivini no, a ɔyɛ asase no hene, hunuu ⟨את⟩ no; ɔde no tee, ⟨את⟩ odidi ne no, na ɔmaa no anihaaye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivini no"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "hene"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ɔde no tee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "odidi ne no"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ɔmaa no anihaaye"
+    }
+  ],
+  "timestamp": "2026-09-15T20:34:12.070092680Z",
+  "model": "glm-5.3"
+}

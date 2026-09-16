@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "ezekiel 38:4", "book": "ezekiel", "lang": "tw", "chapter": 38, "translation": "Mɛdane ⟨את⟩ wo akyi, na mede nkɔnsɔde bɛhyɛ wo anumu mu, na mede wo ne ⟨את⟩ wo asraafoɔ nyinaa bɛpue — apɔnkɔ ne apɔnkɔsofoɔ, wɔn nyinaa hyɛ atadeɛ a ɛyɛ fɛ, dɔm kɛseɛ a wɔwɔ abantenten ne banbɔ, wɔn nyinaa di afena:", "tokens": [{"surface": "ושובבתיך", "gloss": "Mɛdane wo akyi"}, {"surface": "ונתתי", "gloss": "na mede ... bɛhyɛ"}, {"surface": "חחים", "gloss": "nkɔnsɔde"}, {"surface": "בלחייך", "gloss": "wo anumu mu"}, {"surface": "והוצאתי", "gloss": "na ... bɛpue"}, {"surface": "אותך", "gloss": "⟨את⟩ wo"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wo asraafoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "חילך", "gloss": "wo asraafoɔ"}, {"surface": "סוסים", "gloss": "apɔnkɔ"}, {"surface": "ופרשים", "gloss": "ne apɔnkɔsofoɔ"}, {"surface": "לבשי", "gloss": "hyɛ"}, {"surface": "מכלול", "gloss": "adeɛ a ɛyɛ fɛ"}, {"surface": "כלם", "gloss": "wɔn nyinaa"}, {"surface": "קהל", "gloss": "dɔm"}, {"surface": "רב", "gloss": "kɛseɛ"}, {"surface": "צנה", "gloss": "abantenten"}, {"surface": "ומגן", "gloss": "ne banbɔ"}, {"surface": "תפשי", "gloss": "di"}, {"surface": "חרבות", "gloss": "afena"}, {"surface": "כלם", "gloss": "wɔn nyinaa"}], "timestamp": "2026-09-16T00:56:38.727259143Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 38:4",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Mɛdane ⟨את⟩ wo akyi, na mede nkɔnsɔde bɛhyɛ wo anumu mu, na mede wo ne ⟨את⟩ wo asraafoɔ nyinaa bɛpue — apɔnkɔ ne apɔnkɔsofoɔ, wɔn nyinaa hyɛ atadeɛ a ɛyɛ fɛ, dɔm kɛseɛ a wɔwɔ abantenten ne banbɔ, wɔn nyinaa di afena:",
+  "tokens": [
+    {
+      "surface": "ושובבתיך",
+      "gloss": "Mɛdane wo akyi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na mede ... bɛhyɛ"
+    },
+    {
+      "surface": "חחים",
+      "gloss": "nkɔnsɔde"
+    },
+    {
+      "surface": "בלחייך",
+      "gloss": "wo anumu mu"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "na ... bɛpue"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo asraafoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "wo asraafoɔ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "apɔnkɔ"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "ne apɔnkɔsofoɔ"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "מכלול",
+      "gloss": "adeɛ a ɛyɛ fɛ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "dɔm"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "abantenten"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ne banbɔ"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "di"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "afena"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wɔn nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T00:56:38.727259143Z",
+  "model": "glm-5.3"
+}

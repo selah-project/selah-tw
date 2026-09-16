@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":20,"ref":"psalms 80:20","book":"psalms","lang":"tw","chapter":80,"translation":"Yawe, Eloohim Tsevaot ⟨asafoɔ Awura⟩, sɔ yɛn san; ma wo anim hyerɛn, na yɛbɛnya nkwatia.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"השיבנו","gloss":"sɔ yɛn san"},{"surface":"האר","gloss":"ma... hyerɛn"},{"surface":"פניך","gloss":"wo anim"},{"surface":"ונושעה","gloss":"na yɛbɛnya nkwatia"}],"timestamp":"2026-09-16T02:11:41.152296850Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 80,
+  "translation": "Yawe, Eloohim Tsevaot ⟨asafoɔ Awura⟩, sɔ yɛn san; ma wo anim hyerɛn, na yɛbɛnya nkwatia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "sɔ yɛn san"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ma... hyerɛn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "na yɛbɛnya nkwatia"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:41.152296850Z",
+  "model": "glm-5.3"
+}

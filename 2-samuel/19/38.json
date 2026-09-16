@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":38,"ref":"2-samuel 19:38","book":"2-samuel","lang":"tw","chapter":19,"translation":"Ma wo akoadie nsan nkɔ, na mawuwu wɔ me kurow mu, wɔ m'agya asie ne me na'asie nkyɛn. Na hwɛ, wo akoadie Kimham, ɔnyɛ Adonai ɔhene nfa so, na yɛ ne ⟨את⟩ deɛ ɛyɛ papa wɔ wo nsam.","tokens":[{"surface":"ישב","gloss":"nsan nkɔ"},{"surface":"נא","gloss":"ma (mmɔbɔ)"},{"surface":"עבדך","gloss":"wo akoadie"},{"surface":"ואמת","gloss":"na mawuwu"},{"surface":"בעירי","gloss":"wɔ me kurow mu"},{"surface":"עם","gloss":"wɔ nkyɛn"},{"surface":"קבר","gloss":"asie"},{"surface":"אבי","gloss":"m'agya"},{"surface":"ואמי","gloss":"ne me na"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"עבדך","gloss":"wo akoadie"},{"surface":"כמהם","gloss":"Kimham"},{"surface":"יעבר","gloss":"ɔnfa so"},{"surface":"עם","gloss":"ne"},{"surface":"אדני","gloss":"Adonai"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"ועשה","gloss":"na yɛ"},{"surface":"לו","gloss":"ne"},{"surface":"את","gloss":"⟨את⟩","marks":"deε εyε papa"},{"surface":"אשר","gloss":"deɛ"},{"surface":"טוב","gloss":"ɛyɛ papa"},{"surface":"בעיניך","gloss":"wɔ wo nsam"}],"timestamp":"2026-09-15T23:07:59.409102565Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 19:38",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ma wo akoadie nsan nkɔ, na mawuwu wɔ me kurow mu, wɔ m'agya asie ne me na'asie nkyɛn. Na hwɛ, wo akoadie Kimham, ɔnyɛ Adonai ɔhene nfa so, na yɛ ne ⟨את⟩ deɛ ɛyɛ papa wɔ wo nsam.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "nsan nkɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma (mmɔbɔ)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoadie"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na mawuwu"
+    },
+    {
+      "surface": "בעירי",
+      "gloss": "wɔ me kurow mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ nkyɛn"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "asie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ne me na"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoadie"
+    },
+    {
+      "surface": "כמהם",
+      "gloss": "Kimham"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ɔnfa so"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na yɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deε εyε papa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "wɔ wo nsam"
+    }
+  ],
+  "timestamp": "2026-09-15T23:07:59.409102565Z",
+  "model": "glm-5.3"
+}

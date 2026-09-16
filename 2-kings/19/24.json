@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":24,"ref":"2-kings 19:24","book":"2-kings","lang":"tw","chapter":19,"translation":"Me na metutuu na menomaa ahɔhoɔ nsuo, na me nan ase na mayɛ Matsor asubɔnten nyinaa ayɛ kwa.","tokens":[{"surface":"אני","gloss":"me"},{"surface":"קרתי","gloss":"metutuu"},{"surface":"ושתיתי","gloss":"na menomaa"},{"surface":"מים","gloss":"nsuo"},{"surface":"זרים","gloss":"ahɔhoɔ"},{"surface":"ואחרב","gloss":"na mayɛ ... kwa"},{"surface":"בכף","gloss":"ase"},{"surface":"פעמי","gloss":"me nan"},{"surface":"כל","gloss":"nyinaa"},{"surface":"יארי","gloss":"asubɔnten"},{"surface":"מצור","gloss":"Matsor"}],"timestamp":"2026-09-15T23:36:02.081564818Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Me na metutuu na menomaa ahɔhoɔ nsuo, na me nan ase na mayɛ Matsor asubɔnten nyinaa ayɛ kwa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "metutuu"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "na menomaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "na mayɛ ... kwa"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ase"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "me nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    }
+  ],
+  "timestamp": "2026-09-15T23:36:02.081564818Z",
+  "model": "glm-5.3"
+}

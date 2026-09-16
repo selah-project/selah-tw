@@ -1,1 +1,57 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "genesis 44:28", "book": "genesis", "lang": "tw", "chapter": 44, "translation": "Baako no ⟨את⟩ firi me nkyɛn kɔɛ, na mekaa sɛ: “Ade twaa no mu koraa, twaa no mu!” Na minnhunu no kɔsi ɛnnɛ.", "tokens": [{"surface": "ויצא", "gloss": "kɔɛ"}, {"surface": "האחד", "gloss": "baako no"}, {"surface": "מאתי", "gloss": "firi me nkyɛn ⟨את⟩"}, {"surface": "ואמר", "gloss": "na mekaa sɛ"}, {"surface": "אך", "gloss": "koraa"}, {"surface": "טרף", "gloss": "twaa no mu"}, {"surface": "טרף", "gloss": "twaa no mu"}, {"surface": "ולא", "gloss": "na minnhunu"}, {"surface": "ראיתיו", "gloss": "no"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "הנה", "gloss": "ɛnnɛ"}], "timestamp": "2026-09-16T06:54:52.789705177Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Baako no ⟨את⟩ firi me nkyɛn kɔɛ, na mekaa sɛ: “Ade twaa no mu koraa, twaa no mu!” Na minnhunu no kɔsi ɛnnɛ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kɔɛ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako no"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "firi me nkyɛn ⟨את⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mekaa sɛ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "koraa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "twaa no mu"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "twaa no mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na minnhunu"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɛnnɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T06:54:52.789705177Z",
+  "model": "glm-5.3"
+}

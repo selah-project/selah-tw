@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":15,"ref":"psalms 86:15","book":"psalms","lang":"tw","chapter":86,"translation":"Na wo, Adonai, El a ɔyɛ mmɔborɔhunufoɔ ne adɔeɛfoɔ, wo bo fua akyɛ, na hesed ne nokorɛ dɔɔso.","tokens":[{"surface":"ואתה","gloss":"Na wo"},{"surface":"אדני","gloss":"Adonai"},{"surface":"אל","gloss":"El"},{"surface":"רחום","gloss":"mmɔborɔhunufoɔ"},{"surface":"וחנון","gloss":"ne adɔeɛfoɔ"},{"surface":"ארך","gloss":"akyɛ"},{"surface":"אפים","gloss":"wo bo fua"},{"surface":"ורב","gloss":"na ɛdɔɔso"},{"surface":"חסד","gloss":"hesed"},{"surface":"ואמת","gloss":"ne nokorɛ"}],"timestamp":"2026-09-16T02:13:42.132998807Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 86,
+  "translation": "Na wo, Adonai, El a ɔyɛ mmɔborɔhunufoɔ ne adɔeɛfoɔ, wo bo fua akyɛ, na hesed ne nokorɛ dɔɔso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "mmɔborɔhunufoɔ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ne adɔeɛfoɔ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "akyɛ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "wo bo fua"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na ɛdɔɔso"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ne nokorɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:13:42.132998807Z",
+  "model": "glm-5.3"
+}

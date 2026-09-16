@@ -1,1 +1,101 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "genesis 50:24", "book": "genesis", "lang": "tw", "chapter": 50, "translation": "Yosef ka kyerɛɛ n'nuanom seɛ, “Mene, mereyɛ owuo; na Eloohim bɛhwehwɛ ⟨את⟩ mo werɛ nokorɛ, na ɔde ⟨את⟩ mo bɛfiri ha asase yi mu akɔ asase a ɔtoo Abraham, Isak ne Yakob nkwa no so.”", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "אל", "gloss": "tia"}, {"surface": "אחיו", "gloss": "n'nuanom"}, {"surface": "אנכי", "gloss": "mene"}, {"surface": "מת", "gloss": "mereyɛ owuo"}, {"surface": "ואלהים", "gloss": "Eloohim"}, {"surface": "פקד", "gloss": "bɛhwehwɛ"}, {"surface": "יפקד", "gloss": "werɛ nokorɛ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "והעלה", "gloss": "bɛfiri"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "מן", "gloss": "mu"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "אל", "gloss": "akɔ"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נשבע", "gloss": "ɔtoo nkwa"}, {"surface": "לאברהם", "gloss": "Abraham"}, {"surface": "ליצחק", "gloss": "Isak"}, {"surface": "וליעקב", "gloss": "ne Yakob"}], "timestamp": "2026-09-15T20:42:35.972469853Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Yosef ka kyerɛɛ n'nuanom seɛ, “Mene, mereyɛ owuo; na Eloohim bɛhwehwɛ ⟨את⟩ mo werɛ nokorɛ, na ɔde ⟨את⟩ mo bɛfiri ha asase yi mu akɔ asase a ɔtoo Abraham, Isak ne Yakob nkwa no so.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tia"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'nuanom"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mereyɛ owuo"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "bɛhwehwɛ"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "werɛ nokorɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "bɛfiri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ɔtoo nkwa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ne Yakob"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:35.972469853Z",
+  "model": "glm-5.3"
+}

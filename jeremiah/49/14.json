@@ -1,1 +1,61 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "jeremiah 49:14", "book": "jeremiah", "lang": "tw", "chapter": 49, "translation": "Asɛm bi mete⟨את⟩ firi Yawe nkyɛn, na wɔde ananmusini asoma akɔ aman mu: Boabom mo ho na mo mmra ne so, mo nsɔre nkɔ ɔko no mu.", "tokens": [{"surface": "שמועה", "gloss": "Asɛm bi"}, {"surface": "שמעתי", "gloss": "mete"}, {"surface": "מאת", "gloss": "firi ⟨את⟩ Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "וציר", "gloss": "ananmusini"}, {"surface": "בגוים", "gloss": "aman mu"}, {"surface": "שלוח", "gloss": "wɔasoma"}, {"surface": "התקבצו", "gloss": "Boabom mo ho"}, {"surface": "ובאו", "gloss": "mo mmra"}, {"surface": "עליה", "gloss": "ne so"}, {"surface": "וקומו", "gloss": "mo nsɔre"}, {"surface": "למלחמה", "gloss": "nkɔ ɔko no mu"}], "timestamp": "2026-09-16T00:29:49.008436964Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Asɛm bi mete⟨את⟩ firi Yawe nkyɛn, na wɔde ananmusini asoma akɔ aman mu: Boabom mo ho na mo mmra ne so, mo nsɔre nkɔ ɔko no mu.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "Asɛm bi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mete"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩ Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ananmusini"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "aman mu"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "wɔasoma"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "Boabom mo ho"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mo mmra"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "mo nsɔre"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "nkɔ ɔko no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:29:49.008436964Z",
+  "model": "glm-5.3"
+}

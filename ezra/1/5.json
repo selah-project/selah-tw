@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "ezra 1:5", "book": "ezra", "lang": "tw", "chapter": 1, "translation": "Yehuda ne Binyamin abusua atifoɔ sɔree, ne asɔfoɔ ne Levifoɔ — obiara a Eloohim sɔee ⟨את⟩ ne honhom sɛ ɔforo akɔsi Yawe ⟨את⟩ fie a ɛwɔ Yerusalem no.", "tokens": [{"surface": "ויקומו", "gloss": "sɔree"}, {"surface": "ראשי", "gloss": "atifoɔ"}, {"surface": "האבות", "gloss": "abusua"}, {"surface": "ליהודה", "gloss": "Yehuda"}, {"surface": "ובנימן", "gloss": "Binyamin"}, {"surface": "והכהנים", "gloss": "asɔfoɔ"}, {"surface": "והלוים", "gloss": "Levifoɔ"}, {"surface": "לכל", "gloss": "obiara"}, {"surface": "העיר", "gloss": "sɔee"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne honhom"}, {"surface": "רוחו", "gloss": "ne honhom"}, {"surface": "לעלות", "gloss": "sɛ ɔforo akɔsi"}, {"surface": "לבנות", "gloss": "kɔsi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בירושלם", "gloss": "Yerusalem"}], "timestamp": "2026-09-16T04:18:37.912988910Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yehuda ne Binyamin abusua atifoɔ sɔree, ne asɔfoɔ ne Levifoɔ — obiara a Eloohim sɔee ⟨את⟩ ne honhom sɛ ɔforo akɔsi Yawe ⟨את⟩ fie a ɛwɔ Yerusalem no.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "atifoɔ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Levifoɔ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sɔee"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne honhom"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ne honhom"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "sɛ ɔforo akɔsi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T04:18:37.912988910Z",
+  "model": "glm-5.3"
+}

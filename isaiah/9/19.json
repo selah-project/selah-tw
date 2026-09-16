@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":19,"ref":"isaiah 9:19","book":"isaiah","lang":"tw","chapter":9,"translation":"Wɔtowaa nsa nifa so, na kɔm de wɔn; wɔdii nsa benkum so, na wɔannyɛ; obiara di nam a ɛwɔ ne nsa so:","tokens":[{"surface":"ויגזר","gloss":"wɔtowaa"},{"surface":"על","gloss":"so"},{"surface":"ימין","gloss":"nsa nifa"},{"surface":"ורעב","gloss":"na kɔm de wɔn"},{"surface":"ויאכל","gloss":"wɔdii"},{"surface":"על","gloss":"so"},{"surface":"שמאול","gloss":"nsa benkum"},{"surface":"ולא","gloss":"na... nn"},{"surface":"שבעו","gloss":"wɔannyɛ"},{"surface":"איש","gloss":"obiara"},{"surface":"בשר","gloss":"nam"},{"surface":"זרעו","gloss":"ne nsa so"},{"surface":"יאכלו","gloss":"di"}],"timestamp":"2026-09-16T05:23:57.910213629Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wɔtowaa nsa nifa so, na kɔm de wɔn; wɔdii nsa benkum so, na wɔannyɛ; obiara di nam a ɛwɔ ne nsa so:",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "wɔtowaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nsa nifa"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "na kɔm de wɔn"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "wɔdii"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "nsa benkum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na... nn"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "wɔannyɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ne nsa so"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-09-16T05:23:57.910213629Z",
+  "model": "glm-5.3"
+}

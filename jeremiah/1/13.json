@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":13,"ref":"jeremiah 1:13","book":"jeremiah","lang":"tw","chapter":1,"translation":"Na Yawe asɛm baa me hɔ ɛtɔso mmienu se: Dɛn na wohunu? Na mekae: Sradeɛ a ɛretɔre na merehunu, na n'anim firi atifi.","tokens":[{"surface":"ויהי","gloss":"na ɛbaa"},{"surface":"דבר","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלי","gloss":"baa me hɔ"},{"surface":"שנית","gloss":"ɛtɔso mmienu"},{"surface":"לאמר","gloss":"se"},{"surface":"מה","gloss":"dɛn"},{"surface":"אתה","gloss":"wo"},{"surface":"ראה","gloss":"hunu"},{"surface":"ואמר","gloss":"na mekae"},{"surface":"סיר","gloss":"sradeɛ"},{"surface":"נפוח","gloss":"a ɛretɔre"},{"surface":"אני","gloss":"me"},{"surface":"ראה","gloss":"mehunu"},{"surface":"ופניו","gloss":"na n'anim"},{"surface":"מפני","gloss":"firi…anim"},{"surface":"צפונה","gloss":"atifi"}],"timestamp":"2026-09-16T00:04:42.066791430Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 1:13",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Yawe asɛm baa me hɔ ɛtɔso mmienu se: Dɛn na wohunu? Na mekae: Sradeɛ a ɛretɔre na merehunu, na n'anim firi atifi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "baa me hɔ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ɛtɔso mmienu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mekae"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "sradeɛ"
+    },
+    {
+      "surface": "נפוח",
+      "gloss": "a ɛretɔre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mehunu"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "na n'anim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "firi…anim"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "atifi"
+    }
+  ],
+  "timestamp": "2026-09-16T00:04:42.066791430Z",
+  "model": "glm-5.3"
+}

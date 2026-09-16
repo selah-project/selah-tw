@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "judges 12:5", "book": "judges", "lang": "tw", "chapter": 12, "translation": "Gilad asraafoɔ kyeree Yarden no ⟨את⟩ hyɛnmu akwan no sɛdeɛ Efrayim bɛtumi atu mmirika, na sɛ Efrayim polokurofoɔ bi ka sɛ, \"Ma me ntwa,\" a, Gilad mmarima no bua no sɛ, \"Woyɛ Efraytini anaa?\" na sɛ ɔka sɛ, \"Daabi;\"", "tokens": [{"surface": "וילכד", "gloss": "kyeree"}, {"surface": "גלעד", "gloss": "Gilad"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yarden hyɛnmu akwan no"}, {"surface": "מעברות", "gloss": "hyɛnmu akwan"}, {"surface": "הירדן", "gloss": "Yarden"}, {"surface": "לאפרים", "gloss": "ma Efrayim"}, {"surface": "והיה", "gloss": "na sɛ ... a"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "יאמרו", "gloss": "wɔbɛka"}, {"surface": "פליטי", "gloss": "polokurofoɔ"}, {"surface": "אפרים", "gloss": "Efrayim"}, {"surface": "אעברה", "gloss": "\"Ma me ntwa\""}, {"surface": "ויאמרו", "gloss": "wɔbɛbua"}, {"surface": "לו", "gloss": "no"}, {"surface": "אנשי", "gloss": "mmarima"}, {"surface": "גלעד", "gloss": "Gilad"}, {"surface": "האפרתי", "gloss": "Efraytini"}, {"surface": "אתה", "gloss": "woyɛ"}, {"surface": "ויאמר", "gloss": "ɔbɛka"}, {"surface": "לא", "gloss": "\"Daabi\""}], "timestamp": "2026-09-15T22:41:00.123278045Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 12:5",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Gilad asraafoɔ kyeree Yarden no ⟨את⟩ hyɛnmu akwan no sɛdeɛ Efrayim bɛtumi atu mmirika, na sɛ Efrayim polokurofoɔ bi ka sɛ, \"Ma me ntwa,\" a, Gilad mmarima no bua no sɛ, \"Woyɛ Efraytini anaa?\" na sɛ ɔka sɛ, \"Daabi;\"",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "kyeree"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden hyɛnmu akwan no"
+    },
+    {
+      "surface": "מעברות",
+      "gloss": "hyɛnmu akwan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ma Efrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na sɛ ... a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wɔbɛka"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "polokurofoɔ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "\"Ma me ntwa\""
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔbɛbua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "האפרתי",
+      "gloss": "Efraytini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "woyɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔbɛka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "\"Daabi\""
+    }
+  ],
+  "timestamp": "2026-09-15T22:41:00.123278045Z",
+  "model": "glm-5.3"
+}

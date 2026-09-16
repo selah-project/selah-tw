@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":10,"ref":"exodus 25:10","book":"exodus","lang":"tw","chapter":25,"translation":"Na wɔbɛyɛ adaka a wɔde shittim dua ayɛ — nnwuma mmienu ne fã ne ne tenten, na ɛmu baako ne fã ne ne tɛtrɛtɛ, na ɛmu baako ne fã ne ne sorokɔ.","tokens":[{"surface":"ועשו","gloss":"na wɔbɛyɛ"},{"surface":"ארון","gloss":"adaka"},{"surface":"עצי","gloss":"a wɔde dua ayɛ"},{"surface":"שטים","gloss":"shittim"},{"surface":"אמתים","gloss":"nnwuma mmienu"},{"surface":"וחצי","gloss":"ne fã"},{"surface":"ארכו","gloss":"ne tenten"},{"surface":"ואמה","gloss":"na ɛmu baako"},{"surface":"וחצי","gloss":"ne fã"},{"surface":"רחבו","gloss":"ne tɛtrɛtɛ"},{"surface":"ואמה","gloss":"na ɛmu baako"},{"surface":"וחצי","gloss":"ne fã"},{"surface":"קמתו","gloss":"ne sorokɔ"}],"timestamp":"2026-09-15T20:57:17.607127425Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wɔbɛyɛ adaka a wɔde shittim dua ayɛ — nnwuma mmienu ne fã ne ne tenten, na ɛmu baako ne fã ne ne tɛtrɛtɛ, na ɛmu baako ne fã ne ne sorokɔ.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "na wɔbɛyɛ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "a wɔde dua ayɛ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "nnwuma mmienu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fã"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na ɛmu baako"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fã"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ne tɛtrɛtɛ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na ɛmu baako"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne fã"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ne sorokɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:17.607127425Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "1-samuel 30:23", "book": "1-samuel", "lang": "tw", "chapter": 30, "translation": "David kaa sɛ: Monnyɛ saa, me nuanom; deɛ Yawe de ama ⟨את⟩ yɛn no, ne deɛ ɔbɔ ⟨את⟩ yɛn ho ban, na ɔde ⟨את⟩ asraafoɔ a wɔbaa yɛn so no ma yɛn nsa mu no.", "tokens": [{"surface": "ויאמר", "gloss": "kaa sɛ"}, {"surface": "דוד", "gloss": "David"}, {"surface": "לא", "gloss": "monn"}, {"surface": "תעשו", "gloss": "nyɛ"}, {"surface": "כן", "gloss": "saa"}, {"surface": "אחי", "gloss": "me nuanom"}, {"surface": "את", "gloss": "ne ⟨את⟩ deɛ", "marks": "deɛ Yawe de ama yɛn"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "נתן", "gloss": "de"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לנו", "gloss": "ama yɛn"}, {"surface": "וישמר", "gloss": "na ɔbɔ yɛn ho ban"}, {"surface": "אתנו", "gloss": "⟨את⟩ yɛn"}, {"surface": "ויתן", "gloss": "na ɔde ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asraafoɔ a wɔbaa yɛn so"}, {"surface": "הגדוד", "gloss": "asraafoɔ"}, {"surface": "הבא", "gloss": "a wɔbaa"}, {"surface": "עלינו", "gloss": "yɛn so"}, {"surface": "בידנו", "gloss": "yɛn nsa mu"}], "timestamp": "2026-09-15T23:00:55.870707906Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "David kaa sɛ: Monnyɛ saa, me nuanom; deɛ Yawe de ama ⟨את⟩ yɛn no, ne deɛ ɔbɔ ⟨את⟩ yɛn ho ban, na ɔde ⟨את⟩ asraafoɔ a wɔbaa yɛn so no ma yɛn nsa mu no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "monn"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "me nuanom"
+    },
+    {
+      "surface": "את",
+      "gloss": "ne ⟨את⟩ deɛ",
+      "marks": "deɛ Yawe de ama yɛn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ama yɛn"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "na ɔbɔ yɛn ho ban"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔde ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asraafoɔ a wɔbaa yɛn so"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "a wɔbaa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "yɛn nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:55.870707906Z",
+  "model": "glm-5.3"
+}

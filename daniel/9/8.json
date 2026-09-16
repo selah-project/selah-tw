@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":8,"ref":"daniel 9:8","book":"daniel","lang":"tw","chapter":9,"translation":"Yawe, nkatanim animtiafri ka yɛn — yɛn ahemfo, yɛn mpanimfoɔ ne yɛn agya — ɛfiri sɛ yɛbɔɔ mfomasoɔ kwtia Wo ho.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"לנו","gloss":"ɛka yɛn"},{"surface":"בשת","gloss":"animtiafri"},{"surface":"הפנים","gloss":"nkatanim"},{"surface":"למלכינו","gloss":"yɛn ahemfo"},{"surface":"לשרינו","gloss":"yɛn mpanimfoɔ"},{"surface":"ולאבתינו","gloss":"ne yɛn agya"},{"surface":"אשר","gloss":"ɛfiri sɛ… a"},{"surface":"חטאנו","gloss":"yɛbɔɔ mfomasoɔ"},{"surface":"לך","gloss":"kwtia Wo ho"}],"timestamp":"2026-09-16T04:15:19.796393830Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Yawe, nkatanim animtiafri ka yɛn — yɛn ahemfo, yɛn mpanimfoɔ ne yɛn agya — ɛfiri sɛ yɛbɔɔ mfomasoɔ kwtia Wo ho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ɛka yɛn"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "animtiafri"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "nkatanim"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "yɛn ahemfo"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "yɛn mpanimfoɔ"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ne yɛn agya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɛfiri sɛ… a"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "yɛbɔɔ mfomasoɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwtia Wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T04:15:19.796393830Z",
+  "model": "glm-5.3"
+}

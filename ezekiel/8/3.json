@@ -1,1 +1,135 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "ezekiel 8:3", "book": "ezekiel", "lang": "tw", "chapter": 8, "translation": "Na ɔtrɛw nsaa sɛ no trɛe, ɔfaa me wɔ tia ti mu; na ⟨את⟩ honhom no de me so wɔ asase ne ɔsoro ntam, na ɔde me baa ⟨את⟩ Yerusalem, wɔ Eloohim ahunumu mu, kɔ ɛpono a ɛwɔ mu a ɛhwɛ atifi fam no ano; wɔ hɔ na sumina ɛde ɔkɔkɔ ba no tenabea wɔ.", "tokens": [{"surface": "וישלח", "gloss": "Na ɔtrɛw"}, {"surface": "תבנית", "gloss": "sɛdeɛ"}, {"surface": "יד", "gloss": "nsa"}, {"surface": "ויקחני", "gloss": "na ɔfaa me"}, {"surface": "בציצת", "gloss": "wɔ tia ti mu"}, {"surface": "ראשי", "gloss": "me ti"}, {"surface": "ותשא", "gloss": "na ɛde me so"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "honhom"}, {"surface": "רוח", "gloss": "honhom"}, {"surface": "בין", "gloss": "wɔ … ntam"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "ובין", "gloss": "ne"}, {"surface": "השמים", "gloss": "ɔsoro"}, {"surface": "ותבא", "gloss": "na ɔde me baa"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "Yerusalem"}, {"surface": "ירושלמה", "gloss": "Yerusalem"}, {"surface": "במראות", "gloss": "ahunumu"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "פתח", "gloss": "ano"}, {"surface": "שער", "gloss": "ɛpono"}, {"surface": "הפנימית", "gloss": "a ɛwɔ mu"}, {"surface": "הפונה", "gloss": "a ɛhwɛ"}, {"surface": "צפונה", "gloss": "atifi fam"}, {"surface": "אשר", "gloss": "a"}, {"surface": "שם", "gloss": "wɔ hɔ"}, {"surface": "מושב", "gloss": "tenabea"}, {"surface": "סמל", "gloss": "sumina (mfonini)"}, {"surface": "הקנאה", "gloss": "a ɛde ɔkɔkɔ ba"}, {"surface": "המקנה", "gloss": "a ɛma ɔkɔkɔ ba"}], "timestamp": "2026-09-16T00:38:20.811883448Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 8:3",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔtrɛw nsaa sɛ no trɛe, ɔfaa me wɔ tia ti mu; na ⟨את⟩ honhom no de me so wɔ asase ne ɔsoro ntam, na ɔde me baa ⟨את⟩ Yerusalem, wɔ Eloohim ahunumu mu, kɔ ɛpono a ɛwɔ mu a ɛhwɛ atifi fam no ano; wɔ hɔ na sumina ɛde ɔkɔkɔ ba no tenabea wɔ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na ɔtrɛw"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "ויקחני",
+      "gloss": "na ɔfaa me"
+    },
+    {
+      "surface": "בציצת",
+      "gloss": "wɔ tia ti mu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "me ti"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "na ɛde me so"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "honhom"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ … ntam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "na ɔde me baa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "במראות",
+      "gloss": "ahunumu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "a ɛwɔ mu"
+    },
+    {
+      "surface": "הפונה",
+      "gloss": "a ɛhwɛ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "atifi fam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tenabea"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "sumina (mfonini)"
+    },
+    {
+      "surface": "הקנאה",
+      "gloss": "a ɛde ɔkɔkɔ ba"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "a ɛma ɔkɔkɔ ba"
+    }
+  ],
+  "timestamp": "2026-09-16T00:38:20.811883448Z",
+  "model": "glm-5.3"
+}

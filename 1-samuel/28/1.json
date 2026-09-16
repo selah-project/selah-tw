@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-samuel 28:1","book":"1-samuel","lang":"tw","chapter":28,"translation":"Saa nna no mu Pelishtim boaboaa ⟨את⟩ wɔn asraafoɔ ano sɛ ⟨את⟩ wɔnkɔ ko wɔ Yisraɛl so, na Akis kaa Dawid ho sɛ: “Yie na wonim pefee sɛ wo ne w'asraafoɔ ne me bɛkɔ ɔko no mu.”","tokens":[{"surface":"ויהי","gloss":"saa nna no mu"},{"surface":"בימים","gloss":"nna no mu"},{"surface":"ההם","gloss":"saa"},{"surface":"ויקבצו","gloss":"boaboaa ano"},{"surface":"פלשתים","gloss":"Pelishtim"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn asraafoɔ"},{"surface":"מחניהם","gloss":"wɔn asraafoɔ"},{"surface":"לצבא","gloss":"sɛ wɔnkɔ ko"},{"surface":"להלחם","gloss":"wɔnkɔ ko"},{"surface":"בישראל","gloss":"wɔ Yisraɛl so"},{"surface":"ויאמר","gloss":"kaa ho sɛ"},{"surface":"אכיש","gloss":"Akis"},{"surface":"אל","gloss":"kɔ"},{"surface":"דוד","gloss":"Dawid"},{"surface":"ידע","gloss":"wonim"},{"surface":"תדע","gloss":"wonim pefee"},{"surface":"כי","gloss":"sɛ"},{"surface":"אתי","gloss":"⟨את⟩ ne me"},{"surface":"תצא","gloss":"bɛkɔ"},{"surface":"במחנה","gloss":"ɔko no mu"},{"surface":"אתה","gloss":"wo"},{"surface":"ואנשיך","gloss":"ne w'asraafoɔ"}],"timestamp":"2026-09-15T22:58:57.156758544Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 28:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Saa nna no mu Pelishtim boaboaa ⟨את⟩ wɔn asraafoɔ ano sɛ ⟨את⟩ wɔnkɔ ko wɔ Yisraɛl so, na Akis kaa Dawid ho sɛ: “Yie na wonim pefee sɛ wo ne w'asraafoɔ ne me bɛkɔ ɔko no mu.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "saa nna no mu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nna no mu"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "boaboaa ano"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asraafoɔ"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "wɔn asraafoɔ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sɛ wɔnkɔ ko"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "wɔnkɔ ko"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wɔ Yisraɛl so"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa ho sɛ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wonim"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wonim pefee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ne me"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ɔko no mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ואנשיך",
+      "gloss": "ne w'asraafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:58:57.156758544Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,51 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "isaiah 9:10", "book": "isaiah", "lang": "tw", "chapter": 9, "translation": "Enti Yawe de Retsin ⟨את⟩ atamfoɔ sii soro tia ⟨את⟩ no, na ɔbɔɔ n'atamfoɔ nkuran ma wɔkaa ho.", "tokens": [{"surface": "וישגב", "gloss": "de ... sii soro"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "no (Retsin)"}, {"surface": "צרי", "gloss": "atamfoɔ"}, {"surface": "רצין", "gloss": "Retsin"}, {"surface": "עליו", "gloss": "tia no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "n'atamfoɔ"}, {"surface": "איביו", "gloss": "n'atamfoɔ"}, {"surface": "יסכסך", "gloss": "bɔɔ nkuran ma wɔkaa ho"}], "timestamp": "2026-09-15T23:42:38.474325732Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Enti Yawe de Retsin ⟨את⟩ atamfoɔ sii soro tia ⟨את⟩ no, na ɔbɔɔ n'atamfoɔ nkuran ma wɔkaa ho.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "de ... sii soro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "no (Retsin)"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "atamfoɔ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tia no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'atamfoɔ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "n'atamfoɔ"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "bɔɔ nkuran ma wɔkaa ho"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:38.474325732Z",
+  "model": "glm-5.3"
+}

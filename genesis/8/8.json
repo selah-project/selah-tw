@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "genesis 8:8", "book": "genesis", "lang": "tw", "chapter": 8, "translation": "Na ɔsomaa ⟨את⟩ ahwɛforoɔ no ⟨את⟩ firi ne nkyɛn, sɛ ɔnhwɛ sɛ nsuo no so atte ara firi asase no anim.", "tokens": [{"surface": "וישלח", "gloss": "Na ɔsomaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ahwɛforoɔ no"}, {"surface": "היונה", "gloss": "ahwɛforoɔ no"}, {"surface": "מאתו", "gloss": "firi ne nkyɛn ⟨את⟩"}, {"surface": "לראות", "gloss": "sɛ ɔnhwɛ"}, {"surface": "הקלו", "gloss": "so atte ara"}, {"surface": "המים", "gloss": "nsuo no"}, {"surface": "מעל", "gloss": "firi"}, {"surface": "פני", "gloss": "anim"}, {"surface": "האדמה", "gloss": "asase no"}], "timestamp": "2026-09-16T06:54:05.036822113Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔsomaa ⟨את⟩ ahwɛforoɔ no ⟨את⟩ firi ne nkyɛn, sɛ ɔnhwɛ sɛ nsuo no so atte ara firi asase no anim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na ɔsomaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahwɛforoɔ no"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ahwɛforoɔ no"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "firi ne nkyɛn ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sɛ ɔnhwɛ"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "so atte ara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T06:54:05.036822113Z",
+  "model": "glm-5.3"
+}

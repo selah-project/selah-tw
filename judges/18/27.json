@@ -1,1 +1,120 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "judges 18:27", "book": "judges", "lang": "tw", "chapter": 18, "translation": "Wɔfaa ⟨את⟩ deɛ Mika yɛeɛ ne ⟨את⟩ ɔsɔfoɔ a na ɔwɔ nkyɛn, na wɔsoaa Laish so — ɔman a na wɔdi ahotosoɔ mu — wɔbɔɔ ⟨את⟩ wɔn akofena ano de ogya hyee ⟨את⟩ kuro no mu.", "tokens": [{"surface": "והמה", "gloss": "wɔ"}, {"surface": "לקחו", "gloss": "wɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ Mika yɛeɛ"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "עשה", "gloss": "yɛeɛ"}, {"surface": "מיכה", "gloss": "Mika"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ɔsɔfoɔ"}, {"surface": "הכהן", "gloss": "ɔsɔfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "היה", "gloss": "na ɔwɔ"}, {"surface": "לו", "gloss": "nkyɛn"}, {"surface": "ויבאו", "gloss": "wɔsoaa"}, {"surface": "על", "gloss": "so"}, {"surface": "ליש", "gloss": "Laish"}, {"surface": "על", "gloss": "so"}, {"surface": "עם", "gloss": "ɔman"}, {"surface": "שקט", "gloss": "a wɔhome"}, {"surface": "ובטח", "gloss": "na wɔgye yie"}, {"surface": "ויכו", "gloss": "wɔbɔɔ wɔn"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "לפי", "gloss": "akofena ano"}, {"surface": "חרב", "gloss": "akofena"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "kuro no"}, {"surface": "העיר", "gloss": "kuro no"}, {"surface": "שרפו", "gloss": "wɔhyee mu"}, {"surface": "באש", "gloss": "de ogya"}], "timestamp": "2026-09-15T22:44:34.408119692Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 18:27",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wɔfaa ⟨את⟩ deɛ Mika yɛeɛ ne ⟨את⟩ ɔsɔfoɔ a na ɔwɔ nkyɛn, na wɔsoaa Laish so — ɔman a na wɔdi ahotosoɔ mu — wɔbɔɔ ⟨את⟩ wɔn akofena ano de ogya hyee ⟨את⟩ kuro no mu.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Mika yɛeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛeɛ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na ɔwɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wɔsoaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Laish"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "שקט",
+      "gloss": "a wɔhome"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "na wɔgye yie"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wɔbɔɔ wɔn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "akofena ano"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "kuro no"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "wɔhyee mu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "de ogya"
+    }
+  ],
+  "timestamp": "2026-09-15T22:44:34.408119692Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":29,"ref":"1-kings 18:29","book":"1-kings","lang":"tw","chapter":18,"translation":"Ɛbaa sɛ berɛ a awia no twam no, wɔkɔɔ so dii anansɛm kɔsii berɛ a wɔde anwummerɛ afɔdeɛ no bɛkɔ soro; na nne biara nni hɔ, na mmuae biara nni hɔ, na asɛtie biara nni hɔ.","tokens":[{"surface":"ויהי","gloss":"Ɛbaa sɛ"},{"surface":"כעבר","gloss":"berɛ a ... twam"},{"surface":"הצהרים","gloss":"awia"},{"surface":"ויתנבאו","gloss":"wɔkɔɔ so dii anansɛm"},{"surface":"עד","gloss":"kɔsii"},{"surface":"לעלות","gloss":"bɛkɔ soro"},{"surface":"המנחה","gloss":"anwummerɛ afɔdeɛ no"},{"surface":"ואין","gloss":"na ... nni hɔ"},{"surface":"קול","gloss":"nne"},{"surface":"ואין","gloss":"na ... nni hɔ"},{"surface":"ענה","gloss":"mmuae"},{"surface":"ואין","gloss":"na ... nni hɔ"},{"surface":"קשב","gloss":"asɛtie"}],"timestamp":"2026-09-15T23:23:25.546927945Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɛbaa sɛ berɛ a awia no twam no, wɔkɔɔ so dii anansɛm kɔsii berɛ a wɔde anwummerɛ afɔdeɛ no bɛkɔ soro; na nne biara nni hɔ, na mmuae biara nni hɔ, na asɛtie biara nni hɔ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "berɛ a ... twam"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "awia"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "wɔkɔɔ so dii anansɛm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "bɛkɔ soro"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "anwummerɛ afɔdeɛ no"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "mmuae"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "asɛtie"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:25.546927945Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":6,"ref":"joshua 1:6","book":"joshua","lang":"tw","chapter":1,"translation":"Yɛ den na hyɛ wo mu den, ɛfiri sɛ wo na wobɛma ⟨את⟩ ɔman yi anya ⟨את⟩ asaase no sɛ agyapadie — asaase a me sisa sɛ mɛde ama wɔn agyapadie.","tokens":[{"surface":"חזק","gloss":"Yɛ den"},{"surface":"ואמץ","gloss":"na hyɛ wo mu den"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אתה","gloss":"wo"},{"surface":"תנחיל","gloss":"wobɛma ... anya sɛ agyapadie"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔman yi"},{"surface":"העם","gloss":"ɔman"},{"surface":"הזה","gloss":"yi"},{"surface":"את","gloss":"⟨את⟩","marks":"asaase no"},{"surface":"הארץ","gloss":"asaase no"},{"surface":"אשר","gloss":"a"},{"surface":"נשבעתי","gloss":"me sisa"},{"surface":"לאבותם","gloss":"wɔn agyapadie"},{"surface":"לתת","gloss":"sɛ mɛde ama"},{"surface":"להם","gloss":"wɔn"}],"timestamp":"2026-09-15T22:02:43.567391810Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yɛ den na hyɛ wo mu den, ɛfiri sɛ wo na wobɛma ⟨את⟩ ɔman yi anya ⟨את⟩ asaase no sɛ agyapadie — asaase a me sisa sɛ mɛde ama wɔn agyapadie.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Yɛ den"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "na hyɛ wo mu den"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "wobɛma ... anya sɛ agyapadie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman yi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asaase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asaase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "me sisa"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "wɔn agyapadie"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ mɛde ama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T22:02:43.567391810Z",
+  "model": "glm-5.3"
+}

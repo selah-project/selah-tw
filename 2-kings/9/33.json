@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":33,"ref":"2-kings 9:33","book":"2-kings","lang":"tw","chapter":9,"translation":"Na ɔkaa sɛ, Tɔgu no ase, na wɔtɔguu no ase, na ne mogya bɔɔ fammadea no so ne apampam so, na wɔanntwa no ase.","tokens":[{"surface":"ויאמר","gloss":"na ɔkaa sɛ"},{"surface":"שמטהו","gloss":"tɔgu no ase"},{"surface":"וישמטוה","gloss":"na wɔtɔguu no ase"},{"surface":"ויז","gloss":"bɔɔ"},{"surface":"מדמה","gloss":"ne mogya"},{"surface":"אל","gloss":"so"},{"surface":"הקיר","gloss":"fammadea no"},{"surface":"ואל","gloss":"ne so"},{"surface":"הסוסים","gloss":"apampam"},{"surface":"וירמסנה","gloss":"na wɔanntwa no ase"}],"timestamp":"2026-09-15T23:30:56.796458268Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na ɔkaa sɛ, Tɔgu no ase, na wɔtɔguu no ase, na ne mogya bɔɔ fammadea no so ne apampam so, na wɔanntwa no ase.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "tɔgu no ase"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "na wɔtɔguu no ase"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ne mogya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "fammadea no"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "apampam"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "na wɔanntwa no ase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:30:56.796458268Z",
+  "model": "glm-5.3"
+}

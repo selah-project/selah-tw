@@ -1,1 +1,109 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "deuteronomy 11:2", "book": "deuteronomy", "lang": "tw", "chapter": 11, "translation": "Monim nnɛ: ɛnyɛ ⟨את⟩ mo mma a wɔnnim na wɔanhunu ⟨את⟩ Yawe mo Eloohim adesua, ⟨את⟩ ne kɛseɛ, ⟨את⟩ ne nsa a ɛden, ne ne kotodwi a ɔatɛn.", "tokens": [{"surface": "וידעתם", "gloss": "Monim"}, {"surface": "היום", "gloss": "nnɛ"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "לא", "gloss": "ɛnyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo mma"}, {"surface": "בניכם", "gloss": "mo mma"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "nnyɛ"}, {"surface": "ידעו", "gloss": "wɔnnim"}, {"surface": "ואשר", "gloss": "na a"}, {"surface": "לא", "gloss": "nnyɛ"}, {"surface": "ראו", "gloss": "wɔanhunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe mo Eloohim adesua"}, {"surface": "מוסר", "gloss": "adesua"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne kɛseɛ"}, {"surface": "גדלו", "gloss": "ne kɛseɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nsa a ɛden"}, {"surface": "ידו", "gloss": "ne nsa"}, {"surface": "החזקה", "gloss": "a ɛden"}, {"surface": "וזרעו", "gloss": "ne kotodwi"}, {"surface": "הנטויה", "gloss": "a ɔatɛn"}], "timestamp": "2026-09-15T21:50:00.411351272Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 11:2",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Monim nnɛ: ɛnyɛ ⟨את⟩ mo mma a wɔnnim na wɔanhunu ⟨את⟩ Yawe mo Eloohim adesua, ⟨את⟩ ne kɛseɛ, ⟨את⟩ ne nsa a ɛden, ne ne kotodwi a ɔatɛn.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Monim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo mma"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wɔnnim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wɔanhunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe mo Eloohim adesua"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "adesua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kɛseɛ"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ne kɛseɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa a ɛden"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "a ɛden"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ne kotodwi"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "a ɔatɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:00.411351272Z",
+  "model": "glm-5.3"
+}

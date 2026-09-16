@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "deuteronomy 28:21", "book": "deuteronomy", "lang": "tw", "chapter": 28, "translation": "Yawe bɛkyerɛ ⟨את⟩ ɔyaredɔm no sɛ ɛmmɔ ⟨את⟩ wo ho, kɔsɛ ɔdew wo fi asase a wobɛba hɔ sɛ wobɛdɔ so no so.", "tokens": [{"surface": "ידבק", "gloss": "bɛkyerɛ sɛ ɛmmɔ wo ho"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "בך", "gloss": "wo ho mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔyaredɔm"}, {"surface": "הדבר", "gloss": "ɔyaredɔm"}, {"surface": "עד", "gloss": "kɔsɛ"}, {"surface": "כלתו", "gloss": "ɔdew"}, {"surface": "אתך", "gloss": "⟨את⟩ wo"}, {"surface": "מעל", "gloss": "fi…so"}, {"surface": "האדמה", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "בא", "gloss": "bɛba hɔ"}, {"surface": "שמה", "gloss": "hɔ"}, {"surface": "לרשתה", "gloss": "sɛ wobɛdɔ so"}], "timestamp": "2026-09-15T21:57:20.245778074Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yawe bɛkyerɛ ⟨את⟩ ɔyaredɔm no sɛ ɛmmɔ ⟨את⟩ wo ho, kɔsɛ ɔdew wo fi asase a wobɛba hɔ sɛ wobɛdɔ so no so.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "bɛkyerɛ sɛ ɛmmɔ wo ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo ho mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔyaredɔm"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ɔyaredɔm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsɛ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ɔdew"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fi…so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bɛba hɔ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "sɛ wobɛdɔ so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:57:20.245778074Z",
+  "model": "glm-5.3"
+}

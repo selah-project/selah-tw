@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "ezekiel 43:22", "book": "ezekiel", "lang": "tw", "chapter": 43, "translation": "Wo nna no a ɛtɔ so mmienu no, wobɛde abirekyie a ɔyɛ toro aba sɛ bɔne afɔdeɛ, na wɔbɛfɛw ⟨את⟩ asɔredan no, sɛnea wɔfɛwee wɔ anantwire no ho.", "tokens": [{"surface": "וביום", "gloss": "wo nna no"}, {"surface": "השני", "gloss": "a ɛtɔ so mmienu"}, {"surface": "תקריב", "gloss": "wobɛde ... aba"}, {"surface": "שעיר", "gloss": "abirekyie"}, {"surface": "עזים", "gloss": "abirekyie (nnwan) dea"}, {"surface": "תמים", "gloss": "a ɔyɛ toro"}, {"surface": "לחטאת", "gloss": "sɛ bɔne afɔdeɛ"}, {"surface": "וחטאו", "gloss": "wɔbɛfɛw"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɔredan no"}, {"surface": "המזבח", "gloss": "asɔredan"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "חטאו", "gloss": "wɔfɛwee"}, {"surface": "בפר", "gloss": "wɔ anantwire no ho"}], "timestamp": "2026-09-16T00:59:26.094494538Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 43:22",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Wo nna no a ɛtɔ so mmienu no, wobɛde abirekyie a ɔyɛ toro aba sɛ bɔne afɔdeɛ, na wɔbɛfɛw ⟨את⟩ asɔredan no, sɛnea wɔfɛwee wɔ anantwire no ho.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "wo nna no"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "wobɛde ... aba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "abirekyie"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "abirekyie (nnwan) dea"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "a ɔyɛ toro"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sɛ bɔne afɔdeɛ"
+    },
+    {
+      "surface": "וחטאו",
+      "gloss": "wɔbɛfɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɔredan no"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "asɔredan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "wɔfɛwee"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "wɔ anantwire no ho"
+    }
+  ],
+  "timestamp": "2026-09-16T00:59:26.094494538Z",
+  "model": "glm-5.3"
+}

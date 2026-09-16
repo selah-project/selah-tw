@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "judges 3:8", "book": "judges", "lang": "tw", "chapter": 3, "translation": "Yawe bo fuu Yisraël, na ɔtɔn wɔn maa ⟨את⟩ Kushan-Rishataim, Aram-Naharaim ɔhene nsa; na Yisraël mma somaa Kushan-Rishataim mfeɛ nwɔtwe.", "tokens": [{"surface": "ויחר", "gloss": "bo fuu"}, {"surface": "אף", "gloss": "bo"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "בישראל", "gloss": "Yisraël ... so"}, {"surface": "וימכרם", "gloss": "na ɔtɔn wɔn"}, {"surface": "ביד", "gloss": "... nsa"}, {"surface": "כושן", "gloss": "Kushan-"}, {"surface": "רשעתים", "gloss": "Rishataim"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ארם", "gloss": "Aram-"}, {"surface": "נהרים", "gloss": "Naharaim"}, {"surface": "ויעבדו", "gloss": "na ... somaa"}, {"surface": "בני", "gloss": "... mma"}, {"surface": "ישראל", "gloss": "Yisraël"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Kushan-Rishataim"}, {"surface": "כושן", "gloss": "Kushan-"}, {"surface": "רשעתים", "gloss": "Rishataim"}, {"surface": "שמנה", "gloss": "nwɔtwe"}, {"surface": "שנים", "gloss": "mfeɛ"}], "timestamp": "2026-09-15T22:36:31.123871406Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 3:8",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe bo fuu Yisraël, na ɔtɔn wɔn maa ⟨את⟩ Kushan-Rishataim, Aram-Naharaim ɔhene nsa; na Yisraël mma somaa Kushan-Rishataim mfeɛ nwɔtwe.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "bo fuu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraël ... so"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "na ɔtɔn wɔn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "... nsa"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan-"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishataim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "na ... somaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kushan-Rishataim"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan-"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishataim"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nwɔtwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:31.123871406Z",
+  "model": "glm-5.3"
+}

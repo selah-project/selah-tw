@@ -1,1 +1,100 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "ezekiel 14:23", "book": "ezekiel", "lang": "tw", "chapter": 14, "translation": "Na wɔbɛma ⟨את⟩ mo akoma atɔ mo, ɛfiri sɛ mobehunu ⟨את⟩ wɔn kwan ne ⟨את⟩ wɔn nneyɛeɛ; na mobehu sɛ ɛnyɛ ɔhaw kwa na mayɛ ⟨את⟩ biribiara a mayɛ wɔ mu no — Adonai Yawe asɛm.", "tokens": [{"surface": "ונחמו", "gloss": "na wɔbɛma mo akoma atɔ mo"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "תראו", "gloss": "mobehunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn kwan"}, {"surface": "דרכם", "gloss": "wɔn kwan"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn nneyɛeɛ"}, {"surface": "עלילותם", "gloss": "wɔn nneyɛeɛ"}, {"surface": "וידעתם", "gloss": "na mobehu"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "לא", "gloss": "nyɛ"}, {"surface": "חנם", "gloss": "kwa"}, {"surface": "עשיתי", "gloss": "mayɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "biribiara"}, {"surface": "כל", "gloss": "biribiara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשיתי", "gloss": "mayɛ"}, {"surface": "בה", "gloss": "wɔ mu"}, {"surface": "נאם", "gloss": "asɛm"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T00:39:16.959249314Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 14:23",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wɔbɛma ⟨את⟩ mo akoma atɔ mo, ɛfiri sɛ mobehunu ⟨את⟩ wɔn kwan ne ⟨את⟩ wɔn nneyɛeɛ; na mobehu sɛ ɛnyɛ ɔhaw kwa na mayɛ ⟨את⟩ biribiara a mayɛ wɔ mu no — Adonai Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "ונחמו",
+      "gloss": "na wɔbɛma mo akoma atɔ mo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "mobehunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn kwan"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "wɔn kwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nneyɛeɛ"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "wɔn nneyɛeɛ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "na mobehu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biribiara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:39:16.959249314Z",
+  "model": "glm-5.3"
+}

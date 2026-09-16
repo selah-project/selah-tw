@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "exodus 26:31", "book": "exodus", "lang": "tw", "chapter": 26, "translation": "Na wobɛyɛ amanteɛ wɔ bruu mu, wɔ kɔkɔɔ-tuntum mu, wɔ kɔkɔɔ mwinninni mu, ne kyen fitaa a wɔatwa afã mu; adwuma a obuafoɔ bɛyɛ no ⟨את⟩ Kerubim na wɔde bɛyɛ.", "tokens": [{"surface": "ועשית", "gloss": "na wobɛyɛ"}, {"surface": "פרכת", "gloss": "amanteɛ"}, {"surface": "תכלת", "gloss": "bruu"}, {"surface": "וארגמן", "gloss": "kɔkɔɔ-tuntum"}, {"surface": "ותולעת", "gloss": "mwinninni"}, {"surface": "שני", "gloss": "kɔkɔɔ"}, {"surface": "ושש", "gloss": "kyen fitaa"}, {"surface": "משזר", "gloss": "a wɔatwa afã mu"}, {"surface": "מעשה", "gloss": "adwuma"}, {"surface": "חשב", "gloss": "obuafoɔ"}, {"surface": "יעשה", "gloss": "bɛyɛ"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "Kerubim"}, {"surface": "כרבים", "gloss": "Kerubim"}], "timestamp": "2026-09-15T20:58:54.098437431Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na wobɛyɛ amanteɛ wɔ bruu mu, wɔ kɔkɔɔ-tuntum mu, wɔ kɔkɔɔ mwinninni mu, ne kyen fitaa a wɔatwa afã mu; adwuma a obuafoɔ bɛyɛ no ⟨את⟩ Kerubim na wɔde bɛyɛ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "amanteɛ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bruu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kɔkɔɔ-tuntum"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "mwinninni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kɔkɔɔ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kyen fitaa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a wɔatwa afã mu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "obuafoɔ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Kerubim"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "Kerubim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:54.098437431Z",
+  "model": "glm-5.3"
+}

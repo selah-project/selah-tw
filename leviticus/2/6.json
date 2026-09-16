@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "leviticus 2:6", "book": "leviticus", "lang": "tw", "chapter": 2, "translation": "Bɔ no mu ⟨את⟩ nketekete, na gu ngu no so; afɔdeɛ na ɛyɛ.", "tokens": [{"surface": "פתות", "gloss": "Bɔ mu nketekete"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "nketekete"}, {"surface": "פתים", "gloss": "nketekete"}, {"surface": "ויצקת", "gloss": "na gu ngu"}, {"surface": "עליה", "gloss": "no so"}, {"surface": "שמן", "gloss": "ngo"}, {"surface": "מנחה", "gloss": "afɔdeɛ"}, {"surface": "הוא", "gloss": "na ɛyɛ"}], "timestamp": "2026-09-15T21:08:13.514101879Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Bɔ no mu ⟨את⟩ nketekete, na gu ngu no so; afɔdeɛ na ɛyɛ.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Bɔ mu nketekete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nketekete"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "nketekete"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "na gu ngu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "no so"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "afɔdeɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:13.514101879Z",
+  "model": "glm-5.3"
+}

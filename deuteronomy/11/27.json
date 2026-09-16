@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "deuteronomy 11:27", "book": "deuteronomy", "lang": "tw", "chapter": 11, "translation": "⟨את⟩ nhyira no, sɛ ⟨את⟩ mote Yawe mo Eloohim nhyehyɛɛ so, a me hyɛ mo nnɛ yi;", "tokens": [{"surface": "את", "gloss": "⟨את⟩", "marks": "nhyira no"}, {"surface": "הברכה", "gloss": "nhyira no"}, {"surface": "אשר", "gloss": "sɛ"}, {"surface": "תשמעו", "gloss": "mote … so"}, {"surface": "אל", "gloss": "de"}, {"surface": "מצות", "gloss": "nhyehyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "מצוה", "gloss": "hyɛ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "היום", "gloss": "nnɛ yi"}], "timestamp": "2026-09-15T21:48:29.159575772Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "⟨את⟩ nhyira no, sɛ ⟨את⟩ mote Yawe mo Eloohim nhyehyɛɛ so, a me hyɛ mo nnɛ yi;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyira no"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "nhyira no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mote … so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nhyehyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:29.159575772Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,141 @@
-{"tier":"glm-5.2","verse":4,"ref":"isaiah 31:4","book":"isaiah","lang":"tw","chapter":31,"translation":"Ɛfiri sɛ Yawe aka saa kyerɛɛ me: Sɛnea ɔkraman ne kraman abɔfra didii n'ade a wayi so — sɛ adwanfoɔ dodɔ frɛ wɔn ho hyɛ ne so, n'akoma nnnwerɛ ho wɔ wɔn nne ho, na ɔnnhoahoa ne ho wɔ wɔn mmoroso ho — saa ara na Yawe Sabaofo bɛtwa fam akɔ ako wɔ Zion bepɔ no so, ne ne kɛkɛre so.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"כה","gloss":"saa"},{"surface":"אמר","gloss":"aka kyerɛɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלי","gloss":"me"},{"surface":"כאשר","gloss":"Sɛnea"},{"surface":"יהגה","gloss":"didii"},{"surface":"האריה","gloss":"ɔkraman"},{"surface":"והכפיר","gloss":"ne kraman abɔfra"},{"surface":"על","gloss":"so"},{"surface":"טרפו","gloss":"n'ade a wayi"},{"surface":"אשר","gloss":"sɛ"},{"surface":"יקרא","gloss":"frɛ wɔn ho hyɛ"},{"surface":"עליו","gloss":"ne so"},{"surface":"מלא","gloss":"dodɔ a ɛdɔɔso"},{"surface":"רעים","gloss":"adwanfoɔ"},{"surface":"מקולם","gloss":"wɔ wɔn nne ho"},{"surface":"לא","gloss":"nn-"},{"surface":"יחת","gloss":"n'akoma nwerɛ ho"},{"surface":"ומהמונם","gloss":"na wɔn mmoroso"},{"surface":"לא","gloss":"n-"},{"surface":"יענה","gloss":"nhoahoa ne ho"},{"surface":"כן","gloss":"saa ara"},{"surface":"ירד","gloss":"bɛtwa fam"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"לצבא","gloss":"akɔ ako"},{"surface":"על","gloss":"wɔ"},{"surface":"הר","gloss":"bepɔ no"},{"surface":"ציון","gloss":"Zion"},{"surface":"ועל","gloss":"ne ... so"},{"surface":"גבעתה","gloss":"ne kɛkɛre"}],"timestamp":"2026-09-15T23:52:51.849800115Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 31:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ɛfiri sɛ Yawe aka saa kyerɛɛ me: Sɛnea ɔkraman ne kraman abɔfra didii n'ade a wayi so — sɛ adwanfoɔ dodɔ frɛ wɔn ho hyɛ ne so, n'akoma nnnwerɛ ho wɔ wɔn nne ho, na ɔnnhoahoa ne ho wɔ wɔn mmoroso ho — saa ara na Yawe Sabaofo bɛtwa fam akɔ ako wɔ Zion bepɔ no so, ne ne kɛkɛre so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aka kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "Sɛnea"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "didii"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "ɔkraman"
+    },
+    {
+      "surface": "והכפיר",
+      "gloss": "ne kraman abɔfra"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "טרפו",
+      "gloss": "n'ade a wayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "frɛ wɔn ho hyɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dodɔ a ɛdɔɔso"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "adwanfoɔ"
+    },
+    {
+      "surface": "מקולם",
+      "gloss": "wɔ wɔn nne ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "n'akoma nwerɛ ho"
+    },
+    {
+      "surface": "ומהמונם",
+      "gloss": "na wɔn mmoroso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nhoahoa ne ho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bɛtwa fam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "akɔ ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "גבעתה",
+      "gloss": "ne kɛkɛre"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:51.849800115Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "genesis 28:1", "book": "genesis", "lang": "tw", "chapter": 28, "translation": "Yitschak frɛɛ Yaakob, na ɔhyiraa no, ⟨את⟩ na ɔhyɛɛ no hyɛ, na ɔkaa kyɛɛ no sɛ: Nnwom fa bea firi Kenaan mma mu.", "tokens": [{"surface": "ויקרא", "gloss": "frɛɛ"}, {"surface": "יצחק", "gloss": "Yitschak"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "ויברך", "gloss": "na ɔhyiraa"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "ויצוהו", "gloss": "na ɔhyɛɛ no hyɛ"}, {"surface": "ויאמר", "gloss": "na ɔkaa kyɛɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "לא", "gloss": "nnwom"}, {"surface": "תקח", "gloss": "fa"}, {"surface": "אשה", "gloss": "bea"}, {"surface": "מבנות", "gloss": "firi ... mma mu"}, {"surface": "כנען", "gloss": "Kenaan"}], "timestamp": "2026-09-15T20:28:05.917521076Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yitschak frɛɛ Yaakob, na ɔhyiraa no, ⟨את⟩ na ɔhyɛɛ no hyɛ, na ɔkaa kyɛɛ no sɛ: Nnwom fa bea firi Kenaan mma mu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na ɔhyiraa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "na ɔhyɛɛ no hyɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bea"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "firi ... mma mu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-15T20:28:05.917521076Z",
+  "model": "glm-5.3"
+}

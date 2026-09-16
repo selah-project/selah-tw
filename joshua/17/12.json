@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "joshua 17:12", "book": "joshua", "lang": "tw", "chapter": 17, "translation": "Nanso wɔ antumi anyɛ yie sɛ wɔbɛyepopa ⟨את⟩ nnkurow yi, na Kanaanfoɔ no pɛɛ sɛ wɔtena asase yi so.", "tokens": [{"surface": "ולא", "gloss": "nanso ... da"}, {"surface": "יכלו", "gloss": "antumi anni"}, {"surface": "בני", "gloss": "wɔ"}, {"surface": "מנשה", "gloss": "Manase mma"}, {"surface": "להוריש", "gloss": "sɛ wɔbɛyepopa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnkurow yi"}, {"surface": "הערים", "gloss": "nnkurow"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "ויואל", "gloss": "pɛɛ"}, {"surface": "הכנעני", "gloss": "Kanaanfoɔ no"}, {"surface": "לשבת", "gloss": "sɛ wɔtena"}, {"surface": "בארץ", "gloss": "asase"}, {"surface": "הזאת", "gloss": "yi so"}], "timestamp": "2026-09-15T22:07:42.469836352Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 17:12",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Nanso wɔ antumi anyɛ yie sɛ wɔbɛyepopa ⟨את⟩ nnkurow yi, na Kanaanfoɔ no pɛɛ sɛ wɔtena asase yi so.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... da"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "antumi anni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase mma"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "sɛ wɔbɛyepopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnkurow yi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nnkurow"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "pɛɛ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanfoɔ no"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sɛ wɔtena"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:07:42.469836352Z",
+  "model": "glm-5.3"
+}

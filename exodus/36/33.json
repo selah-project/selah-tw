@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":33,"ref":"exodus 36:33","book":"exodus","lang":"tw","chapter":36,"translation":"Na ɔyɛɛ ⟨את⟩ dɔta no a ɛda mfinimfini, de twaa mu wɔ nkɔnsɔ no mu, firi awiei kɔsi awiei.","tokens":[{"surface":"ויעש","gloss":"Na ɔyɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"dɔta no a ɛda mfinimfini"},{"surface":"הבריח","gloss":"dɔta no"},{"surface":"התיכן","gloss":"a ɛda mfinimfini"},{"surface":"לברח","gloss":"de twaa mu"},{"surface":"בתוך","gloss":"wɔ … mu"},{"surface":"הקרשים","gloss":"nkɔnsɔ no"},{"surface":"מן","gloss":"firi"},{"surface":"הקצה","gloss":"awiei"},{"surface":"אל","gloss":"kɔsi"},{"surface":"הקצה","gloss":"awiei"}],"timestamp":"2026-09-15T21:06:39.090567312Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na ɔyɛɛ ⟨את⟩ dɔta no a ɛda mfinimfini, de twaa mu wɔ nkɔnsɔ no mu, firi awiei kɔsi awiei.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dɔta no a ɛda mfinimfini"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "dɔta no"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "a ɛda mfinimfini"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "de twaa mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "nkɔnsɔ no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "awiei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "awiei"
+    }
+  ],
+  "timestamp": "2026-09-15T21:06:39.090567312Z",
+  "model": "glm-5.3"
+}

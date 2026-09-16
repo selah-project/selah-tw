@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "numbers 30:6", "book": "numbers", "lang": "tw", "chapter": 30, "translation": "Na sɛ ne owie siane no ⟨את⟩ wɔ da a ɔtee no, ne bɔhyɛdɛ ne bɔ a ɔbɔe wɔ ne kra so biara nnyɛ gyina; na Yawe bɛbɔ no foforɔ, efisɛ ne owie sianee ⟨את⟩ no.", "tokens": [{"surface": "ואם", "gloss": "na sɛ"}, {"surface": "הניא", "gloss": "siane"}, {"surface": "אביה", "gloss": "ne owie"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no (ɔbaa no)"}, {"surface": "ביום", "gloss": "wɔ da"}, {"surface": "שמעו", "gloss": "a ɔtee"}, {"surface": "כל", "gloss": "biara/nyinaa"}, {"surface": "נדריה", "gloss": "ne bɔhyɛdɛ"}, {"surface": "ואסריה", "gloss": "ne bɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אסרה", "gloss": "ɔbɔe"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "נפשה", "gloss": "ne kra so"}, {"surface": "לא", "gloss": "nnyɛ"}, {"surface": "יקום", "gloss": "gyina"}, {"surface": "ויהוה", "gloss": "na Yawe"}, {"surface": "יסלח", "gloss": "bɛbɔ foforɔ"}, {"surface": "לה", "gloss": "no"}, {"surface": "כי", "gloss": "efisɛ"}, {"surface": "הניא", "gloss": "sianee"}, {"surface": "אביה", "gloss": "ne owie"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no (ɔbaa no)"}], "timestamp": "2026-09-15T21:43:06.516605382Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 30:6",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na sɛ ne owie siane no ⟨את⟩ wɔ da a ɔtee no, ne bɔhyɛdɛ ne bɔ a ɔbɔe wɔ ne kra so biara nnyɛ gyina; na Yawe bɛbɔ no foforɔ, efisɛ ne owie sianee ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "siane"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ne owie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (ɔbaa no)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a ɔtee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara/nyinaa"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "ne bɔhyɛdɛ"
+    },
+    {
+      "surface": "ואסריה",
+      "gloss": "ne bɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ɔbɔe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "ne kra so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "יסלח",
+      "gloss": "bɛbɔ foforɔ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "sianee"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ne owie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (ɔbaa no)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:43:06.516605382Z",
+  "model": "glm-5.3"
+}

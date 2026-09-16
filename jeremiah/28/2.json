@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":2,"ref":"jeremiah 28:2","book":"jeremiah","lang":"tw","chapter":28,"translation":"Sɛdeɛ Yawe Sabao, Israel Eloohim, ka se: Mahyew ⟨את⟩ napɛn a ɛwɔ Babilon ɔhene so.","tokens":[{"surface":"כה","gloss":"Sɛdeɛ"},{"surface":"אמר","gloss":"ka kyerɛ sɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"ישראל","gloss":"Israel"},{"surface":"לאמר","gloss":"se"},{"surface":"שברתי","gloss":"Mahyew"},{"surface":"את","gloss":"⟨את⟩","marks":"napɛn a ɛwɔ Babilon ɔhene so"},{"surface":"על","gloss":"napɛn"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"בבל","gloss":"Babilon"}],"timestamp":"2026-09-16T00:19:19.113603917Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Sɛdeɛ Yawe Sabao, Israel Eloohim, ka se: Mahyew ⟨את⟩ napɛn a ɛwɔ Babilon ɔhene so.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka kyerɛ sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "Mahyew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "napɛn a ɛwɔ Babilon ɔhene so"
+    },
+    {
+      "surface": "על",
+      "gloss": "napɛn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T00:19:19.113603917Z",
+  "model": "glm-5.3"
+}

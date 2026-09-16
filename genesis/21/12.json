@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":12,"ref":"genesis 21:12","book":"genesis","lang":"tw","chapter":21,"translation":"Eloohim kaa kyerɛɛ Abraham se: “Ɛnhaw wo wɔ ɔbarima no ho anaa w'akoa baa no ho; deɛ Sara bɛka akyerɛ wo nyinaa, tie no; ɛfiri sɛ wɔ Yitschak mu na wɔbɛfrɛ asefoɔ wo de.”","tokens":[{"surface":"ויאמר","gloss":"kaa kyerɛɛ"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"אברהם","gloss":"Abraham"},{"surface":"אל","gloss":"ɛnhaw"},{"surface":"ירע","gloss":"nhaw wo"},{"surface":"בעיניך","gloss":"wɔ w'ani so"},{"surface":"על","gloss":"wɔ ... ho"},{"surface":"הנער","gloss":"ɔbarima"},{"surface":"ועל","gloss":"anaa wɔ ... ho"},{"surface":"אמתך","gloss":"w'akoa baa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"אשר","gloss":"deɛ"},{"surface":"תאמר","gloss":"bɛka akyerɛ wo"},{"surface":"אליך","gloss":"wo"},{"surface":"שרה","gloss":"Sara"},{"surface":"שמע","gloss":"tie"},{"surface":"בקלה","gloss":"no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"ביצחק","gloss":"wɔ Yitschak mu"},{"surface":"יקרא","gloss":"wɔbɛfrɛ"},{"surface":"לך","gloss":"wo de"},{"surface":"זרע","gloss":"asefoɔ"}],"timestamp":"2026-09-15T20:23:17.020921474Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 21:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Eloohim kaa kyerɛɛ Abraham se: “Ɛnhaw wo wɔ ɔbarima no ho anaa w'akoa baa no ho; deɛ Sara bɛka akyerɛ wo nyinaa, tie no; ɛfiri sɛ wɔ Yitschak mu na wɔbɛfrɛ asefoɔ wo de.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛnhaw"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "nhaw wo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "wɔ w'ani so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "anaa wɔ ... ho"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "w'akoa baa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "bɛka akyerɛ wo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בקלה",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ביצחק",
+      "gloss": "wɔ Yitschak mu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wɔbɛfrɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo de"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "asefoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:17.020921474Z",
+  "model": "glm-5.3"
+}

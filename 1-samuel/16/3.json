@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-samuel 16:3","book":"1-samuel","lang":"tw","chapter":16,"translation":"Na frɛ Yishai wɔ afɔre no mu; na me bɛkyerɛ wo ⟨את⟩ deɛ wobɛyɛ; na hwiegu ngo frɛ me ⟨את⟩ deɛ mɛka kyerɛ wo no so.","tokens":[{"surface":"וקראת","gloss":"Na frɛ"},{"surface":"לישי","gloss":"Yishai"},{"surface":"בזבח","gloss":"wɔ afɔre no mu"},{"surface":"ואנכי","gloss":"na me"},{"surface":"אודיעך","gloss":"bɛkyerɛ wo"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ"},{"surface":"אשר","gloss":"deɛ"},{"surface":"תעשה","gloss":"wobɛyɛ"},{"surface":"ומשחת","gloss":"na hwiegu ngo frɛ"},{"surface":"לי","gloss":"me"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ"},{"surface":"אשר","gloss":"deɛ"},{"surface":"אמר","gloss":"mɛka"},{"surface":"אליך","gloss":"kyerɛ wo"}],"timestamp":"2026-09-15T22:54:54.178706700Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na frɛ Yishai wɔ afɔre no mu; na me bɛkyerɛ wo ⟨את⟩ deɛ wobɛyɛ; na hwiegu ngo frɛ me ⟨את⟩ deɛ mɛka kyerɛ wo no so.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Na frɛ"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "wɔ afɔre no mu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "bɛkyerɛ wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na hwiegu ngo frɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kyerɛ wo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:54.178706700Z",
+  "model": "glm-5.3"
+}

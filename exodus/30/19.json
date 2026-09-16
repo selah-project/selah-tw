@@ -1,1 +1,47 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "exodus 30:19", "book": "exodus", "lang": "tw", "chapter": 30, "translation": "na Aharon ne ne mma besu ⟨את⟩ wɔn nsa ne ⟨את⟩ wɔn nan ho wɔ mu;", "tokens": [{"surface": "ורחצו", "gloss": "besu"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ובניו", "gloss": "ne ne mma"}, {"surface": "ממנו", "gloss": "wɔ mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nsa"}, {"surface": "ידיהם", "gloss": "wɔn nsa"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn nan"}, {"surface": "רגליהם", "gloss": "wɔn nan"}], "timestamp": "2026-09-15T21:00:31.222438439Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "na Aharon ne ne mma besu ⟨את⟩ wɔn nsa ne ⟨את⟩ wɔn nan ho wɔ mu;",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "besu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nan"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "wɔn nan"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:31.222438439Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":14,"ref":"2-chronicles 31:14","book":"2-chronicles","lang":"tw","chapter":31,"translation":"Kore, Yimna ba, Levini no, ɔbɔnefoɔ a ɔhwɛ apueeɛ fam, na ɔhwɛ Eloohim nnyedie so, sɛ ɔbɛma Yawe nkontombole ne nne kronkronnnne.","tokens":[{"surface":"וקורא","gloss":"Kore"},{"surface":"בן","gloss":"ba"},{"surface":"ימנה","gloss":"Yimna"},{"surface":"הלוי","gloss":"Levini no"},{"surface":"השוער","gloss":"ɔbɔnefoɔ"},{"surface":"למזרחה","gloss":"a ɔhwɛ apueeɛ fam"},{"surface":"על","gloss":"na ɔhwɛ ... so"},{"surface":"נדבות","gloss":"nnyedie"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"לתת","gloss":"sɛ ɔbɛma"},{"surface":"תרומת","gloss":"nkontombole"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"וקדשי","gloss":"ne nne kronkronnnne"},{"surface":"הקדשים","gloss":"kronkronnnne"}],"timestamp":"2026-09-16T06:03:10.400656765Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 31:14",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Kore, Yimna ba, Levini no, ɔbɔnefoɔ a ɔhwɛ apueeɛ fam, na ɔhwɛ Eloohim nnyedie so, sɛ ɔbɛma Yawe nkontombole ne nne kronkronnnne.",
+  "tokens": [
+    {
+      "surface": "וקורא",
+      "gloss": "Kore"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Yimna"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levini no"
+    },
+    {
+      "surface": "השוער",
+      "gloss": "ɔbɔnefoɔ"
+    },
+    {
+      "surface": "למזרחה",
+      "gloss": "a ɔhwɛ apueeɛ fam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na ɔhwɛ ... so"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "nnyedie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ ɔbɛma"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "nkontombole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וקדשי",
+      "gloss": "ne nne kronkronnnne"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kronkronnnne"
+    }
+  ],
+  "timestamp": "2026-09-16T06:03:10.400656765Z",
+  "model": "glm-5.3"
+}

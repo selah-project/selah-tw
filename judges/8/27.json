@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "judges 8:27", "book": "judges", "lang": "tw", "chapter": 8, "translation": "⟨את⟩ Gidon yɛɛ ⟨את⟩ no efod, na ɔde sii ne kurow mu, Ofera; na Yisrael nyinaa dii awarefɛ kyɛeɛ no hɔ, na ɛyɛɛ Gidon ne n'efie asoɔnto.", "tokens": [{"surface": "ויעש", "gloss": "yɛɛ"}, {"surface": "אותו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "גדעון", "gloss": "Gidon"}, {"surface": "לאפוד", "gloss": "efod"}, {"surface": "ויצג", "gloss": "ɔde sii"}, {"surface": "אותו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "בעירו", "gloss": "ne kurow mu"}, {"surface": "בעפרה", "gloss": "Ofera"}, {"surface": "ויזנו", "gloss": "dii awarefɛ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "אחריו", "gloss": "kyɛeɛ no"}, {"surface": "שם", "gloss": "hɔ"}, {"surface": "ויהי", "gloss": "ɛyɛɛ"}, {"surface": "לגדעון", "gloss": "Gidon"}, {"surface": "ולביתו", "gloss": "ne n'efie"}, {"surface": "למוקש", "gloss": "asoɔnto"}], "timestamp": "2026-09-15T22:38:47.615997561Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 8:27",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "⟨את⟩ Gidon yɛɛ ⟨את⟩ no efod, na ɔde sii ne kurow mu, Ofera; na Yisrael nyinaa dii awarefɛ kyɛeɛ no hɔ, na ɛyɛɛ Gidon ne n'efie asoɔnto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidon"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויצג",
+      "gloss": "ɔde sii"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "ne kurow mu"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "Ofera"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "dii awarefɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kyɛeɛ no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ɛyɛɛ"
+    },
+    {
+      "surface": "לגדעון",
+      "gloss": "Gidon"
+    },
+    {
+      "surface": "ולביתו",
+      "gloss": "ne n'efie"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "asoɔnto"
+    }
+  ],
+  "timestamp": "2026-09-15T22:38:47.615997561Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 48:6","book":"psalms","lang":"tw","chapter":48,"translation":"Wɔn hunuu ⟨הו⟩, na wɔdwirw, wɔyɛɛ nwunuam, na wɔguu ahofama so","tokens":[{"surface":"המה","gloss":"Wɔn"},{"surface":"ראו","gloss":"hunuu"},{"surface":"כן","gloss":"enteɛ"},{"surface":"תמהו","gloss":"wɔdwirw"},{"surface":"נבהלו","gloss":"wɔyɛɛ nwunuam"},{"surface":"נחפזו","gloss":"wɔguu ahofama so"}],"timestamp":"2026-09-16T01:52:26.656729517Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Wɔn hunuu ⟨הו⟩, na wɔdwirw, wɔyɛɛ nwunuam, na wɔguu ahofama so",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Wɔn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "enteɛ"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "wɔdwirw"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "wɔyɛɛ nwunuam"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "wɔguu ahofama so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:52:26.656729517Z",
+  "model": "glm-5.3"
+}

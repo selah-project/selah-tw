@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":11,"ref":"song-of-songs 3:11","book":"song-of-songs","lang":"tw","chapter":3,"translation":"Momfri mu mɔ na monhwɛ, Zion mma, Ɔhene Shelomoh, wɔ korona ⟨ahemfo atadeɛ a wɔde sii n'ani⟩ no mu, deɛ ne maame de korona sii no, ne awodie da mu, ne n'akoma anigyeɛ da mu.","tokens":[{"surface":"צאינה","gloss":"Momfri mu mɔ"},{"surface":"וראינה","gloss":"na monhwɛ"},{"surface":"בנות","gloss":"mma"},{"surface":"ציון","gloss":"Zion"},{"surface":"במלך","gloss":"wɔ Ɔhene"},{"surface":"שלמה","gloss":"Shelomoh"},{"surface":"בעטרה","gloss":"wɔ korona no mu"},{"surface":"שעטרה","gloss":"de korona sii no"},{"surface":"לו","gloss":"no"},{"surface":"אמו","gloss":"ne maame"},{"surface":"ביום","gloss":"ne ... da mu"},{"surface":"חתנתו","gloss":"awodie"},{"surface":"וביום","gloss":"ne ... da mu nso"},{"surface":"שמחת","gloss":"anigyeɛ"},{"surface":"לבו","gloss":"n'akoma"}],"timestamp":"2026-09-16T03:42:46.022041092Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 3:11",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Momfri mu mɔ na monhwɛ, Zion mma, Ɔhene Shelomoh, wɔ korona ⟨ahemfo atadeɛ a wɔde sii n'ani⟩ no mu, deɛ ne maame de korona sii no, ne awodie da mu, ne n'akoma anigyeɛ da mu.",
+  "tokens": [
+    {
+      "surface": "צאינה",
+      "gloss": "Momfri mu mɔ"
+    },
+    {
+      "surface": "וראינה",
+      "gloss": "na monhwɛ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "wɔ Ɔhene"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בעטרה",
+      "gloss": "wɔ korona no mu"
+    },
+    {
+      "surface": "שעטרה",
+      "gloss": "de korona sii no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ne ... da mu"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "awodie"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ne ... da mu nso"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "n'akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T03:42:46.022041092Z",
+  "model": "glm-5.3"
+}

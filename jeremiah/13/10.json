@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "jeremiah 13:10", "book": "jeremiah", "lang": "tw", "chapter": 13, "translation": "Nnipa boneyifoɔ yi a wɔampae ⟨את⟩ me nsɛm no ntie, a wɔdi wɔn akoma denkyerɛ so, na wɔkɔɔ eloohim afoforɔ akyi som wɔn ne wɔsom wɔn — wɔbɛyɛ te sɛ tɛkyerɛma yi a ɛnni mfasoɔ biara.", "tokens": [{"surface": "העם", "gloss": "nnipa"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "הרע", "gloss": "boneyifoɔ"}, {"surface": "המאנים", "gloss": "wɔampae"}, {"surface": "לשמוע", "gloss": "ntie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nsɛm"}, {"surface": "דברי", "gloss": "me nsɛm"}, {"surface": "ההלכים", "gloss": "a wɔdi"}, {"surface": "בשררות", "gloss": "denkyerɛ mu"}, {"surface": "לבם", "gloss": "wɔn akoma"}, {"surface": "וילכו", "gloss": "wɔkɔɔ"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "אלהים", "gloss": "eloohim"}, {"surface": "אחרים", "gloss": "afoforɔ"}, {"surface": "לעבדם", "gloss": "som wɔn"}, {"surface": "ולהשתחות", "gloss": "ne wɔsom wɔn"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "ויהי", "gloss": "ɛbɛyɛ"}, {"surface": "כאזור", "gloss": "te sɛ tɛkyerɛma"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "nnyɛ"}, {"surface": "יצלח", "gloss": "ɛnni mfasoɔ"}, {"surface": "לכל", "gloss": "biara"}], "timestamp": "2026-09-16T00:11:30.734440028Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 13:10",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Nnipa boneyifoɔ yi a wɔampae ⟨את⟩ me nsɛm no ntie, a wɔdi wɔn akoma denkyerɛ so, na wɔkɔɔ eloohim afoforɔ akyi som wɔn ne wɔsom wɔn — wɔbɛyɛ te sɛ tɛkyerɛma yi a ɛnni mfasoɔ biara.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "boneyifoɔ"
+    },
+    {
+      "surface": "המאנים",
+      "gloss": "wɔampae"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "ntie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsɛm"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "me nsɛm"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "a wɔdi"
+    },
+    {
+      "surface": "בשררות",
+      "gloss": "denkyerɛ mu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wɔkɔɔ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "afoforɔ"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "som wɔn"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "ne wɔsom wɔn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "כאזור",
+      "gloss": "te sɛ tɛkyerɛma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ɛnni mfasoɔ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "biara"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:30.734440028Z",
+  "model": "glm-5.3"
+}

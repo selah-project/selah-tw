@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "exodus 10:4", "book": "exodus", "lang": "tw", "chapter": 10, "translation": "Ɛfiri sɛ sɛ wopow sɛ wobɛma ⟨את⟩ me nkurɔfoɔ nkɔ a, mehwɛ, metwi nkontomrobro mo wo wo awerɛhyemudin so.”", "tokens": [{"surface": "כי", "gloss": "Ɛfiri sɛ"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "מאן", "gloss": "wopow"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "לשלח", "gloss": "sɛ wobɛma ... nkɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nkurɔfoɔ"}, {"surface": "עמי", "gloss": "me nkurɔfoɔ"}, {"surface": "הנני", "gloss": "mehwɛ"}, {"surface": "מביא", "gloss": "metwi"}, {"surface": "מחר", "gloss": "nkontomrobro"}, {"surface": "ארבה", "gloss": "mo"}, {"surface": "בגבלך", "gloss": "wo awerɛhyemudin so"}], "timestamp": "2026-09-15T20:48:19.455725695Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɛfiri sɛ sɛ wopow sɛ wobɛma ⟨את⟩ me nkurɔfoɔ nkɔ a, mehwɛ, metwi nkontomrobro mo wo wo awerɛhyemudin so.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "wopow"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "sɛ wobɛma ... nkɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mehwɛ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "metwi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nkontomrobro"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "wo awerɛhyemudin so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:19.455725695Z",
+  "model": "glm-5.3"
+}

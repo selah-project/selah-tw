@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":15,"ref":"numbers 26:15","book":"numbers","lang":"tw","chapter":26,"translation":"Gad mma wɔ abusua mu: sɛ Tsefon: abusua ⟨ha⟩ Tsefoni; sɛ Khagi: abusua ⟨ha⟩ Khagui; sɛ Shuni: abusua ⟨ha⟩ Shuni.","tokens":[{"surface":"בני","gloss":"mma"},{"surface":"גד","gloss":"Gad"},{"surface":"למשפחתם","gloss":"wɔ abusua mu"},{"surface":"לצפון","gloss":"sɛ Tsefon"},{"surface":"משפחת","gloss":"abusua"},{"surface":"הצפוני","gloss":"Tsefoni"},{"surface":"לחגי","gloss":"sɛ Khagui"},{"surface":"משפחת","gloss":"abusua"},{"surface":"החגי","gloss":"Khagui deɛ"},{"surface":"לשוני","gloss":"sɛ Shuni"},{"surface":"משפחת","gloss":"abusua"},{"surface":"השוני","gloss":"Shuni deɛ"}],"timestamp":"2026-09-15T22:31:27.383539988Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Gad mma wɔ abusua mu: sɛ Tsefon: abusua ⟨ha⟩ Tsefoni; sɛ Khagi: abusua ⟨ha⟩ Khagui; sɛ Shuni: abusua ⟨ha⟩ Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "wɔ abusua mu"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "sɛ Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Tsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "sɛ Khagui"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Khagui deɛ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "sɛ Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Shuni deɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:31:27.383539988Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 85:4","book":"psalms","lang":"tw","chapter":85,"translation":"Woyii wo kotanhyeɛ nyinaa firi hɔ, wodane wo ankasa firii wo abufuo muhyeɛ no mu.","tokens":[{"surface":"אספת","gloss":"woyii ... firi hɔ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"עברתך","gloss":"wo kotanhyeɛ"},{"surface":"השיבות","gloss":"wodane wo ankasa firii"},{"surface":"מחרון","gloss":"muhyeɛ"},{"surface":"אפך","gloss":"wo abufuo"}],"timestamp":"2026-09-16T05:40:11.844430301Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "Woyii wo kotanhyeɛ nyinaa firi hɔ, wodane wo ankasa firii wo abufuo muhyeɛ no mu.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "woyii ... firi hɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "wo kotanhyeɛ"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "wodane wo ankasa firii"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "muhyeɛ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wo abufuo"
+    }
+  ],
+  "timestamp": "2026-09-16T05:40:11.844430301Z",
+  "model": "glm-5.3"
+}

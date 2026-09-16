@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":23,"ref":"isaiah 10:23","book":"isaiah","lang":"tw","chapter":10,"translation":"Ɛfiri sɛ awieeɛ a wɔahyɛ ato hɔ no, Adonai, Yawe Tsebaot, bɛyɛ no wɔ ⟨asase⟩ no nyinaa mu.","tokens":[{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"כלה","gloss":"awieeɛ"},{"surface":"ונחרצה","gloss":"a wɔahyɛ ato hɔ"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"עשה","gloss":"bɛyɛ"},{"surface":"בקרב","gloss":"wɔ … mu"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הארץ","gloss":"⟨asase⟩"}],"timestamp":"2026-09-16T05:23:37.923304077Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɛfiri sɛ awieeɛ a wɔahyɛ ato hɔ no, Adonai, Yawe Tsebaot, bɛyɛ no wɔ ⟨asase⟩ no nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "awieeɛ"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "a wɔahyɛ ato hɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨asase⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T05:23:37.923304077Z",
+  "model": "glm-5.3"
+}

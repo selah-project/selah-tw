@@ -1,1 +1,118 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "ezekiel 34:10", "book": "ezekiel", "lang": "tw", "chapter": 34, "translation": "Sɛdeɛ Adonai Yawe ka no: Sɛdeɛ mewiabere, megyina atia mmaranhofoɔ no; mɛhwehwɛ ⟨את⟩ me nnwan no wɔ wɔn nsa mu, na mama wɔntena mmaran ase bio; mmaranhofoɔ no remmara ⟨את⟩ wɔn ho bio; na mede me nnwan no bɛgya wɔn ano mu, na ɛrenyɛ aduane ama wɔn bio.", "tokens": [{"surface": "כה", "gloss": "Sɛdeɛ"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "הנני", "gloss": "mewiabere"}, {"surface": "אל", "gloss": "atia"}, {"surface": "הרעים", "gloss": "mmaranhofoɔ no"}, {"surface": "ודרשתי", "gloss": "mɛhwehwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nnwan no"}, {"surface": "צאני", "gloss": "me nnwan no"}, {"surface": "מידם", "gloss": "wɔ wɔn nsa mu"}, {"surface": "והשבתים", "gloss": "na mama wɔntena mmaran ase"}, {"surface": "מרעות", "gloss": "mmaran ase"}, {"surface": "צאן", "gloss": "nnwan"}, {"surface": "ולא", "gloss": "… bio"}, {"surface": "ירעו", "gloss": "remmara"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "הרעים", "gloss": "mmaranhofoɔ no"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn ho"}, {"surface": "והצלתי", "gloss": "na me… bɛgya"}, {"surface": "צאני", "gloss": "me nnwan no"}, {"surface": "מפיהם", "gloss": "wɔn ano mu"}, {"surface": "ולא", "gloss": "na ɛrenyɛ"}, {"surface": "תהיין", "gloss": "ɛrenyɛ"}, {"surface": "להם", "gloss": "ama wɔn"}, {"surface": "לאכלה", "gloss": "aduane"}], "timestamp": "2026-09-16T00:53:14.532081977Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 34:10",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Sɛdeɛ Adonai Yawe ka no: Sɛdeɛ mewiabere, megyina atia mmaranhofoɔ no; mɛhwehwɛ ⟨את⟩ me nnwan no wɔ wɔn nsa mu, na mama wɔntena mmaran ase bio; mmaranhofoɔ no remmara ⟨את⟩ wɔn ho bio; na mede me nnwan no bɛgya wɔn ano mu, na ɛrenyɛ aduane ama wɔn bio.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mewiabere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atia"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mmaranhofoɔ no"
+    },
+    {
+      "surface": "ודרשתי",
+      "gloss": "mɛhwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nnwan no"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "me nnwan no"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "wɔ wɔn nsa mu"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "na mama wɔntena mmaran ase"
+    },
+    {
+      "surface": "מרעות",
+      "gloss": "mmaran ase"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "… bio"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "remmara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mmaranhofoɔ no"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn ho"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "na me… bɛgya"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "me nnwan no"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "wɔn ano mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛrenyɛ"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ɛrenyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ama wɔn"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-16T00:53:14.532081977Z",
+  "model": "glm-5.3"
+}

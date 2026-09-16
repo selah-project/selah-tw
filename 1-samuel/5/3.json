@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "1-samuel 5:3", "book": "1-samuel", "lang": "tw", "chapter": 5, "translation": "Na Ashdodfoɔ sɔɔ anɔpa ntɛm, na hwɛ, ⟨את⟩ Dagon ato ase wɔ n'anim so, asase so, Yawe adaka no anim, enti wɔfaa ⟨את⟩ Dagon, na wɔde no san sii ne baabi so.", "tokens": [{"surface": "וישכמו", "gloss": "wɔsɔɔ anɔpa ntɛm"}, {"surface": "אשדודים", "gloss": "Ashdodfoɔ"}, {"surface": "ממחרת", "gloss": "ananmɔn no akyi"}, {"surface": "והנה", "gloss": "na hwɛ"}, {"surface": "דגון", "gloss": "Dagon"}, {"surface": "נפל", "gloss": "ato ase"}, {"surface": "לפניו", "gloss": "wɔ n'anim so"}, {"surface": "ארצה", "gloss": "asase so"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "ארון", "gloss": "adaka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ויקחו", "gloss": "wɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dagon"}, {"surface": "דגון", "gloss": "Dagon"}, {"surface": "וישבו", "gloss": "wɔde no san sii"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "ne baabi"}, {"surface": "למקומו", "gloss": "ne baabi so"}], "timestamp": "2026-09-15T22:48:03.996915030Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Ashdodfoɔ sɔɔ anɔpa ntɛm, na hwɛ, ⟨את⟩ Dagon ato ase wɔ n'anim so, asase so, Yawe adaka no anim, enti wɔfaa ⟨את⟩ Dagon, na wɔde no san sii ne baabi so.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "wɔsɔɔ anɔpa ntɛm"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "Ashdodfoɔ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ananmɔn no akyi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ato ase"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wɔ n'anim so"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wɔde no san sii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "ne baabi"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "ne baabi so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:03.996915030Z",
+  "model": "glm-5.3"
+}

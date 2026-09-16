@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 34, "ref": "leviticus 26:34", "book": "leviticus", "lang": "tw", "chapter": 26, "translation": "Saa bere no asase no bɛgya ⟨את⟩ ne Sobat da nyinaa, ɛberɛ a ɔda ahoyeraw mu nyinaa, na mo wɔ mo atamfoɔ asase mu; saa bere no asase no bɛhome na ɔbɛgya ⟨את⟩ ne Sobat da.", "tokens": [{"surface": "אז", "gloss": "saa bere no"}, {"surface": "תרצה", "gloss": "bɛgya"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne Sobat da"}, {"surface": "שבתתיה", "gloss": "ne Sobat da"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ימי", "gloss": "da"}, {"surface": "השמה", "gloss": "ɛberɛ a ɔda ahoyeraw mu"}, {"surface": "ואתם", "gloss": "na mo"}, {"surface": "בארץ", "gloss": "wɔ ... asase mu"}, {"surface": "איביכם", "gloss": "mo atamfoɔ"}, {"surface": "אז", "gloss": "saa bere no"}, {"surface": "תשבת", "gloss": "bɛhome"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "והרצת", "gloss": "na ɔbɛgya"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne Sobat da"}, {"surface": "שבתתיה", "gloss": "ne Sobat da"}], "timestamp": "2026-09-15T22:28:25.882145690Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 26:34",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Saa bere no asase no bɛgya ⟨את⟩ ne Sobat da nyinaa, ɛberɛ a ɔda ahoyeraw mu nyinaa, na mo wɔ mo atamfoɔ asase mu; saa bere no asase no bɛhome na ɔbɛgya ⟨את⟩ ne Sobat da.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "bɛgya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Sobat da"
+    },
+    {
+      "surface": "שבתתיה",
+      "gloss": "ne Sobat da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ɛberɛ a ɔda ahoyeraw mu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na mo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asase mu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mo atamfoɔ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "bɛhome"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "והרצת",
+      "gloss": "na ɔbɛgya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Sobat da"
+    },
+    {
+      "surface": "שבתתיה",
+      "gloss": "ne Sobat da"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:25.882145690Z",
+  "model": "glm-5.3"
+}

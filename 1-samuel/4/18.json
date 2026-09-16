@@ -1,1 +1,115 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "1-samuel 4:18", "book": "1-samuel", "lang": "tw", "chapter": 4, "translation": "Ɛbɛyɛɛ sɛ, ɛberɛ a ɔkaa Eloohim ⟨את⟩ adaka no ho asɛm no, ɔtɔɔ firi akongua no so akyi, ɛnkyɛ ɛpono no nkyɛn, na ne kɔn bɔeɛ, na ɔwuiɛ, ɛfiri sɛ ɔbarima no yɛ okokuroko na ɔyɛ mu duru; na ɔno dii Yisraɛl so ⟨את⟩ atemmu mfeɛ aduanan.", "tokens": [{"surface": "ויהי", "gloss": "ɛbɛyɛɛ sɛ"}, {"surface": "כהזכירו", "gloss": "ɛberɛ a ɔkaa ... ho asɛm"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Eloohim adaka"}, {"surface": "ארון", "gloss": "adaka"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "ויפל", "gloss": "ɔtɔɔ"}, {"surface": "מעל", "gloss": "firi ... so"}, {"surface": "הכסא", "gloss": "akongua no"}, {"surface": "אחרנית", "gloss": "akyi"}, {"surface": "בעד", "gloss": "ɛnkyɛ"}, {"surface": "יד", "gloss": "nkyɛn"}, {"surface": "השער", "gloss": "ɛpono no"}, {"surface": "ותשבר", "gloss": "bɔeɛ"}, {"surface": "מפרקתו", "gloss": "ne kɔn"}, {"surface": "וימת", "gloss": "ɔwuiɛ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "זקן", "gloss": "yɛ okokuroko"}, {"surface": "האיש", "gloss": "ɔbarima no"}, {"surface": "וכבד", "gloss": "na ɔyɛ mu duru"}, {"surface": "והוא", "gloss": "na ɔno"}, {"surface": "שפט", "gloss": "dii atemmu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisraɛl"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "ארבעים", "gloss": "aduanan"}, {"surface": "שנה", "gloss": "mfeɛ"}], "timestamp": "2026-09-15T22:48:17.666165342Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 4:18",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛbɛyɛɛ sɛ, ɛberɛ a ɔkaa Eloohim ⟨את⟩ adaka no ho asɛm no, ɔtɔɔ firi akongua no so akyi, ɛnkyɛ ɛpono no nkyɛn, na ne kɔn bɔeɛ, na ɔwuiɛ, ɛfiri sɛ ɔbarima no yɛ okokuroko na ɔyɛ mu duru; na ɔno dii Yisraɛl so ⟨את⟩ atemmu mfeɛ aduanan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ɛbɛyɛɛ sɛ"
+    },
+    {
+      "surface": "כהזכירו",
+      "gloss": "ɛberɛ a ɔkaa ... ho asɛm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim adaka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ɔtɔɔ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi ... so"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "akongua no"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ɛnkyɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ɛpono no"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "bɔeɛ"
+    },
+    {
+      "surface": "מפרקתו",
+      "gloss": "ne kɔn"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ɔwuiɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yɛ okokuroko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "na ɔyɛ mu duru"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dii atemmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:17.666165342Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,118 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "isaiah 59:21", "book": "isaiah", "lang": "tw", "chapter": 59, "translation": "Na me deɛ, me nhyehyɛeɛ ne me ne wɔn, Yawe ⟨את⟩ ka sɛ: me Honhom a ɛwɔ wo so, ne me nsɛm a mahyɛ aseɛ wɔ wo anomu no, ɛnnyera fri wo anomu, na ɛnnyera fri wo aseɛ anomu, na ɛnnyera fri wo aseɛ n'aseɛ anomu, Yawe ka, firi seɛre yi de kɔ abɔso.", "tokens": [{"surface": "ואני", "gloss": "Na me deɛ"}, {"surface": "זאת", "gloss": "saa"}, {"surface": "בריתי", "gloss": "me nhyehyɛeɛ"}, {"surface": "אותם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "אמר", "gloss": "ka sɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "רוחי", "gloss": "me Honhom"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עליך", "gloss": "ɛwɔ wo so"}, {"surface": "ודברי", "gloss": "ne me nsɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "שמתי", "gloss": "mahyɛ aseɛ"}, {"surface": "בפיך", "gloss": "wɔ wo anomu"}, {"surface": "לא", "gloss": "ɛnnyera"}, {"surface": "ימושו", "gloss": "remfiri"}, {"surface": "מפיך", "gloss": "wo anomu"}, {"surface": "ומפי", "gloss": "na fri"}, {"surface": "זרעך", "gloss": "wo aseɛ anomu"}, {"surface": "ומפי", "gloss": "na fri"}, {"surface": "זרע", "gloss": "aseɛ"}, {"surface": "זרעך", "gloss": "wo aseɛ n'aseɛ anomu"}, {"surface": "אמר", "gloss": "ka sɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "מעתה", "gloss": "firi seɛre yi de"}, {"surface": "ועד", "gloss": "kɔ"}, {"surface": "עולם", "gloss": "abɔso"}], "timestamp": "2026-09-16T00:00:04.169654806Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 59,
+  "translation": "Na me deɛ, me nhyehyɛeɛ ne me ne wɔn, Yawe ⟨את⟩ ka sɛ: me Honhom a ɛwɔ wo so, ne me nsɛm a mahyɛ aseɛ wɔ wo anomu no, ɛnnyera fri wo anomu, na ɛnnyera fri wo aseɛ anomu, na ɛnnyera fri wo aseɛ n'aseɛ anomu, Yawe ka, firi seɛre yi de kɔ abɔso.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me deɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me nhyehyɛeɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "me Honhom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɛwɔ wo so"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ne me nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "mahyɛ aseɛ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "wɔ wo anomu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnnyera"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "remfiri"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "wo anomu"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "na fri"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo aseɛ anomu"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "na fri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo aseɛ n'aseɛ anomu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "firi seɛre yi de"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abɔso"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:04.169654806Z",
+  "model": "glm-5.3"
+}

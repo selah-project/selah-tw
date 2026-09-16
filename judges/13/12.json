@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":12,"ref":"judges 13:12","book":"judges","lang":"tw","chapter":13,"translation":"Manoah kaa sɛ: “Seesei, sɛ w'asɛm ba mu a, dɛn na abɔfra no atemmuyi ne ne dwuma bɛyɛ?”","tokens":[{"surface":"ויאמר","gloss":"na ɔkaa sɛ"},{"surface":"מנוח","gloss":"Manoah"},{"surface":"עתה","gloss":"seesei"},{"surface":"יבא","gloss":"ɛbɛba"},{"surface":"דבריך","gloss":"w'asɛm"},{"surface":"מה","gloss":"dɛn"},{"surface":"יהיה","gloss":"bɛyɛ"},{"surface":"משפט","gloss":"atemmui"},{"surface":"הנער","gloss":"abɔfra no"},{"surface":"ומעשהו","gloss":"ne dwuma"}],"timestamp":"2026-09-16T06:55:40.920892496Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Manoah kaa sɛ: “Seesei, sɛ w'asɛm ba mu a, dɛn na abɔfra no atemmuyi ne ne dwuma bɛyɛ?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "seesei"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ɛbɛba"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "w'asɛm"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmui"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ne dwuma"
+    }
+  ],
+  "timestamp": "2026-09-16T06:55:40.920892496Z",
+  "model": "glm-5.3"
+}

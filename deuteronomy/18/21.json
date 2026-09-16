@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "deuteronomy 18:21", "book": "deuteronomy", "lang": "tw", "chapter": 18, "translation": "Na sɛ woka w’akoma mu sɛ, Yɛbɛyɛ dɛn na yɛahunu ⟨את⟩ asɛm a Yawe annka ato hɔ?", "tokens": [{"surface": "וכי", "gloss": "Na sɛ"}, {"surface": "תאמר", "gloss": "woka"}, {"surface": "בלבבך", "gloss": "w’akoma mu"}, {"surface": "איכה", "gloss": "Yɛbɛyɛ dɛn"}, {"surface": "נדע", "gloss": "na yɛahunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm"}, {"surface": "הדבר", "gloss": "asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "annka ato hɔ"}, {"surface": "דברו", "gloss": "annka ato hɔ"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T21:52:40.405538595Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na sɛ woka w’akoma mu sɛ, Yɛbɛyɛ dɛn na yɛahunu ⟨את⟩ asɛm a Yawe annka ato hɔ?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "woka"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "w’akoma mu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Yɛbɛyɛ dɛn"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "na yɛahunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annka ato hɔ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "annka ato hɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:40.405538595Z",
+  "model": "glm-5.3"
+}

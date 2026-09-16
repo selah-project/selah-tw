@@ -1,1 +1,148 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "2-kings 23:8", "book": "2-kings", "lang": "tw", "chapter": 23, "translation": "Na ɔfrɛɛ ⟨את⟩ asɔfoɔ ⟨את⟩ nyinaa firi Yuda nkurow mu, na ɔmaa babom mmɔntene a asɔfoɔ hyɛɛ nnu mu hɔ no yɛɛ ntfie; firi Geba kɔsi Beer-Sheba. Na ɔbubuu ⟨את⟩ ɔpono ano babom mmɔntene a ɛwɔ Yehoshua, kurow no ɔhene, ɔpono ano no — ɛwɔ onipa benkum so wɔ kurow ɔpono no mu.", "tokens": [{"surface": "ויבא", "gloss": "Na ɔfrɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɔfoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הכהנים", "gloss": "asɔfoɔ"}, {"surface": "מערי", "gloss": "firi nkurow mu"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "ויטמא", "gloss": "na ɔmaa...yɛɛ ntfie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "babom mmɔntene"}, {"surface": "הבמות", "gloss": "babom mmɔntene"}, {"surface": "אשר", "gloss": "a"}, {"surface": "קטרו", "gloss": "hyɛɛ nnu mu"}, {"surface": "שמה", "gloss": "hɔ"}, {"surface": "הכהנים", "gloss": "asɔfoɔ"}, {"surface": "מגבע", "gloss": "firi Geba"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "באר", "gloss": "Beer"}, {"surface": "שבע", "gloss": "Sheba"}, {"surface": "ונתץ", "gloss": "Na ɔbubuu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "babom mmɔntene"}, {"surface": "במות", "gloss": "babom mmɔntene"}, {"surface": "השערים", "gloss": "ɔpono ano"}, {"surface": "אשר", "gloss": "a"}, {"surface": "פתח", "gloss": "ɛwɔ ano"}, {"surface": "שער", "gloss": "ɔpono"}, {"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "שר", "gloss": "ɔhene"}, {"surface": "העיר", "gloss": "kurow no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "על", "gloss": "wɔ...so"}, {"surface": "שמאול", "gloss": "benkum"}, {"surface": "איש", "gloss": "onipa"}, {"surface": "בשער", "gloss": "wɔ ɔpono no mu"}, {"surface": "העיר", "gloss": "kurow"}], "timestamp": "2026-09-15T23:38:38.018049635Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 23:8",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na ɔfrɛɛ ⟨את⟩ asɔfoɔ ⟨את⟩ nyinaa firi Yuda nkurow mu, na ɔmaa babom mmɔntene a asɔfoɔ hyɛɛ nnu mu hɔ no yɛɛ ntfie; firi Geba kɔsi Beer-Sheba. Na ɔbubuu ⟨את⟩ ɔpono ano babom mmɔntene a ɛwɔ Yehoshua, kurow no ɔhene, ɔpono ano no — ɛwɔ onipa benkum so wɔ kurow ɔpono no mu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Na ɔfrɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɔfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "firi nkurow mu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויטמא",
+      "gloss": "na ɔmaa...yɛɛ ntfie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babom mmɔntene"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "babom mmɔntene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "קטרו",
+      "gloss": "hyɛɛ nnu mu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "firi Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ונתץ",
+      "gloss": "Na ɔbubuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babom mmɔntene"
+    },
+    {
+      "surface": "במות",
+      "gloss": "babom mmɔntene"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ɔpono ano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ɛwɔ ano"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɔpono"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ...so"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "benkum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "wɔ ɔpono no mu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow"
+    }
+  ],
+  "timestamp": "2026-09-15T23:38:38.018049635Z",
+  "model": "glm-5.3"
+}

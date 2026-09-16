@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "genesis 16:3", "book": "genesis", "lang": "tw", "chapter": 16, "translation": "Sarai, Abram yere, faa ⟨את⟩ Hagar Misraim-ni ⟨את⟩ no, n'akua, bere a na Abram atena Kenaan asase so afe du no awieɛ; na ɔde no maa Abram, ne kunu, sɛ yere ma no.", "tokens": [{"surface": "ותקח", "gloss": "faa"}, {"surface": "שרי", "gloss": "Sarai"}, {"surface": "אשת", "gloss": "yere"}, {"surface": "אברם", "gloss": "Abram"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Hagar Misraim-ni no"}, {"surface": "הגר", "gloss": "Hagar"}, {"surface": "המצרית", "gloss": "Misraim-ni no"}, {"surface": "שפחתה", "gloss": "n'akua"}, {"surface": "מקץ", "gloss": "awieɛ"}, {"surface": "עשר", "gloss": "du"}, {"surface": "שנים", "gloss": "afe"}, {"surface": "לשבת", "gloss": "atena"}, {"surface": "אברם", "gloss": "Abram"}, {"surface": "בארץ", "gloss": "asase so"}, {"surface": "כנען", "gloss": "Kenaan"}, {"surface": "ותתן", "gloss": "ɔde no maa"}, {"surface": "אתה", "gloss": "⟨את⟩ no"}, {"surface": "לאברם", "gloss": "maa Abram"}, {"surface": "אישה", "gloss": "ne kunu"}, {"surface": "לו", "gloss": "ma no"}, {"surface": "לאשה", "gloss": "sɛ yere"}], "timestamp": "2026-09-15T20:21:33.723307376Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Sarai, Abram yere, faa ⟨את⟩ Hagar Misraim-ni ⟨את⟩ no, n'akua, bere a na Abram atena Kenaan asase so afe du no awieɛ; na ɔde no maa Abram, ne kunu, sɛ yere ma no.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar Misraim-ni no"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Misraim-ni no"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "n'akua"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "awieɛ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "atena"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ɔde no maa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "maa Abram"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ne kunu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sɛ yere"
+    }
+  ],
+  "timestamp": "2026-09-15T20:21:33.723307376Z",
+  "model": "glm-5.3"
+}

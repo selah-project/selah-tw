@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":10,"ref":"exodus 3:10","book":"exodus","lang":"tw","chapter":3,"translation":"Na seesei, bra, na mede wo bɛsoma akɔ Paro nkyɛn, na fa w'amanfoɔ no ⟨את⟩, Yisrael mma, firi Misraim.","tokens":[{"surface":"ועתה","gloss":"na seesei"},{"surface":"לכה","gloss":"bra"},{"surface":"ואשלחך","gloss":"na mede wo bɛsoma"},{"surface":"אל","gloss":"akɔ"},{"surface":"פרעה","gloss":"Paro nkyɛn"},{"surface":"והוצא","gloss":"na fa"},{"surface":"את","gloss":"⟨את⟩","marks":"wʼamanfoɔ no"},{"surface":"עמי","gloss":"w'amanfoɔ no"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ממצרים","gloss":"firi Misraim"}],"timestamp":"2026-09-15T20:45:43.794452167Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na seesei, bra, na mede wo bɛsoma akɔ Paro nkyɛn, na fa w'amanfoɔ no ⟨את⟩, Yisrael mma, firi Misraim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "bra"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "na mede wo bɛsoma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro nkyɛn"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "na fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wʼamanfoɔ no"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "w'amanfoɔ no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "firi Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:45:43.794452167Z",
+  "model": "glm-5.3"
+}

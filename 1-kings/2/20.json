@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "1-kings 2:20", "book": "1-kings", "lang": "tw", "chapter": 2, "translation": "Na ɔkaa sɛ: Miswa bi ketewa bi na misrɛ ⟨את⟩ wo; twa ⟨את⟩ me anim; na ɔhene no kaa sɛ: Bisa, me maame, ɛfiri sɛ mentwa ⟨את⟩ wo anim.", "tokens": [{"surface": "ותאמר", "gloss": "Na ɔkaa sɛ"}, {"surface": "שאלה", "gloss": "miswa"}, {"surface": "אחת", "gloss": "bi"}, {"surface": "קטנה", "gloss": "ketewa bi"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "שאלת", "gloss": "misrɛ"}, {"surface": "מאתך", "gloss": "⟨את⟩ wo"}, {"surface": "אל", "gloss": "mma"}, {"surface": "תשב", "gloss": "twa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me anim"}, {"surface": "פני", "gloss": "me anim"}, {"surface": "ויאמר", "gloss": "na ... kaa sɛ"}, {"surface": "לה", "gloss": "no"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "שאלי", "gloss": "Bisa"}, {"surface": "אמי", "gloss": "me maame"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "m-"}, {"surface": "אשיב", "gloss": "ntwa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo anim"}, {"surface": "פניך", "gloss": "wo anim"}], "timestamp": "2026-09-15T23:13:11.636429427Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔkaa sɛ: Miswa bi ketewa bi na misrɛ ⟨את⟩ wo; twa ⟨את⟩ me anim; na ɔhene no kaa sɛ: Bisa, me maame, ɛfiri sɛ mentwa ⟨את⟩ wo anim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na ɔkaa sɛ"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "miswa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bi"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ketewa bi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "misrɛ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "twa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... kaa sɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Bisa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "me maame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m-"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo anim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:11.636429427Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "leviticus 23:4", "book": "leviticus", "lang": "tw", "chapter": 23, "translation": "Ɛno ne Yawe nhyiamuda, kronkron nhyiamu, deɛ mobɛfrɛ ⟨את⟩ wɔ wɔn berɛ mu.", "tokens": [{"surface": "אלה", "gloss": "Ɛno"}, {"surface": "מועדי", "gloss": "nhyiamuda"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "מקראי", "gloss": "nhyiamu"}, {"surface": "קדש", "gloss": "kronkron"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "תקראו", "gloss": "mobɛfrɛ"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔ berɛ mu"}, {"surface": "במועדם", "gloss": "wɔ wɔn berɛ mu"}], "timestamp": "2026-09-15T21:20:36.398479765Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Ɛno ne Yawe nhyiamuda, kronkron nhyiamu, deɛ mobɛfrɛ ⟨את⟩ wɔ wɔn berɛ mu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɛno"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nhyiamuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "nhyiamu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "mobɛfrɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔ berɛ mu"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "wɔ wɔn berɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:36.398479765Z",
+  "model": "glm-5.3"
+}

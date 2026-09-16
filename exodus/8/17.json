@@ -1,1 +1,112 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "exodus 8:17", "book": "exodus", "lang": "tw", "chapter": 8, "translation": "Sɛ wunnma ⟨את⟩ me nkorɔfo nnkɔ a, mehwɛ, mɛsoma ⟨את⟩ nnɔnomyɛm wo so, ne wo akɔmfo so, ne wo nkorɔfo so, na wo afie mu; na Misraim afie bɛhyɛ ma ⟨את⟩ nnɔnomyɛm, na asase a wɔwɔ so no nso.", "tokens": [{"surface": "כי", "gloss": "sɛ"}, {"surface": "אם", "gloss": "a"}, {"surface": "אינך", "gloss": "wunnma"}, {"surface": "משלח", "gloss": "nnkɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nkorɔfo"}, {"surface": "עמי", "gloss": "me nkorɔfo"}, {"surface": "הנני", "gloss": "mehwɛ"}, {"surface": "משליח", "gloss": "mɛsoma"}, {"surface": "בך", "gloss": "wo so"}, {"surface": "ובעבדיך", "gloss": "ne wo akɔmfo so"}, {"surface": "ובעמך", "gloss": "ne wo nkorɔfo so"}, {"surface": "ובבתיך", "gloss": "na wo afie mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnɔnomyɛm"}, {"surface": "הערב", "gloss": "nnɔnomyɛm"}, {"surface": "ומלאו", "gloss": "bɛhyɛ ma"}, {"surface": "בתי", "gloss": "afie"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnɔnomyɛm"}, {"surface": "הערב", "gloss": "nnɔnomyɛm"}, {"surface": "וגם", "gloss": "na ... nso"}, {"surface": "האדמה", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הם", "gloss": "wɔ"}, {"surface": "עליה", "gloss": "so"}], "timestamp": "2026-09-15T20:47:26.296812043Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 8:17",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Sɛ wunnma ⟨את⟩ me nkorɔfo nnkɔ a, mehwɛ, mɛsoma ⟨את⟩ nnɔnomyɛm wo so, ne wo akɔmfo so, ne wo nkorɔfo so, na wo afie mu; na Misraim afie bɛhyɛ ma ⟨את⟩ nnɔnomyɛm, na asase a wɔwɔ so no nso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wunnma"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nnkɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkorɔfo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mehwɛ"
+    },
+    {
+      "surface": "משליח",
+      "gloss": "mɛsoma"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "ne wo akɔmfo so"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ne wo nkorɔfo so"
+    },
+    {
+      "surface": "ובבתיך",
+      "gloss": "na wo afie mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnɔnomyɛm"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nnɔnomyɛm"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "bɛhyɛ ma"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "afie"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnɔnomyɛm"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nnɔnomyɛm"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ... nso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:26.296812043Z",
+  "model": "glm-5.3"
+}

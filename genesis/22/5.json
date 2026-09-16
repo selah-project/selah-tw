@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":5,"ref":"genesis 22:5","book":"genesis","lang":"tw","chapter":22,"translation":"Abraham kaa kyɛɛ n'akrantefoɔ sɛ: “Tenam mo nkyɛn ha na abirekyie no; me ne abarimaa no bɛkɔ hɔ kɔsi baabi akyi, na yɛbɛbɔ mpaeɛ, na yɛbesan aba mo nkyɛn.”","tokens":[{"surface":"ויאמר","gloss":"kaa kyɛɛ"},{"surface":"אברהם","gloss":"Abraham"},{"surface":"אל","gloss":"kyɛɛ"},{"surface":"נעריו","gloss":"n'akrantefoɔ"},{"surface":"שבו","gloss":"Tenam"},{"surface":"לכם","gloss":"mo nkyɛn"},{"surface":"פה","gloss":"ha"},{"surface":"עם","gloss":"na"},{"surface":"החמור","gloss":"abirekyie no"},{"surface":"ואני","gloss":"me"},{"surface":"והנער","gloss":"abarimaa no"},{"surface":"נלכה","gloss":"bɛkɔ"},{"surface":"עד","gloss":"kɔsi"},{"surface":"כה","gloss":"hɔ"},{"surface":"ונשתחוה","gloss":"yɛbɛbɔ mpaeɛ"},{"surface":"ונשובה","gloss":"yɛbesan aba"},{"surface":"אליכם","gloss":"mo nkyɛn"}],"timestamp":"2026-09-15T20:23:22.095942061Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Abraham kaa kyɛɛ n'akrantefoɔ sɛ: “Tenam mo nkyɛn ha na abirekyie no; me ne abarimaa no bɛkɔ hɔ kɔsi baabi akyi, na yɛbɛbɔ mpaeɛ, na yɛbesan aba mo nkyɛn.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛɛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyɛɛ"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "n'akrantefoɔ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Tenam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo nkyɛn"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "abirekyie no"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "me"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "abarimaa no"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "yɛbɛbɔ mpaeɛ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "yɛbesan aba"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:22.095942061Z",
+  "model": "glm-5.3"
+}

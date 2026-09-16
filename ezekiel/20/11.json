@@ -1,1 +1,73 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "ezekiel 20:11", "book": "ezekiel", "lang": "tw", "chapter": 20, "translation": "Na manoa ⟨את⟩ me mmara ma wɔn, na ⟨את⟩ m'atempammu ahorow no maa wɔn ho nyinasoɔ; ⟨את⟩ onipa a ɔbɛyɛ ⟨את⟩ no bɛtena aseɛ wɔ mu.", "tokens": [{"surface": "ואתן", "gloss": "Na manoa maa"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me mmara"}, {"surface": "חקותי", "gloss": "me mmara"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "m'atempammu ahorow"}, {"surface": "משפטי", "gloss": "m'atempammu ahorow"}, {"surface": "הודעתי", "gloss": "maa wɔn ho nyinasoɔ"}, {"surface": "אותם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "אשר", "gloss": "de"}, {"surface": "יעשה", "gloss": "ɔbɛyɛ"}, {"surface": "אותם", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "האדם", "gloss": "onipa"}, {"surface": "וחי", "gloss": "bɛtena aseɛ"}, {"surface": "בהם", "gloss": "wɔ mu"}], "timestamp": "2026-09-16T00:42:23.152441151Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na manoa ⟨את⟩ me mmara ma wɔn, na ⟨את⟩ m'atempammu ahorow no maa wɔn ho nyinasoɔ; ⟨את⟩ onipa a ɔbɛyɛ ⟨את⟩ no bɛtena aseɛ wɔ mu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Na manoa maa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me mmara"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "me mmara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "m'atempammu ahorow"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "m'atempammu ahorow"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "maa wɔn ho nyinasoɔ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ɔbɛyɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "bɛtena aseɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:42:23.152441151Z",
+  "model": "glm-5.3"
+}

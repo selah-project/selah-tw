@@ -1,1 +1,107 @@
-{"tier":"glm-5.2","verse":1,"ref":"exodus 8:1","book":"exodus","lang":"tw","chapter":8,"translation":"Na Yawe kaa kyerɛɛ Moshe se: “Ka kyerɛ Aaron se: Tɔ ⟨את⟩ wo nsa wɔ wo dua mu, si asubɔnten so, ya so, ne mmoa nsuo so, na ma ⟨את⟩ nsansan no mmɔ Misraim asase so.”","tokens":[{"surface":"ויאמר","gloss":"Na … kaa"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"משה","gloss":"Moshe"},{"surface":"אמר","gloss":"se"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"אהרן","gloss":"Aaron"},{"surface":"נטה","gloss":"Tɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"wo nsa"},{"surface":"ידך","gloss":"wo nsa"},{"surface":"במטך","gloss":"wɔ wo dua mu"},{"surface":"על","gloss":"si … so"},{"surface":"הנהרת","gloss":"asubɔnten"},{"surface":"על","gloss":"so"},{"surface":"היארים","gloss":"ya"},{"surface":"ועל","gloss":"ne … so"},{"surface":"האגמים","gloss":"mmoa nsuo"},{"surface":"והעל","gloss":"na ma … mmɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"nsansan no"},{"surface":"הצפרדעים","gloss":"nsansan no"},{"surface":"על","gloss":"so"},{"surface":"ארץ","gloss":"asase"},{"surface":"מצרים","gloss":"Misraim"}],"timestamp":"2026-09-15T20:47:33.127515461Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Yawe kaa kyerɛɛ Moshe se: “Ka kyerɛ Aaron se: Tɔ ⟨את⟩ wo nsa wɔ wo dua mu, si asubɔnten so, ya so, ne mmoa nsuo so, na ma ⟨את⟩ nsansan no mmɔ Misraim asase so.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na … kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "wɔ wo dua mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "si … so"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne … so"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "mmoa nsuo"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "na ma … mmɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsansan no"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "nsansan no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:33.127515461Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,128 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "1-kings 9:3", "book": "1-kings", "lang": "tw", "chapter": 9, "translation": "Na Yawe kaa kyerɛɛ no sɛ: Matie ⟨את⟩ wo mpaeboɔ ⟨את⟩ ne wo srɛ a wode baa me anim no; makɔre ⟨את⟩ fie yi a wobɔeɛ no mu, na me din bɛtena hɔ kɔsi nkwaewa; na me ani ne me akoma bɛwɔ hɔ nnɛ nyinaa.", "tokens": [{"surface": "ויאמר", "gloss": "Na kaa kyerɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אליו", "gloss": "no"}, {"surface": "שמעתי", "gloss": "Matie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo mpaeboɔ"}, {"surface": "תפלתך", "gloss": "wo mpaeboɔ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "wo srɛ"}, {"surface": "תחנתך", "gloss": "wo srɛ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "התחננתה", "gloss": "wode baa"}, {"surface": "לפני", "gloss": "me anim"}, {"surface": "הקדשתי", "gloss": "makɔre mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fie yi"}, {"surface": "הבית", "gloss": "fie"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בנתה", "gloss": "wobɔeɛ"}, {"surface": "לשום", "gloss": "na ... bɛtena"}, {"surface": "שמי", "gloss": "me din"}, {"surface": "שם", "gloss": "hɔ"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "עולם", "gloss": "nkwaewa"}, {"surface": "והיו", "gloss": "bɛwɔ"}, {"surface": "עיני", "gloss": "me ani"}, {"surface": "ולבי", "gloss": "me akoma"}, {"surface": "שם", "gloss": "hɔ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הימים", "gloss": "nnɛ"}], "timestamp": "2026-09-15T23:17:18.209748351Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 9:3",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Yawe kaa kyerɛɛ no sɛ: Matie ⟨את⟩ wo mpaeboɔ ⟨את⟩ ne wo srɛ a wode baa me anim no; makɔre ⟨את⟩ fie yi a wobɔeɛ no mu, na me din bɛtena hɔ kɔsi nkwaewa; na me ani ne me akoma bɛwɔ hɔ nnɛ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Matie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo mpaeboɔ"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "wo mpaeboɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wo srɛ"
+    },
+    {
+      "surface": "תחנתך",
+      "gloss": "wo srɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "התחננתה",
+      "gloss": "wode baa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "makɔre mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie yi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "wobɔeɛ"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "na ... bɛtena"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "me din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nkwaewa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bɛwɔ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "me ani"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nnɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:18.209748351Z",
+  "model": "glm-5.3"
+}

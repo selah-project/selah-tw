@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":13,"ref":"deuteronomy 26:13","book":"deuteronomy","lang":"tw","chapter":26,"translation":"Na wobɛka wɔ Yawe wo Eloohim anim sɛ: Metutuu deɛ ɛyɛ kronkron no firi me fie, na memaee Levini, ɔhɔhoɔ no, abɔfra a ɔnni agya, ne ɔkunafoɔ, sɛnea wo amrɛ nyinaa a wohyɛɛ me no teɛ; mantew firi wo amrɛ mu, na manke da.","tokens":[{"surface":"ואמרת","gloss":"wobɛka"},{"surface":"לפני","gloss":"w'anim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"בערתי","gloss":"metutuu"},{"surface":"הקדש","gloss":"deɛ ɛyɛ kronkron no"},{"surface":"מן","gloss":"firi"},{"surface":"הבית","gloss":"me fie"},{"surface":"וגם","gloss":"na"},{"surface":"נתתיו","gloss":"memaee no"},{"surface":"ללוי","gloss":"Levini"},{"surface":"ולגר","gloss":"ne ɔhɔhoɔ no"},{"surface":"ליתום","gloss":"abɔfra a ɔnni agya"},{"surface":"ולאלמנה","gloss":"ne ɔkunafoɔ"},{"surface":"ככל","gloss":"sɛnea ... nyinaa"},{"surface":"מצותך","gloss":"wo amrɛ"},{"surface":"אשר","gloss":"a"},{"surface":"צויתני","gloss":"wohyɛɛ me"},{"surface":"לא","gloss":"ɛnni"},{"surface":"עברתי","gloss":"mantew"},{"surface":"ממצותיך","gloss":"firi wo amrɛ mu"},{"surface":"ולא","gloss":"na ɛnni"},{"surface":"שכחתי","gloss":"manke da"}],"timestamp":"2026-09-15T21:56:46.793082429Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 26:13",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na wobɛka wɔ Yawe wo Eloohim anim sɛ: Metutuu deɛ ɛyɛ kronkron no firi me fie, na memaee Levini, ɔhɔhoɔ no, abɔfra a ɔnni agya, ne ɔkunafoɔ, sɛnea wo amrɛ nyinaa a wohyɛɛ me no teɛ; mantew firi wo amrɛ mu, na manke da.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "wobɛka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "בערתי",
+      "gloss": "metutuu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "deɛ ɛyɛ kronkron no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "me fie"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "memaee no"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "Levini"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ne ɔhɔhoɔ no"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "abɔfra a ɔnni agya"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ne ɔkunafoɔ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sɛnea ... nyinaa"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "wo amrɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "wohyɛɛ me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "mantew"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "firi wo amrɛ mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnni"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "manke da"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:46.793082429Z",
+  "model": "glm-5.3"
+}

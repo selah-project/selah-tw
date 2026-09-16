@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":11,"ref":"isaiah 47:11","book":"isaiah","lang":"tw","chapter":47,"translation":"Na bɔne bɛba w'aso, na wonnhunu ne mfitiaseɛ; ahoyaa bɛtɔ wo so, na wountumi nnya nkyɛeɛ; na sɛeɛ bɛba w'aso nkwa nkwa a, wonnhunu.","tokens":[{"surface":"ובא","gloss":"bɛba"},{"surface":"עליך","gloss":"w'aso"},{"surface":"רעה","gloss":"bɔne"},{"surface":"לא","gloss":"n-"},{"surface":"תדעי","gloss":"nhunu"},{"surface":"שחרה","gloss":"ne mfitiaseɛ"},{"surface":"ותפל","gloss":"bɛtɔ"},{"surface":"עליך","gloss":"wo so"},{"surface":"הוה","gloss":"ahoyaa"},{"surface":"לא","gloss":"n-"},{"surface":"תוכלי","gloss":"wuntumi"},{"surface":"כפרה","gloss":"nnya nkyɛeɛ"},{"surface":"ותבא","gloss":"bɛba"},{"surface":"עליך","gloss":"w'aso"},{"surface":"פתאם","gloss":"nkwa nkwa"},{"surface":"שואה","gloss":"sɛeɛ"},{"surface":"לא","gloss":"n-"},{"surface":"תדעי","gloss":"nhunu"}],"timestamp":"2026-09-15T23:58:02.140847465Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 47:11",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Na bɔne bɛba w'aso, na wonnhunu ne mfitiaseɛ; ahoyaa bɛtɔ wo so, na wountumi nnya nkyɛeɛ; na sɛeɛ bɛba w'aso nkwa nkwa a, wonnhunu.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "w'aso"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "nhunu"
+    },
+    {
+      "surface": "שחרה",
+      "gloss": "ne mfitiaseɛ"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "bɛtɔ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ahoyaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "wuntumi"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "nnya nkyɛeɛ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "w'aso"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "nkwa nkwa"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "sɛeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "nhunu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:02.140847465Z",
+  "model": "glm-5.3"
+}

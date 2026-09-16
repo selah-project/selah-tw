@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":8,"ref":"numbers 4:8","book":"numbers","lang":"tw","chapter":4,"translation":"Na wɔbɛtrɛ atadeɛ a ɛyɛ kɔkɔɔ a ɛfiri tolata mmoa so agu wɔn so, na wɔde ⟨את⟩ abɔdwom a ɛyɛ takhasa nwoma abɔ so, na wɔbɛde ⟨את⟩ mmoa nnua anan no ato mu.","tokens":[{"surface":"ופרשו","gloss":"na wɔbɛtrɛ... agu wɔn so"},{"surface":"עליהם","gloss":"wɔn so"},{"surface":"בגד","gloss":"atadeɛ"},{"surface":"תולעת","gloss":"tolata"},{"surface":"שני","gloss":"kɔkɔɔ"},{"surface":"וכסו","gloss":"na wɔde... abɔ so"},{"surface":"אתו","gloss":"⟨את⟩","marks":"abɔdwom no"},{"surface":"במכסה","gloss":"abɔdwom"},{"surface":"עור","gloss":"nwoma"},{"surface":"תחש","gloss":"takhasa"},{"surface":"ושמו","gloss":"na wɔbɛde... ato mu"},{"surface":"את","gloss":"⟨את⟩","marks":"mmoa nnua anan no"},{"surface":"בדיו","gloss":"mmoa nnua anan no"}],"timestamp":"2026-09-15T21:25:19.225564050Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wɔbɛtrɛ atadeɛ a ɛyɛ kɔkɔɔ a ɛfiri tolata mmoa so agu wɔn so, na wɔde ⟨את⟩ abɔdwom a ɛyɛ takhasa nwoma abɔ so, na wɔbɛde ⟨את⟩ mmoa nnua anan no ato mu.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "na wɔbɛtrɛ... agu wɔn so"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kɔkɔɔ"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "na wɔde... abɔ so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "abɔdwom no"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "abɔdwom"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhasa"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "na wɔbɛde... ato mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmoa nnua anan no"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mmoa nnua anan no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:19.225564050Z",
+  "model": "glm-5.3"
+}

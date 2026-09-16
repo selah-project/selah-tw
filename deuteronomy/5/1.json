@@ -1,1 +1,103 @@
-{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 5:1","book":"deuteronomy","lang":"tw","chapter":5,"translation":"Mosheh frɛɛ Yisrael nyinaa, ɔkaa kyerɛɛ wɔn sɛ: Tie, Yisrael, ⟨את⟩ ahotoso mmara ne ⟨את⟩ atemmuo mmara a meka wɔ mo aso nnɛ; monsua ⟨את⟩ yɛn na monhwɛ so yɛ.","tokens":[{"surface":"ויקרא","gloss":"frɛɛ"},{"surface":"משה","gloss":"Mosheh"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ויאמר","gloss":"ɔkaa kyerɛɛ wɔn"},{"surface":"אלהם","gloss":"wɔn"},{"surface":"שמע","gloss":"Tie"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"את","gloss":"⟨את⟩","marks":"ahotoso mmara"},{"surface":"החקים","gloss":"ahotoso mmara"},{"surface":"ואת","gloss":"ne ⟨את⟩","marks":"atemmuo mmara"},{"surface":"המשפטים","gloss":"atemmuo mmara"},{"surface":"אשר","gloss":"a"},{"surface":"אנכי","gloss":"me"},{"surface":"דבר","gloss":"meka"},{"surface":"באזניכם","gloss":"wɔ mo aso"},{"surface":"היום","gloss":"nnɛ"},{"surface":"ולמדתם","gloss":"monsua"},{"surface":"אתם","gloss":"⟨את⟩ yɛn"},{"surface":"ושמרתם","gloss":"monhwɛ so"},{"surface":"לעשתם","gloss":"yɛ"}],"timestamp":"2026-09-15T21:47:08.910977223Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Mosheh frɛɛ Yisrael nyinaa, ɔkaa kyerɛɛ wɔn sɛ: Tie, Yisrael, ⟨את⟩ ahotoso mmara ne ⟨את⟩ atemmuo mmara a meka wɔ mo aso nnɛ; monsua ⟨את⟩ yɛn na monhwɛ so yɛ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ wɔn"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahotoso mmara"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ahotoso mmara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "atemmuo mmara"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "atemmuo mmara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "meka"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "wɔ mo aso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "monsua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yɛn"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "monhwɛ so"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "yɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:47:08.910977223Z",
+  "model": "glm-5.3"
+}

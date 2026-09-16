@@ -1,1 +1,139 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "2-kings 10:6", "book": "2-kings", "lang": "tw", "chapter": 10, "translation": "Ɔtwerɛɛ krato a ɛtɔ so mmienu maa wɔn se: Sɛ mode mo ho sii me so, na mote me nne a, momfa ⟨את⟩ mo awuradefoɔ mma mmarima no ⟨את⟩ atifi; na mmra me nkyɛn ɔkyena saa bere yi Yizreel. Na ɔhene mma no yɛ aduɔson; na kurom ⟨את⟩ akɛseɛfoɔ na wɔtete wɔn.", "tokens": [{"surface": "ויכתב", "gloss": "Ɔtwerɛɛ"}, {"surface": "אליהם", "gloss": "maa wɔn"}, {"surface": "ספר", "gloss": "krato"}, {"surface": "שנית", "gloss": "a ɛtɔ so mmienu"}, {"surface": "לאמר", "gloss": "se"}, {"surface": "אם", "gloss": "Sɛ"}, {"surface": "לי", "gloss": "me so"}, {"surface": "אתם", "gloss": "mo"}, {"surface": "ולקלי", "gloss": "me nne"}, {"surface": "אתם", "gloss": "mo"}, {"surface": "שמעים", "gloss": "mote"}, {"surface": "קחו", "gloss": "momfa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo awuradefoɔ mma mmarima no atifi"}, {"surface": "ראשי", "gloss": "atifi"}, {"surface": "אנשי", "gloss": "mmarima"}, {"surface": "בני", "gloss": "mma"}, {"surface": "אדניכם", "gloss": "mo awuradefoɔ"}, {"surface": "ובאו", "gloss": "na mmra"}, {"surface": "אלי", "gloss": "me nkyɛn"}, {"surface": "כעת", "gloss": "saa bere yi"}, {"surface": "מחר", "gloss": "ɔkyena"}, {"surface": "יזרעאלה", "gloss": "Yizreel"}, {"surface": "ובני", "gloss": "Na ... mma"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "שבעים", "gloss": "aduɔson"}, {"surface": "איש", "gloss": "(mmarima)"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kurom akɛseɛfoɔ"}, {"surface": "גדלי", "gloss": "akɛseɛfoɔ"}, {"surface": "העיר", "gloss": "kurom"}, {"surface": "מגדלים", "gloss": "wɔtete wɔn"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}], "timestamp": "2026-09-15T23:32:21.048530445Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 10:6",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔtwerɛɛ krato a ɛtɔ so mmienu maa wɔn se: Sɛ mode mo ho sii me so, na mote me nne a, momfa ⟨את⟩ mo awuradefoɔ mma mmarima no ⟨את⟩ atifi; na mmra me nkyɛn ɔkyena saa bere yi Yizreel. Na ɔhene mma no yɛ aduɔson; na kurom ⟨את⟩ akɛseɛfoɔ na wɔtete wɔn.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ɔtwerɛɛ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "maa wɔn"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "krato"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ולקלי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "mote"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "momfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo awuradefoɔ mma mmarima no atifi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "mo awuradefoɔ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na mmra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "saa bere yi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ɔkyena"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Na ... mma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "aduɔson"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(mmarima)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurom akɛseɛfoɔ"
+    },
+    {
+      "surface": "גדלי",
+      "gloss": "akɛseɛfoɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurom"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "wɔtete wɔn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T23:32:21.048530445Z",
+  "model": "glm-5.3"
+}

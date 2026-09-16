@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 39:8","book":"genesis","lang":"tw","chapter":39,"translation":"Na ɔpoow, ɔkaa kyerɛɛ ne wura yere sɛ: “Hwɛ, me wura nnim biribiara a ɛwɔ fie no ⟨את⟩ me ho, na biribiara a ɛwɔ ne mu nyinaa, wade ɔde ama no wɔ me nsa mu.”","tokens":[{"surface":"וימאן","gloss":"na ɔpoow"},{"surface":"ויאמר","gloss":"ɔkaa kyerɛɛ"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"אשת","gloss":"yere"},{"surface":"אדניו","gloss":"ne wura"},{"surface":"הן","gloss":"hwɛ"},{"surface":"אדני","gloss":"me wura"},{"surface":"לא","gloss":"… nnim"},{"surface":"ידע","gloss":"ɔnnim"},{"surface":"אתי","gloss":"⟨את⟩ me ho","marks":"me ho (preposition H854 'me ho', ɛnyɛ DOM wɔ ha)"},{"surface":"מה","gloss":"biribiara a"},{"surface":"בבית","gloss":"ɛwɔ fie"},{"surface":"וכל","gloss":"na biribiara"},{"surface":"אשר","gloss":"a"},{"surface":"יש","gloss":"ɛwɔ"},{"surface":"לו","gloss":"ne"},{"surface":"נתן","gloss":"ɔde ama"},{"surface":"בידי","gloss":"wɔ me nsa mu"}],"timestamp":"2026-09-15T20:36:38.834929451Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na ɔpoow, ɔkaa kyerɛɛ ne wura yere sɛ: “Hwɛ, me wura nnim biribiara a ɛwɔ fie no ⟨את⟩ me ho, na biribiara a ɛwɔ ne mu nyinaa, wade ɔde ama no wɔ me nsa mu.”",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "na ɔpoow"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ne wura"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "… nnim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ɔnnim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me ho",
+      "marks": "me ho (preposition H854 'me ho', ɛnyɛ DOM wɔ ha)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "biribiara a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ɛwɔ fie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ɛwɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔde ama"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "wɔ me nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:38.834929451Z",
+  "model": "glm-5.3"
+}

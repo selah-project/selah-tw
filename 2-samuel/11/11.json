@@ -1,1 +1,150 @@
-{"tier":"glm-5.2","verse":11,"ref":"2-samuel 11:11","book":"2-samuel","lang":"tw","chapter":11,"translation":"Na Uriya kaa se Dawid: Apam-Adaka no, ne Yisrael, ne Yuda wɔ adaka mu atena; na me wura Yoab, ne me wura akodiefoɔ, atena abɔnto ase. Menkɔ m'fie akɔdi, anɔ, na makɔda me yere nkyɛn da — wɔ wo nkwa so, na wo kra nkwa so: menyɛ ⟨את⟩ asɛm yi da.","tokens":[{"surface":"ויאמר","gloss":"kaa se"},{"surface":"אוריה","gloss":"Uriya"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"דוד","gloss":"Dawid"},{"surface":"הארון","gloss":"Apam-Adaka no"},{"surface":"וישראל","gloss":"ne Yisrael"},{"surface":"ויהודה","gloss":"ne Yuda"},{"surface":"ישבים","gloss":"atena"},{"surface":"בסכות","gloss":"wɔ adaka mu"},{"surface":"ואדני","gloss":"na me wura"},{"surface":"יואב","gloss":"Yoab"},{"surface":"ועבדי","gloss":"ne akodiefoɔ"},{"surface":"אדני","gloss":"me wura"},{"surface":"על","gloss":"aso"},{"surface":"פני","gloss":"anim"},{"surface":"השדה","gloss":"abɔnto"},{"surface":"חנים","gloss":"atena"},{"surface":"ואני","gloss":"me"},{"surface":"אבוא","gloss":"menkɔ"},{"surface":"אל","gloss":"kɔ"},{"surface":"ביתי","gloss":"m'fie"},{"surface":"לאכל","gloss":"akɔdi"},{"surface":"ולשתות","gloss":"anɔ"},{"surface":"ולשכב","gloss":"makɔda"},{"surface":"עם","gloss":"nkyɛn"},{"surface":"אשתי","gloss":"me yere"},{"surface":"חיך","gloss":"wo nkwa so"},{"surface":"וחי","gloss":"nkwa so"},{"surface":"נפשך","gloss":"wo kra"},{"surface":"אם","gloss":"menyɛ ... da"},{"surface":"אעשה","gloss":"menyɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"asɛm yi"},{"surface":"הדבר","gloss":"asɛm"},{"surface":"הזה","gloss":"yi"}],"timestamp":"2026-09-15T23:03:59.434300321Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 11:11",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Uriya kaa se Dawid: Apam-Adaka no, ne Yisrael, ne Yuda wɔ adaka mu atena; na me wura Yoab, ne me wura akodiefoɔ, atena abɔnto ase. Menkɔ m'fie akɔdi, anɔ, na makɔda me yere nkyɛn da — wɔ wo nkwa so, na wo kra nkwa so: menyɛ ⟨את⟩ asɛm yi da.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Apam-Adaka no"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ne Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ne Yuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "atena"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "wɔ adaka mu"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "na me wura"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ne akodiefoɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "על",
+      "gloss": "aso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "abɔnto"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "atena"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "menkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "m'fie"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "akɔdi"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "anɔ"
+    },
+    {
+      "surface": "ולשכב",
+      "gloss": "makɔda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "me yere"
+    },
+    {
+      "surface": "חיך",
+      "gloss": "wo nkwa so"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "nkwa so"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo kra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menyɛ ... da"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "menyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:59.434300321Z",
+  "model": "glm-5.3"
+}

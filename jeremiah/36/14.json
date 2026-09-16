@@ -1,1 +1,143 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "jeremiah 36:14", "book": "jeremiah", "lang": "tw", "chapter": 36, "translation": "Asarfoɔ no nyinaa somaa ⟨את⟩ Yehudi, Nataniahu ba, Shelemiahu ba, Kushi ba, kɔɔ Baruk nkyɛn se: Nwoma a wokenkan wɔ nnipa no aso no, fa w'nsa mu na bra. Baruk, Neriahu ba, faa ⟨את⟩ nwoma no wɔ ne nsa mu, na ɔbaa wɔn nkyɛn.", "tokens": [{"surface": "וישלחו", "gloss": "somaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "השרים", "gloss": "asarfoɔ"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "ברוך", "gloss": "Baruk nkyɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yehudi"}, {"surface": "יהודי", "gloss": "Yehudi"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נתניהו", "gloss": "Nataniahu"}, {"surface": "בן", "gloss": "ba"}, {"surface": "שלמיהו", "gloss": "Shelemiahu"}, {"surface": "בן", "gloss": "ba"}, {"surface": "כושי", "gloss": "Kushi"}, {"surface": "לאמר", "gloss": "se"}, {"surface": "המגלה", "gloss": "nwoma"}, {"surface": "אשר", "gloss": "a"}, {"surface": "קראת", "gloss": "wokenkan"}, {"surface": "בה", "gloss": "wɔ mu"}, {"surface": "באזני", "gloss": "wɔ aso"}, {"surface": "העם", "gloss": "nnipa"}, {"surface": "קחנה", "gloss": "fa"}, {"surface": "בידך", "gloss": "w'nsa mu"}, {"surface": "ולך", "gloss": "na bra"}, {"surface": "ויקח", "gloss": "faa"}, {"surface": "ברוך", "gloss": "Baruk"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נריהו", "gloss": "Neriahu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nwoma no"}, {"surface": "המגלה", "gloss": "nwoma"}, {"surface": "בידו", "gloss": "wɔ ne nsa mu"}, {"surface": "ויבא", "gloss": "ɔbaa"}, {"surface": "אליהם", "gloss": "wɔn nkyɛn"}], "timestamp": "2026-09-16T00:22:46.522587578Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 36:14",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Asarfoɔ no nyinaa somaa ⟨את⟩ Yehudi, Nataniahu ba, Shelemiahu ba, Kushi ba, kɔɔ Baruk nkyɛn se: Nwoma a wokenkan wɔ nnipa no aso no, fa w'nsa mu na bra. Baruk, Neriahu ba, faa ⟨את⟩ nwoma no wɔ ne nsa mu, na ɔbaa wɔn nkyɛn.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "asarfoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk nkyɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudi"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "Yehudi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Nataniahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שלמיהו",
+      "gloss": "Shelemiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wokenkan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "wɔ aso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "קחנה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "w'nsa mu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na bra"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נריהו",
+      "gloss": "Neriahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoma no"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "wɔ ne nsa mu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T00:22:46.522587578Z",
+  "model": "glm-5.3"
+}

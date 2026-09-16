@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "1-kings 15:19", "book": "1-kings", "lang": "tw", "chapter": 15, "translation": "“Ntam pa wɔ me ne ⟨את⟩ wo ntam, na me agya ne wo agya ntam; hwɛ, mesomaa wo dwetɛ ne sika kɔkɔɔ aduane; kɔ, gyae ⟨את⟩ wo ntam a wowɔ ne Baasha, Israel ɔhene no, na ɔmpue me so.”", "tokens": [{"surface": "ברית", "gloss": "Ntam pa"}, {"surface": "ביני", "gloss": "wɔ me"}, {"surface": "ובינך", "gloss": "ne wo ntam"}, {"surface": "בין", "gloss": "wɔ"}, {"surface": "אבי", "gloss": "me agya"}, {"surface": "ובין", "gloss": "ne"}, {"surface": "אביך", "gloss": "wo agya"}, {"surface": "הנה", "gloss": "hwɛ"}, {"surface": "שלחתי", "gloss": "mesomaa"}, {"surface": "לך", "gloss": "wo"}, {"surface": "שחד", "gloss": "aduane"}, {"surface": "כסף", "gloss": "dwetɛ"}, {"surface": "וזהב", "gloss": "ne sika kɔkɔɔ"}, {"surface": "לך", "gloss": "kɔ"}, {"surface": "הפרה", "gloss": "gyae"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo ntam"}, {"surface": "בריתך", "gloss": "wo ntam"}, {"surface": "את", "gloss": "⟨את⟩ ne", "marks": "Baasha"}, {"surface": "בעשא", "gloss": "Baasha"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "ויעלה", "gloss": "na ɔmpue"}, {"surface": "מעלי", "gloss": "me so"}], "timestamp": "2026-09-15T23:21:53.871585677Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "“Ntam pa wɔ me ne ⟨את⟩ wo ntam, na me agya ne wo agya ntam; hwɛ, mesomaa wo dwetɛ ne sika kɔkɔɔ aduane; kɔ, gyae ⟨את⟩ wo ntam a wowɔ ne Baasha, Israel ɔhene no, na ɔmpue me so.”",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Ntam pa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "wɔ me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ne wo ntam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "me agya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mesomaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ne sika kɔkɔɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "gyae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ntam"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "wo ntam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Baasha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "na ɔmpue"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "me so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:53.871585677Z",
+  "model": "glm-5.3"
+}

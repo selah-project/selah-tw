@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":5,"ref":"leviticus 14:5","book":"leviticus","lang":"tw","chapter":14,"translation":"Na ɔsɔfoɔ no bɛhyɛ hyɛdeɛ, na wɔbɛto ⟨את⟩ nnomaa no mu baako wɔ asennua kuruwa mu, wɔ nsuo a ɛte mu so;","tokens":[{"surface":"וצוה","gloss":"bɛhyɛ hyɛdeɛ"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"ושחט","gloss":"wɔbɛto"},{"surface":"את","gloss":"⟨את⟩","marks":"nnomaa no mu baako"},{"surface":"הצפור","gloss":"nnomaa no"},{"surface":"האחת","gloss":"mu baako"},{"surface":"אל","gloss":"wɔ"},{"surface":"כלי","gloss":"kuruwa mu"},{"surface":"חרש","gloss":"asennua"},{"surface":"על","gloss":"so"},{"surface":"מים","gloss":"nsuo"},{"surface":"חיים","gloss":"a ɛte mu"}],"timestamp":"2026-09-15T21:15:31.743745933Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔsɔfoɔ no bɛhyɛ hyɛdeɛ, na wɔbɛto ⟨את⟩ nnomaa no mu baako wɔ asennua kuruwa mu, wɔ nsuo a ɛte mu so;",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "bɛhyɛ hyɛdeɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "wɔbɛto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnomaa no mu baako"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "nnomaa no"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "mu baako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuruwa mu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "asennua"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a ɛte mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:15:31.743745933Z",
+  "model": "glm-5.3"
+}

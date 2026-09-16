@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":53,"ref":"leviticus 14:53","book":"leviticus","lang":"tw","chapter":14,"translation":"Na ɔmaa ⟨את⟩ nnoma no a ɔte aseɛ no kɔɔ kurow no akyi, asaase no anim, na ɔyɛɛ akatua maa fie no, na ɛho tew.","tokens":[{"surface":"ושלח","gloss":"na ɔmaa kɔɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"nnoma no a ɔte aseɛ no"},{"surface":"הצפר","gloss":"nnoma no"},{"surface":"החיה","gloss":"a ɔte aseɛ"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"מחוץ","gloss":"akyi"},{"surface":"לעיר","gloss":"kurow no"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"פני","gloss":"anim"},{"surface":"השדה","gloss":"asaase no"},{"surface":"וכפר","gloss":"na ɔyɛɛ akatua"},{"surface":"על","gloss":"maa"},{"surface":"הבית","gloss":"fie no"},{"surface":"וטהר","gloss":"na ɛho tew"}],"timestamp":"2026-09-15T21:15:03.754194697Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔmaa ⟨את⟩ nnoma no a ɔte aseɛ no kɔɔ kurow no akyi, asaase no anim, na ɔyɛɛ akatua maa fie no, na ɛho tew.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "na ɔmaa kɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnoma no a ɔte aseɛ no"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "nnoma no"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "a ɔte aseɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "asaase no"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na ɔyɛɛ akatua"
+    },
+    {
+      "surface": "על",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "na ɛho tew"
+    }
+  ],
+  "timestamp": "2026-09-15T21:15:03.754194697Z",
+  "model": "glm-5.3"
+}

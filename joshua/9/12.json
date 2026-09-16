@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "joshua 9:12", "book": "joshua", "lang": "tw", "chapter": 9, "translation": "“Yɛn aduane yi, na ɛda hyew mu na yɛde ⟨את⟩ firi yɛn afie mu, wɔ ɛda a yɛpuee baa mo nkyɛn; na seesei hwɛ, ɛwɔ mui, na ɛabɔ mu nketenkete.”", "tokens": [{"surface": "זה", "gloss": "yi"}, {"surface": "לחמנו", "gloss": "Yɛn aduane"}, {"surface": "חם", "gloss": "na ɛda hyew mu"}, {"surface": "הצטידנו", "gloss": "yɛde"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "firi yɛn afie mu"}, {"surface": "מבתינו", "gloss": "firi yɛn afie mu"}, {"surface": "ביום", "gloss": "wɔ ɛda"}, {"surface": "צאתנו", "gloss": "a yɛpuee"}, {"surface": "ללכת", "gloss": "baa"}, {"surface": "אליכם", "gloss": "mo nkyɛn"}, {"surface": "ועתה", "gloss": "na seesei"}, {"surface": "הנה", "gloss": "hwɛ"}, {"surface": "יבש", "gloss": "ɛwɔ mui"}, {"surface": "והיה", "gloss": "na ɛayɛ"}, {"surface": "נקדים", "gloss": "mu nketenkete"}], "timestamp": "2026-09-15T22:03:24.298562394Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "“Yɛn aduane yi, na ɛda hyew mu na yɛde ⟨את⟩ firi yɛn afie mu, wɔ ɛda a yɛpuee baa mo nkyɛn; na seesei hwɛ, ɛwɔ mui, na ɛabɔ mu nketenkete.”",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "Yɛn aduane"
+    },
+    {
+      "surface": "חם",
+      "gloss": "na ɛda hyew mu"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "yɛde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "firi yɛn afie mu"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "firi yɛn afie mu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "a yɛpuee"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo nkyɛn"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ɛwɔ mui"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛayɛ"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "mu nketenkete"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:24.298562394Z",
+  "model": "glm-5.3"
+}

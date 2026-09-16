@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "exodus 1:16", "book": "exodus", "lang": "tw", "chapter": 1, "translation": "Ɔkaa sɛ: Sɛ mo rehwɛ ⟨את⟩ Hebri mma ⟨את⟩ no awo mu, na moahu wɔn wɔ awo abo no so — sɛ ɔbarima na ɛyɛ a, kum no; sɛ ɔbea na ɛyɛ a, ɛnyɛ nkwa.", "tokens": [{"surface": "ויאמר", "gloss": "ɔkaa sɛ"}, {"surface": "בילדכן", "gloss": "sɛ mo rehwɛ ... awo mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Hebri mma no"}, {"surface": "העבריות", "gloss": "Hebri mma"}, {"surface": "וראיתן", "gloss": "na moahu wɔn"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "האבנים", "gloss": "awo abo no"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "בן", "gloss": "ɔbarima"}, {"surface": "הוא", "gloss": "na ɛyɛ"}, {"surface": "והמתן", "gloss": "kum"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "ואם", "gloss": "sɛ"}, {"surface": "בת", "gloss": "ɔbea"}, {"surface": "היא", "gloss": "na ɛyɛ"}, {"surface": "וחיה", "gloss": "ɛnyɛ nkwa"}], "timestamp": "2026-09-15T20:42:46.675552942Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɔkaa sɛ: Sɛ mo rehwɛ ⟨את⟩ Hebri mma ⟨את⟩ no awo mu, na moahu wɔn wɔ awo abo no so — sɛ ɔbarima na ɛyɛ a, kum no; sɛ ɔbea na ɛyɛ a, ɛnyɛ nkwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "sɛ mo rehwɛ ... awo mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebri mma no"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "Hebri mma"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "na moahu wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "awo abo no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɛyɛ"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "kum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɔbea"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na ɛyɛ"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ɛnyɛ nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:46.675552942Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "2-samuel 8:2", "book": "2-samuel", "lang": "tw", "chapter": 8, "translation": "Ɔbɔɔ ⟨את⟩ Moab, na ɔde pwaa susuuw wɔn, maa wɔdaa asase so; ɔsusuw pwaa mmienu de kum wɔn, na pwaa a ɛteɛ mmaa de ma wɔn nkwa. Na ⟨את⟩ Moab bɛyɛɛ ma Dawid sɛ nkoa, a wɔsoa adasiede.", "tokens": [{"surface": "ויך", "gloss": "Ɔbɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moab"}, {"surface": "מואב", "gloss": "Moab"}, {"surface": "וימדדם", "gloss": "ɔsusuuw wɔn"}, {"surface": "בחבל", "gloss": "de pwaa"}, {"surface": "השכב", "gloss": "maa wɔdaa"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn", "marks": "wɔn"}, {"surface": "ארצה", "gloss": "asase so"}, {"surface": "וימדד", "gloss": "ɔsusuw"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "חבלים", "gloss": "pwaa"}, {"surface": "להמית", "gloss": "de kum"}, {"surface": "ומלא", "gloss": "na a ɛteɛ"}, {"surface": "החבל", "gloss": "⟨the⟩ pwaa no"}, {"surface": "להחיות", "gloss": "de ma nkwa"}, {"surface": "ותהי", "gloss": "bɛyɛɛ"}, {"surface": "מואב", "gloss": "Moab"}, {"surface": "לדוד", "gloss": "ma Dawid"}, {"surface": "לעבדים", "gloss": "sɛ nkoa"}, {"surface": "נשאי", "gloss": "a wɔsoa"}, {"surface": "מנחה", "gloss": "adasiede"}], "timestamp": "2026-09-15T23:04:34.564735904Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɔbɔɔ ⟨את⟩ Moab, na ɔde pwaa susuuw wɔn, maa wɔdaa asase so; ɔsusuw pwaa mmienu de kum wɔn, na pwaa a ɛteɛ mmaa de ma wɔn nkwa. Na ⟨את⟩ Moab bɛyɛɛ ma Dawid sɛ nkoa, a wɔsoa adasiede.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "ɔsusuuw wɔn"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "de pwaa"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "maa wɔdaa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "ɔsusuw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "pwaa"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "de kum"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "na a ɛteɛ"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "⟨the⟩ pwaa no"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "de ma nkwa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "bɛyɛɛ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "sɛ nkoa"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "a wɔsoa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "adasiede"
+    }
+  ],
+  "timestamp": "2026-09-15T23:04:34.564735904Z",
+  "model": "glm-5.3"
+}

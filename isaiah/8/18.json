@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":18,"ref":"isaiah 8:18","book":"isaiah","lang":"tw","chapter":8,"translation":"Hwɛ, me ne mmɔfra a Yawe ama me wɔ Israael mu sɛ nsɛnkyerɛnne ne nsɛm a ɛyɛ nwanwa, firi Yawe Sabaoot, a ɔte Tsiyon bepɔ so.","tokens":[{"surface":"הנה","gloss":"hwɛ"},{"surface":"אנכי","gloss":"me"},{"surface":"והילדים","gloss":"ne mmɔfra"},{"surface":"אשר","gloss":"a"},{"surface":"נתן","gloss":"ama"},{"surface":"לי","gloss":"me"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לאתות","gloss":"sɛ nsɛnkyerɛnne"},{"surface":"ולמופתים","gloss":"ne nsɛm a ɛyɛ nwanwa"},{"surface":"בישראל","gloss":"wɔ Israael mu"},{"surface":"מעם","gloss":"firi"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"השכן","gloss":"a ɔte"},{"surface":"בהר","gloss":"bepɔ so"},{"surface":"ציון","gloss":"Tsiyon"}],"timestamp":"2026-09-15T23:42:50.767714327Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 8:18",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Hwɛ, me ne mmɔfra a Yawe ama me wɔ Israael mu sɛ nsɛnkyerɛnne ne nsɛm a ɛyɛ nwanwa, firi Yawe Sabaoot, a ɔte Tsiyon bepɔ so.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "והילדים",
+      "gloss": "ne mmɔfra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאתות",
+      "gloss": "sɛ nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ולמופתים",
+      "gloss": "ne nsɛm a ɛyɛ nwanwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wɔ Israael mu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "firi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "a ɔte"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bepɔ so"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:50.767714327Z",
+  "model": "glm-5.3"
+}

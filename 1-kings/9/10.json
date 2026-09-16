@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "1-kings 9:10", "book": "1-kings", "lang": "tw", "chapter": 9, "translation": "Na ɛbaa sɛ mfitiaseɛ nnɔnnum (20) afe a no akyi, a Shelomoh sii nnua ⟨את⟩ mmienu no — ⟨את⟩ Yawe fie, ne ⟨את⟩ ɔhene fie no —", "tokens": [{"surface": "ויהי", "gloss": "na ɛbaa sɛ"}, {"surface": "מקצה", "gloss": "mfitiaseɛ ... a"}, {"surface": "עשרים", "gloss": "nnum-nsia (20)"}, {"surface": "שנה", "gloss": "afe"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בנה", "gloss": "sii"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnua mmienu no"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "הבתים", "gloss": "afie/nnua"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ɔhene fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "המלך", "gloss": "ɔhene"}], "timestamp": "2026-09-15T23:17:42.156204241Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na ɛbaa sɛ mfitiaseɛ nnɔnnum (20) afe a no akyi, a Shelomoh sii nnua ⟨את⟩ mmienu no — ⟨את⟩ Yawe fie, ne ⟨את⟩ ɔhene fie no —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa sɛ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "mfitiaseɛ ... a"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "nnum-nsia (20)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnua mmienu no"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "afie/nnua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:42.156204241Z",
+  "model": "glm-5.3"
+}

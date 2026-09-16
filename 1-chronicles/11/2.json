@@ -1,1 +1,132 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 11:2","book":"1-chronicles","lang":"tw","chapter":11,"translation":"Adeɛ a atwam no nso, ɛnnɛ-ntsɛ no ara, berɛ a Saul da soɔ di ɔhene wɔ Israel no, wo na wo de ⟨את⟩ Israel baa na wo de Israel kɔɔeɛ; na Yawe, wo Eloohim, kyerɛɛ wo se: wo na wobɛhwɛ ⟨את⟩ me nkorɔfoɔ, ⟨את⟩ Israel so, na wo na wobɛyɛ ⟨ɔkannyifoɔ⟩ wɔ me nkorɔfoɔ Israel so.","tokens":[{"surface":"גם","gloss":"nso"},{"surface":"תמול","gloss":"Adeɛ a atwam no"},{"surface":"גם","gloss":"nso"},{"surface":"שלשום","gloss":"ɛnnɛ-ntsɛ no ara"},{"surface":"גם","gloss":"nso"},{"surface":"בהיות","gloss":"berɛ a"},{"surface":"שאול","gloss":"Saul"},{"surface":"מלך","gloss":"di ɔhene"},{"surface":"אתה","gloss":"wo na wo"},{"surface":"המוציא","gloss":"de ... baa"},{"surface":"והמביא","gloss":"de ... kɔɔeɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Israel"},{"surface":"ישראל","gloss":"Israel"},{"surface":"ויאמר","gloss":"kyerɛɛ wo se"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"לך","gloss":"kyerɛɛ wo"},{"surface":"אתה","gloss":"wo na wo"},{"surface":"תרעה","gloss":"wobɛhwɛ ... so"},{"surface":"את","gloss":"⟨את⟩","marks":"me nkorɔfoɔ"},{"surface":"עמי","gloss":"me nkorɔfoɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Israel"},{"surface":"ישראל","gloss":"Israel"},{"surface":"ואתה","gloss":"na wo na wo"},{"surface":"תהיה","gloss":"wobɛyɛ"},{"surface":"נגיד","gloss":"⟨ɔkannyifoɔ⟩"},{"surface":"על","gloss":"wɔ ... so"},{"surface":"עמי","gloss":"me nkorɔfoɔ"},{"surface":"ישראל","gloss":"Israel"}],"timestamp":"2026-09-16T04:40:16.305807163Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 11:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Adeɛ a atwam no nso, ɛnnɛ-ntsɛ no ara, berɛ a Saul da soɔ di ɔhene wɔ Israel no, wo na wo de ⟨את⟩ Israel baa na wo de Israel kɔɔeɛ; na Yawe, wo Eloohim, kyerɛɛ wo se: wo na wobɛhwɛ ⟨את⟩ me nkorɔfoɔ, ⟨את⟩ Israel so, na wo na wobɛyɛ ⟨ɔkannyifoɔ⟩ wɔ me nkorɔfoɔ Israel so.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "Adeɛ a atwam no"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ɛnnɛ-ntsɛ no ara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di ɔhene"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo na wo"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "de ... baa"
+    },
+    {
+      "surface": "והמביא",
+      "gloss": "de ... kɔɔeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kyerɛɛ wo se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kyerɛɛ wo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo na wo"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "wobɛhwɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo na wo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "⟨ɔkannyifoɔ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:16.305807163Z",
+  "model": "glm-5.3"
+}

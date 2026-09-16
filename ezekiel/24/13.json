@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "ezekiel 24:13", "book": "ezekiel", "lang": "tw", "chapter": 24, "translation": "Wɔ wo fifiri mu wɔ asɛmmɔne; ɛfiri sɛ meteere wo ho na woanteere wo fifiri no ho, wunteere bio kɔsii mabrɛ ⟨את⟩ me bufuo ase wɔ wo so.", "tokens": [{"surface": "בטמאתך", "gloss": "wɔ wo fifiri mu"}, {"surface": "זמה", "gloss": "asɛmmɔne"}, {"surface": "יען", "gloss": "ɛfiri sɛ"}, {"surface": "טהרתיך", "gloss": "meteere wo ho"}, {"surface": "ולא", "gloss": "na"}, {"surface": "טהרת", "gloss": "woanteere"}, {"surface": "מטמאתך", "gloss": "wo fifiri no ho"}, {"surface": "לא", "gloss": ""}, {"surface": "תטהרי", "gloss": "wunteere"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "הניחי", "gloss": "mabrɛ … ase"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me bufuo"}, {"surface": "חמתי", "gloss": "me bufuo"}, {"surface": "בך", "gloss": "wɔ wo so"}], "timestamp": "2026-09-16T00:47:56.406374912Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 24:13",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Wɔ wo fifiri mu wɔ asɛmmɔne; ɛfiri sɛ meteere wo ho na woanteere wo fifiri no ho, wunteere bio kɔsii mabrɛ ⟨את⟩ me bufuo ase wɔ wo so.",
+  "tokens": [
+    {
+      "surface": "בטמאתך",
+      "gloss": "wɔ wo fifiri mu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "asɛmmɔne"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טהרתיך",
+      "gloss": "meteere wo ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "טהרת",
+      "gloss": "woanteere"
+    },
+    {
+      "surface": "מטמאתך",
+      "gloss": "wo fifiri no ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "תטהרי",
+      "gloss": "wunteere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "הניחי",
+      "gloss": "mabrɛ … ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me bufuo"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "me bufuo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:47:56.406374912Z",
+  "model": "glm-5.3"
+}

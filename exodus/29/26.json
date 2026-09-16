@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":26,"ref":"exodus 29:26","book":"exodus","lang":"tw","chapter":29,"translation":"Fa ⟨את⟩ kɔkɔ a ɛfiri ɔguan a wɔde siesie Aharon no mu, na teatea ⟨את⟩ no sɛ teateaafɔreɛ wɔ Yawe anim; na ɛbɛyɛ wo kyɛfa.","tokens":[{"surface":"ולקחת","gloss":"Fa"},{"surface":"את","gloss":"⟨את⟩","marks":"⟨the⟩ kɔkɔ"},{"surface":"החזה","gloss":"⟨the⟩ kɔkɔ"},{"surface":"מאיל","gloss":"ɔguan"},{"surface":"המלאים","gloss":"a wɔde siesie no"},{"surface":"אשר","gloss":"a"},{"surface":"לאהרן","gloss":"ma Aharon"},{"surface":"והנפת","gloss":"na teatea"},{"surface":"אתו","gloss":"⟨את⟩","marks":"no"},{"surface":"תנופה","gloss":"sɛ teateaafɔreɛ"},{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"והיה","gloss":"na ɛbɛyɛ"},{"surface":"לך","gloss":"wo"},{"surface":"למנה","gloss":"kyɛfa"}],"timestamp":"2026-09-15T21:01:57.325539030Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 29:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Fa ⟨את⟩ kɔkɔ a ɛfiri ɔguan a wɔde siesie Aharon no mu, na teatea ⟨את⟩ no sɛ teateaafɔreɛ wɔ Yawe anim; na ɛbɛyɛ wo kyɛfa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ kɔkɔ"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "⟨the⟩ kɔkɔ"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "ɔguan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a wɔde siesie no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ma Aharon"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "na teatea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sɛ teateaafɔreɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "kyɛfa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:57.325539030Z",
+  "model": "glm-5.3"
+}

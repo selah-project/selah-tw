@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "joshua 11:13", "book": "joshua", "lang": "tw", "chapter": 11, "translation": "Nanso nkuro no nyinaa a ɛgyina wɔn mmoatia so no, Yisraɛl ammɔ mu ogya, gye ⟨את⟩ Chatsoor nko ara; Yehoshua na ɔtoo mu ogya.", "tokens": [{"surface": "רק", "gloss": "Nanso"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הערים", "gloss": "nkuro"}, {"surface": "העמדות", "gloss": "a ɛgyina"}, {"surface": "על", "gloss": "so"}, {"surface": "תלם", "gloss": "wɔn mmoatia"}, {"surface": "לא", "gloss": "ammɔ"}, {"surface": "שרפם", "gloss": "mu ogya"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "זולתי", "gloss": "gye"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Chatsoor"}, {"surface": "חצור", "gloss": "Chatsoor"}, {"surface": "לבדה", "gloss": "nko ara"}, {"surface": "שרף", "gloss": "ɔtoo mu ogya"}, {"surface": "יהושע", "gloss": "Yehoshua"}], "timestamp": "2026-09-15T22:06:28.970567930Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Nanso nkuro no nyinaa a ɛgyina wɔn mmoatia so no, Yisraɛl ammɔ mu ogya, gye ⟨את⟩ Chatsoor nko ara; Yehoshua na ɔtoo mu ogya.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nanso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "a ɛgyina"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "wɔn mmoatia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ammɔ"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "mu ogya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "gye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsoor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsoor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ɔtoo mu ogya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-15T22:06:28.970567930Z",
+  "model": "glm-5.3"
+}

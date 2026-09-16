@@ -1,1 +1,96 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "ezekiel 43:8", "book": "ezekiel", "lang": "tw", "chapter": 43, "translation": "Siane sɛ wɔde wɔn ɛpɔn sii ⟨את⟩ me ɛpɔn ho, na wɔn ɔpono nkyɛn gyinaa me ɔpono nkyɛn, na ɔfasuo no wɔ me ne wɔn ntam nti, wɔdɔɛe ⟨את⟩ me ⟨את⟩ din kronkron wɔ abɔdeɛ bɔne a wɔyɛeɛ no mu; enti me boɔ mu no manya wɔn.", "tokens": [{"surface": "בתתם", "gloss": "siane sɛ wɔde ... sii"}, {"surface": "ספם", "gloss": "wɔn ɛpɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me ɛpɔn"}, {"surface": "ספי", "gloss": "me ɛpɔn"}, {"surface": "ומזוזתם", "gloss": "wɔn ɔpono nsa abɔnten"}, {"surface": "אצל", "gloss": "nkyɛn"}, {"surface": "מזוזתי", "gloss": "me ɔpono nsa abɔnten"}, {"surface": "והקיר", "gloss": "na ɔfasuo"}, {"surface": "ביני", "gloss": "me"}, {"surface": "וביניהם", "gloss": "ne wɔn ntam"}, {"surface": "וטמאו", "gloss": "wɔdɔɛe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me din kronkron"}, {"surface": "שם", "gloss": "din"}, {"surface": "קדשי", "gloss": "kronkron"}, {"surface": "בתועבותם", "gloss": "wɔ abɔdeɛ bɔne mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשו", "gloss": "wɔyɛeɛ"}, {"surface": "ואכל", "gloss": "manya"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "באפי", "gloss": "me boɔ mu"}], "timestamp": "2026-09-16T01:01:08.349714682Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 43:8",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Siane sɛ wɔde wɔn ɛpɔn sii ⟨את⟩ me ɛpɔn ho, na wɔn ɔpono nkyɛn gyinaa me ɔpono nkyɛn, na ɔfasuo no wɔ me ne wɔn ntam nti, wɔdɔɛe ⟨את⟩ me ⟨את⟩ din kronkron wɔ abɔdeɛ bɔne a wɔyɛeɛ no mu; enti me boɔ mu no manya wɔn.",
+  "tokens": [
+    {
+      "surface": "בתתם",
+      "gloss": "siane sɛ wɔde ... sii"
+    },
+    {
+      "surface": "ספם",
+      "gloss": "wɔn ɛpɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ɛpɔn"
+    },
+    {
+      "surface": "ספי",
+      "gloss": "me ɛpɔn"
+    },
+    {
+      "surface": "ומזוזתם",
+      "gloss": "wɔn ɔpono nsa abɔnten"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "מזוזתי",
+      "gloss": "me ɔpono nsa abɔnten"
+    },
+    {
+      "surface": "והקיר",
+      "gloss": "na ɔfasuo"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "me"
+    },
+    {
+      "surface": "וביניהם",
+      "gloss": "ne wɔn ntam"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "wɔdɔɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me din kronkron"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "בתועבותם",
+      "gloss": "wɔ abɔdeɛ bɔne mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛeɛ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "manya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "me boɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:01:08.349714682Z",
+  "model": "glm-5.3"
+}

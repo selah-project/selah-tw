@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "song-of-songs 3:5", "book": "song-of-songs", "lang": "tw", "chapter": 3, "translation": "Mahyɛ ⟨את⟩ mo bɔ, Yerusalem mma, fa adwowaa ne asase adwowaa so, sɛ ⟨את⟩ moapɔ anyɛm anaa moayaw ɔdɔ no ama no asɔre — kɔsii ɔpɛ.", "tokens": [{"surface": "השבעתי", "gloss": "Mahyɛ mo bɔ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "Yerusalem mma"}, {"surface": "בנות", "gloss": "mma"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "בצבאות", "gloss": "fa adwowaa"}, {"surface": "או", "gloss": "ne"}, {"surface": "באילות", "gloss": "asase adwowaa"}, {"surface": "השדה", "gloss": "asase"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "תעירו", "gloss": "moapɔ anyɛm"}, {"surface": "ואם", "gloss": "anaa"}, {"surface": "תעוררו", "gloss": "moayaw ... asɔre"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔdɔ no"}, {"surface": "האהבה", "gloss": "ɔdɔ no"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "שתחפץ", "gloss": "ɔpɛ"}], "timestamp": "2026-09-16T03:44:22.495923112Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Mahyɛ ⟨את⟩ mo bɔ, Yerusalem mma, fa adwowaa ne asase adwowaa so, sɛ ⟨את⟩ moapɔ anyɛm anaa moayaw ɔdɔ no ama no asɔre — kɔsii ɔpɛ.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Mahyɛ mo bɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Yerusalem mma"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "fa adwowaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "asase adwowaa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "moapɔ anyɛm"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "moayaw ... asɔre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔdɔ no"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ɔdɔ no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ɔpɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:22.495923112Z",
+  "model": "glm-5.3"
+}

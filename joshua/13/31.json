@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":31,"ref":"joshua 13:31","book":"joshua","lang":"tw","chapter":13,"translation":"Ne Gilad fa, ne Ashtarot, ne Edrei — Og ahennie nkurom a ɛwɔ Bashan — ɛmaa Makir a ɔyɛ Manaseh ba mma, Makir mma no fa, wɔ wɔn abusua mu.","tokens":[{"surface":"וחצי","gloss":"ne ... fa"},{"surface":"הגלעד","gloss":"Gilad"},{"surface":"ועשתרות","gloss":"ne Ashtarot"},{"surface":"ואדרעי","gloss":"ne Edrei"},{"surface":"ערי","gloss":"nkurom"},{"surface":"ממלכות","gloss":"ahennie"},{"surface":"עוג","gloss":"Og"},{"surface":"בבשן","gloss":"ɛwɔ Bashan"},{"surface":"לבני","gloss":"ɛmaa ... mma"},{"surface":"מכיר","gloss":"Makir"},{"surface":"בן","gloss":"ba"},{"surface":"מנשה","gloss":"Manaseh"},{"surface":"לחצי","gloss":"fa"},{"surface":"בני","gloss":"mma"},{"surface":"מכיר","gloss":"Makir"},{"surface":"למשפחותם","gloss":"wɔ wɔn abusua mu"}],"timestamp":"2026-09-15T22:05:42.028687575Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 13:31",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Ne Gilad fa, ne Ashtarot, ne Edrei — Og ahennie nkurom a ɛwɔ Bashan — ɛmaa Makir a ɔyɛ Manaseh ba mma, Makir mma no fa, wɔ wɔn abusua mu.",
+  "tokens": [
+    {
+      "surface": "וחצי",
+      "gloss": "ne ... fa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ne Ashtarot"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ne Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurom"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ɛwɔ Bashan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɛmaa ... mma"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manaseh"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "wɔ wɔn abusua mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:42.028687575Z",
+  "model": "glm-5.3"
+}

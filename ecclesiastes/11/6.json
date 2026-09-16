@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":6,"ref":"ecclesiastes 11:6","book":"ecclesiastes","lang":"tw","chapter":11,"translation":"Anɔpatutuutu hwie ⟨את⟩ wo nuanom nwura, anwummerɛ nso hwɛ ma wo nsa nngyae, ɛfiri sɛ wonnim deɛ ɛbɛdi mu — eyi anaa deɛ ɔyɛ — na sɛ aba no nyinaa yɛ pɛ a, ɛyɛ.","tokens":[{"surface":"בבקר","gloss":"anɔpatutuutu"},{"surface":"זרע","gloss":"hwie"},{"surface":"את","gloss":"⟨את⟩","marks":"wo nuanom nwura"},{"surface":"זרעך","gloss":"wo nuanom nwura"},{"surface":"ולערב","gloss":"na anwummerɛ"},{"surface":"אל","gloss":"nn"},{"surface":"תנח","gloss":"mma wo nsa nngyae"},{"surface":"ידך","gloss":"wo nsa"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אינך","gloss":"wonnim"},{"surface":"יודע","gloss":"nim"},{"surface":"אי","gloss":"nea"},{"surface":"זה","gloss":"eyi"},{"surface":"יכשר","gloss":"bɛdi mu"},{"surface":"הזה","gloss":"eyi"},{"surface":"או","gloss":"anaa"},{"surface":"זה","gloss":"deɛ ɔyɛ"},{"surface":"ואם","gloss":"na sɛ"},{"surface":"שניהם","gloss":"aba no nyinaa"},{"surface":"כאחד","gloss":"yɛ pɛ"},{"surface":"טובים","gloss":"ɛyɛ"}],"timestamp":"2026-09-16T03:59:12.964720411Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Anɔpatutuutu hwie ⟨את⟩ wo nuanom nwura, anwummerɛ nso hwɛ ma wo nsa nngyae, ɛfiri sɛ wonnim deɛ ɛbɛdi mu — eyi anaa deɛ ɔyɛ — na sɛ aba no nyinaa yɛ pɛ a, ɛyɛ.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "anɔpatutuutu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hwie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nuanom nwura"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nuanom nwura"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "na anwummerɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "mma wo nsa nngyae"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wonnim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nea"
+    },
+    {
+      "surface": "זה",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "bɛdi mu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deɛ ɔyɛ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "aba no nyinaa"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "yɛ pɛ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:59:12.964720411Z",
+  "model": "glm-5.3"
+}

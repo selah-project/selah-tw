@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":16,"ref":"proverbs 11:16","book":"proverbs","lang":"tw","chapter":11,"translation":"Ɔbaa a ɔwɔ adɔeɛ hintintimnya anuonyam; na nnipa a wɔyɛ ahoɔden-ahantanfoɔ nso hintintimnya ahonya.","tokens":[{"surface":"אשת","gloss":"ɔbaa a ɔwɔ"},{"surface":"חן","gloss":"adɔeɛ (kɛde)"},{"surface":"תתמך","gloss":"hintintimnya"},{"surface":"כבוד","gloss":"anuonyam"},{"surface":"ועריצים","gloss":"na ahoɔden-ahantanfoɔ"},{"surface":"יתמכו","gloss":"nso hintintimnya"},{"surface":"עשר","gloss":"ahonya"}],"timestamp":"2026-09-16T02:50:50.281403904Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɔbaa a ɔwɔ adɔeɛ hintintimnya anuonyam; na nnipa a wɔyɛ ahoɔden-ahantanfoɔ nso hintintimnya ahonya.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ɔbaa a ɔwɔ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "adɔeɛ (kɛde)"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "hintintimnya"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "anuonyam"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "na ahoɔden-ahantanfoɔ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "nso hintintimnya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ahonya"
+    }
+  ],
+  "timestamp": "2026-09-16T02:50:50.281403904Z",
+  "model": "glm-5.3"
+}

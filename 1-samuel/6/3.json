@@ -1,1 +1,115 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "1-samuel 6:3", "book": "1-samuel", "lang": "tw", "chapter": 6, "translation": "Wɔkaa sɛ, “Sɛ mosoma ⟨את⟩ Israel Eloohim ⟨את⟩ adaka no a, monnsoma no kwa; na monyɛ bɔnefakyɛ san de ma no; afei mo bewo na wobɛhu sɛdeɛ ne nsa nnya ntew afiri mo so.”", "tokens": [{"surface": "ויאמרו", "gloss": "Wɔkaa sɛ"}, {"surface": "אם", "gloss": "Sɛ"}, {"surface": "משלחים", "gloss": "mosoma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israel Eloohim adaka no"}, {"surface": "ארון", "gloss": "adaka"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "אל", "gloss": "monn"}, {"surface": "תשלחו", "gloss": "soma"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "kwa"}, {"surface": "ריקם", "gloss": "kwa"}, {"surface": "כי", "gloss": "na"}, {"surface": "השב", "gloss": "monyɛ ... san"}, {"surface": "תשיבו", "gloss": "de ma"}, {"surface": "לו", "gloss": "no"}, {"surface": "אשם", "gloss": "bɔnefakyɛ"}, {"surface": "אז", "gloss": "afei"}, {"surface": "תרפאו", "gloss": "mo bewo"}, {"surface": "ונודע", "gloss": "na wobɛhu"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "למה", "gloss": "sɛdeɛ"}, {"surface": "לא", "gloss": "nnya"}, {"surface": "תסור", "gloss": "ntew"}, {"surface": "ידו", "gloss": "ne nsa"}, {"surface": "מכם", "gloss": "afiri mo so"}], "timestamp": "2026-09-15T22:48:28.054941068Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Wɔkaa sɛ, “Sɛ mosoma ⟨את⟩ Israel Eloohim ⟨את⟩ adaka no a, monnsoma no kwa; na monyɛ bɔnefakyɛ san de ma no; afei mo bewo na wobɛhu sɛdeɛ ne nsa nnya ntew afiri mo so.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wɔkaa sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "mosoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel Eloohim adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "monn"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "soma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "kwa"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "השב",
+      "gloss": "monyɛ ... san"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "de ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "bɔnefakyɛ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "afei"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "mo bewo"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "na wobɛhu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnya"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "ntew"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "afiri mo so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:48:28.054941068Z",
+  "model": "glm-5.3"
+}

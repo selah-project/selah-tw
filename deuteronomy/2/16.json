@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":16,"ref":"deuteronomy 2:16","book":"deuteronomy","lang":"tw","chapter":2,"translation":"Na ɛbaa sɛ, berɛ a ɔkofoɔ nyinaa hweree wɔn aseɛ, wɔwuiɛ firi nnipadɔm no mu no,","tokens":[{"surface":"ויהי","gloss":"na ɛbaa sɛ"},{"surface":"כאשר","gloss":"berɛ a"},{"surface":"תמו","gloss":"hweree wɔn aseɛ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"אנשי","gloss":"ɔkofoɔ"},{"surface":"המלחמה","gloss":"ko"},{"surface":"למות","gloss":"wɔwuiɛ"},{"surface":"מקרב","gloss":"firi ... mu"},{"surface":"העם","gloss":"nnipadɔm no"}],"timestamp":"2026-09-15T21:45:00.638334265Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɛbaa sɛ, berɛ a ɔkofoɔ nyinaa hweree wɔn aseɛ, wɔwuiɛ firi nnipadɔm no mu no,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "hweree wɔn aseɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ɔkofoɔ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למות",
+      "gloss": "wɔwuiɛ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "firi ... mu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:00.638334265Z",
+  "model": "glm-5.3"
+}

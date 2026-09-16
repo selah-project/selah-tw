@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "numbers 4:10", "book": "numbers", "lang": "tw", "chapter": 4, "translation": "Wɔbɛde no ⟨את⟩ ne ne nnwinni ⟨את⟩ nyinaa asie anantwie nwoma mu, na wɔbɛto soa dua no so.", "tokens": [{"surface": "ונתנו", "gloss": "wɔbɛde asie"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "kandea no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne nnwinni nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "כליה", "gloss": "ne nnwinni"}, {"surface": "אל", "gloss": "mu"}, {"surface": "מכסה", "gloss": "asie"}, {"surface": "עור", "gloss": "nwoma"}, {"surface": "תחש", "gloss": "anantwie"}, {"surface": "ונתנו", "gloss": "wɔbɛto"}, {"surface": "על", "gloss": "so"}, {"surface": "המוט", "gloss": "soa dua no"}], "timestamp": "2026-09-15T21:26:19.774649628Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Wɔbɛde no ⟨את⟩ ne ne nnwinni ⟨את⟩ nyinaa asie anantwie nwoma mu, na wɔbɛto soa dua no so.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "wɔbɛde asie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kandea no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnwinni nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ne nnwinni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "asie"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wɔbɛto"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "soa dua no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:26:19.774649628Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "judges 15:1", "book": "judges", "lang": "tw", "chapter": 15, "translation": "Na nna bi mu, wɔ aburoo aduan berɛ mu, na Shimshon kɔɔ hwɛɛ ⟨את⟩ ne yere, ɔde abirekyie ba; na ɔkae sɛ: “Mɛkɔ me yere nkyɛn, mfatoma mu.” Nanso ne papa amma no nkɔ.", "tokens": [{"surface": "ויהי", "gloss": "Na ɛbaa"}, {"surface": "מימים", "gloss": "nna bi mu"}, {"surface": "בימי", "gloss": "wɔ … berɛ mu"}, {"surface": "קציר", "gloss": "aduan"}, {"surface": "חטים", "gloss": "aburoo"}, {"surface": "ויפקד", "gloss": "na ɔkɔɔ hwɛɛ"}, {"surface": "שמשון", "gloss": "Shimshon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne yere"}, {"surface": "אשתו", "gloss": "ne yere"}, {"surface": "בגדי", "gloss": "ɔde"}, {"surface": "עזים", "gloss": "abirekyie ba"}, {"surface": "ויאמר", "gloss": "na ɔkae sɛ"}, {"surface": "אבאה", "gloss": "mɛkɔ"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "אשתי", "gloss": "me yere"}, {"surface": "החדרה", "gloss": "mfatoma mu"}, {"surface": "ולא", "gloss": "nanso"}, {"surface": "נתנו", "gloss": "amma no"}, {"surface": "אביה", "gloss": "ne papa"}, {"surface": "לבוא", "gloss": "nkɔ"}], "timestamp": "2026-09-15T22:43:28.948207551Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 15:1",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na nna bi mu, wɔ aburoo aduan berɛ mu, na Shimshon kɔɔ hwɛɛ ⟨את⟩ ne yere, ɔde abirekyie ba; na ɔkae sɛ: “Mɛkɔ me yere nkyɛn, mfatoma mu.” Nanso ne papa amma no nkɔ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "nna bi mu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "wɔ … berɛ mu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "aduan"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "aburoo"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na ɔkɔɔ hwɛɛ"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yere"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ɔde"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "abirekyie ba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkae sɛ"
+    },
+    {
+      "surface": "אבאה",
+      "gloss": "mɛkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "me yere"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "mfatoma mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "amma no"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nkɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:43:28.948207551Z",
+  "model": "glm-5.3"
+}

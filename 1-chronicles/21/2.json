@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "1-chronicles 21:2", "book": "1-chronicles", "lang": "tw", "chapter": 21, "translation": "Dawid ka kyerɛɛ Yoab ne ɔman no mpanimfoɔ sɛ: Monkɔ, monkan ⟨את⟩ Yisrael, fi Beer-Sheba kɔsi Dan, na monsa dodoɔ no bra brɛ me, na menyua ⟨את⟩ wɔn dodoɔ.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "יואב", "gloss": "Yoab"}, {"surface": "ואל", "gloss": "ne"}, {"surface": "שרי", "gloss": "mpanimfoɔ"}, {"surface": "העם", "gloss": "ɔman no"}, {"surface": "לכו", "gloss": "monkɔ"}, {"surface": "ספרו", "gloss": "monkan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "מבאר", "gloss": "fi Beer"}, {"surface": "שבע", "gloss": "Sheba"}, {"surface": "ועד", "gloss": "kɔsi"}, {"surface": "דן", "gloss": "Dan"}, {"surface": "והביאו", "gloss": "na monsa bra brɛ"}, {"surface": "אלי", "gloss": "me"}, {"surface": "ואדעה", "gloss": "na menyua"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn dodoɔ"}, {"surface": "מספרם", "gloss": "wɔn dodoɔ"}], "timestamp": "2026-09-16T04:47:06.466827662Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Dawid ka kyerɛɛ Yoab ne ɔman no mpanimfoɔ sɛ: Monkɔ, monkan ⟨את⟩ Yisrael, fi Beer-Sheba kɔsi Dan, na monsa dodoɔ no bra brɛ me, na menyua ⟨את⟩ wɔn dodoɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "monkɔ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "monkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "fi Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "na monsa bra brɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "na menyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn dodoɔ"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "wɔn dodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:47:06.466827662Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":9,"ref":"ezra 5:9","book":"ezra","lang":"tw","chapter":5,"translation":"Afei yɛbisaa akokɔfoɔ yi, na yɛkaa kyerɛɛ wɔn sɛ: Hwan na ɔhyehyɛɛ mmara sɛ mo nsie fie yi, na mo nwie ɔfasuo yi?","tokens":[{"surface":"אדין","gloss":"Afei"},{"surface":"שאלנא","gloss":"yɛbisaa"},{"surface":"לשביא","gloss":"akokɔfoɔ"},{"surface":"אלך","gloss":"yi"},{"surface":"כנמא","gloss":"sɛ"},{"surface":"אמרנא","gloss":"yɛkaa kyerɛɛ"},{"surface":"להם","gloss":"wɔn"},{"surface":"מן","gloss":"Hwan"},{"surface":"שם","gloss":"ɔhyehyɛɛ"},{"surface":"לכם","gloss":"mo"},{"surface":"טעם","gloss":"mmara"},{"surface":"ביתא","gloss":"fie"},{"surface":"דנה","gloss":"yi"},{"surface":"למבניה","gloss":"sɛ wɔbɛsi"},{"surface":"ואשרנא","gloss":"na ɔfasuo"},{"surface":"דנה","gloss":"yi"},{"surface":"לשכללה","gloss":"sɛ wɔbɛwie"}],"timestamp":"2026-09-16T04:21:14.192964027Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Afei yɛbisaa akokɔfoɔ yi, na yɛkaa kyerɛɛ wɔn sɛ: Hwan na ɔhyehyɛɛ mmara sɛ mo nsie fie yi, na mo nwie ɔfasuo yi?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Afei"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "yɛbisaa"
+    },
+    {
+      "surface": "לשביא",
+      "gloss": "akokɔfoɔ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yi"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "yɛkaa kyerɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɔhyehyɛɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "ביתא",
+      "gloss": "fie"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "למבניה",
+      "gloss": "sɛ wɔbɛsi"
+    },
+    {
+      "surface": "ואשרנא",
+      "gloss": "na ɔfasuo"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לשכללה",
+      "gloss": "sɛ wɔbɛwie"
+    }
+  ],
+  "timestamp": "2026-09-16T04:21:14.192964027Z",
+  "model": "glm-5.3"
+}

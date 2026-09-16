@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":2,"ref":"genesis 46:2","book":"genesis","lang":"tw","chapter":46,"translation":"Eloohim kasa kyerɛɛ Israel wɔ ⟨anadwo no⟩ ahunumu mu, na ɔkaa sɛ: “Yakob, Yakob.” Na ɔkaa sɛ: “Me wɔ ha.”","tokens":[{"surface":"ויאמר","gloss":"kasa kyerɛɛ"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"לישראל","gloss":"Israel"},{"surface":"במראת","gloss":"ahunumu mu"},{"surface":"הלילה","gloss":"anadwo no"},{"surface":"ויאמר","gloss":"ɔkaa sɛ"},{"surface":"יעקב","gloss":"Yakob"},{"surface":"יעקב","gloss":"Yakob"},{"surface":"ויאמר","gloss":"ɔkaa sɛ"},{"surface":"הנני","gloss":"Me wɔ ha"}],"timestamp":"2026-09-15T20:40:20.403210317Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Eloohim kasa kyerɛɛ Israel wɔ ⟨anadwo no⟩ ahunumu mu, na ɔkaa sɛ: “Yakob, Yakob.” Na ɔkaa sɛ: “Me wɔ ha.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ahunumu mu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Me wɔ ha"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:20.403210317Z",
+  "model": "glm-5.3"
+}

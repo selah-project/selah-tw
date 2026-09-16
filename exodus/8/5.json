@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":5,"ref":"exodus 8:5","book":"exodus","lang":"tw","chapter":8,"translation":"Mosheh kaa kyerɛɛ Paroh sɛ: “Fa animuonyam no gyina me so — ɛbɛn berɛ na mɛbɔ mpaeɛ ama wo, ne wo akuafoɔ, ne wo nkurɔfoɔ, na mɛyi apɔtamante afiri wo so ne wo afie mu? Wɔntena asubɔnten mu nkutoo.”","tokens":[{"surface":"ויאמר","gloss":"kaa kyerɛɛ"},{"surface":"משה","gloss":"Mosheh"},{"surface":"לפרעה","gloss":"kyerɛɛ Paroh"},{"surface":"התפאר","gloss":"fa animuonyam gyina"},{"surface":"עלי","gloss":"me so"},{"surface":"למתי","gloss":"ɛbɛn berɛ"},{"surface":"אעתיר","gloss":"mɛbɔ mpaeɛ"},{"surface":"לך","gloss":"ama wo"},{"surface":"ולעבדיך","gloss":"ne wo akuafoɔ"},{"surface":"ולעמך","gloss":"ne wo nkurɔfoɔ"},{"surface":"להכרית","gloss":"na mɛyi"},{"surface":"הצפרדעים","gloss":"apɔtamante"},{"surface":"ממך","gloss":"afiri wo so"},{"surface":"ומבתיך","gloss":"ne wo afie mu"},{"surface":"רק","gloss":"nkutoo"},{"surface":"ביאר","gloss":"asubɔnten mu"},{"surface":"תשארנה","gloss":"wɔntena"}],"timestamp":"2026-09-15T20:47:09.081637307Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mosheh kaa kyerɛɛ Paroh sɛ: “Fa animuonyam no gyina me so — ɛbɛn berɛ na mɛbɔ mpaeɛ ama wo, ne wo akuafoɔ, ne wo nkurɔfoɔ, na mɛyi apɔtamante afiri wo so ne wo afie mu? Wɔntena asubɔnten mu nkutoo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kyerɛɛ Paroh"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "fa animuonyam gyina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "ɛbɛn berɛ"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "mɛbɔ mpaeɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "ne wo akuafoɔ"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "ne wo nkurɔfoɔ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "na mɛyi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "apɔtamante"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "afiri wo so"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "ne wo afie mu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nkutoo"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "asubɔnten mu"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "wɔntena"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:09.081637307Z",
+  "model": "glm-5.3"
+}

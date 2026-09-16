@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":30,"ref":"genesis 31:30","book":"genesis","lang":"tw","chapter":31,"translation":"Na seesei, wo kɔeɛ ɛfiri sɛ w'ani pɛɛ w'agya fie hɔ; adɛn na wowii ⟨את⟩ me Eloohim?","tokens":[{"surface":"ועתה","gloss":"na seesei"},{"surface":"הלך","gloss":"akɔ"},{"surface":"הלכת","gloss":"wo kɔeɛ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"נכסף","gloss":"ani pɛɛ"},{"surface":"נכספתה","gloss":"w'ani pɛɛ dedaw"},{"surface":"לבית","gloss":"fie hɔ"},{"surface":"אביך","gloss":"w'agya"},{"surface":"למה","gloss":"adɛn"},{"surface":"גנבת","gloss":"wowii"},{"surface":"את","gloss":"⟨את⟩","marks":"me Eloohim"},{"surface":"אלהי","gloss":"me Eloohim"}],"timestamp":"2026-09-15T20:30:43.545628050Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na seesei, wo kɔeɛ ɛfiri sɛ w'ani pɛɛ w'agya fie hɔ; adɛn na wowii ⟨את⟩ me Eloohim?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na seesei"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "wo kɔeɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ani pɛɛ"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "w'ani pɛɛ dedaw"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie hɔ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "w'agya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "wowii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:30:43.545628050Z",
+  "model": "glm-5.3"
+}

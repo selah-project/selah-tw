@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":5,"ref":"2-chronicles 29:5","book":"2-chronicles","lang":"tw","chapter":29,"translation":"Ɔkaa kyerɛɛ wɔn sɛ: Tie me, me Levinifoɔ; seesei mom kronkronyɛ mo ho, na mom kronkronyɛ ⟨את⟩ Yawe fie, mo agyafoɔ Eloohim, na mom yi ⟨את⟩ fi no firi kronkronbea no mu.","tokens":[{"surface":"ויאמר","gloss":"Ɔkaa"},{"surface":"להם","gloss":"kyerɛɛ wɔn"},{"surface":"שמעוני","gloss":"Tie me"},{"surface":"הלוים","gloss":"me Levinifoɔ"},{"surface":"עתה","gloss":"seesei"},{"surface":"התקדשו","gloss":"mom kronkronyɛ mo ho"},{"surface":"וקדשו","gloss":"na mom kronkronyɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe fie"},{"surface":"בית","gloss":"fie"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"אבתיכם","gloss":"mo agyafoɔ"},{"surface":"והוציאו","gloss":"na mom yi"},{"surface":"את","gloss":"⟨את⟩","marks":"fi no"},{"surface":"הנדה","gloss":"fi"},{"surface":"מן","gloss":"firi"},{"surface":"הקדש","gloss":"kronkronbea no mu"}],"timestamp":"2026-09-16T05:07:29.925335641Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 29:5",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Ɔkaa kyerɛɛ wɔn sɛ: Tie me, me Levinifoɔ; seesei mom kronkronyɛ mo ho, na mom kronkronyɛ ⟨את⟩ Yawe fie, mo agyafoɔ Eloohim, na mom yi ⟨את⟩ fi no firi kronkronbea no mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔkaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kyerɛɛ wɔn"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Tie me"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "me Levinifoɔ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "seesei"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "mom kronkronyɛ mo ho"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "na mom kronkronyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "mo agyafoɔ"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "na mom yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fi no"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "fi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkronbea no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:07:29.925335641Z",
+  "model": "glm-5.3"
+}

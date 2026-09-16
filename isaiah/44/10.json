@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 44:10","book":"isaiah","lang":"tw","chapter":44,"translation":"Hwan na ɔyɛɛ El ⟨bosoni⟩, anaa ɔtoo bosonsuroɔ a ɛnyɛ mfasoɔ koraa?","tokens":[{"surface":"מי","gloss":"Hwan"},{"surface":"יצר","gloss":"na ɔyɛɛ"},{"surface":"אל","gloss":"El ⟨bosoni⟩"},{"surface":"ופסל","gloss":"anaa ɔtoo bosonsuroɔ"},{"surface":"נסך","gloss":"ɔtoo"},{"surface":"לבלתי","gloss":"a ɛnyɛ"},{"surface":"הועיל","gloss":"mfasoɔ koraa"}],"timestamp":"2026-09-15T23:56:30.563706031Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Hwan na ɔyɛɛ El ⟨bosoni⟩, anaa ɔtoo bosonsuroɔ a ɛnyɛ mfasoɔ koraa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hwan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El ⟨bosoni⟩"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "anaa ɔtoo bosonsuroɔ"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ɔtoo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "a ɛnyɛ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "mfasoɔ koraa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:56:30.563706031Z",
+  "model": "glm-5.3"
+}

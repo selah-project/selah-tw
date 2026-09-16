@@ -1,1 +1,115 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "2-samuel 21:17", "book": "2-samuel", "lang": "tw", "chapter": 21, "translation": "Abishai, Tserujah ba, boaa no; ɔbɔɔ ⟨את⟩ Filistini no na ɔkum no. Saa berɛ no, Dawid mmarima bɔɔ nsew kyerɛɛ no sɛ: \"Worentua biom ⟨את⟩ yɛn nk⟨את⟩ yɛn akɔ ɔko mu, na wo nsa nnnim Yisrael kanea.\"", "tokens": [{"surface": "ויעזר", "gloss": "boaa no"}, {"surface": "לו", "gloss": "no"}, {"surface": "אבישי", "gloss": "Abishai"}, {"surface": "בן", "gloss": "ba"}, {"surface": "צרויה", "gloss": "Tserujah"}, {"surface": "ויך", "gloss": "ɔbɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Filistini no"}, {"surface": "הפלשתי", "gloss": "Filistini no"}, {"surface": "וימיתהו", "gloss": "na ɔkum no"}, {"surface": "אז", "gloss": "saa berɛ no"}, {"surface": "נשבעו", "gloss": "bɔɔ nsew"}, {"surface": "אנשי", "gloss": "mmarima"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "לו", "gloss": "kyerɛɛ no"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "לא", "gloss": "nkyɛn"}, {"surface": "תצא", "gloss": "worentua"}, {"surface": "עוד", "gloss": "biom"}, {"surface": "אתנו", "gloss": "⟨את⟩ yɛn nkyɛn"}, {"surface": "למלחמה", "gloss": "akɔ ɔko mu"}, {"surface": "ולא", "gloss": "na wo nsa nnnim"}, {"surface": "תכבה", "gloss": "nnim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael kanea"}, {"surface": "נר", "gloss": "kanea"}, {"surface": "ישראל", "gloss": "Yisrael"}], "timestamp": "2026-09-15T23:11:15.300979497Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 21:17",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Abishai, Tserujah ba, boaa no; ɔbɔɔ ⟨את⟩ Filistini no na ɔkum no. Saa berɛ no, Dawid mmarima bɔɔ nsew kyerɛɛ no sɛ: \"Worentua biom ⟨את⟩ yɛn nk⟨את⟩ yɛn akɔ ɔko mu, na wo nsa nnnim Yisrael kanea.\"",
+  "tokens": [
+    {
+      "surface": "ויעזר",
+      "gloss": "boaa no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistini no"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistini no"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "na ɔkum no"
+    },
+    {
+      "surface": "אז",
+      "gloss": "saa berɛ no"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "bɔɔ nsew"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "worentua"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "biom"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn nkyɛn"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "akɔ ɔko mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wo nsa nnnim"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael kanea"
+    },
+    {
+      "surface": "נר",
+      "gloss": "kanea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T23:11:15.300979497Z",
+  "model": "glm-5.3"
+}

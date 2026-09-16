@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "genesis 34:8", "book": "genesis", "lang": "tw", "chapter": 34, "translation": "Hamor kasa kyerɛɛ ⟨את⟩ wɔn sɛ: “Shekem, m'abarimaa, ne kra da wo babea so; momma no ⟨את⟩ ma ɔware no.”", "tokens": [{"surface": "וידבר", "gloss": "kasa kyerɛɛ"}, {"surface": "חמור", "gloss": "Hamor"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "שכם", "gloss": "Shekem"}, {"surface": "בני", "gloss": "m'abarimaa"}, {"surface": "חשקה", "gloss": "da... so"}, {"surface": "נפשו", "gloss": "ne kra"}, {"surface": "בבתכם", "gloss": "wo babea"}, {"surface": "תנו", "gloss": "momma"}, {"surface": "נא", "gloss": "mɔ-mma"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "לו", "gloss": "ma ɔware"}, {"surface": "לאשה", "gloss": "no"}], "timestamp": "2026-09-15T20:34:15.297127155Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Hamor kasa kyerɛɛ ⟨את⟩ wɔn sɛ: “Shekem, m'abarimaa, ne kra da wo babea so; momma no ⟨את⟩ ma ɔware no.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "m'abarimaa"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "da... so"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ne kra"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "wo babea"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "momma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mɔ-mma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma ɔware"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:34:15.297127155Z",
+  "model": "glm-5.3"
+}

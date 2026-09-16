@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "numbers 20:24", "book": "numbers", "lang": "tw", "chapter": 20, "translation": "'Aharɔn bɛka ne nkorɔfoɔ ho, ɛfiri sɛ ɔrenkɔ asaase a mede ama Yisraɛl mma no mu, ɛfiri sɛ mosoa ⟨את⟩ m'ano wɔ Meriba nsuo no ho.'", "tokens": [{"surface": "יאסף", "gloss": "bɛka ... ho"}, {"surface": "אהרן", "gloss": "Aharɔn"}, {"surface": "אל", "gloss": "(ho)"}, {"surface": "עמיו", "gloss": "ne nkorɔfoɔ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "ren-"}, {"surface": "יבא", "gloss": "nkɔ"}, {"surface": "אל", "gloss": "(mu)"}, {"surface": "הארץ", "gloss": "asaase no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נתתי", "gloss": "mede ama"}, {"surface": "לבני", "gloss": "Yisraɛl mma"}, {"surface": "ישראל", "gloss": "(Yisraɛl)"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "אשר", "gloss": "(ho)"}, {"surface": "מריתם", "gloss": "mosoa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "m'ano"}, {"surface": "פי", "gloss": "m'ano"}, {"surface": "למי", "gloss": "nsuo no"}, {"surface": "מריבה", "gloss": "Meriba"}], "timestamp": "2026-09-15T21:36:17.616389801Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 20:24",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "'Aharɔn bɛka ne nkorɔfoɔ ho, ɛfiri sɛ ɔrenkɔ asaase a mede ama Yisraɛl mma no mu, ɛfiri sɛ mosoa ⟨את⟩ m'ano wɔ Meriba nsuo no ho.'",
+  "tokens": [
+    {
+      "surface": "יאסף",
+      "gloss": "bɛka ... ho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ho)"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ne nkorɔfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren-"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(mu)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asaase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede ama"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Yisraɛl mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "(Yisraɛl)"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ho)"
+    },
+    {
+      "surface": "מריתם",
+      "gloss": "mosoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'ano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "m'ano"
+    },
+    {
+      "surface": "למי",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    }
+  ],
+  "timestamp": "2026-09-15T21:36:17.616389801Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,117 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "zechariah 13:9", "book": "zechariah", "lang": "tw", "chapter": 13, "translation": "Na mede ⟨את⟩ fa ⟨את⟩ no mmiɛnsa no bɛkɔ ogya mu, na mɛyɛ wɔn foforɔ sɛnea wɔyɛ ⟨את⟩ dwetɛ foforɔ, na mɛsɔ wɔn hwɛ sɛnea wɔsɔ ⟨את⟩ sikakɔkɔɔ hwɛ; ɔno bɛfrɛ me wɔ me din mu, na mɛbua no; mɛka sɛ, wɔyɛ me nkurɔfoɔ, na ɔno bɛka sɛ, Yawe ne me Eloohim.", "tokens": [{"surface": "והבאתי", "gloss": "na mede ... bɛkɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fa no mmiɛnsa no"}, {"surface": "השלשית", "gloss": "fa no mmiɛnsa no"}, {"surface": "באש", "gloss": "ogya mu"}, {"surface": "וצרפתים", "gloss": "na mɛyɛ wɔn foforɔ"}, {"surface": "כצרף", "gloss": "sɛnea wɔyɛ ... foforɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "dwetɛ"}, {"surface": "הכסף", "gloss": "dwetɛ"}, {"surface": "ובחנתים", "gloss": "na mɛsɔ wɔn hwɛ"}, {"surface": "כבחן", "gloss": "sɛnea wɔsɔ ... hwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sikakɔkɔɔ"}, {"surface": "הזהב", "gloss": "sikakɔkɔɔ"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "יקרא", "gloss": "bɛfrɛ"}, {"surface": "בשמי", "gloss": "wɔ me din mu"}, {"surface": "ואני", "gloss": "na me"}, {"surface": "אענה", "gloss": "mɛbua"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "no (ɔno a mɛbua no)"}, {"surface": "אמרתי", "gloss": "mɛka sɛ"}, {"surface": "עמי", "gloss": "me nkurɔfoɔ"}, {"surface": "הוא", "gloss": "wɔyɛ"}, {"surface": "והוא", "gloss": "na ɔno"}, {"surface": "יאמר", "gloss": "bɛka sɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "me Eloohim"}], "timestamp": "2026-09-16T01:32:38.984635104Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 13:9",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na mede ⟨את⟩ fa ⟨את⟩ no mmiɛnsa no bɛkɔ ogya mu, na mɛyɛ wɔn foforɔ sɛnea wɔyɛ ⟨את⟩ dwetɛ foforɔ, na mɛsɔ wɔn hwɛ sɛnea wɔsɔ ⟨את⟩ sikakɔkɔɔ hwɛ; ɔno bɛfrɛ me wɔ me din mu, na mɛbua no; mɛka sɛ, wɔyɛ me nkurɔfoɔ, na ɔno bɛka sɛ, Yawe ne me Eloohim.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "na mede ... bɛkɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fa no mmiɛnsa no"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "fa no mmiɛnsa no"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "וצרפתים",
+      "gloss": "na mɛyɛ wɔn foforɔ"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "sɛnea wɔyɛ ... foforɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwetɛ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "ובחנתים",
+      "gloss": "na mɛsɔ wɔn hwɛ"
+    },
+    {
+      "surface": "כבחן",
+      "gloss": "sɛnea wɔsɔ ... hwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikakɔkɔɔ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sikakɔkɔɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bɛfrɛ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "wɔ me din mu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "mɛbua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (ɔno a mɛbua no)"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mɛka sɛ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bɛka sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T01:32:38.984635104Z",
+  "model": "glm-5.3"
+}

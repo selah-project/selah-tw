@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 73:2","book":"psalms","lang":"tw","chapter":73,"translation":"Na me de, m'anan bɛyɛɛ sɛ ɛgyaee, na m'anantew bɛyɛɛ sɛ ɛsɔɔ.","tokens":[{"surface":"ואני","gloss":"Na me de"},{"surface":"כמעט","gloss":"bɛyɛɛ sɛ"},{"surface":"נטוי","gloss":"gyaee"},{"surface":"רגלי","gloss":"m'anan"},{"surface":"כאין","gloss":"bɛyɛɛ sɛ hwee ara"},{"surface":"שפכה","gloss":"sɔɔ"},{"surface":"אשרי","gloss":"m'anantew"}],"timestamp":"2026-09-16T02:06:20.606374965Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Na me de, m'anan bɛyɛɛ sɛ ɛgyaee, na m'anantew bɛyɛɛ sɛ ɛsɔɔ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me de"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bɛyɛɛ sɛ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "gyaee"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "m'anan"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "bɛyɛɛ sɛ hwee ara"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "sɔɔ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "m'anantew"
+    }
+  ],
+  "timestamp": "2026-09-16T02:06:20.606374965Z",
+  "model": "glm-5.3"
+}

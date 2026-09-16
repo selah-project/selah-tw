@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":13,"ref":"isaiah 44:13","book":"isaiah","lang":"tw","chapter":44,"translation":"Duayɛfoɔ no te tweaa, ɔtwentwaa dua no ntɛtɛ mu; ɔyɛ no nsɛnkyerɛnne wɔ pɛnsere mu, ɔyɛ no wɔ nkatahyɛdeɛ mu, na ɔyɛ no nsɛnkyerɛnne wɔ akwankyerɛdua mu, na ɔyɛɛ no sɛ ɔbarima mfonini, sɛ onipa animuonyam dea, ama ɛbɛtena fie mu.","tokens":[{"surface":"חרש","gloss":"duayɛfoɔ"},{"surface":"עצים","gloss":"dua"},{"surface":"נטה","gloss":"ɔte tweaa"},{"surface":"קו","gloss":"tweaa"},{"surface":"יתארהו","gloss":"ɔyɛ no nsɛnkyerɛnne"},{"surface":"בשרד","gloss":"wɔ pɛnsere mu"},{"surface":"יעשהו","gloss":"ɔyɛ no"},{"surface":"במקצעות","gloss":"wɔ nkatahyɛdeɛ mu"},{"surface":"ובמחוגה","gloss":"na wɔ akwankyerɛdua mu"},{"surface":"יתארהו","gloss":"ɔyɛ no nsɛnkyerɛnne"},{"surface":"ויעשהו","gloss":"na ɔyɛɛ no"},{"surface":"כתבנית","gloss":"sɛ ... mfonini"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"כתפארת","gloss":"sɛ ... animuonyam"},{"surface":"אדם","gloss":"onipa"},{"surface":"לשבת","gloss":"ama ɔbɛtena"},{"surface":"בית","gloss":"fie mu"}],"timestamp":"2026-09-15T23:57:01.730996962Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 44:13",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Duayɛfoɔ no te tweaa, ɔtwentwaa dua no ntɛtɛ mu; ɔyɛ no nsɛnkyerɛnne wɔ pɛnsere mu, ɔyɛ no wɔ nkatahyɛdeɛ mu, na ɔyɛ no nsɛnkyerɛnne wɔ akwankyerɛdua mu, na ɔyɛɛ no sɛ ɔbarima mfonini, sɛ onipa animuonyam dea, ama ɛbɛtena fie mu.",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "duayɛfoɔ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ɔte tweaa"
+    },
+    {
+      "surface": "קו",
+      "gloss": "tweaa"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "ɔyɛ no nsɛnkyerɛnne"
+    },
+    {
+      "surface": "בשרד",
+      "gloss": "wɔ pɛnsere mu"
+    },
+    {
+      "surface": "יעשהו",
+      "gloss": "ɔyɛ no"
+    },
+    {
+      "surface": "במקצעות",
+      "gloss": "wɔ nkatahyɛdeɛ mu"
+    },
+    {
+      "surface": "ובמחוגה",
+      "gloss": "na wɔ akwankyerɛdua mu"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "ɔyɛ no nsɛnkyerɛnne"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "na ɔyɛɛ no"
+    },
+    {
+      "surface": "כתבנית",
+      "gloss": "sɛ ... mfonini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "כתפארת",
+      "gloss": "sɛ ... animuonyam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ama ɔbɛtena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:57:01.730996962Z",
+  "model": "glm-5.3"
+}

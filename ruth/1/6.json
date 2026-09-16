@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "ruth 1:6", "book": "ruth", "lang": "tw", "chapter": 1, "translation": "Na ɔsɔreɛ ne ne nkyerenom, na ɔsan firii Moab asase so; ɛfiri sɛ ɔtee Moab asase so sɛ Yawe ahwɛ ⟨את⟩ n'amanom so, de aduane ama wɔn.", "tokens": [{"surface": "ותקם", "gloss": "na ɔsɔreɛ"}, {"surface": "היא", "gloss": "ɔno ankasa"}, {"surface": "וכלתיה", "gloss": "ne ne nkyerenom"}, {"surface": "ותשב", "gloss": "na ɔsan firii"}, {"surface": "משדי", "gloss": "asase so"}, {"surface": "מואב", "gloss": "Moab"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "שמעה", "gloss": "ɔtee"}, {"surface": "בשדה", "gloss": "asase so"}, {"surface": "מואב", "gloss": "Moab"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "פקד", "gloss": "ahwɛ ... so"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'amanom"}, {"surface": "עמו", "gloss": "n'amanom"}, {"surface": "לתת", "gloss": "de ... ama"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "לחם", "gloss": "aduane"}], "timestamp": "2026-09-16T03:44:52.893638114Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 1:6",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔsɔreɛ ne ne nkyerenom, na ɔsan firii Moab asase so; ɛfiri sɛ ɔtee Moab asase so sɛ Yawe ahwɛ ⟨את⟩ n'amanom so, de aduane ama wɔn.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "na ɔsɔreɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɔno ankasa"
+    },
+    {
+      "surface": "וכלתיה",
+      "gloss": "ne ne nkyerenom"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "na ɔsan firii"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ɔtee"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ahwɛ ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'amanom"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'amanom"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "de ... ama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:52.893638114Z",
+  "model": "glm-5.3"
+}

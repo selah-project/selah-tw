@@ -1,1 +1,117 @@
-{"tier":"glm-5.2","verse":5,"ref":"exodus 10:5","book":"exodus","lang":"tw","chapter":10,"translation":"Na ɛbɛkata ⟨את⟩ asase no ani so, na obi ntumi nhunu ⟨את⟩ asase no; na ɛbɛdi ⟨את⟩ de aka — de wɔagyaw ama mo wɔ kesee no akyi no awerɛhoɔ; na ɛbɛdi ⟨את⟩ dua biara a ɛnyini ama mo wɔ afuom no.","tokens":[{"surface":"וכסה","gloss":"na ɛbɛkata"},{"surface":"את","gloss":"⟨את⟩","marks":"asase no ani"},{"surface":"עין","gloss":"ani"},{"surface":"הארץ","gloss":"asase no"},{"surface":"ולא","gloss":"na ɔnhunu"},{"surface":"יוכל","gloss":"obi ntumi nhunu"},{"surface":"לראת","gloss":"de ahunu"},{"surface":"את","gloss":"⟨את⟩","marks":"asase no"},{"surface":"הארץ","gloss":"asase no"},{"surface":"ואכל","gloss":"na ɛbɛdi"},{"surface":"את","gloss":"⟨את⟩","marks":"de aka"},{"surface":"יתר","gloss":"de aka"},{"surface":"הפלטה","gloss":"werɛhoɔ"},{"surface":"הנשארת","gloss":"de wɔagyaw"},{"surface":"לכם","gloss":"ama mo"},{"surface":"מן","gloss":"wɔ … akyi"},{"surface":"הברד","gloss":"kesee no"},{"surface":"ואכל","gloss":"na ɛbɛdi"},{"surface":"את","gloss":"⟨את⟩","marks":"dua biara"},{"surface":"כל","gloss":"biara"},{"surface":"העץ","gloss":"dua"},{"surface":"הצמח","gloss":"a ɛnyini"},{"surface":"לכם","gloss":"ama mo"},{"surface":"מן","gloss":"wɔ"},{"surface":"השדה","gloss":"afuom no"}],"timestamp":"2026-09-15T20:48:28.205526635Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɛbɛkata ⟨את⟩ asase no ani so, na obi ntumi nhunu ⟨את⟩ asase no; na ɛbɛdi ⟨את⟩ de aka — de wɔagyaw ama mo wɔ kesee no akyi no awerɛhoɔ; na ɛbɛdi ⟨את⟩ dua biara a ɛnyini ama mo wɔ afuom no.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "na ɛbɛkata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no ani"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔnhunu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "obi ntumi nhunu"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "de ahunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na ɛbɛdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aka"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "de aka"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "werɛhoɔ"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "de wɔagyaw"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ama mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wɔ … akyi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "kesee no"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na ɛbɛdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua biara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "a ɛnyini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ama mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "afuom no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:28.205526635Z",
+  "model": "glm-5.3"
+}

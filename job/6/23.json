@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":23,"ref":"job 6:23","book":"job","lang":"tw","chapter":6,"translation":"Anaasɛ monkora me firi ɔtamfo nsa mu, anaasɛ firi atamfoɔ kɛseɛ nsa mu mogyae me?","tokens":[{"surface":"ומלטוני","gloss":"monkora me"},{"surface":"מיד","gloss":"firi nsa mu"},{"surface":"צר","gloss":"ɔtamfo"},{"surface":"ומיד","gloss":"na firi nsa mu"},{"surface":"עריצים","gloss":"atamfoɔ kɛseɛ"},{"surface":"תפדוני","gloss":"mogyae me"}],"timestamp":"2026-09-16T03:09:02.375843076Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Anaasɛ monkora me firi ɔtamfo nsa mu, anaasɛ firi atamfoɔ kɛseɛ nsa mu mogyae me?",
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "monkora me"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi nsa mu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɔtamfo"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na firi nsa mu"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "atamfoɔ kɛseɛ"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "mogyae me"
+    }
+  ],
+  "timestamp": "2026-09-16T03:09:02.375843076Z",
+  "model": "glm-5.3"
+}

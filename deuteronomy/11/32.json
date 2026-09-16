@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "deuteronomy 11:32", "book": "deuteronomy", "lang": "tw", "chapter": 11, "translation": "Na mo nhwɛ so na mo nyɛ mmara ⟨את⟩ ne atemmu ⟨את⟩ nyinaa a mede si mo anim nnɛ yi.", "tokens": [{"surface": "ושמרתם", "gloss": "na mo nhwɛ so"}, {"surface": "לעשות", "gloss": "na mo nyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mmara ne atemmu nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "החקים", "gloss": "mmara"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "atemmu"}, {"surface": "המשפטים", "gloss": "atemmu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "נתן", "gloss": "de si"}, {"surface": "לפניכם", "gloss": "mo anim"}, {"surface": "היום", "gloss": "nnɛ"}], "timestamp": "2026-09-15T21:49:36.046110738Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na mo nhwɛ so na mo nyɛ mmara ⟨את⟩ ne atemmu ⟨את⟩ nyinaa a mede si mo anim nnɛ yi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "na mo nhwɛ so"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na mo nyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmara ne atemmu nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "atemmu"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de si"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mo anim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:36.046110738Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":9,"ref":"exodus 33:9","book":"exodus","lang":"tw","chapter":33,"translation":"Na ɛbae sɛ, berɛ a Moshe baa ten mu no, nsuo-gyinantɛ no sii aseɛ, ɔgyinaa ten no ano, na ⟨ɔ⟩ ne Moshe kasaaye.","tokens":[{"surface":"והיה","gloss":"Na ɛbae sɛ"},{"surface":"כבא","gloss":"berɛ a"},{"surface":"משה","gloss":"Moshe"},{"surface":"האהלה","gloss":"ten mu no"},{"surface":"ירד","gloss":"sii aseɛ"},{"surface":"עמוד","gloss":"gyinantɛ"},{"surface":"הענן","gloss":"nsuo no"},{"surface":"ועמד","gloss":"ɔgyinaa"},{"surface":"פתח","gloss":"ano"},{"surface":"האהל","gloss":"ten no"},{"surface":"ודבר","gloss":"kasaaye"},{"surface":"עם","gloss":"ne"},{"surface":"משה","gloss":"Moshe"}],"timestamp":"2026-09-15T21:03:58.705451876Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 33:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na ɛbae sɛ, berɛ a Moshe baa ten mu no, nsuo-gyinantɛ no sii aseɛ, ɔgyinaa ten no ano, na ⟨ɔ⟩ ne Moshe kasaaye.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbae sɛ"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "ten mu no"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sii aseɛ"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "gyinantɛ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ɔgyinaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ten no"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kasaaye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:58.705451876Z",
+  "model": "glm-5.3"
+}

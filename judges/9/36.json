@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 36, "ref": "judges 9:36", "book": "judges", "lang": "tw", "chapter": 9, "translation": "Na Gaal hunuu ⟨את⟩ dɔm no, na ɔka kyerɛɛ Zebul sɛ: Hwɛ, nnipa resiane bepɔ no atifi. Na Zebul kaa sɛ: Bepɔ no ⟨את⟩ sum na worehunu sɛ ɛyɛ nnipa.", "tokens": [{"surface": "וירא", "gloss": "hunuu"}, {"surface": "געל", "gloss": "Gaal"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "dɔm no"}, {"surface": "העם", "gloss": "dɔm no"}, {"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "זבל", "gloss": "Zebul"}, {"surface": "הנה", "gloss": "Hwɛ"}, {"surface": "עם", "gloss": "nnipa"}, {"surface": "יורד", "gloss": "resiane"}, {"surface": "מראשי", "gloss": "atifi"}, {"surface": "ההרים", "gloss": "bepɔ no"}, {"surface": "ויאמר", "gloss": "kaa sɛ"}, {"surface": "אליו", "gloss": "no"}, {"surface": "זבל", "gloss": "Zebul"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bepɔ no sum"}, {"surface": "צל", "gloss": "sum"}, {"surface": "ההרים", "gloss": "bepɔ no"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "ראה", "gloss": "rehunu"}, {"surface": "כאנשים", "gloss": "sɛ ɛyɛ nnipa"}], "timestamp": "2026-09-15T22:39:59.346635475Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 9:36",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Gaal hunuu ⟨את⟩ dɔm no, na ɔka kyerɛɛ Zebul sɛ: Hwɛ, nnipa resiane bepɔ no atifi. Na Zebul kaa sɛ: Bepɔ no ⟨את⟩ sum na worehunu sɛ ɛyɛ nnipa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dɔm no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dɔm no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "resiane"
+    },
+    {
+      "surface": "מראשי",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ no sum"
+    },
+    {
+      "surface": "צל",
+      "gloss": "sum"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rehunu"
+    },
+    {
+      "surface": "כאנשים",
+      "gloss": "sɛ ɛyɛ nnipa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:39:59.346635475Z",
+  "model": "glm-5.3"
+}

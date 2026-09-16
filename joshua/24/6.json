@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "joshua 24:6", "book": "joshua", "lang": "tw", "chapter": 24, "translation": "Na mede ⟨את⟩ mo nnamfoono mmaa wɔn firi Misraim mu, na mo baa ɛpo no ho, na Misraim dii mo nnamfoono mmaa akyi wɔ mmoadoma ne akɔniefoɔ mu, kɔsii Suefoɔ ɛpo no.", "tokens": [{"surface": "ואוציא", "gloss": "na mede maa wɔn firi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo nnamfoono mmaa"}, {"surface": "אבותיכם", "gloss": "mo nnamfoono mmaa"}, {"surface": "ממצרים", "gloss": "firi Misraim mu"}, {"surface": "ותבאו", "gloss": "na mo baa"}, {"surface": "הימה", "gloss": "ɛpo no ho"}, {"surface": "וירדפו", "gloss": "na wɔdii akyi"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "אבותיכם", "gloss": "mo nnamfoono mmaa"}, {"surface": "ברכב", "gloss": "wɔ mmoadoma mu"}, {"surface": "ובפרשים", "gloss": "ne akɔniefoɔ mu"}, {"surface": "ים", "gloss": "ɛpo"}, {"surface": "סוף", "gloss": "Suefoɔ"}], "timestamp": "2026-09-16T05:14:57.065962071Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na mede ⟨את⟩ mo nnamfoono mmaa wɔn firi Misraim mu, na mo baa ɛpo no ho, na Misraim dii mo nnamfoono mmaa akyi wɔ mmoadoma ne akɔniefoɔ mu, kɔsii Suefoɔ ɛpo no.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "na mede maa wɔn firi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nnamfoono mmaa"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "mo nnamfoono mmaa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "firi Misraim mu"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "na mo baa"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "ɛpo no ho"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "na wɔdii akyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "mo nnamfoono mmaa"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "wɔ mmoadoma mu"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ne akɔniefoɔ mu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suefoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:57.065962071Z",
+  "model": "glm-5.3"
+}

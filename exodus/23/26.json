@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "exodus 23:26", "book": "exodus", "lang": "tw", "chapter": 23, "translation": "Obi nnye nnyɛ nyinsɛn-monoɔ anaa honam-yarefoɔ wɔ wo asase so; mɛma wo nna ⟨את⟩ dodoɔ no ayɛ pɛ.", "tokens": [{"surface": "לא", "gloss": "nn"}, {"surface": "תהיה", "gloss": "nnyɛ"}, {"surface": "משכלה", "gloss": "nyinsɛn-monoɔ"}, {"surface": "ועקרה", "gloss": "honam-yarefoɔ"}, {"surface": "בארצך", "gloss": "wɔ wo asase so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nna dodoɔ"}, {"surface": "מספר", "gloss": "dodoɔ"}, {"surface": "ימיך", "gloss": "wo nna"}, {"surface": "אמלא", "gloss": "mɛma ... ayɛ pɛ"}], "timestamp": "2026-09-15T22:26:53.859635403Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Obi nnye nnyɛ nyinsɛn-monoɔ anaa honam-yarefoɔ wɔ wo asase so; mɛma wo nna ⟨את⟩ dodoɔ no ayɛ pɛ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "nyinsɛn-monoɔ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "honam-yarefoɔ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "wɔ wo asase so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nna dodoɔ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "wo nna"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "mɛma ... ayɛ pɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:26:53.859635403Z",
+  "model": "glm-5.3"
+}

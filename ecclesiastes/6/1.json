@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":1,"ref":"ecclesiastes 6:1","book":"ecclesiastes","lang":"tw","chapter":6,"translation":"Bɔne bi wɔ hɔ a mehunui wɔ ɔsoro aseɛ, na ɛyɛ duru kɛseɛ wɔ onipa so.","tokens":[{"surface":"יש","gloss":"wɔ hɔ"},{"surface":"רעה","gloss":"bɔne bi"},{"surface":"אשר","gloss":"a"},{"surface":"ראיתי","gloss":"mehunui"},{"surface":"תחת","gloss":"aseɛ"},{"surface":"השמש","gloss":"ɔsoro"},{"surface":"ורבה","gloss":"na ɛyɛ duru kɛseɛ"},{"surface":"היא","gloss":"ɛ"},{"surface":"על","gloss":"wɔ ... so"},{"surface":"האדם","gloss":"onipa"}],"timestamp":"2026-09-16T03:57:07.480356351Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Bɔne bi wɔ hɔ a mehunui wɔ ɔsoro aseɛ, na ɛyɛ duru kɛseɛ wɔ onipa so.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne bi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mehunui"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "na ɛyɛ duru kɛseɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:07.480356351Z",
+  "model": "glm-5.3"
+}

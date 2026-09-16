@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":39,"ref":"genesis 27:39","book":"genesis","lang":"tw","chapter":27,"translation":"Na Jitschak n'agya buaa na ɔkaa kyerɛɛ no sɛ: Hwɛ, asase no ntoboaho mu na w'atenaeɛ bɛda, na ɔsoro nsuo-nsutene a ɛfiri soro.","tokens":[{"surface":"ויען","gloss":"buaa"},{"surface":"יצחק","gloss":"Jitschak"},{"surface":"אביו","gloss":"n'agya"},{"surface":"ויאמר","gloss":"ɔkaa kyerɛɛ"},{"surface":"אליו","gloss":"no"},{"surface":"הנה","gloss":"Hwɛ"},{"surface":"משמני","gloss":"ntoboaho mu"},{"surface":"הארץ","gloss":"asase"},{"surface":"יהיה","gloss":"bɛda"},{"surface":"מושבך","gloss":"w'atenaeɛ"},{"surface":"ומטל","gloss":"nsuo-nsutene"},{"surface":"השמים","gloss":"ɔsoro"},{"surface":"מעל","gloss":"a ɛfiri soro"}],"timestamp":"2026-09-15T20:27:33.215918424Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 27:39",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na Jitschak n'agya buaa na ɔkaa kyerɛɛ no sɛ: Hwɛ, asase no ntoboaho mu na w'atenaeɛ bɛda, na ɔsoro nsuo-nsutene a ɛfiri soro.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "משמני",
+      "gloss": "ntoboaho mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛda"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "w'atenaeɛ"
+    },
+    {
+      "surface": "ומטל",
+      "gloss": "nsuo-nsutene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a ɛfiri soro"
+    }
+  ],
+  "timestamp": "2026-09-15T20:27:33.215918424Z",
+  "model": "glm-5.3"
+}

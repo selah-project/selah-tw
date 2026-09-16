@@ -1,1 +1,92 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "2-kings 14:14", "book": "2-kings", "lang": "tw", "chapter": 14, "translation": "Na ɔfaa sika kɔkɔɔ ⟨את⟩ nyinaa ne dwetɛ nyinaa, ne ⟨את⟩ nnwinnadeɛ nyinaa a wɔhunuiɛ wɔ Yawe fie ne ahemfi akoradeɛ mu, ne ⟨את⟩ nnipa a wɔde wɔn yɛɛ nkɔsoɔ, na ɔsan kɔɔ Shomron.", "tokens": [{"surface": "ולקח", "gloss": "na ɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sika kɔkɔɔ nyinaa ne dwetɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הזהב", "gloss": "sika kɔkɔɔ"}, {"surface": "והכסף", "gloss": "ne dwetɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nnwinnadeɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הכלים", "gloss": "nnwinnadeɛ"}, {"surface": "הנמצאים", "gloss": "a wɔhunuiɛ"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ובאצרות", "gloss": "akoradeɛ mu"}, {"surface": "בית", "gloss": "ahemfi"}, {"surface": "המלך", "gloss": "hene"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nnipa a wɔde wɔn yɛɛ nkɔsoɔ"}, {"surface": "בני", "gloss": "nnipa"}, {"surface": "התערבות", "gloss": "a wɔde wɔn yɛɛ nkɔsoɔ"}, {"surface": "וישב", "gloss": "na ɔsan kɔɔ"}, {"surface": "שמרונה", "gloss": "Shomron"}], "timestamp": "2026-09-15T23:33:24.483362741Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔfaa sika kɔkɔɔ ⟨את⟩ nyinaa ne dwetɛ nyinaa, ne ⟨את⟩ nnwinnadeɛ nyinaa a wɔhunuiɛ wɔ Yawe fie ne ahemfi akoradeɛ mu, ne ⟨את⟩ nnipa a wɔde wɔn yɛɛ nkɔsoɔ, na ɔsan kɔɔ Shomron.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "na ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ nyinaa ne dwetɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ne dwetɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnwinnadeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nnwinnadeɛ"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "a wɔhunuiɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "akoradeɛ mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ahemfi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa a wɔde wɔn yɛɛ nkɔsoɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "a wɔde wɔn yɛɛ nkɔsoɔ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ɔsan kɔɔ"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:24.483362741Z",
+  "model": "glm-5.3"
+}

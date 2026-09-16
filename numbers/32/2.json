@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 32:2","book":"numbers","lang":"tw","chapter":32,"translation":"Na Gad mma ne Ruben mma baeɛ, na wɔka kyerɛɛ Mose ne Elasar ɔsɔfoɔ no, ne asafo no mu mpanimfoɔ, sɛ:","tokens":[{"surface":"ויבאו","gloss":"na wɔbaeɛ"},{"surface":"בני","gloss":"mma"},{"surface":"גד","gloss":"Gad"},{"surface":"ובני","gloss":"ne mma"},{"surface":"ראובן","gloss":"Ruben"},{"surface":"ויאמרו","gloss":"na wɔka kyerɛɛ"},{"surface":"אל","gloss":""},{"surface":"משה","gloss":"Mose"},{"surface":"ואל","gloss":""},{"surface":"אלעזר","gloss":"Elasar"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"ואל","gloss":"ne"},{"surface":"נשיאי","gloss":"mpanimfoɔ"},{"surface":"העדה","gloss":"asafo no mu"},{"surface":"לאמר","gloss":"sɛ"}],"timestamp":"2026-09-15T21:42:47.897325540Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 32:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Gad mma ne Ruben mma baeɛ, na wɔka kyerɛɛ Mose ne Elasar ɔsɔfoɔ no, ne asafo no mu mpanimfoɔ, sɛ:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "na wɔbaeɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na wɔka kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואל",
+      "gloss": ""
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asafo no mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:42:47.897325540Z",
+  "model": "glm-5.3"
+}

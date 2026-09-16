@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "2-chronicles 11:17", "book": "2-chronicles", "lang": "tw", "chapter": 11, "translation": "Wɔhyɛɛ Yuda ⟨את⟩ ahennie no den, na wɔhyɛɛ Shelomoh ba ⟨את⟩ Rehoboam den mfeɛ mmiɛnsa, ɛfiri sɛ wɔnantew Dawid ne Shelomoh kwan so mfeɛ mmiɛnsa.", "tokens": [{"surface": "ויחזקו", "gloss": "wɔhyɛɛ den"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yuda ahennie"}, {"surface": "מלכות", "gloss": "ahennie"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "ויאמצו", "gloss": "na wɔhyɛɛ den"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Rehoboam"}, {"surface": "רחבעם", "gloss": "Rehoboam"}, {"surface": "בן", "gloss": "ba"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "לשנים", "gloss": "mfeɛ"}, {"surface": "שלוש", "gloss": "mmiɛnsa"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "הלכו", "gloss": "wɔnantew"}, {"surface": "בדרך", "gloss": "wɔ kwan so"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "ושלמה", "gloss": "ne Shelomoh"}, {"surface": "לשנים", "gloss": "mfeɛ"}, {"surface": "שלוש", "gloss": "mmiɛnsa"}], "timestamp": "2026-09-16T04:58:46.612823045Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 11:17",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Wɔhyɛɛ Yuda ⟨את⟩ ahennie no den, na wɔhyɛɛ Shelomoh ba ⟨את⟩ Rehoboam den mfeɛ mmiɛnsa, ɛfiri sɛ wɔnantew Dawid ne Shelomoh kwan so mfeɛ mmiɛnsa.",
+  "tokens": [
+    {
+      "surface": "ויחזקו",
+      "gloss": "wɔhyɛɛ den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda ahennie"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ahennie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויאמצו",
+      "gloss": "na wɔhyɛɛ den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rehoboam"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehoboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wɔnantew"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ kwan so"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ne Shelomoh"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "mmiɛnsa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:46.612823045Z",
+  "model": "glm-5.3"
+}

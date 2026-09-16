@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":9,"ref":"lamentations 2:9","book":"lamentations","lang":"tw","chapter":2,"translation":"Ne amena no atɔ asase mu; wɔsɛee na wɔbɔɔ ne nsɔano; ne ɔhene ne n'ahemfo wɔ amanaman mu — Torah nni hɔ; ne adiyisɛmfo nso nhuu anyane yesuom firi Yawe hɔ.","tokens":[{"surface":"טבעו","gloss":"atɔ"},{"surface":"בארץ","gloss":"wɔ asase mu"},{"surface":"שעריה","gloss":"ne amena"},{"surface":"אבד","gloss":"wɔsɛee"},{"surface":"ושבר","gloss":"na wɔbɔeɛ"},{"surface":"בריחיה","gloss":"ne nsɔano"},{"surface":"מלכה","gloss":"ne ɔhene"},{"surface":"ושריה","gloss":"ne n'ahemfo"},{"surface":"בגוים","gloss":"wɔ amanaman mu"},{"surface":"אין","gloss":"nni hɔ"},{"surface":"תורה","gloss":"Torah"},{"surface":"גם","gloss":"nso"},{"surface":"נביאיה","gloss":"ne adiyisɛmfo"},{"surface":"לא","gloss":"nhuu"},{"surface":"מצאו","gloss":"nhuu"},{"surface":"חזון","gloss":"anyane yesuom"},{"surface":"מיהוה","gloss":"firi Yawe hɔ"}],"timestamp":"2026-09-16T03:47:16.085698109Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 2:9",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ne amena no atɔ asase mu; wɔsɛee na wɔbɔɔ ne nsɔano; ne ɔhene ne n'ahemfo wɔ amanaman mu — Torah nni hɔ; ne adiyisɛmfo nso nhuu anyane yesuom firi Yawe hɔ.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "atɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase mu"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "ne amena"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "wɔsɛee"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "na wɔbɔeɛ"
+    },
+    {
+      "surface": "בריחיה",
+      "gloss": "ne nsɔano"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ne ɔhene"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ne n'ahemfo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanaman mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "נביאיה",
+      "gloss": "ne adiyisɛmfo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nhuu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "nhuu"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "anyane yesuom"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "firi Yawe hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:47:16.085698109Z",
+  "model": "glm-5.3"
+}

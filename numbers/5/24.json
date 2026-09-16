@@ -1,1 +1,63 @@
-{"tier":"glm-5.2","verse":24,"ref":"numbers 5:24","book":"numbers","lang":"tw","chapter":5,"translation":"Na ɔbɛma ⟨את⟩ ɔbaa no nom ⟨את⟩ brero nsuo a ɛde adua ba no; na nsuo a ɛde adua ba no mu no mu na ɛbɛyɛ brero.","tokens":[{"surface":"והשקה","gloss":"na ɔma nom"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔbaa no"},{"surface":"האשה","gloss":"ɔbaa no"},{"surface":"את","gloss":"⟨את⟩","marks":"brero nsuo"},{"surface":"מי","gloss":"nsuo"},{"surface":"המרים","gloss":"brero"},{"surface":"המאררים","gloss":"a ɛde adua ba"},{"surface":"ובאו","gloss":"na ... mu"},{"surface":"בה","gloss":"no mu"},{"surface":"המים","gloss":"nsuo"},{"surface":"המאררים","gloss":"a ɛde adua ba"},{"surface":"למרים","gloss":"ayɛ brero"}],"timestamp":"2026-09-15T21:27:38.371749867Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na ɔbɛma ⟨את⟩ ɔbaa no nom ⟨את⟩ brero nsuo a ɛde adua ba no; na nsuo a ɛde adua ba no mu no mu na ɛbɛyɛ brero.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "na ɔma nom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbaa no"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brero nsuo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "brero"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "a ɛde adua ba"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na ... mu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "a ɛde adua ba"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "ayɛ brero"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:38.371749867Z",
+  "model": "glm-5.3"
+}

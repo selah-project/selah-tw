@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "ezekiel 26:11", "book": "ezekiel", "lang": "tw", "chapter": 26, "translation": "Ne nantewmfiti nan ntentean no bɛso w'akwan no ⟨את⟩ nyinaa so; wo manfoɔ no ɔbɛkum wɔn akofena so, na w'ahoɔden adan no bɛsiane asase so.", "tokens": [{"surface": "בפרסות", "gloss": "nan ntentean no"}, {"surface": "סוסיו", "gloss": "nantewmfiti"}, {"surface": "ירמס", "gloss": "bɛso so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'akwan no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "חוצותיך", "gloss": "w'akwan"}, {"surface": "עמך", "gloss": "wo manfoɔ"}, {"surface": "בחרב", "gloss": "akofena so"}, {"surface": "יהרג", "gloss": "ɔbɛkum"}, {"surface": "ומצבות", "gloss": "adan"}, {"surface": "עזך", "gloss": "w'ahoɔden"}, {"surface": "לארץ", "gloss": "asase so"}, {"surface": "תרד", "gloss": "bɛsiane"}], "timestamp": "2026-09-16T00:46:59.409201729Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 26:11",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Ne nantewmfiti nan ntentean no bɛso w'akwan no ⟨את⟩ nyinaa so; wo manfoɔ no ɔbɛkum wɔn akofena so, na w'ahoɔden adan no bɛsiane asase so.",
+  "tokens": [
+    {
+      "surface": "בפרסות",
+      "gloss": "nan ntentean no"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "nantewmfiti"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "bɛso so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'akwan no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חוצותיך",
+      "gloss": "w'akwan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo manfoɔ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "akofena so"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ɔbɛkum"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "adan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "w'ahoɔden"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bɛsiane"
+    }
+  ],
+  "timestamp": "2026-09-16T00:46:59.409201729Z",
+  "model": "glm-5.3"
+}

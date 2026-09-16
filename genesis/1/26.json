@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 1:26","book":"genesis","lang":"tw","chapter":1,"translation":"Na Eloohim kaa sɛ: Momma yɛnyɛ onipa wɔ yɛn susuw mu, sɛnea yɛn te; na wɔnni nnisoɔ wɔ asorɔkye nsuom moa so, ne wim nnomaa so, ne mmbuatia so, ne asase so nyinaa, ne ntetestiefoɔ a wɔdi asase so nnisoɔ biara so.","tokens":[{"surface":"ויאמר","gloss":"na ɔkaa sɛ"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"נעשה","gloss":"momma yɛnyɛ"},{"surface":"אדם","gloss":"onipa"},{"surface":"בצלמנו","gloss":"wɔ yɛn susuw mu"},{"surface":"כדמותנו","gloss":"sɛnea yɛn te"},{"surface":"וירדו","gloss":"na wɔnni nnisoɔ"},{"surface":"בדגת","gloss":"wɔ ... nsuom moa mu"},{"surface":"הים","gloss":"asorɔkye"},{"surface":"ובעוף","gloss":"ne wɔ nnomaa mu"},{"surface":"השמים","gloss":"wim"},{"surface":"ובבהמה","gloss":"ne wɔ mmbuatia mu"},{"surface":"ובכל","gloss":"ne wɔ ... biara mu"},{"surface":"הארץ","gloss":"asase"},{"surface":"ובכל","gloss":"ne wɔ ... biara mu"},{"surface":"הרמש","gloss":"ntetestiefoɔ"},{"surface":"הרמש","gloss":"a ɔdi asase so nnisoɔ"},{"surface":"על","gloss":"so"},{"surface":"הארץ","gloss":"asase"}],"timestamp":"2026-09-15T20:15:36.586403840Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Eloohim kaa sɛ: Momma yɛnyɛ onipa wɔ yɛn susuw mu, sɛnea yɛn te; na wɔnni nnisoɔ wɔ asorɔkye nsuom moa so, ne wim nnomaa so, ne mmbuatia so, ne asase so nyinaa, ne ntetestiefoɔ a wɔdi asase so nnisoɔ biara so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "momma yɛnyɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "wɔ yɛn susuw mu"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "sɛnea yɛn te"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "na wɔnni nnisoɔ"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "wɔ ... nsuom moa mu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "asorɔkye"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "ne wɔ nnomaa mu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wim"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ne wɔ mmbuatia mu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne wɔ ... biara mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne wɔ ... biara mu"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "ntetestiefoɔ"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "a ɔdi asase so nnisoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:36.586403840Z",
+  "model": "glm-5.3"
+}

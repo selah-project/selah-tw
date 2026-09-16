@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":14,"ref":"psalms 116:14","book":"psalms","lang":"tw","chapter":116,"translation":"M'apɛdeɛ a mɛyɛ ama Yawe no, mɛwie pɛyɛ; ɛnnɛ ara, mma mɛyɛ wɔ nnyinasoɔ mu, ne nkorɔfoɔ nyinaa anim.","tokens":[{"surface":"נדרי","gloss":"m'apɛdeɛ"},{"surface":"ליהוה","gloss":"ama Yawe"},{"surface":"אשלם","gloss":"mɛwie pɛyɛ"},{"surface":"נגדה","gloss":"wɔ ... anim"},{"surface":"נא","gloss":"ɛnnɛ ara, mma"},{"surface":"לכל","gloss":"ne nyinaa"},{"surface":"עמו","gloss":"nkorɔfoɔ"}],"timestamp":"2026-09-16T02:25:18.557384569Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 116,
+  "translation": "M'apɛdeɛ a mɛyɛ ama Yawe no, mɛwie pɛyɛ; ɛnnɛ ara, mma mɛyɛ wɔ nnyinasoɔ mu, ne nkorɔfoɔ nyinaa anim.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "m'apɛdeɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "mɛwie pɛyɛ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɛnnɛ ara, mma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nkorɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:18.557384569Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "isaiah 28:22", "book": "isaiah", "lang": "tw", "chapter": 28, "translation": "Na seesei, monnyɛ afɔ-mfoniniyɛfoɔ, mo nnyɛ saammɔ, sɛdeɛ mo nnhwɛ mu rennya ahoɔden nti — ɛfiri sɛ sɛe a wɔasi ho gyinaeɛ na mate afiri ⟨את⟩ Adonai, Yawe Tsevaot nkyɛn, na ɛfa asase no nyinaa.", "tokens": [{"surface": "ועתה", "gloss": "Na seesei"}, {"surface": "אל", "gloss": "monnyɛ (negation)"}, {"surface": "תתלוצצו", "gloss": "monnyɛ afɔ-mfoniniyɛfoɔ, monnyɛ saammɔ"}, {"surface": "פן", "gloss": "sɛdeɛ ... nti"}, {"surface": "יחזקו", "gloss": "rennya ahoɔden"}, {"surface": "מוסריכם", "gloss": "mo nnhwɛ mu"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "כלה", "gloss": "sɛe"}, {"surface": "ונחרצה", "gloss": "a wɔasi ho gyinaeɛ"}, {"surface": "שמעתי", "gloss": "mate"}, {"surface": "מאת", "gloss": "⟨את⟩", "marks": "Adonai, Yawe Tsevaot"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "צבאות", "gloss": "Tsevaot"}, {"surface": "על", "gloss": "na ɛfa ... so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הארץ", "gloss": "asase no"}], "timestamp": "2026-09-15T23:49:02.204227279Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 28:22",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na seesei, monnyɛ afɔ-mfoniniyɛfoɔ, mo nnyɛ saammɔ, sɛdeɛ mo nnhwɛ mu rennya ahoɔden nti — ɛfiri sɛ sɛe a wɔasi ho gyinaeɛ na mate afiri ⟨את⟩ Adonai, Yawe Tsevaot nkyɛn, na ɛfa asase no nyinaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "monnyɛ (negation)"
+    },
+    {
+      "surface": "תתלוצצו",
+      "gloss": "monnyɛ afɔ-mfoniniyɛfoɔ, monnyɛ saammɔ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛdeɛ ... nti"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "rennya ahoɔden"
+    },
+    {
+      "surface": "מוסריכם",
+      "gloss": "mo nnhwɛ mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sɛe"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "a wɔasi ho gyinaeɛ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mate"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai, Yawe Tsevaot"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "na ɛfa ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:49:02.204227279Z",
+  "model": "glm-5.3"
+}

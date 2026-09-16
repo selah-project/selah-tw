@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":1,"ref":"isaiah 65:1","book":"isaiah","lang":"tw","chapter":65,"translation":"Wɔbisabisaa me — wɔn a wɔannisa; wɔhunuu me — wɔn a wɔannhwehwɛ me; mekaa sɛ: Hwɛ me, hwɛ me, kɔma ɔman a wɔnfrɛ me din.","tokens":[{"surface":"נדרשתי","gloss":"wɔbisabisaa me"},{"surface":"ללוא","gloss":"sɛ wɔannisa"},{"surface":"שאלו","gloss":"wɔannisa"},{"surface":"נמצאתי","gloss":"wɔhunuu me"},{"surface":"ללא","gloss":"sɛ wɔannhwehwɛ"},{"surface":"בקשני","gloss":"wɔannhwehwɛ me"},{"surface":"אמרתי","gloss":"mekaa sɛ"},{"surface":"הנני","gloss":"hwɛ me"},{"surface":"הנני","gloss":"hwɛ me"},{"surface":"אל","gloss":"kɔma"},{"surface":"גוי","gloss":"ɔman"},{"surface":"לא","gloss":"sɛ ɔnfrɛ"},{"surface":"קרא","gloss":"wɔnfrɛ"},{"surface":"בשמי","gloss":"me din"}],"timestamp":"2026-09-16T00:04:19.784889261Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Wɔbisabisaa me — wɔn a wɔannisa; wɔhunuu me — wɔn a wɔannhwehwɛ me; mekaa sɛ: Hwɛ me, hwɛ me, kɔma ɔman a wɔnfrɛ me din.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "wɔbisabisaa me"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "sɛ wɔannisa"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "wɔannisa"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "wɔhunuu me"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "sɛ wɔannhwehwɛ"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "wɔannhwehwɛ me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mekaa sɛ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hwɛ me"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hwɛ me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔma"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sɛ ɔnfrɛ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wɔnfrɛ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "me din"
+    }
+  ],
+  "timestamp": "2026-09-16T00:04:19.784889261Z",
+  "model": "glm-5.3"
+}

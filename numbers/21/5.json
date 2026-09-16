@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":5,"ref":"numbers 21:5","book":"numbers","lang":"tw","chapter":21,"translation":"Ná nnipa no kasa tiaa Eloohim ne Moshe, sɛ: Adɛn na mo de yɛn firi Misraim bɛwuwu wɔ asɔresɔre mu? Ɛfiri sɛ aduane nni hɔ, nsuo nni hɔ, na yɛn ankasa adwene adware saa aduane kɛkɛɛ yi ho.","tokens":[{"surface":"וידבר","gloss":"kasa tiaa"},{"surface":"העם","gloss":"nnipa no"},{"surface":"באלהים","gloss":"tiaa Eloohim"},{"surface":"ובמשה","gloss":"ne Moshe"},{"surface":"למה","gloss":"Adɛn"},{"surface":"העליתנו","gloss":"mo de yɛn firi"},{"surface":"ממצרים","gloss":"Misraim"},{"surface":"למות","gloss":"bɛwuwu"},{"surface":"במדבר","gloss":"wɔ asɔresɔre mu"},{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"אין","gloss":"nni hɔ"},{"surface":"לחם","gloss":"aduane"},{"surface":"ואין","gloss":"na ... nni hɔ"},{"surface":"מים","gloss":"nsuo"},{"surface":"ונפשנו","gloss":"yɛn ankasa adwene"},{"surface":"קצה","gloss":"adware ... ho"},{"surface":"בלחם","gloss":"saa aduane"},{"surface":"הקלקל","gloss":"kɛkɛɛ yi"}],"timestamp":"2026-09-15T21:36:46.100033151Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 21:5",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ná nnipa no kasa tiaa Eloohim ne Moshe, sɛ: Adɛn na mo de yɛn firi Misraim bɛwuwu wɔ asɔresɔre mu? Ɛfiri sɛ aduane nni hɔ, nsuo nni hɔ, na yɛn ankasa adwene adware saa aduane kɛkɛɛ yi ho.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa tiaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "tiaa Eloohim"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "ne Moshe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Adɛn"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "mo de yɛn firi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "למות",
+      "gloss": "bɛwuwu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asɔresɔre mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ... nni hɔ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "ונפשנו",
+      "gloss": "yɛn ankasa adwene"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "adware ... ho"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "saa aduane"
+    },
+    {
+      "surface": "הקלקל",
+      "gloss": "kɛkɛɛ yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:36:46.100033151Z",
+  "model": "glm-5.3"
+}

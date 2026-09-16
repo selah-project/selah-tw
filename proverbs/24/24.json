@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":24,"ref":"proverbs 24:24","book":"proverbs","lang":"tw","chapter":24,"translation":"Obi a ɔka kyerɛ bɔnefoɔ sɛ ' woyɛ treneeni' — nnipa bɛdome no, aman bɛkpɛ no fɛw.","tokens":[{"surface":"אמר","gloss":"ɔka kyerɛ"},{"surface":"לרשע","gloss":"bɔnefoɔ"},{"surface":"צדיק","gloss":"treneni"},{"surface":"אתה","gloss":"⟨you⟩ woyɛ"},{"surface":"יקבהו","gloss":"bɛdome no"},{"surface":"עמים","gloss":"nnipa"},{"surface":"יזעמוהו","gloss":"bɛkpɛ no fɛw"},{"surface":"לאמים","gloss":"aman"}],"timestamp":"2026-09-16T03:00:53.729945266Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Obi a ɔka kyerɛ bɔnefoɔ sɛ ' woyɛ treneeni' — nnipa bɛdome no, aman bɛkpɛ no fɛw.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ɔka kyerɛ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "treneni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨you⟩ woyɛ"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "bɛdome no"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "bɛkpɛ no fɛw"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-16T03:00:53.729945266Z",
+  "model": "glm-5.3"
+}

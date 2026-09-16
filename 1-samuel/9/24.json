@@ -1,1 +1,122 @@
-{"tier":"glm-5.2","verse":24,"ref":"1-samuel 9:24","book":"1-samuel","lang":"tw","chapter":9,"translation":"Aduanenoafoɔ no maa ⟨את⟩ nan no ne deɛ ɛdɔɔ so no so, de sii Shaul anim. Na ɔkaa sɛ: \"Sɛdeɛ aka no, hwɛ, hyɛ wo nkyɛn na di, ɛfiri sɛ wɔbɔɔ ho ban maa wo kɔsii berɛ a mekaa sɛ, 'Afrɛ nnipadɔm no.'\" Na Shaul dii aduane ne Shemuel wɔ da no mu.","tokens":[{"surface":"וירם","gloss":"maa ... so"},{"surface":"הטבח","gloss":"Aduanenoafoɔ no"},{"surface":"את","gloss":"⟨את⟩","marks":"nan no"},{"surface":"השוק","gloss":"⟨את⟩ nan no"},{"surface":"והעליה","gloss":"ne deɛ ɛdɔɔ so no"},{"surface":"וישם","gloss":"de sii"},{"surface":"לפני","gloss":"anim"},{"surface":"שאול","gloss":"Shaul"},{"surface":"ויאמר","gloss":"na ɔkaa sɛ"},{"surface":"הנה","gloss":"hwɛ"},{"surface":"הנשאר","gloss":"sɛdeɛ aka no"},{"surface":"שים","gloss":"hyɛ"},{"surface":"לפניך","gloss":"wo nkyɛn"},{"surface":"אכל","gloss":"na di"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"למועד","gloss":"kɔsii berɛ no"},{"surface":"שמור","gloss":"wɔbɔɔ ho ban"},{"surface":"לך","gloss":"maa wo"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"העם","gloss":"nnipadɔm no"},{"surface":"קראתי","gloss":"Afrɛ"},{"surface":"ויאכל","gloss":"dii aduane"},{"surface":"שאול","gloss":"Shaul"},{"surface":"עם","gloss":"ne"},{"surface":"שמואל","gloss":"Shemuel"},{"surface":"ביום","gloss":"wɔ da no mu"},{"surface":"ההוא","gloss":"no"}],"timestamp":"2026-09-15T22:49:52.836785091Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 9:24",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Aduanenoafoɔ no maa ⟨את⟩ nan no ne deɛ ɛdɔɔ so no so, de sii Shaul anim. Na ɔkaa sɛ: \"Sɛdeɛ aka no, hwɛ, hyɛ wo nkyɛn na di, ɛfiri sɛ wɔbɔɔ ho ban maa wo kɔsii berɛ a mekaa sɛ, 'Afrɛ nnipadɔm no.'\" Na Shaul dii aduane ne Shemuel wɔ da no mu.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "maa ... so"
+    },
+    {
+      "surface": "הטבח",
+      "gloss": "Aduanenoafoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nan no"
+    },
+    {
+      "surface": "השוק",
+      "gloss": "⟨את⟩ nan no"
+    },
+    {
+      "surface": "והעליה",
+      "gloss": "ne deɛ ɛdɔɔ so no"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "de sii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "sɛdeɛ aka no"
+    },
+    {
+      "surface": "שים",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "na di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "kɔsii berɛ no"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "wɔbɔɔ ho ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa wo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm no"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Afrɛ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dii aduane"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:49:52.836785091Z",
+  "model": "glm-5.3"
+}

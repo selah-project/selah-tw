@@ -1,1 +1,43 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "ezekiel 3:2", "book": "ezekiel", "lang": "tw", "chapter": 3, "translation": "Manaa ⟨את⟩ me ano, na Ɔmaa me dii ⟨את⟩ nkrataa yi.", "tokens": [{"surface": "ואפתח", "gloss": "Manaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me ano"}, {"surface": "פי", "gloss": "me ano"}, {"surface": "ויאכלני", "gloss": "Ɔmaa me dii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nkrataa yi"}, {"surface": "המגלה", "gloss": "nkrataa yi"}, {"surface": "הזאת", "gloss": "yi"}], "timestamp": "2026-09-16T00:34:59.497601872Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Manaa ⟨את⟩ me ano, na Ɔmaa me dii ⟨את⟩ nkrataa yi.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Manaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "me ano"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "Ɔmaa me dii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkrataa yi"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "nkrataa yi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T00:34:59.497601872Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "1-kings 19:19", "book": "1-kings", "lang": "tw", "chapter": 19, "translation": "Na ɔfirii hɔ kɔɔ hɔ, na ohuii ⟨את⟩ Elisa, Shafat ba, na ɔreyɛ nnwuma — nnantwie awo mmienu-du na ɛdi n'anim, na ɔyɛɛ deɛ ɛtɔ so mmienu-du no mu; na Eliya twaa mu kɔɔ nkyɛn, na otiee n'atakatan no guu no so.", "tokens": [{"surface": "וילך", "gloss": "na ɔfirii hɔ kɔɔ hɔ"}, {"surface": "משם", "gloss": ""}, {"surface": "וימצא", "gloss": "na ohuii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Elisa"}, {"surface": "אלישע", "gloss": "Elisa"}, {"surface": "בן", "gloss": "ba"}, {"surface": "שפט", "gloss": "Shafat"}, {"surface": "והוא", "gloss": "na ɔreyɛ nnwuma"}, {"surface": "חרש", "gloss": ""}, {"surface": "שנים", "gloss": "mmienu"}, {"surface": "עשר", "gloss": "-du"}, {"surface": "צמדים", "gloss": "nnantwie awo"}, {"surface": "לפניו", "gloss": "na ɛdi n'anim"}, {"surface": "והוא", "gloss": "na ɔyɛɛ"}, {"surface": "בשנים", "gloss": "deɛ ɛtɔ so mmienu"}, {"surface": "העשר", "gloss": "-du no mu"}, {"surface": "ויעבר", "gloss": "na ɔtwaa mu kɔɔ nkyɛn"}, {"surface": "אליהו", "gloss": "Eliya"}, {"surface": "אליו", "gloss": "kɔɔ nkyɛn"}, {"surface": "וישלך", "gloss": "na otiee guu"}, {"surface": "אדרתו", "gloss": "n'atakatan"}, {"surface": "אליו", "gloss": "no so"}], "timestamp": "2026-09-15T23:23:23.506245944Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 19:19",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na ɔfirii hɔ kɔɔ hɔ, na ohuii ⟨את⟩ Elisa, Shafat ba, na ɔreyɛ nnwuma — nnantwie awo mmienu-du na ɛdi n'anim, na ɔyɛɛ deɛ ɛtɔ so mmienu-du no mu; na Eliya twaa mu kɔɔ nkyɛn, na otiee n'atakatan no guu no so.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na ɔfirii hɔ kɔɔ hɔ"
+    },
+    {
+      "surface": "משם",
+      "gloss": ""
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "na ohuii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elisa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔreyɛ nnwuma"
+    },
+    {
+      "surface": "חרש",
+      "gloss": ""
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-du"
+    },
+    {
+      "surface": "צמדים",
+      "gloss": "nnantwie awo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "na ɛdi n'anim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "deɛ ɛtɔ so mmienu"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "-du no mu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "na ɔtwaa mu kɔɔ nkyɛn"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kɔɔ nkyɛn"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "na otiee guu"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "n'atakatan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:23.506245944Z",
+  "model": "glm-5.3"
+}

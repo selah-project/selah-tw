@@ -1,1 +1,144 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "genesis 8:21", "book": "genesis", "lang": "tw", "chapter": 8, "translation": "Yawe hwɛɛ ⟨את⟩ dwoodwo ⟨את⟩ frɔo no, na Yawe kaa wɔ n'akoma mu seɛ: Mennbɛtoa so nsɔ ⟨את⟩ asase no ho fɔ bio agyina onipa so, ɛfirisɛ onipa akoma nsusuwii yɛ bɔne firi ne mmabunberɛ mu; na mennbɛtoa so nnkum biribiara a ɔwɔ nkwa bio, sɛdeɛ mayɛ.", "tokens": [{"surface": "וירח", "gloss": "hwɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "dwoodwo frɔo"}, {"surface": "ריח", "gloss": "frɔo"}, {"surface": "הניחח", "gloss": "dwoodwo"}, {"surface": "ויאמר", "gloss": "na ɔkaa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אל", "gloss": "wɔ…mu"}, {"surface": "לבו", "gloss": "n'akoma"}, {"surface": "לא", "gloss": "menn"}, {"surface": "אסף", "gloss": "bɛtoa so"}, {"surface": "לקלל", "gloss": "nsɔ ho fɔ"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase"}, {"surface": "האדמה", "gloss": "asase"}, {"surface": "בעבור", "gloss": "agyina…so"}, {"surface": "האדם", "gloss": "onipa"}, {"surface": "כי", "gloss": "ɛfirisɛ"}, {"surface": "יצר", "gloss": "nsusuwii"}, {"surface": "לב", "gloss": "akoma"}, {"surface": "האדם", "gloss": "onipa"}, {"surface": "רע", "gloss": "bɔne"}, {"surface": "מנעריו", "gloss": "firi ne mmabunberɛ mu"}, {"surface": "ולא", "gloss": "na menn"}, {"surface": "אסף", "gloss": "bɛtoa so"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "להכות", "gloss": "nkum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "biribiara a ɔwɔ nkwa"}, {"surface": "כל", "gloss": "biribiara"}, {"surface": "חי", "gloss": "a ɔwɔ nkwa"}, {"surface": "כאשר", "gloss": "sɛdeɛ"}, {"surface": "עשיתי", "gloss": "mayɛ"}], "timestamp": "2026-09-15T22:24:09.475220286Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 8:21",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Yawe hwɛɛ ⟨את⟩ dwoodwo ⟨את⟩ frɔo no, na Yawe kaa wɔ n'akoma mu seɛ: Mennbɛtoa so nsɔ ⟨את⟩ asase no ho fɔ bio agyina onipa so, ɛfirisɛ onipa akoma nsusuwii yɛ bɔne firi ne mmabunberɛ mu; na mennbɛtoa so nnkum biribiara a ɔwɔ nkwa bio, sɛdeɛ mayɛ.",
+  "tokens": [
+    {
+      "surface": "וירח",
+      "gloss": "hwɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwoodwo frɔo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "frɔo"
+    },
+    {
+      "surface": "הניחח",
+      "gloss": "dwoodwo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ…mu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "n'akoma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "menn"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "bɛtoa so"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "nsɔ ho fɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "agyina…so"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfirisɛ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nsusuwii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "מנעריו",
+      "gloss": "firi ne mmabunberɛ mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na menn"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "bɛtoa so"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "nkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biribiara a ɔwɔ nkwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a ɔwɔ nkwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mayɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:09.475220286Z",
+  "model": "glm-5.3"
+}

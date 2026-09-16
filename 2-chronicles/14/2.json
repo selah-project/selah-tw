@@ -1,1 +1,60 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "2-chronicles 14:2", "book": "2-chronicles", "lang": "tw", "chapter": 14, "translation": "Ɔyii amanfoɔ no ⟨את⟩ afɔrebɔdeɛ ne bɔmɛsofoɔ atenaeɛ, ɔbubuu ⟨את⟩ nsɔsoɔ ananmu nnwinnadeɛ no, ɔtetee ⟨את⟩ Asherah nnua no.", "tokens": [{"surface": "ויסר", "gloss": "ɔyii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "amanfoɔ no afɔrebɔdeɛ"}, {"surface": "מזבחות", "gloss": "afɔrebɔdeɛ"}, {"surface": "הנכר", "gloss": "amanfoɔ no deɛ"}, {"surface": "והבמות", "gloss": "ne bɔmɛsofoɔ atenaeɛ"}, {"surface": "וישבר", "gloss": "ɔbubuu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɔsoɔ ananmu nnwinnadeɛ no"}, {"surface": "המצבות", "gloss": "nsɔsoɔ ananmu nnwinnadeɛ"}, {"surface": "ויגדע", "gloss": "ɔtetee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Asherah nnua no"}, {"surface": "האשרים", "gloss": "Asherah nnua"}], "timestamp": "2026-09-16T04:58:32.667394221Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ɔyii amanfoɔ no ⟨את⟩ afɔrebɔdeɛ ne bɔmɛsofoɔ atenaeɛ, ɔbubuu ⟨את⟩ nsɔsoɔ ananmu nnwinnadeɛ no, ɔtetee ⟨את⟩ Asherah nnua no.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ɔyii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanfoɔ no afɔrebɔdeɛ"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "afɔrebɔdeɛ"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "amanfoɔ no deɛ"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ne bɔmɛsofoɔ atenaeɛ"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ɔbubuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɔsoɔ ananmu nnwinnadeɛ no"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "nsɔsoɔ ananmu nnwinnadeɛ"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "ɔtetee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah nnua no"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherah nnua"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:32.667394221Z",
+  "model": "glm-5.3"
+}

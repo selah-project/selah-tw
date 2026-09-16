@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 91:2","book":"psalms","lang":"tw","chapter":91,"translation":"Mɛka de Yawe, me hɔ asodie ne me kɛseɛ hyɛn — Eloohim, mɛde me ho ato ⟨ne⟩ so.","tokens":[{"surface":"אמר","gloss":"Mɛka"},{"surface":"ליהוה","gloss":"de Yawe"},{"surface":"מחסי","gloss":"me hɔ asodie"},{"surface":"ומצודתי","gloss":"ne me kɛseɛ hyɛn"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"אבטח","gloss":"mɛde me ho ato"},{"surface":"בו","gloss":"so"}],"timestamp":"2026-09-16T02:16:11.810007999Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 91,
+  "translation": "Mɛka de Yawe, me hɔ asodie ne me kɛseɛ hyɛn — Eloohim, mɛde me ho ato ⟨ne⟩ so.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mɛka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de Yawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "me hɔ asodie"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ne me kɛseɛ hyɛn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mɛde me ho ato"
+    },
+    {
+      "surface": "בו",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:11.810007999Z",
+  "model": "glm-5.3"
+}

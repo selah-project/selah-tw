@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":26,"ref":"exodus 32:26","book":"exodus","lang":"tw","chapter":32,"translation":"Na Mosheh gyinaa wɔ nkɔsoɔ no abobom, na ɔkaa sɛ: Obi a ɔwɔ Yawe nkuraa, ɔmmra me nkyɛn. Na Levi mma nyinaa boabuu wɔn ho baa ne nkyɛn.","tokens":[{"surface":"ויעמד","gloss":"gyinaa"},{"surface":"משה","gloss":"Mosheh"},{"surface":"בשער","gloss":"wɔ abobom"},{"surface":"המחנה","gloss":"nkɔsoɔ no"},{"surface":"ויאמר","gloss":"ɔkaa sɛ"},{"surface":"מי","gloss":"obi a"},{"surface":"ליהוה","gloss":"Yawe nkuraa"},{"surface":"אלי","gloss":"me nkyɛn"},{"surface":"ויאספו","gloss":"boabuu wɔn ho"},{"surface":"אליו","gloss":"ne nkyɛn"},{"surface":"כל","gloss":"nyinaa"},{"surface":"בני","gloss":"mma"},{"surface":"לוי","gloss":"Levi"}],"timestamp":"2026-09-15T21:04:17.746468375Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na Mosheh gyinaa wɔ nkɔsoɔ no abobom, na ɔkaa sɛ: Obi a ɔwɔ Yawe nkuraa, ɔmmra me nkyɛn. Na Levi mma nyinaa boabuu wɔn ho baa ne nkyɛn.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "wɔ abobom"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nkɔsoɔ no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "obi a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe nkuraa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "boabuu wɔn ho"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:17.746468375Z",
+  "model": "glm-5.3"
+}

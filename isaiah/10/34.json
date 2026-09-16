@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":34,"ref":"isaiah 10:34","book":"isaiah","lang":"tw","chapter":10,"translation":"Na ɔbɛtetew kwaeɛ no mu nnua no dɛdwuma de; na Lebanoni bɛtɔ wɔ ɔkɛseɛ bi mu.","tokens":[{"surface":"ונקף","gloss":"ɔbɛtetew"},{"surface":"סבכי","gloss":"kwaeɛ no mu nnua"},{"surface":"היער","gloss":"kwaeɛ"},{"surface":"בברזל","gloss":"dɛdwuma de"},{"surface":"והלבנון","gloss":"na Lebanoni"},{"surface":"באדיר","gloss":"wɔ ɔkɛseɛ bi mu"},{"surface":"יפול","gloss":"bɛtɔ"}],"timestamp":"2026-09-15T23:42:07.589079995Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 10:34",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɔbɛtetew kwaeɛ no mu nnua no dɛdwuma de; na Lebanoni bɛtɔ wɔ ɔkɛseɛ bi mu.",
+  "tokens": [
+    {
+      "surface": "ונקף",
+      "gloss": "ɔbɛtetew"
+    },
+    {
+      "surface": "סבכי",
+      "gloss": "kwaeɛ no mu nnua"
+    },
+    {
+      "surface": "היער",
+      "gloss": "kwaeɛ"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "dɛdwuma de"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "na Lebanoni"
+    },
+    {
+      "surface": "באדיר",
+      "gloss": "wɔ ɔkɛseɛ bi mu"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bɛtɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:07.589079995Z",
+  "model": "glm-5.3"
+}

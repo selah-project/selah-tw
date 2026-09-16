@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "1-chronicles 17:10", "book": "1-chronicles", "lang": "tw", "chapter": 17, "translation": "ɛfiri nnɛ a mehyɛɛ atemmufoɔ sɛ wɔnni me nkorɔfoɔ Yisrael so; na matew wo atamfoɔ ⟨את⟩ nyinaa ase; na meka kyerɛ wo sɛ Yawe bɛsi fie ama wo.", "tokens": [{"surface": "ולמימים", "gloss": "ɛfiri nnɛ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צויתי", "gloss": "mehyɛɛ"}, {"surface": "שפטים", "gloss": "atemmufoɔ"}, {"surface": "על", "gloss": "so"}, {"surface": "עמי", "gloss": "me nkorɔfoɔ"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "והכנעתי", "gloss": "na matew ... ase"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo atamfoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אויביך", "gloss": "wo atamfoɔ"}, {"surface": "ואגד", "gloss": "na meka"}, {"surface": "לך", "gloss": "kyerɛ wo"}, {"surface": "ובית", "gloss": "sɛ ... fie"}, {"surface": "יבנה", "gloss": "bɛsi"}, {"surface": "לך", "gloss": "ama wo"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T04:43:57.801030173Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "ɛfiri nnɛ a mehyɛɛ atemmufoɔ sɛ wɔnni me nkorɔfoɔ Yisrael so; na matew wo atamfoɔ ⟨את⟩ nyinaa ase; na meka kyerɛ wo sɛ Yawe bɛsi fie ama wo.",
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "ɛfiri nnɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mehyɛɛ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "atemmufoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "na matew ... ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo atamfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "wo atamfoɔ"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "na meka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kyerɛ wo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "sɛ ... fie"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bɛsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T04:43:57.801030173Z",
+  "model": "glm-5.3"
+}

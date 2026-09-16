@@ -1,1 +1,118 @@
-{"tier": "glm-5.2", "verse": 44, "ref": "jeremiah 32:44", "book": "jeremiah", "lang": "tw", "chapter": 32, "translation": "Afuo a wɔde sika bɛtɔ, na wɔbɛtwerɛ nwoma mu, na wɔabobɔ mmara, na wɔfrɛ adansefoɔ — wɔ Binjamin asase mu, wɔ Yerusalem nkyɛnmu ne nkurom a ɛwɔ Yuda, nkurom a ɛwɔ bepɔ so, nkurom a ɛwɔ atare so, ne nkurom a ɛwɔ anaafoɔ; ɛfiri sɛ mɛsan de ⟨את⟩ wɔn a wɔakyere wɔn no mu bɛba wɔn akyi, Yawe asɛm.", "tokens": [{"surface": "שדות", "gloss": "Afuo"}, {"surface": "בכסף", "gloss": "a wɔde sika bɛtɔ"}, {"surface": "יקנו", "gloss": "bɛtɔ"}, {"surface": "וכתוב", "gloss": "na wɔbɛtwerɛ"}, {"surface": "בספר", "gloss": "nwoma mu"}, {"surface": "וחתום", "gloss": "na wɔabobɔ mmara"}, {"surface": "והעד", "gloss": "na wɔfrɛ"}, {"surface": "עדים", "gloss": "adansefoɔ"}, {"surface": "בארץ", "gloss": "wɔ … asase mu"}, {"surface": "בנימן", "gloss": "Binjamin"}, {"surface": "ובסביבי", "gloss": "wɔ … nkyɛnmu"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "ובערי", "gloss": "ne nkurom a ɛwɔ"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "ובערי", "gloss": "nkurom a ɛwɔ"}, {"surface": "ההר", "gloss": "bepɔ so"}, {"surface": "ובערי", "gloss": "nkurom a ɛwɔ"}, {"surface": "השפלה", "gloss": "atare so"}, {"surface": "ובערי", "gloss": "ne nkurom a ɛwɔ"}, {"surface": "הנגב", "gloss": "anaafoɔ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "אשיב", "gloss": "mɛsan de … bɛba"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nsɛe/nnaesie"}, {"surface": "שבותם", "gloss": "wɔn a wɔakyere wɔn no mu"}, {"surface": "נאם", "gloss": "asɛm"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T00:21:46.851858347Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "jeremiah 32:44",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Afuo a wɔde sika bɛtɔ, na wɔbɛtwerɛ nwoma mu, na wɔabobɔ mmara, na wɔfrɛ adansefoɔ — wɔ Binjamin asase mu, wɔ Yerusalem nkyɛnmu ne nkurom a ɛwɔ Yuda, nkurom a ɛwɔ bepɔ so, nkurom a ɛwɔ atare so, ne nkurom a ɛwɔ anaafoɔ; ɛfiri sɛ mɛsan de ⟨את⟩ wɔn a wɔakyere wɔn no mu bɛba wɔn akyi, Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "שדות",
+      "gloss": "Afuo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "a wɔde sika bɛtɔ"
+    },
+    {
+      "surface": "יקנו",
+      "gloss": "bɛtɔ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "na wɔbɛtwerɛ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nwoma mu"
+    },
+    {
+      "surface": "וחתום",
+      "gloss": "na wɔabobɔ mmara"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "na wɔfrɛ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "adansefoɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ … asase mu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ובסביבי",
+      "gloss": "wɔ … nkyɛnmu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ובערי",
+      "gloss": "ne nkurom a ɛwɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ובערי",
+      "gloss": "nkurom a ɛwɔ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ so"
+    },
+    {
+      "surface": "ובערי",
+      "gloss": "nkurom a ɛwɔ"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "atare so"
+    },
+    {
+      "surface": "ובערי",
+      "gloss": "ne nkurom a ɛwɔ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "anaafoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mɛsan de … bɛba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsɛe/nnaesie"
+    },
+    {
+      "surface": "שבותם",
+      "gloss": "wɔn a wɔakyere wɔn no mu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:21:46.851858347Z",
+  "model": "glm-5.3"
+}

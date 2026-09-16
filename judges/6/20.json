@@ -1,1 +1,88 @@
-{"tier":"glm-5.2","verse":20,"ref":"judges 6:20","book":"judges","lang":"tw","chapter":6,"translation":"Eloohim somafoɔ kaa kyerɛɛ no sɛ: Fa ⟨את⟩ nam no ne ⟨את⟩ anoadɔkɔdɔkɔ no, si ɔboɔ yi so, na ⟨את⟩ nkwan no gu. Na ɔyɛɛ saa.","tokens":[{"surface":"ויאמר","gloss":"Ɔkaa kyerɛɛ"},{"surface":"אליו","gloss":"no"},{"surface":"מלאך","gloss":"somafoɔ"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"קח","gloss":"Fa"},{"surface":"את","gloss":"⟨את⟩","marks":"nam no"},{"surface":"הבשר","gloss":"nam no"},{"surface":"ואת","gloss":"⟨את⟩","marks":"anoadɔkɔdɔkɔ no"},{"surface":"המצות","gloss":"anoadɔkɔdɔkɔ no"},{"surface":"והנח","gloss":"si"},{"surface":"אל","gloss":"so"},{"surface":"הסלע","gloss":"ɔboɔ"},{"surface":"הלז","gloss":"yi"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nkwan no"},{"surface":"המרק","gloss":"nkwan no"},{"surface":"שפוך","gloss":"gu"},{"surface":"ויעש","gloss":"Ɔyɛɛ"},{"surface":"כן","gloss":"saa"}],"timestamp":"2026-09-15T22:38:44.876216484Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Eloohim somafoɔ kaa kyerɛɛ no sɛ: Fa ⟨את⟩ nam no ne ⟨את⟩ anoadɔkɔdɔkɔ no, si ɔboɔ yi so, na ⟨את⟩ nkwan no gu. Na ɔyɛɛ saa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "somafoɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nam no"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nam no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anoadɔkɔdɔkɔ no"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "anoadɔkɔdɔkɔ no"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ɔboɔ"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkwan no"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "nkwan no"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "gu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Ɔyɛɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:38:44.876216484Z",
+  "model": "glm-5.3"
+}

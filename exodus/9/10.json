@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "exodus 9:10", "book": "exodus", "lang": "tw", "chapter": 9, "translation": "Na wɔbɔɔ ⟨את⟩ ngodua a ɛwɔ ogya adwuma afuo ⟨את⟩ no mu no, na wɔgyinaa Pare anim; na Mosye bɔɔ no hyɛɛ ɔsoro; na nsensan a ɛte se mfuturo sii onipa so ne mmoa so.", "tokens": [{"surface": "ויקחו", "gloss": "na wɔbɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ngodua a ɛwɔ ogya adwuma afuo no mu"}, {"surface": "פיח", "gloss": "ngodua"}, {"surface": "הכבשן", "gloss": "a ɛwɔ ogya adwuma afuo no mu"}, {"surface": "ויעמדו", "gloss": "na wɔgyinaa"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "פרעה", "gloss": "Pare"}, {"surface": "ויזרק", "gloss": "na ... bɔɔ hyɛe"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "משה", "gloss": "Mosye"}, {"surface": "השמימה", "gloss": "ɔsoro"}, {"surface": "ויהי", "gloss": "na ... sii"}, {"surface": "שחין", "gloss": "nsensan"}, {"surface": "אבעבעת", "gloss": "a ɛte se mfuturo"}, {"surface": "פרח", "gloss": "a ɛsiane"}, {"surface": "באדם", "gloss": "onipa so"}, {"surface": "ובבהמה", "gloss": "ne mmoa so"}], "timestamp": "2026-09-15T20:46:57.611651124Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wɔbɔɔ ⟨את⟩ ngodua a ɛwɔ ogya adwuma afuo ⟨את⟩ no mu no, na wɔgyinaa Pare anim; na Mosye bɔɔ no hyɛɛ ɔsoro; na nsensan a ɛte se mfuturo sii onipa so ne mmoa so.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "na wɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngodua a ɛwɔ ogya adwuma afuo no mu"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "ngodua"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "a ɛwɔ ogya adwuma afuo no mu"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "na wɔgyinaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pare"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "na ... bɔɔ hyɛe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosye"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ... sii"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "nsensan"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "a ɛte se mfuturo"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "a ɛsiane"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "onipa so"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ne mmoa so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:57.611651124Z",
+  "model": "glm-5.3"
+}

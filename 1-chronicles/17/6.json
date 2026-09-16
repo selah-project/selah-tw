@@ -1,1 +1,107 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-chronicles 17:6","book":"1-chronicles","lang":"tw","chapter":17,"translation":"Wɔ baabiara a metentene wɔ Yisrael nyinaa mu no, makaa asɛm kyerɛɛ wɔ Yisrael atemmuofoɔ baako ⟨את⟩, a mehyɛɛ no sɛ ɔnhwɛ ⟨את⟩ me nkorɔfoɔ so, sɛ: Adɛn moannwɔ fie a wɔde cedar nnua ayɛ mamerica ma me?","tokens":[{"surface":"בכל","gloss":"wɔ baabiara"},{"surface":"אשר","gloss":"a"},{"surface":"התהלכתי","gloss":"metentene"},{"surface":"בכל","gloss":"wɔ nyinaa mu"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"הדבר","gloss":"asɛm"},{"surface":"דברתי","gloss":"makaa kyerɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yisrael atemmuofoɔ baako"},{"surface":"אחד","gloss":"baako"},{"surface":"שפטי","gloss":"atemmuofoɔ"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"אשר","gloss":"a"},{"surface":"צויתי","gloss":"mehyɛɛ no"},{"surface":"לרעות","gloss":"sɛ ɔnhwɛ ... so"},{"surface":"את","gloss":"⟨את⟩","marks":"me nkorɔfoɔ"},{"surface":"עמי","gloss":"me nkorɔfoɔ"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"למה","gloss":"adɛn"},{"surface":"לא","gloss":"moannwɔ"},{"surface":"בניתם","gloss":"moannwɔ fie"},{"surface":"לי","gloss":"ma me"},{"surface":"בית","gloss":"fie"},{"surface":"ארזים","gloss":"a wɔde cedar nnua ayɛ"}],"timestamp":"2026-09-16T04:45:31.505157478Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 17:6",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Wɔ baabiara a metentene wɔ Yisrael nyinaa mu no, makaa asɛm kyerɛɛ wɔ Yisrael atemmuofoɔ baako ⟨את⟩, a mehyɛɛ no sɛ ɔnhwɛ ⟨את⟩ me nkorɔfoɔ so, sɛ: Adɛn moannwɔ fie a wɔde cedar nnua ayɛ mamerica ma me?",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wɔ baabiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "metentene"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ nyinaa mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "makaa kyerɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael atemmuofoɔ baako"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "atemmuofoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mehyɛɛ no"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "sɛ ɔnhwɛ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moannwɔ"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "moannwɔ fie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "a wɔde cedar nnua ayɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:45:31.505157478Z",
+  "model": "glm-5.3"
+}

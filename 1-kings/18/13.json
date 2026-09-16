@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "1-kings 18:13", "book": "1-kings", "lang": "tw", "chapter": 18, "translation": "Sɛ wɔanka akyerɛ me wura ⟨את⟩ deɛ mayɛɛ — sɛ Izebel kum ⟨את⟩ Yawe anansɛfoɔ no, na me suma Yawe anansɛfoɔ no mu ɔha nnipa, aduonum, aduonum nnipa, wɔ abɔ mu, na mehwɛɛ wɔn so aduane ne nsuo?", "tokens": [{"surface": "הלא", "gloss": "sɛ ... nka"}, {"surface": "הגד", "gloss": "wɔanka akyerɛ"}, {"surface": "לאדני", "gloss": "me wura"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ mayɛɛ"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "עשיתי", "gloss": "mayɛɛ"}, {"surface": "בהרג", "gloss": "wɔ kum mu"}, {"surface": "איזבל", "gloss": "Izebel"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe anansɛfoɔ no"}, {"surface": "נביאי", "gloss": "anansɛfoɔ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ואחבא", "gloss": "na me suma"}, {"surface": "מנביאי", "gloss": "anansɛfoɔ ... mu"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "מאה", "gloss": "ɔha"}, {"surface": "איש", "gloss": "nnipa"}, {"surface": "חמשים", "gloss": "aduonum"}, {"surface": "חמשים", "gloss": "aduonum"}, {"surface": "איש", "gloss": "nnipa"}, {"surface": "במערה", "gloss": "wɔ abɔ mu"}, {"surface": "ואכלכלם", "gloss": "na mehwɛɛ wɔn so"}, {"surface": "לחם", "gloss": "aduane"}, {"surface": "ומים", "gloss": "ne nsuo"}], "timestamp": "2026-09-15T23:22:14.470045159Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 18:13",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Sɛ wɔanka akyerɛ me wura ⟨את⟩ deɛ mayɛɛ — sɛ Izebel kum ⟨את⟩ Yawe anansɛfoɔ no, na me suma Yawe anansɛfoɔ no mu ɔha nnipa, aduonum, aduonum nnipa, wɔ abɔ mu, na mehwɛɛ wɔn so aduane ne nsuo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sɛ ... nka"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "wɔanka akyerɛ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ mayɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mayɛɛ"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "wɔ kum mu"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe anansɛfoɔ no"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "anansɛfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "na me suma"
+    },
+    {
+      "surface": "מנביאי",
+      "gloss": "anansɛfoɔ ... mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "wɔ abɔ mu"
+    },
+    {
+      "surface": "ואכלכלם",
+      "gloss": "na mehwɛɛ wɔn so"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ne nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:14.470045159Z",
+  "model": "glm-5.3"
+}

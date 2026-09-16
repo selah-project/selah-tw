@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "jeremiah 13:21", "book": "jeremiah", "lang": "tw", "chapter": 13, "translation": "Wobɛka deɛn wɔ berɛ a ⟨ɔno⟩ bɛba ahu wo? ɛfiri sɛ wokyerɛɛ wɔn ⟨אתם⟩ sɛ wɔnnyɛ wɔn ho nnamfoɔ atifi ⟨את⟩ wɔ wo so. So ɛyɛ basabasayɛ a ɛnnya wo, sɛ ɔbaa a ɔrewo ba?", "tokens": [{"surface": "מה", "gloss": "deɛn"}, {"surface": "תאמרי", "gloss": "wobɛka"}, {"surface": "כי", "gloss": "wɔ berɛ a"}, {"surface": "יפקד", "gloss": "bɛba ahu"}, {"surface": "עליך", "gloss": "wo"}, {"surface": "ואת", "gloss": "wo kyerɛɛ"}, {"surface": "למדת", "gloss": "(kyerɛɛ)"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "עליך", "gloss": "wɔ wo so"}, {"surface": "אלפים", "gloss": "nnamfoɔ atifi"}, {"surface": "לראש", "gloss": "sɛ ti"}, {"surface": "הלוא", "gloss": "So"}, {"surface": "חבלים", "gloss": "basabasayɛ"}, {"surface": "יאחזוך", "gloss": "ɛnnya wo"}, {"surface": "כמו", "gloss": "sɛ"}, {"surface": "אשת", "gloss": "ɔbaa"}, {"surface": "לדה", "gloss": "a ɔrewo ba"}], "timestamp": "2026-09-16T00:10:33.658476503Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 13:21",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Wobɛka deɛn wɔ berɛ a ⟨ɔno⟩ bɛba ahu wo? ɛfiri sɛ wokyerɛɛ wɔn ⟨אתם⟩ sɛ wɔnnyɛ wɔn ho nnamfoɔ atifi ⟨את⟩ wɔ wo so. So ɛyɛ basabasayɛ a ɛnnya wo, sɛ ɔbaa a ɔrewo ba?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "deɛn"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "wobɛka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wɔ berɛ a"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "bɛba ahu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wo kyerɛɛ"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "(kyerɛɛ)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wɔ wo so"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nnamfoɔ atifi"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "sɛ ti"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "So"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "basabasayɛ"
+    },
+    {
+      "surface": "יאחזוך",
+      "gloss": "ɛnnya wo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "לדה",
+      "gloss": "a ɔrewo ba"
+    }
+  ],
+  "timestamp": "2026-09-16T00:10:33.658476503Z",
+  "model": "glm-5.3"
+}

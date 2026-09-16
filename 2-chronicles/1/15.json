@@ -1,1 +1,76 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-chronicles 1:15","book":"2-chronicles","lang":"tw","chapter":1,"translation":"Na ɔhene no maa ⟨את⟩ dwetɛ ne ⟨את⟩ sika kɔkɔɔ wɔ Yerusalem yɛɛ sɛ aboɔ, na ⟨את⟩ sedua no nso maa ɛyɛɛ sɛ ɔsotwe a ɛwɔ asasetɛn mu no, dodoɔ ara.","tokens":[{"surface":"ויתן","gloss":"maa"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"את","gloss":"⟨את⟩","marks":"dwetɛ"},{"surface":"הכסף","gloss":"dwetɛ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"sika kɔkɔɔ"},{"surface":"הזהב","gloss":"sika kɔkɔɔ"},{"surface":"בירושלם","gloss":"wɔ Yerusalem"},{"surface":"כאבנים","gloss":"yɛɛ sɛ aboɔ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"sedua"},{"surface":"הארזים","gloss":"sedua"},{"surface":"נתן","gloss":"maa ... yɛɛ"},{"surface":"כשקמים","gloss":"sɛ ɔsotwe"},{"surface":"אשר","gloss":"a"},{"surface":"בשפלה","gloss":"wɔ asasetɛn mu"},{"surface":"לרב","gloss":"dodoɔ ara"}],"timestamp":"2026-09-16T04:53:54.962406249Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔhene no maa ⟨את⟩ dwetɛ ne ⟨את⟩ sika kɔkɔɔ wɔ Yerusalem yɛɛ sɛ aboɔ, na ⟨את⟩ sedua no nso maa ɛyɛɛ sɛ ɔsotwe a ɛwɔ asasetɛn mu no, dodoɔ ara.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dwetɛ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "yɛɛ sɛ aboɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sedua"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "sedua"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maa ... yɛɛ"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "sɛ ɔsotwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "wɔ asasetɛn mu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "dodoɔ ara"
+    }
+  ],
+  "timestamp": "2026-09-16T04:53:54.962406249Z",
+  "model": "glm-5.3"
+}

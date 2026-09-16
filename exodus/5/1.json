@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "exodus 5:1", "book": "exodus", "lang": "tw", "chapter": 5, "translation": "Akyire yi Moshe ne Aaron baa hɔ, wɔka kyerɛɛ Paroh sɛ: “Sɛnea Yawe, Israel Eloohim, ka ne sɛ, Hyɛ ⟨את⟩ me nkurɔfoɔ ma wɔnkɔ, na wɔmmɛyɛ afahyɛ bra me wɔ asasetena mu.”", "tokens": [{"surface": "ואחר", "gloss": "akyire yi"}, {"surface": "באו", "gloss": "baa hɔ"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ואהרן", "gloss": "ne Aaron"}, {"surface": "ויאמרו", "gloss": "wɔka kyerɛɛ"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "פרעה", "gloss": "Paroh"}, {"surface": "כה", "gloss": "sɛnea"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "שלח", "gloss": "Hyɛ ma wɔnkɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nkurɔfoɔ"}, {"surface": "עמי", "gloss": "me nkurɔfoɔ"}, {"surface": "ויחגו", "gloss": "na wɔmmɛyɛ afahyɛ"}, {"surface": "לי", "gloss": "bra me"}, {"surface": "במדבר", "gloss": "wɔ asasetena mu"}], "timestamp": "2026-09-15T20:46:32.104694951Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Akyire yi Moshe ne Aaron baa hɔ, wɔka kyerɛɛ Paroh sɛ: “Sɛnea Yawe, Israel Eloohim, ka ne sɛ, Hyɛ ⟨את⟩ me nkurɔfoɔ ma wɔnkɔ, na wɔmmɛyɛ afahyɛ bra me wɔ asasetena mu.”",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "akyire yi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baa hɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aaron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔka kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Hyɛ ma wɔnkɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "na wɔmmɛyɛ afahyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bra me"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asasetena mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:32.104694951Z",
+  "model": "glm-5.3"
+}

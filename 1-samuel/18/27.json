@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "1-samuel 18:27", "book": "1-samuel", "lang": "tw", "chapter": 18, "translation": "David sɔree ne n’adɔfoɔ nnipa kɔɔ asɔre wɔ Pilisitifoɔ so kunkum nnipa ɔha mmienu; David de ⟨את⟩ wɔn twe no baa ɔhene no anim wiee kyerɛɛ no, na ɔbɛyɛɛ ɔhene no abarimaa (ɔware ne ba); na Saul de ne ba ⟨את⟩ Mikal maa no yɛɛ ne yere.", "tokens": [{"surface": "ויקם", "gloss": "sɔree"}, {"surface": "דוד", "gloss": "David"}, {"surface": "וילך", "gloss": "kɔɔ"}, {"surface": "הוא", "gloss": "ɔno ankasa"}, {"surface": "ואנשיו", "gloss": "ne n’adɔfoɔ nnipa"}, {"surface": "ויך", "gloss": "kunkum"}, {"surface": "בפלשתים", "gloss": "wɔ Pilisitifoɔ so"}, {"surface": "מאתים", "gloss": "ɔha mmienu"}, {"surface": "איש", "gloss": "nnipa"}, {"surface": "ויבא", "gloss": "de baa"}, {"surface": "דוד", "gloss": "David"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn twe"}, {"surface": "ערלתיהם", "gloss": "wɔn twe"}, {"surface": "וימלאום", "gloss": "wiee kyerɛɛ"}, {"surface": "למלך", "gloss": "ɔhene no"}, {"surface": "להתחתן", "gloss": "na ɔbɛyɛ abarimaa (ɔware)"}, {"surface": "במלך", "gloss": "ɔhene no"}, {"surface": "ויתן", "gloss": "de maa"}, {"surface": "לו", "gloss": "no"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Mikal"}, {"surface": "מיכל", "gloss": "Mikal"}, {"surface": "בתו", "gloss": "ne ba"}, {"surface": "לאשה", "gloss": "yɛɛ yere"}], "timestamp": "2026-09-15T22:54:15.467312256Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 18:27",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "David sɔree ne n’adɔfoɔ nnipa kɔɔ asɔre wɔ Pilisitifoɔ so kunkum nnipa ɔha mmienu; David de ⟨את⟩ wɔn twe no baa ɔhene no anim wiee kyerɛɛ no, na ɔbɛyɛɛ ɔhene no abarimaa (ɔware ne ba); na Saul de ne ba ⟨את⟩ Mikal maa no yɛɛ ne yere.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ankasa"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ne n’adɔfoɔ nnipa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kunkum"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "wɔ Pilisitifoɔ so"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ɔha mmienu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "de baa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn twe"
+    },
+    {
+      "surface": "ערלתיהם",
+      "gloss": "wɔn twe"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "wiee kyerɛɛ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "להתחתן",
+      "gloss": "na ɔbɛyɛ abarimaa (ɔware)"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "de maa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "yɛɛ yere"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:15.467312256Z",
+  "model": "glm-5.3"
+}

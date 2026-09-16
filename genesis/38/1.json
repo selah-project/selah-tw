@@ -1,1 +1,65 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "genesis 38:1", "book": "genesis", "lang": "tw", "chapter": 38, "translation": "Saa bere no mu na Yehuda sisii hɔ ⟨את⟩ firii ne nuanom hɔ, na ɔkɔɔ tenaa ɔbarima Adullamni bi hɔ, ne din de Hira.", "tokens": [{"surface": "ויהי", "gloss": "na ɛbaa"}, {"surface": "בעת", "gloss": "saa bere no mu"}, {"surface": "ההוא", "gloss": "no"}, {"surface": "וירד", "gloss": "sisii hɔ"}, {"surface": "יהודה", "gloss": "Yehuda"}, {"surface": "מאת", "gloss": "firii ⟨את⟩"}, {"surface": "אחיו", "gloss": "ne nuanom"}, {"surface": "ויט", "gloss": "na ɔkɔɔ tenaa"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "עדלמי", "gloss": "Adullamni"}, {"surface": "ושמו", "gloss": "ne din"}, {"surface": "חירה", "gloss": "Hira"}], "timestamp": "2026-09-15T20:35:50.492013331Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Saa bere no mu na Yehuda sisii hɔ ⟨את⟩ firii ne nuanom hɔ, na ɔkɔɔ tenaa ɔbarima Adullamni bi hɔ, ne din de Hira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "saa bere no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "sisii hɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firii ⟨את⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanom"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "na ɔkɔɔ tenaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adullamni"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hira"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:50.492013331Z",
+  "model": "glm-5.3"
+}

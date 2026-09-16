@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "jeremiah 6:11", "book": "jeremiah", "lang": "tw", "chapter": 6, "translation": "Na me apɛ Yawe ⟨את⟩ abufuo ma; mabrɛ me ho. Tɔ gu mmɔfra no so wɔ amena mu anaa amena ho, na ababere nkabom kuw no so; ɛfiri sɛ ɔbarima ne ɔbaa bɛsɔ, mpanyimfoɔ ne wɔn a wɔanyini nyinaa.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "Yawe abufuo"}, {"surface": "חמת", "gloss": "abufuo"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "מלאתי", "gloss": "me apɛ ... ma"}, {"surface": "נלאיתי", "gloss": "mabrɛ me ho"}, {"surface": "הכיל", "gloss": "m'adwene"}, {"surface": "שפך", "gloss": "Tɔ gu"}, {"surface": "על", "gloss": "... so"}, {"surface": "עולל", "gloss": "mmɔfra"}, {"surface": "בחוץ", "gloss": "wɔ amena mu anaa amena ho"}, {"surface": "ועל", "gloss": "na ... so"}, {"surface": "סוד", "gloss": "nkommo kuw"}, {"surface": "בחורים", "gloss": "ababere"}, {"surface": "יחדו", "gloss": "nkabom"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "גם", "gloss": "nyinaa"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "עם", "gloss": "ne"}, {"surface": "אשה", "gloss": "ɔbaa"}, {"surface": "ילכדו", "gloss": "bɛsɔ"}, {"surface": "זקן", "gloss": "mpanyimfoɔ"}, {"surface": "עם", "gloss": "ne"}, {"surface": "מלא", "gloss": "wɔn a wɔanyini"}, {"surface": "ימים", "gloss": ""}], "timestamp": "2026-09-16T00:08:01.537145853Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 6:11",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na me apɛ Yawe ⟨את⟩ abufuo ma; mabrɛ me ho. Tɔ gu mmɔfra no so wɔ amena mu anaa amena ho, na ababere nkabom kuw no so; ɛfiri sɛ ɔbarima ne ɔbaa bɛsɔ, mpanyimfoɔ ne wɔn a wɔanyini nyinaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe abufuo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "me apɛ ... ma"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "mabrɛ me ho"
+    },
+    {
+      "surface": "הכיל",
+      "gloss": "m'adwene"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "Tɔ gu"
+    },
+    {
+      "surface": "על",
+      "gloss": "... so"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "mmɔfra"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "wɔ amena mu anaa amena ho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ... so"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "nkommo kuw"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ababere"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nkabom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "bɛsɔ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wɔn a wɔanyini"
+    },
+    {
+      "surface": "ימים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-16T00:08:01.537145853Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,132 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-samuel 6:12","book":"2-samuel","lang":"tw","chapter":6,"translation":"Na wɔka kyerɛɛ ɔhene Dawid sɛ: “Yawe ahyira ⟨את⟩ Obed-Edom fie ne ⟨את⟩ ne deɛ ɔwɔ nyinaa, ɛfiri sɛ Eloohim ⟨את⟩ adaka no.” Enti Dawid kɔɔ, na ɔde Eloohim adaka no firii Obed-Edom fie baa Dawid kurow mu wɔ anigyeɛ mu.","tokens":[{"surface":"ויגד","gloss":"wɔka kyerɛɛ"},{"surface":"למלך","gloss":"ɔhene"},{"surface":"דוד","gloss":"Dawid"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"ברך","gloss":"ahyira"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"Obed-Edom fie"},{"surface":"בית","gloss":"fie"},{"surface":"עבד","gloss":"Obed-"},{"surface":"אדם","gloss":"Edom"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ne deɛ ɔwɔ nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"אשר","gloss":"deɛ"},{"surface":"לו","gloss":"ɔwɔ"},{"surface":"בעבור","gloss":"ɛfiri sɛ"},{"surface":"ארון","gloss":"adaka"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"וילך","gloss":"kɔɔ"},{"surface":"דוד","gloss":"Dawid"},{"surface":"ויעל","gloss":"de ... baa"},{"surface":"את","gloss":"⟨את⟩","marks":"adaka"},{"surface":"ארון","gloss":"adaka"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"מבית","gloss":"firii ... fie"},{"surface":"עבד","gloss":"Obed-"},{"surface":"אדם","gloss":"Edom"},{"surface":"עיר","gloss":"kurow mu"},{"surface":"דוד","gloss":"Dawid"},{"surface":"בשמחה","gloss":"wɔ anigyeɛ mu"}],"timestamp":"2026-09-15T23:01:59.673493243Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 6:12",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔka kyerɛɛ ɔhene Dawid sɛ: “Yawe ahyira ⟨את⟩ Obed-Edom fie ne ⟨את⟩ ne deɛ ɔwɔ nyinaa, ɛfiri sɛ Eloohim ⟨את⟩ adaka no.” Enti Dawid kɔɔ, na ɔde Eloohim adaka no firii Obed-Edom fie baa Dawid kurow mu wɔ anigyeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wɔka kyerɛɛ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ahyira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed-Edom fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne deɛ ɔwɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "de ... baa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adaka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firii ... fie"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "wɔ anigyeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:59.673493243Z",
+  "model": "glm-5.3"
+}

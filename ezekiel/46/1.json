@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":1,"ref":"ezekiel 46:1","book":"ezekiel","lang":"tw","chapter":46,"translation":"Sɛnea Adonai Yawe ka no: ɛpono no a ɛwɔ afɔremu hɔ ɛserɛ mu no, de ɛhwɛ apuei fam no, ɛbɛyɛ ne wɔabue no, nnawɔtwe—da nsia a wɔyɛ adwuma no mu; na Daasu da no ɛbɛbue, na bosome foforɔ da no ɛbɛbue.","tokens":[{"surface":"כה","gloss":"sɛnea"},{"surface":"אמר","gloss":"ka"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"שער","gloss":"ɛpono"},{"surface":"החצר","gloss":"ɛserɛ mu"},{"surface":"הפנימית","gloss":"a ɛwɔ mu"},{"surface":"הפנה","gloss":"de ɛhwɛ"},{"surface":"קדים","gloss":"apuei fam"},{"surface":"יהיה","gloss":"ɛbɛyɛ"},{"surface":"סגור","gloss":"wɔabue"},{"surface":"ששת","gloss":"nsia"},{"surface":"ימי","gloss":"da"},{"surface":"המעשה","gloss":"a wɔyɛ adwuma"},{"surface":"וביום","gloss":"na ... da"},{"surface":"השבת","gloss":"Daasu"},{"surface":"יפתח","gloss":"ɛbɛbue"},{"surface":"וביום","gloss":"na ... da"},{"surface":"החדש","gloss":"bosome foforɔ"},{"surface":"יפתח","gloss":"ɛbɛbue"}],"timestamp":"2026-09-16T01:03:36.419492010Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 46:1",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Sɛnea Adonai Yawe ka no: ɛpono no a ɛwɔ afɔremu hɔ ɛserɛ mu no, de ɛhwɛ apuei fam no, ɛbɛyɛ ne wɔabue no, nnawɔtwe—da nsia a wɔyɛ adwuma no mu; na Daasu da no ɛbɛbue, na bosome foforɔ da no ɛbɛbue.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ɛserɛ mu"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "a ɛwɔ mu"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "de ɛhwɛ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "apuei fam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "wɔabue"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "da"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "a wɔyɛ adwuma"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na ... da"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Daasu"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ɛbɛbue"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na ... da"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bosome foforɔ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ɛbɛbue"
+    }
+  ],
+  "timestamp": "2026-09-16T01:03:36.419492010Z",
+  "model": "glm-5.3"
+}

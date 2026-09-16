@@ -1,1 +1,55 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-kings 6:9","book":"1-kings","lang":"tw","chapter":6,"translation":"Na ɔbɔɔ ⟨את⟩ fi no, na ɔwiee no; na ɔkaa ⟨את⟩ fi no ho nnwini ne nkyekyɛmu wɔ cedar nnua mu.","tokens":[{"surface":"ויבן","gloss":"Na ɔbɔɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"fi no"},{"surface":"הבית","gloss":"fi no"},{"surface":"ויכלהו","gloss":"na ɔwiee no"},{"surface":"ויספן","gloss":"na ɔkaa ho"},{"surface":"את","gloss":"⟨את⟩","marks":"fi no"},{"surface":"הבית","gloss":"fi no"},{"surface":"גבים","gloss":"nnwini"},{"surface":"ושדרת","gloss":"ne nkyekyɛmu"},{"surface":"בארזים","gloss":"wɔ cedar nnua mu"}],"timestamp":"2026-09-15T23:13:52.425377729Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na ɔbɔɔ ⟨את⟩ fi no, na ɔwiee no; na ɔkaa ⟨את⟩ fi no ho nnwini ne nkyekyɛmu wɔ cedar nnua mu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Na ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fi no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fi no"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "na ɔwiee no"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "na ɔkaa ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fi no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fi no"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "nnwini"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "ne nkyekyɛmu"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "wɔ cedar nnua mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:52.425377729Z",
+  "model": "glm-5.3"
+}

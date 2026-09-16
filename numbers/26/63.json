@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 63, "ref": "numbers 26:63", "book": "numbers", "lang": "tw", "chapter": 26, "translation": "Eyinom ne Moshe ne ɔsɔfo Elazar a wɔkan Yisrael ⟨את⟩ mma no wɔ Moab asasetaw so, Yaredan ho wɔ Yerifo.", "tokens": [{"surface": "אלה", "gloss": "Eyinom"}, {"surface": "פקודי", "gloss": "kan"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ואלעזר", "gloss": "ne Elazar"}, {"surface": "הכהן", "gloss": "ɔsɔfo"}, {"surface": "אשר", "gloss": "a"}, {"surface": "פקדו", "gloss": "wɔkan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael mma"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "בערבת", "gloss": "wɔ ... asasetaw so"}, {"surface": "מואב", "gloss": "Moab"}, {"surface": "על", "gloss": "ho"}, {"surface": "ירדן", "gloss": "Yaredan"}, {"surface": "ירחו", "gloss": "Yerifo"}], "timestamp": "2026-09-15T21:39:24.364983653Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 26:63",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Eyinom ne Moshe ne ɔsɔfo Elazar a wɔkan Yisrael ⟨את⟩ mma no wɔ Moab asasetaw so, Yaredan ho wɔ Yerifo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Eyinom"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ne Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "wɔkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "wɔ ... asasetaw so"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yaredan"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerifo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:24.364983653Z",
+  "model": "glm-5.3"
+}

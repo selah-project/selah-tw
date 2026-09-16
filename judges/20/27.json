@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":27,"ref":"judges 20:27","book":"judges","lang":"tw","chapter":20,"translation":"Na Yisrael mma bisaa Yawe ho asɛm (na Eloohim apam adeɛ no wɔ hɔ wɔ nnɔnoɔ no mu),","tokens":[{"surface":"וישאלו","gloss":"bisaa"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ביהוה","gloss":"Yawe ho asɛm"},{"surface":"ושם","gloss":"na ... wɔ hɔ"},{"surface":"ארון","gloss":"apam adeɛ no"},{"surface":"ברית","gloss":"apam"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"בימים","gloss":"wɔ nnɔnoɔ"},{"surface":"ההם","gloss":"no mu"}],"timestamp":"2026-09-15T22:44:58.692722225Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 20:27",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Yisrael mma bisaa Yawe ho asɛm (na Eloohim apam adeɛ no wɔ hɔ wɔ nnɔnoɔ no mu),",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "bisaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe ho asɛm"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na ... wɔ hɔ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "apam adeɛ no"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "wɔ nnɔnoɔ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:44:58.692722225Z",
+  "model": "glm-5.3"
+}

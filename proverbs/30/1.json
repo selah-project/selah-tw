@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":1,"ref":"proverbs 30:1","book":"proverbs","lang":"tw","chapter":30,"translation":"Agur, Yake ba, nsɛm — ɛsɛm: ɔbarima no de kyerɛɛ Ithiel, kyerɛɛ Ithiel ne Ukal.","tokens":[{"surface":"דברי","gloss":"nsɛm"},{"surface":"אגור","gloss":"Agur"},{"surface":"בן","gloss":"ba"},{"surface":"יקה","gloss":"Yake"},{"surface":"המשא","gloss":"ɛsɛm"},{"surface":"נאם","gloss":"de kyerɛɛ (nkαmɔ)"},{"surface":"הגבר","gloss":"ɔbarima no"},{"surface":"לאיתיאל","gloss":"Ithiel"},{"surface":"לאיתיאל","gloss":"Ithiel"},{"surface":"ואכל","gloss":"ne Ukal"}],"timestamp":"2026-09-16T03:08:07.943513466Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Agur, Yake ba, nsɛm — ɛsɛm: ɔbarima no de kyerɛɛ Ithiel, kyerɛɛ Ithiel ne Ukal.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Agur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Yake"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ɛsɛm"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "de kyerɛɛ (nkαmɔ)"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Ithiel"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Ithiel"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ne Ukal"
+    }
+  ],
+  "timestamp": "2026-09-16T03:08:07.943513466Z",
+  "model": "glm-5.3"
+}

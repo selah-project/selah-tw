@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "numbers 14:1", "book": "numbers", "lang": "tw", "chapter": 14, "translation": "Anom nyinaa maa ⟨את⟩ wɔn nne soɔ, na wɔsɔɔ wɔn hwɛ; nnipa no suu anadwo no mu.", "tokens": [{"surface": "ותשא", "gloss": "maa wɔn nne soɔ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העדה", "gloss": "anom no"}, {"surface": "ויתנו", "gloss": "sɔɔ hwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nne (קולם)"}, {"surface": "קולם", "gloss": "wɔn nne"}, {"surface": "ויבכו", "gloss": "suu"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "בלילה", "gloss": "anadwo no mu"}, {"surface": "ההוא", "gloss": "saa (da no)"}], "timestamp": "2026-09-15T21:31:28.177384797Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Anom nyinaa maa ⟨את⟩ wɔn nne soɔ, na wɔsɔɔ wɔn hwɛ; nnipa no suu anadwo no mu.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "maa wɔn nne soɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "anom no"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "sɔɔ hwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nne (קולם)"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "wɔn nne"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "suu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa (da no)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:31:28.177384797Z",
+  "model": "glm-5.3"
+}

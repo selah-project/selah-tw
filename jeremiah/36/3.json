@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "jeremiah 36:3", "book": "jeremiah", "lang": "tw", "chapter": 36, "translation": "Ebia Yuda fie bɛtie asotwe ⟨את⟩ nyinaa a meresusuw sɛ merebɛyɛ ama wɔn, sɛdeɛ obiara bɛsan afiri n'akwan bɔne so, na mɛpam wɔn mfomsoɔ ne wɔn bɔne.", "tokens": [{"surface": "אולי", "gloss": "Ebia"}, {"surface": "ישמעו", "gloss": "bɛtie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asotwe nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הרעה", "gloss": "asotwe"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "חשב", "gloss": "resusuw"}, {"surface": "לעשות", "gloss": "sɛ merebɛyɛ"}, {"surface": "להם", "gloss": "ama wɔn"}, {"surface": "למען", "gloss": "sɛdeɛ"}, {"surface": "ישובו", "gloss": "bɛsan afiri"}, {"surface": "איש", "gloss": "obiara"}, {"surface": "מדרכו", "gloss": "n'akwan"}, {"surface": "הרעה", "gloss": "bɔne"}, {"surface": "וסלחתי", "gloss": "na mɛpam"}, {"surface": "לעונם", "gloss": "wɔn mfomsoɔ"}, {"surface": "ולחטאתם", "gloss": "ne wɔn bɔne"}], "timestamp": "2026-09-16T00:23:09.224193084Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 36:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Ebia Yuda fie bɛtie asotwe ⟨את⟩ nyinaa a meresusuw sɛ merebɛyɛ ama wɔn, sɛdeɛ obiara bɛsan afiri n'akwan bɔne so, na mɛpam wɔn mfomsoɔ ne wɔn bɔne.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Ebia"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bɛtie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asotwe nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "asotwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "resusuw"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ merebɛyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ama wɔn"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bɛsan afiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "n'akwan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "וסלחתי",
+      "gloss": "na mɛpam"
+    },
+    {
+      "surface": "לעונם",
+      "gloss": "wɔn mfomsoɔ"
+    },
+    {
+      "surface": "ולחטאתם",
+      "gloss": "ne wɔn bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T00:23:09.224193084Z",
+  "model": "glm-5.3"
+}

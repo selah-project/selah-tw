@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":5,"ref":"joshua 12:5","book":"joshua","lang":"tw","chapter":12,"translation":"na ɔdii so wɔ Bepɔ Chermon so, wɔ Salka, ne Bashan mu nyinaa, kɔsii Gesuri foɔ ne Maakati foɔ ahyeɛ, na ɔfa Gilad nkyɛmu, Sihon, Heshbon ɔhene no ahyeɛ.","tokens":[{"surface":"ומשל","gloss":"na ɔdi so"},{"surface":"בהר","gloss":"wɔ bepɔ so"},{"surface":"חרמון","gloss":"Chermon"},{"surface":"ובסלכה","gloss":"na wɔ Salka"},{"surface":"ובכל","gloss":"ne ... mu nyinaa"},{"surface":"הבשן","gloss":"Bashan"},{"surface":"עד","gloss":"kɔsii"},{"surface":"גבול","gloss":"ahyeɛ"},{"surface":"הגשורי","gloss":"Gesuri foɔ"},{"surface":"והמעכתי","gloss":"ne Maakati foɔ"},{"surface":"וחצי","gloss":"ne ɔfa"},{"surface":"הגלעד","gloss":"Gilad"},{"surface":"גבול","gloss":"ahyeɛ"},{"surface":"סיחון","gloss":"Sihon"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"חשבון","gloss":"Heshbon"}],"timestamp":"2026-09-15T22:05:48.052566949Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 12:5",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "na ɔdii so wɔ Bepɔ Chermon so, wɔ Salka, ne Bashan mu nyinaa, kɔsii Gesuri foɔ ne Maakati foɔ ahyeɛ, na ɔfa Gilad nkyɛmu, Sihon, Heshbon ɔhene no ahyeɛ.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "na ɔdi so"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "wɔ bepɔ so"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "ובסלכה",
+      "gloss": "na wɔ Salka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne ... mu nyinaa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ahyeɛ"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gesuri foɔ"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "ne Maakati foɔ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ne ɔfa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ahyeɛ"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:48.052566949Z",
+  "model": "glm-5.3"
+}

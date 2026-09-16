@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "joshua 20:2", "book": "joshua", "lang": "tw", "chapter": 20, "translation": "Kasa akɔ Israel mma no ho sɛ: Ma mo ankura mmɔdenfoɔ ⟨את⟩ akorɔn a mekaa ho asɛm kyerɛɛ mo de Mose nsa so.", "tokens": [{"surface": "דבר", "gloss": "Kasa"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "תנו", "gloss": "Ma"}, {"surface": "לכם", "gloss": "mo ankura"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mmɔdenfoɔ akorɔn"}, {"surface": "ערי", "gloss": "akorɔn"}, {"surface": "המקלט", "gloss": "mmɔdenfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "דברתי", "gloss": "mekaa ho asɛm"}, {"surface": "אליכם", "gloss": "kyerɛɛ mo"}, {"surface": "ביד", "gloss": "de ... nsa so"}, {"surface": "משה", "gloss": "Mose"}], "timestamp": "2026-09-15T22:08:31.995256837Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Kasa akɔ Israel mma no ho sɛ: Ma mo ankura mmɔdenfoɔ ⟨את⟩ akorɔn a mekaa ho asɛm kyerɛɛ mo de Mose nsa so.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo ankura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmɔdenfoɔ akorɔn"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "akorɔn"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "mmɔdenfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mekaa ho asɛm"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kyerɛɛ mo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "de ... nsa so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:31.995256837Z",
+  "model": "glm-5.3"
+}

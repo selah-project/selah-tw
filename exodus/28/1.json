@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "exodus 28:1", "book": "exodus", "lang": "tw", "chapter": 28, "translation": "Na wo, twa wo ho bɛn ⟨את⟩ wo nua ⟨את⟩ Aharon ne ⟨את⟩ ne mma a ɔne wɔn wom, fi Yisrael mma mu, sɛ ɔnyɛ ɔsɔfo ama Me — Aharon, Nadab ne Abihu, Elazar ne Itamar, Aharon mma.", "tokens": [{"surface": "ואתה", "gloss": "Na wo"}, {"surface": "הקרב", "gloss": "twa wo ho bɛn"}, {"surface": "אליך", "gloss": "wo ho"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nua Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "אחיך", "gloss": "wo nua"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne mma"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "אתו", "gloss": "⟨את⟩ ɔne wɔn"}, {"surface": "מתוך", "gloss": "fi mu"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "לכהנו", "gloss": "sɛ ɔnyɛ ɔsɔfo"}, {"surface": "לי", "gloss": "ama Me"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "נדב", "gloss": "Nadab"}, {"surface": "ואביהוא", "gloss": "ne Abihu"}, {"surface": "אלעזר", "gloss": "Elazar"}, {"surface": "ואיתמר", "gloss": "ne Itamar"}, {"surface": "בני", "gloss": "mma"}, {"surface": "אהרן", "gloss": "Aharon"}], "timestamp": "2026-09-15T20:59:00.259617294Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na wo, twa wo ho bɛn ⟨את⟩ wo nua ⟨את⟩ Aharon ne ⟨את⟩ ne mma a ɔne wɔn wom, fi Yisrael mma mu, sɛ ɔnyɛ ɔsɔfo ama Me — Aharon, Nadab ne Abihu, Elazar ne Itamar, Aharon mma.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "twa wo ho bɛn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nua Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɔne wɔn"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "fi mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "sɛ ɔnyɛ ɔsɔfo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama Me"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ne Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ne Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:00.259617294Z",
+  "model": "glm-5.3"
+}

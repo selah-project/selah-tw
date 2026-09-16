@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":18,"ref":"ruth 2:18","book":"ruth","lang":"tw","chapter":2,"translation":"Na ɔsoaa no baa kuro no mu, na ne maame huu ⟨את⟩ deɛ ɔboaboaeɛ, na ɔyii ⟨את⟩ deɛ ɔgyaa firi n'aduan mu maa no.","tokens":[{"surface":"ותשא","gloss":"na ɔsoaa no"},{"surface":"ותבוא","gloss":"baa"},{"surface":"העיר","gloss":"⟨the⟩ kuro no mu"},{"surface":"ותרא","gloss":"na … huu"},{"surface":"חמותה","gloss":"ne maame (nkuma)"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ ɔboaboaeɛ"},{"surface":"אשר","gloss":"deɛ"},{"surface":"לקטה","gloss":"ɔboaboaeɛ"},{"surface":"ותוצא","gloss":"na ɔyii"},{"surface":"ותתן","gloss":"maa"},{"surface":"לה","gloss":"no"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ ɔgyaa firi n'aduan mu"},{"surface":"אשר","gloss":"deɛ"},{"surface":"הותרה","gloss":"ɔgyaa"},{"surface":"משבעה","gloss":"firi n'aduan mu"}],"timestamp":"2026-09-16T03:47:22.684634005Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔsoaa no baa kuro no mu, na ne maame huu ⟨את⟩ deɛ ɔboaboaeɛ, na ɔyii ⟨את⟩ deɛ ɔgyaa firi n'aduan mu maa no.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "na ɔsoaa no"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ kuro no mu"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "na … huu"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ne maame (nkuma)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɔboaboaeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "ɔboaboaeɛ"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "na ɔyii"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɔgyaa firi n'aduan mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "ɔgyaa"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "firi n'aduan mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:47:22.684634005Z",
+  "model": "glm-5.3"
+}

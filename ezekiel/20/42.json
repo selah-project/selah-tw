@@ -1,1 +1,88 @@
-{"tier":"glm-5.2","verse":42,"ref":"ezekiel 20:42","book":"ezekiel","lang":"tw","chapter":20,"translation":"Na ⟨את⟩ mo behunu sɛ me ne Yawe, berɛ a mede ⟨את⟩ mo ba Yisrael asase so, kɔ asase a metutuu me nsa sɛ mɛde ⟨את⟩ no ama mo agyanom no mu.","tokens":[{"surface":"וידעתם","gloss":"na mo behunu"},{"surface":"כי","gloss":"sɛ"},{"surface":"אני","gloss":"me ne"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בהביאי","gloss":"berɛ a mede mo ba"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo"},{"surface":"אל","gloss":"kɔ"},{"surface":"אדמת","gloss":"asase so"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"אל","gloss":"kɔ"},{"surface":"הארץ","gloss":"asase"},{"surface":"אשר","gloss":"a"},{"surface":"נשאתי","gloss":"metutuu"},{"surface":"את","gloss":"⟨את⟩","marks":"me nsa"},{"surface":"ידי","gloss":"me nsa"},{"surface":"לתת","gloss":"sɛ mɛde ma"},{"surface":"אותה","gloss":"⟨את⟩ no","marks":"no (asase)"},{"surface":"לאבותיכם","gloss":"mo agyanom"}],"timestamp":"2026-09-16T00:46:14.430814418Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na ⟨את⟩ mo behunu sɛ me ne Yawe, berɛ a mede ⟨את⟩ mo ba Yisrael asase so, kɔ asase a metutuu me nsa sɛ mɛde ⟨את⟩ no ama mo agyanom no mu.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "na mo behunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "berɛ a mede mo ba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "metutuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ mɛde ma"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (asase)"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "mo agyanom"
+    }
+  ],
+  "timestamp": "2026-09-16T00:46:14.430814418Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":18,"ref":"genesis 9:18","book":"genesis","lang":"tw","chapter":9,"translation":"Noa mma a wɔfiri hyɛn no mu baeɛ ne Shem, Kam ne Yafet; na Kam na ɔyɛ Kenaan agya.","tokens":[{"surface":"ויהיו","gloss":"wɔbaeɛ"},{"surface":"בני","gloss":"mma"},{"surface":"נח","gloss":"Noa"},{"surface":"היצאים","gloss":"a wɔfiri"},{"surface":"מן","gloss":"mu"},{"surface":"התבה","gloss":"hyɛn no"},{"surface":"שם","gloss":"Shem"},{"surface":"וחם","gloss":"Kam"},{"surface":"ויפת","gloss":"Yafet"},{"surface":"וחם","gloss":"Kam"},{"surface":"הוא","gloss":"na ɔyɛ"},{"surface":"אבי","gloss":"agya"},{"surface":"כנען","gloss":"Kenaan"}],"timestamp":"2026-09-16T05:14:23.883380745Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Noa mma a wɔfiri hyɛn no mu baeɛ ne Shem, Kam ne Yafet; na Kam na ɔyɛ Kenaan agya.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "wɔbaeɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "a wɔfiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "hyɛn no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "Yafet"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɔyɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:23.883380745Z",
+  "model": "glm-5.3"
+}

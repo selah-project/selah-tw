@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":17,"ref":"leviticus 4:17","book":"leviticus","lang":"tw","chapter":4,"translation":"Na ɔsɔfoɔ no bɛdɔ ne nsateaa firi mogya no mu, na ɔbɛsensɛn nnɔnson mprenu wɔ Yawe anim, ⟨את⟩ wɔ aham no anim.","tokens":[{"surface":"וטבל","gloss":"bɛdɔ"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"אצבעו","gloss":"ne nsateaa"},{"surface":"מן","gloss":"firi"},{"surface":"הדם","gloss":"mogya no mu"},{"surface":"והזה","gloss":"ɔbɛsensɛn"},{"surface":"שבע","gloss":"nnɔnson"},{"surface":"פעמים","gloss":"mprenu"},{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔ ⟨the⟩ aham no anim"},{"surface":"פני","gloss":"anim"},{"surface":"הפרכת","gloss":"⟨the⟩ aham no"}],"timestamp":"2026-09-15T21:09:47.160876782Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔsɔfoɔ no bɛdɔ ne nsateaa firi mogya no mu, na ɔbɛsensɛn nnɔnson mprenu wɔ Yawe anim, ⟨את⟩ wɔ aham no anim.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "bɛdɔ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ne nsateaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no mu"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ɔbɛsensɛn"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nnɔnson"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mprenu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔ ⟨the⟩ aham no anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "⟨the⟩ aham no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:47.160876782Z",
+  "model": "glm-5.3"
+}

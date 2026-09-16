@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "ezekiel 4:4", "book": "ezekiel", "lang": "tw", "chapter": 4, "translation": "Na wo, da wo benkum so, na wo de ⟨את⟩ Yisrael fie ⟨את⟩ bɔne to so — nna dodoɔ a wobɛda so no, na wo de wɔn bɔne bɛsoa.", "tokens": [{"surface": "ואתה", "gloss": "na wo"}, {"surface": "שכב", "gloss": "da"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "צדך", "gloss": "wo benkum"}, {"surface": "השמאלי", "gloss": "so"}, {"surface": "ושמת", "gloss": "na wo de bɛto"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bɔne"}, {"surface": "עון", "gloss": "bɔne"}, {"surface": "בית", "gloss": "fie"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "עליו", "gloss": "so"}, {"surface": "מספר", "gloss": "dodoɔ"}, {"surface": "הימים", "gloss": "nna"}, {"surface": "אשר", "gloss": "a"}, {"surface": "תשכב", "gloss": "wobɛda"}, {"surface": "עליו", "gloss": "so"}, {"surface": "תשא", "gloss": "na wo de bɛsoa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn bɔne"}, {"surface": "עונם", "gloss": "wɔn bɔne"}], "timestamp": "2026-09-16T00:35:04.652055273Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 4:4",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wo, da wo benkum so, na wo de ⟨את⟩ Yisrael fie ⟨את⟩ bɔne to so — nna dodoɔ a wobɛda so no, na wo de wɔn bɔne bɛsoa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "wo benkum"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "so"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "na wo de bɛto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔne"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "wobɛda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "na wo de bɛsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn bɔne"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "wɔn bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T00:35:04.652055273Z",
+  "model": "glm-5.3"
+}

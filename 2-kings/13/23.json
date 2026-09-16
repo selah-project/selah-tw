@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":23,"ref":"2-kings 13:23","book":"2-kings","lang":"tw","chapter":13,"translation":"Na Yawe daa ⟨את⟩ wɔn adɔeɛ adi, ɔyɛɛ wɔn mmɔbɔ, ɔdanee hwɛɛ wɔn, ne apam a ɔyɛeɛ ⟨את⟩ Abraham, Isak, ne Yakob nti; na 'ampɛ sɛ ɔsɛe wɔn, na 'antew wɔn mfiri n'anim kɔsi ɛnnɛ.","tokens":[{"surface":"ויחן","gloss":"daa adɔeɛ adi"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אתם","gloss":"⟨את⟩ wɔn"},{"surface":"וירחמם","gloss":"ɔyɛɛ wɔn mmɔbɔ"},{"surface":"ויפן","gloss":"ɔdanee hwɛɛ"},{"surface":"אליהם","gloss":"wɔn"},{"surface":"למען","gloss":"nti"},{"surface":"בריתו","gloss":"ne apam"},{"surface":"את","gloss":"⟨את⟩","marks":"Abraham"},{"surface":"אברהם","gloss":"Abraham"},{"surface":"יצחק","gloss":"Isak"},{"surface":"ויעקב","gloss":"ne Yakob"},{"surface":"ולא","gloss":"na 'ampɛ"},{"surface":"אבה","gloss":"ampɛ"},{"surface":"השחיתם","gloss":"sɛ ɔsɛe wɔn"},{"surface":"ולא","gloss":"na 'antew"},{"surface":"השליכם","gloss":"tew wɔn"},{"surface":"מעל","gloss":"mfiri"},{"surface":"פניו","gloss":"n'anim"},{"surface":"עד","gloss":"kɔsi"},{"surface":"עתה","gloss":"ɛnnɛ"}],"timestamp":"2026-09-15T23:31:29.526415849Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Yawe daa ⟨את⟩ wɔn adɔeɛ adi, ɔyɛɛ wɔn mmɔbɔ, ɔdanee hwɛɛ wɔn, ne apam a ɔyɛeɛ ⟨את⟩ Abraham, Isak, ne Yakob nti; na 'ampɛ sɛ ɔsɛe wɔn, na 'antew wɔn mfiri n'anim kɔsi ɛnnɛ.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "daa adɔeɛ adi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "ɔyɛɛ wɔn mmɔbɔ"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "ɔdanee hwɛɛ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nti"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ne Yakob"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na 'ampɛ"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ampɛ"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "sɛ ɔsɛe wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na 'antew"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "tew wɔn"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mfiri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n'anim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ɛnnɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:31:29.526415849Z",
+  "model": "glm-5.3"
+}

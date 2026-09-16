@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":8,"ref":"deuteronomy 27:8","book":"deuteronomy","lang":"tw","chapter":27,"translation":"Na wotwerɛ ⟨את⟩ asɛm nyinaa a ɛwɔ Mmara yi mu no dodoɔ so aboɔ no so, kyerɛ pefee.","tokens":[{"surface":"וכתבת","gloss":"na wotwerɛ"},{"surface":"על","gloss":"so"},{"surface":"האבנים","gloss":"aboɔ no"},{"surface":"את","gloss":"⟨את⟩","marks":"asɛm nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"דברי","gloss":"asɛm"},{"surface":"התורה","gloss":"Mmara"},{"surface":"הזאת","gloss":"yi"},{"surface":"באר","gloss":"kyerɛ"},{"surface":"היטב","gloss":"pefee"}],"timestamp":"2026-09-15T21:55:42.959084685Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na wotwerɛ ⟨את⟩ asɛm nyinaa a ɛwɔ Mmara yi mu no dodoɔ so aboɔ no so, kyerɛ pefee.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "na wotwerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "aboɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Mmara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "pefee"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:42.959084685Z",
+  "model": "glm-5.3"
+}

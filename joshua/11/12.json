@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "joshua 11:12", "book": "joshua", "lang": "tw", "chapter": 11, "translation": "Na Yehoshua faa ⟨את⟩ nkurow ⟨את⟩ nyinaa a ahemfo yi sɔree mu no ne ⟨את⟩ wɔn ahemfo nyinaa, bɔɔ wɔn afena ano, sɛee wɔn koraa — sɛnea Mose, Yawe akodie, hyɛɛ no.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "nkurow nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ערי", "gloss": "nkurow"}, {"surface": "המלכים", "gloss": "ahemfo"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn ahemfo nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מלכיהם", "gloss": "wɔn ahemfo"}, {"surface": "לכד", "gloss": "faa"}, {"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "ויכם", "gloss": "bɔɔ wɔn"}, {"surface": "לפי", "gloss": "ano"}, {"surface": "חרב", "gloss": "afena"}, {"surface": "החרים", "gloss": "sɛee wɔn koraa"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "עבד", "gloss": "akodie"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T22:05:44.644676639Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Yehoshua faa ⟨את⟩ nkurow ⟨את⟩ nyinaa a ahemfo yi sɔree mu no ne ⟨את⟩ wɔn ahemfo nyinaa, bɔɔ wɔn afena ano, sɛee wɔn koraa — sɛnea Mose, Yawe akodie, hyɛɛ no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkurow nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ahemfo nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wɔn ahemfo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "faa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "bɔɔ wɔn"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "afena"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "sɛee wɔn koraa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akodie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:44.644676639Z",
+  "model": "glm-5.3"
+}

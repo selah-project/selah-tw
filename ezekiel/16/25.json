@@ -1,1 +1,84 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "ezekiel 16:25", "book": "ezekiel", "lang": "tw", "chapter": 16, "translation": "Wɔ kwan tiara ano no, wosii wo bɔne asɔredan, na wo ma ⟨את⟩ wo fɛ no nyaa abufuo; na wo traa ⟨את⟩ wo nanamu nnhwɛ so maa obiara a ɔfa mu, na wo dɔɔso ⟨את⟩ wo aguadi bɔne mu.", "tokens": [{"surface": "אל", "gloss": "wɔ"}, {"surface": "כל", "gloss": "biara"}, {"surface": "ראש", "gloss": "ano"}, {"surface": "דרך", "gloss": "kwan"}, {"surface": "בנית", "gloss": "wosii"}, {"surface": "רמתך", "gloss": "wo bɔne asɔredan"}, {"surface": "ותתעבי", "gloss": "na wo ma ... nyaa abufuo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo fɛ"}, {"surface": "יפיך", "gloss": "wo fɛ"}, {"surface": "ותפשקי", "gloss": "na wo traa wo nanamu nnhwɛ so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nanamu"}, {"surface": "רגליך", "gloss": "wo nanamu"}, {"surface": "לכל", "gloss": "maa obiara"}, {"surface": "עובר", "gloss": "a ɔfa mu"}, {"surface": "ותרבי", "gloss": "na wo dɔɔso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo aguadi bɔne"}, {"surface": "תזנתך", "gloss": "wo aguadi bɔne"}], "timestamp": "2026-09-16T00:38:55.585736186Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 16:25",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Wɔ kwan tiara ano no, wosii wo bɔne asɔredan, na wo ma ⟨את⟩ wo fɛ no nyaa abufuo; na wo traa ⟨את⟩ wo nanamu nnhwɛ so maa obiara a ɔfa mu, na wo dɔɔso ⟨את⟩ wo aguadi bɔne mu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ano"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "wosii"
+    },
+    {
+      "surface": "רמתך",
+      "gloss": "wo bɔne asɔredan"
+    },
+    {
+      "surface": "ותתעבי",
+      "gloss": "na wo ma ... nyaa abufuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo fɛ"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "wo fɛ"
+    },
+    {
+      "surface": "ותפשקי",
+      "gloss": "na wo traa wo nanamu nnhwɛ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nanamu"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "wo nanamu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maa obiara"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "a ɔfa mu"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "na wo dɔɔso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo aguadi bɔne"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "wo aguadi bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T00:38:55.585736186Z",
+  "model": "glm-5.3"
+}

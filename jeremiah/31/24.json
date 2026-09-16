@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":24,"ref":"jeremiah 31:24","book":"jeremiah","lang":"tw","chapter":31,"translation":"Yuda ne n'akro nyinaa bɛtena mu wɔ hɔ bom: akuayifoɔ ne wɔn a wɔde mmoa kɔgu baabi.","tokens":[{"surface":"וישבו","gloss":"bɛtena"},{"surface":"בה","gloss":"wɔ hɔ"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"וכל","gloss":"ne ... nyinaa"},{"surface":"עריו","gloss":"n'akro"},{"surface":"יחדו","gloss":"bom"},{"surface":"אכרים","gloss":"akuayifoɔ"},{"surface":"ונסעו","gloss":"ne wɔn a wɔtu kwan"},{"surface":"בעדר","gloss":"de mmoa kɔgu"}],"timestamp":"2026-09-16T00:20:14.178040287Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 31:24",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Yuda ne n'akro nyinaa bɛtena mu wɔ hɔ bom: akuayifoɔ ne wɔn a wɔde mmoa kɔgu baabi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "n'akro"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bom"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "akuayifoɔ"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "ne wɔn a wɔtu kwan"
+    },
+    {
+      "surface": "בעדר",
+      "gloss": "de mmoa kɔgu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:20:14.178040287Z",
+  "model": "glm-5.3"
+}

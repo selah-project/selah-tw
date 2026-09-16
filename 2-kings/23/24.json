@@ -1,1 +1,151 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "2-kings 23:24", "book": "2-kings", "lang": "tw", "chapter": 23, "translation": "Na Yosia nso hyee ⟨את⟩ awufoɔ-frɛfoɔ, ⟨את⟩ ne ⟨את⟩ nimdee-ananmusɛm-frɛfoɔ, ne ⟨את⟩ terafim, ne ⟨את⟩ abosoa, ne ⟨את⟩ nneɛma a ɛyɛ ikyiwfoɔ nyinaa a wɔdaa no adi wɔ Yuda asase so ne Yerusalem, na ɛyɛɛ saa de siesie Torah nsɛm a wɔatwerɛ wɔ nwoma a Khilkia ɔsɔfoɔ hunuiɛ wɔ Yawe fie no mu.", "tokens": [{"surface": "וגם", "gloss": "Na ... nso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "awufoɔ-frɛfoɔ"}, {"surface": "האבות", "gloss": "awufoɔ-frɛfoɔ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "nimdee-ananmusɛm-frɛfoɔ"}, {"surface": "הידענים", "gloss": "nimdee-ananmusɛm-frɛfoɔ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "terafim"}, {"surface": "התרפים", "gloss": "terafim"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "abosoa"}, {"surface": "הגללים", "gloss": "abosoa"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "nneɛma a ɛyɛ ikyiwfoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "השקצים", "gloss": "nneɛma a ɛyɛ ikyiwfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נראו", "gloss": "wɔdaa no adi"}, {"surface": "בארץ", "gloss": "wɔ ... asase so"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "ובירושלם", "gloss": "ne Yerusalem"}, {"surface": "בער", "gloss": "hyee"}, {"surface": "יאשיהו", "gloss": "Yosia"}, {"surface": "למען", "gloss": "de"}, {"surface": "הקים", "gloss": "siesie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Torah nsɛm"}, {"surface": "דברי", "gloss": "nsɛm"}, {"surface": "התורה", "gloss": "Torah"}, {"surface": "הכתבים", "gloss": "a wɔatwerɛ"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "הספר", "gloss": "nwoma"}, {"surface": "אשר", "gloss": "a"}, {"surface": "מצא", "gloss": "hunuiɛ"}, {"surface": "חלקיהו", "gloss": "Khilkia"}, {"surface": "הכהן", "gloss": "ɔsɔfoɔ"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T23:37:52.167045854Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 23:24",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na Yosia nso hyee ⟨את⟩ awufoɔ-frɛfoɔ, ⟨את⟩ ne ⟨את⟩ nimdee-ananmusɛm-frɛfoɔ, ne ⟨את⟩ terafim, ne ⟨את⟩ abosoa, ne ⟨את⟩ nneɛma a ɛyɛ ikyiwfoɔ nyinaa a wɔdaa no adi wɔ Yuda asase so ne Yerusalem, na ɛyɛɛ saa de siesie Torah nsɛm a wɔatwerɛ wɔ nwoma a Khilkia ɔsɔfoɔ hunuiɛ wɔ Yawe fie no mu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na ... nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awufoɔ-frɛfoɔ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "awufoɔ-frɛfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nimdee-ananmusɛm-frɛfoɔ"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "nimdee-ananmusɛm-frɛfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "abosoa"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "abosoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nneɛma a ɛyɛ ikyiwfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "השקצים",
+      "gloss": "nneɛma a ɛyɛ ikyiwfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "wɔdaa no adi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asase so"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ne Yerusalem"
+    },
+    {
+      "surface": "בער",
+      "gloss": "hyee"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosia"
+    },
+    {
+      "surface": "למען",
+      "gloss": "de"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "siesie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah nsɛm"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "a wɔatwerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "hunuiɛ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:37:52.167045854Z",
+  "model": "glm-5.3"
+}

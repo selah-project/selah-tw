@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "joshua 10:33", "book": "joshua", "lang": "tw", "chapter": 10, "translation": "Saa bere no Horam, ɔhene a ɔdi Gezer, bɛforoɔ sɛ ɔbɛboa ⟨את⟩ Lakish, na Yehoshua kumii no ne ⟨את⟩ n'amannefoɔ, kɔsii sɛ ɛmaa ɔhɔfoɔ biara ansɛga no.", "tokens": [{"surface": "אז", "gloss": "saa bere no"}, {"surface": "עלה", "gloss": "bɛforoɔ"}, {"surface": "הרם", "gloss": "Horam"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "גזר", "gloss": "Gezer"}, {"surface": "לעזר", "gloss": "sɛ ɔbɛboa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Lakish"}, {"surface": "לכיש", "gloss": "Lakish"}, {"surface": "ויכהו", "gloss": "na ... kumii no"}, {"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "n'amannefoɔ"}, {"surface": "עמו", "gloss": "n'amannefoɔ"}, {"surface": "עד", "gloss": "kɔsii sɛ"}, {"surface": "בלתי", "gloss": "antee"}, {"surface": "השאיר", "gloss": "ɛmaa ... ansɛga"}, {"surface": "לו", "gloss": "no"}, {"surface": "שריד", "gloss": "ɔhɔfoɔ biara"}], "timestamp": "2026-09-15T22:05:31.910644098Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Saa bere no Horam, ɔhene a ɔdi Gezer, bɛforoɔ sɛ ɔbɛboa ⟨את⟩ Lakish, na Yehoshua kumii no ne ⟨את⟩ n'amannefoɔ, kɔsii sɛ ɛmaa ɔhɔfoɔ biara ansɛga no.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "saa bere no"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bɛforoɔ"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Horam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "sɛ ɔbɛboa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakish"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakish"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "na ... kumii no"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'amannefoɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'amannefoɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "antee"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ɛmaa ... ansɛga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ɔhɔfoɔ biara"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:31.910644098Z",
+  "model": "glm-5.3"
+}

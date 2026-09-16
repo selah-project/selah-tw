@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "genesis 37:31", "book": "genesis", "lang": "tw", "chapter": 37, "translation": "Wɔfaa ⟨את⟩ Yosef ⟨את⟩ kata no, wɔtwaa abirekyie ba, na wɔde kata no hyɛɛ mogya mu.", "tokens": [{"surface": "ויקחו", "gloss": "Wɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yosef kata no"}, {"surface": "כתנת", "gloss": "kata"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "וישחטו", "gloss": "wɔtwaa"}, {"surface": "שעיר", "gloss": "abirekyie ba"}, {"surface": "עזים", "gloss": "abirekyie"}, {"surface": "ויטבלו", "gloss": "na wɔde…hyɛɛ mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kata no"}, {"surface": "הכתנת", "gloss": "kata no"}, {"surface": "בדם", "gloss": "mogya mu"}], "timestamp": "2026-09-15T20:35:16.517616339Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Wɔfaa ⟨את⟩ Yosef ⟨את⟩ kata no, wɔtwaa abirekyie ba, na wɔde kata no hyɛɛ mogya mu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Wɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef kata no"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "wɔtwaa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "abirekyie ba"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "abirekyie"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "na wɔde…hyɛɛ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kata no"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kata no"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mogya mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:35:16.517616339Z",
+  "model": "glm-5.3"
+}

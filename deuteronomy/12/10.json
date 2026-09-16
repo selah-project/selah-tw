@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":10,"ref":"deuteronomy 12:10","book":"deuteronomy","lang":"tw","chapter":12,"translation":"Sɛ ⟨את⟩ moborow ⟨את⟩ Yarden na moatena asase no so, a Yawe, mo Eloohim, ma mo gyae so sɛ agyapadeɛ, na ɔde ahome ma mo afiri mo atanfoɔ a wɔatwa mo ho ahyia nyinaa ho, na moatena dwuma mu.","tokens":[{"surface":"ועברתם","gloss":"moborow"},{"surface":"את","gloss":"⟨את⟩","marks":"Yarden"},{"surface":"הירדן","gloss":"Yarden"},{"surface":"וישבתם","gloss":"moatena so"},{"surface":"בארץ","gloss":"asase no mu"},{"surface":"אשר","gloss":"a"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיכם","gloss":"mo Eloohim"},{"surface":"מנחיל","gloss":"ma mo gyae so sɛ agyapadeɛ"},{"surface":"אתכם","gloss":"⟨את⟩ mo"},{"surface":"והניח","gloss":"de ahome ma"},{"surface":"לכם","gloss":"mo"},{"surface":"מכל","gloss":"afiri ... nyinaa ho"},{"surface":"איביכם","gloss":"mo atanfoɔ"},{"surface":"מסביב","gloss":"a wɔatwa mo ho ahyia"},{"surface":"וישבתם","gloss":"moatena"},{"surface":"בטח","gloss":"dwuma mu"}],"timestamp":"2026-09-15T21:52:21.236033968Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Sɛ ⟨את⟩ moborow ⟨את⟩ Yarden na moatena asase no so, a Yawe, mo Eloohim, ma mo gyae so sɛ agyapadeɛ, na ɔde ahome ma mo afiri mo atanfoɔ a wɔatwa mo ho ahyia nyinaa ho, na moatena dwuma mu.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "moborow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "moatena so"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase no mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "ma mo gyae so sɛ agyapadeɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "de ahome ma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "afiri ... nyinaa ho"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mo atanfoɔ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a wɔatwa mo ho ahyia"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "moatena"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "dwuma mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:21.236033968Z",
+  "model": "glm-5.3"
+}

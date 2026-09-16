@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "numbers 19:20", "book": "numbers", "lang": "tw", "chapter": 19, "translation": "Na obi a ɔbɛhɔ na ɔnsa ne ho, na wɔatwa ⟨asɛm⟩ no firi asafo no mu, efisɛ wɔahɔ Yawe ⟨את⟩ asɔredan no — wɔannsensera n'asraa nsuo no so; ɔhɔ.", "tokens": [{"surface": "ואיש", "gloss": "na obi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יטמא", "gloss": "ɔbɛhɔ"}, {"surface": "ולא", "gloss": "na ɔnsa"}, {"surface": "יתחטא", "gloss": "ne ho"}, {"surface": "ונכרתה", "gloss": "wɔatwa"}, {"surface": "הנפש", "gloss": "⟨asɛm⟩ no"}, {"surface": "ההוא", "gloss": "no"}, {"surface": "מתוך", "gloss": "firi ... mu"}, {"surface": "הקהל", "gloss": "asafo no"}, {"surface": "כי", "gloss": "efisɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe asɔredan no"}, {"surface": "מקדש", "gloss": "asɔredan"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "טמא", "gloss": "wɔahɔ"}, {"surface": "מי", "gloss": "nsuo"}, {"surface": "נדה", "gloss": "asraa (ahɔhoɔ-siesie)"}, {"surface": "לא", "gloss": "wɔann"}, {"surface": "זרק", "gloss": "sensera"}, {"surface": "עליו", "gloss": "n'... so"}, {"surface": "טמא", "gloss": "ɔhɔ"}, {"surface": "הוא", "gloss": "no"}], "timestamp": "2026-09-15T21:36:24.918615779Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 19:20",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na obi a ɔbɛhɔ na ɔnsa ne ho, na wɔatwa ⟨asɛm⟩ no firi asafo no mu, efisɛ wɔahɔ Yawe ⟨את⟩ asɔredan no — wɔannsensera n'asraa nsuo no so; ɔhɔ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "na obi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ɔbɛhɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔnsa"
+    },
+    {
+      "surface": "יתחטא",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "wɔatwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨asɛm⟩ no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "firi ... mu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "asafo no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe asɔredan no"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "asɔredan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "wɔahɔ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "asraa (ahɔhoɔ-siesie)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔann"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "sensera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'... so"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ɔhɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:36:24.918615779Z",
+  "model": "glm-5.3"
+}

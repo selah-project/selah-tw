@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "jeremiah 3:18", "book": "jeremiah", "lang": "tw", "chapter": 3, "translation": "Da bi wɔ berɛ no mu no, Yuda fi bɛkɔ Yisrael fi so, na wɔbɛka abomu afiri atifi asase so akɔ asase a mehwɛɛ so maa ⟨את⟩ mo nnanom sɛ wɔn agyapadze no.", "tokens": [{"surface": "בימים", "gloss": "Da bi wɔ ... mu"}, {"surface": "ההמה", "gloss": "no"}, {"surface": "ילכו", "gloss": "bɛkɔ"}, {"surface": "בית", "gloss": "fi"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "על", "gloss": "so"}, {"surface": "בית", "gloss": "fi"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "ויבאו", "gloss": "na wɔbɛka abomu aba"}, {"surface": "יחדו", "gloss": "abomu"}, {"surface": "מארץ", "gloss": "afiri ... asase so"}, {"surface": "צפון", "gloss": "atifi"}, {"surface": "על", "gloss": "akɔ"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הנחלתי", "gloss": "mehwɛɛ so maa sɛ agyapadze"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo nnanom"}, {"surface": "אבותיכם", "gloss": "mo nnanom"}], "timestamp": "2026-09-16T00:06:47.207953944Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 3:18",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Da bi wɔ berɛ no mu no, Yuda fi bɛkɔ Yisrael fi so, na wɔbɛka abomu afiri atifi asase so akɔ asase a mehwɛɛ so maa ⟨את⟩ mo nnanom sɛ wɔn agyapadze no.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Da bi wɔ ... mu"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "no"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "na wɔbɛka abomu aba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "abomu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "afiri ... asase so"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "על",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "mehwɛɛ so maa sɛ agyapadze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nnanom"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "mo nnanom"
+    }
+  ],
+  "timestamp": "2026-09-16T00:06:47.207953944Z",
+  "model": "glm-5.3"
+}

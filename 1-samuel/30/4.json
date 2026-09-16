@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "1-samuel 30:4", "book": "1-samuel", "lang": "tw", "chapter": 30, "translation": "Daavid ne nnipa a ⟨את⟩ wɔne no wɔ no bɔɔ ⟨את⟩ wɔn nne ma wɔsuiɛ, kɔpem sɛ ɛnyɛ den maa wɔn sɛ wɔbɛsu bio.", "tokens": [{"surface": "וישא", "gloss": "bɔɔ ma"}, {"surface": "דוד", "gloss": "Daavid"}, {"surface": "והעם", "gloss": "ne nnipa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתו", "gloss": "⟨את⟩ wɔne no wɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nne"}, {"surface": "קולם", "gloss": "wɔn nne"}, {"surface": "ויבכו", "gloss": "wɔsuiɛ"}, {"surface": "עד", "gloss": "kɔpem sɛ"}, {"surface": "אשר", "gloss": "(sɛ)"}, {"surface": "אין", "gloss": "ɛnyɛ den"}, {"surface": "בהם", "gloss": "maa wɔn"}, {"surface": "כח", "gloss": "ahoɔden"}, {"surface": "לבכות", "gloss": "sɛ wɔbɛsu"}], "timestamp": "2026-09-15T23:00:25.582989309Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Daavid ne nnipa a ⟨את⟩ wɔne no wɔ no bɔɔ ⟨את⟩ wɔn nne ma wɔsuiɛ, kɔpem sɛ ɛnyɛ den maa wɔn sɛ wɔbɛsu bio.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bɔɔ ma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ne nnipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wɔne no wɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nne"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "wɔn nne"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "wɔsuiɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔpem sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(sɛ)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɛnyɛ den"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "maa wɔn"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "sɛ wɔbɛsu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:25.582989309Z",
+  "model": "glm-5.3"
+}

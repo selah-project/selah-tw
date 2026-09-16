@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "genesis 48:1", "book": "genesis", "lang": "tw", "chapter": 48, "translation": "Na ɛbaa sɛ nsɛm yi akyi no, obi kaa Yosef se: Hwɛ, wo agya yare. Na ɔfaa ne mma ⟨את⟩ baanu ne no — ⟨את⟩ Menashɛ ne ⟨את⟩ Ɛfraim.", "tokens": [{"surface": "ויהי", "gloss": "Na ɛbaa sɛ"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "הדברים", "gloss": "nsɛm"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "ויאמר", "gloss": "ɔkaa"}, {"surface": "ליוסף", "gloss": "Yosef"}, {"surface": "הנה", "gloss": "Hwɛ"}, {"surface": "אביך", "gloss": "wo agya"}, {"surface": "חלה", "gloss": "yare"}, {"surface": "ויקח", "gloss": "ɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne mma baanu"}, {"surface": "שני", "gloss": "baanu"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "עמו", "gloss": "ne no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Menashɛ"}, {"surface": "מנשה", "gloss": "Menashɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Ɛfraim"}, {"surface": "אפרים", "gloss": "Ɛfraim"}], "timestamp": "2026-09-15T20:41:21.743005750Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Na ɛbaa sɛ nsɛm yi akyi no, obi kaa Yosef se: Hwɛ, wo agya yare. Na ɔfaa ne mma ⟨את⟩ baanu ne no — ⟨את⟩ Menashɛ ne ⟨את⟩ Ɛfraim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "yare"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mma baanu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "baanu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashɛ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛfraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ɛfraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:41:21.743005750Z",
+  "model": "glm-5.3"
+}

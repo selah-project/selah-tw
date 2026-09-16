@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "ecclesiastes 5:5", "book": "ecclesiastes", "lang": "tw", "chapter": 5, "translation": "Mma ⟨את⟩ w'ano mmɛma ⟨את⟩ w'ahom abɔ bɔne, na wonka wɔ ɔsomafoɔ anim sɛ ɛyɛ mfomsoɔ; adɛn nti na Eloohim bɛbo wo nne so, na ɔbɛsɛe ⟨את⟩ adwuma a wo nsa ayɛ?", "tokens": [{"surface": "אל", "gloss": "mma"}, {"surface": "תתן", "gloss": "mma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'ano"}, {"surface": "פיך", "gloss": "w'ano"}, {"surface": "לחטיא", "gloss": "de bɔ bɔne"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'ahom"}, {"surface": "בשרך", "gloss": "w'ahom"}, {"surface": "ואל", "gloss": "na mma"}, {"surface": "תאמר", "gloss": "woka"}, {"surface": "לפני", "gloss": "wɔ ... anim"}, {"surface": "המלאך", "gloss": "ɔsomafoɔ no"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "שגגה", "gloss": "mfomsoɔ"}, {"surface": "היא", "gloss": "ɛyɛ"}, {"surface": "למה", "gloss": "adɛn nti"}, {"surface": "יקצף", "gloss": "bɛbo"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "על", "gloss": "so"}, {"surface": "קולך", "gloss": "wo nne"}, {"surface": "וחבל", "gloss": "na ɔbɛsɛe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "adwuma a wo nsa ayɛ"}, {"surface": "מעשה", "gloss": "adwuma"}, {"surface": "ידיך", "gloss": "wo nsa"}], "timestamp": "2026-09-16T03:57:06.545129075Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Mma ⟨את⟩ w'ano mmɛma ⟨את⟩ w'ahom abɔ bɔne, na wonka wɔ ɔsomafoɔ anim sɛ ɛyɛ mfomsoɔ; adɛn nti na Eloohim bɛbo wo nne so, na ɔbɛsɛe ⟨את⟩ adwuma a wo nsa ayɛ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'ano"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "w'ano"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "de bɔ bɔne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'ahom"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "w'ahom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mma"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "woka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ɔsomafoɔ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "mfomsoɔ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn nti"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "bɛbo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "wo nne"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "na ɔbɛsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma a wo nsa ayɛ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wo nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:06.545129075Z",
+  "model": "glm-5.3"
+}

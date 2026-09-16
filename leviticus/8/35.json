@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 35, "ref": "leviticus 8:35", "book": "leviticus", "lang": "tw", "chapter": 8, "translation": "Mo ntena Ohel Moed no fapem ano anɔpa ne anadwo nna nson, na mo mma Yawe ⟨את⟩ nhyɛnwee (guard duty) no so na mo nwnu; ɛfiri sɛ saa na wɔahyɛ me.", "tokens": [{"surface": "ופתח", "gloss": "fapem ano"}, {"surface": "אהל", "gloss": "Ohel"}, {"surface": "מועד", "gloss": "Moed"}, {"surface": "תשבו", "gloss": "mo ntena"}, {"surface": "יומם", "gloss": "anɔpa"}, {"surface": "ולילה", "gloss": "ne anadwo"}, {"surface": "שבעת", "gloss": "nna"}, {"surface": "ימים", "gloss": "nson"}, {"surface": "ושמרתם", "gloss": "mo mma…so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe nhyɛnwee"}, {"surface": "משמרת", "gloss": "nhyɛnwee (guard duty)"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ולא", "gloss": "na mo n-"}, {"surface": "תמותו", "gloss": "-wnu"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "כן", "gloss": "saa"}, {"surface": "צויתי", "gloss": "na wɔahyɛ me"}], "timestamp": "2026-09-15T21:11:42.329131196Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 8:35",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mo ntena Ohel Moed no fapem ano anɔpa ne anadwo nna nson, na mo mma Yawe ⟨את⟩ nhyɛnwee (guard duty) no so na mo nwnu; ɛfiri sɛ saa na wɔahyɛ me.",
+  "tokens": [
+    {
+      "surface": "ופתח",
+      "gloss": "fapem ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "mo ntena"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ne anadwo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nson"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "mo mma…so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nhyɛnwee"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "nhyɛnwee (guard duty)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mo n-"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "-wnu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "na wɔahyɛ me"
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:42.329131196Z",
+  "model": "glm-5.3"
+}

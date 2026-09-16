@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-samuel 15:2","book":"1-samuel","lang":"tw","chapter":15,"translation":"Sɛ⟨את⟩ deɛ Yawe Tsevaot ⟨asraafoɔ Dɔfoɔ⟩ ka: Mahunu deɛ Amalek yɛɛ Yisraël, sɛdeɛ ɔhyɛɛ no da wɔ ɔkwan so berɛ a ɔrefiri Misraim soro.","tokens":[{"surface":"כה","gloss":"sɛdeɛ"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"פקדתי","gloss":"Mahunu"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ Amalek yɛɛ"},{"surface":"אשר","gloss":"deɛ"},{"surface":"עשה","gloss":"yɛɛ"},{"surface":"עמלק","gloss":"Amalek"},{"surface":"לישראל","gloss":"Yisraël"},{"surface":"אשר","gloss":"sɛdeɛ"},{"surface":"שם","gloss":"ɔhyɛɛ da"},{"surface":"לו","gloss":"no"},{"surface":"בדרך","gloss":"wɔ ɔkwan so"},{"surface":"בעלתו","gloss":"berɛ a ɔrefiri … soro"},{"surface":"ממצרים","gloss":"Misraim"}],"timestamp":"2026-09-15T22:53:01.744150063Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Sɛ⟨את⟩ deɛ Yawe Tsevaot ⟨asraafoɔ Dɔfoɔ⟩ ka: Mahunu deɛ Amalek yɛɛ Yisraël, sɛdeɛ ɔhyɛɛ no da wɔ ɔkwan so berɛ a ɔrefiri Misraim soro.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Mahunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Amalek yɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɔhyɛɛ da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ɔkwan so"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "berɛ a ɔrefiri … soro"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:01.744150063Z",
+  "model": "glm-5.3"
+}

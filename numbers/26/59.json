@@ -1,1 +1,97 @@
-{"tier": "glm-5.2", "verse": 59, "ref": "numbers 26:59", "book": "numbers", "lang": "tw", "chapter": 26, "translation": "Na Amram yere din de Yokabed, Levi babea, a wɔwoo no ⟨את⟩ maa Levi wɔ Misraim; na ɔwoo maa Amram ⟨את⟩ Aharon ne ⟨את⟩ Moshe ne ⟨את⟩ Miriam, wɔn nuabea.", "tokens": [{"surface": "ושם", "gloss": "din"}, {"surface": "אשת", "gloss": "yere"}, {"surface": "עמרם", "gloss": "Amram"}, {"surface": "יוכבד", "gloss": "Yokabed"}, {"surface": "בת", "gloss": "babea"}, {"surface": "לוי", "gloss": "Levi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ילדה", "gloss": "wɔwoo"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "ללוי", "gloss": "maa Levi"}, {"surface": "במצרים", "gloss": "wɔ Misraim"}, {"surface": "ותלד", "gloss": "na ɔwoo"}, {"surface": "לעמרם", "gloss": "maa Amram"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Moshe"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Miriam"}, {"surface": "מרים", "gloss": "Miriam"}, {"surface": "אחתם", "gloss": "wɔn nuabea"}], "timestamp": "2026-09-15T21:39:13.910477461Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "numbers 26:59",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na Amram yere din de Yokabed, Levi babea, a wɔwoo no ⟨את⟩ maa Levi wɔ Misraim; na ɔwoo maa Amram ⟨את⟩ Aharon ne ⟨את⟩ Moshe ne ⟨את⟩ Miriam, wɔn nuabea.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokabed"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babea"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wɔwoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "maa Levi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "לעמרם",
+      "gloss": "maa Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Miriam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriam"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "wɔn nuabea"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:13.910477461Z",
+  "model": "glm-5.3"
+}

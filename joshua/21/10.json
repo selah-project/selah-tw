@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":10,"ref":"joshua 21:10","book":"joshua","lang":"tw","chapter":21,"translation":"Na ɛyɛɛ Aharon mma dea, wɔn a wɔfiri Kehat mmusua mu, Levi mma mu; ɛfiri sɛ goru a ɛdi kan no baa wɔn so.","tokens":[{"surface":"ויהי","gloss":"na ɛyɛɛ"},{"surface":"לבני","gloss":"mma dea"},{"surface":"אהרן","gloss":"Aharon"},{"surface":"ממשפחות","gloss":"firi mmusua mu"},{"surface":"הקהתי","gloss":"Kehatfoɔ"},{"surface":"מבני","gloss":"firi mma mu"},{"surface":"לוי","gloss":"Levi"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"להם","gloss":"wɔn"},{"surface":"היה","gloss":"na ɛdi"},{"surface":"הגורל","gloss":"goru no"},{"surface":"ריאשנה","gloss":"a ɛdi kan"}],"timestamp":"2026-09-15T22:08:34.622855718Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 21:10",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɛyɛɛ Aharon mma dea, wɔn a wɔfiri Kehat mmusua mu, Levi mma mu; ɛfiri sɛ goru a ɛdi kan no baa wɔn so.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛyɛɛ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma dea"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "firi mmusua mu"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatfoɔ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "firi mma mu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na ɛdi"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goru no"
+    },
+    {
+      "surface": "ריאשנה",
+      "gloss": "a ɛdi kan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:34.622855718Z",
+  "model": "glm-5.3"
+}

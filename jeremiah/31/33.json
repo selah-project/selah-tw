@@ -1,1 +1,123 @@
-{"tier":"glm-5.2","verse":33,"ref":"jeremiah 31:33","book":"jeremiah","lang":"tw","chapter":31,"translation":"Ɛfiri sɛ saa na ⟨את⟩ biribiara te: mmara no a mɛbɔ ne Yisrael ⟨את⟩ fie no wɔ nna no akyi no, Yawe asɛm; mede me Torah no gu wɔn mu, na mɛtwerɛ no wɔ wɔn akoma so, na mɛyɛ Eloohim ma wɔn, na wɔn nso bɛyɛ amanmafoɔ ma me.","tokens":[{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"זאת","gloss":"saa"},{"surface":"הברית","gloss":"mmara (apam)"},{"surface":"אשר","gloss":"a"},{"surface":"אכרת","gloss":"mɛbɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yisrael fie"},{"surface":"בית","gloss":"fie"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"אחרי","gloss":"wɔ ... akyi"},{"surface":"הימים","gloss":"nna"},{"surface":"ההם","gloss":"no"},{"surface":"נאם","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"נתתי","gloss":"mede ... gu"},{"surface":"את","gloss":"⟨את⟩","marks":"me Torah"},{"surface":"תורתי","gloss":"me Torah"},{"surface":"בקרבם","gloss":"wɔn mu"},{"surface":"ועל","gloss":"na so"},{"surface":"לבם","gloss":"wɔn akoma"},{"surface":"אכתבנה","gloss":"mɛtwerɛ no"},{"surface":"והייתי","gloss":"na mɛyɛ"},{"surface":"להם","gloss":"ma wɔn"},{"surface":"לאלהים","gloss":"Eloohim"},{"surface":"והמה","gloss":"na wɔn"},{"surface":"יהיו","gloss":"bɛyɛ"},{"surface":"לי","gloss":"ma me"},{"surface":"לעם","gloss":"amanmafoɔ"}],"timestamp":"2026-09-16T00:19:56.766876570Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 31:33",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ɛfiri sɛ saa na ⟨את⟩ biribiara te: mmara no a mɛbɔ ne Yisrael ⟨את⟩ fie no wɔ nna no akyi no, Yawe asɛm; mede me Torah no gu wɔn mu, na mɛtwerɛ no wɔ wɔn akoma so, na mɛyɛ Eloohim ma wɔn, na wɔn nso bɛyɛ amanmafoɔ ma me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "saa"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "mmara (apam)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אכרת",
+      "gloss": "mɛbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wɔ ... akyi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "no"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede ... gu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me Torah"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "me Torah"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na so"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "אכתבנה",
+      "gloss": "mɛtwerɛ no"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "na mɛyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ma wɔn"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "na wɔn"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "amanmafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:19:56.766876570Z",
+  "model": "glm-5.3"
+}

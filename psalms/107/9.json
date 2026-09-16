@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 107:9","book":"psalms","lang":"tw","chapter":107,"translation":"Efisɛ Ɔmaa nkwa a ɔrehwehwɛ adeɛ no ho tɔɔ, na nkwa a ɔkɔm de no, Ɔhyɛɛ ma papa so.","tokens":[{"surface":"כי","gloss":"efisɛ"},{"surface":"השביע","gloss":"Ɔmaa ... ho tɔɔ"},{"surface":"נפש","gloss":"nkwa"},{"surface":"שקקה","gloss":"a ɔrehwehwɛ adeɛ"},{"surface":"ונפש","gloss":"na nkwa"},{"surface":"רעבה","gloss":"a ɔkɔm de"},{"surface":"מלא","gloss":"Ɔhyɛɛ ma"},{"surface":"טוב","gloss":"papa"}],"timestamp":"2026-09-16T02:22:09.309524993Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 107,
+  "translation": "Efisɛ Ɔmaa nkwa a ɔrehwehwɛ adeɛ no ho tɔɔ, na nkwa a ɔkɔm de no, Ɔhyɛɛ ma papa so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "Ɔmaa ... ho tɔɔ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "a ɔrehwehwɛ adeɛ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na nkwa"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "a ɔkɔm de"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Ɔhyɛɛ ma"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:22:09.309524993Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "numbers 5:3", "book": "numbers", "lang": "tw", "chapter": 5, "translation": "Mmarima ne mma nyinaa momma wɔnkɔ asotwe no akyi; wonsommra wɔn akɔ asotwe no akyi, na wɔnho ntɛm ⟨את⟩ wɔn atesɛn mu a mekra mu wɔ me ne wɔn.", "tokens": [{"surface": "מזכר", "gloss": "Mmarima"}, {"surface": "עד", "gloss": "ne"}, {"surface": "נקבה", "gloss": "mma nyinaa"}, {"surface": "תשלחו", "gloss": "momma wɔnkɔ"}, {"surface": "אל", "gloss": "—"}, {"surface": "מחוץ", "gloss": "akyi"}, {"surface": "למחנה", "gloss": "asotwe no"}, {"surface": "תשלחום", "gloss": "wonsommra wɔn"}, {"surface": "ולא", "gloss": "na wɔnho ntɛm"}, {"surface": "יטמאו", "gloss": "wɔnho atɛm"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn atesɛn mu"}, {"surface": "מחניהם", "gloss": "wɔn atesɛn mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אני", "gloss": "me"}, {"surface": "שכן", "gloss": "mekra mu wɔ"}, {"surface": "בתוכם", "gloss": "me ne wɔn"}], "timestamp": "2026-09-15T21:27:43.116469771Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Mmarima ne mma nyinaa momma wɔnkɔ asotwe no akyi; wonsommra wɔn akɔ asotwe no akyi, na wɔnho ntɛm ⟨את⟩ wɔn atesɛn mu a mekra mu wɔ me ne wɔn.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Mmarima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mma nyinaa"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "momma wɔnkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "asotwe no"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "wonsommra wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔnho ntɛm"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "wɔnho atɛm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn atesɛn mu"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "wɔn atesɛn mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "mekra mu wɔ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "me ne wɔn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:43.116469771Z",
+  "model": "glm-5.3"
+}

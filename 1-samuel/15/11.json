@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "1-samuel 15:11", "book": "1-samuel", "lang": "tw", "chapter": 15, "translation": "Mehaw sɛ mehyɛɛ ⟨את⟩ Saul sɛ ɔhe⟨את⟩ ne, ɛfiri sɛ watwa ne ho afiri me akyi, na wamma me nsɛm no so. Na ɛyɛɛ Shemuël yaw, na ɔtetee nne frɛɛ Yawe anadwo no nyinaa.", "tokens": [{"surface": "נחמתי", "gloss": "Mehaw"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "המלכתי", "gloss": "mehyɛɛ sɛ ɔhene"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Saul"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "למלך", "gloss": "sɛ ɔhene"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "שב", "gloss": "watwa ne ho afiri"}, {"surface": "מאחרי", "gloss": "me akyi"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "me nsɛm no"}, {"surface": "דברי", "gloss": "me nsɛm"}, {"surface": "לא", "gloss": "na wamma"}, {"surface": "הקים", "gloss": "so"}, {"surface": "ויחר", "gloss": "yɛɛ no yaw"}, {"surface": "לשמואל", "gloss": "maa Shemuël"}, {"surface": "ויזעק", "gloss": "na ɔtetee nne frɛɛ"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הלילה", "gloss": "anadwo no"}], "timestamp": "2026-09-15T22:51:33.810353591Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Mehaw sɛ mehyɛɛ ⟨את⟩ Saul sɛ ɔhe⟨את⟩ ne, ɛfiri sɛ watwa ne ho afiri me akyi, na wamma me nsɛm no so. Na ɛyɛɛ Shemuël yaw, na ɔtetee nne frɛɛ Yawe anadwo no nyinaa.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Mehaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "mehyɛɛ sɛ ɔhene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sɛ ɔhene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "watwa ne ho afiri"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "me akyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "me nsɛm no"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "me nsɛm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na wamma"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "so"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yɛɛ no yaw"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "maa Shemuël"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "na ɔtetee nne frɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:33.810353591Z",
+  "model": "glm-5.3"
+}

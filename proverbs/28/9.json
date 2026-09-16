@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":9,"ref":"proverbs 28:9","book":"proverbs","lang":"tw","chapter":28,"translation":"Obi a ɔdane n'aso firi Tora ⟨a ɔrente⟩ mu, ne mpaebɔ mpo yɛ ɛkye.","tokens":[{"surface":"מסיר","gloss":"ɔdane...firi"},{"surface":"אזנו","gloss":"n'aso"},{"surface":"משמע","gloss":"a ɔrente"},{"surface":"תורה","gloss":"Tora"},{"surface":"גם","gloss":"mpo"},{"surface":"תפלתו","gloss":"ne mpaebɔ"},{"surface":"תועבה","gloss":"yɛ ɛkye"}],"timestamp":"2026-09-16T03:03:04.377642965Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Obi a ɔdane n'aso firi Tora ⟨a ɔrente⟩ mu, ne mpaebɔ mpo yɛ ɛkye.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ɔdane...firi"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "n'aso"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "a ɔrente"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "ne mpaebɔ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "yɛ ɛkye"
+    }
+  ],
+  "timestamp": "2026-09-16T03:03:04.377642965Z",
+  "model": "glm-5.3"
+}

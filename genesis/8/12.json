@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "genesis 8:12", "book": "genesis", "lang": "tw", "chapter": 8, "translation": "Na ɔtwaa n'ani hwɛɛ nna nson foforɔ bio, somaa ⟨את⟩ aburukyibaa no; na ɔnsan nbra ne nkyɛn bio da.", "tokens": [{"surface": "וייחל", "gloss": "ɔtwaa n'ani hwɛɛ"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "שבעת", "gloss": "nson"}, {"surface": "ימים", "gloss": "nna"}, {"surface": "אחרים", "gloss": "foforɔ"}, {"surface": "וישלח", "gloss": "somaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "aburukyibaa no"}, {"surface": "היונה", "gloss": "aburukyibaa no"}, {"surface": "ולא", "gloss": "na ... da"}, {"surface": "יספה", "gloss": "nbra"}, {"surface": "שוב", "gloss": "nsan"}, {"surface": "אליו", "gloss": "ne nkyɛn"}, {"surface": "עוד", "gloss": "bio"}], "timestamp": "2026-09-15T20:16:37.981868551Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɔtwaa n'ani hwɛɛ nna nson foforɔ bio, somaa ⟨את⟩ aburukyibaa no; na ɔnsan nbra ne nkyɛn bio da.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ɔtwaa n'ani hwɛɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nson"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aburukyibaa no"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "aburukyibaa no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... da"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "nbra"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "nsan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:37.981868551Z",
+  "model": "glm-5.3"
+}

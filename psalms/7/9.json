@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 7:9","book":"psalms","lang":"tw","chapter":7,"translation":"Yawe bɛdi aman no asɛm: bu m'asɛm, Yawe, sɛdeɛ m'ntreasodeɛ teɛ, ne sɛdeɛ me nokwaryɛ a ɛda me so teɛ.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"ידין","gloss":"bɛdi ... asɛm"},{"surface":"עמים","gloss":"aman"},{"surface":"שפטני","gloss":"bu m'asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"כצדקי","gloss":"sɛdeɛ m'ntreasodeɛ teɛ"},{"surface":"וכתמי","gloss":"ne sɛdeɛ me nokwaryɛ"},{"surface":"עלי","gloss":"a ɛda me so"}],"timestamp":"2026-09-16T01:37:25.072546403Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yawe bɛdi aman no asɛm: bu m'asɛm, Yawe, sɛdeɛ m'ntreasodeɛ teɛ, ne sɛdeɛ me nokwaryɛ a ɛda me so teɛ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bɛdi ... asɛm"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "bu m'asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sɛdeɛ m'ntreasodeɛ teɛ"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "ne sɛdeɛ me nokwaryɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a ɛda me so"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:25.072546403Z",
+  "model": "glm-5.3"
+}

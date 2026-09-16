@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":2,"ref":"genesis 15:2","book":"genesis","lang":"tw","chapter":15,"translation":"Abram kaa se: Adonai Yawe, dea wobɛma me deɛn, na meretu akwantu abɔfra biara nni me so, na de ɔwɔ me fie no ne Damasikni Eliezer wei?","tokens":[{"surface":"ויאמר","gloss":"kaa se"},{"surface":"אברם","gloss":"Abram"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"מה","gloss":"dea"},{"surface":"תתן","gloss":"wobɛma"},{"surface":"לי","gloss":"me"},{"surface":"ואנכי","gloss":"Abram"},{"surface":"הולך","gloss":"retu akwantu"},{"surface":"ערירי","gloss":"abɔfra biara nni me so"},{"surface":"ובן","gloss":"na ɔba"},{"surface":"משק","gloss":"ɔwɔ"},{"surface":"ביתי","gloss":"me fie"},{"surface":"הוא","gloss":"ne"},{"surface":"דמשק","gloss":"Damasikni"},{"surface":"אליעזר","gloss":"Eliezer"}],"timestamp":"2026-09-15T20:20:27.332367655Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 15:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Abram kaa se: Adonai Yawe, dea wobɛma me deɛn, na meretu akwantu abɔfra biara nni me so, na de ɔwɔ me fie no ne Damasikni Eliezer wei?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dea"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wobɛma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "retu akwantu"
+    },
+    {
+      "surface": "ערירי",
+      "gloss": "abɔfra biara nni me so"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na ɔba"
+    },
+    {
+      "surface": "משק",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "me fie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasikni"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    }
+  ],
+  "timestamp": "2026-09-15T20:20:27.332367655Z",
+  "model": "glm-5.3"
+}

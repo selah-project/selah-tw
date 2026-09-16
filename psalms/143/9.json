@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 143:9","book":"psalms","lang":"tw","chapter":143,"translation":"Yawe, tum me fi me atamfoɔ nsam; wo nkyɛn na me dasoɔ.","tokens":[{"surface":"הצילני","gloss":"tum me fi"},{"surface":"מאיבי","gloss":"me atamfoɔ nsam"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אליך","gloss":"wo nkyɛn"},{"surface":"כסתי","gloss":"me dasoɔ"}],"timestamp":"2026-09-16T02:39:24.668716605Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 143,
+  "translation": "Yawe, tum me fi me atamfoɔ nsam; wo nkyɛn na me dasoɔ.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "tum me fi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "me atamfoɔ nsam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "me dasoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:24.668716605Z",
+  "model": "glm-5.3"
+}

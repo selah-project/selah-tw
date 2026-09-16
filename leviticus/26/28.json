@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "leviticus 26:28", "book": "leviticus", "lang": "tw", "chapter": 26, "translation": "na mɛnam mo ho wɔ atamkorɔ berɛguo mu, na mɛyɛ mo asotwe ⟨את⟩ — me ankasa — nson prɛko wɔ mo mfomsoɔ ho.", "tokens": [{"surface": "והלכתי", "gloss": "mɛnam"}, {"surface": "עמכם", "gloss": "mo ho"}, {"surface": "בחמת", "gloss": "wɔ…berɛguo mu"}, {"surface": "קרי", "gloss": "atamkorɔ"}, {"surface": "ויסרתי", "gloss": "mɛyɛ…asotwe"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "אף", "gloss": "—"}, {"surface": "אני", "gloss": "me ankasa"}, {"surface": "שבע", "gloss": "nson prɛko"}, {"surface": "על", "gloss": "wɔ…ho"}, {"surface": "חטאתיכם", "gloss": "mo mfomsoɔ"}], "timestamp": "2026-09-15T21:24:02.235081630Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "na mɛnam mo ho wɔ atamkorɔ berɛguo mu, na mɛyɛ mo asotwe ⟨את⟩ — me ankasa — nson prɛko wɔ mo mfomsoɔ ho.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "mɛnam"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "wɔ…berɛguo mu"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "atamkorɔ"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "mɛyɛ…asotwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ankasa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson prɛko"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ…ho"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mo mfomsoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:24:02.235081630Z",
+  "model": "glm-5.3"
+}

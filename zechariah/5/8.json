@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "zechariah 5:8", "book": "zechariah", "lang": "tw", "chapter": 5, "translation": "Na ɔkaa sɛ: Wei ne ɔsɛmmɔne ⟨את⟩ no. Na ɔbɔɔ ⟨את⟩ no guu efa no mu, na ɔbɔɔ tɔfe abɔdan no guu no ano.", "tokens": [{"surface": "ויאמר", "gloss": "na ɔkaa"}, {"surface": "זאת", "gloss": "wei"}, {"surface": "הרשעה", "gloss": "ɔsɛmmɔne no"}, {"surface": "וישלך", "gloss": "na ɔbɔɔ guu"}, {"surface": "אתה", "gloss": "⟨את⟩no", "marks": "no (ɔbaa no)"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "תוך", "gloss": "mu"}, {"surface": "האיפה", "gloss": "efa no"}, {"surface": "וישלך", "gloss": "na ɔbɔɔ guu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "tɔfe abɔdan no"}, {"surface": "אבן", "gloss": "abɔdan"}, {"surface": "העפרת", "gloss": "tɔfe"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "פיה", "gloss": "no ano"}], "timestamp": "2026-09-16T01:27:07.865352784Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na ɔkaa sɛ: Wei ne ɔsɛmmɔne ⟨את⟩ no. Na ɔbɔɔ ⟨את⟩ no guu efa no mu, na ɔbɔɔ tɔfe abɔdan no guu no ano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wei"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ɔsɛmmɔne no"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "na ɔbɔɔ guu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩no",
+      "marks": "no (ɔbaa no)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa no"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "na ɔbɔɔ guu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tɔfe abɔdan no"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "abɔdan"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "tɔfe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "no ano"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:07.865352784Z",
+  "model": "glm-5.3"
+}

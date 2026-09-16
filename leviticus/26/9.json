@@ -1,1 +1,56 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "leviticus 26:9", "book": "leviticus", "lang": "tw", "chapter": 26, "translation": "Mɛdane m'ani aba mo so, na ⟨את⟩ mɛma mo aduabɔ, na ⟨את⟩ mɛma mo dɔɔso, na ⟨את⟩ mɛsi m'apam no ⟨את⟩ mo.", "tokens": [{"surface": "ופניתי", "gloss": "mɛdane m'ani"}, {"surface": "אליכם", "gloss": "aba mo so"}, {"surface": "והפריתי", "gloss": "mɛma mo aduabɔ"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mɛma mo aduabɔ"}, {"surface": "והרביתי", "gloss": "mɛma mo dɔɔso"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mɛma mo dɔɔso"}, {"surface": "והקימתי", "gloss": "mɛsi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "m'apam no"}, {"surface": "בריתי", "gloss": "m'apam no"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}], "timestamp": "2026-09-15T21:22:37.451877355Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Mɛdane m'ani aba mo so, na ⟨את⟩ mɛma mo aduabɔ, na ⟨את⟩ mɛma mo dɔɔso, na ⟨את⟩ mɛsi m'apam no ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "mɛdane m'ani"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aba mo so"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "mɛma mo aduabɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mɛma mo aduabɔ"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "mɛma mo dɔɔso"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mɛma mo dɔɔso"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "mɛsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'apam no"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "m'apam no"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:22:37.451877355Z",
+  "model": "glm-5.3"
+}

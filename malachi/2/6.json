@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":6,"ref":"malachi 2:6","book":"malachi","lang":"tw","chapter":2,"translation":"Nokorɛ Tora wɔ ne ano, na atɛntrenee nna ne sfatini mu; wɔ asomdwoeɛ ne tɛnenteene mu nantew ⟨את⟩ me, na ɔdwoo pii firi bɔne mu.","tokens":[{"surface":"תורת","gloss":"Tora"},{"surface":"אמת","gloss":"Nokorɛ"},{"surface":"היתה","gloss":"wɔ"},{"surface":"בפיהו","gloss":"ne ano"},{"surface":"ועולה","gloss":"atɛntrenee"},{"surface":"לא","gloss":"n- (nna)"},{"surface":"נמצא","gloss":"nna"},{"surface":"בשפתיו","gloss":"ne sfatini mu"},{"surface":"בשלום","gloss":"wɔ asomdwoeɛ mu"},{"surface":"ובמישור","gloss":"ne tɛnenteene mu"},{"surface":"הלך","gloss":"nantew"},{"surface":"אתי","gloss":"⟨את⟩ me"},{"surface":"ורבים","gloss":"pii"},{"surface":"השיב","gloss":"ɔdwoo"},{"surface":"מעון","gloss":"firi bɔne mu"}],"timestamp":"2026-09-16T01:33:48.536182775Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 2:6",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Nokorɛ Tora wɔ ne ano, na atɛntrenee nna ne sfatini mu; wɔ asomdwoeɛ ne tɛnenteene mu nantew ⟨את⟩ me, na ɔdwoo pii firi bɔne mu.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Nokorɛ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "ne ano"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "atɛntrenee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n- (nna)"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ne sfatini mu"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "wɔ asomdwoeɛ mu"
+    },
+    {
+      "surface": "ובמישור",
+      "gloss": "ne tɛnenteene mu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nantew"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "ורבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ɔdwoo"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "firi bɔne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:33:48.536182775Z",
+  "model": "glm-5.3"
+}

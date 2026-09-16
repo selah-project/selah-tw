@@ -1,1 +1,49 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "joshua 21:15", "book": "joshua", "lang": "tw", "chapter": 21, "translation": "Ne ⟨את⟩ Holon ⟨את⟩ ne ⟨את⟩ ne mmea afuo, ne ⟨את⟩ Debir ne ne mmea afuo.", "tokens": [{"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Holon"}, {"surface": "חלן", "gloss": "Holon"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mmea afuo"}, {"surface": "מגרשה", "gloss": "ne mmea afuo"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Debir"}, {"surface": "דבר", "gloss": "Debir"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mmea afuo"}, {"surface": "מגרשה", "gloss": "ne mmea afuo"}], "timestamp": "2026-09-15T22:08:41.737980393Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ne ⟨את⟩ Holon ⟨את⟩ ne ⟨את⟩ ne mmea afuo, ne ⟨את⟩ Debir ne ne mmea afuo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Holon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:41.737980393Z",
+  "model": "glm-5.3"
+}

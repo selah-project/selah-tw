@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "2-samuel 3:26", "book": "2-samuel", "lang": "tw", "chapter": 3, "translation": "Yɔab firii Dawid hɔ, de asomafoɔ kɔɔ Abner akyi, wɔde ⟨את⟩ no sane baa Sira asutin no ase; Dawid nso anteɛ.", "tokens": [{"surface": "ויצא", "gloss": "firii"}, {"surface": "יואב", "gloss": "Yɔab"}, {"surface": "מעם", "gloss": "firi … hɔ"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "וישלח", "gloss": "de asomafoɔ kɔɔ"}, {"surface": "מלאכים", "gloss": "asomafoɔ"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "אבנר", "gloss": "Abner"}, {"surface": "וישבו", "gloss": "wɔde no sane baa"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "Sira asutin"}, {"surface": "מבור", "gloss": "asutin"}, {"surface": "הסרה", "gloss": "Sira"}, {"surface": "ודוד", "gloss": "Dawid nso"}, {"surface": "לא", "gloss": "nn-"}, {"surface": "ידע", "gloss": "teɛ"}], "timestamp": "2026-09-15T23:02:06.492704362Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yɔab firii Dawid hɔ, de asomafoɔ kɔɔ Abner akyi, wɔde ⟨את⟩ no sane baa Sira asutin no ase; Dawid nso anteɛ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "firii"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yɔab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "firi … hɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "de asomafoɔ kɔɔ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "asomafoɔ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wɔde no sane baa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Sira asutin"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "asutin"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Sira"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid nso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "teɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:02:06.492704362Z",
+  "model": "glm-5.3"
+}

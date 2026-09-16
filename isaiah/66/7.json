@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 66:7","book":"isaiah","lang":"tw","chapter":66,"translation":"Ansa na ɔrehyɛɛ ayamyeɛ ase no, na ɔwɔɔ; ansa na ɔwere-fifireɛ no baa ne so no, na ɔdii ɔbarima.","tokens":[{"surface":"בטרם","gloss":"Ansa na"},{"surface":"תחיל","gloss":"ɔrehyɛɛ ayamyeɛ ase"},{"surface":"ילדה","gloss":"ɔwɔɔ"},{"surface":"בטרם","gloss":"Ansa na"},{"surface":"יבוא","gloss":"baa"},{"surface":"חבל","gloss":"ɔwere-fifireɛ"},{"surface":"לה","gloss":"ne so"},{"surface":"והמליטה","gloss":"ɔdii"},{"surface":"זכר","gloss":"ɔbarima"}],"timestamp":"2026-09-16T00:02:56.991702570Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 66,
+  "translation": "Ansa na ɔrehyɛɛ ayamyeɛ ase no, na ɔwɔɔ; ansa na ɔwere-fifireɛ no baa ne so no, na ɔdii ɔbarima.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Ansa na"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "ɔrehyɛɛ ayamyeɛ ase"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ɔwɔɔ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "Ansa na"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ɔwere-fifireɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "ɔdii"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ɔbarima"
+    }
+  ],
+  "timestamp": "2026-09-16T00:02:56.991702570Z",
+  "model": "glm-5.3"
+}

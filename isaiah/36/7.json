@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "isaiah 36:7", "book": "isaiah", "lang": "tw", "chapter": 36, "translation": "Na sɛ woka me sɛ, 'Yawe, yɛn Eloohim so na yɛde yɛn ho to,' — ɛnyɛ ɔno ⟨את⟩ ne deɛ Hizikiayii ⟨את⟩ ne bammɔ nnwuma ne n'anonnwa, na ɔkaa Yehuda ne Yerusalem sɛ, 'Anonnwa yi anim na mo bɛkɔ so atom'?", "tokens": [{"surface": "וכי", "gloss": "na sɛ"}, {"surface": "תאמר", "gloss": "woka"}, {"surface": "אלי", "gloss": "me"}, {"surface": "אל", "gloss": "sɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהינו", "gloss": "yɛn Eloohim"}, {"surface": "בטחנו", "gloss": "yɛde yɛn ho to"}, {"surface": "הלוא", "gloss": "ɛnyɛ"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "אשר", "gloss": "ne deɛ"}, {"surface": "הסיר", "gloss": "yii"}, {"surface": "חזקיהו", "gloss": "Hizikia"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne bammɔ nnwuma"}, {"surface": "במתיו", "gloss": "ne bammɔ nnwuma"}, {"surface": "ואת", "gloss": "⟨את⟩ ne", "marks": "n'anonnwa"}, {"surface": "מזבחתיו", "gloss": "n'anonnwa"}, {"surface": "ויאמר", "gloss": "na ɔkaa"}, {"surface": "ליהודה", "gloss": "Yehuda"}, {"surface": "ולירושלם", "gloss": "ne Yerusalem"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "המזבח", "gloss": "anonnwa"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "תשתחוו", "gloss": "mo bɛkɔ so atom"}], "timestamp": "2026-09-15T23:52:35.083929042Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 36:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na sɛ woka me sɛ, 'Yawe, yɛn Eloohim so na yɛde yɛn ho to,' — ɛnyɛ ɔno ⟨את⟩ ne deɛ Hizikiayii ⟨את⟩ ne bammɔ nnwuma ne n'anonnwa, na ɔkaa Yehuda ne Yerusalem sɛ, 'Anonnwa yi anim na mo bɛkɔ so atom'?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "woka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "yɛde yɛn ho to"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne deɛ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yii"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne bammɔ nnwuma"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ne bammɔ nnwuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "n'anonnwa"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "n'anonnwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ne Yerusalem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "anonnwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "mo bɛkɔ so atom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:35.083929042Z",
+  "model": "glm-5.3"
+}

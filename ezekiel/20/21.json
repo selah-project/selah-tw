@@ -1,1 +1,131 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "ezekiel 20:21", "book": "ezekiel", "lang": "tw", "chapter": 20, "translation": "Nanso mma no tiaa me; wɔan⟨את⟩ nantew wɔ me nhyehyɛeɛ mu, ⟨את⟩ na ⟨את⟩ m'atemmu mmara nso wɔanyɛ so — deɛ onipa yɛ no, ɔtra nkwa mu — ⟨את⟩ me Homeda nso wɔdifirii; enti mekae sɛ mɛto m'abufuo agu wɔn so, de bɛsa me bo afu wɔn ho wɔ asasetoɔ mu.", "tokens": [{"surface": "וימרו", "gloss": "tiaa"}, {"surface": "בי", "gloss": "me"}, {"surface": "הבנים", "gloss": "mma no"}, {"surface": "בחקותי", "gloss": "wɔ me nhyehyɛeɛ mu"}, {"surface": "לא", "gloss": "nn"}, {"surface": "הלכו", "gloss": "nantew"}, {"surface": "ואת", "gloss": "na ⟨את⟩", "marks": "m'atemmu mmara"}, {"surface": "משפטי", "gloss": "m'atemmu mmara"}, {"surface": "לא", "gloss": "nn"}, {"surface": "שמרו", "gloss": "yɛ so"}, {"surface": "לעשות", "gloss": "de yɛ"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "יעשה", "gloss": "yɛ"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "האדם", "gloss": "onipa"}, {"surface": "וחי", "gloss": "na ɔtra nkwa"}, {"surface": "בהם", "gloss": "mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me Homeda"}, {"surface": "שבתותי", "gloss": "me Homeda"}, {"surface": "חללו", "gloss": "wɔdifirii"}, {"surface": "ואמר", "gloss": "na mekae"}, {"surface": "לשפך", "gloss": "sɛ mɛto agu"}, {"surface": "חמתי", "gloss": "m'abufuo"}, {"surface": "עליהם", "gloss": "wɔn so"}, {"surface": "לכלות", "gloss": "de bɛsa afu"}, {"surface": "אפי", "gloss": "me bo"}, {"surface": "בם", "gloss": "wɔn ho"}, {"surface": "במדבר", "gloss": "asasetoɔ mu"}], "timestamp": "2026-09-16T00:42:45.881658103Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 20:21",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Nanso mma no tiaa me; wɔan⟨את⟩ nantew wɔ me nhyehyɛeɛ mu, ⟨את⟩ na ⟨את⟩ m'atemmu mmara nso wɔanyɛ so — deɛ onipa yɛ no, ɔtra nkwa mu — ⟨את⟩ me Homeda nso wɔdifirii; enti mekae sɛ mɛto m'abufuo agu wɔn so, de bɛsa me bo afu wɔn ho wɔ asasetoɔ mu.",
+  "tokens": [
+    {
+      "surface": "וימרו",
+      "gloss": "tiaa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mma no"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "wɔ me nhyehyɛeɛ mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nantew"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "m'atemmu mmara"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "m'atemmu mmara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "yɛ so"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de yɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na ɔtra nkwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me Homeda"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "me Homeda"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "wɔdifirii"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mekae"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "sɛ mɛto agu"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "m'abufuo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "de bɛsa afu"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "me bo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "asasetoɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:42:45.881658103Z",
+  "model": "glm-5.3"
+}

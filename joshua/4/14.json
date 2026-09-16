@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "joshua 4:14", "book": "joshua", "lang": "tw", "chapter": 4, "translation": "Woɔ ⟨את⟩ no mu da no, Yawe ma ⟨את⟩ Yehoshua din mu durui wɔ Israel nyinaa anim, na wɔsuroe no sɛnea wɔsuroe ⟨את⟩ Mose no, nna n’abraboɔ nyinaa.", "tokens": [{"surface": "ביום", "gloss": "woɔ no mu da no"}, {"surface": "ההוא", "gloss": "no"}, {"surface": "גדל", "gloss": "ma ... din mu durui"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yehoshua"}, {"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "בעיני", "gloss": "wɔ ... anim"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "ויראו", "gloss": "na wɔsuroe"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "יראו", "gloss": "wɔsuroe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Mose"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ימי", "gloss": "nna"}, {"surface": "חייו", "gloss": "n’abraboɔ"}], "timestamp": "2026-09-15T22:00:46.991635192Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Woɔ ⟨את⟩ no mu da no, Yawe ma ⟨את⟩ Yehoshua din mu durui wɔ Israel nyinaa anim, na wɔsuroe no sɛnea wɔsuroe ⟨את⟩ Mose no, nna n’abraboɔ nyinaa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "woɔ no mu da no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ma ... din mu durui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na wɔsuroe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wɔsuroe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "n’abraboɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:46.991635192Z",
+  "model": "glm-5.3"
+}

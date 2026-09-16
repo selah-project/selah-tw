@@ -1,1 +1,133 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "judges 7:25", "book": "judges", "lang": "tw", "chapter": 7, "translation": "Wɔkyeree Midian akandifoɔ mmienu, ⟨את⟩ Oreb ne ⟨את⟩ Zeab; wɔkum ⟨את⟩ Oreb wɔ Oreb abotan so, na ⟨את⟩ Zeab wɔkum no wɔ Zeab bɔtoro mu; wɔkɔɔ Midian akyi, na wɔde Oreb ne Zeab atifi brɛɛ Gideon wɔ Yordan ɔfa foforɔ so.", "tokens": [{"surface": "וילכדו", "gloss": "wɔkyeree"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "שרי", "gloss": "akandifoɔ"}, {"surface": "מדין", "gloss": "Midian"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Oreb"}, {"surface": "ערב", "gloss": "Oreb"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Zeab"}, {"surface": "זאב", "gloss": "Zeab"}, {"surface": "ויהרגו", "gloss": "wɔkum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Oreb"}, {"surface": "עורב", "gloss": "Oreb"}, {"surface": "בצור", "gloss": "wɔ abotan so"}, {"surface": "עורב", "gloss": "Oreb"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Zeab"}, {"surface": "זאב", "gloss": "Zeab"}, {"surface": "הרגו", "gloss": "wɔkum"}, {"surface": "ביקב", "gloss": "wɔ bɔtoro mu"}, {"surface": "זאב", "gloss": "Zeab"}, {"surface": "וירדפו", "gloss": "wɔkɔɔ akyi"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "מדין", "gloss": "Midian"}, {"surface": "וראש", "gloss": "ne atifi"}, {"surface": "ערב", "gloss": "Oreb"}, {"surface": "וזאב", "gloss": "ne Zeab"}, {"surface": "הביאו", "gloss": "wɔde brɛɛ"}, {"surface": "אל", "gloss": "kɔmaa"}, {"surface": "גדעון", "gloss": "Gideon"}, {"surface": "מעבר", "gloss": "afa foforɔ"}, {"surface": "לירדן", "gloss": "Yordan"}], "timestamp": "2026-09-15T22:37:19.221265795Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 7:25",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Wɔkyeree Midian akandifoɔ mmienu, ⟨את⟩ Oreb ne ⟨את⟩ Zeab; wɔkum ⟨את⟩ Oreb wɔ Oreb abotan so, na ⟨את⟩ Zeab wɔkum no wɔ Zeab bɔtoro mu; wɔkɔɔ Midian akyi, na wɔde Oreb ne Zeab atifi brɛɛ Gideon wɔ Yordan ɔfa foforɔ so.",
+  "tokens": [
+    {
+      "surface": "וילכדו",
+      "gloss": "wɔkyeree"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akandifoɔ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oreb"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Zeab"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeab"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "wɔkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oreb"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "wɔ abotan so"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeab"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeab"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wɔkum"
+    },
+    {
+      "surface": "ביקב",
+      "gloss": "wɔ bɔtoro mu"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeab"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "wɔkɔɔ akyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ne atifi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "וזאב",
+      "gloss": "ne Zeab"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wɔde brɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔmaa"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "afa foforɔ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yordan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:37:19.221265795Z",
+  "model": "glm-5.3"
+}

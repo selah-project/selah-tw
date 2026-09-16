@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":9,"ref":"2-samuel 5:9","book":"2-samuel","lang":"tw","chapter":5,"translation":"Dawid tenaa mmoatiafa mu, na ɔtoo no din kuropɔn a Dawid wɔ; na Dawid si dan wɔ akyi, firi Milo kɔsi afie mu.","tokens":[{"surface":"וישב","gloss":"tenaa"},{"surface":"דוד","gloss":"Dawid"},{"surface":"במצדה","gloss":"mmoatiafa mu"},{"surface":"ויקרא","gloss":"ɔtoo din"},{"surface":"לה","gloss":"no"},{"surface":"עיר","gloss":"kuropɔn"},{"surface":"דוד","gloss":"Dawid"},{"surface":"ויבן","gloss":"si dan"},{"surface":"דוד","gloss":"Dawid"},{"surface":"סביב","gloss":"wɔ akyi"},{"surface":"מן","gloss":"firi"},{"surface":"המלוא","gloss":"Milo"},{"surface":"וביתה","gloss":"kɔsi afie mu"}],"timestamp":"2026-09-15T23:01:21.867332795Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Dawid tenaa mmoatiafa mu, na ɔtoo no din kuropɔn a Dawid wɔ; na Dawid si dan wɔ akyi, firi Milo kɔsi afie mu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "mmoatiafa mu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ɔtoo din"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuropɔn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "si dan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wɔ akyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "kɔsi afie mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:21.867332795Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":12,"ref":"jeremiah 46:12","book":"jeremiah","lang":"tw","chapter":46,"translation":"Amanaman ate wo anim guam, na wo seka ahyɛ asase no ma: ɛfiri sɛ ɔkofo koda ɔkofo so, wɔn baanu no nyinaa tɔɔ ase wɔ abɔ mu.","tokens":[{"surface":"שמעו","gloss":"ate"},{"surface":"גוים","gloss":"amanaman"},{"surface":"קלונך","gloss":"wo anim guam"},{"surface":"וצוחתך","gloss":"na wo seka"},{"surface":"מלאה","gloss":"ahyɛ"},{"surface":"הארץ","gloss":"asase no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"גבור","gloss":"ɔkofo"},{"surface":"בגבור","gloss":"ɔkofo so"},{"surface":"כשלו","gloss":"koda"},{"surface":"יחדיו","gloss":"wɔ abɔ mu"},{"surface":"נפלו","gloss":"tɔɔ ase"},{"surface":"שניהם","gloss":"wɔn baanu no nyinaa"}],"timestamp":"2026-09-16T05:30:48.482254100Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Amanaman ate wo anim guam, na wo seka ahyɛ asase no ma: ɛfiri sɛ ɔkofo koda ɔkofo so, wɔn baanu no nyinaa tɔɔ ase wɔ abɔ mu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "wo anim guam"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "na wo seka"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ahyɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ɔkofo"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "ɔkofo so"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "koda"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "wɔ abɔ mu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tɔɔ ase"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu no nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:30:48.482254100Z",
+  "model": "glm-5.3"
+}

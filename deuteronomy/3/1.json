@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 3:1","book":"deuteronomy","lang":"tw","chapter":3,"translation":"Yɛnsane baa akyi, na yɛkɔɔ so kɔɔ Bashan kwan so; na Og, Bashan hene, baa sotia yɛn — ɔno ne n'aman nyinaa — akɔ ɔko mu, wɔ Edrei.","tokens":[{"surface":"ונפן","gloss":"yɛnsane baa akyi"},{"surface":"ונעל","gloss":"yɛkɔɔ so"},{"surface":"דרך","gloss":"kwan"},{"surface":"הבשן","gloss":"Bashan"},{"surface":"ויצא","gloss":"baa so"},{"surface":"עוג","gloss":"Og"},{"surface":"מלך","gloss":"hene"},{"surface":"הבשן","gloss":"Bashan"},{"surface":"לקראתנו","gloss":"sotia yɛn"},{"surface":"הוא","gloss":"ɔno"},{"surface":"וכל","gloss":"ne … nyinaa"},{"surface":"עמו","gloss":"n'aman"},{"surface":"למלחמה","gloss":"kɔ ɔko mu"},{"surface":"אדרעי","gloss":"Edrei"}],"timestamp":"2026-09-15T21:46:15.018432101Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 3:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yɛnsane baa akyi, na yɛkɔɔ so kɔɔ Bashan kwan so; na Og, Bashan hene, baa sotia yɛn — ɔno ne n'aman nyinaa — akɔ ɔko mu, wɔ Edrei.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "yɛnsane baa akyi"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "yɛkɔɔ so"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "baa so"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "sotia yɛn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne … nyinaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'aman"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kɔ ɔko mu"
+    },
+    {
+      "surface": "אדרעי",
+      "gloss": "Edrei"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:15.018432101Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "exodus 10:11", "book": "exodus", "lang": "tw", "chapter": 10, "translation": "Aennye; mo mmarima nko na monkɔ na mo nsom ⟨את⟩ Yawe ⟨את⟩, efisɛ deɛ mo rehwehwɛ ne ɛno; wɔpam ⟨את⟩ wɔn firi ⟨את⟩ Parho anim.", "tokens": [{"surface": "לא", "gloss": "aennye"}, {"surface": "כן", "gloss": "saa"}, {"surface": "לכו", "gloss": "monkɔ"}, {"surface": "נא", "gloss": "nnɛ"}, {"surface": "הגברים", "gloss": "mo mmarima"}, {"surface": "ועבדו", "gloss": "mo nsom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "כי", "gloss": "efisɛ"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "mohwehwɛ deɛ"}, {"surface": "אתם", "gloss": "mo"}, {"surface": "מבקשים", "gloss": "rehwehwɛ"}, {"surface": "ויגרש", "gloss": "wɔpam"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "פני", "gloss": "anim"}, {"surface": "פרעה", "gloss": "Parho"}], "timestamp": "2026-09-15T20:48:00.222531609Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Aennye; mo mmarima nko na monkɔ na mo nsom ⟨את⟩ Yawe ⟨את⟩, efisɛ deɛ mo rehwehwɛ ne ɛno; wɔpam ⟨את⟩ wɔn firi ⟨את⟩ Parho anim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aennye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "monkɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mo mmarima"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mo nsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mohwehwɛ deɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "rehwehwɛ"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "wɔpam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:00.222531609Z",
+  "model": "glm-5.3"
+}

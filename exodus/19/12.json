@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "exodus 19:12", "book": "exodus", "lang": "tw", "chapter": 19, "translation": "“Na bɛhyɛ ahyeɛ ama ⟨את⟩ amanfoɔ no a atwa ho ahyia sɛ: ‘Monhwɛ yɛ mo ho, mmonnpɔ mpɔn so, na mmɔra nka n'ahye; obiara a ɔbɛka bepɔ no ho, ɔbɛwu ampa.’”", "tokens": [{"surface": "והגבלת", "gloss": "bɛhyɛ ahyeɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "amanfoɔ no"}, {"surface": "העם", "gloss": "amanfoɔ no"}, {"surface": "סביב", "gloss": "a atwa ho ahyia"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "השמרו", "gloss": "Monhwɛ yɛ"}, {"surface": "לכם", "gloss": "mo ho"}, {"surface": "עלות", "gloss": "mmonnpɔ mpɔn"}, {"surface": "בהר", "gloss": "bepɔ no so"}, {"surface": "ונגע", "gloss": "mmɔra nka"}, {"surface": "בקצהו", "gloss": "n'ahye"}, {"surface": "כל", "gloss": "obiara"}, {"surface": "הנגע", "gloss": "a ɔbɛka ... ho"}, {"surface": "בהר", "gloss": "bepɔ no"}, {"surface": "מות", "gloss": "ɔbɛwu"}, {"surface": "יומת", "gloss": "ampa"}], "timestamp": "2026-09-15T20:51:24.305216331Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "“Na bɛhyɛ ahyeɛ ama ⟨את⟩ amanfoɔ no a atwa ho ahyia sɛ: ‘Monhwɛ yɛ mo ho, mmonnpɔ mpɔn so, na mmɔra nka n'ahye; obiara a ɔbɛka bepɔ no ho, ɔbɛwu ampa.’”",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "bɛhyɛ ahyeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a atwa ho ahyia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Monhwɛ yɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mmonnpɔ mpɔn"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bepɔ no so"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "mmɔra nka"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "n'ahye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a ɔbɛka ... ho"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ɔbɛwu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ampa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:24.305216331Z",
+  "model": "glm-5.3"
+}

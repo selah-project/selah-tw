@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "genesis 21:2", "book": "genesis", "lang": "tw", "chapter": 21, "translation": "Sara nyinsɛnee, na ɔwoo ba maa Abraham wɔ n'akorabere mu, ɔberɛ a wɔahyɛ da a ⟨את⟩ Eloohim de asɛm kaa no ho.", "tokens": [{"surface": "ותהר", "gloss": "nyinsɛnee"}, {"surface": "ותלד", "gloss": "na ɔwoo"}, {"surface": "שרה", "gloss": "Sara"}, {"surface": "לאברהם", "gloss": "maa Abraham"}, {"surface": "בן", "gloss": "ba"}, {"surface": "לזקניו", "gloss": "wɔ n'akorabere mu"}, {"surface": "למועד", "gloss": "ɔberɛ a wɔahyɛ da"}, {"surface": "אשר", "gloss": "a"}, {"surface": "דבר", "gloss": "de asɛm kaaeɛ"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no (Abraham)"}, {"surface": "אלהים", "gloss": "Eloohim"}], "timestamp": "2026-09-15T20:23:40.481980557Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Sara nyinsɛnee, na ɔwoo ba maa Abraham wɔ n'akorabere mu, ɔberɛ a wɔahyɛ da a ⟨את⟩ Eloohim de asɛm kaa no ho.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nyinsɛnee"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "maa Abraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "wɔ n'akorabere mu"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ɔberɛ a wɔahyɛ da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de asɛm kaaeɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Abraham)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:40.481980557Z",
+  "model": "glm-5.3"
+}

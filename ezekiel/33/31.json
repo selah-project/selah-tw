@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "ezekiel 33:31", "book": "ezekiel", "lang": "tw", "chapter": 33, "translation": "Na wɔbɛba wo nkyɛn sɛ amanfoɔ ba, na wɔbɛtena wo anim sɛ me nkurɔfoɔ, na wɔbɛte ⟨את⟩ wo nsɛm no, ⟨את⟩ nanso wɔrennyɛ; ɛfiri sɛ dɔ asɛm na ɛwɔ wɔn anom, na wɔn akoma na ɛdi wɔn adifudepɛ akyi.", "tokens": [{"surface": "ויבואו", "gloss": "wɔbɛba"}, {"surface": "אליך", "gloss": "wo nkyɛn"}, {"surface": "כמבוא", "gloss": "sɛ ... ba"}, {"surface": "עם", "gloss": "amanfoɔ"}, {"surface": "וישבו", "gloss": "wɔbɛtena"}, {"surface": "לפניך", "gloss": "wo anim"}, {"surface": "עמי", "gloss": "me nkurɔfoɔ"}, {"surface": "ושמעו", "gloss": "wɔbɛte"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nsɛm no"}, {"surface": "דבריך", "gloss": "wo nsɛm no"}, {"surface": "ואותם", "gloss": "⟨את⟩ nanso"}, {"surface": "לא", "gloss": "da"}, {"surface": "יעשו", "gloss": "wɔrennyɛ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "עגבים", "gloss": "dɔ asɛm"}, {"surface": "בפיהם", "gloss": "wɔn anom"}, {"surface": "המה", "gloss": "na ɛwɔ"}, {"surface": "עשים", "gloss": "yɛ"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "בצעם", "gloss": "wɔn adifudepɛ"}, {"surface": "לבם", "gloss": "wɔn akoma"}, {"surface": "הלך", "gloss": "di"}], "timestamp": "2026-09-16T00:53:18.078459204Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 33:31",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na wɔbɛba wo nkyɛn sɛ amanfoɔ ba, na wɔbɛtena wo anim sɛ me nkurɔfoɔ, na wɔbɛte ⟨את⟩ wo nsɛm no, ⟨את⟩ nanso wɔrennyɛ; ɛfiri sɛ dɔ asɛm na ɛwɔ wɔn anom, na wɔn akoma na ɛdi wɔn adifudepɛ akyi.",
+  "tokens": [
+    {
+      "surface": "ויבואו",
+      "gloss": "wɔbɛba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo nkyɛn"
+    },
+    {
+      "surface": "כמבוא",
+      "gloss": "sɛ ... ba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wɔbɛtena"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "wɔbɛte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsɛm no"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "wo nsɛm no"
+    },
+    {
+      "surface": "ואותם",
+      "gloss": "⟨את⟩ nanso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wɔrennyɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "dɔ asɛm"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "wɔn anom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "na ɛwɔ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "בצעם",
+      "gloss": "wɔn adifudepɛ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wɔn akoma"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-09-16T00:53:18.078459204Z",
+  "model": "glm-5.3"
+}

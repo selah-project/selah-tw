@@ -1,1 +1,85 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "1-samuel 23:7", "book": "1-samuel", "lang": "tw", "chapter": 23, "translation": "Wɔka kyerɛɛ Sawulu sɛ David aba Keilah. Sawulu kaa sɛ, “Eloohim de ⟨את⟩ no ahyɛ me nsa mu, ɛfiri sɛ wɔasie no; ɔkɔɔ kuro a ɛwɔ pono ne atɛkyɛ mu.”", "tokens": [{"surface": "ויגד", "gloss": "Wɔka kyerɛɛ"}, {"surface": "לשאול", "gloss": "Sawulu"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "בא", "gloss": "aba"}, {"surface": "דוד", "gloss": "David"}, {"surface": "קעילה", "gloss": "Keilah"}, {"surface": "ויאמר", "gloss": "kaa sɛ"}, {"surface": "שאול", "gloss": "Sawulu"}, {"surface": "נכר", "gloss": "de no ahyɛ"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "בידי", "gloss": "me nsa mu"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "נסגר", "gloss": "wɔasie no"}, {"surface": "לבוא", "gloss": "ɔkɔɔ"}, {"surface": "בעיר", "gloss": "kuro"}, {"surface": "דלתים", "gloss": "pono"}, {"surface": "ובריח", "gloss": "atɛkyɛ"}], "timestamp": "2026-09-15T22:56:18.078005822Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wɔka kyerɛɛ Sawulu sɛ David aba Keilah. Sawulu kaa sɛ, “Eloohim de ⟨את⟩ no ahyɛ me nsa mu, ɛfiri sɛ wɔasie no; ɔkɔɔ kuro a ɛwɔ pono ne atɛkyɛ mu.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Wɔka kyerɛɛ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sawulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawulu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "de no ahyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "me nsa mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "wɔasie no"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ɔkɔɔ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pono"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "atɛkyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:18.078005822Z",
+  "model": "glm-5.3"
+}

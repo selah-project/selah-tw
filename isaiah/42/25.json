@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":25,"ref":"isaiah 42:25","book":"isaiah","lang":"tw","chapter":42,"translation":"Enti wɔguguu abufuo ne n'ani awu guu so, ne ɔko ahoɔhare; ɛhyee no ma ɛtew ho hyiaeɛ, na ɔnnim; ɛhyee no, na ɔde ansie ne akoma.","tokens":[{"surface":"וישפך","gloss":"Enti wɔguguu"},{"surface":"עליו","gloss":"so"},{"surface":"חמה","gloss":"abufuo"},{"surface":"אפו","gloss":"ne n'ani awu"},{"surface":"ועזוז","gloss":"ne ɔko ahoɔhare"},{"surface":"מלחמה","gloss":"ɔko"},{"surface":"ותלהטהו","gloss":"ɛhyee no ma ɛtew"},{"surface":"מסביב","gloss":"ho hyiaeɛ"},{"surface":"ולא","gloss":"na ɔnnim"},{"surface":"ידע","gloss":"nim"},{"surface":"ותבער","gloss":"ɛhyee no"},{"surface":"בו","gloss":"no"},{"surface":"ולא","gloss":"na ɔde ansie"},{"surface":"ישים","gloss":"sie"},{"surface":"על","gloss":"de ... si"},{"surface":"לב","gloss":"ne akoma"}],"timestamp":"2026-09-15T23:55:22.954319863Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Enti wɔguguu abufuo ne n'ani awu guu so, ne ɔko ahoɔhare; ɛhyee no ma ɛtew ho hyiaeɛ, na ɔnnim; ɛhyee no, na ɔde ansie ne akoma.",
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "Enti wɔguguu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ne n'ani awu"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "ne ɔko ahoɔhare"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "ɛhyee no ma ɛtew"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ho hyiaeɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔnnim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ɛhyee no"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔde ansie"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "sie"
+    },
+    {
+      "surface": "על",
+      "gloss": "de ... si"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ne akoma"
+    }
+  ],
+  "timestamp": "2026-09-15T23:55:22.954319863Z",
+  "model": "glm-5.3"
+}

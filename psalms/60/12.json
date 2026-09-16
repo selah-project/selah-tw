@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 60:12","book":"psalms","lang":"tw","chapter":60,"translation":"Ɛnyɛ wo ara, Eloohim, na woagyaw yɛn? na wonkɔ, Eloohim, ne yɛn asraafoɔ no mu anaa?","tokens":[{"surface":"הלא","gloss":"ɛnyɛ ... ara"},{"surface":"אתה","gloss":"wo"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"זנחתנו","gloss":"na woagyaw yɛn"},{"surface":"ולא","gloss":"na wonkɔ"},{"surface":"תצא","gloss":"wonkɔ"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"בצבאותינו","gloss":"Tsevaot"}],"timestamp":"2026-09-16T01:58:28.786335654Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 60,
+  "translation": "Ɛnyɛ wo ara, Eloohim, na woagyaw yɛn? na wonkɔ, Eloohim, ne yɛn asraafoɔ no mu anaa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ɛnyɛ ... ara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "na woagyaw yɛn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wonkɔ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "wonkɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T01:58:28.786335654Z",
+  "model": "glm-5.3"
+}

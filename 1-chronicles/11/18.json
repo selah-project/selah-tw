@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":18,"ref":"1-chronicles 11:18","book":"1-chronicles","lang":"tw","chapter":11,"translation":"Nnipa baasa no bɔɔ wɔn ho mu traa Filistifoɔ asraafoɔ atenaeɛ mu, na wɔsaa nsuo firii Betelehem borɔ a ɛwɔ ɛpono no ase no mu, na wɔfaa so de brɛɛ Dawid; na Dawid ampɛ sɛ ɔbɛnom, na ɔguu ⟨את⟩ no maa Yawe sɛ libation.","tokens":[{"surface":"ויבקעו","gloss":"wɔbɔɔ wɔn ho mu traa"},{"surface":"השלשה","gloss":"nnipa baasa no"},{"surface":"במחנה","gloss":"asraafoɔ atenaeɛ mu"},{"surface":"פלשתים","gloss":"Filistifoɔ"},{"surface":"וישאבו","gloss":"na wɔsaa"},{"surface":"מים","gloss":"nsuo"},{"surface":"מבור","gloss":"firii borɔ"},{"surface":"בית","gloss":"Bete"},{"surface":"לחם","gloss":"lehem"},{"surface":"אשר","gloss":"a"},{"surface":"בשער","gloss":"ɛwɔ ɛpono no ase"},{"surface":"וישאו","gloss":"na wɔfaa so"},{"surface":"ויבאו","gloss":"na wɔde brɛɛ"},{"surface":"אל","gloss":"maa"},{"surface":"דויד","gloss":"Dawid"},{"surface":"ולא","gloss":"na ... am"},{"surface":"אבה","gloss":"pɛ"},{"surface":"דויד","gloss":"Dawid"},{"surface":"לשתותם","gloss":"sɛ ɔbɛnom"},{"surface":"וינסך","gloss":"na ɔguu no maa ... sɛ libation"},{"surface":"אתם","gloss":"⟨את⟩","marks":"no (nsuo a wɔsae no) — Yawe"},{"surface":"ליהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T06:53:20.663213511Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 11:18",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Nnipa baasa no bɔɔ wɔn ho mu traa Filistifoɔ asraafoɔ atenaeɛ mu, na wɔsaa nsuo firii Betelehem borɔ a ɛwɔ ɛpono no ase no mu, na wɔfaa so de brɛɛ Dawid; na Dawid ampɛ sɛ ɔbɛnom, na ɔguu ⟨את⟩ no maa Yawe sɛ libation.",
+  "tokens": [
+    {
+      "surface": "ויבקעו",
+      "gloss": "wɔbɔɔ wɔn ho mu traa"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "nnipa baasa no"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "asraafoɔ atenaeɛ mu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "וישאבו",
+      "gloss": "na wɔsaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "firii borɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bete"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ɛwɔ ɛpono no ase"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "na wɔfaa so"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "na wɔde brɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... am"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשתותם",
+      "gloss": "sɛ ɔbɛnom"
+    },
+    {
+      "surface": "וינסך",
+      "gloss": "na ɔguu no maa ... sɛ libation"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no (nsuo a wɔsae no) — Yawe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T06:53:20.663213511Z",
+  "model": "glm-5.3"
+}

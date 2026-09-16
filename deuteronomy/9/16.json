@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "deuteronomy 9:16", "book": "deuteronomy", "lang": "tw", "chapter": 9, "translation": "Na mehwɛɛ, na hwɛ, ⟨את⟩ moayɛ bɔne atia Yawe, mo Eloohim; moyɛɛ mɔmɔ anantwinwi ma mo ankasa; motewaa ntɛm firi ɔkwan a Yawe hyɛɛ mo ⟨אֶתְכֶם⟩ so.", "tokens": [{"surface": "וארא", "gloss": "Na mehwɛɛ"}, {"surface": "והנה", "gloss": "na hwɛ"}, {"surface": "חטאתם", "gloss": "moayɛ bɔne"}, {"surface": "ליהוה", "gloss": "atia Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "עשיתם", "gloss": "moyɛɛ"}, {"surface": "לכם", "gloss": "ma mo ankasa"}, {"surface": "עגל", "gloss": "anantwinwi"}, {"surface": "מסכה", "gloss": "mɔmɔ"}, {"surface": "סרתם", "gloss": "motewaa"}, {"surface": "מהר", "gloss": "ntɛm"}, {"surface": "מן", "gloss": "firi"}, {"surface": "הדרך", "gloss": "ɔkwan no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}], "timestamp": "2026-09-15T21:49:12.035598566Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 9:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na mehwɛɛ, na hwɛ, ⟨את⟩ moayɛ bɔne atia Yawe, mo Eloohim; moyɛɛ mɔmɔ anantwinwi ma mo ankasa; motewaa ntɛm firi ɔkwan a Yawe hyɛɛ mo ⟨אֶתְכֶם⟩ so.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Na mehwɛɛ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "moayɛ bɔne"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "atia Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "moyɛɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo ankasa"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anantwinwi"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "mɔmɔ"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "motewaa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ntɛm"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ɔkwan no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:12.035598566Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-chronicles 33:3", "book": "2-chronicles", "lang": "tw", "chapter": 33, "translation": "Na ɔsane baa mu, na ɔsii ⟨את⟩ bama-din ahodoɔ a Yizkiyahu n'agya bubuiɛ no bio, na ɔsii ngyinaboa afɔreɛ ma Baalim, na ɔyɛɛ Ashera nsɛntwerɛ, na ɔkɔɔ so worhyɛɛ aseɛ maa ɔsoro asraafoɔ nyinaa, na ɔsomfoo ⟨את⟩ wɔn.", "tokens": [{"surface": "וישב", "gloss": "Na ɔsane baa mu"}, {"surface": "ויבן", "gloss": "na ɔsii ... bio"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bama-din ahodoɔ"}, {"surface": "הבמות", "gloss": "bama-din ahodoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נתץ", "gloss": "bubuiɛ"}, {"surface": "יחזקיהו", "gloss": "Yizkiyahu"}, {"surface": "אביו", "gloss": "n'agya"}, {"surface": "ויקם", "gloss": "na ɔsii"}, {"surface": "מזבחות", "gloss": "ngyinaboa afɔreɛ"}, {"surface": "לבעלים", "gloss": "ma Baalim"}, {"surface": "ויעש", "gloss": "na ɔyɛɛ"}, {"surface": "אשרות", "gloss": "Ashera nsɛntwerɛ"}, {"surface": "וישתחו", "gloss": "na ɔkɔɔ so worhyɛɛ aseɛ maa"}, {"surface": "לכל", "gloss": "nyinaa"}, {"surface": "צבא", "gloss": "asraafoɔ"}, {"surface": "השמים", "gloss": "ɔsoro"}, {"surface": "ויעבד", "gloss": "na ɔsomfoo"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn", "marks": "ɔsoro asraafoɔ"}], "timestamp": "2026-09-16T05:11:04.468486512Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na ɔsane baa mu, na ɔsii ⟨את⟩ bama-din ahodoɔ a Yizkiyahu n'agya bubuiɛ no bio, na ɔsii ngyinaboa afɔreɛ ma Baalim, na ɔyɛɛ Ashera nsɛntwerɛ, na ɔkɔɔ so worhyɛɛ aseɛ maa ɔsoro asraafoɔ nyinaa, na ɔsomfoo ⟨את⟩ wɔn.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Na ɔsane baa mu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na ɔsii ... bio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bama-din ahodoɔ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bama-din ahodoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "bubuiɛ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yizkiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "na ɔsii"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ngyinaboa afɔreɛ"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ma Baalim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "Ashera nsɛntwerɛ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "na ɔkɔɔ so worhyɛɛ aseɛ maa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "na ɔsomfoo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "ɔsoro asraafoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:11:04.468486512Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "2-samuel 16:9", "book": "2-samuel", "lang": "tw", "chapter": 16, "translation": "Abishai, Tserujah ba, bɛkaa kyerɛɛ ɔhene no sɛ, adɛn nti na ɔkraman odi awu yi rebua ⟨אֵת⟩ ⟨את⟩ me wura ɔhene no? Ma mennfa so, mepa wo kyɛw, na manyi ⟨אֵת⟩ ⟨את⟩ ne ti.", "tokens": [{"surface": "ויאמר", "gloss": "kaa"}, {"surface": "אבישי", "gloss": "Abishai"}, {"surface": "בן", "gloss": "ba"}, {"surface": "צרויה", "gloss": "Tserujah"}, {"surface": "אל", "gloss": "kyerɛ"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "למה", "gloss": "adɛn nti na"}, {"surface": "יקלל", "gloss": "rebua"}, {"surface": "הכלב", "gloss": "ɔkraman no"}, {"surface": "המת", "gloss": "odi awu"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me wura ɔhene no"}, {"surface": "אדני", "gloss": "me wura"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "אעברה", "gloss": "mennfa so"}, {"surface": "נא", "gloss": "mepa wo kyɛw"}, {"surface": "ואסירה", "gloss": "na manyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne ti"}, {"surface": "ראשו", "gloss": "ne ti"}], "timestamp": "2026-09-15T23:07:25.090043317Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 16:9",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Abishai, Tserujah ba, bɛkaa kyerɛɛ ɔhene no sɛ, adɛn nti na ɔkraman odi awu yi rebua ⟨אֵת⟩ ⟨את⟩ me wura ɔhene no? Ma mennfa so, mepa wo kyɛw, na manyi ⟨אֵת⟩ ⟨את⟩ ne ti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "למה",
+      "gloss": "adɛn nti na"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "rebua"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ɔkraman no"
+    },
+    {
+      "surface": "המת",
+      "gloss": "odi awu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me wura ɔhene no"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "mennfa so"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "na manyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne ti"
+    }
+  ],
+  "timestamp": "2026-09-15T23:07:25.090043317Z",
+  "model": "glm-5.3"
+}

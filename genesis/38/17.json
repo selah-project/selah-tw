@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":17,"ref":"genesis 38:17","book":"genesis","lang":"tw","chapter":38,"translation":"Ɔkaa sɛ: Mɛsom wo gidi ananwa firi nkwammoaa mu. Na ɔkaa sɛ: Sɛ wo ma me adeɛ a wode bɛhyɛ me nkɔmmɔdi mu de kɔsi sɛ wo som no, na mɛgye.","tokens":[{"surface":"ויאמר","gloss":"Ɔkaa sɛ"},{"surface":"אנכי","gloss":"me"},{"surface":"אשלח","gloss":"mɛsom"},{"surface":"גדי","gloss":"gidi"},{"surface":"עזים","gloss":"ananwa"},{"surface":"מן","gloss":"firi"},{"surface":"הצאן","gloss":"nkwammoaa mu"},{"surface":"ותאמר","gloss":"na ɔkaa sɛ"},{"surface":"אם","gloss":"sɛ"},{"surface":"תתן","gloss":"wo ma"},{"surface":"ערבון","gloss":"adeɛ a wode bɛhyɛ me nkɔmmɔdi mu"},{"surface":"עד","gloss":"de kɔsi sɛ"},{"surface":"שלחך","gloss":"wo som no"}],"timestamp":"2026-09-15T20:36:05.852038067Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Ɔkaa sɛ: Mɛsom wo gidi ananwa firi nkwammoaa mu. Na ɔkaa sɛ: Sɛ wo ma me adeɛ a wode bɛhyɛ me nkɔmmɔdi mu de kɔsi sɛ wo som no, na mɛgye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔkaa sɛ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mɛsom"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "gidi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ananwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkwammoaa mu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wo ma"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "adeɛ a wode bɛhyɛ me nkɔmmɔdi mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔsi sɛ"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "wo som no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:05.852038067Z",
+  "model": "glm-5.3"
+}

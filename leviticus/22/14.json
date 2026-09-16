@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":14,"ref":"leviticus 22:14","book":"leviticus","lang":"tw","chapter":22,"translation":"Na sɛ onipa bi di kronkronne wɔ bɔne mu a, ɔde n'enum-ɛfa ka no ho, na ɔde ⟨את⟩ kronkronne no ma ɔsɔfoɔ no.","tokens":[{"surface":"ואיש","gloss":"Na sɛ onipa bi"},{"surface":"כי","gloss":"sɛ"},{"surface":"יאכל","gloss":"di"},{"surface":"קדש","gloss":"kronkronne"},{"surface":"בשגגה","gloss":"wɔ bɔne mu"},{"surface":"ויסף","gloss":"ɔde ka ho"},{"surface":"חמשיתו","gloss":"n'enum-ɛfa"},{"surface":"עליו","gloss":"no ho"},{"surface":"ונתן","gloss":"ɔma"},{"surface":"לכהן","gloss":"ɔsɔfoɔ no"},{"surface":"את","gloss":"⟨את⟩","marks":"kronkronne no"},{"surface":"הקדש","gloss":"kronkronne no"}],"timestamp":"2026-09-16T06:55:21.592918797Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na sɛ onipa bi di kronkronne wɔ bɔne mu a, ɔde n'enum-ɛfa ka no ho, na ɔde ⟨את⟩ kronkronne no ma ɔsɔfoɔ no.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na sɛ onipa bi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "di"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkronne"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "wɔ bɔne mu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ɔde ka ho"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "n'enum-ɛfa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ɔma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kronkronne no"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkronne no"
+    }
+  ],
+  "timestamp": "2026-09-16T06:55:21.592918797Z",
+  "model": "glm-5.3"
+}

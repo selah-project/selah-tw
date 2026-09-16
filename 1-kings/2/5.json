@@ -1,1 +1,158 @@
-{"tier":"glm-5.2","verse":5,"ref":"1-kings 2:5","book":"1-kings","lang":"tw","chapter":2,"translation":"Na wonim nso ⟨את⟩ de Yoab, Tserujah ba, yɛɛ me no, ne de ɔyɛɛ Yisrael asraafoɔ akannifoɔ mmienu no — Abner, Ner ba, ne Amasa, Yeter ba: ɔkumm wɔn, ɔde ɔko mogya guu asomdwoeɛ mu, na ɔde ɔko mogya hyɛɛ ntadeɛ a ɔkaa ne yam mu ne ne mpaboa a ɛwɔ n'anan so no mu.","tokens":[{"surface":"וגם","gloss":"nso"},{"surface":"אתה","gloss":"wo"},{"surface":"ידעת","gloss":"wonim"},{"surface":"את","gloss":"⟨את⟩","marks":"de Yoab yɛɛ me"},{"surface":"אשר","gloss":"de"},{"surface":"עשה","gloss":"yɛɛ"},{"surface":"לי","gloss":"me"},{"surface":"יואב","gloss":"Yoab"},{"surface":"בן","gloss":"ba"},{"surface":"צרויה","gloss":"Tserujah"},{"surface":"אשר","gloss":"de"},{"surface":"עשה","gloss":"yɛɛ"},{"surface":"לשני","gloss":"mmienu"},{"surface":"שרי","gloss":"akannifoɔ"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"לאבנר","gloss":"Abner"},{"surface":"בן","gloss":"ba"},{"surface":"נר","gloss":"Ner"},{"surface":"ולעמשא","gloss":"ne Amasa"},{"surface":"בן","gloss":"ba"},{"surface":"יתר","gloss":"Yeter"},{"surface":"ויהרגם","gloss":"ɔkumm wɔn"},{"surface":"וישם","gloss":"ɔde...guu"},{"surface":"דמי","gloss":"mogya"},{"surface":"מלחמה","gloss":"ɔko"},{"surface":"בשלם","gloss":"asomdwoeɛ mu"},{"surface":"ויתן","gloss":"ɔde...hyɛɛ"},{"surface":"דמי","gloss":"mogya"},{"surface":"מלחמה","gloss":"ɔko"},{"surface":"בחגרתו","gloss":"ntadeɛ a ɔkaa"},{"surface":"אשר","gloss":"a"},{"surface":"במתניו","gloss":"ne yam mu"},{"surface":"ובנעלו","gloss":"ne mpaboa"},{"surface":"אשר","gloss":"a"},{"surface":"ברגליו","gloss":"n'anan so"}],"timestamp":"2026-09-15T23:13:20.036518281Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 2:5",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na wonim nso ⟨את⟩ de Yoab, Tserujah ba, yɛɛ me no, ne de ɔyɛɛ Yisrael asraafoɔ akannifoɔ mmienu no — Abner, Ner ba, ne Amasa, Yeter ba: ɔkumm wɔn, ɔde ɔko mogya guu asomdwoeɛ mu, na ɔde ɔko mogya hyɛɛ ntadeɛ a ɔkaa ne yam mu ne ne mpaboa a ɛwɔ n'anan so no mu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wonim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Yoab yɛɛ me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "ולעמשא",
+      "gloss": "ne Amasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "ɔkumm wɔn"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ɔde...guu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "asomdwoeɛ mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ɔde...hyɛɛ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "בחגרתו",
+      "gloss": "ntadeɛ a ɔkaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "ne yam mu"
+    },
+    {
+      "surface": "ובנעלו",
+      "gloss": "ne mpaboa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "n'anan so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:20.036518281Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "deuteronomy 8:5", "book": "deuteronomy", "lang": "tw", "chapter": 8, "translation": "Na woahunu w'akoma mu sɛ, sɛdeɛ ɔbarima tetew ⟨את⟩ ne ba no, saa na Yawe wo Eloohim tetew wo.", "tokens": [{"surface": "וידעת", "gloss": "na woahunu"}, {"surface": "עם", "gloss": "wɔ"}, {"surface": "לבבך", "gloss": "w'akoma mu"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "כאשר", "gloss": "sɛdeɛ"}, {"surface": "ייסר", "gloss": "tetew"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne ba"}, {"surface": "בנו", "gloss": "ne ba"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיך", "gloss": "wo Eloohim"}, {"surface": "מיסרך", "gloss": "tetew wo"}], "timestamp": "2026-09-15T21:48:45.541676361Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na woahunu w'akoma mu sɛ, sɛdeɛ ɔbarima tetew ⟨את⟩ ne ba no, saa na Yawe wo Eloohim tetew wo.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "na woahunu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "w'akoma mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "tetew"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "tetew wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:45.541676361Z",
+  "model": "glm-5.3"
+}

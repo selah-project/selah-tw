@@ -1,1 +1,106 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-chronicles 13:3", "book": "2-chronicles", "lang": "tw", "chapter": 13, "translation": "Na Abiya de asraafoɔ a wɔyɛ akokodurofoɔ wɔ ⟨את⟩ ɔko mu sɔɔ ɔko no — nnipa ɔha anan apem a wɔapa wɔn — na Yarobeam nso siesiee ɔko no ne ho ano nnipa ɔha nnwɔn apem a wɔapa wɔn, akokodurofoɔ a wɔwɔ ahoɔden.", "tokens": [{"surface": "ויאסר", "gloss": "sɔɔ ɔko no"}, {"surface": "אביה", "gloss": "Abiya"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔko no"}, {"surface": "המלחמה", "gloss": "ɔko"}, {"surface": "בחיל", "gloss": "de asraafoɔ"}, {"surface": "גבורי", "gloss": "akokodurofoɔ"}, {"surface": "מלחמה", "gloss": "wɔ ɔko mu"}, {"surface": "ארבע", "gloss": "anan"}, {"surface": "מאות", "gloss": "ɔha"}, {"surface": "אלף", "gloss": "apem"}, {"surface": "איש", "gloss": "nnipa"}, {"surface": "בחור", "gloss": "a wɔapa wɔn"}, {"surface": "וירבעם", "gloss": "Yarobeam nso"}, {"surface": "ערך", "gloss": "siesiee ... ano"}, {"surface": "עמו", "gloss": "ne ho"}, {"surface": "מלחמה", "gloss": "ɔko"}, {"surface": "בשמונה", "gloss": "nnwɔn"}, {"surface": "מאות", "gloss": "ɔha"}, {"surface": "אלף", "gloss": "apem"}, {"surface": "איש", "gloss": "nnipa"}, {"surface": "בחור", "gloss": "a wɔapa wɔn"}, {"surface": "גבור", "gloss": "akokodurofoɔ"}, {"surface": "חיל", "gloss": "a wɔwɔ ahoɔden"}], "timestamp": "2026-09-16T04:59:30.336744901Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 13:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Abiya de asraafoɔ a wɔyɛ akokodurofoɔ wɔ ⟨את⟩ ɔko mu sɔɔ ɔko no — nnipa ɔha anan apem a wɔapa wɔn — na Yarobeam nso siesiee ɔko no ne ho ano nnipa ɔha nnwɔn apem a wɔapa wɔn, akokodurofoɔ a wɔwɔ ahoɔden.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "sɔɔ ɔko no"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔko no"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "de asraafoɔ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "akokodurofoɔ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wɔ ɔko mu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "a wɔapa wɔn"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "Yarobeam nso"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "siesiee ... ano"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "בשמונה",
+      "gloss": "nnwɔn"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "a wɔapa wɔn"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "akokodurofoɔ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "a wɔwɔ ahoɔden"
+    }
+  ],
+  "timestamp": "2026-09-16T04:59:30.336744901Z",
+  "model": "glm-5.3"
+}

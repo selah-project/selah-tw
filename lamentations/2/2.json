@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "lamentations 2:2", "book": "lamentations", "lang": "tw", "chapter": 2, "translation": "Adonai asɔ Yakyob afuo ahodoɔ ⟨את⟩ nyinaa ano, na ampɛ ho: ɔsɛee Yuda ba nkuro a wɔabɔ ho ban wɔ ne dɔme mu, ɔde baa asase so; ɔmaa ahenni ne ne mpanyimfi bɔne.", "tokens": [{"surface": "בלע", "gloss": "asɔ ano"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "לא", "gloss": "na ampɛ"}, {"surface": "חמל", "gloss": "ho hwee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yakyob afuo ahodoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "נאות", "gloss": "afuo ahodoɔ"}, {"surface": "יעקב", "gloss": "Yakyob"}, {"surface": "הרס", "gloss": "ɔsɛee"}, {"surface": "בעברתו", "gloss": "wɔ ne dɔme mu"}, {"surface": "מבצרי", "gloss": "nkuro a wɔabɔ ho ban"}, {"surface": "בת", "gloss": "ba"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "הגיע", "gloss": "ɔde baa"}, {"surface": "לארץ", "gloss": "asase so"}, {"surface": "חלל", "gloss": "ɔmaa bɔne"}, {"surface": "ממלכה", "gloss": "ahenni"}, {"surface": "ושריה", "gloss": "ne ne mpanyimfi"}], "timestamp": "2026-09-16T03:50:10.610369143Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 2:2",
+  "book": "lamentations",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Adonai asɔ Yakyob afuo ahodoɔ ⟨את⟩ nyinaa ano, na ampɛ ho: ɔsɛee Yuda ba nkuro a wɔabɔ ho ban wɔ ne dɔme mu, ɔde baa asase so; ɔmaa ahenni ne ne mpanyimfi bɔne.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "asɔ ano"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na ampɛ"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "ho hwee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakyob afuo ahodoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "afuo ahodoɔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakyob"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ɔsɛee"
+    },
+    {
+      "surface": "בעברתו",
+      "gloss": "wɔ ne dɔme mu"
+    },
+    {
+      "surface": "מבצרי",
+      "gloss": "nkuro a wɔabɔ ho ban"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "ɔde baa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ɔmaa bɔne"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ahenni"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ne ne mpanyimfi"
+    }
+  ],
+  "timestamp": "2026-09-16T03:50:10.610369143Z",
+  "model": "glm-5.3"
+}

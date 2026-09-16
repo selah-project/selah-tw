@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "exodus 29:5", "book": "exodus", "lang": "tw", "chapter": 29, "translation": "Na wo bɛfa ⟨את⟩ ntadeɛ no, na wo de ⟨את⟩ kutonet ayɛ ⟨את⟩ Aharon, ⟨את⟩ me'il a ɛwɔ efod no mu, ne ⟨את⟩ efod no, ne ⟨את⟩ hoshen no; na wo bɛkyekyere no wɔ efod no nkabomde mu.", "tokens": [{"surface": "ולקחת", "gloss": "Na wo bɛfa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ntadeɛ no"}, {"surface": "הבגדים", "gloss": "ntadeɛ no"}, {"surface": "והלבשת", "gloss": "na wo de ... ayɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kutonet"}, {"surface": "הכתנת", "gloss": "kutonet"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "me'il a ɛwɔ efod no mu"}, {"surface": "מעיל", "gloss": "me'il"}, {"surface": "האפד", "gloss": "efod no"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "efod no"}, {"surface": "האפד", "gloss": "efod no"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "hoshen no"}, {"surface": "החשן", "gloss": "hoshen no"}, {"surface": "ואפדת", "gloss": "na wo bɛkyekyere"}, {"surface": "לו", "gloss": "no"}, {"surface": "בחשב", "gloss": "wɔ ... nkabomde mu"}, {"surface": "האפד", "gloss": "efod no"}], "timestamp": "2026-09-15T20:59:42.816510036Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wo bɛfa ⟨את⟩ ntadeɛ no, na wo de ⟨את⟩ kutonet ayɛ ⟨את⟩ Aharon, ⟨את⟩ me'il a ɛwɔ efod no mu, ne ⟨את⟩ efod no, ne ⟨את⟩ hoshen no; na wo bɛkyekyere no wɔ efod no nkabomde mu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Na wo bɛfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntadeɛ no"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ntadeɛ no"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "na wo de ... ayɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutonet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "me'il a ɛwɔ efod no mu"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "me'il"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "efod no"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "hoshen no"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen no"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "na wo bɛkyekyere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "wɔ ... nkabomde mu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:59:42.816510036Z",
+  "model": "glm-5.3"
+}

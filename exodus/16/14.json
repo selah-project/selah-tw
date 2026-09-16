@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":14,"ref":"exodus 16:14","book":"exodus","lang":"tw","chapter":16,"translation":"Sikra no sɔree, na hwɛ — wɔ asare no ani so no, na ɛyɛ nkekahi nketewa, ketewaa sɛ ntuntum-sikra wɔ asase no so.","tokens":[{"surface":"ותעל","gloss":"sɔree"},{"surface":"שכבת","gloss":"sikrabɔ"},{"surface":"הטל","gloss":"nsuo-sikra"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"על","gloss":"so"},{"surface":"פני","gloss":"ani"},{"surface":"המדבר","gloss":"asare no"},{"surface":"דק","gloss":"ketewa"},{"surface":"מחספס","gloss":"nkekahi"},{"surface":"דק","gloss":"ketewaa"},{"surface":"ככפר","gloss":"sɛ ntuntum-sikra"},{"surface":"על","gloss":"so"},{"surface":"הארץ","gloss":"asase no"}],"timestamp":"2026-09-15T20:53:10.460808878Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Sikra no sɔree, na hwɛ — wɔ asare no ani so no, na ɛyɛ nkekahi nketewa, ketewaa sɛ ntuntum-sikra wɔ asase no so.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "sikrabɔ"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "nsuo-sikra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "asare no"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ketewa"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "nkekahi"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ketewaa"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "sɛ ntuntum-sikra"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:53:10.460808878Z",
+  "model": "glm-5.3"
+}

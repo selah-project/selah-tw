@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "2-chronicles 10:18", "book": "2-chronicles", "lang": "tw", "chapter": 10, "translation": "Na ɔhene Rechabam somaa ⟨את⟩ Hadoram, deɛ ɔda asɛsoɔ adwuma no so; na Yisrael mma bumuu no abo, na ɔwuiɛ; na ɔhene Rechabam ne ho den bɛkɔɔ ne marekaba mu a ɔreto nkwannya akɔ Yerusalem.", "tokens": [{"surface": "וישלח", "gloss": "somaa"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "רחבעם", "gloss": "Rechabam"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Hadoram"}, {"surface": "הדרם", "gloss": "Hadoram"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "על", "gloss": "ɔda... so"}, {"surface": "המס", "gloss": "asɛsoɔ adwuma no"}, {"surface": "וירגמו", "gloss": "bumuu"}, {"surface": "בו", "gloss": "no"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "אבן", "gloss": "abo"}, {"surface": "וימת", "gloss": "na ɔwuiɛ"}, {"surface": "והמלך", "gloss": "na ɔhene"}, {"surface": "רחבעם", "gloss": "Rechabam"}, {"surface": "התאמץ", "gloss": "ne ho den bɛ"}, {"surface": "לעלות", "gloss": "kɔɔ"}, {"surface": "במרכבה", "gloss": "marekaba mu"}, {"surface": "לנוס", "gloss": "a ɔreto nkwannya"}, {"surface": "ירושלם", "gloss": "Yerusalem"}], "timestamp": "2026-09-16T04:58:01.368857341Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 10:18",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɔhene Rechabam somaa ⟨את⟩ Hadoram, deɛ ɔda asɛsoɔ adwuma no so; na Yisrael mma bumuu no abo, na ɔwuiɛ; na ɔhene Rechabam ne ho den bɛkɔɔ ne marekaba mu a ɔreto nkwannya akɔ Yerusalem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדרם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɔda... so"
+    },
+    {
+      "surface": "המס",
+      "gloss": "asɛsoɔ adwuma no"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "bumuu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "abo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na ɔwuiɛ"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "na ɔhene"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "התאמץ",
+      "gloss": "ne ho den bɛ"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "marekaba mu"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "a ɔreto nkwannya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:01.368857341Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":27,"ref":"numbers 11:27","book":"numbers","lang":"tw","chapter":11,"translation":"Na ɔbaa naruna yɛɛ ahomeka kɔɔ Mosɛh nkyɛn, na ɔbɔɔ no amane sɛ: Eldad ne Medad reyɛ amanhunu wɔ asɔredan-kɛseɛ mu.","tokens":[{"surface":"וירץ","gloss":"yɛɛ ahomeka"},{"surface":"הנער","gloss":"ɔbaa naruna"},{"surface":"ויגד","gloss":"bɔɔ amane"},{"surface":"למשה","gloss":"kyerɛɛ Mosɛh"},{"surface":"ויאמר","gloss":"na ɔkaa sɛ"},{"surface":"אלדד","gloss":"Eldad"},{"surface":"ומידד","gloss":"ne Medad"},{"surface":"מתנבאים","gloss":"reyɛ amanhunu"},{"surface":"במחנה","gloss":"wɔ asɔredan-kɛseɛ mu"}],"timestamp":"2026-09-15T21:31:03.864154600Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 11:27",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɔbaa naruna yɛɛ ahomeka kɔɔ Mosɛh nkyɛn, na ɔbɔɔ no amane sɛ: Eldad ne Medad reyɛ amanhunu wɔ asɔredan-kɛseɛ mu.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "yɛɛ ahomeka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ɔbaa naruna"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bɔɔ amane"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kyerɛɛ Mosɛh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אלדד",
+      "gloss": "Eldad"
+    },
+    {
+      "surface": "ומידד",
+      "gloss": "ne Medad"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "reyɛ amanhunu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "wɔ asɔredan-kɛseɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:31:03.864154600Z",
+  "model": "glm-5.3"
+}

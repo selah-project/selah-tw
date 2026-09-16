@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":6,"ref":"deuteronomy 33:6","book":"deuteronomy","lang":"tw","chapter":33,"translation":"Ruben, mmra nkwa, na wonnwu; na ɔmmɛbu ne mmarima dodoɔ.","tokens":[{"surface":"יחי","gloss":"mmra nkwa"},{"surface":"ראובן","gloss":"Ruben"},{"surface":"ואל","gloss":"na ɔnni"},{"surface":"ימת","gloss":"wnnwu"},{"surface":"ויהי","gloss":"na ɔnyɛ"},{"surface":"מתיו","gloss":"ne mmarima"},{"surface":"מספר","gloss":"dodoɔ"}],"timestamp":"2026-09-15T22:00:04.364102355Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Ruben, mmra nkwa, na wonnwu; na ɔmmɛbu ne mmarima dodoɔ.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "mmra nkwa"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ɔnni"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "wnnwu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɔnyɛ"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ne mmarima"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "dodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:04.364102355Z",
+  "model": "glm-5.3"
+}

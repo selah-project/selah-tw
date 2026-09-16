@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "jeremiah 7:15", "book": "jeremiah", "lang": "tw", "chapter": 7, "translation": "Na mɛto ⟨את⟩ mo guu afiri me anim, sɛnea meto ⟨את⟩ mo nuanom nyinaa guu, ⟨את⟩ Efraim ase nyinaa.", "tokens": [{"surface": "והשלכתי", "gloss": "na mɛto … guu"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "מעל", "gloss": "afiri"}, {"surface": "פני", "gloss": "me anim"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "השלכתי", "gloss": "meto … guu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo nuanom nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אחיכם", "gloss": "mo nuanom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Efraim ase nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "זרע", "gloss": "ase"}, {"surface": "אפרים", "gloss": "Efraim"}], "timestamp": "2026-09-16T00:08:47.124946516Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na mɛto ⟨את⟩ mo guu afiri me anim, sɛnea meto ⟨את⟩ mo nuanom nyinaa guu, ⟨את⟩ Efraim ase nyinaa.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "na mɛto … guu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "afiri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "meto … guu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo nuanom nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mo nuanom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim ase nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ase"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-09-16T00:08:47.124946516Z",
+  "model": "glm-5.3"
+}

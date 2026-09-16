@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":7,"ref":"jeremiah 29:7","book":"jeremiah","lang":"tw","chapter":29,"translation":"Na hwehwɛ ⟨את⟩ kurow no ⟨את⟩ asomdwoeɛ a metuw mo kɔɔ hɔ no, na mompaeɛ wɔ ne ho kɔ Yawe; ɛfiri sɛ wɔ ne asomdwoeɛ mu na asomdwoeɛ bɛba mo so.","tokens":[{"surface":"ודרשו","gloss":"Na hwehwɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"kurow no asomdwoeε"},{"surface":"שלום","gloss":"asomdwoeɛ"},{"surface":"העיר","gloss":"kurow no"},{"surface":"אשר","gloss":"a"},{"surface":"הגליתי","gloss":"metuw mo kɔɔ"},{"surface":"אתכם","gloss":"⟨את⟩ mo"},{"surface":"שמה","gloss":"hɔ"},{"surface":"והתפללו","gloss":"na mompaeɛ"},{"surface":"בעדה","gloss":"wɔ ne ho"},{"surface":"אל","gloss":"kɔ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בשלומה","gloss":"wɔ ne asomdwoeɛ mu"},{"surface":"יהיה","gloss":"bɛba"},{"surface":"לכם","gloss":"mo so"},{"surface":"שלום","gloss":"asomdwoeɛ"}],"timestamp":"2026-09-16T00:18:16.311128856Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na hwehwɛ ⟨את⟩ kurow no ⟨את⟩ asomdwoeɛ a metuw mo kɔɔ hɔ no, na mompaeɛ wɔ ne ho kɔ Yawe; ɛfiri sɛ wɔ ne asomdwoeɛ mu na asomdwoeɛ bɛba mo so.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "Na hwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurow no asomdwoeε"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "metuw mo kɔɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "na mompaeɛ"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "wɔ ne ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "wɔ ne asomdwoeɛ mu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "asomdwoeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:18:16.311128856Z",
+  "model": "glm-5.3"
+}

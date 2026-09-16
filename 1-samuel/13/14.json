@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "1-samuel 13:14", "book": "1-samuel", "lang": "tw", "chapter": 13, "translation": "Nanso seisiɛi wo ahennie no rennyina; ɛfiri sɛ Yawe ahwehwɛ nipa a n'akoma sɛ ne dea, na Yawe ahyɛ no sɛ ɔnnɛ wɔn so sɛ nkwankwaafoɔ panin, ɛfiri sɛ wɔammora ⟨את⟩ deɛ Yawe hyɛɛ wo so no.", "tokens": [{"surface": "ועתה", "gloss": "Nanso seisiɛi"}, {"surface": "ממלכתך", "gloss": "wo ahennie"}, {"surface": "לא", "gloss": "ren"}, {"surface": "תקום", "gloss": "nyina"}, {"surface": "בקש", "gloss": "ahwehwɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לו", "gloss": "ne dea"}, {"surface": "איש", "gloss": "nipa"}, {"surface": "כלבבו", "gloss": "a n'akoma sɛ ne dea"}, {"surface": "ויצוהו", "gloss": "na ... ahyɛ no"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לנגיד", "gloss": "sɛ ɔnnɛ wɔn so sɛ nkwankwaafoɔ panin"}, {"surface": "על", "gloss": "so"}, {"surface": "עמו", "gloss": "nmanfoɔ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "an"}, {"surface": "שמרת", "gloss": "wɔammora"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ ... no"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "צוך", "gloss": "hyɛɛ wo so"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T22:51:24.826987399Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 13:14",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Nanso seisiɛi wo ahennie no rennyina; ɛfiri sɛ Yawe ahwehwɛ nipa a n'akoma sɛ ne dea, na Yawe ahyɛ no sɛ ɔnnɛ wɔn so sɛ nkwankwaafoɔ panin, ɛfiri sɛ wɔammora ⟨את⟩ deɛ Yawe hyɛɛ wo so no.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nanso seisiɛi"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "wo ahennie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ahwehwɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nipa"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "a n'akoma sɛ ne dea"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "na ... ahyɛ no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "sɛ ɔnnɛ wɔn so sɛ nkwankwaafoɔ panin"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nmanfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "wɔammora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ... no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "hyɛɛ wo so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:51:24.826987399Z",
+  "model": "glm-5.3"
+}

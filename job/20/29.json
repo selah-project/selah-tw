@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":29,"ref":"job 20:29","book":"job","lang":"tw","chapter":20,"translation":"Eyi ne onipa ɔyɛfoɔ no kyɛ a efi Eloohim nkyɛn, ne ne asɛm no agyapadeɛ a El na ⟨ɔde⟩ ahyɛ ne nsa.","tokens":[{"surface":"זה","gloss":"Eyi"},{"surface":"חלק","gloss":"kyɛ"},{"surface":"אדם","gloss":"onipa"},{"surface":"רשע","gloss":"ɔyɛfoɔ"},{"surface":"מאלהים","gloss":"efi Eloohim nkyɛn"},{"surface":"ונחלת","gloss":"ne ... agyapadeɛ"},{"surface":"אמרו","gloss":"ne asɛm"},{"surface":"מאל","gloss":"efi El nkyɛn"}],"timestamp":"2026-09-16T03:20:03.818864469Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 20:29",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Eyi ne onipa ɔyɛfoɔ no kyɛ a efi Eloohim nkyɛn, ne ne asɛm no agyapadeɛ a El na ⟨ɔde⟩ ahyɛ ne nsa.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Eyi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "kyɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔyɛfoɔ"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "efi Eloohim nkyɛn"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ne ... agyapadeɛ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ne asɛm"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "efi El nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T03:20:03.818864469Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,51 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "ezekiel 20:4", "book": "ezekiel", "lang": "tw", "chapter": 20, "translation": "Wobɛbu wɔn asɛm anaa, ⟨את⟩ wobɛbu wɔn asɛm, Onipa ba? Ma wɔn nyɛ adwuma wɔ wɔn agyapadeɛ ⟨את⟩ nkwaseasɛm ho:", "tokens": [{"surface": "התשפט", "gloss": "Wobɛbu ... asɛm"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "התשפוט", "gloss": "wobɛbu wɔn asɛm"}, {"surface": "בן", "gloss": "ba"}, {"surface": "אדם", "gloss": "Onipa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nkwaseasɛm (abomination)"}, {"surface": "תועבת", "gloss": "nkwaseasɛm"}, {"surface": "אבותם", "gloss": "wɔn agyapadeɛ (agyanom)"}, {"surface": "הודיעם", "gloss": "Ma wɔn nyɛ adwuma (hyɛ wɔn)"}], "timestamp": "2026-09-16T00:42:28.930355297Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Wobɛbu wɔn asɛm anaa, ⟨את⟩ wobɛbu wɔn asɛm, Onipa ba? Ma wɔn nyɛ adwuma wɔ wɔn agyapadeɛ ⟨את⟩ nkwaseasɛm ho:",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Wobɛbu ... asɛm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "wobɛbu wɔn asɛm"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Onipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkwaseasɛm (abomination)"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "nkwaseasɛm"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "wɔn agyapadeɛ (agyanom)"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Ma wɔn nyɛ adwuma (hyɛ wɔn)"
+    }
+  ],
+  "timestamp": "2026-09-16T00:42:28.930355297Z",
+  "model": "glm-5.3"
+}

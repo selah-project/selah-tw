@@ -1,1 +1,122 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "jeremiah 3:1", "book": "jeremiah", "lang": "tw", "chapter": 3, "translation": "Sɛnea wɔka no sɛ: Hwɛ, sɛ ɔbarima yii ⟨את⟩ ne yere ⟨את⟩ firii ne hɔ, na ɔkɔɔ bɛyɛɛ ɔbarima foforo dea, a ɔbɛsan aba ne ho bio da? Ana ɛnyɛ sɛ asase no no bɛhye aseɛ koraa? Na wo, woama w'aguadi adi ne dodoɔ ara; nanso san bra me so, Yawe nsɛm.", "tokens": [{"surface": "לאמר", "gloss": "sɛnea wɔka no"}, {"surface": "הן", "gloss": "hwɛ"}, {"surface": "ישלח", "gloss": "yii"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne yere"}, {"surface": "אשתו", "gloss": "ne yere"}, {"surface": "והלכה", "gloss": "na ɔkɔɔ"}, {"surface": "מאתו", "gloss": "firii ⟨את⟩ ne hɔ"}, {"surface": "והיתה", "gloss": "bɛyɛɛ"}, {"surface": "לאיש", "gloss": "ɔbarima"}, {"surface": "אחר", "gloss": "foforo dea"}, {"surface": "הישוב", "gloss": "a ɔbɛsan aba"}, {"surface": "אליה", "gloss": "ne ho"}, {"surface": "עוד", "gloss": "bio"}, {"surface": "הלוא", "gloss": "ana ɛnyɛ sɛ"}, {"surface": "חנוף", "gloss": "ahye aseɛ koraa"}, {"surface": "תחנף", "gloss": "bɛhye"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "ההיא", "gloss": "no"}, {"surface": "ואת", "gloss": "na wo"}, {"surface": "זנית", "gloss": "woama w'aguadi adi"}, {"surface": "רעים", "gloss": "nnamfo"}, {"surface": "רבים", "gloss": "dodoɔ ara"}, {"surface": "ושוב", "gloss": "nanso san"}, {"surface": "אלי", "gloss": "bra me so"}, {"surface": "נאם", "gloss": "deɛ"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T00:07:06.962315593Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 3:1",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Sɛnea wɔka no sɛ: Hwɛ, sɛ ɔbarima yii ⟨את⟩ ne yere ⟨את⟩ firii ne hɔ, na ɔkɔɔ bɛyɛɛ ɔbarima foforo dea, a ɔbɛsan aba ne ho bio da? Ana ɛnyɛ sɛ asase no no bɛhye aseɛ koraa? Na wo, woama w'aguadi adi ne dodoɔ ara; nanso san bra me so, Yawe nsɛm.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sɛnea wɔka no"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "yii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yere"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ne yere"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "na ɔkɔɔ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "firii ⟨את⟩ ne hɔ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bɛyɛɛ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforo dea"
+    },
+    {
+      "surface": "הישוב",
+      "gloss": "a ɔbɛsan aba"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ana ɛnyɛ sɛ"
+    },
+    {
+      "surface": "חנוף",
+      "gloss": "ahye aseɛ koraa"
+    },
+    {
+      "surface": "תחנף",
+      "gloss": "bɛhye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "זנית",
+      "gloss": "woama w'aguadi adi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "nnamfo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dodoɔ ara"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "nanso san"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bra me so"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:07:06.962315593Z",
+  "model": "glm-5.3"
+}

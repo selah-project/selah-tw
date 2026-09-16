@@ -1,1 +1,118 @@
-{"tier":"glm-5.2","verse":3,"ref":"deuteronomy 16:3","book":"deuteronomy","lang":"tw","chapter":16,"translation":"Nni biribiara a ɛwɔ ɛdam no ho; nna nson na wo bɛdi mmɔsa wɔ so — aduan amane — ɛfiri sɛ wɔ ahoɔhare mu na wo firii Misraim asase; sɛnea wo benka ⟨את⟩ da a wo firii Misraim asase no, wo nkwa nna nyinaa.","tokens":[{"surface":"לא","gloss":"Nni"},{"surface":"תאכל","gloss":""},{"surface":"עליו","gloss":"no ho"},{"surface":"חמץ","gloss":"biribiara a ɛwɔ ɛdam"},{"surface":"שבעת","gloss":"nna"},{"surface":"ימים","gloss":"nson"},{"surface":"תאכל","gloss":"wo bɛdi"},{"surface":"עליו","gloss":"wɔ so"},{"surface":"מצות","gloss":"mmɔsa"},{"surface":"לחם","gloss":"aduan"},{"surface":"עני","gloss":"amane"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בחפזון","gloss":"wɔ ahoɔhare mu"},{"surface":"יצאת","gloss":"wo firii"},{"surface":"מארץ","gloss":"asase"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"למען","gloss":"sɛnea"},{"surface":"תזכר","gloss":"wo benka"},{"surface":"את","gloss":"⟨את⟩","marks":"da a wo firii Misraim asase no"},{"surface":"יום","gloss":"da"},{"surface":"צאתך","gloss":"a wo firii"},{"surface":"מארץ","gloss":"asase"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"כל","gloss":"nyinaa"},{"surface":"ימי","gloss":"nna"},{"surface":"חייך","gloss":"wo nkwa"}],"timestamp":"2026-09-15T21:52:18.564259438Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 16:3",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Nni biribiara a ɛwɔ ɛdam no ho; nna nson na wo bɛdi mmɔsa wɔ so — aduan amane — ɛfiri sɛ wɔ ahoɔhare mu na wo firii Misraim asase; sɛnea wo benka ⟨את⟩ da a wo firii Misraim asase no, wo nkwa nna nyinaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nni"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "עליו",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "biribiara a ɛwɔ ɛdam"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nson"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wo bɛdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wɔ so"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mmɔsa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "amane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "wɔ ahoɔhare mu"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "wo firii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "wo benka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "da a wo firii Misraim asase no"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "a wo firii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "wo nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:18.564259438Z",
+  "model": "glm-5.3"
+}

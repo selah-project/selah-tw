@@ -1,1 +1,144 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "2-kings 10:15", "book": "2-kings", "lang": "tw", "chapter": 10, "translation": "Ɔfirii hɔ kɔeɛ, na ɔhunuu ⟨את⟩ Yehonadab, Rekaβ ba, a ɔreba n'anim; ɔhyiraa no, na ɔkaa kerɛɛ no sɛ: Wo akoma te sɛ me akoma te wɔ wo akoma ho anaa? ⟨את⟩ Yehonadab kaa sɛ: Ɛte. Sɛ ɛte saa a, ma ⟨את⟩ wo nsa. Ɔmaa ne nsa, na Ɔde no sɔɔ kɔɔ n'aserew mu.", "tokens": [{"surface": "וילך", "gloss": "Ɔfirii"}, {"surface": "משם", "gloss": "hɔ"}, {"surface": "וימצא", "gloss": "kɔeɛ na ɔhunuu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yehonadab, Rekaβ ba"}, {"surface": "יהונדב", "gloss": "Yehonadab"}, {"surface": "בן", "gloss": "ba"}, {"surface": "רכב", "gloss": "Rekaβ"}, {"surface": "לקראתו", "gloss": "a ɔreba n'anim"}, {"surface": "ויברכהו", "gloss": "ɔhyiraa no"}, {"surface": "ויאמר", "gloss": "na ɔkaa"}, {"surface": "אליו", "gloss": "kerɛɛ no"}, {"surface": "היש", "gloss": "So"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo akoma"}, {"surface": "לבבך", "gloss": "wo akoma"}, {"surface": "ישר", "gloss": "te"}, {"surface": "כאשר", "gloss": "sɛ"}, {"surface": "לבבי", "gloss": "me akoma"}, {"surface": "עם", "gloss": "te wɔ"}, {"surface": "לבבך", "gloss": "wo akoma"}, {"surface": "ויאמר", "gloss": "kaa"}, {"surface": "יהונדב", "gloss": "Yehonadab"}, {"surface": "יש", "gloss": "Ɛte"}, {"surface": "ויש", "gloss": "saa ara"}, {"surface": "תנה", "gloss": "Ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nsa"}, {"surface": "ידך", "gloss": "wo nsa"}, {"surface": "ויתן", "gloss": "Ɔmaa"}, {"surface": "ידו", "gloss": "ne nsa"}, {"surface": "ויעלהו", "gloss": "na Ɔde no sɔɔ"}, {"surface": "אליו", "gloss": "ne ho"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "המרכבה", "gloss": "n'aserew mu"}], "timestamp": "2026-09-15T23:32:15.117869392Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 10:15",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɔfirii hɔ kɔeɛ, na ɔhunuu ⟨את⟩ Yehonadab, Rekaβ ba, a ɔreba n'anim; ɔhyiraa no, na ɔkaa kerɛɛ no sɛ: Wo akoma te sɛ me akoma te wɔ wo akoma ho anaa? ⟨את⟩ Yehonadab kaa sɛ: Ɛte. Sɛ ɛte saa a, ma ⟨את⟩ wo nsa. Ɔmaa ne nsa, na Ɔde no sɔɔ kɔɔ n'aserew mu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ɔfirii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "kɔeɛ na ɔhunuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonadab, Rekaβ ba"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "Yehonadab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekaβ"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "a ɔreba n'anim"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "ɔhyiraa no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kerɛɛ no"
+    },
+    {
+      "surface": "היש",
+      "gloss": "So"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo akoma"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "te"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "te wɔ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "Yehonadab"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ɛte"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Ɔmaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "na Ɔde no sɔɔ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "n'aserew mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:32:15.117869392Z",
+  "model": "glm-5.3"
+}

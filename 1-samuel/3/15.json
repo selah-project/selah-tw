@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "1-samuel 3:15", "book": "1-samuel", "lang": "tw", "chapter": 3, "translation": "Na Shemuɛl daa kɔsi anɔpa, na ɔbuee Yawe fie no ⟨את⟩ anonoa; na Shemuɛl suroo sɛ ɔbɛkyerɛ Elyi ⟨את⟩ hunudeɛ no.", "tokens": [{"surface": "וישכב", "gloss": "na ɔdaa"}, {"surface": "שמואל", "gloss": "Shemuɛl"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "הבקר", "gloss": "anɔpa"}, {"surface": "ויפתח", "gloss": "na ɔbuee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe fie no anonoa"}, {"surface": "דלתות", "gloss": "anonoa"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ושמואל", "gloss": "na Shemuɛl"}, {"surface": "ירא", "gloss": "suroo"}, {"surface": "מהגיד", "gloss": "sɛ ɔbɛkyerɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "hunudeɛ no"}, {"surface": "המראה", "gloss": "hunudeɛ no"}, {"surface": "אל", "gloss": "kyerɛ"}, {"surface": "עלי", "gloss": "Elyi"}], "timestamp": "2026-09-15T22:47:11.800421013Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na Shemuɛl daa kɔsi anɔpa, na ɔbuee Yawe fie no ⟨את⟩ anonoa; na Shemuɛl suroo sɛ ɔbɛkyerɛ Elyi ⟨את⟩ hunudeɛ no.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "na ɔdaa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "na ɔbuee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fie no anonoa"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "anonoa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "na Shemuɛl"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "suroo"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "sɛ ɔbɛkyerɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunudeɛ no"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "hunudeɛ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elyi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:11.800421013Z",
+  "model": "glm-5.3"
+}

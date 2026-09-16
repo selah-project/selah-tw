@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":7,"ref":"ecclesiastes 11:7","book":"ecclesiastes","lang":"tw","chapter":11,"translation":"Na ɛdann no yɛ dɛ, na ɛyɛ anihwɛ sɛ wɔhunu ⟨את⟩ owigyinaeɛ no.","tokens":[{"surface":"ומתוק","gloss":"na ɛdann no yɛ dɛ"},{"surface":"האור","gloss":"ɛdann no"},{"surface":"וטוב","gloss":"na ɛyɛ"},{"surface":"לעינים","gloss":"anihwɛ"},{"surface":"לראות","gloss":"sɛ wɔhunu"},{"surface":"את","gloss":"⟨את⟩","marks":"owigyinaeɛ no"},{"surface":"השמש","gloss":"owigyinaeɛ no"}],"timestamp":"2026-09-16T03:59:12.964871769Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɛdann no yɛ dɛ, na ɛyɛ anihwɛ sɛ wɔhunu ⟨את⟩ owigyinaeɛ no.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "na ɛdann no yɛ dɛ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ɛdann no"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "na ɛyɛ"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "anihwɛ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sɛ wɔhunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owigyinaeɛ no"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owigyinaeɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:59:12.964871769Z",
+  "model": "glm-5.3"
+}

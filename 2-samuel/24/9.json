@@ -1,1 +1,106 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "2-samuel 24:9", "book": "2-samuel", "lang": "tw", "chapter": 24, "translation": "Yɔab de nnipa a wɔkan wɔn no ⟨את⟩ nkontabuo no maa ɔhene no; Yisraɛl bɛyɛ́ aha-nwɔtwe apem akwammafoɔ a wɔtew akofena, na Yuda mmarima nso aha-num apem.", "tokens": [{"surface": "ויתן", "gloss": "maa"}, {"surface": "יואב", "gloss": "Yɔab"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nkontabuo no"}, {"surface": "מספר", "gloss": "nkontabuo"}, {"surface": "מפקד", "gloss": "a wɔkan wɔn"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "אל", "gloss": "kɔmaa"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "ותהי", "gloss": "bɛyɛ́"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "שמנה", "gloss": "nwɔtwe"}, {"surface": "מאות", "gloss": "aha"}, {"surface": "אלף", "gloss": "apem"}, {"surface": "איש", "gloss": "mmarima"}, {"surface": "חיל", "gloss": "akwammafoɔ"}, {"surface": "שלף", "gloss": "a wɔtew"}, {"surface": "חרב", "gloss": "akofena"}, {"surface": "ואיש", "gloss": "na mmarima"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "חמש", "gloss": "num"}, {"surface": "מאות", "gloss": "aha"}, {"surface": "אלף", "gloss": "apem"}, {"surface": "איש", "gloss": "mmarima"}], "timestamp": "2026-09-15T23:11:57.305677334Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 24:9",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Yɔab de nnipa a wɔkan wɔn no ⟨את⟩ nkontabuo no maa ɔhene no; Yisraɛl bɛyɛ́ aha-nwɔtwe apem akwammafoɔ a wɔtew akofena, na Yuda mmarima nso aha-num apem.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yɔab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkontabuo no"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nkontabuo"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "a wɔkan wɔn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔmaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "bɛyɛ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nwɔtwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "akwammafoɔ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "a wɔtew"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mmarima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "num"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "apem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmarima"
+    }
+  ],
+  "timestamp": "2026-09-15T23:11:57.305677334Z",
+  "model": "glm-5.3"
+}

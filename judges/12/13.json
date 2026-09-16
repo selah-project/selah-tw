@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "judges 12:13", "book": "judges", "lang": "tw", "chapter": 12, "translation": "Ne akyi Abdon, Hillel ba, ɔPiratonni no, bɛdi ⟨את⟩ Yisrael atemmu.", "tokens": [{"surface": "וישפט", "gloss": "bɛdi atemmu"}, {"surface": "אחריו", "gloss": "ne akyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "עבדון", "gloss": "Abdon"}, {"surface": "בן", "gloss": "ba"}, {"surface": "הלל", "gloss": "Hillel"}, {"surface": "הפרעתוני", "gloss": "ɔPiratonni"}], "timestamp": "2026-09-15T22:39:38.576022202Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Ne akyi Abdon, Hillel ba, ɔPiratonni no, bɛdi ⟨את⟩ Yisrael atemmu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "bɛdi atemmu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ne akyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ɔPiratonni"
+    }
+  ],
+  "timestamp": "2026-09-15T22:39:38.576022202Z",
+  "model": "glm-5.3"
+}

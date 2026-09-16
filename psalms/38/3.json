@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 38:3","book":"psalms","lang":"tw","chapter":38,"translation":"Efisɛ w'atopae no atɔ me mu, na wo nsa asiane so me so.","tokens":[{"surface":"כי","gloss":"efisɛ"},{"surface":"חציך","gloss":"w'atopae no"},{"surface":"נחתו","gloss":"atɔ"},{"surface":"בי","gloss":"me mu"},{"surface":"ותנחת","gloss":"na wo...asiane so"},{"surface":"עלי","gloss":"me so"},{"surface":"ידך","gloss":"wo nsa"}],"timestamp":"2026-09-16T01:49:12.873867441Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Efisɛ w'atopae no atɔ me mu, na wo nsa asiane so me so.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "w'atopae no"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "atɔ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me mu"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "na wo...asiane so"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:49:12.873867441Z",
+  "model": "glm-5.3"
+}

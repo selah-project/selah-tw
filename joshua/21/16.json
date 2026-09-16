@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "joshua 21:16", "book": "joshua", "lang": "tw", "chapter": 21, "translation": "Ne ⟨את⟩ Ain ⟨את⟩ ne ⟨את⟩ ne mmea afuo, ⟨את⟩ ne ⟨את⟩ Yutta ne ne mmea afuo, ⟨את⟩ Bet-Shemesh ne ne mmea afuo — nkurow nkron, firi ⟨את⟩ mmusua mmienu yi mu.", "tokens": [{"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Ain"}, {"surface": "עין", "gloss": "Ain"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mmea afuo"}, {"surface": "מגרשה", "gloss": "ne mmea afuo"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "Yutta"}, {"surface": "יטה", "gloss": "Yutta"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mmea afuo"}, {"surface": "מגרשה", "gloss": "ne mmea afuo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Bet-Shemesh"}, {"surface": "בית", "gloss": "Bet"}, {"surface": "שמש", "gloss": "Shemesh"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mmea afuo"}, {"surface": "מגרשה", "gloss": "ne mmea afuo"}, {"surface": "ערים", "gloss": "nkurow"}, {"surface": "תשע", "gloss": "nkron"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "השבטים", "gloss": "mmusua"}, {"surface": "האלה", "gloss": "yi"}], "timestamp": "2026-09-15T22:08:41.738163362Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ne ⟨את⟩ Ain ⟨את⟩ ne ⟨את⟩ ne mmea afuo, ⟨את⟩ ne ⟨את⟩ Yutta ne ne mmea afuo, ⟨את⟩ Bet-Shemesh ne ne mmea afuo — nkurow nkron, firi ⟨את⟩ mmusua mmienu yi mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Ain"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "Yutta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yutta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mmea afuo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ne mmea afuo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nkron"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mmusua"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:41.738163362Z",
+  "model": "glm-5.3"
+}

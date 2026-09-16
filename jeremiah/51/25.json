@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":25,"ref":"jeremiah 51:25","book":"jeremiah","lang":"tw","chapter":51,"translation":"Mehwɛ wo, wo sare a wo sɛe ⟨את⟩ asase no nyinaa, Yawe nsemsɛm; mede ⟨את⟩ m'ansa bɛto wo so, na mɛtwe wo afiri aboɔ no so, na made wo ayɛ sare a wɔde hye.","tokens":[{"surface":"הנני","gloss":"Mehwɛ (me nim sɛ me wɔ hɔ)"},{"surface":"אליך","gloss":"wo ho"},{"surface":"הר","gloss":"sare"},{"surface":"המשחית","gloss":"a wo sɛe"},{"surface":"נאם","gloss":"nsemsɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"המשחית","gloss":"a ɔsɛe"},{"surface":"את","gloss":"⟨את⟩","marks":"asase no nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הארץ","gloss":"asase no"},{"surface":"ונטיתי","gloss":"na mede bɛtrɛw"},{"surface":"את","gloss":"⟨את⟩","marks":"m'ansa"},{"surface":"ידי","gloss":"m'ansa"},{"surface":"עליך","gloss":"so (wo so)"},{"surface":"וגלגלתיך","gloss":"na mɛtwe wo"},{"surface":"מן","gloss":"afiri"},{"surface":"הסלעים","gloss":"aboɔ no"},{"surface":"ונתתיך","gloss":"na mɛde wo"},{"surface":"להר","gloss":"ayɛ sare"},{"surface":"שרפה","gloss":"a wɔde hye"}],"timestamp":"2026-09-16T00:32:03.305164212Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 51:25",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Mehwɛ wo, wo sare a wo sɛe ⟨את⟩ asase no nyinaa, Yawe nsemsɛm; mede ⟨את⟩ m'ansa bɛto wo so, na mɛtwe wo afiri aboɔ no so, na made wo ayɛ sare a wɔde hye.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Mehwɛ (me nim sɛ me wɔ hɔ)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "הר",
+      "gloss": "sare"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "a wo sɛe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nsemsɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "a ɔsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "na mede bɛtrɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'ansa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "m'ansa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "so (wo so)"
+    },
+    {
+      "surface": "וגלגלתיך",
+      "gloss": "na mɛtwe wo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "afiri"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "aboɔ no"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "na mɛde wo"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ayɛ sare"
+    },
+    {
+      "surface": "שרפה",
+      "gloss": "a wɔde hye"
+    }
+  ],
+  "timestamp": "2026-09-16T00:32:03.305164212Z",
+  "model": "glm-5.3"
+}

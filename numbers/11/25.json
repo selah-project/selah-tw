@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":25,"ref":"numbers 11:25","book":"numbers","lang":"tw","chapter":11,"translation":"Na Yawe sii mmorɔsoɔ mu baa ase wɔ osoro-dua mu, na ɔkasa pii kyerɛɛ no, na ɔfaa mmɔborɔhunu afiri honhom a ɛda ne so no mu, na ɔde sii nnipa aduɔson a wɔyɛ akyirefoɔ no so; na ɛbaa sɛ berɛ a honhom no tenaa wɔn so no, wɔyɛɛ amanhunu, na wɔankɔ so bio.","tokens":[{"surface":"וירד","gloss":"sii baa ase"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בענן","gloss":"wɔ osoro-dua mu"},{"surface":"וידבר","gloss":"kasa pii kyerɛɛ"},{"surface":"אליו","gloss":"no"},{"surface":"ויאצל","gloss":"faa mmɔborɔhunu"},{"surface":"מן","gloss":"afiri"},{"surface":"הרוח","gloss":"honhom"},{"surface":"אשר","gloss":"a"},{"surface":"עליו","gloss":"daa ne so"},{"surface":"ויתן","gloss":"de sii"},{"surface":"על","gloss":"so"},{"surface":"שבעים","gloss":"aduɔson"},{"surface":"איש","gloss":"nnipa"},{"surface":"הזקנים","gloss":"akyirefoɔ"},{"surface":"ויהי","gloss":"na ɛbaa sɛ"},{"surface":"כנוח","gloss":"berɛ a ɛtenaa"},{"surface":"עליהם","gloss":"wɔn so"},{"surface":"הרוח","gloss":"honhom no"},{"surface":"ויתנבאו","gloss":"yɛɛ amanhunu"},{"surface":"ולא","gloss":"na wɔan"},{"surface":"יספו","gloss":"kɔ so bio"}],"timestamp":"2026-09-15T21:31:03.863660034Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 11:25",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Yawe sii mmorɔsoɔ mu baa ase wɔ osoro-dua mu, na ɔkasa pii kyerɛɛ no, na ɔfaa mmɔborɔhunu afiri honhom a ɛda ne so no mu, na ɔde sii nnipa aduɔson a wɔyɛ akyirefoɔ no so; na ɛbaa sɛ berɛ a honhom no tenaa wɔn so no, wɔyɛɛ amanhunu, na wɔankɔ so bio.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "sii baa ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "wɔ osoro-dua mu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kasa pii kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ויאצל",
+      "gloss": "faa mmɔborɔhunu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "afiri"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daa ne so"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "de sii"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "aduɔson"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "akyirefoɔ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ɛbaa sɛ"
+    },
+    {
+      "surface": "כנוח",
+      "gloss": "berɛ a ɛtenaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "honhom no"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "yɛɛ amanhunu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔan"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "kɔ so bio"
+    }
+  ],
+  "timestamp": "2026-09-15T21:31:03.863660034Z",
+  "model": "glm-5.3"
+}

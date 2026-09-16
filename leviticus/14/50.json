@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 50, "ref": "leviticus 14:50", "book": "leviticus", "lang": "tw", "chapter": 14, "translation": "na ɔbɛkum ⟨את⟩ nonoɔ no baako wɔ anihyin atenaeɛ mu, wɔ nsuo a ɛte aseɛ so:", "tokens": [{"surface": "ושחט", "gloss": "na ɔbɛkum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nonoɔ no"}, {"surface": "הצפר", "gloss": "nonoɔ no"}, {"surface": "האחת", "gloss": "baako"}, {"surface": "אל", "gloss": "wɔ"}, {"surface": "כלי", "gloss": "atenaeɛ mu"}, {"surface": "חרש", "gloss": "anihyin"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "מים", "gloss": "nsuo"}, {"surface": "חיים", "gloss": "a ɛte aseɛ"}], "timestamp": "2026-09-15T21:13:47.358030201Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "na ɔbɛkum ⟨את⟩ nonoɔ no baako wɔ anihyin atenaeɛ mu, wɔ nsuo a ɛte aseɛ so:",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "na ɔbɛkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonoɔ no"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "nonoɔ no"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "atenaeɛ mu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "anihyin"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a ɛte aseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:47.358030201Z",
+  "model": "glm-5.3"
+}

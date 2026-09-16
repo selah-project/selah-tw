@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":6,"ref":"jeremiah 29:6","book":"jeremiah","lang":"tw","chapter":29,"translation":"Fa aware, na wo nyɛ mma ne mmeawa; na fa aware ama mo mma, na ⟨את⟩ mo mmeawa no mo nyɛ ama mmarima, na wɔnwo mma ne mmeawa; na mo nyɛ dodoɔ hɔ, na mo nnɔhae.","tokens":[{"surface":"קחו","gloss":"Fa"},{"surface":"נשים","gloss":"aware"},{"surface":"והולידו","gloss":"na wo nyɛ"},{"surface":"בנים","gloss":"mma"},{"surface":"ובנות","gloss":"ne mmeawa"},{"surface":"וקחו","gloss":"na fa"},{"surface":"לבניכם","gloss":"ama mo mma"},{"surface":"נשים","gloss":"aware"},{"surface":"ואת","gloss":"⟨את⟩","marks":"mo mmeawa no"},{"surface":"בנותיכם","gloss":"mo mmeawa no"},{"surface":"תנו","gloss":"mo nyɛ"},{"surface":"לאנשים","gloss":"ama mmarima"},{"surface":"ותלדנה","gloss":"na wɔnwo"},{"surface":"בנים","gloss":"mma"},{"surface":"ובנות","gloss":"ne mmeawa"},{"surface":"ורבו","gloss":"na mo nyɛ dodoɔ"},{"surface":"שם","gloss":"hɔ"},{"surface":"ואל","gloss":"na mo nnɔ"},{"surface":"תמעטו","gloss":"hae"}],"timestamp":"2026-09-16T00:18:16.310745326Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 29:6",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Fa aware, na wo nyɛ mma ne mmeawa; na fa aware ama mo mma, na ⟨את⟩ mo mmeawa no mo nyɛ ama mmarima, na wɔnwo mma ne mmeawa; na mo nyɛ dodoɔ hɔ, na mo nnɔhae.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "aware"
+    },
+    {
+      "surface": "והולידו",
+      "gloss": "na wo nyɛ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mmeawa"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "na fa"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "ama mo mma"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "aware"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mo mmeawa no"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "mo mmeawa no"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "mo nyɛ"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "ama mmarima"
+    },
+    {
+      "surface": "ותלדנה",
+      "gloss": "na wɔnwo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mmeawa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na mo nyɛ dodoɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mo nnɔ"
+    },
+    {
+      "surface": "תמעטו",
+      "gloss": "hae"
+    }
+  ],
+  "timestamp": "2026-09-16T00:18:16.310745326Z",
+  "model": "glm-5.3"
+}

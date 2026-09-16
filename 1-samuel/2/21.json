@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":21,"ref":"1-samuel 2:21","book":"1-samuel","lang":"tw","chapter":2,"translation":"Ɛno enti Yawe hwɛɛ ⟨את⟩ Hana so, na ɔnyaa nyinsɛn, na ɔwoo mma mmarima baasa ne mma mmawa baanu, na abarimaa no Samuɛl nyinii maa Yawe.","tokens":[{"surface":"כי","gloss":"Ɛno enti"},{"surface":"פקד","gloss":"hwɛɛ ... so"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"Hana"},{"surface":"חנה","gloss":"Hana"},{"surface":"ותהר","gloss":"na ɔnyaa nyinsɛn"},{"surface":"ותלד","gloss":"na ɔwoo"},{"surface":"שלשה","gloss":"baasa"},{"surface":"בנים","gloss":"mma mmarima"},{"surface":"ושתי","gloss":"ne ... baanu"},{"surface":"בנות","gloss":"mma mmawa"},{"surface":"ויגדל","gloss":"na ... nyinii"},{"surface":"הנער","gloss":"abarimaa no"},{"surface":"שמואל","gloss":"Samuɛl"},{"surface":"עם","gloss":"maa"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-15T22:47:31.983701981Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɛno enti Yawe hwɛɛ ⟨את⟩ Hana so, na ɔnyaa nyinsɛn, na ɔwoo mma mmarima baasa ne mma mmawa baanu, na abarimaa no Samuɛl nyinii maa Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛno enti"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "hwɛɛ ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "na ɔnyaa nyinsɛn"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "baasa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ne ... baanu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mma mmawa"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "na ... nyinii"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "abarimaa no"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuɛl"
+    },
+    {
+      "surface": "עם",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:47:31.983701981Z",
+  "model": "glm-5.3"
+}

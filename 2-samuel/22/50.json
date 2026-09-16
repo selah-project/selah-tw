@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":50,"ref":"2-samuel 22:50","book":"2-samuel","lang":"tw","chapter":22,"translation":"Ɛno nti, mɛda Yawe ase wɔ amanaman mu, na mɛto wo din mu dwom.","tokens":[{"surface":"על","gloss":"Ɛno"},{"surface":"כן","gloss":"nti"},{"surface":"אודך","gloss":"mɛda wo ase"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בגוים","gloss":"wɔ amanaman mu"},{"surface":"ולשמך","gloss":"na wɔ wo din mu"},{"surface":"אזמר","gloss":"mɛto dwom"}],"timestamp":"2026-09-15T23:09:36.108074265Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Ɛno nti, mɛda Yawe ase wɔ amanaman mu, na mɛto wo din mu dwom.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɛno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mɛda wo ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanaman mu"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "na wɔ wo din mu"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "mɛto dwom"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:36.108074265Z",
+  "model": "glm-5.3"
+}

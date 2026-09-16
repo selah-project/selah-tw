@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "1-kings 20:1", "book": "1-kings", "lang": "tw", "chapter": 20, "translation": "Na Ben-Hadad, Aram hene, boaboaa ⟨את⟩ n'asraafoɔ ⟨את⟩ nyinaa ano, na ahemfoɔ edu-miɛnsa ne edu-mmienu ne no, ne mmirekyi ne kaa; na ɔkɔɔ soro koduu Shomeron, sɔɔ no hyiae, ɔkoo tiaa no.", "tokens": [{"surface": "ובן", "gloss": "Na Ben-"}, {"surface": "הדד", "gloss": "Hadad"}, {"surface": "מלך", "gloss": "hene"}, {"surface": "ארם", "gloss": "Aram"}, {"surface": "קבץ", "gloss": "boaboaa ano"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'asraafoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "חילו", "gloss": "n'asraafoɔ"}, {"surface": "ושלשים", "gloss": "edu-miɛnsa ne"}, {"surface": "ושנים", "gloss": "edu-mmienu"}, {"surface": "מלך", "gloss": "ahemfoɔ"}, {"surface": "אתו", "gloss": "⟨את⟩ ne no"}, {"surface": "וסוס", "gloss": "mmirekyi"}, {"surface": "ורכב", "gloss": "kaa"}, {"surface": "ויעל", "gloss": "kɔɔ soro koduu"}, {"surface": "ויצר", "gloss": "sɔɔ no hyiae"}, {"surface": "על", "gloss": "so"}, {"surface": "שמרון", "gloss": "Shomeron"}, {"surface": "וילחם", "gloss": "ɔkoo tiaa"}, {"surface": "בה", "gloss": "no"}], "timestamp": "2026-09-15T23:23:48.540885115Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Ben-Hadad, Aram hene, boaboaa ⟨את⟩ n'asraafoɔ ⟨את⟩ nyinaa ano, na ahemfoɔ edu-miɛnsa ne edu-mmienu ne no, ne mmirekyi ne kaa; na ɔkɔɔ soro koduu Shomeron, sɔɔ no hyiae, ɔkoo tiaa no.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Na Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hene"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "boaboaa ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'asraafoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "n'asraafoɔ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "edu-miɛnsa ne"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "edu-mmienu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ahemfoɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne no"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "mmirekyi"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kɔɔ soro koduu"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "sɔɔ no hyiae"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ɔkoo tiaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:48.540885115Z",
+  "model": "glm-5.3"
+}

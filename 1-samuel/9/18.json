@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "1-samuel 9:18", "book": "1-samuel", "lang": "tw", "chapter": 9, "translation": "Na Shaol baa ⟨את⟩ Samuɛl nkyɛn wɔ ɔpono mu, na ɔkaa sɛ: “Mede biskyi, kyerɛ me ɛhe na ohunufoɔ no fie wɔ.”", "tokens": [{"surface": "ויגש", "gloss": "baa… nkyɛn"}, {"surface": "שאול", "gloss": "Shaol"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Samuɛl"}, {"surface": "שמואל", "gloss": "Samuɛl"}, {"surface": "בתוך", "gloss": "wɔ… mu"}, {"surface": "השער", "gloss": "ɔpono mu"}, {"surface": "ויאמר", "gloss": "ɔkaa sɛ"}, {"surface": "הגידה", "gloss": "kyerɛ"}, {"surface": "נא", "gloss": "mede biskyi"}, {"surface": "לי", "gloss": "me"}, {"surface": "אי", "gloss": "ɛhe na"}, {"surface": "זה", "gloss": "no"}, {"surface": "בית", "gloss": "fie"}, {"surface": "הראה", "gloss": "ohunufoɔ no"}], "timestamp": "2026-09-15T22:50:09.821499801Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na Shaol baa ⟨את⟩ Samuɛl nkyɛn wɔ ɔpono mu, na ɔkaa sɛ: “Mede biskyi, kyerɛ me ɛhe na ohunufoɔ no fie wɔ.”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "baa… nkyɛn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuɛl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuɛl"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ… mu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ɔpono mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mede biskyi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ɛhe na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ohunufoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:50:09.821499801Z",
+  "model": "glm-5.3"
+}

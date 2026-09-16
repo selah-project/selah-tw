@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":21,"ref":"psalms 9:21","book":"psalms","lang":"tw","chapter":9,"translation":"Fa hu si wɔn so, Yawe; amanbuo no nhyɛ da sɛ wɔyɛ ⟨awudifoɔ⟩ ⟨wɔ⟩ nkutoo. Sela.","tokens":[{"surface":"שיתה","gloss":"Fa hu si wɔn so"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"מורה","gloss":"hu"},{"surface":"להם","gloss":"wɔn so"},{"surface":"ידעו","gloss":"nhyɛ da sɛ"},{"surface":"גוים","gloss":"amanbuo no"},{"surface":"אנוש","gloss":"awudifoɔ"},{"surface":"המה","gloss":"wɔ"},{"surface":"סלה","gloss":"Sela"}],"timestamp":"2026-09-16T01:36:54.486997450Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Fa hu si wɔn so, Yawe; amanbuo no nhyɛ da sɛ wɔyɛ ⟨awudifoɔ⟩ ⟨wɔ⟩ nkutoo. Sela.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Fa hu si wɔn so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "hu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nhyɛ da sɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanbuo no"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "awudifoɔ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-16T01:36:54.486997450Z",
+  "model": "glm-5.3"
+}

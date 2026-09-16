@@ -1,1 +1,57 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "genesis 26:27", "book": "genesis", "lang": "tw", "chapter": 26, "translation": "Yitschak kaa kyɛn wɔn sɛ: Adɛn nti na moaba me nkyɛn, mo a moani kyinkyim wɔ me so, na ⟨את⟩ moasoma me ⟨את⟩ afiri mo mu?", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyɛn"}, {"surface": "אלהם", "gloss": "wɔn"}, {"surface": "יצחק", "gloss": "Yitschak"}, {"surface": "מדוע", "gloss": "Adɛn nti"}, {"surface": "באתם", "gloss": "moaba"}, {"surface": "אלי", "gloss": "me nkyɛn"}, {"surface": "ואתם", "gloss": "mo a"}, {"surface": "שנאתם", "gloss": "moani kyinkyim"}, {"surface": "אתי", "gloss": "⟨את⟩"}, {"surface": "ותשלחוני", "gloss": "moasoma me kɔ"}, {"surface": "מאתכם", "gloss": "⟨את⟩ afiri mo mu"}], "timestamp": "2026-09-16T06:54:29.161637530Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Yitschak kaa kyɛn wɔn sɛ: Adɛn nti na moaba me nkyɛn, mo a moani kyinkyim wɔ me so, na ⟨את⟩ moasoma me ⟨את⟩ afiri mo mu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛn"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Adɛn nti"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "moaba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mo a"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "moani kyinkyim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "moasoma me kɔ"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ afiri mo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T06:54:29.161637530Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":5,"ref":"esther 2:5","book":"esther","lang":"tw","chapter":2,"translation":"Ɔbarima, Yuda-ni, wɔ hɔ wɔ Shushan fort mu, na ne din de Mordekai, Yair ba, Shimei ba, Kish ba, Ɔbenyamini-ni.","tokens":[{"surface":"איש","gloss":"Ɔbarima"},{"surface":"יהודי","gloss":"Yuda-ni"},{"surface":"היה","gloss":"wɔ hɔ"},{"surface":"בשושן","gloss":"wɔ Shushan"},{"surface":"הבירה","gloss":"fort mu"},{"surface":"ושמו","gloss":"na ne din de"},{"surface":"מרדכי","gloss":"Mordekai"},{"surface":"בן","gloss":"ba"},{"surface":"יאיר","gloss":"Yair"},{"surface":"בן","gloss":"ba"},{"surface":"שמעי","gloss":"Shimei"},{"surface":"בן","gloss":"ba"},{"surface":"קיש","gloss":"Kish"},{"surface":"איש","gloss":"onya"},{"surface":"ימיני","gloss":"Ɔbenyamini-ni"}],"timestamp":"2026-09-16T04:00:56.891897934Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɔbarima, Yuda-ni, wɔ hɔ wɔ Shushan fort mu, na ne din de Mordekai, Yair ba, Shimei ba, Kish ba, Ɔbenyamini-ni.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ɔbarima"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "Yuda-ni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "wɔ Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "fort mu"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "na ne din de"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kish"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onya"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Ɔbenyamini-ni"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:56.891897934Z",
+  "model": "glm-5.3"
+}

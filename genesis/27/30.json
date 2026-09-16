@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "genesis 27:30", "book": "genesis", "lang": "tw", "chapter": 27, "translation": "Ɛbaa sɛ Yitschak wiee ⟨את⟩ Yaakob hyira no, na Yaakob fii hɔ ara pɛ fii Yitschak a ɔyɛ n'agya ⟨את⟩ anim so, na Esav a ɔyɛ n'enua baa n'abɔmmɔ-to mu.", "tokens": [{"surface": "ויהי", "gloss": "Ɛbaa sɛ"}, {"surface": "כאשר", "gloss": "sɛ"}, {"surface": "כלה", "gloss": "wiee"}, {"surface": "יצחק", "gloss": "Yitschak"}, {"surface": "לברך", "gloss": "hyira"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaakob"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "ויהי", "gloss": "na"}, {"surface": "אך", "gloss": "ara pɛ"}, {"surface": "יצא", "gloss": "fii"}, {"surface": "יצא", "gloss": "fii hɔ"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "פני", "gloss": "anim so"}, {"surface": "יצחק", "gloss": "Yitschak"}, {"surface": "אביו", "gloss": "n'agya"}, {"surface": "ועשו", "gloss": "na Esav"}, {"surface": "אחיו", "gloss": "n'enua"}, {"surface": "בא", "gloss": "baa"}, {"surface": "מצידו", "gloss": "n'abɔmmɔ-to mu"}], "timestamp": "2026-09-15T22:24:22.241944801Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ɛbaa sɛ Yitschak wiee ⟨את⟩ Yaakob hyira no, na Yaakob fii hɔ ara pɛ fii Yitschak a ɔyɛ n'agya ⟨את⟩ anim so, na Esav a ɔyɛ n'enua baa n'abɔmmɔ-to mu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "wiee"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "hyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ara pɛ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fii hɔ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim so"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n'agya"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'enua"
+    },
+    {
+      "surface": "בא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "n'abɔmmɔ-to mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:22.241944801Z",
+  "model": "glm-5.3"
+}

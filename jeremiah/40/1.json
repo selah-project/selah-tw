@@ -1,1 +1,123 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "jeremiah 40:1", "book": "jeremiah", "lang": "tw", "chapter": 40, "translation": "Asɛm a ɛbaa Yeremia hɔ ⟨את⟩ firi ⟨את⟩ Yawe nkyɛn, akyire yi Nebuzaradan, ɔkumfoɔ no panin, berɛ a ɔfaa ⟨את⟩ no wɔ Rama — na ɔno yɛ sumu nkwammɔn mu — wɔ Yerusalem ne Yuda nkwatufoɔ nyinaa a wɔde wɔn kɔɔ Babilon no mu no, na ɔmaa no kwan.", "tokens": [{"surface": "הדבר", "gloss": "Asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "היה", "gloss": "ɛbaa"}, {"surface": "אל", "gloss": "hɔ"}, {"surface": "ירמיהו", "gloss": "Yeremia"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אחר", "gloss": "akyire yi"}, {"surface": "שלח", "gloss": "maa no kwan"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no (Yeremia)"}, {"surface": "נבוזראדן", "gloss": "Nebuzaradan"}, {"surface": "רב", "gloss": "panin"}, {"surface": "טבחים", "gloss": "ɔkumfoɔ"}, {"surface": "מן", "gloss": "firi"}, {"surface": "הרמה", "gloss": "Rama"}, {"surface": "בקחתו", "gloss": "berɛ a ɔfaa"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no (Yeremia)"}, {"surface": "והוא", "gloss": "na ɔno"}, {"surface": "אסור", "gloss": "yɛ sumu"}, {"surface": "באזקים", "gloss": "nkwammɔn mu"}, {"surface": "בתוך", "gloss": "wɔ … mu"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "גלות", "gloss": "nkwatufoɔ"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "ויהודה", "gloss": "ne Yuda"}, {"surface": "המגלים", "gloss": "a wɔde wɔn kɔe"}, {"surface": "בבלה", "gloss": "Babilon"}], "timestamp": "2026-09-16T00:26:34.591252243Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 40:1",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Asɛm a ɛbaa Yeremia hɔ ⟨את⟩ firi ⟨את⟩ Yawe nkyɛn, akyire yi Nebuzaradan, ɔkumfoɔ no panin, berɛ a ɔfaa ⟨את⟩ no wɔ Rama — na ɔno yɛ sumu nkwammɔn mu — wɔ Yerusalem ne Yuda nkwatufoɔ nyinaa a wɔde wɔn kɔɔ Babilon no mu no, na ɔmaa no kwan.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ɛbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "akyire yi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "maa no kwan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Yeremia)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panin"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ɔkumfoɔ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "בקחתו",
+      "gloss": "berɛ a ɔfaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Yeremia)"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "yɛ sumu"
+    },
+    {
+      "surface": "באזקים",
+      "gloss": "nkwammɔn mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "nkwatufoɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ne Yuda"
+    },
+    {
+      "surface": "המגלים",
+      "gloss": "a wɔde wɔn kɔe"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T00:26:34.591252243Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,55 @@
-{"tier":"glm-5.2","verse":5,"ref":"2-chronicles 34:5","book":"2-chronicles","lang":"tw","chapter":34,"translation":"Na ɔhyɛɛ asɔfoɔ no nnompe wɔ wɔn afɔreɛtow so, na ɔtrɛe ⟨את⟩ Yuda ne ⟨את⟩ Yerusalem ho.","tokens":[{"surface":"ועצמות","gloss":"nnompe"},{"surface":"כהנים","gloss":"asɔfoɔ"},{"surface":"שרף","gloss":"ɔhyɛɛ"},{"surface":"על","gloss":"wɔ … so"},{"surface":"מזבחותים","gloss":"wɔn afɔreɛtow"},{"surface":"ויטהר","gloss":"na ɔtrɛe"},{"surface":"את","gloss":"⟨את⟩","marks":"Yuda"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"ואת","gloss":"⟨את⟩","marks":"Yerusalem"},{"surface":"ירושלם","gloss":"Yerusalem"}],"timestamp":"2026-09-16T05:59:35.760397619Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Na ɔhyɛɛ asɔfoɔ no nnompe wɔ wɔn afɔreɛtow so, na ɔtrɛe ⟨את⟩ Yuda ne ⟨את⟩ Yerusalem ho.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "nnompe"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ɔhyɛɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "wɔn afɔreɛtow"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "na ɔtrɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T05:59:35.760397619Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,89 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "jeremiah 2:13", "book": "jeremiah", "lang": "tw", "chapter": 2, "translation": "Ɛfiri sɛ ⟨את⟩ me man ayɛ bɔne mmienu: wɔagyaw me, nsuo a ɛteɛ tetew mmoa, na wɔadwodwo wɔn ankasa abura — abura apaapae, a ɛntumi mmoa nsuo.", "tokens": [{"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "שתים", "gloss": "mmienu"}, {"surface": "רעות", "gloss": "bɔne"}, {"surface": "עשה", "gloss": "yɛe"}, {"surface": "עמי", "gloss": "me man"}, {"surface": "אתי", "gloss": "⟨את⟩ me"}, {"surface": "עזבו", "gloss": "wɔagyaw"}, {"surface": "מקור", "gloss": "tetew mmoa"}, {"surface": "מים", "gloss": "nsuo"}, {"surface": "חיים", "gloss": "a ɛteɛ"}, {"surface": "לחצב", "gloss": "dwodwo"}, {"surface": "להם", "gloss": "wɔn ankasa"}, {"surface": "בארות", "gloss": "abura"}, {"surface": "בארת", "gloss": "abura"}, {"surface": "נשברים", "gloss": "apaapae"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "nni hɔ sɛ"}, {"surface": "יכלו", "gloss": "ɛntumi"}, {"surface": "המים", "gloss": "nsuo"}], "timestamp": "2026-09-16T00:05:23.381077800Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 2:13",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɛfiri sɛ ⟨את⟩ me man ayɛ bɔne mmienu: wɔagyaw me, nsuo a ɛteɛ tetew mmoa, na wɔadwodwo wɔn ankasa abura — abura apaapae, a ɛntumi mmoa nsuo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "wɔagyaw"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "tetew mmoa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a ɛteɛ"
+    },
+    {
+      "surface": "לחצב",
+      "gloss": "dwodwo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn ankasa"
+    },
+    {
+      "surface": "בארות",
+      "gloss": "abura"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "abura"
+    },
+    {
+      "surface": "נשברים",
+      "gloss": "apaapae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni hɔ sɛ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ɛntumi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-16T00:05:23.381077800Z",
+  "model": "glm-5.3"
+}

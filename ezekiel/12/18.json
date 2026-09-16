@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":18,"ref":"ezekiel 12:18","book":"ezekiel","lang":"tw","chapter":12,"translation":"Onipa ba, wodi wo du wɔ ntɛntɛm mu, na wonom wo nsuo wɔ suro mu ne awerɛhoɔ mu.","tokens":[{"surface":"בן","gloss":"ba"},{"surface":"אדם","gloss":"onipa"},{"surface":"לחמך","gloss":"wo du"},{"surface":"ברעש","gloss":"wɔ ntɛntɛm mu"},{"surface":"תאכל","gloss":"wodi"},{"surface":"ומימיך","gloss":"na wo nsuo"},{"surface":"ברגזה","gloss":"wɔ suro mu"},{"surface":"ובדאגה","gloss":"ne awerɛhoɔ mu"},{"surface":"תשתה","gloss":"wonom"}],"timestamp":"2026-09-16T00:39:00.681817517Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Onipa ba, wodi wo du wɔ ntɛntɛm mu, na wonom wo nsuo wɔ suro mu ne awerɛhoɔ mu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "wo du"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "wɔ ntɛntɛm mu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wodi"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "na wo nsuo"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "wɔ suro mu"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "ne awerɛhoɔ mu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "wonom"
+    }
+  ],
+  "timestamp": "2026-09-16T00:39:00.681817517Z",
+  "model": "glm-5.3"
+}

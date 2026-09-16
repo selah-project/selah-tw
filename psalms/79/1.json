@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "psalms 79:1", "book": "psalms", "lang": "tw", "chapter": 79, "translation": "Anwensɛm ma Asaf. Eloohim, aman no baa wo ntokwa mu, wɔhyɛɛ ⟨את⟩ wo ⟨את⟩ asɔredan kronkron no fi, wɔde Yerusalɛm yɛɛ nkuraaho.", "tokens": [{"surface": "מזמור", "gloss": "Anwensɛm"}, {"surface": "לאסף", "gloss": "ma Asaf"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "באו", "gloss": "baa"}, {"surface": "גוים", "gloss": "aman no"}, {"surface": "בנחלתך", "gloss": "wo ntokwa mu"}, {"surface": "טמאו", "gloss": "wɔhyɛɛ fi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo asɔredan kronkron no"}, {"surface": "היכל", "gloss": "asɔredan"}, {"surface": "קדשך", "gloss": "kronkron"}, {"surface": "שמו", "gloss": "wɔde ... yɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yerusalɛm"}, {"surface": "ירושלם", "gloss": "Yerusalɛm"}, {"surface": "לעיים", "gloss": "nkuraaho"}], "timestamp": "2026-09-16T02:10:51.070287946Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 79,
+  "translation": "Anwensɛm ma Asaf. Eloohim, aman no baa wo ntokwa mu, wɔhyɛɛ ⟨את⟩ wo ⟨את⟩ asɔredan kronkron no fi, wɔde Yerusalɛm yɛɛ nkuraaho.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Anwensɛm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ma Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "wo ntokwa mu"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "wɔhyɛɛ fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo asɔredan kronkron no"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "asɔredan"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wɔde ... yɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalɛm"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalɛm"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "nkuraaho"
+    }
+  ],
+  "timestamp": "2026-09-16T02:10:51.070287946Z",
+  "model": "glm-5.3"
+}

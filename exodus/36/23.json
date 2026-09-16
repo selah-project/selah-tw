@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":23,"ref":"exodus 36:23","book":"exodus","lang":"tw","chapter":36,"translation":"Na ɔyɛɛ ⟨את⟩ krataa no maa Mishkan no; krataa aduonu wɔ anafoɔ fam, anafoɔ so.","tokens":[{"surface":"ויעש","gloss":"na ɔyɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"krataa no"},{"surface":"הקרשים","gloss":"krataa no"},{"surface":"למשכן","gloss":"maa Mishkan no"},{"surface":"עשרים","gloss":"aduonu"},{"surface":"קרשים","gloss":"krataa"},{"surface":"לפאת","gloss":"wɔ ... fam"},{"surface":"נגב","gloss":"anafoɔ (Negɛb)"},{"surface":"תימנה","gloss":"anafoɔ so"}],"timestamp":"2026-09-15T21:04:48.751422101Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na ɔyɛɛ ⟨את⟩ krataa no maa Mishkan no; krataa aduonu wɔ anafoɔ fam, anafoɔ so.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krataa no"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "krataa no"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "maa Mishkan no"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "krataa"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "wɔ ... fam"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "anafoɔ (Negɛb)"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "anafoɔ so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:04:48.751422101Z",
+  "model": "glm-5.3"
+}

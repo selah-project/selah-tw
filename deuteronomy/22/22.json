@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":22,"ref":"deuteronomy 22:22","book":"deuteronomy","lang":"tw","chapter":22,"translation":"Sɛ wɔhunu barima a ɔda ɔbea a ɔwɔ kunu so, na wɔn baanu nyinaa bewu — barima a ɔda ɔbea no so ne ɔbea no nso; na worebɛpɔra bɔne no afiri Yisrael mu.","tokens":[{"surface":"כי","gloss":"sɛ"},{"surface":"ימצא","gloss":"wɔhunu"},{"surface":"איש","gloss":"barima"},{"surface":"שכב","gloss":"a ɔda ... so"},{"surface":"עם","gloss":"ne"},{"surface":"אשה","gloss":"ɔbea"},{"surface":"בעלת","gloss":"a ɔwɔ"},{"surface":"בעל","gloss":"kunu"},{"surface":"ומתו","gloss":"na wɔn bewu"},{"surface":"גם","gloss":"nso / nyinaa"},{"surface":"שניהם","gloss":"wɔn baanu"},{"surface":"האיש","gloss":"barima no"},{"surface":"השכב","gloss":"a ɔda"},{"surface":"עם","gloss":"ne"},{"surface":"האשה","gloss":"ɔbea no"},{"surface":"והאשה","gloss":"ne ɔbea no"},{"surface":"ובערת","gloss":"na worebɛpɔra"},{"surface":"הרע","gloss":"bɔne no"},{"surface":"מישראל","gloss":"afiri Yisrael mu"}],"timestamp":"2026-09-15T21:56:10.470034542Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 22:22",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Sɛ wɔhunu barima a ɔda ɔbea a ɔwɔ kunu so, na wɔn baanu nyinaa bewu — barima a ɔda ɔbea no so ne ɔbea no nso; na worebɛpɔra bɔne no afiri Yisrael mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "wɔhunu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "barima"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "a ɔda ... so"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbea"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "a ɔwɔ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "na wɔn bewu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso / nyinaa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "barima no"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "a ɔda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbea no"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "ne ɔbea no"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "na worebɛpɔra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne no"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "afiri Yisrael mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:10.470034542Z",
+  "model": "glm-5.3"
+}

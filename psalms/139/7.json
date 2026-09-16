@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 139:7","book":"psalms","lang":"tw","chapter":139,"translation":"Wɔ he na mekɔ ntifa wo Honhom mu? Na wɔ he na metabrɛ afi wo anim?","tokens":[{"surface":"אנה","gloss":"wɔ he"},{"surface":"אלך","gloss":"mekɔ"},{"surface":"מרוחך","gloss":"ntifa wo Honhom mu"},{"surface":"ואנה","gloss":"na wɔ he"},{"surface":"מפניך","gloss":"afi wo anim"},{"surface":"אברח","gloss":"metabrɛ"}],"timestamp":"2026-09-16T02:35:34.500629003Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 139,
+  "translation": "Wɔ he na mekɔ ntifa wo Honhom mu? Na wɔ he na metabrɛ afi wo anim?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "wɔ he"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mekɔ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ntifa wo Honhom mu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "na wɔ he"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "afi wo anim"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "metabrɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:35:34.500629003Z",
+  "model": "glm-5.3"
+}

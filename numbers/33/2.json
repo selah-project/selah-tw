@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "numbers 33:2", "book": "numbers", "lang": "tw", "chapter": 33, "translation": "Na Moshe twerɛɛ ⟨את⟩ wɔn afiaseɛ, wɔ akwantuo mmienu mmienu so, sɛnea Yawe kasa tiaa no; na saa na wɔn akwantuo no teɛ sɛ wɔn afiaseɛ.", "tokens": [{"surface": "ויכתב", "gloss": "Na Moshe twerɛɛ"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn afiaseɛ"}, {"surface": "מוצאיהם", "gloss": "wɔn afiaseɛ"}, {"surface": "למסעיהם", "gloss": "wɔ akwantuo mmienu mmienu so"}, {"surface": "על", "gloss": "sɛnea"}, {"surface": "פי", "gloss": "kasa tiaa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ואלה", "gloss": "na saa"}, {"surface": "מסעיהם", "gloss": "wɔn akwantuo no"}, {"surface": "למוצאיהם", "gloss": "sɛ wɔn afiaseɛ"}], "timestamp": "2026-09-15T21:43:52.684273676Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na Moshe twerɛɛ ⟨את⟩ wɔn afiaseɛ, wɔ akwantuo mmienu mmienu so, sɛnea Yawe kasa tiaa no; na saa na wɔn akwantuo no teɛ sɛ wɔn afiaseɛ.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Na Moshe twerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn afiaseɛ"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "wɔn afiaseɛ"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "wɔ akwantuo mmienu mmienu so"
+    },
+    {
+      "surface": "על",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kasa tiaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na saa"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "wɔn akwantuo no"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "sɛ wɔn afiaseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:43:52.684273676Z",
+  "model": "glm-5.3"
+}

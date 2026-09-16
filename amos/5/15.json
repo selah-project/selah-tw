@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":15,"ref":"amos 5:15","book":"amos","lang":"tw","chapter":5,"translation":"Montan bɔne, na monpɛ pa, na monsi atemmuo asisi hɔ wɔ abɔnhwa mu; ebia Yawe, Eloohim Tsevaot, bɛkyɛ Yosef nkaeɛ no.","tokens":[{"surface":"שנאו","gloss":"Montan"},{"surface":"רע","gloss":"bɔne"},{"surface":"ואהבו","gloss":"na monpɛ"},{"surface":"טוב","gloss":"pa"},{"surface":"והציגו","gloss":"na monsi ... asisi hɔ"},{"surface":"בשער","gloss":"wɔ abɔnhwa mu"},{"surface":"משפט","gloss":"atemmuo"},{"surface":"אולי","gloss":"ebia"},{"surface":"יחנן","gloss":"bɛkyɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שארית","gloss":"nkaeɛ"},{"surface":"יוסף","gloss":"Yosef"}],"timestamp":"2026-09-16T01:12:30.230558904Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 5:15",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Montan bɔne, na monpɛ pa, na monsi atemmuo asisi hɔ wɔ abɔnhwa mu; ebia Yawe, Eloohim Tsevaot, bɛkyɛ Yosef nkaeɛ no.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "Montan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "na monpɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "והציגו",
+      "gloss": "na monsi ... asisi hɔ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "wɔ abɔnhwa mu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmuo"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ebia"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "bɛkyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-16T01:12:30.230558904Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 70:6","book":"psalms","lang":"tw","chapter":70,"translation":"Na me nso, ahiafoɔ na meho hia me; Eloohim, tua ho ntɛm mma me; Wo ne ⟨me⟩ boafoɔ ne me nkwankorɔgyefoɔ; Yawe, ɛntwɛ.","tokens":[{"surface":"ואני","gloss":"na me nso"},{"surface":"עני","gloss":"ahiafoɔ"},{"surface":"ואביון","gloss":"na meho hia me"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"חושה","gloss":"tua ho ntɛm"},{"surface":"לי","gloss":"mma me"},{"surface":"עזרי","gloss":"me boafoɔ"},{"surface":"ומפלטי","gloss":"ne me nkwankorɔgyefoɔ"},{"surface":"אתה","gloss":"Wo"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אל","gloss":"ɛn"},{"surface":"תאחר","gloss":"ntwɛ"}],"timestamp":"2026-09-16T02:04:42.558814143Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 70,
+  "translation": "Na me nso, ahiafoɔ na meho hia me; Eloohim, tua ho ntɛm mma me; Wo ne ⟨me⟩ boafoɔ ne me nkwankorɔgyefoɔ; Yawe, ɛntwɛ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me nso"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na meho hia me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tua ho ntɛm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mma me"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "me boafoɔ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ne me nkwankorɔgyefoɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛn"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ntwɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:42.558814143Z",
+  "model": "glm-5.3"
+}

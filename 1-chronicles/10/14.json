@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":14,"ref":"1-chronicles 10:14","book":"1-chronicles","lang":"tw","chapter":10,"translation":"Na ɔansa Yawe hɔ asɛm bisaeɛ; enti ⟨ɔ⟩ kum no, na ɔdane ⟨את⟩ ahennie no maa Dawid, Yishai ba.","tokens":[{"surface":"ולא","gloss":"Na an-"},{"surface":"דרש","gloss":"bisa asɛm"},{"surface":"ביהוה","gloss":"Yawe hɔ"},{"surface":"וימיתהו","gloss":" enti ɔkum no"},{"surface":"ויסב","gloss":"na ɔdane"},{"surface":"את","gloss":"⟨את⟩","marks":"ahennie no"},{"surface":"המלוכה","gloss":"ahennie no"},{"surface":"לדויד","gloss":"maa Dawid"},{"surface":"בן","gloss":"ba"},{"surface":"ישי","gloss":"Yishai"}],"timestamp":"2026-09-16T04:38:36.109886664Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɔansa Yawe hɔ asɛm bisaeɛ; enti ⟨ɔ⟩ kum no, na ɔdane ⟨את⟩ ahennie no maa Dawid, Yishai ba.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na an-"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "bisa asɛm"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe hɔ"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": " enti ɔkum no"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "na ɔdane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahennie no"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ahennie no"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "maa Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-09-16T04:38:36.109886664Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":3,"ref":"isaiah 31:3","book":"isaiah","lang":"tw","chapter":31,"translation":"Na Misraim yɛ onipa, ɛnyɛ El; na wɔn apɔnkɔ yɛ honam, ɛnyɛ honhom; na Yawe bɛbrɛ ne nsa ase, na ɔboafoɔ no bɛdɔeɛ, na wɔn a wɔboa wɔn no bɛtɔ, na wɔn nyinaa bɛsɛe abom.","tokens":[{"surface":"ומצרים","gloss":"Na Misraim"},{"surface":"אדם","gloss":"yɛ onipa"},{"surface":"ולא","gloss":"ɛnyɛ"},{"surface":"אל","gloss":"El"},{"surface":"וסוסיהם","gloss":"na wɔn apɔnkɔ"},{"surface":"בשר","gloss":"yɛ honam"},{"surface":"ולא","gloss":"ɛnyɛ"},{"surface":"רוח","gloss":"honhom"},{"surface":"ויהוה","gloss":"na Yawe"},{"surface":"יטה","gloss":"bɛbrɛ"},{"surface":"ידו","gloss":"ne nsa ase"},{"surface":"וכשל","gloss":"na ... bɛdɔeɛ"},{"surface":"עוזר","gloss":"ɔboafoɔ"},{"surface":"ונפל","gloss":"na ... bɛtɔ"},{"surface":"עזר","gloss":"wɔn a wɔboa wɔn"},{"surface":"ויחדו","gloss":"na ... abom"},{"surface":"כלם","gloss":"wɔn nyinaa"},{"surface":"יכליון","gloss":"bɛsɛe"}],"timestamp":"2026-09-15T23:52:51.849586173Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 31:3",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Na Misraim yɛ onipa, ɛnyɛ El; na wɔn apɔnkɔ yɛ honam, ɛnyɛ honhom; na Yawe bɛbrɛ ne nsa ase, na ɔboafoɔ no bɛdɔeɛ, na wɔn a wɔboa wɔn no bɛtɔ, na wɔn nyinaa bɛsɛe abom.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Na Misraim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yɛ onipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וסוסיהם",
+      "gloss": "na wɔn apɔnkɔ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "yɛ honam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhom"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "bɛbrɛ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa ase"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "na ... bɛdɔeɛ"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ɔboafoɔ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "na ... bɛtɔ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wɔn a wɔboa wɔn"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "na ... abom"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "יכליון",
+      "gloss": "bɛsɛe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:51.849586173Z",
+  "model": "glm-5.3"
+}

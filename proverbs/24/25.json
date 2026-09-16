@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":25,"ref":"proverbs 24:25","book":"proverbs","lang":"tw","chapter":24,"translation":"Na wɔn a wɔkyerɛkyerɛ mfomsoɔ no, ɛbɛyɛ wɔn dɛ, na nhyira a ɛyɛ dɛ bɛba wɔn so.","tokens":[{"surface":"ולמוכיחים","gloss":"na wɔn a wɔkyerɛkyerɛ mfomsoɔ"},{"surface":"ינעם","gloss":"ɛbɛyɛ wɔn dɛ"},{"surface":"ועליהם","gloss":"na wɔn so"},{"surface":"תבוא","gloss":"bɛba"},{"surface":"ברכת","gloss":"nhyira"},{"surface":"טוב","gloss":"a ɛyɛ dɛ"}],"timestamp":"2026-09-16T05:43:49.274694738Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na wɔn a wɔkyerɛkyerɛ mfomsoɔ no, ɛbɛyɛ wɔn dɛ, na nhyira a ɛyɛ dɛ bɛba wɔn so.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "na wɔn a wɔkyerɛkyerɛ mfomsoɔ"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ɛbɛyɛ wɔn dɛ"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "na wɔn so"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a ɛyɛ dɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:43:49.274694738Z",
+  "model": "glm-5.3"
+}

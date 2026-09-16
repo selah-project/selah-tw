@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":3,"ref":"ezekiel 29:3","book":"ezekiel","lang":"tw","chapter":29,"translation":"Kasa, na ka se: Sɛdeɛ Adonai Yawe ka: Hwɛ, me wo ho, Paroh, Misraim ɔhene, kurokuro kɛseɛ a ɔda n'asuom mu no, a ɔka se: Asuo no yɛ me dea, na meyɛɛ me ho.","tokens":[{"surface":"דבר","gloss":"Kasa"},{"surface":"ואמרת","gloss":"na ka se"},{"surface":"כה","gloss":"Sɛdeɛ"},{"surface":"אמר","gloss":"ka"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"הנני","gloss":"Hwɛ, me wo ho"},{"surface":"עליך","gloss":"wo so"},{"surface":"פרעה","gloss":"Paroh"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"התנים","gloss":"kurokuro"},{"surface":"הגדול","gloss":"kɛseɛ"},{"surface":"הרבץ","gloss":"a ɔda"},{"surface":"בתוך","gloss":"mu"},{"surface":"יאריו","gloss":"n'asuom"},{"surface":"אשר","gloss":"a"},{"surface":"אמר","gloss":"ɔka se"},{"surface":"לי","gloss":"me"},{"surface":"יארי","gloss":"asuo"},{"surface":"ואני","gloss":"na me"},{"surface":"עשיתני","gloss":"yɛɛ me ho"}],"timestamp":"2026-09-16T00:51:30.997556459Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 29:3",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Kasa, na ka se: Sɛdeɛ Adonai Yawe ka: Hwɛ, me wo ho, Paroh, Misraim ɔhene, kurokuro kɛseɛ a ɔda n'asuom mu no, a ɔka se: Asuo no yɛ me dea, na meyɛɛ me ho.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ka se"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hwɛ, me wo ho"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "התנים",
+      "gloss": "kurokuro"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "הרבץ",
+      "gloss": "a ɔda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יאריו",
+      "gloss": "n'asuom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔka se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "asuo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "yɛɛ me ho"
+    }
+  ],
+  "timestamp": "2026-09-16T00:51:30.997556459Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "genesis 21:4", "book": "genesis", "lang": "tw", "chapter": 21, "translation": "Abraham yɛɛ ⟨את⟩ Yitsak ne ba ntwetwa, berɛ a na wadi nnawɔtwe, sɛnea ⟨את⟩ Eloohim hyɛɛ no sɛ ɔnyɛ.", "tokens": [{"surface": "וימל", "gloss": "yɛɛ ntwetwa"}, {"surface": "אברהם", "gloss": "Abraham"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yitsak"}, {"surface": "יצחק", "gloss": "Yitsak"}, {"surface": "בנו", "gloss": "ne ba"}, {"surface": "בן", "gloss": "ba a wadi"}, {"surface": "שמנת", "gloss": "nnawɔtwe"}, {"surface": "ימים", "gloss": "nnawɔtwe (da)"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "צוה", "gloss": "hyɛɛ no"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no (Abraham)"}, {"surface": "אלהים", "gloss": "Eloohim"}], "timestamp": "2026-09-15T20:23:40.482449285Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Abraham yɛɛ ⟨את⟩ Yitsak ne ba ntwetwa, berɛ a na wadi nnawɔtwe, sɛnea ⟨את⟩ Eloohim hyɛɛ no sɛ ɔnyɛ.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "yɛɛ ntwetwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba a wadi"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "nnawɔtwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnawɔtwe (da)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ no"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (Abraham)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:40.482449285Z",
+  "model": "glm-5.3"
+}

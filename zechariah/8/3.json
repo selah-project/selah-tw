@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":3,"ref":"zechariah 8:3","book":"zechariah","lang":"tw","chapter":8,"translation":"Sɛnea na Yawe ka no: Misan aba Tsiyon, na metena Yerusalem mu; na wɔbɛfrɛ Yerusalem Nkokorɔfoɔ Kuro, ne Yawe Tsafoɔ Bepɔ no — Kronkron Bepɔ.","tokens":[{"surface":"כה","gloss":"sɛnea"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"שבתי","gloss":"misan aba"},{"surface":"אל","gloss":"aba"},{"surface":"ציון","gloss":"Tsiyon"},{"surface":"ושכנתי","gloss":"na metena"},{"surface":"בתוך","gloss":"mu"},{"surface":"ירושלם","gloss":"Yerusalem"},{"surface":"ונקראה","gloss":"na wɔbɛfrɛ"},{"surface":"ירושלם","gloss":"Yerusalem"},{"surface":"עיר","gloss":"Kuro"},{"surface":"האמת","gloss":"Nkokorɔfoɔ"},{"surface":"והר","gloss":"ne Bepɔ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"הר","gloss":"Bepɔ"},{"surface":"הקדש","gloss":"Kronkron"}],"timestamp":"2026-09-16T01:32:06.956025794Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 8:3",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Sɛnea na Yawe ka no: Misan aba Tsiyon, na metena Yerusalem mu; na wɔbɛfrɛ Yerusalem Nkokorɔfoɔ Kuro, ne Yawe Tsafoɔ Bepɔ no — Kronkron Bepɔ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "misan aba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "na metena"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ונקראה",
+      "gloss": "na wɔbɛfrɛ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Kuro"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "Nkokorɔfoɔ"
+    },
+    {
+      "surface": "והר",
+      "gloss": "ne Bepɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Bepɔ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Kronkron"
+    }
+  ],
+  "timestamp": "2026-09-16T01:32:06.956025794Z",
+  "model": "glm-5.3"
+}

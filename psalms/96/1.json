@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 96:1","book":"psalms","lang":"tw","chapter":96,"translation":"To dwom maa Yawe, dwom foforɔ; to dwom maa Yawe, asase nyinaa.","tokens":[{"surface":"שירו","gloss":"to dwom"},{"surface":"ליהוה","gloss":"maa Yawe"},{"surface":"שיר","gloss":"dwom"},{"surface":"חדש","gloss":"foforɔ"},{"surface":"שירו","gloss":"to dwom"},{"surface":"ליהוה","gloss":"maa Yawe"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הארץ","gloss":"asase"}],"timestamp":"2026-09-16T02:18:57.316787363Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 96,
+  "translation": "To dwom maa Yawe, dwom foforɔ; to dwom maa Yawe, asase nyinaa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "to dwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "to dwom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-16T02:18:57.316787363Z",
+  "model": "glm-5.3"
+}

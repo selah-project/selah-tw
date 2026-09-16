@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "numbers 14:6", "book": "numbers", "lang": "tw", "chapter": 14, "translation": "Yehoshua, Nun ba, ne Kalev, Yefuneh ba, a wɔfiri wɔn a wɔhwɛɛ ⟨את⟩ asase no mu no, wɔtetew wɔn ntadeɛ.", "tokens": [{"surface": "ויהושע", "gloss": "Yehoshua"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נון", "gloss": "Nun"}, {"surface": "וכלב", "gloss": "ne Kalev"}, {"surface": "בן", "gloss": "ba"}, {"surface": "יפנה", "gloss": "Yefuneh"}, {"surface": "מן", "gloss": "firi"}, {"surface": "התרים", "gloss": "wɔn a wɔhwɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "קרעו", "gloss": "wɔtetew"}, {"surface": "בגדיהם", "gloss": "wɔn ntadeɛ"}], "timestamp": "2026-09-15T21:31:59.312266672Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 14:6",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Yehoshua, Nun ba, ne Kalev, Yefuneh ba, a wɔfiri wɔn a wɔhwɛɛ ⟨את⟩ asase no mu no, wɔtetew wɔn ntadeɛ.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "וכלב",
+      "gloss": "ne Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "wɔn a wɔhwɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "wɔtetew"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "wɔn ntadeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:31:59.312266672Z",
+  "model": "glm-5.3"
+}

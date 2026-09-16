@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":18,"ref":"jeremiah 27:18","book":"jeremiah","lang":"tw","chapter":27,"translation":"Na sɛ wɔyɛ anansesɛmfoɔ, na sɛ Yawe asɛm da ⟨את⟩ wɔn ho, a, wɔmmisa Yawe Sabao ntɛm, na nnkae a aka wɔ Yawe fie, ne Yehuda ɔhene fie, ne Yerusalem mu no annkɔ Babilon.","tokens":[{"surface":"ואם","gloss":"na sɛ"},{"surface":"נבאים","gloss":"anansesɛmfoɔ"},{"surface":"הם","gloss":"wɔ"},{"surface":"ואם","gloss":"na sɛ"},{"surface":"יש","gloss":"wɔ"},{"surface":"דבר","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אתם","gloss":"⟨את⟩ wɔn ho"},{"surface":"יפגעו","gloss":"wɔmmisa"},{"surface":"נא","gloss":"ntɛm"},{"surface":"ביהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"לבלתי","gloss":"na ... annkɔ"},{"surface":"באו","gloss":"nkɔ"},{"surface":"הכלים","gloss":"nnkae"},{"surface":"הנותרים","gloss":"a aka"},{"surface":"בבית","gloss":"wɔ fie"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"ובית","gloss":"ne fie"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"ובירושלם","gloss":"ne Yerusalem mu"},{"surface":"בבלה","gloss":"Babilon"}],"timestamp":"2026-09-16T00:17:56.244137601Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 27:18",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na sɛ wɔyɛ anansesɛmfoɔ, na sɛ Yawe asɛm da ⟨את⟩ wɔn ho, a, wɔmmisa Yawe Sabao ntɛm, na nnkae a aka wɔ Yawe fie, ne Yehuda ɔhene fie, ne Yerusalem mu no annkɔ Babilon.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "anansesɛmfoɔ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn ho"
+    },
+    {
+      "surface": "יפגעו",
+      "gloss": "wɔmmisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ntɛm"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na ... annkɔ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nnkae"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "a aka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ne Yerusalem mu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T00:17:56.244137601Z",
+  "model": "glm-5.3"
+}

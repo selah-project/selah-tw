@@ -1,1 +1,129 @@
-{"tier": "glm-5.2", "verse": 35, "ref": "jeremiah 32:35", "book": "jeremiah", "lang": "tw", "chapter": 32, "translation": "Na wɔsii ⟨את⟩ Baal ⟨את⟩ asɔrefie-akɛse a ɛwɔ Ben-Hinom mu, de ma wɔde ⟨את⟩ wɔn mma ne ⟨את⟩ wɔn mmaa twaa mu kɔɔ Malek ho — deɛ mehyɛɛ wɔn sɛ wɔnyɛ biara, na ɛnnyɛ biribiara a ɛkɔɔ me akoma mu sɛ wɔnyɛ ɛhwyɛ-yadee yi, na ama Yuda ayɛ mfomfo.", "tokens": [{"surface": "ויבנו", "gloss": "Na wɔsii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Baal asɔrefie-akɛse"}, {"surface": "במות", "gloss": "asɔrefie-akɛse"}, {"surface": "הבעל", "gloss": "Baal"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בגיא", "gloss": "ɛwɔ ... mu"}, {"surface": "בן", "gloss": "ba"}, {"surface": "הנם", "gloss": "Hinom"}, {"surface": "להעביר", "gloss": "de ma wɔde ... twaa mu kɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn mma"}, {"surface": "בניהם", "gloss": "wɔn mma"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn mmaa"}, {"surface": "בנותיהם", "gloss": "wɔn mmaa"}, {"surface": "למלך", "gloss": "Malek ho"}, {"surface": "אשר", "gloss": "—"}, {"surface": "לא", "gloss": "deɛ ... biara"}, {"surface": "צויתים", "gloss": "mehyɛɛ wɔn"}, {"surface": "ולא", "gloss": "na ɛnnyɛ"}, {"surface": "עלתה", "gloss": "kɔɔ"}, {"surface": "על", "gloss": "mu"}, {"surface": "לבי", "gloss": "me akoma"}, {"surface": "לעשות", "gloss": "sɛ wɔnyɛ"}, {"surface": "התועבה", "gloss": "ɛhwyɛ-yadee"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "למען", "gloss": "na ama"}, {"surface": "החטי", "gloss": "ayɛ mfomfo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yuda"}, {"surface": "יהודה", "gloss": "Yuda"}], "timestamp": "2026-09-16T00:21:22.366865354Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 32:35",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na wɔsii ⟨את⟩ Baal ⟨את⟩ asɔrefie-akɛse a ɛwɔ Ben-Hinom mu, de ma wɔde ⟨את⟩ wɔn mma ne ⟨את⟩ wɔn mmaa twaa mu kɔɔ Malek ho — deɛ mehyɛɛ wɔn sɛ wɔnyɛ biara, na ɛnnyɛ biribiara a ɛkɔɔ me akoma mu sɛ wɔnyɛ ɛhwyɛ-yadee yi, na ama Yuda ayɛ mfomfo.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "Na wɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal asɔrefie-akɛse"
+    },
+    {
+      "surface": "במות",
+      "gloss": "asɔrefie-akɛse"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ɛwɔ ... mu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "de ma wɔde ... twaa mu kɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mma"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wɔn mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mmaa"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "wɔn mmaa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Malek ho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deɛ ... biara"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "mehyɛɛ wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnnyɛ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ wɔnyɛ"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "ɛhwyɛ-yadee"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na ama"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "ayɛ mfomfo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-16T00:21:22.366865354Z",
+  "model": "glm-5.3"
+}

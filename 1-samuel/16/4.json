@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":4,"ref":"1-samuel 16:4","book":"1-samuel","lang":"tw","chapter":16,"translation":"Shemuɛl yɛɛ ⟨את⟩ deɛ Yawe kae no; ɔbaa Betelehem, na kurow no mpanimfoɔ wɔn ho dwirii wɔ ne hyiaeɛ mu, na ɔbisaa sɛ: Wode asomdwoeɛ na wobɛba?","tokens":[{"surface":"ויעש","gloss":"yɛɛ"},{"surface":"שמואל","gloss":"Shemuɛl"},{"surface":"את","gloss":"⟨את⟩","marks":"deɛ Yawe kae"},{"surface":"אשר","gloss":"deɛ"},{"surface":"דבר","gloss":"kae"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"ויבא","gloss":"baa"},{"surface":"בית","gloss":"Bete-"},{"surface":"לחם","gloss":"lehem"},{"surface":"ויחרדו","gloss":"wɔn ho dwirii"},{"surface":"זקני","gloss":"mpanimfoɔ"},{"surface":"העיר","gloss":"kurow no"},{"surface":"לקראתו","gloss":"ne hyiaeɛ"},{"surface":"ויאמר","gloss":"bisaa"},{"surface":"שלם","gloss":"asomdwoeɛ"},{"surface":"בואך","gloss":"wobɛba"}],"timestamp":"2026-09-15T22:54:54.178877827Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Shemuɛl yɛɛ ⟨את⟩ deɛ Yawe kae no; ɔbaa Betelehem, na kurow no mpanimfoɔ wɔn ho dwirii wɔ ne hyiaeɛ mu, na ɔbisaa sɛ: Wode asomdwoeɛ na wobɛba?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ Yawe kae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kae"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bete-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "wɔn ho dwirii"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ne hyiaeɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bisaa"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "asomdwoeɛ"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "wobɛba"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:54.178877827Z",
+  "model": "glm-5.3"
+}

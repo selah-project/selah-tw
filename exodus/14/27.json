@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "exodus 14:27", "book": "exodus", "lang": "tw", "chapter": 14, "translation": "Na Mose tenee ⟨את⟩ ne nsa so wɔ po no so, na po no san baa ne mu a anɔpa bɔne sɛnea na ɛte bi; na Misraim redwane a, na Yawe bɔɔ ⟨את⟩ wɔn guuiɛ wɔ po no mu.", "tokens": [{"surface": "ויט", "gloss": "Na ... tenee"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nsa"}, {"surface": "ידו", "gloss": "ne nsa"}, {"surface": "על", "gloss": "so wɔ ... so"}, {"surface": "הים", "gloss": "po no"}, {"surface": "וישב", "gloss": "na ... san baa"}, {"surface": "הים", "gloss": "po no"}, {"surface": "לפנות", "gloss": "bere a"}, {"surface": "בקר", "gloss": "anɔpa"}, {"surface": "לאיתנו", "gloss": "baa ne mu sɛnea na ɛte bi"}, {"surface": "ומצרים", "gloss": "na Misraim"}, {"surface": "נסים", "gloss": "redwane"}, {"surface": "לקראתו", "gloss": "a"}, {"surface": "וינער", "gloss": "na ... bɔɔ wɔn guuiɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Misraim"}, {"surface": "מצרים", "gloss": "wɔn"}, {"surface": "בתוך", "gloss": "wɔ ... mu"}, {"surface": "הים", "gloss": "po no"}], "timestamp": "2026-09-15T20:49:57.854477441Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 14:27",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Mose tenee ⟨את⟩ ne nsa so wɔ po no so, na po no san baa ne mu a anɔpa bɔne sɛnea na ɛte bi; na Misraim redwane a, na Yawe bɔɔ ⟨את⟩ wɔn guuiɛ wɔ po no mu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Na ... tenee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so wɔ ... so"
+    },
+    {
+      "surface": "הים",
+      "gloss": "po no"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ... san baa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "po no"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "bere a"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    },
+    {
+      "surface": "לאיתנו",
+      "gloss": "baa ne mu sɛnea na ɛte bi"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "na Misraim"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "redwane"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "a"
+    },
+    {
+      "surface": "וינער",
+      "gloss": "na ... bɔɔ wɔn guuiɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "po no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:57.854477441Z",
+  "model": "glm-5.3"
+}

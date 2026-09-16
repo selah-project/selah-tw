@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":7,"ref":"deuteronomy 20:7","book":"deuteronomy","lang":"tw","chapter":20,"translation":"Na hwan ne barima a ɔsɔree ɔbaa na wamma no? Ɔnkɔ na ɔnsan nkɔ n'fie, ampa ɔwu wɔ ɔko mu, na barima foforɔ bewtra no.","tokens":[{"surface":"ומי","gloss":"na hwan"},{"surface":"האיש","gloss":"barima no"},{"surface":"אשר","gloss":"a"},{"surface":"ארש","gloss":"sɔree"},{"surface":"אשה","gloss":"ɔbaa"},{"surface":"ולא","gloss":"na wamma"},{"surface":"לקחה","gloss":"no"},{"surface":"ילך","gloss":"ɔnkɔ"},{"surface":"וישב","gloss":"ɔnsan"},{"surface":"לביתו","gloss":"nkɔ n'fie"},{"surface":"פן","gloss":"ampa"},{"surface":"ימות","gloss":"ɔwu"},{"surface":"במלחמה","gloss":"wɔ ɔko mu"},{"surface":"ואיש","gloss":"na barima"},{"surface":"אחר","gloss":"foforɔ"},{"surface":"יקחנה","gloss":"bɛwtra no"}],"timestamp":"2026-09-15T21:54:08.670303658Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na hwan ne barima a ɔsɔree ɔbaa na wamma no? Ɔnkɔ na ɔnsan nkɔ n'fie, ampa ɔwu wɔ ɔko mu, na barima foforɔ bewtra no.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "na hwan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "barima no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wamma"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "no"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ɔnkɔ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ɔnsan"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nkɔ n'fie"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ampa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ɔwu"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "wɔ ɔko mu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na barima"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "bɛwtra no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:08.670303658Z",
+  "model": "glm-5.3"
+}

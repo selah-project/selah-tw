@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":9,"ref":"ezra 7:9","book":"ezra","lang":"tw","chapter":7,"translation":"Ɛfiri sɛ wɔ bosome a ɛdi kan no da a ɛdi kan no, ɔhyɛɛ aseɛ ne n'anoɛ fri Babel; na wɔ bosome a ɛtɔ so anum no da a ɛdi kan no, ɔbaa Yerusalem, ɛfiri sɛ Eloohim nsa pa no daa so wɔ no.","tokens":[{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"באחד","gloss":"wɔ ... da a ɛdi kan"},{"surface":"לחדש","gloss":"bosome no"},{"surface":"הראשון","gloss":"a ɛdi kan"},{"surface":"הוא","gloss":"no"},{"surface":"יסד","gloss":"ɔhyɛɛ aseɛ"},{"surface":"המעלה","gloss":"ne n'anoɛ"},{"surface":"מבבל","gloss":"fri Babel"},{"surface":"ובאחד","gloss":"na wɔ ... da a ɛdi kan"},{"surface":"לחדש","gloss":"bosome no"},{"surface":"החמישי","gloss":"a ɛtɔ so anum"},{"surface":"בא","gloss":"ɔbaa"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"ירושלם","gloss":"Yerusalem"},{"surface":"כיד","gloss":"sɛnea ... nsa"},{"surface":"אלהיו","gloss":"Eloohim deɛ"},{"surface":"הטובה","gloss":"pa no"},{"surface":"עליו","gloss":"da so wɔ no"}],"timestamp":"2026-09-16T06:54:23.038762524Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 7:9",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Ɛfiri sɛ wɔ bosome a ɛdi kan no da a ɛdi kan no, ɔhyɛɛ aseɛ ne n'anoɛ fri Babel; na wɔ bosome a ɛtɔ so anum no da a ɛdi kan no, ɔbaa Yerusalem, ɛfiri sɛ Eloohim nsa pa no daa so wɔ no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "wɔ ... da a ɛdi kan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bosome no"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "a ɛdi kan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "ɔhyɛɛ aseɛ"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ne n'anoɛ"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "fri Babel"
+    },
+    {
+      "surface": "ובאחד",
+      "gloss": "na wɔ ... da a ɛdi kan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bosome no"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "a ɛtɔ so anum"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "sɛnea ... nsa"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim deɛ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "pa no"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "da so wɔ no"
+    }
+  ],
+  "timestamp": "2026-09-16T06:54:23.038762524Z",
+  "model": "glm-5.3"
+}

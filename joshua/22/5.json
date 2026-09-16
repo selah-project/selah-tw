@@ -1,1 +1,136 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "joshua 22:5", "book": "joshua", "lang": "tw", "chapter": 22, "translation": "Nkutoo, monhwɛ yie koraa na moyɛ ⟨את⟩ hyɛdeɛ no ne ⟨את⟩ Toraa no, a Mosɛ, Yawe akua, hyɛɛ mo; sɛ mo dɔ ⟨את⟩ Yawe, mo Eloohim, na mo nam n'akwan nyinaa mu, na monyɛ n'a⟨את⟩ hyɛdeɛ, na mo nka ne ho, na monsom no wɔ mo akoma nyinaa mu ne mo nkwa nyinaa mu.", "tokens": [{"surface": "רק", "gloss": "nkutoo"}, {"surface": "שמרו", "gloss": "monhwɛ"}, {"surface": "מאד", "gloss": "yie koraa"}, {"surface": "לעשות", "gloss": "na moyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "hyɛdeɛ no"}, {"surface": "המצוה", "gloss": "hyɛdeɛ no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Toraa no"}, {"surface": "התורה", "gloss": "Toraa no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "משה", "gloss": "Mosɛ"}, {"surface": "עבד", "gloss": "akua"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לאהבה", "gloss": "sɛ mo dɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "וללכת", "gloss": "na mo nam"}, {"surface": "בכל", "gloss": "nyinaa mu"}, {"surface": "דרכיו", "gloss": "n'akwan"}, {"surface": "ולשמר", "gloss": "na monyɛ"}, {"surface": "מצותיו", "gloss": "n'ahyɛdeɛ"}, {"surface": "ולדבקה", "gloss": "na mo nka"}, {"surface": "בו", "gloss": "ne ho"}, {"surface": "ולעבדו", "gloss": "na monsom no"}, {"surface": "בכל", "gloss": "nyinaa mu"}, {"surface": "לבבכם", "gloss": "mo akoma"}, {"surface": "ובכל", "gloss": "ne … nyinaa mu"}, {"surface": "נפשכם", "gloss": "mo nkwa"}], "timestamp": "2026-09-15T22:09:33.115803288Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 22:5",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Nkutoo, monhwɛ yie koraa na moyɛ ⟨את⟩ hyɛdeɛ no ne ⟨את⟩ Toraa no, a Mosɛ, Yawe akua, hyɛɛ mo; sɛ mo dɔ ⟨את⟩ Yawe, mo Eloohim, na mo nam n'akwan nyinaa mu, na monyɛ n'a⟨את⟩ hyɛdeɛ, na mo nka ne ho, na monsom no wɔ mo akoma nyinaa mu ne mo nkwa nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nkutoo"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "monhwɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yie koraa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na moyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyɛdeɛ no"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "hyɛdeɛ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Toraa no"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sɛ mo dɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "na mo nam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "n'akwan"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "na monyɛ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "n'ahyɛdeɛ"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "na mo nka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "na monsom no"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mo akoma"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne … nyinaa mu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "mo nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:09:33.115803288Z",
+  "model": "glm-5.3"
+}

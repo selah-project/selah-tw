@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":13,"ref":"psalms 108:13","book":"psalms","lang":"tw","chapter":108,"translation":"Ma yɛn mmoa afiri ɔhaw mu; na ɛkwa ne onipa nkwagyeɛ.","tokens":[{"surface":"הבה","gloss":"Ma"},{"surface":"לנו","gloss":"yɛn"},{"surface":"עזרת","gloss":"mmoa"},{"surface":"מצר","gloss":"firi ɔhaw mu"},{"surface":"ושוא","gloss":"na ɛkwa"},{"surface":"תשועת","gloss":"nkwagyeɛ"},{"surface":"אדם","gloss":"onipa"}],"timestamp":"2026-09-16T02:21:49.872319793Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 108,
+  "translation": "Ma yɛn mmoa afiri ɔhaw mu; na ɛkwa ne onipa nkwagyeɛ.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "firi ɔhaw mu"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "na ɛkwa"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "nkwagyeɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:21:49.872319793Z",
+  "model": "glm-5.3"
+}

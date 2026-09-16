@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "genesis 5:22", "book": "genesis", "lang": "tw", "chapter": 5, "translation": "Na Henok ⟨את⟩ ne Eloohim nam kɔɔ, wɔ ⟨את⟩ Metuselah awo akyi mfeɛ ahaasa, na ɔwoo mma mmarima ne mmaa.", "tokens": [{"surface": "ויתהלך", "gloss": "nam kɔɔ"}, {"surface": "חנוך", "gloss": "Henok"}, {"surface": "את", "gloss": "⟨את⟩ ne", "marks": "Eloohim"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "הולידו", "gloss": "ɔwoo no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Metuselah"}, {"surface": "מתושלח", "gloss": "Metuselah"}, {"surface": "שלש", "gloss": "ahaasa"}, {"surface": "מאות", "gloss": "(ahaasa)"}, {"surface": "שנה", "gloss": "mfeɛ"}, {"surface": "ויולד", "gloss": "na ɔwoo"}, {"surface": "בנים", "gloss": "mma mmarima"}, {"surface": "ובנות", "gloss": "ne mmaa"}], "timestamp": "2026-09-15T20:16:40.061842918Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Henok ⟨את⟩ ne Eloohim nam kɔɔ, wɔ ⟨את⟩ Metuselah awo akyi mfeɛ ahaasa, na ɔwoo mma mmarima ne mmaa.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "nam kɔɔ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Henok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ɔwoo no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuselah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuselah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ahaasa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(ahaasa)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mmaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:40.061842918Z",
+  "model": "glm-5.3"
+}

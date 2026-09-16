@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "nehemiah 13:23", "book": "nehemiah", "lang": "tw", "chapter": 13, "translation": "Wɔ saa nnawɔtwe no mu mpo, mhunu ⟨את⟩ Yudafoɔ a wɔwaree mmaa — Ashdodfoɔ, Ammonfoɔ, ne Moabfoɔ mmaa.", "tokens": [{"surface": "גם", "gloss": "mpo"}, {"surface": "בימים", "gloss": "wɔ saa nnawɔtwe"}, {"surface": "ההם", "gloss": "no mu"}, {"surface": "ראיתי", "gloss": "mhunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yudafoɔ"}, {"surface": "היהודים", "gloss": "Yudafoɔ"}, {"surface": "השיבו", "gloss": "a wɔwaree"}, {"surface": "נשים", "gloss": "mmaa"}, {"surface": "אשדודיות", "gloss": "Ashdodfoɔ"}, {"surface": "עמוניות", "gloss": "Ammonfoɔ"}, {"surface": "מואביות", "gloss": "Moabfoɔ"}], "timestamp": "2026-09-16T04:34:10.869773672Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Wɔ saa nnawɔtwe no mu mpo, mhunu ⟨את⟩ Yudafoɔ a wɔwaree mmaa — Ashdodfoɔ, Ammonfoɔ, ne Moabfoɔ mmaa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "wɔ saa nnawɔtwe"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mhunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yudafoɔ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yudafoɔ"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "a wɔwaree"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mmaa"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "Ashdodfoɔ"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "Ammonfoɔ"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:34:10.869773672Z",
+  "model": "glm-5.3"
+}

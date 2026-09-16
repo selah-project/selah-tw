@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "deuteronomy 23:5", "book": "deuteronomy", "lang": "tw", "chapter": 23, "translation": "Esiane asɛm a wɔannima mo ⟨אתכם⟩ aniagua wɔ du aboa ne nsuo so wɔ ɔkwan no so, berɛ a moefiri Misraim mu aba, na esiane sɛ wɔgyee ⟨את⟩ Bilam Beor ba a ofi Pethor, Aram-Naharaim, sɛ ɔnkasa mo amim nti.", "tokens": [{"surface": "על", "gloss": "esiane"}, {"surface": "דבר", "gloss": "asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "annim"}, {"surface": "קדמו", "gloss": "wɔannima aniagua"}, {"surface": "אתכם", "gloss": "⟨אתכם⟩", "marks": "mo"}, {"surface": "בלחם", "gloss": "wɔ du aboa so"}, {"surface": "ובמים", "gloss": "ne nsuo"}, {"surface": "בדרך", "gloss": "wɔ ɔkwan no so"}, {"surface": "בצאתכם", "gloss": "berɛ a moefiri"}, {"surface": "ממצרים", "gloss": "Misraim mu"}, {"surface": "ואשר", "gloss": "na esiane sɛ"}, {"surface": "שכר", "gloss": "wɔgyee"}, {"surface": "עליך", "gloss": "tia wo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Bilam"}, {"surface": "בלעם", "gloss": "Bilam"}, {"surface": "בן", "gloss": "ba"}, {"surface": "בעור", "gloss": "Beor"}, {"surface": "מפתור", "gloss": "ofi Pethor"}, {"surface": "ארם", "gloss": "Aram"}, {"surface": "נהרים", "gloss": "Naharaim"}, {"surface": "לקללך", "gloss": "sɛ ɔnkasa wo amim"}], "timestamp": "2026-09-15T21:54:53.460150379Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Esiane asɛm a wɔannima mo ⟨אתכם⟩ aniagua wɔ du aboa ne nsuo so wɔ ɔkwan no so, berɛ a moefiri Misraim mu aba, na esiane sɛ wɔgyee ⟨את⟩ Bilam Beor ba a ofi Pethor, Aram-Naharaim, sɛ ɔnkasa mo amim nti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "esiane"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annim"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "wɔannima aniagua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "wɔ du aboa so"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ne nsuo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ɔkwan no so"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "berɛ a moefiri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim mu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na esiane sɛ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "wɔgyee"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tia wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "ofi Pethor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "sɛ ɔnkasa wo amim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:54:53.460150379Z",
+  "model": "glm-5.3"
+}

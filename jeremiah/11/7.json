@@ -1,1 +1,81 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "jeremiah 11:7", "book": "jeremiah", "lang": "tw", "chapter": 11, "translation": "Ɛfiri sɛ meteɛm kyerɛɛ mo nanafoɔ wɔ ɛda a mede ⟨את⟩ wɔn firi Misraim asase so no, kɔsi da a ɛnni yi, misɔree anɔpa ntɛm reteɛm kyerɛ wɔn sɛ: Montie me nne.", "tokens": [{"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "העד", "gloss": "meteɛm"}, {"surface": "העדתי", "gloss": "kyerɛɛ"}, {"surface": "באבותיכם", "gloss": "mo nanafoɔ"}, {"surface": "ביום", "gloss": "wɔ ɛda"}, {"surface": "העלותי", "gloss": "a mede wɔn firi"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "מארץ", "gloss": "asase so"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "ועד", "gloss": "kɔsi"}, {"surface": "היום", "gloss": "da"}, {"surface": "הזה", "gloss": "a ɛnni yi"}, {"surface": "השכם", "gloss": "misɔree anɔpa ntɛm"}, {"surface": "והעד", "gloss": "reteɛm kyerɛ wɔn"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "שמעו", "gloss": "montie"}, {"surface": "בקולי", "gloss": "me nne"}], "timestamp": "2026-09-16T00:11:52.145419123Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 11:7",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛfiri sɛ meteɛm kyerɛɛ mo nanafoɔ wɔ ɛda a mede ⟨את⟩ wɔn firi Misraim asase so no, kɔsi da a ɛnni yi, misɔree anɔpa ntɛm reteɛm kyerɛ wɔn sɛ: Montie me nne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "העד",
+      "gloss": "meteɛm"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "באבותיכם",
+      "gloss": "mo nanafoɔ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda"
+    },
+    {
+      "surface": "העלותי",
+      "gloss": "a mede wɔn firi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a ɛnni yi"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "misɔree anɔpa ntɛm"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "reteɛm kyerɛ wɔn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "montie"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "me nne"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:52.145419123Z",
+  "model": "glm-5.3"
+}

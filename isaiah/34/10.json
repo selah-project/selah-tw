@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 34:10","book":"isaiah","lang":"tw","chapter":34,"translation":"Anadwo ne kwamma no rentum da; ne meguno bɛforo kɔ daa; ɔfasuo bɛyɛ asɛeɛ firi nkyirimma kɔsi nkyirimma; afebua, ɛbɛyɛ asɛe; obiara ntwa mu da.","tokens":[{"surface":"לילה","gloss":"Anadwo"},{"surface":"ויומם","gloss":"ne kwamma"},{"surface":"לא","gloss":"rentum da"},{"surface":"תכבה","gloss":"rentum"},{"surface":"לעולם","gloss":"daa"},{"surface":"יעלה","gloss":"bɛforo kɔ"},{"surface":"עשנה","gloss":"ne meguno"},{"surface":"מדור","gloss":"firi nkyirimma"},{"surface":"לדור","gloss":"kɔsi nkyirimma"},{"surface":"תחרב","gloss":"bɛyɛ asɛe"},{"surface":"לנצח","gloss":"afebua"},{"surface":"נצחים","gloss":"afebua-so"},{"surface":"אין","gloss":"obiara nni"},{"surface":"עבר","gloss":"otwa mu"},{"surface":"בה","gloss":"mu"}],"timestamp":"2026-09-15T23:51:32.139012837Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Anadwo ne kwamma no rentum da; ne meguno bɛforo kɔ daa; ɔfasuo bɛyɛ asɛeɛ firi nkyirimma kɔsi nkyirimma; afebua, ɛbɛyɛ asɛe; obiara ntwa mu da.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "Anadwo"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "ne kwamma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rentum da"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "rentum"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bɛforo kɔ"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "ne meguno"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "firi nkyirimma"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kɔsi nkyirimma"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "bɛyɛ asɛe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "afebua"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "afebua-so"
+    },
+    {
+      "surface": "אין",
+      "gloss": "obiara nni"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "otwa mu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:51:32.139012837Z",
+  "model": "glm-5.3"
+}

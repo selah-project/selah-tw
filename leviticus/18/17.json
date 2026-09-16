@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "leviticus 18:17", "book": "leviticus", "lang": "tw", "chapter": 18, "translation": "Obaa nkwaseasɛm ne ne ⟨את⟩ babea deɛ, ensɛ sɛ wobubu; ne ba barima babea ne ⟨את⟩ ne babea babea, wonnya sɛ sɛ wobɛbubu ne nkwaseasɛm; wɔyɛ n'akyerefoɔ; ɛyɛ bɔne.", "tokens": [{"surface": "ערות", "gloss": "nkwaseasɛm"}, {"surface": "אשה", "gloss": "obaa"}, {"surface": "ובתה", "gloss": "ne ne babea"}, {"surface": "לא", "gloss": "enni/ensɛ"}, {"surface": "תגלה", "gloss": "sɛ wobubu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "babea"}, {"surface": "בת", "gloss": "babea"}, {"surface": "בנה", "gloss": "ne ba barima deɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "babea"}, {"surface": "בת", "gloss": "babea"}, {"surface": "בתה", "gloss": "ne babea deɛ"}, {"surface": "לא", "gloss": "wonnya"}, {"surface": "תקח", "gloss": "sɛ wobɛfa"}, {"surface": "לגלות", "gloss": "sɛ wobɛbubu"}, {"surface": "ערותה", "gloss": "ne nkwaseasɛm"}, {"surface": "שארה", "gloss": "n'akyerefoɔ"}, {"surface": "הנה", "gloss": "wɔyɛ"}, {"surface": "זמה", "gloss": "bone"}, {"surface": "הוא", "gloss": "ɛyɛ"}], "timestamp": "2026-09-15T22:28:35.993281342Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Obaa nkwaseasɛm ne ne ⟨את⟩ babea deɛ, ensɛ sɛ wobubu; ne ba barima babea ne ⟨את⟩ ne babea babea, wonnya sɛ sɛ wobɛbubu ne nkwaseasɛm; wɔyɛ n'akyerefoɔ; ɛyɛ bɔne.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nkwaseasɛm"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obaa"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "ne ne babea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enni/ensɛ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "sɛ wobubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babea"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ne ba barima deɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "babea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babea"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "ne babea deɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonnya"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sɛ wobɛfa"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "sɛ wobɛbubu"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ne nkwaseasɛm"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "n'akyerefoɔ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:28:35.993281342Z",
+  "model": "glm-5.3"
+}

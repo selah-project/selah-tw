@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "ecclesiastes 12:13", "book": "ecclesiastes", "lang": "tw", "chapter": 12, "translation": "Asɛm no awieɛ, deɛ kesie biara wɔate: Yawe no, suro ⟨את⟩ Eloohim, na hwɛso ⟨את⟩ ne mmara so, ɛfiri sɛ deɛ yeinom ne onipa nyinaa.", "tokens": [{"surface": "סוף", "gloss": "awieɛ"}, {"surface": "דבר", "gloss": "asɛm"}, {"surface": "הכל", "gloss": "deɛ kesie biara"}, {"surface": "נשמע", "gloss": "wɔate"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Eloohim"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "ירא", "gloss": "suro"}, {"surface": "ואת", "gloss": "⟨את⟩ ne", "marks": "ne mmara so"}, {"surface": "מצותיו", "gloss": "ne mmara"}, {"surface": "שמור", "gloss": "hwɛ so"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "זה", "gloss": "deɛ yeinom"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "האדם", "gloss": "onipa"}], "timestamp": "2026-09-16T03:57:19.063908343Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Asɛm no awieɛ, deɛ kesie biara wɔate: Yawe no, suro ⟨את⟩ Eloohim, na hwɛso ⟨את⟩ ne mmara so, ɛfiri sɛ deɛ yeinom ne onipa nyinaa.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "awieɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "deɛ kesie biara"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "wɔate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "suro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne mmara so"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hwɛ so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deɛ yeinom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    }
+  ],
+  "timestamp": "2026-09-16T03:57:19.063908343Z",
+  "model": "glm-5.3"
+}

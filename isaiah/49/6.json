@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "isaiah 49:6", "book": "isaiah", "lang": "tw", "chapter": 49, "translation": "Na ɔkaa sɛ: ɛyɛ nneɛma ketewaa sɛ woyɛ me ɛdɛfoɔ sɛ wode Yaakob ⟨את⟩ nnipa nkuo bɛsɔre, na sɛ wode wɔn a wɔakora wɔn so wɔ Yisraɛl mu bɛsan aba — na mede bɛwo ama amanaman sɛ hann, na wobɛyɛ me nkwagyeɛ kɔsi asase no awiei.", "tokens": [{"surface": "ויאמר", "gloss": "na ɔkaa sɛ"}, {"surface": "נקל", "gloss": "ɛyɛ nneɛma ketewaa"}, {"surface": "מהיותך", "gloss": "sɛ woyɛ"}, {"surface": "לי", "gloss": "me"}, {"surface": "עבד", "gloss": "ɛdɛfoɔ"}, {"surface": "להקים", "gloss": "sɛ wode bɛsɔre"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaakob nnipa nkuo"}, {"surface": "שבטי", "gloss": "nnipa nkuo"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "ונצירי", "gloss": "na wɔn a wɔakora wɔn so"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "להשיב", "gloss": "sɛ wode bɛsan aba"}, {"surface": "ונתתיך", "gloss": "na mede bɛwo"}, {"surface": "לאור", "gloss": "sɛ hann"}, {"surface": "גוים", "gloss": "amanaman"}, {"surface": "להיות", "gloss": "sɛ wobɛyɛ"}, {"surface": "ישועתי", "gloss": "me nkwagyeɛ"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "קצה", "gloss": "awiei"}, {"surface": "הארץ", "gloss": "asase no"}], "timestamp": "2026-09-15T23:59:48.895190737Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 49:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Na ɔkaa sɛ: ɛyɛ nneɛma ketewaa sɛ woyɛ me ɛdɛfoɔ sɛ wode Yaakob ⟨את⟩ nnipa nkuo bɛsɔre, na sɛ wode wɔn a wɔakora wɔn so wɔ Yisraɛl mu bɛsan aba — na mede bɛwo ama amanaman sɛ hann, na wobɛyɛ me nkwagyeɛ kɔsi asase no awiei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "ɛyɛ nneɛma ketewaa"
+    },
+    {
+      "surface": "מהיותך",
+      "gloss": "sɛ woyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ɛdɛfoɔ"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "sɛ wode bɛsɔre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob nnipa nkuo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "nnipa nkuo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ונצירי",
+      "gloss": "na wɔn a wɔakora wɔn so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sɛ wode bɛsan aba"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "na mede bɛwo"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sɛ hann"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sɛ wobɛyɛ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "me nkwagyeɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "awiei"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:59:48.895190737Z",
+  "model": "glm-5.3"
+}

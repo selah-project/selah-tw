@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "leviticus 16:7", "book": "leviticus", "lang": "tw", "chapter": 16, "translation": "Na ɔbɛgye mmirenyini ⟨את⟩ mmienu no, de ⟨את⟩ wɔn agu Yawe anim, wɔ Nhyiam Tɛntreenni no ano.", "tokens": [{"surface": "ולקח", "gloss": "gye"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mmirenyini mmienu no"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "השעירם", "gloss": "mmirenyini"}, {"surface": "והעמיד", "gloss": "de agu"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "פתח", "gloss": "ano"}, {"surface": "אהל", "gloss": "Tɛntreenni"}, {"surface": "מועד", "gloss": "Nhyiam"}], "timestamp": "2026-09-15T21:16:51.235465751Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔbɛgye mmirenyini ⟨את⟩ mmienu no, de ⟨את⟩ wɔn agu Yawe anim, wɔ Nhyiam Tɛntreenni no ano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "gye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmirenyini mmienu no"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "mmirenyini"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "de agu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tɛntreenni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    }
+  ],
+  "timestamp": "2026-09-15T21:16:51.235465751Z",
+  "model": "glm-5.3"
+}

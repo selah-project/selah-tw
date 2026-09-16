@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "2-samuel 7:21", "book": "2-samuel", "lang": "tw", "chapter": 7, "translation": "Esiane w'asɛm, ne sɛnea w'akoma te nti, woyaa ⟨את⟩ nnyinasoɔ kɛseɛ yi ⟨את⟩ nyinaa, ma woyii no kyerɛɛ w'akoa.", "tokens": [{"surface": "בעבור", "gloss": "esiane"}, {"surface": "דברך", "gloss": "w'asɛm"}, {"surface": "וכלבך", "gloss": "ne sɛnea w'akoma te"}, {"surface": "עשית", "gloss": "woyaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnyinasoɔ kɛseɛ yi nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הגדולה", "gloss": "nnyinasoɔ kɛseɛ"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "להודיע", "gloss": "ma woyii no kyerɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'akoa"}, {"surface": "עבדך", "gloss": "w'akoa"}], "timestamp": "2026-09-15T23:03:35.286694039Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Esiane w'asɛm, ne sɛnea w'akoma te nti, woyaa ⟨את⟩ nnyinasoɔ kɛseɛ yi ⟨את⟩ nyinaa, ma woyii no kyerɛɛ w'akoa.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "esiane"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "w'asɛm"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "ne sɛnea w'akoma te"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "woyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnyinasoɔ kɛseɛ yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nnyinasoɔ kɛseɛ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ma woyii no kyerɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'akoa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "w'akoa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:35.286694039Z",
+  "model": "glm-5.3"
+}

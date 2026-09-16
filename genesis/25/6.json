@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":6,"ref":"genesis 25:6","book":"genesis","lang":"tw","chapter":25,"translation":"Na mma a Abraham afyefoɔ no, Abraham maa wɔn adɔeɛ, na ɔsoma wɔn firi Yitsak ne ba no so berɛ a na wawu da ne tena aseɛ no, kɔɔ apuei fam akɔ apuei asase no mu.","tokens":[{"surface":"ולבני","gloss":"Na mma a"},{"surface":"הפילגשים","gloss":"afyefoɔ"},{"surface":"אשר","gloss":"a"},{"surface":"לאברהם","gloss":"Abraham"},{"surface":"נתן","gloss":"maa"},{"surface":"אברהם","gloss":"Abraham"},{"surface":"מתנת","gloss":"adɔeɛ"},{"surface":"וישלחם","gloss":"na ɔsoma wɔn"},{"surface":"מעל","gloss":"firi ... so"},{"surface":"יצחק","gloss":"Yitsak"},{"surface":"בנו","gloss":"ne ba"},{"surface":"בעודנו","gloss":"berɛ a na ... da"},{"surface":"חי","gloss":"tena aseɛ"},{"surface":"קדמה","gloss":"kɔɔ apuei fam"},{"surface":"אל","gloss":"akɔ"},{"surface":"ארץ","gloss":"asase"},{"surface":"קדם","gloss":"apuei"}],"timestamp":"2026-09-15T20:25:35.128464239Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 25:6",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na mma a Abraham afyefoɔ no, Abraham maa wɔn adɔeɛ, na ɔsoma wɔn firi Yitsak ne ba no so berɛ a na wawu da ne tena aseɛ no, kɔɔ apuei fam akɔ apuei asase no mu.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Na mma a"
+    },
+    {
+      "surface": "הפילגשים",
+      "gloss": "afyefoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "adɔeɛ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "na ɔsoma wɔn"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi ... so"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "בעודנו",
+      "gloss": "berɛ a na ... da"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tena aseɛ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kɔɔ apuei fam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "apuei"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:35.128464239Z",
+  "model": "glm-5.3"
+}

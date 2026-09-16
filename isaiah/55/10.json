@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "isaiah 55:10", "book": "isaiah", "lang": "tw", "chapter": 55, "translation": "Ɛfiri sɛ sɛnea nsuo-tɔ ne sukyerɛmmɔn si fi ɔsoro mu na ɛnsan nkɔ hɔ bio, na mmom ɛma ⟨את⟩ asase no nom ma ɛyɛ nnɔbaeɛ, ɛma biribiara nyini, ɛde aba ma obi a ɔdɔɔso, ne aduane ma obi a ɔdi:", "tokens": [{"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "ירד", "gloss": "si fi"}, {"surface": "הגשם", "gloss": "nsuo-tɔ"}, {"surface": "והשלג", "gloss": "ne sukyerɛmmɔn"}, {"surface": "מן", "gloss": "fi"}, {"surface": "השמים", "gloss": "ɔsoro mu"}, {"surface": "ושמה", "gloss": "nkɔ hɔ"}, {"surface": "לא", "gloss": "nn…"}, {"surface": "ישוב", "gloss": "nsan bio"}, {"surface": "כי", "gloss": "na mmom"}, {"surface": "אם", "gloss": ""}, {"surface": "הרוה", "gloss": "ɛma … nom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "והולידה", "gloss": "ma ɛyɛ nnɔbaeɛ"}, {"surface": "והצמיחה", "gloss": "ɛma biribiara nyini"}, {"surface": "ונתן", "gloss": "ɛde … ma"}, {"surface": "זרע", "gloss": "aba"}, {"surface": "לזרע", "gloss": "ma obi a ɔdɔɔso"}, {"surface": "ולחם", "gloss": "ne aduane"}, {"surface": "לאכל", "gloss": "ma obi a ɔdi"}], "timestamp": "2026-09-16T05:27:28.679000619Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Ɛfiri sɛ sɛnea nsuo-tɔ ne sukyerɛmmɔn si fi ɔsoro mu na ɛnsan nkɔ hɔ bio, na mmom ɛma ⟨את⟩ asase no nom ma ɛyɛ nnɔbaeɛ, ɛma biribiara nyini, ɛde aba ma obi a ɔdɔɔso, ne aduane ma obi a ɔdi:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "si fi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "nsuo-tɔ"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "ne sukyerɛmmɔn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro mu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "nkɔ hɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn…"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "nsan bio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na mmom"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "ɛma … nom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "ma ɛyɛ nnɔbaeɛ"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "ɛma biribiara nyini"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ɛde … ma"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "aba"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ma obi a ɔdɔɔso"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ne aduane"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ma obi a ɔdi"
+    }
+  ],
+  "timestamp": "2026-09-16T05:27:28.679000619Z",
+  "model": "glm-5.3"
+}

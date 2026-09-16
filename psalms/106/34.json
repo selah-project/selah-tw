@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 34, "ref": "psalms 106:34", "book": "psalms", "lang": "tw", "chapter": 106, "translation": "Wɔansɛe ⟨את⟩ amanfoɔ a Yawe hyɛɛ wɔn sɛ wɔnsɛe no.", "tokens": [{"surface": "לא", "gloss": "Wɔan-"}, {"surface": "השמידו", "gloss": "sɛe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "amanfoɔ"}, {"surface": "העמים", "gloss": "amanfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אמר", "gloss": "hyɛɛ wɔn sɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "להם", "gloss": "wɔn"}], "timestamp": "2026-09-16T02:23:32.041760509Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Wɔansɛe ⟨את⟩ amanfoɔ a Yawe hyɛɛ wɔn sɛ wɔnsɛe no.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wɔan-"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "sɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanfoɔ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hyɛɛ wɔn sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:32.041760509Z",
+  "model": "glm-5.3"
+}

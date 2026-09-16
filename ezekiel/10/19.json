@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "ezekiel 10:19", "book": "ezekiel", "lang": "tw", "chapter": 10, "translation": "Na kerubim no de ⟨את⟩ wɔn ntaban bɔɔ mpɔsoorɔ, na wɔpuee firi asase no so wɔ m'ani so wɔ wɔn a wɔfiri hɔ no mu, na nkyerɛkyerɛmmɔ mu aporɔamma no gyinaa wɔn nkyɛn; na ɔgyinaa Yawe fie no ɔhyeɛ bɔne no ano, na Israelfoɔ Eloohim animuonyam no wɔ wɔn so wɔ soro.", "tokens": [{"surface": "וישאו", "gloss": "na wɔbɔɔ mpɔsoorɔ"}, {"surface": "הכרובים", "gloss": "kerubim no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn ntaban"}, {"surface": "כנפיהם", "gloss": "wɔn ntaban"}, {"surface": "וירומו", "gloss": "na wɔpuee"}, {"surface": "מן", "gloss": "firi"}, {"surface": "הארץ", "gloss": "asase no so"}, {"surface": "לעיני", "gloss": "wɔ m'ani so"}, {"surface": "בצאתם", "gloss": "wɔ wɔn a wɔfiri hɔ no mu"}, {"surface": "והאופנים", "gloss": "na nkyerɛkyerɛmmɔ mu aporɔamma no"}, {"surface": "לעמתם", "gloss": "gyinaa wɔn nkyɛn"}, {"surface": "ויעמד", "gloss": "na ɔgyinaa"}, {"surface": "פתח", "gloss": "ano"}, {"surface": "שער", "gloss": "bɔne no"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "הקדמוני", "gloss": "ɔhyeɛ bɔne (a ɛwɔ apuei)"}, {"surface": "וכבוד", "gloss": "na animuonyam"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}, {"surface": "עליהם", "gloss": "wɔ wɔn so"}, {"surface": "מלמעלה", "gloss": "wɔ soro"}], "timestamp": "2026-09-16T05:32:27.900648158Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 10:19",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na kerubim no de ⟨את⟩ wɔn ntaban bɔɔ mpɔsoorɔ, na wɔpuee firi asase no so wɔ m'ani so wɔ wɔn a wɔfiri hɔ no mu, na nkyerɛkyerɛmmɔ mu aporɔamma no gyinaa wɔn nkyɛn; na ɔgyinaa Yawe fie no ɔhyeɛ bɔne no ano, na Israelfoɔ Eloohim animuonyam no wɔ wɔn so wɔ soro.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "na wɔbɔɔ mpɔsoorɔ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubim no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ntaban"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "wɔn ntaban"
+    },
+    {
+      "surface": "וירומו",
+      "gloss": "na wɔpuee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "wɔ m'ani so"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "wɔ wɔn a wɔfiri hɔ no mu"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "na nkyerɛkyerɛmmɔ mu aporɔamma no"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "gyinaa wɔn nkyɛn"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na ɔgyinaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ano"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bɔne no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הקדמוני",
+      "gloss": "ɔhyeɛ bɔne (a ɛwɔ apuei)"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na animuonyam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔ wɔn so"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "wɔ soro"
+    }
+  ],
+  "timestamp": "2026-09-16T05:32:27.900648158Z",
+  "model": "glm-5.3"
+}

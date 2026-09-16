@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "hosea 1:7", "book": "hosea", "lang": "tw", "chapter": 1, "translation": "Na Yehuda ⟨את⟩ fie so de, mɛwɔ wɔn mmɔborɔ, na mɛgya wɔn nkwa wɔ Yawe, wɔn Eloohim mu; ɛnyɛ fononoo, ɛnyɛ anantwire, ɛnyɛ ɔko, ɛnyɛ mmɔreneɛ anaa akɔgorofoɔ so na mɛgya wɔn nkwa.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "Yehuda fie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהודה", "gloss": "Yehuda"}, {"surface": "ארחם", "gloss": "mɛwɔ wɔn mmɔborɔ"}, {"surface": "והושעתים", "gloss": "na mɛgya wɔn nkwa"}, {"surface": "ביהוה", "gloss": "wɔ Yawe mu"}, {"surface": "אלהיהם", "gloss": "wɔn Eloohim"}, {"surface": "ולא", "gloss": "ɛnyɛ"}, {"surface": "אושיעם", "gloss": "mɛgya wɔn nkwa"}, {"surface": "בקשת", "gloss": "fononoo"}, {"surface": "ובחרב", "gloss": "anantwire"}, {"surface": "ובמלחמה", "gloss": "ɔko"}, {"surface": "בסוסים", "gloss": "mmɔreneɛ"}, {"surface": "ובפרשים", "gloss": "akɔgorofoɔ"}], "timestamp": "2026-09-16T01:03:33.360904187Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Yehuda ⟨את⟩ fie so de, mɛwɔ wɔn mmɔborɔ, na mɛgya wɔn nkwa wɔ Yawe, wɔn Eloohim mu; ɛnyɛ fononoo, ɛnyɛ anantwire, ɛnyɛ ɔko, ɛnyɛ mmɔreneɛ anaa akɔgorofoɔ so na mɛgya wɔn nkwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda fie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "mɛwɔ wɔn mmɔborɔ"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "na mɛgya wɔn nkwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "wɔ Yawe mu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn Eloohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "mɛgya wɔn nkwa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "fononoo"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "anantwire"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "mmɔreneɛ"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "akɔgorofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:03:33.360904187Z",
+  "model": "glm-5.3"
+}

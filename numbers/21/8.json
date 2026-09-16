@@ -1,1 +1,81 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "numbers 21:8", "book": "numbers", "lang": "tw", "chapter": 21, "translation": "Yawe kaa kyerɛɛ Moshe sɛ: Yɛ wo ho ɔnnwonsɛm a ɛhyehyɛ ogya, na fa to hyɛ dwetɛpole so; na ɛbɛyɛ sɛ obiara a nnwonsɛm asɔ ⟨את⟩ no, ɔhunu ⟨את⟩ no a, ɔnya nkwa.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "עשה", "gloss": "Yɛ"}, {"surface": "לך", "gloss": "wo ho"}, {"surface": "שרף", "gloss": "ɔnnwonsɛm a ɛhyehyɛ ogya"}, {"surface": "ושים", "gloss": "na fa to hyɛ"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "על", "gloss": "so"}, {"surface": "נס", "gloss": "pole so"}, {"surface": "והיה", "gloss": "na ɛbɛyɛ sɛ"}, {"surface": "כל", "gloss": "obiara"}, {"surface": "הנשוך", "gloss": "a nnwonsɛm asɔ no"}, {"surface": "וראה", "gloss": "ɔhunu"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "וחי", "gloss": "ɔnya nkwa"}], "timestamp": "2026-09-15T21:36:46.101026482Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Yawe kaa kyerɛɛ Moshe sɛ: Yɛ wo ho ɔnnwonsɛm a ɛhyehyɛ ogya, na fa to hyɛ dwetɛpole so; na ɛbɛyɛ sɛ obiara a nnwonsɛm asɔ ⟨את⟩ no, ɔhunu ⟨את⟩ no a, ɔnya nkwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ɔnnwonsɛm a ɛhyehyɛ ogya"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "na fa to hyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "נס",
+      "gloss": "pole so"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "a nnwonsɛm asɔ no"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ɔhunu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ɔnya nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:36:46.101026482Z",
+  "model": "glm-5.3"
+}

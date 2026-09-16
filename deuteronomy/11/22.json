@@ -1,1 +1,103 @@
-{"tier":"glm-5.2","verse":22,"ref":"deuteronomy 11:22","book":"deuteronomy","lang":"tw","chapter":11,"translation":"Ɛfiri sɛ, sɛ mohwɛ hwɛ so yie ⟨את⟩ mmara ⟨את⟩ nyinaa yi a mehyɛ mo sɛ moyɛ no — sɛ modɔ ⟨את⟩ Yawe, mo Eloohim, sɛ mofa n'akwan nyinaa so, na mommu ne ho —","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"אם","gloss":"sɛ"},{"surface":"שמר","gloss":"hwɛ"},{"surface":"תשמרון","gloss":"hwɛ so yie"},{"surface":"את","gloss":"⟨את⟩","marks":"mmara nyinaa yi"},{"surface":"כל","gloss":"nyinaa"},{"surface":"המצוה","gloss":"mmara"},{"surface":"הזאת","gloss":"yi"},{"surface":"אשר","gloss":"a"},{"surface":"אנכי","gloss":"me"},{"surface":"מצוה","gloss":"hyɛ"},{"surface":"אתכם","gloss":"⟨את⟩ mo"},{"surface":"לעשתה","gloss":"sɛ moyɛ no"},{"surface":"לאהבה","gloss":"sɛ modɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיכם","gloss":"mo Eloohim"},{"surface":"ללכת","gloss":"sɛ mofa … so"},{"surface":"בכל","gloss":"… nyinaa"},{"surface":"דרכיו","gloss":"n'akwan"},{"surface":"ולדבקה","gloss":"na mommu ne ho"},{"surface":"בו","gloss":"ne ho"}],"timestamp":"2026-09-15T21:49:15.905952989Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 11:22",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛfiri sɛ, sɛ mohwɛ hwɛ so yie ⟨את⟩ mmara ⟨את⟩ nyinaa yi a mehyɛ mo sɛ moyɛ no — sɛ modɔ ⟨את⟩ Yawe, mo Eloohim, sɛ mofa n'akwan nyinaa so, na mommu ne ho —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "hwɛ so yie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmara nyinaa yi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "לעשתה",
+      "gloss": "sɛ moyɛ no"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sɛ modɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sɛ mofa … so"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "… nyinaa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "n'akwan"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "na mommu ne ho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:15.905952989Z",
+  "model": "glm-5.3"
+}

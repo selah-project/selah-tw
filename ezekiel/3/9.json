@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":9,"ref":"ezekiel 3:9","book":"ezekiel","lang":"tw","chapter":3,"translation":"Sɛ shamir a ɛyɛ den kyɛn sasakwa mpo, na mahyɛ wo kɔkɔ no ma; nsuro wɔn, na nnware wɔn anim, ɛfiri sɛ asɔretia fie na wɔyɛ.","tokens":[{"surface":"כשמיר","gloss":"sɛ shamir"},{"surface":"חזק","gloss":"den"},{"surface":"מצר","gloss":"sasakwa"},{"surface":"נתתי","gloss":"mahyɛ … ma"},{"surface":"מצחך","gloss":"wo kɔkɔ no"},{"surface":"לא","gloss":"n-"},{"surface":"תירא","gloss":"nsuro"},{"surface":"אותם","gloss":"⟨את⟩","marks":"wɔn"},{"surface":"ולא","gloss":"na n-"},{"surface":"תחת","gloss":"nnware"},{"surface":"מפניהם","gloss":"wɔn anim"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בית","gloss":"fie"},{"surface":"מרי","gloss":"asɔretia"},{"surface":"המה","gloss":"na wɔyɛ"}],"timestamp":"2026-09-16T00:34:29.657925764Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 3:9",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Sɛ shamir a ɛyɛ den kyɛn sasakwa mpo, na mahyɛ wo kɔkɔ no ma; nsuro wɔn, na nnware wɔn anim, ɛfiri sɛ asɔretia fie na wɔyɛ.",
+  "tokens": [
+    {
+      "surface": "כשמיר",
+      "gloss": "sɛ shamir"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "den"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sasakwa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mahyɛ … ma"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "wo kɔkɔ no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nsuro"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na n-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nnware"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "asɔretia"
+    },
+    {
+      "surface": "המה",
+      "gloss": "na wɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:34:29.657925764Z",
+  "model": "glm-5.3"
+}

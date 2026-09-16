@@ -1,1 +1,135 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "numbers 8:19", "book": "numbers", "lang": "tw", "chapter": 8, "translation": "Na manee ⟨את⟩ Levi asɔfoɔ a wɔama wɔn ama Aharɔn ne ne mma, fi Yisraɛl mma mfimfini, sɛ wɔnyɛ Yisraɛl mma ⟨את⟩ ayɛmyie adwuma wɔ hyiadan a yɛhyia no mu, na wɔnya Yisraɛl mma bɔnefakyɛ, na ɛnsɛ sɛ asotwe ba Yisraɛl mma so wɔ berɛ a Yisraɛl mma bɛn kronkronbea no.", "tokens": [{"surface": "ואתנה", "gloss": "Na manee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Levi asɔfoɔ"}, {"surface": "הלוים", "gloss": "Levi asɔfoɔ"}, {"surface": "נתנים", "gloss": "a wɔama wɔn"}, {"surface": "לאהרן", "gloss": "ama Aharɔn"}, {"surface": "ולבניו", "gloss": "ne ne mma"}, {"surface": "מתוך", "gloss": "fi ... mfimfini"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "לעבד", "gloss": "sɛ wɔnyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ayɛmyie adwuma"}, {"surface": "עבדת", "gloss": "ayɛmyie adwuma"}, {"surface": "בני", "gloss": "... mma"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "באהל", "gloss": "wɔ hyiadan ... mu"}, {"surface": "מועד", "gloss": "a yɛhyia no"}, {"surface": "ולכפר", "gloss": "na wɔnya ... bɔnefakyɛ"}, {"surface": "על", "gloss": "so"}, {"surface": "בני", "gloss": "... mma"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "ולא", "gloss": "na ɛnsɛ sɛ"}, {"surface": "יהיה", "gloss": "ba"}, {"surface": "בבני", "gloss": "wɔ ... mma"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "נגף", "gloss": "asotwe"}, {"surface": "בגשת", "gloss": "wɔ berɛ a ... bɛn"}, {"surface": "בני", "gloss": "... mma"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "אל", "gloss": ""}, {"surface": "הקדש", "gloss": "kronkronbea no"}], "timestamp": "2026-09-15T21:30:24.088774193Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 8:19",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na manee ⟨את⟩ Levi asɔfoɔ a wɔama wɔn ama Aharɔn ne ne mma, fi Yisraɛl mma mfimfini, sɛ wɔnyɛ Yisraɛl mma ⟨את⟩ ayɛmyie adwuma wɔ hyiadan a yɛhyia no mu, na wɔnya Yisraɛl mma bɔnefakyɛ, na ɛnsɛ sɛ asotwe ba Yisraɛl mma so wɔ berɛ a Yisraɛl mma bɛn kronkronbea no.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Na manee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi asɔfoɔ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi asɔfoɔ"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "a wɔama wɔn"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ama Aharɔn"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "fi ... mfimfini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sɛ wɔnyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayɛmyie adwuma"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ayɛmyie adwuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wɔ hyiadan ... mu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a yɛhyia no"
+    },
+    {
+      "surface": "ולכפר",
+      "gloss": "na wɔnya ... bɔnefakyɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnsɛ sɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wɔ ... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "asotwe"
+    },
+    {
+      "surface": "בגשת",
+      "gloss": "wɔ berɛ a ... bɛn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkronbea no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:30:24.088774193Z",
+  "model": "glm-5.3"
+}

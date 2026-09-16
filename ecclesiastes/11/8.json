@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":8,"ref":"ecclesiastes 11:8","book":"ecclesiastes","lang":"tw","chapter":11,"translation":"Ɛfiri sɛ sɛ onipa tena mfeɛ pii a, ɔmmɔ ne ho ase wɔ ne nyinaa mu, na nkaerɛfra ⟨את⟩ nna a sum wɔ mu no nkɔ ne tirim, ɛfiri sɛ ɛno dɔɔso; deɛ ɛreba nyinaa yɛ hevel.","tokens":[{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אם","gloss":"sɛ"},{"surface":"שנים","gloss":"mfeɛ"},{"surface":"הרבה","gloss":"pii"},{"surface":"יחיה","gloss":"tena"},{"surface":"האדם","gloss":"onipa"},{"surface":"בכלם","gloss":"wɔ ne nyinaa mu"},{"surface":"ישמח","gloss":"ɔmmɔ ne ho ase"},{"surface":"ויזכר","gloss":"na ɔnkae"},{"surface":"את","gloss":"⟨את⟩","marks":"nna a sum wɔ mu no"},{"surface":"ימי","gloss":"nna"},{"surface":"החשך","gloss":"a sum wɔ mu no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"הרבה","gloss":"dɔɔso"},{"surface":"יהיו","gloss":"ɛbɛyɛ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"שבא","gloss":"deɛ ɛreba"},{"surface":"הבל","gloss":"hevel"}],"timestamp":"2026-09-16T03:59:12.965051695Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛfiri sɛ sɛ onipa tena mfeɛ pii a, ɔmmɔ ne ho ase wɔ ne nyinaa mu, na nkaerɛfra ⟨את⟩ nna a sum wɔ mu no nkɔ ne tirim, ɛfiri sɛ ɛno dɔɔso; deɛ ɛreba nyinaa yɛ hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pii"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "tena"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "wɔ ne nyinaa mu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ɔmmɔ ne ho ase"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "na ɔnkae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna a sum wɔ mu no"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "a sum wɔ mu no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "deɛ ɛreba"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-16T03:59:12.965051695Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":10,"ref":"genesis 40:10","book":"genesis","lang":"tw","chapter":40,"translation":"Na wɔ nsa-dua no so no, sarisoɔ mmiɛnsa; na sɛ ɛrebobɔ a, ne nhwiren no sɔɔ, na ne nuku no nyinii aboa.","tokens":[{"surface":"ובגפן","gloss":"na wɔ nsa-dua no so"},{"surface":"שלשה","gloss":"mmiɛnsa"},{"surface":"שריגם","gloss":"sarisoɔ"},{"surface":"והיא","gloss":"na ɛ"},{"surface":"כפרחת","gloss":"sɛ ɛrebobɔ"},{"surface":"עלתה","gloss":"sɔɔ"},{"surface":"נצה","gloss":"ne nhwiren"},{"surface":"הבשילו","gloss":"nyinii"},{"surface":"אשכלתיה","gloss":"ne nuku"},{"surface":"ענבים","gloss":"aboa"}],"timestamp":"2026-09-15T20:36:02.067262356Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wɔ nsa-dua no so no, sarisoɔ mmiɛnsa; na sɛ ɛrebobɔ a, ne nhwiren no sɔɔ, na ne nuku no nyinii aboa.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "na wɔ nsa-dua no so"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "sarisoɔ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "na ɛ"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "sɛ ɛrebobɔ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sɔɔ"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ne nhwiren"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "nyinii"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "ne nuku"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "aboa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:02.067262356Z",
+  "model": "glm-5.3"
+}

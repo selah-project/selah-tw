@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "2-chronicles 18:4", "book": "2-chronicles", "lang": "tw", "chapter": 18, "translation": "Na Yehoshafat ka kyerɛɛ Israelfoɔ ɔhene sɛ: “Sɔ Yawe ⟨את⟩ asɛm hwɛ ɛnnɛ da yi, mesrɛ wo.”", "tokens": [{"surface": "ויאמר", "gloss": "na ɔkaa kyerɛɛ"}, {"surface": "יהושפט", "gloss": "Yehoshafat"}, {"surface": "אל", "gloss": "kerɛɛ"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}, {"surface": "דרש", "gloss": "sɔ … hwɛ"}, {"surface": "נא", "gloss": "mesrɛ wo"}, {"surface": "כיום", "gloss": "ɛnnɛ da yi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe asɛm"}, {"surface": "דבר", "gloss": "asɛm"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T05:01:53.419317347Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na Yehoshafat ka kyerɛɛ Israelfoɔ ɔhene sɛ: “Sɔ Yawe ⟨את⟩ asɛm hwɛ ɛnnɛ da yi, mesrɛ wo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kerɛɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sɔ … hwɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mesrɛ wo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ɛnnɛ da yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe asɛm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:01:53.419317347Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "numbers 14:8", "book": "numbers", "lang": "tw", "chapter": 14, "translation": "Sɛ Yawe pɛ ⟨את⟩ yɛn, ɔde yɛn bɛba asase yi so, na ɔde ama yɛn — asase a ɛsensɛn nsam ne dwɔm.", "tokens": [{"surface": "אם", "gloss": "sɛ"}, {"surface": "חפץ", "gloss": "pɛ"}, {"surface": "בנו", "gloss": "yɛn"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "והביא", "gloss": "ɔde yɛn bɛba"}, {"surface": "אתנו", "gloss": "⟨את⟩ yɛn", "marks": "yɛn"}, {"surface": "אל", "gloss": "so"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "ונתנה", "gloss": "na ɔde ama"}, {"surface": "לנו", "gloss": "yɛn"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הוא", "gloss": "ɛno"}, {"surface": "זבת", "gloss": "ɛsensɛn"}, {"surface": "חלב", "gloss": "nsam"}, {"surface": "ודבש", "gloss": "ne dwɔm"}], "timestamp": "2026-09-15T21:31:59.312582218Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Sɛ Yawe pɛ ⟨את⟩ yɛn, ɔde yɛn bɛba asase yi so, na ɔde ama yɛn — asase a ɛsensɛn nsam ne dwɔm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ɔde yɛn bɛba"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn",
+      "marks": "yɛn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "na ɔde ama"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ɛsensɛn"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ne dwɔm"
+    }
+  ],
+  "timestamp": "2026-09-15T21:31:59.312582218Z",
+  "model": "glm-5.3"
+}

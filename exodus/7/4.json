@@ -1,1 +1,92 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "exodus 7:4", "book": "exodus", "lang": "tw", "chapter": 7, "translation": "Nanso Farao rennye mo asɛm nto mu, na mede ⟨את⟩ me nsa bɛto Misraim so, na mede ⟨את⟩ me safoɔ ne ⟨את⟩ me man, Israelfoɔ, bɛma wɔmfiri Misraim asase mu wɔ atemmuo akɛse mu.", "tokens": [{"surface": "ולא", "gloss": "Nanso ... nnye"}, {"surface": "ישמע", "gloss": "nto mu"}, {"surface": "אלכם", "gloss": "mo"}, {"surface": "פרעה", "gloss": "Farao"}, {"surface": "ונתתי", "gloss": "mede ... bɛto"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nsa"}, {"surface": "ידי", "gloss": "me nsa"}, {"surface": "במצרים", "gloss": "Misraim so"}, {"surface": "והוצאתי", "gloss": "bɛma wɔmfiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me safoɔ"}, {"surface": "צבאתי", "gloss": "me safoɔ"}, {"surface": "את", "gloss": "ne ⟨את⟩", "marks": "me man"}, {"surface": "עמי", "gloss": "me man"}, {"surface": "בני", "gloss": "foɔ"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "מארץ", "gloss": "firi ... asase mu"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "בשפטים", "gloss": "wɔ atemmuo mu"}, {"surface": "גדלים", "gloss": "akɛse"}], "timestamp": "2026-09-15T20:46:17.807570089Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Nanso Farao rennye mo asɛm nto mu, na mede ⟨את⟩ me nsa bɛto Misraim so, na mede ⟨את⟩ me safoɔ ne ⟨את⟩ me man, Israelfoɔ, bɛma wɔmfiri Misraim asase mu wɔ atemmuo akɛse mu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nanso ... nnye"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nto mu"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mede ... bɛto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misraim so"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "bɛma wɔmfiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me safoɔ"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "me safoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ne ⟨את⟩",
+      "marks": "me man"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "foɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi ... asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "wɔ atemmuo mu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "akɛse"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:17.807570089Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "1-samuel 19:1", "book": "1-samuel", "lang": "tw", "chapter": 19, "translation": "Saul kasa kyerɛɛ Yonatan ne ba, ne ne akɔmfocfoɔ nyinaa, sɛ ɔnnu ⟨את⟩ Dawid. Na Yonatan, Saul ba, pɛ Dawid kɛseɛ.", "tokens": [{"surface": "וידבר", "gloss": "kasa kyerɛɛ"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "אל", "gloss": "kyerɛɛ (el)"}, {"surface": "יונתן", "gloss": "Yonatan"}, {"surface": "בנו", "gloss": "ne ba"}, {"surface": "ואל", "gloss": "ne (ne akɔmfocfoɔ)"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עבדיו", "gloss": "ne akɔmfocfoɔ"}, {"surface": "להמית", "gloss": "sɛ ɔnnu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dawid"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "ויהונתן", "gloss": "Na Yonatan"}, {"surface": "בן", "gloss": "ba"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "חפץ", "gloss": "pɛ"}, {"surface": "בדוד", "gloss": "Dawid"}, {"surface": "מאד", "gloss": "kɛseɛ"}], "timestamp": "2026-09-15T22:54:30.207811191Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Saul kasa kyerɛɛ Yonatan ne ba, ne ne akɔmfocfoɔ nyinaa, sɛ ɔnnu ⟨את⟩ Dawid. Na Yonatan, Saul ba, pɛ Dawid kɛseɛ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasa kyerɛɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ (el)"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne (ne akɔmfocfoɔ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ne akɔmfocfoɔ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "sɛ ɔnnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Na Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "pɛ"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:54:30.207811191Z",
+  "model": "glm-5.3"
+}

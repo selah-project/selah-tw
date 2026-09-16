@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "ezekiel 31:16", "book": "ezekiel", "lang": "tw", "chapter": 31, "translation": "Ne mpopoeɛ nne no, misiane amanaman no mu yɛeɛ, berɛ a mesiane ⟨אתו⟩ no kɔɔ Seol, ⟨את⟩ wɔn ⟨את⟩ a wɔsiane abura mu no ho; na asase ase fam Eden nnua nyinaa, Libanon mu a wɔapaw ne deɛ ɛyɛ dɛ, nsuo a wɔnom nyinaa, nyaa dwanhoɔ.", "tokens": [{"surface": "מקול", "gloss": "…nne no"}, {"surface": "מפלתו", "gloss": "ne mpopoeɛ"}, {"surface": "הרעשתי", "gloss": "misiane amanaman mu"}, {"surface": "גוים", "gloss": "amanaman"}, {"surface": "בהורדי", "gloss": "berɛ a mesiane"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no (kɔ Seol)"}, {"surface": "שאולה", "gloss": "kɔ Seol"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn a wɔsiane abura mu"}, {"surface": "יורדי", "gloss": "a wɔsiane"}, {"surface": "בור", "gloss": "abura mu"}, {"surface": "וינחמו", "gloss": "nyaa dwanhoɔ"}, {"surface": "בארץ", "gloss": "asase"}, {"surface": "תחתית", "gloss": "ase fam"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עצי", "gloss": "nnua"}, {"surface": "עדן", "gloss": "Eden"}, {"surface": "מבחר", "gloss": "a wɔapaw"}, {"surface": "וטוב", "gloss": "ne deɛ ɛyɛ dɛ"}, {"surface": "לבנון", "gloss": "Libanon"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "שתי", "gloss": "a wɔnom"}, {"surface": "מים", "gloss": "nsuo"}], "timestamp": "2026-09-16T00:51:50.214729255Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 31:16",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Ne mpopoeɛ nne no, misiane amanaman no mu yɛeɛ, berɛ a mesiane ⟨אתו⟩ no kɔɔ Seol, ⟨את⟩ wɔn ⟨את⟩ a wɔsiane abura mu no ho; na asase ase fam Eden nnua nyinaa, Libanon mu a wɔapaw ne deɛ ɛyɛ dɛ, nsuo a wɔnom nyinaa, nyaa dwanhoɔ.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "…nne no"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "ne mpopoeɛ"
+    },
+    {
+      "surface": "הרעשתי",
+      "gloss": "misiane amanaman mu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "בהורדי",
+      "gloss": "berɛ a mesiane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (kɔ Seol)"
+    },
+    {
+      "surface": "שאולה",
+      "gloss": "kɔ Seol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔsiane abura mu"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "a wɔsiane"
+    },
+    {
+      "surface": "בור",
+      "gloss": "abura mu"
+    },
+    {
+      "surface": "וינחמו",
+      "gloss": "nyaa dwanhoɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "ase fam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "a wɔapaw"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ne deɛ ɛyɛ dɛ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a wɔnom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-16T00:51:50.214729255Z",
+  "model": "glm-5.3"
+}

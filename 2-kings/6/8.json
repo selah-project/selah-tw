@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-kings 6:8","book":"2-kings","lang":"tw","chapter":6,"translation":"Aram ɔhene dii Israel ho ako, na ɔne ne nkoa bɔɔ amanneɛ sɛ: “Saa baabi, ne saa baabi, hɔ na m'asraafoɔ bɛtena.”","tokens":[{"surface":"ומלך","gloss":"Aram ɔhene"},{"surface":"ארם","gloss":"Aram"},{"surface":"היה","gloss":"dii"},{"surface":"נלחם","gloss":"ako"},{"surface":"בישראל","gloss":"Israel ho"},{"surface":"ויועץ","gloss":"bɔɔ amanneɛ"},{"surface":"אל","gloss":"ne"},{"surface":"עבדיו","gloss":"ne nkoa"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"אל","gloss":"wɔ"},{"surface":"מקום","gloss":"baabi"},{"surface":"פלני","gloss":"saa baabi"},{"surface":"אלמני","gloss":"ne saa baabi"},{"surface":"תחנתי","gloss":"m'asraafoɔ bɛtena"}],"timestamp":"2026-09-16T05:20:21.003593318Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Aram ɔhene dii Israel ho ako, na ɔne ne nkoa bɔɔ amanneɛ sɛ: “Saa baabi, ne saa baabi, hɔ na m'asraafoɔ bɛtena.”",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Aram ɔhene"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dii"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israel ho"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "bɔɔ amanneɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ne nkoa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "saa baabi"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "ne saa baabi"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "m'asraafoɔ bɛtena"
+    }
+  ],
+  "timestamp": "2026-09-16T05:20:21.003593318Z",
+  "model": "glm-5.3"
+}

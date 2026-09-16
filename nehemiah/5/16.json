@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":16,"ref":"nehemiah 5:16","book":"nehemiah","lang":"tw","chapter":5,"translation":"Ankorankorɛ, me too me nsa hyɛɛ adwuma a ɛwɔ ɔfasu yi mu no mu den, na yɛantɔ asaase biara; na me nkurɔfoɔ nyinaa boabɔɔ wɔn ho wɔ hɔ maa adwuma no.","tokens":[{"surface":"וגם","gloss":"ankorankorɛ"},{"surface":"במלאכת","gloss":"wɔ adwuma … mu"},{"surface":"החומה","gloss":"ɔfasu"},{"surface":"הזאת","gloss":"yi"},{"surface":"החזקתי","gloss":"me too me nsa hyɛɛ … mu den"},{"surface":"ושדה","gloss":"na asaase"},{"surface":"לא","gloss":"anni"},{"surface":"קנינו","gloss":"yɛantɔ"},{"surface":"וכל","gloss":"na … nyinaa"},{"surface":"נערי","gloss":"me nkurɔfoɔ"},{"surface":"קבוצים","gloss":"boabɔɔ wɔn ho"},{"surface":"שם","gloss":"wɔ hɔ"},{"surface":"על","gloss":"maa"},{"surface":"המלאכה","gloss":"adwuma no"}],"timestamp":"2026-09-16T05:53:52.800261710Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 5:16",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Ankorankorɛ, me too me nsa hyɛɛ adwuma a ɛwɔ ɔfasu yi mu no mu den, na yɛantɔ asaase biara; na me nkurɔfoɔ nyinaa boabɔɔ wɔn ho wɔ hɔ maa adwuma no.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ankorankorɛ"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "wɔ adwuma … mu"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ɔfasu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "me too me nsa hyɛɛ … mu den"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "na asaase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anni"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "yɛantɔ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … nyinaa"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "me nkurɔfoɔ"
+    },
+    {
+      "surface": "קבוצים",
+      "gloss": "boabɔɔ wɔn ho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "maa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "adwuma no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:53:52.800261710Z",
+  "model": "glm-5.3"
+}

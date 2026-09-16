@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 118:6","book":"psalms","lang":"tw","chapter":118,"translation":"Yawe wɔ me fam, ɛnniɛ me nsuro; deɛ nipa bɛtumi ayɛ me dɛn?","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"לי","gloss":"wɔ me fam"},{"surface":"לא","gloss":"ɛnniɛ"},{"surface":"אירא","gloss":"me nsuro"},{"surface":"מה","gloss":"deɛ dɛn"},{"surface":"יעשה","gloss":"bɛtumi ayɛ"},{"surface":"לי","gloss":"me"},{"surface":"אדם","gloss":"nipa"}],"timestamp":"2026-09-16T02:25:34.188355711Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "Yawe wɔ me fam, ɛnniɛ me nsuro; deɛ nipa bɛtumi ayɛ me dɛn?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wɔ me fam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnniɛ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "me nsuro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ dɛn"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛtumi ayɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nipa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:34.188355711Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":3,"ref":"exodus 12:3","book":"exodus","lang":"tw","chapter":12,"translation":"Monka kyerɛ Israel nkoa no nyinaa se: Saa bosome yi da ɛdu du no, na obiara nsa foforɔ mmɔ nnwan ba bi — ɛfie biara mu bi ba baako.","tokens":[{"surface":"דברו","gloss":"Monka"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"עדת","gloss":"nkoa no"},{"surface":"ישראל","gloss":"Israel"},{"surface":"לאמר","gloss":"se:"},{"surface":"בעשר","gloss":"da ɛdu du no"},{"surface":"לחדש","gloss":"bosome"},{"surface":"הזה","gloss":"saa yi"},{"surface":"ויקחו","gloss":"mmɔ"},{"surface":"להם","gloss":"foforɔ"},{"surface":"איש","gloss":"obiara"},{"surface":"שה","gloss":"nnwan ba"},{"surface":"לבית","gloss":"ɛfie"},{"surface":"אבת","gloss":"agyanom"},{"surface":"שה","gloss":"ba"},{"surface":"לבית","gloss":"fie biara"}],"timestamp":"2026-09-15T20:48:28.518610598Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Monka kyerɛ Israel nkoa no nyinaa se: Saa bosome yi da ɛdu du no, na obiara nsa foforɔ mmɔ nnwan ba bi — ɛfie biara mu bi ba baako.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Monka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nkoa no"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se:"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "da ɛdu du no"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bosome"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "saa yi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nnwan ba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ɛfie"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "agyanom"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie biara"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:28.518610598Z",
+  "model": "glm-5.3"
+}

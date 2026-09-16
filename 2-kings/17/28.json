@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "2-kings 17:28", "book": "2-kings", "lang": "tw", "chapter": 17, "translation": "Na asɔfoɔ no mu baako a wɔdii wɔn afiri Shomron no baa hɔ tenaa Beti-El, na ɔbɛyɛɛ ɔkyerɛkyerɛfoɔ kyerɛɛ wɔn ⟨את⟩ sɛdeɛ wɔbɛsuro ⟨את⟩ Yawe.", "tokens": [{"surface": "ויבא", "gloss": "baa hɔ"}, {"surface": "אחד", "gloss": "baako"}, {"surface": "מהכהנים", "gloss": "asɔfoɔ no mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הגלו", "gloss": "wɔdii wɔn afiri"}, {"surface": "משמרון", "gloss": "firi Shomron"}, {"surface": "וישב", "gloss": "tenaa"}, {"surface": "בבית", "gloss": "wɔ Beti-El mu"}, {"surface": "אל", "gloss": "El"}, {"surface": "ויהי", "gloss": "ɔbɛyɛɛ"}, {"surface": "מורה", "gloss": "ɔkyerɛkyerɛfoɔ"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "איך", "gloss": "sɛdeɛ"}, {"surface": "ייראו", "gloss": "wɔbɛsuro"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T23:35:03.307608342Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 17:28",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na asɔfoɔ no mu baako a wɔdii wɔn afiri Shomron no baa hɔ tenaa Beti-El, na ɔbɛyɛɛ ɔkyerɛkyerɛfoɔ kyerɛɛ wɔn ⟨את⟩ sɛdeɛ wɔbɛsuro ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa hɔ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "מהכהנים",
+      "gloss": "asɔfoɔ no mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "wɔdii wɔn afiri"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "firi Shomron"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ Beti-El mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ɔbɛyɛɛ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ɔkyerɛkyerɛfoɔ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "wɔbɛsuro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:03.307608342Z",
+  "model": "glm-5.3"
+}

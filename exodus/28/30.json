@@ -1,1 +1,120 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "exodus 28:30", "book": "exodus", "lang": "tw", "chapter": 28, "translation": "Na wo de ⟨את⟩ Urim ne ⟨את⟩ Tummim bɛto atemmu hoshen no mu; na ɛbɛda Aharon koma so wɔ ne ba a ɔba Yawe anim no; na Aharon bɛsoa ⟨את⟩ Yisraěl mma atemmu wɔ ne koma so wɔ Yawe anim daa.", "tokens": [{"surface": "ונתת", "gloss": "na wo de bɛto"}, {"surface": "אל", "gloss": "mu"}, {"surface": "חשן", "gloss": "hoshen"}, {"surface": "המשפט", "gloss": "atemmu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Urim"}, {"surface": "האורים", "gloss": "Urim"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Tummim"}, {"surface": "התמים", "gloss": "Tummim"}, {"surface": "והיו", "gloss": "na ɛbɛda"}, {"surface": "על", "gloss": "so"}, {"surface": "לב", "gloss": "koma"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "בבאו", "gloss": "wɔ ne ba mu"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ונשא", "gloss": "na ɔbɛsoa"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisraěl mma atemmu"}, {"surface": "משפט", "gloss": "atemmu"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisraěl"}, {"surface": "על", "gloss": "so"}, {"surface": "לבו", "gloss": "ne koma"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "תמיד", "gloss": "daa"}], "timestamp": "2026-09-15T21:01:02.782268945Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 28:30",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na wo de ⟨את⟩ Urim ne ⟨את⟩ Tummim bɛto atemmu hoshen no mu; na ɛbɛda Aharon koma so wɔ ne ba a ɔba Yawe anim no; na Aharon bɛsoa ⟨את⟩ Yisraěl mma atemmu wɔ ne koma so wɔ Yawe anim daa.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "na wo de bɛto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na ɛbɛda"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "לב",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "wɔ ne ba mu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "na ɔbɛsoa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraěl mma atemmu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraěl"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ne koma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:01:02.782268945Z",
+  "model": "glm-5.3"
+}

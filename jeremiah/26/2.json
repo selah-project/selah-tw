@@ -1,1 +1,118 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "jeremiah 26:2", "book": "jeremiah", "lang": "tw", "chapter": 26, "translation": "Sɛnea Yawe ka no: Gyina Yawe fie ntwamu mu, na kasa akyerɛ Yuda nkuro ⟨את⟩ nyinaa a wɔba Yawe fie som no, nsɛm nyinaa a mahyɛ wo sɛ nkasa akyerɛ wɔn; nsuma asɛm biara:", "tokens": [{"surface": "כה", "gloss": "sɛnea"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עמד", "gloss": "gyina"}, {"surface": "בחצר", "gloss": "ntwamu mu"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ודברת", "gloss": "na kasa"}, {"surface": "על", "gloss": "akyerɛ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ערי", "gloss": "nkuro"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "הבאים", "gloss": "a wɔba"}, {"surface": "להשתחות", "gloss": "som"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɛm nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הדברים", "gloss": "nsɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צויתיך", "gloss": "mahyɛ wo"}, {"surface": "לדבר", "gloss": "sɛ nkasa"}, {"surface": "אליהם", "gloss": "akyerɛ wɔn"}, {"surface": "אל", "gloss": "nnsumaa"}, {"surface": "תגרע", "gloss": "nnsuma"}, {"surface": "דבר", "gloss": "asɛm"}], "timestamp": "2026-09-16T00:17:39.536387238Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 26:2",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Sɛnea Yawe ka no: Gyina Yawe fie ntwamu mu, na kasa akyerɛ Yuda nkuro ⟨את⟩ nyinaa a wɔba Yawe fie som no, nsɛm nyinaa a mahyɛ wo sɛ nkasa akyerɛ wɔn; nsuma asɛm biara:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gyina"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ntwamu mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na kasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akyerɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "a wɔba"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "som"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "mahyɛ wo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sɛ nkasa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "akyerɛ wɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nnsumaa"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "nnsuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T00:17:39.536387238Z",
+  "model": "glm-5.3"
+}

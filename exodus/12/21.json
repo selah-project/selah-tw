@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":21,"ref":"exodus 12:21","book":"exodus","lang":"tw","chapter":12,"translation":"Mosheh frɛɛ Yisraɛl mpanyimfoɔ nyinaa, na ɔkaa kyɛn wɔn sɛ: Monkɔso na monfa mo ankora mmoa, mpatafa biara bi, na monkum Pasɛa no.","tokens":[{"surface":"ויקרא","gloss":"frɛɛ"},{"surface":"משה","gloss":"Mosheh"},{"surface":"לכל","gloss":"nyinaa"},{"surface":"זקני","gloss":"mpanyimfoɔ"},{"surface":"ישראל","gloss":"Yisraɛl"},{"surface":"ויאמר","gloss":"kaa kyɛn"},{"surface":"אלהם","gloss":"wɔn"},{"surface":"משכו","gloss":"monkɔso"},{"surface":"וקחו","gloss":"monfa"},{"surface":"לכם","gloss":"mo ankora"},{"surface":"צאן","gloss":"mmoa, mpatafa"},{"surface":"למשפחתיכם","gloss":"mpatafa biara bi"},{"surface":"ושחטו","gloss":"monkum"},{"surface":"הפסח","gloss":"Pasɛa no"}],"timestamp":"2026-09-15T20:49:31.513779865Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Mosheh frɛɛ Yisraɛl mpanyimfoɔ nyinaa, na ɔkaa kyɛn wɔn sɛ: Monkɔso na monfa mo ankora mmoa, mpatafa biara bi, na monkum Pasɛa no.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyɛn"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "monkɔso"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "monfa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo ankora"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mmoa, mpatafa"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "mpatafa biara bi"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "monkum"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasɛa no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:31.513779865Z",
+  "model": "glm-5.3"
+}

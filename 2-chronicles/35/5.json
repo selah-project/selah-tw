@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":5,"ref":"2-chronicles 35:5","book":"2-chronicles","lang":"tw","chapter":35,"translation":"Momma mo gyina wɔ kronkronbea mu wɔ nkyekyɛmu mu — agyinafoɔ fie — de ma mo nuanom man mma, na nkyekyɛmu a ɛfiri agyina fie mu de ma Lavifoɔ.","tokens":[{"surface":"ועמדו","gloss":"momma mo gyina"},{"surface":"בקדש","gloss":"wɔ kronkronbea mu"},{"surface":"לפלגות","gloss":"wɔ nkyekyɛmu mu"},{"surface":"בית","gloss":"fie"},{"surface":"האבות","gloss":"agyinafoɔ"},{"surface":"לאחיכם","gloss":"de ma mo nuanom"},{"surface":"בני","gloss":"mma"},{"surface":"העם","gloss":"⟨the⟩ man"},{"surface":"וחלקת","gloss":"na nkyekyɛmu"},{"surface":"בית","gloss":"fie"},{"surface":"אב","gloss":"agyina"},{"surface":"ללוים","gloss":"de ma Lavifoɔ"}],"timestamp":"2026-09-16T05:11:38.031465178Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 35:5",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Momma mo gyina wɔ kronkronbea mu wɔ nkyekyɛmu mu — agyinafoɔ fie — de ma mo nuanom man mma, na nkyekyɛmu a ɛfiri agyina fie mu de ma Lavifoɔ.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "momma mo gyina"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "wɔ kronkronbea mu"
+    },
+    {
+      "surface": "לפלגות",
+      "gloss": "wɔ nkyekyɛmu mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "agyinafoɔ"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "de ma mo nuanom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ man"
+    },
+    {
+      "surface": "וחלקת",
+      "gloss": "na nkyekyɛmu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אב",
+      "gloss": "agyina"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "de ma Lavifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:11:38.031465178Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":11,"ref":"deuteronomy 13:11","book":"deuteronomy","lang":"tw","chapter":13,"translation":"Na buu no abo mu ma ɔwuiɛ; ɛfiri sɛ ɔhwehwɛɛ sɛ ɔbɛtwaa wo firi Yawe, wo Eloohim — no a ɔde wo firi Misraim asase so, firi akoadie fie — ho.","tokens":[{"surface":"וסקלתו","gloss":"na bu no abo mu"},{"surface":"באבנים","gloss":"abo mu"},{"surface":"ומת","gloss":"ma ɔwuiɛ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בקש","gloss":"ɔhwehwɛɛ"},{"surface":"להדיחך","gloss":"sɛ ɔbɛtwaa wo"},{"surface":"מעל","gloss":"firi"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"המוציאך","gloss":"no a ɔde wo firi"},{"surface":"מארץ","gloss":"asase so"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"מבית","gloss":"firi fie"},{"surface":"עבדים","gloss":"akoadie"}],"timestamp":"2026-09-15T21:50:51.326337110Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na buu no abo mu ma ɔwuiɛ; ɛfiri sɛ ɔhwehwɛɛ sɛ ɔbɛtwaa wo firi Yawe, wo Eloohim — no a ɔde wo firi Misraim asase so, firi akoadie fie — ho.",
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "na bu no abo mu"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "abo mu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ma ɔwuiɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ɔhwehwɛɛ"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "sɛ ɔbɛtwaa wo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "no a ɔde wo firi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi fie"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "akoadie"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:51.326337110Z",
+  "model": "glm-5.3"
+}

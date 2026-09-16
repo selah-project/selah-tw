@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 38, "ref": "deuteronomy 1:38", "book": "deuteronomy", "lang": "tw", "chapter": 1, "translation": "Yehoshua, Nun ba, a ɔgyina wo anim, ɔno na ɔbɛkɔ hɔ; ⟨את⟩ ma n'akokoduru nkɔ so ma no, ɛfiri sɛ ɔno na ɔbɛma Yisrael adi ⟨את⟩ no so.", "tokens": [{"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נון", "gloss": "Nun"}, {"surface": "העמד", "gloss": "a ɔgyina"}, {"surface": "לפניך", "gloss": "wo anim"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "יבא", "gloss": "ɔbɛkɔ"}, {"surface": "שמה", "gloss": "hɔ"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "ma no"}, {"surface": "חזק", "gloss": "ma n'akokoduru nkɔ so"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "ינחלנה", "gloss": "ɔbɛma ... adi so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael"}, {"surface": "ישראל", "gloss": "Yisrael"}], "timestamp": "2026-09-15T21:45:19.928659746Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Yehoshua, Nun ba, a ɔgyina wo anim, ɔno na ɔbɛkɔ hɔ; ⟨את⟩ ma n'akokoduru nkɔ so ma no, ɛfiri sɛ ɔno na ɔbɛma Yisrael adi ⟨את⟩ no so.",
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "a ɔgyina"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ɔbɛkɔ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ma no"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ma n'akokoduru nkɔ so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "ɔbɛma ... adi so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:19.928659746Z",
+  "model": "glm-5.3"
+}

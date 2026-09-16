@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 24:2","book":"isaiah","lang":"tw","chapter":24,"translation":"Na ɛbɛyɛ sɛ ɔman no teɛ, sɛ ɔsɔfoɔ no teɛ; sɛ akɔfoɔ no teɛ, sɛ ne wura teɛ; sɛ odwɛfoɔ no teɛ, sɛ ne awuraa teɛ; sɛ wɔn a wɔtɔn no teɛ, sɛ wɔn a wɔtɔn no teɛ; sɛ wɔn a wɔde sika bɔ no teɛ, sɛ wɔn a wɔfa sika bɔ no teɛ; sɛ wɔn a wɔbo mfasoɔ so no teɛ, sɛ wɔn a wɔde bɔ no teɛ.","tokens":[{"surface":"והיה","gloss":"Na ɛbɛyɛ"},{"surface":"כעם","gloss":"sɛ ɔman no teɛ"},{"surface":"ככהן","gloss":"sɛ ɔsɔfoɔ no teɛ"},{"surface":"כעבד","gloss":"sɛ akɔfoɔ no teɛ"},{"surface":"כאדניו","gloss":"sɛ ne wura teɛ"},{"surface":"כשפחה","gloss":"sɛ odwɛfoɔ no teɛ"},{"surface":"כגברתה","gloss":"sɛ ne awuraa teɛ"},{"surface":"כקונה","gloss":"sɛ wɔn a wɔtɔn no teɛ"},{"surface":"כמוכר","gloss":"sɛ wɔn a wɔtɔn no teɛ"},{"surface":"כמלוה","gloss":"sɛ wɔn a wɔde sika bɔ no teɛ"},{"surface":"כלוה","gloss":"sɛ wɔn a wɔfa sika bɔ no teɛ"},{"surface":"כנשה","gloss":"sɛ wɔn a wɔbo mfasoɔ so no teɛ"},{"surface":"כאשר","gloss":"sɛ"},{"surface":"נשא","gloss":"wɔn a wɔde bɔ no teɛ"},{"surface":"בו","gloss":"no"}],"timestamp":"2026-09-15T23:48:29.600815064Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na ɛbɛyɛ sɛ ɔman no teɛ, sɛ ɔsɔfoɔ no teɛ; sɛ akɔfoɔ no teɛ, sɛ ne wura teɛ; sɛ odwɛfoɔ no teɛ, sɛ ne awuraa teɛ; sɛ wɔn a wɔtɔn no teɛ, sɛ wɔn a wɔtɔn no teɛ; sɛ wɔn a wɔde sika bɔ no teɛ, sɛ wɔn a wɔfa sika bɔ no teɛ; sɛ wɔn a wɔbo mfasoɔ so no teɛ, sɛ wɔn a wɔde bɔ no teɛ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbɛyɛ"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "sɛ ɔman no teɛ"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "sɛ ɔsɔfoɔ no teɛ"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "sɛ akɔfoɔ no teɛ"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "sɛ ne wura teɛ"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "sɛ odwɛfoɔ no teɛ"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "sɛ ne awuraa teɛ"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "sɛ wɔn a wɔtɔn no teɛ"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "sɛ wɔn a wɔtɔn no teɛ"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "sɛ wɔn a wɔde sika bɔ no teɛ"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "sɛ wɔn a wɔfa sika bɔ no teɛ"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "sɛ wɔn a wɔbo mfasoɔ so no teɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wɔn a wɔde bɔ no teɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:48:29.600815064Z",
+  "model": "glm-5.3"
+}

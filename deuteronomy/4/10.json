@@ -1,1 +1,141 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "deuteronomy 4:10", "book": "deuteronomy", "lang": "tw", "chapter": 4, "translation": "Ɛda a wo gyinaa Yawe, wo Eloohim, anim wɔ Horeb, berɛ a Yawe kaa kyerɛɛ me sɛ: Boa ⟨את⟩ ɔman no ma wɔmmra me nkyɛn, na mane ⟨את⟩ me nsɛm no akyerɛ wɔn, na wɔnsua sɛ wɔbɛsuro ⟨את⟩ me ɛda a wɔte asase so ⟨את⟩ nyinaa, na wɔnkyerɛkyerɛ wɔn mma.", "tokens": [{"surface": "יום", "gloss": "Ɛda"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עמדת", "gloss": "wo gyinaa"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיך", "gloss": "wo Eloohim"}, {"surface": "בחרב", "gloss": "wɔ Horeb"}, {"surface": "באמר", "gloss": "berɛ a ... kaa kyerɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלי", "gloss": "kyerɛɛ me"}, {"surface": "הקהל", "gloss": "Boa ... ma wɔmmra"}, {"surface": "לי", "gloss": "me nkyɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔman no"}, {"surface": "העם", "gloss": "ɔman no"}, {"surface": "ואשמעם", "gloss": "na mane ... akyerɛ wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nsɛm no"}, {"surface": "דברי", "gloss": "me nsɛm no"}, {"surface": "אשר", "gloss": "na"}, {"surface": "ילמדון", "gloss": "wɔnsua"}, {"surface": "ליראה", "gloss": "sɛ wɔbɛsuro"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me (Yawe)"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הימים", "gloss": "ɛda"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הם", "gloss": "wɔ"}, {"surface": "חיים", "gloss": "te asase so"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "האדמה", "gloss": "asase no so"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn mma"}, {"surface": "בניהם", "gloss": "wɔn mma"}, {"surface": "ילמדון", "gloss": "wɔnkyerɛkyerɛ"}], "timestamp": "2026-09-15T21:47:26.995169712Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛda a wo gyinaa Yawe, wo Eloohim, anim wɔ Horeb, berɛ a Yawe kaa kyerɛɛ me sɛ: Boa ⟨את⟩ ɔman no ma wɔmmra me nkyɛn, na mane ⟨את⟩ me nsɛm no akyerɛ wɔn, na wɔnsua sɛ wɔbɛsuro ⟨את⟩ me ɛda a wɔte asase so ⟨את⟩ nyinaa, na wɔnkyerɛkyerɛ wɔn mma.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ɛda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "wo gyinaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wɔ Horeb"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "berɛ a ... kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kyerɛɛ me"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "Boa ... ma wɔmmra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "na mane ... akyerɛ wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nsɛm no"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "me nsɛm no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "wɔnsua"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "sɛ wɔbɛsuro"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me (Yawe)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "te asase so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mma"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wɔn mma"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "wɔnkyerɛkyerɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:47:26.995169712Z",
+  "model": "glm-5.3"
+}

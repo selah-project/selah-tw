@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":14,"ref":"exodus 26:14","book":"exodus","lang":"tw","chapter":26,"translation":"Na wubɛyɛ adeakata ama ɛsrã no: ntwan nnɛ a wɔayɛ no kɔkɔɔ, na adeakata a ɛwɔ ⟨so⟩ — tehas nnɛ.","tokens":[{"surface":"ועשית","gloss":"na wubɛyɛ"},{"surface":"מכסה","gloss":"adeakata"},{"surface":"לאהל","gloss":"ama ɛsrã no"},{"surface":"ערת","gloss":"nnɛ"},{"surface":"אילם","gloss":"ntwan"},{"surface":"מאדמים","gloss":"a wɔayɛ no kɔkɔɔ"},{"surface":"ומכסה","gloss":"ne adeakata"},{"surface":"ערת","gloss":"nnɛ"},{"surface":"תחשים","gloss":"tehas"},{"surface":"מלמעלה","gloss":"a ɛwɔ atifi so"}],"timestamp":"2026-09-15T20:58:27.827206293Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na wubɛyɛ adeakata ama ɛsrã no: ntwan nnɛ a wɔayɛ no kɔkɔɔ, na adeakata a ɛwɔ ⟨so⟩ — tehas nnɛ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wubɛyɛ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "adeakata"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ama ɛsrã no"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ntwan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "a wɔayɛ no kɔkɔɔ"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "ne adeakata"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tehas"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "a ɛwɔ atifi so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:58:27.827206293Z",
+  "model": "glm-5.3"
+}

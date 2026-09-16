@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":1,"ref":"leviticus 9:1","book":"leviticus","lang":"tw","chapter":9,"translation":"Na ɛbaa sɛ wɔ da awotwe no mu, Mose frɛɛ Aharon ne ne mma ne Yisrael mpanimfoɔ.","tokens":[{"surface":"ויהי","gloss":"Na ɛbaa sɛ"},{"surface":"ביום","gloss":"wɔ da no mu"},{"surface":"השמיני","gloss":"awotwe"},{"surface":"קרא","gloss":"frɛɛ"},{"surface":"משה","gloss":"Mose"},{"surface":"לאהרן","gloss":"Aharon"},{"surface":"ולבניו","gloss":"ne ne mma"},{"surface":"ולזקני","gloss":"ne mpanimfoɔ"},{"surface":"ישראל","gloss":"Yisrael"}],"timestamp":"2026-09-15T21:13:24.643689349Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na ɛbaa sɛ wɔ da awotwe no mu, Mose frɛɛ Aharon ne ne mma ne Yisrael mpanimfoɔ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛbaa sɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da no mu"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "awotwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "frɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ne mpanimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:24.643689349Z",
+  "model": "glm-5.3"
+}

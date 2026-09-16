@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":5,"ref":"isaiah 62:5","book":"isaiah","lang":"tw","chapter":62,"translation":"Ɛfiri sɛ sɛ ɔbaatan ware abaanowa a, saa ara wo mma no bɛware wo; na sɛ ɔwarefoɔ ani gye ɔyere ho a, saa ara wo Eloohim ani bɛgye wo ho.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"יבעל","gloss":"ware"},{"surface":"בחור","gloss":"ɔbaatan"},{"surface":"בתולה","gloss":"abaanowa"},{"surface":"יבעלוך","gloss":"bɛware wo"},{"surface":"בניך","gloss":"wo mma no"},{"surface":"ומשוש","gloss":"na ... ani gye"},{"surface":"חתן","gloss":"ɔwarefoɔ"},{"surface":"על","gloss":"ho"},{"surface":"כלה","gloss":"ɔyere"},{"surface":"ישיש","gloss":"ani bɛgye"},{"surface":"עליך","gloss":"wo ho"},{"surface":"אלהיך","gloss":"wo Eloohim"}],"timestamp":"2026-09-16T05:27:31.084711572Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 62,
+  "translation": "Ɛfiri sɛ sɛ ɔbaatan ware abaanowa a, saa ara wo mma no bɛware wo; na sɛ ɔwarefoɔ ani gye ɔyere ho a, saa ara wo Eloohim ani bɛgye wo ho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "ware"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ɔbaatan"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "abaanowa"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "bɛware wo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wo mma no"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "na ... ani gye"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ɔwarefoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ɔyere"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "ani bɛgye"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:27:31.084711572Z",
+  "model": "glm-5.3"
+}

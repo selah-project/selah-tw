@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "joshua 14:8", "book": "joshua", "lang": "tw", "chapter": 14, "translation": "Nanso me nuanom a wɔne me kɔɔ no maa dɔm no ⟨את⟩ akoma toroɔ, na me dii Yawe, me Eloohim, akyi koraa.", "tokens": [{"surface": "ואחי", "gloss": "Nanso me nuanom"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עלו", "gloss": "wɔkɔɔ"}, {"surface": "עמי", "gloss": "ne me"}, {"surface": "המסיו", "gloss": "maa ... toroɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "akoma"}, {"surface": "לב", "gloss": "akoma"}, {"surface": "העם", "gloss": "dɔm no"}, {"surface": "ואנכי", "gloss": "na me"}, {"surface": "מלאתי", "gloss": "dii ... akyi koraa"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "me Eloohim"}], "timestamp": "2026-09-15T22:06:16.055386743Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Nanso me nuanom a wɔne me kɔɔ no maa dɔm no ⟨את⟩ akoma toroɔ, na me dii Yawe, me Eloohim, akyi koraa.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "Nanso me nuanom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wɔkɔɔ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne me"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "maa ... toroɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akoma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dɔm no"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "dii ... akyi koraa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:06:16.055386743Z",
+  "model": "glm-5.3"
+}

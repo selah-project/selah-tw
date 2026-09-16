@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "psalms 31:6", "book": "psalms", "lang": "tw", "chapter": 31, "translation": "M'ahonhom mehyɛ wo nsa mu; woagye me, ⟨את⟩ Yawe, El nokorɛ.", "tokens": [{"surface": "בידך", "gloss": "wo nsa mu"}, {"surface": "אפקיד", "gloss": "mehyɛ"}, {"surface": "רוחי", "gloss": "m'ahonhom"}, {"surface": "פדיתה", "gloss": "woagye me"}, {"surface": "אותי", "gloss": "⟨את⟩", "marks": "me"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אל", "gloss": "El"}, {"surface": "אמת", "gloss": "nokorɛ"}], "timestamp": "2026-09-16T01:46:31.162949006Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "M'ahonhom mehyɛ wo nsa mu; woagye me, ⟨את⟩ Yawe, El nokorɛ.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "wo nsa mu"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "mehyɛ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "m'ahonhom"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "woagye me"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nokorɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:46:31.162949006Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":17,"ref":"ezekiel 4:17","book":"ezekiel","lang":"tw","chapter":4,"translation":"Sɛnea ɛbɛyɛ a wɔbɛhia duane ne nsuo, na obi ne ne nua bɛyera wɔ wɔn ho, na wɔatotɔ wɔ wɔn bɔne mu.","tokens":[{"surface":"למען","gloss":"sɛnea ɛbɛyɛ a"},{"surface":"יחסרו","gloss":"wɔbɛhia"},{"surface":"לחם","gloss":"duane"},{"surface":"ומים","gloss":"ne nsuo"},{"surface":"ונשמו","gloss":"na ... bɛyera"},{"surface":"איש","gloss":"obi"},{"surface":"ואחיו","gloss":"ne ne nua"},{"surface":"ונמקו","gloss":"na wɔatotɔ"},{"surface":"בעונם","gloss":"wɔ wɔn bɔne mu"}],"timestamp":"2026-09-16T00:32:53.300178519Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 4:17",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Sɛnea ɛbɛyɛ a wɔbɛhia duane ne nsuo, na obi ne ne nua bɛyera wɔ wɔn ho, na wɔatotɔ wɔ wɔn bɔne mu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sɛnea ɛbɛyɛ a"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "wɔbɛhia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duane"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ne nsuo"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "na ... bɛyera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obi"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ne ne nua"
+    },
+    {
+      "surface": "ונמקו",
+      "gloss": "na wɔatotɔ"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "wɔ wɔn bɔne mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:32:53.300178519Z",
+  "model": "glm-5.3"
+}

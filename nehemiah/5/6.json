@@ -1,1 +1,55 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "nehemiah 5:6", "book": "nehemiah", "lang": "tw", "chapter": 5, "translation": "Me bo hwiee me papa berɛ a metee ⟨את⟩ wɔn teesɛm ne ⟨את⟩ nsɛm yi.", "tokens": [{"surface": "ויחר", "gloss": "me bo hwiee"}, {"surface": "לי", "gloss": "me"}, {"surface": "מאד", "gloss": "papa"}, {"surface": "כאשר", "gloss": "berɛ a"}, {"surface": "שמעתי", "gloss": "metee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn teesɛm"}, {"surface": "זעקתם", "gloss": "wɔn teesɛm"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nsɛm yi"}, {"surface": "הדברים", "gloss": "nsɛm"}, {"surface": "האלה", "gloss": "yi"}], "timestamp": "2026-09-16T04:28:56.253612824Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Me bo hwiee me papa berɛ a metee ⟨את⟩ wɔn teesɛm ne ⟨את⟩ nsɛm yi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "me bo hwiee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "papa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "metee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn teesɛm"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "wɔn teesɛm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T04:28:56.253612824Z",
+  "model": "glm-5.3"
+}

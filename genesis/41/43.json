@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 43, "ref": "genesis 41:43", "book": "genesis", "lang": "tw", "chapter": 41, "translation": "Ɛmaa no tenaa ⟨את⟩ mmirikatuo a ɛtɔ ⟨את⟩ so mmienu a ɛyɛ no dea no mu, na wɔfrɛɛ wɔ n'anim sɛ: Avrek! Na wɔde no hyɛɛ Misraim asase nyinaa so.", "tokens": [{"surface": "וירכב", "gloss": "maa no tenaa"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mmirikatuo"}, {"surface": "במרכבת", "gloss": "mmirikatuo mu"}, {"surface": "המשנה", "gloss": "ɛtɔ so mmienu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לו", "gloss": "ne dea"}, {"surface": "ויקראו", "gloss": "wɔfrɛɛ"}, {"surface": "לפניו", "gloss": "wɔ n'anim"}, {"surface": "אברך", "gloss": "Avrek"}, {"surface": "ונתון", "gloss": "wɔde hyɛɛ"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "על", "gloss": "so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "מצרים", "gloss": "Misraim"}], "timestamp": "2026-09-15T20:39:25.473735806Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 41:43",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Ɛmaa no tenaa ⟨את⟩ mmirikatuo a ɛtɔ ⟨את⟩ so mmienu a ɛyɛ no dea no mu, na wɔfrɛɛ wɔ n'anim sɛ: Avrek! Na wɔde no hyɛɛ Misraim asase nyinaa so.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "maa no tenaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mmirikatuo"
+    },
+    {
+      "surface": "במרכבת",
+      "gloss": "mmirikatuo mu"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ɛtɔ so mmienu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne dea"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "wɔfrɛɛ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wɔ n'anim"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "Avrek"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "wɔde hyɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:39:25.473735806Z",
+  "model": "glm-5.3"
+}

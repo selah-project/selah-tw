@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "isaiah 61:1", "book": "isaiah", "lang": "tw", "chapter": 61, "translation": "Adonai Yawe Honhom wɔ me so, ɛfiri sɛ Yawe asie me ngo ⟨את⟩ sɛde mɛbɔ anigyeɛ asɛm kyerɛ ahohoroborfoɔ no; wasoma me ma mɛboa wɔn a wɔn akoma abubu, mɛfrɛ deɛ wɔagye wɔn ayi mu no fahodie, na mmofrahyɛremu mpataa ama wɔn a wɔde wɔn abɔ no.", "tokens": [{"surface": "רוח", "gloss": "Honhom"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עלי", "gloss": "wɔ me so"}, {"surface": "יען", "gloss": "ɛfiri sɛ"}, {"surface": "משח", "gloss": "asie me ngo"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me"}, {"surface": "לבשר", "gloss": "sɛde mɛbɔ anigyeɛ asɛm kyerɛ"}, {"surface": "ענוים", "gloss": "ahohoroborfoɔ no"}, {"surface": "שלחני", "gloss": "wasoma me"}, {"surface": "לחבש", "gloss": "ma mɛboa"}, {"surface": "לנשברי", "gloss": "wɔn a ... abubu"}, {"surface": "לב", "gloss": "akoma"}, {"surface": "לקרא", "gloss": "mɛfrɛ"}, {"surface": "לשבוים", "gloss": "deɛ wɔagye wɔn ayi mu"}, {"surface": "דרור", "gloss": "fahodie"}, {"surface": "ולאסורים", "gloss": "na ... wɔn a wɔde wɔn abɔ"}, {"surface": "פקח", "gloss": "mpataa"}, {"surface": "קוח", "gloss": "mmofrahyɛmu"}], "timestamp": "2026-09-16T00:03:06.982076181Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 61:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 61,
+  "translation": "Adonai Yawe Honhom wɔ me so, ɛfiri sɛ Yawe asie me ngo ⟨את⟩ sɛde mɛbɔ anigyeɛ asɛm kyerɛ ahohoroborfoɔ no; wasoma me ma mɛboa wɔn a wɔn akoma abubu, mɛfrɛ deɛ wɔagye wɔn ayi mu no fahodie, na mmofrahyɛremu mpataa ama wɔn a wɔde wɔn abɔ no.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Honhom"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ me so"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "משח",
+      "gloss": "asie me ngo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "sɛde mɛbɔ anigyeɛ asɛm kyerɛ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ahohoroborfoɔ no"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "wasoma me"
+    },
+    {
+      "surface": "לחבש",
+      "gloss": "ma mɛboa"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "wɔn a ... abubu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "mɛfrɛ"
+    },
+    {
+      "surface": "לשבוים",
+      "gloss": "deɛ wɔagye wɔn ayi mu"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "fahodie"
+    },
+    {
+      "surface": "ולאסורים",
+      "gloss": "na ... wɔn a wɔde wɔn abɔ"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "mpataa"
+    },
+    {
+      "surface": "קוח",
+      "gloss": "mmofrahyɛmu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:03:06.982076181Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,106 @@
-{"tier": "glm-5.2", "verse": 59, "ref": "jeremiah 51:59", "book": "jeremiah", "lang": "tw", "chapter": 51, "translation": "Asɛm a odiyifoɔ Yirmiyanu hyɛɛ ⟨את⟩ Seraia, Neria ba, Mahseia ba, wɔ bere a ɔne Tsidkiahu, Yuda ɔhene, kɔɔ Babilon no — wɔ n'ahennie afe a ɛtɔ so nnan; na ⟨את⟩ Seraia yɛ ⟨ɔkandifoɔ a ɔhwɛ ahomegya⟩.", "tokens": [{"surface": "הדבר", "gloss": "asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "ירמיהו", "gloss": "Yirmiyanu"}, {"surface": "הנביא", "gloss": "odiyifoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Seraia"}, {"surface": "שריה", "gloss": "Seraia"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נריה", "gloss": "Neria"}, {"surface": "בן", "gloss": "ba"}, {"surface": "מחסיה", "gloss": "Mahseia"}, {"surface": "בלכתו", "gloss": "wɔ bere a ɔkɔɔ"}, {"surface": "את", "gloss": "⟨את⟩ ne"}, {"surface": "צדקיהו", "gloss": "Tsidkiahu"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "בבל", "gloss": "Babilon"}, {"surface": "בשנת", "gloss": "wɔ afe"}, {"surface": "הרבעית", "gloss": "a ɛtɔ so nnan"}, {"surface": "למלכו", "gloss": "n'ahennie"}, {"surface": "ושריה", "gloss": "na Seraia"}, {"surface": "שר", "gloss": "ɔkandifoɔ"}, {"surface": "מנוחה", "gloss": "a ɔhwɛ ahomegya"}], "timestamp": "2026-09-16T00:32:31.521512804Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "jeremiah 51:59",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Asɛm a odiyifoɔ Yirmiyanu hyɛɛ ⟨את⟩ Seraia, Neria ba, Mahseia ba, wɔ bere a ɔne Tsidkiahu, Yuda ɔhene, kɔɔ Babilon no — wɔ n'ahennie afe a ɛtɔ so nnan; na ⟨את⟩ Seraia yɛ ⟨ɔkandifoɔ a ɔhwɛ ahomegya⟩.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyanu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "odiyifoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraia"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neria"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מחסיה",
+      "gloss": "Mahseia"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "wɔ bere a ɔkɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "wɔ afe"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "a ɛtɔ so nnan"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "n'ahennie"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "na Seraia"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɔkandifoɔ"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "a ɔhwɛ ahomegya"
+    }
+  ],
+  "timestamp": "2026-09-16T00:32:31.521512804Z",
+  "model": "glm-5.3"
+}

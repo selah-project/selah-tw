@@ -1,1 +1,42 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "exodus 13:10", "book": "exodus", "lang": "tw", "chapter": 13, "translation": "Na wobɛbɔ ⟨את⟩ mmara yi so, wɔ berɛ a wɔahyɛ da mu no, firi afe kɔsi afe.", "tokens": [{"surface": "ושמרת", "gloss": "Na wobɛbɔ ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mmara yi"}, {"surface": "החקה", "gloss": "mmara"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "למועדה", "gloss": "wɔ berɛ a wɔahyɛ da mu no"}, {"surface": "מימים", "gloss": "firi ... kɔsi"}, {"surface": "ימימה", "gloss": "afe kɔsi afe"}], "timestamp": "2026-09-15T20:49:23.999969377Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na wobɛbɔ ⟨את⟩ mmara yi so, wɔ berɛ a wɔahyɛ da mu no, firi afe kɔsi afe.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Na wobɛbɔ ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmara yi"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "wɔ berɛ a wɔahyɛ da mu no"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "firi ... kɔsi"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "afe kɔsi afe"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:23.999969377Z",
+  "model": "glm-5.3"
+}

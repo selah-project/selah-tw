@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":36,"ref":"1-kings 22:36","book":"1-kings","lang":"tw","chapter":22,"translation":"Na atenaeɛ no traa asraafoɔ no mu wɔ awia a owia bɔne no mu, sɛ: Ɔbarima biara nkɔ n'akuraa mu, na ɔbarima biara nkɔ n'asase so.","tokens":[{"surface":"ויעבר","gloss":"traa"},{"surface":"הרנה","gloss":"atenaeɛ no"},{"surface":"במחנה","gloss":"asraafoɔ no mu"},{"surface":"כבא","gloss":"a ... bɔne"},{"surface":"השמש","gloss":"owia"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"איש","gloss":"Ɔbarima biara"},{"surface":"אל","gloss":"nkɔ"},{"surface":"עירו","gloss":"n'akuraa mu"},{"surface":"ואיש","gloss":"na ɔbarima biara"},{"surface":"אל","gloss":"nkɔ"},{"surface":"ארצו","gloss":"n'asase so"}],"timestamp":"2026-09-15T23:24:47.558333621Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na atenaeɛ no traa asraafoɔ no mu wɔ awia a owia bɔne no mu, sɛ: Ɔbarima biara nkɔ n'akuraa mu, na ɔbarima biara nkɔ n'asase so.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "traa"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "atenaeɛ no"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "asraafoɔ no mu"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "a ... bɔne"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "owia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ɔbarima biara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "n'akuraa mu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na ɔbarima biara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkɔ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "n'asase so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:24:47.558333621Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-kings 25:13","book":"2-kings","lang":"tw","chapter":25,"translation":"Na ⟨את⟩ kɔka gyinanso a na ɛwɔ Yawe fie, ne ⟨את⟩ nnyinasoɔ no, ne ⟨את⟩ kɔka ɛpo no a na ɛwɔ Yawe fie no, Kasdim bubuiɛ, na wɔde ⟨את⟩ wɔn kɔka kɔɔ Babel.","tokens":[{"surface":"ואת","gloss":"⟨את⟩","marks":"kɔka gyinanso"},{"surface":"עמודי","gloss":"gyinanso"},{"surface":"הנחשת","gloss":"kɔka"},{"surface":"אשר","gloss":"a"},{"surface":"בית","gloss":"fie"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nnyinasoɔ"},{"surface":"המכנות","gloss":"nnyinasoɔ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"kɔka ɛpo"},{"surface":"ים","gloss":"ɛpo"},{"surface":"הנחשת","gloss":"kɔka"},{"surface":"אשר","gloss":"a"},{"surface":"בבית","gloss":"fie"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"שברו","gloss":"bubuiɛ"},{"surface":"כשדים","gloss":"Kasdim"},{"surface":"וישאו","gloss":"wɔde ... kɔɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn kɔka"},{"surface":"נחשתם","gloss":"wɔn kɔka"},{"surface":"בבלה","gloss":"Babel"}],"timestamp":"2026-09-16T06:53:43.993489910Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 25:13",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ kɔka gyinanso a na ɛwɔ Yawe fie, ne ⟨את⟩ nnyinasoɔ no, ne ⟨את⟩ kɔka ɛpo no a na ɛwɔ Yawe fie no, Kasdim bubuiɛ, na wɔde ⟨את⟩ wɔn kɔka kɔɔ Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kɔka gyinanso"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "gyinanso"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnyinasoɔ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kɔka ɛpo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ɛpo"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bubuiɛ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wɔde ... kɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn kɔka"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "wɔn kɔka"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-09-16T06:53:43.993489910Z",
+  "model": "glm-5.3"
+}

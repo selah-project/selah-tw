@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "numbers 9:15", "book": "numbers", "lang": "tw", "chapter": 9, "translation": "Wɔ da a wɔsii ⟨את⟩ abɔdan no so no, nsum no kyeree ⟨את⟩ abɔdan no — adesoa adan no, ama ma adehunu no; anwummerɛ, deɛ ɛte sɛ ogya ani hwɛ bɛwɔ abɔdan no so kɔsisi anɔpa.", "tokens": [{"surface": "וביום", "gloss": "Wɔ da"}, {"surface": "הקים", "gloss": "a wɔsii ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "abɔdan no"}, {"surface": "המשכן", "gloss": "abɔdan no"}, {"surface": "כסה", "gloss": "kyeree"}, {"surface": "הענן", "gloss": "nsum no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "abɔdan no"}, {"surface": "המשכן", "gloss": "abɔdan no"}, {"surface": "לאהל", "gloss": "adesoa"}, {"surface": "העדת", "gloss": "adehunu no"}, {"surface": "ובערב", "gloss": "anwummerɛ"}, {"surface": "יהיה", "gloss": "bɛwɔ"}, {"surface": "על", "gloss": "so"}, {"surface": "המשכן", "gloss": "abɔdan no"}, {"surface": "כמראה", "gloss": "deɛ ɛte sɛ ... ani hwɛ"}, {"surface": "אש", "gloss": "ogya"}, {"surface": "עד", "gloss": "kɔsisi"}, {"surface": "בקר", "gloss": "anɔpa"}], "timestamp": "2026-09-15T21:30:18.678412916Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Wɔ da a wɔsii ⟨את⟩ abɔdan no so no, nsum no kyeree ⟨את⟩ abɔdan no — adesoa adan no, ama ma adehunu no; anwummerɛ, deɛ ɛte sɛ ogya ani hwɛ bɛwɔ abɔdan no so kɔsisi anɔpa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Wɔ da"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "a wɔsii ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔdan no"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "abɔdan no"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kyeree"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nsum no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔdan no"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "abɔdan no"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "adesoa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "adehunu no"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛwɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "abɔdan no"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "deɛ ɛte sɛ ... ani hwɛ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsisi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anɔpa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:30:18.678412916Z",
+  "model": "glm-5.3"
+}

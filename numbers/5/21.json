@@ -1,1 +1,113 @@
-{"tier":"glm-5.2","verse":21,"ref":"numbers 5:21","book":"numbers","lang":"tw","chapter":5,"translation":"Na ɔsɔfoɔ no ma ⟨את⟩ ɔbaa no sɔ ntam wɔ dua-ntam mu, na ɔsɔfoɔ no ka kyerɛ ɔbaa no sɛ: Yawe mma ⟨את⟩ wo nyɛ adua ne ntam wɔ wo nkorɔfoɔ mu, wɔ berɛ a Yawe bɛma ⟨את⟩ wo nan kɛseɛ no siw agu na ⟨את⟩ wo yafunu no ho ayɛ hye.","tokens":[{"surface":"והשביע","gloss":"ma ... sɔ ntam"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔbaa no"},{"surface":"האשה","gloss":"ɔbaa no"},{"surface":"בשבעת","gloss":"wɔ dua-ntam mu"},{"surface":"האלה","gloss":"dua (adua)"},{"surface":"ואמר","gloss":"na ɔka kyerɛ"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"לאשה","gloss":"ɔbaa no"},{"surface":"יתן","gloss":"mma"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אותך","gloss":"⟨את⟩ wo","marks":"wo"},{"surface":"לאלה","gloss":"adua"},{"surface":"ולשבעה","gloss":"ne ntam"},{"surface":"בתוך","gloss":"wɔ ... mu"},{"surface":"עמך","gloss":"wo nkorɔfoɔ"},{"surface":"בתת","gloss":"wɔ ... ma"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"wo nan kɛseɛ"},{"surface":"ירכך","gloss":"wo nan kɛseɛ"},{"surface":"נפלת","gloss":"siw agu"},{"surface":"ואת","gloss":"⟨את⟩","marks":"wo yafunu"},{"surface":"בטנך","gloss":"wo yafunu"},{"surface":"צבה","gloss":"ho ayɛ hye"}],"timestamp":"2026-09-15T21:27:38.370737756Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 5:21",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na ɔsɔfoɔ no ma ⟨את⟩ ɔbaa no sɔ ntam wɔ dua-ntam mu, na ɔsɔfoɔ no ka kyerɛ ɔbaa no sɛ: Yawe mma ⟨את⟩ wo nyɛ adua ne ntam wɔ wo nkorɔfoɔ mu, wɔ berɛ a Yawe bɛma ⟨את⟩ wo nan kɛseɛ no siw agu na ⟨את⟩ wo yafunu no ho ayɛ hye.",
+  "tokens": [
+    {
+      "surface": "והשביע",
+      "gloss": "ma ... sɔ ntam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbaa no"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "בשבעת",
+      "gloss": "wɔ dua-ntam mu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dua (adua)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ɔka kyerɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "adua"
+    },
+    {
+      "surface": "ולשבעה",
+      "gloss": "ne ntam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo nkorɔfoɔ"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "wɔ ... ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nan kɛseɛ"
+    },
+    {
+      "surface": "ירכך",
+      "gloss": "wo nan kɛseɛ"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "siw agu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo yafunu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "wo yafunu"
+    },
+    {
+      "surface": "צבה",
+      "gloss": "ho ayɛ hye"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:38.370737756Z",
+  "model": "glm-5.3"
+}

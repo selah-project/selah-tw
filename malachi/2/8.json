@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":8,"ref":"malachi 2:8","book":"malachi","lang":"tw","chapter":2,"translation":"Mo nso, moatu firi ɔkwan no so, moama pii ahinti wɔ Tora mu; mosɛee Lewi apam no, Yawe Asraafoɔ ka sɛ.","tokens":[{"surface":"ואתם","gloss":"Mo nso"},{"surface":"סרתם","gloss":"moatu firi ... so"},{"surface":"מן","gloss":"firi"},{"surface":"הדרך","gloss":"ɔkwan no so"},{"surface":"הכשלתם","gloss":"moama pii ahinti"},{"surface":"רבים","gloss":"pii"},{"surface":"בתורה","gloss":"wɔ Tora mu"},{"surface":"שחתם","gloss":"mosɛee"},{"surface":"ברית","gloss":"apam"},{"surface":"הלוי","gloss":"Lewi"},{"surface":"אמר","gloss":"ka sɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"}],"timestamp":"2026-09-16T01:33:48.539506027Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 2:8",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Mo nso, moatu firi ɔkwan no so, moama pii ahinti wɔ Tora mu; mosɛee Lewi apam no, Yawe Asraafoɔ ka sɛ.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mo nso"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "moatu firi ... so"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ɔkwan no so"
+    },
+    {
+      "surface": "הכשלתם",
+      "gloss": "moama pii ahinti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "wɔ Tora mu"
+    },
+    {
+      "surface": "שחתם",
+      "gloss": "mosɛee"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T01:33:48.539506027Z",
+  "model": "glm-5.3"
+}

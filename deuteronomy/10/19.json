@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "deuteronomy 10:19", "book": "deuteronomy", "lang": "tw", "chapter": 10, "translation": "Ɛna mo nso monwɔ ⟨את⟩ ahɔhoɔ no dɔ, ɛfiri sɛ mo ara moyɛɛ ahɔhoɔ wɔ Misraim asase so.", "tokens": [{"surface": "ואהבתם", "gloss": "monwɔ ... dɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ahɔhoɔ no"}, {"surface": "הגר", "gloss": "ahɔhoɔ no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "גרים", "gloss": "ahɔhoɔ"}, {"surface": "הייתם", "gloss": "moyɛɛ"}, {"surface": "בארץ", "gloss": "wɔ ... asase so"}, {"surface": "מצרים", "gloss": "Misraim"}], "timestamp": "2026-09-15T21:49:15.161107594Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Ɛna mo nso monwɔ ⟨את⟩ ahɔhoɔ no dɔ, ɛfiri sɛ mo ara moyɛɛ ahɔhoɔ wɔ Misraim asase so.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "monwɔ ... dɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahɔhoɔ no"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ahɔhoɔ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "moyɛɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ ... asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:15.161107594Z",
+  "model": "glm-5.3"
+}

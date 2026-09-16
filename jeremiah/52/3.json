@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "jeremiah 52:3", "book": "jeremiah", "lang": "tw", "chapter": 52, "translation": "Ɛfiri sɛ Yawe abufuo na ɛbaa Yerusalem ne Yuda so, kɔsii sɛ ɔbɔɔ ⟨את⟩ wɔn firi ne anim; na Sidkiayu tetee Babel ɔhene ano.", "tokens": [{"surface": "כי", "gloss": "Ɛfiri sɛ"}, {"surface": "על", "gloss": "ɛfiri"}, {"surface": "אף", "gloss": "abufuo"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "היתה", "gloss": "na ɛbaa"}, {"surface": "בירושלם", "gloss": "Yerusalem"}, {"surface": "ויהודה", "gloss": "ne Yuda"}, {"surface": "עד", "gloss": "kɔsii sɛ"}, {"surface": "השליכו", "gloss": "ɔbɔɔ"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn", "marks": "wɔn"}, {"surface": "מעל", "gloss": "firi"}, {"surface": "פניו", "gloss": "ne anim"}, {"surface": "וימרד", "gloss": "tetee ano"}, {"surface": "צדקיהו", "gloss": "Sidkiayu"}, {"surface": "במלך", "gloss": "ɔhene"}, {"surface": "בבל", "gloss": "Babel"}], "timestamp": "2026-09-16T00:32:34.451945064Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Ɛfiri sɛ Yawe abufuo na ɛbaa Yerusalem ne Yuda so, kɔsii sɛ ɔbɔɔ ⟨את⟩ wɔn firi ne anim; na Sidkiayu tetee Babel ɔhene ano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛfiri"
+    },
+    {
+      "surface": "אף",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "na ɛbaa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ne Yuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ne anim"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "tetee ano"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiayu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-09-16T00:32:34.451945064Z",
+  "model": "glm-5.3"
+}

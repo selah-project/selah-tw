@@ -1,1 +1,91 @@
-{"tier":"glm-5.2","verse":20,"ref":"exodus 32:20","book":"exodus","lang":"tw","chapter":32,"translation":"Na ɔfaa ⟨את⟩ mmerewa no a wɔyɛeɛ no, bɔɔ no ogya mu, tirii ma ɛyɛɛ nwowa, hwanee guu nsuo no so, na ɔmaa Yisrael ⟨את⟩ mma no nom.","tokens":[{"surface":"ויקח","gloss":"ɔfaa"},{"surface":"את","gloss":"⟨את⟩","marks":"mmerewa no"},{"surface":"העגל","gloss":"mmerewa no"},{"surface":"אשר","gloss":"a"},{"surface":"עשו","gloss":"wɔyɛeɛ"},{"surface":"וישרף","gloss":"bɔɔ no"},{"surface":"באש","gloss":"ogya mu"},{"surface":"ויטחן","gloss":"tirii"},{"surface":"עד","gloss":"kɔpɛ sɛ"},{"surface":"אשר","gloss":"——"},{"surface":"דק","gloss":"ɛyɛɛ nwowa"},{"surface":"ויזר","gloss":"hwanee guu"},{"surface":"על","gloss":"so"},{"surface":"פני","gloss":"nsuo no so (ani so)"},{"surface":"המים","gloss":"nsuo no"},{"surface":"וישק","gloss":"maa ... nom"},{"surface":"את","gloss":"⟨את⟩","marks":"Yisrael mma"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"}],"timestamp":"2026-09-15T21:03:13.943073548Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Na ɔfaa ⟨את⟩ mmerewa no a wɔyɛeɛ no, bɔɔ no ogya mu, tirii ma ɛyɛɛ nwowa, hwanee guu nsuo no so, na ɔmaa Yisrael ⟨את⟩ mma no nom.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmerewa no"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mmerewa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛeɛ"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "bɔɔ no"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "tirii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔpɛ sɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ɛyɛɛ nwowa"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "hwanee guu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nsuo no so (ani so)"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nsuo no"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "maa ... nom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T21:03:13.943073548Z",
+  "model": "glm-5.3"
+}

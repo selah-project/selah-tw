@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 18:12","book":"psalms","lang":"tw","chapter":18,"translation":"Ɔyɛɛ sum ne ahintaw; ntaban atwa ne ho ahyia — sum a nsuo wɔ mu, nkɔnkɔn dodoɔ a ɛwɔ soro.","tokens":[{"surface":"ישת","gloss":"ɔyɛɛ"},{"surface":"חשך","gloss":"sum"},{"surface":"סתרו","gloss":"ne ahintaw"},{"surface":"סביבותיו","gloss":"atwa ne ho ahyia"},{"surface":"סכתו","gloss":"ne ntaban"},{"surface":"חשכת","gloss":"sum a"},{"surface":"מים","gloss":"nsuo"},{"surface":"עבי","gloss":"nkɔnkɔn dodoɔ"},{"surface":"שחקים","gloss":"wɔ soro"}],"timestamp":"2026-09-16T05:39:03.803408835Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Ɔyɛɛ sum ne ahintaw; ntaban atwa ne ho ahyia — sum a nsuo wɔ mu, nkɔnkɔn dodoɔ a ɛwɔ soro.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sum"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ne ahintaw"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "atwa ne ho ahyia"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "ne ntaban"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "sum a"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "nkɔnkɔn dodoɔ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "wɔ soro"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:03.803408835Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":1,"ref":"joshua 6:1","book":"joshua","lang":"tw","chapter":6,"translation":"Na Yeriho sɔree mu, wɔabere mu, Yisrael mma anim; obianni hɔ a ɔfiri mu, na obianni hɔ nso a ɔba mu.","tokens":[{"surface":"ויריחו","gloss":"Na Yeriho"},{"surface":"סגרת","gloss":"sɔree mu"},{"surface":"ומסגרת","gloss":"wɔabere mu"},{"surface":"מפני","gloss":"anim"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"אין","gloss":"obianni hɔ"},{"surface":"יוצא","gloss":"a ɔfiri mu"},{"surface":"ואין","gloss":"na obianni hɔ nso"},{"surface":"בא","gloss":"a ɔba mu"}],"timestamp":"2026-09-15T22:03:00.558740309Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yeriho sɔree mu, wɔabere mu, Yisrael mma anim; obianni hɔ a ɔfiri mu, na obianni hɔ nso a ɔba mu.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Na Yeriho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "sɔree mu"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "wɔabere mu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "obianni hɔ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "a ɔfiri mu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na obianni hɔ nso"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a ɔba mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:03:00.558740309Z",
+  "model": "glm-5.3"
+}

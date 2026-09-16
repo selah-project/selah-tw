@@ -1,1 +1,108 @@
-{"tier":"glm-5.2","verse":15,"ref":"joshua 11:15","book":"joshua","lang":"tw","chapter":11,"translation":"Sɛnea Yawe hyɛɛ ne akuafoɔ ⟨את⟩ Mosɛ so no, saa na ⟨את⟩ Mosɛ hyɛɛ Yehoshua so; na saa na Yehoshua yɛɛ — wansɛe asɛm biara wɔ deɛ Yawe hyɛɛ ⟨את⟩ Mosɛ so nyinaa mu.","tokens":[{"surface":"כאשר","gloss":"Sɛnea"},{"surface":"צוה","gloss":"hyɛɛ ... so"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"Mosε"},{"surface":"משה","gloss":"Mosɛ"},{"surface":"עבדו","gloss":"ne akuafoɔ"},{"surface":"כן","gloss":"saa na"},{"surface":"צוה","gloss":"hyɛɛ ... so"},{"surface":"משה","gloss":"Mosɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yehoshua"},{"surface":"יהושע","gloss":"Yehoshua"},{"surface":"וכן","gloss":"na saa na"},{"surface":"עשה","gloss":"yɛɛ"},{"surface":"יהושע","gloss":"Yehoshua"},{"surface":"לא","gloss":"wantwa"},{"surface":"הסיר","gloss":"wansɛe"},{"surface":"דבר","gloss":"asɛm biara"},{"surface":"מכל","gloss":"wɔ ... nyinaa mu"},{"surface":"אשר","gloss":"deɛ"},{"surface":"צוה","gloss":"hyɛɛ ... so"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩","marks":"Mosε"},{"surface":"משה","gloss":"Mosɛ"}],"timestamp":"2026-09-15T22:06:28.971027331Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Sɛnea Yawe hyɛɛ ne akuafoɔ ⟨את⟩ Mosɛ so no, saa na ⟨את⟩ Mosɛ hyɛɛ Yehoshua so; na saa na Yehoshua yɛɛ — wansɛe asɛm biara wɔ deɛ Yawe hyɛɛ ⟨את⟩ Mosɛ so nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sɛnea"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ne akuafoɔ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ ... so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na saa na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wantwa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "wansɛe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm biara"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:06:28.971027331Z",
+  "model": "glm-5.3"
+}

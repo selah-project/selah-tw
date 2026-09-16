@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":9,"ref":"deuteronomy 6:9","book":"deuteronomy","lang":"tw","chapter":6,"translation":"Na woatwerɛ wɔ wo fie no mpɔtam ano pɔnkwa so, ne wo amena ano pɔnkwa so.","tokens":[{"surface":"וכתבתם","gloss":"woatwerɛ"},{"surface":"על","gloss":"so"},{"surface":"מזוזת","gloss":"pɔnkwa ano"},{"surface":"ביתך","gloss":"wo fie"},{"surface":"ובשעריך","gloss":"ne wo amena ano pɔnkwa so"}],"timestamp":"2026-09-15T21:46:34.685749606Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na woatwerɛ wɔ wo fie no mpɔtam ano pɔnkwa so, ne wo amena ano pɔnkwa so.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "woatwerɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "pɔnkwa ano"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wo fie"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ne wo amena ano pɔnkwa so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:34.685749606Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,124 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "exodus 16:23", "book": "exodus", "lang": "tw", "chapter": 16, "translation": "Na ɔka kyerɛɛ wɔn sɛ: Ɛno ne ⟨את⟩ deɛ Yawe aka: ɔsɔre da kronkron, Shabat kronkron a ɛda ma Yawe, ɔkyena. Deɛ mo bɛbɔ no, monbɔ; na ⟨את⟩ deɛ mo bɛnoa no, monnoa ⟨את⟩ no; na ⟨את⟩ deɛ aka no nyinaa, monsi mɔ mo ho kɔkɔkɔ kosi anɔpa.", "tokens": [{"surface": "ויאמר", "gloss": "na ɔka kyerɛɛ wɔn sɛ"}, {"surface": "אלהם", "gloss": "kyerɛɛ wɔn"}, {"surface": "הוא", "gloss": "Ɛno"}, {"surface": "אשר", "gloss": "ne"}, {"surface": "דבר", "gloss": "deɛ … aka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "שבתון", "gloss": "ɔsɔre da kronkron"}, {"surface": "שבת", "gloss": "Shabat kronkron"}, {"surface": "קדש", "gloss": "kronkron"}, {"surface": "ליהוה", "gloss": "ma Yawe"}, {"surface": "מחר", "gloss": "ɔkyena"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ mo bɛbɔ no"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "תאפו", "gloss": "mo bɛbɔ"}, {"surface": "אפו", "gloss": "monbɔ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "deɛ mo bɛnoa no"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "תבשלו", "gloss": "mo bɛnoa"}, {"surface": "בשלו", "gloss": "monnoa ⟨את⟩ no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "deɛ aka no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העדף", "gloss": "deɛ aka"}, {"surface": "הניחו", "gloss": "monsi mɔ"}, {"surface": "לכם", "gloss": "mo ho"}, {"surface": "למשמרת", "gloss": "kɔkɔkɔ"}, {"surface": "עד", "gloss": "kosi"}, {"surface": "הבקר", "gloss": "anɔpa"}], "timestamp": "2026-09-15T20:52:17.834090850Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 16:23",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔka kyerɛɛ wɔn sɛ: Ɛno ne ⟨את⟩ deɛ Yawe aka: ɔsɔre da kronkron, Shabat kronkron a ɛda ma Yawe, ɔkyena. Deɛ mo bɛbɔ no, monbɔ; na ⟨את⟩ deɛ mo bɛnoa no, monnoa ⟨את⟩ no; na ⟨את⟩ deɛ aka no nyinaa, monsi mɔ mo ho kɔkɔkɔ kosi anɔpa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔka kyerɛɛ wɔn sɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kyerɛɛ wɔn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ɛno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "deɛ … aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ɔsɔre da kronkron"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat kronkron"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ɔkyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ mo bɛbɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תאפו",
+      "gloss": "mo bɛbɔ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "monbɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ mo bɛnoa no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תבשלו",
+      "gloss": "mo bɛnoa"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "monnoa ⟨את⟩ no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ aka no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "deɛ aka"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "monsi mɔ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "kɔkɔkɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kosi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "anɔpa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:17.834090850Z",
+  "model": "glm-5.3"
+}

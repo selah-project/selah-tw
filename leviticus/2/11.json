@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":11,"ref":"leviticus 2:11","book":"leviticus","lang":"tw","chapter":2,"translation":"Mincha biara a mo de bɛba Yawe nkyɛn, monnyɛ no nuduru; ɛfiri sɛ nuduru biara ne dwaadwa biara, monnsɛe nnye mu biara gu ogya mu sɛ ogya afɔdede maa Yawe.","tokens":[{"surface":"כל","gloss":"biara"},{"surface":"המנחה","gloss":"mincha"},{"surface":"אשר","gloss":"a"},{"surface":"תקריבו","gloss":"mo de bɛba"},{"surface":"ליהוה","gloss":"Yawe nkyɛn"},{"surface":"לא","gloss":"monnyɛ"},{"surface":"תעשה","gloss":"no"},{"surface":"חמץ","gloss":"nuduru"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"כל","gloss":"biara"},{"surface":"שאר","gloss":"nuduru"},{"surface":"וכל","gloss":"ne ... biara"},{"surface":"דבש","gloss":"dwaadwa"},{"surface":"לא","gloss":"monnsɛe"},{"surface":"תקטירו","gloss":"gu ogya mu"},{"surface":"ממנו","gloss":"mu biara"},{"surface":"אשה","gloss":"ogya afɔdede"},{"surface":"ליהוה","gloss":"maa Yawe"}],"timestamp":"2026-09-15T21:08:02.036171572Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 2:11",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Mincha biara a mo de bɛba Yawe nkyɛn, monnyɛ no nuduru; ɛfiri sɛ nuduru biara ne dwaadwa biara, monnsɛe nnye mu biara gu ogya mu sɛ ogya afɔdede maa Yawe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "mo de bɛba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe nkyɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "monnyɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "no"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "nuduru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nuduru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... biara"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "dwaadwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "monnsɛe"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "gu ogya mu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mu biara"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ogya afɔdede"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:02.036171572Z",
+  "model": "glm-5.3"
+}

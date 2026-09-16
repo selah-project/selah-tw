@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"hosea 9:2","book":"hosea","lang":"tw","chapter":9,"translation":"Bɔne ne bɛtɔ nsã no renyɛ wɔn aduane, na nsã foforɔ no bɛda nkontompo wɔ hɔ.","tokens":[{"surface":"גרן","gloss":"bɔne"},{"surface":"ויקב","gloss":"ne bɛtɔ nsã no"},{"surface":"לא","gloss":"ren"},{"surface":"ירעם","gloss":"nyɛ wɔn aduane"},{"surface":"ותירוש","gloss":"na nsã foforɔ no"},{"surface":"יכחש","gloss":"bɛda nkontompo"},{"surface":"בה","gloss":"wɔ hɔ"}],"timestamp":"2026-09-16T01:06:30.872372049Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Bɔne ne bɛtɔ nsã no renyɛ wɔn aduane, na nsã foforɔ no bɛda nkontompo wɔ hɔ.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "ne bɛtɔ nsã no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "nyɛ wɔn aduane"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na nsã foforɔ no"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "bɛda nkontompo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wɔ hɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:30.872372049Z",
+  "model": "glm-5.3"
+}

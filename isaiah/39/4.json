@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "isaiah 39:4", "book": "isaiah", "lang": "tw", "chapter": 39, "translation": "Ɔbisaa sɛ: Wɔhunu deɛn wɔ wo fie? Hizkia kaa sɛ: Deɛ ɛwɔ me fie mu ⟨את⟩ nyinaa wɔhunuu; biribiara a meankyerɛ wɔn nni hɔ wɔ m'sɔdeɛ mu.", "tokens": [{"surface": "ויאמר", "gloss": "Ɔbisaa"}, {"surface": "מה", "gloss": "deɛn"}, {"surface": "ראו", "gloss": "Wɔhunu"}, {"surface": "בביתך", "gloss": "wɔ wo fie"}, {"surface": "ויאמר", "gloss": "kaa"}, {"surface": "חזקיהו", "gloss": "Hizkia"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ ɛwɔ me fie mu nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "בביתי", "gloss": "wɔ me fie mu"}, {"surface": "ראו", "gloss": "wɔhunuu"}, {"surface": "לא", "gloss": "nni"}, {"surface": "היה", "gloss": "biribiara"}, {"surface": "דבר", "gloss": "biribiara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "meankyerɛ"}, {"surface": "הראיתים", "gloss": "wɔn"}, {"surface": "באוצרתי", "gloss": "wɔ m'sɔdeɛ mu"}], "timestamp": "2026-09-15T23:55:10.662278418Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Ɔbisaa sɛ: Wɔhunu deɛn wɔ wo fie? Hizkia kaa sɛ: Deɛ ɛwɔ me fie mu ⟨את⟩ nyinaa wɔhunuu; biribiara a meankyerɛ wɔn nni hɔ wɔ m'sɔdeɛ mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ɔbisaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Wɔhunu"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wɔ wo fie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛwɔ me fie mu nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "wɔ me fie mu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "meankyerɛ"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "wɔ m'sɔdeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:55:10.662278418Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "genesis 43:5", "book": "genesis", "lang": "tw", "chapter": 43, "translation": "Sɛ wonnim no sɛ wo bɛsoma no, yɛrenkɔ ase; ɛfiri sɛ ɔbarima no kaa kyerɛɛ yɛn sɛ: Momunnhunu me anim, gyesɛ mo nuanom wɔ ⟨את⟩ mo mu.", "tokens": [{"surface": "ואם", "gloss": "sɛ"}, {"surface": "אינך", "gloss": "wonnim no"}, {"surface": "משלח", "gloss": "wo bɛsoma"}, {"surface": "לא", "gloss": "nni"}, {"surface": "נרד", "gloss": "yɛrekɔ ase"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "האיש", "gloss": "ɔbarima no"}, {"surface": "אמר", "gloss": "kaa kyerɛɛ"}, {"surface": "אלינו", "gloss": "yɛn"}, {"surface": "לא", "gloss": "mmɔ"}, {"surface": "תראו", "gloss": "munnhunu"}, {"surface": "פני", "gloss": "me anim"}, {"surface": "בלתי", "gloss": "gyesɛ"}, {"surface": "אחיכם", "gloss": "mo nuanom"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo mu"}], "timestamp": "2026-09-15T20:39:05.363722455Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Sɛ wonnim no sɛ wo bɛsoma no, yɛrenkɔ ase; ɛfiri sɛ ɔbarima no kaa kyerɛɛ yɛn sɛ: Momunnhunu me anim, gyesɛ mo nuanom wɔ ⟨את⟩ mo mu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wonnim no"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wo bɛsoma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "yɛrekɔ ase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "munnhunu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "gyesɛ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mo nuanom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:39:05.363722455Z",
+  "model": "glm-5.3"
+}

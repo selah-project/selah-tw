@@ -1,1 +1,73 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "numbers 23:26", "book": "numbers", "lang": "tw", "chapter": 23, "translation": "Bilam buaa wɔ na ɔkaa kyerɛɛ Balak sɛ: “Mennka kyerɛɛ wo anaa sɛ: deɛ Yawe bɛka no nyinaa, ɛno na ⟨את⟩ mɛyɛ?”", "tokens": [{"surface": "ויען", "gloss": "buaa"}, {"surface": "בלעם", "gloss": "Bilam"}, {"surface": "ויאמר", "gloss": "ɔkaa kyerɛɛ"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "בלק", "gloss": "Balak"}, {"surface": "הלא", "gloss": "mennka… anaa"}, {"surface": "דברתי", "gloss": "mennka kyerɛɛ"}, {"surface": "אליך", "gloss": "wo"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "ידבר", "gloss": "bɛka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתו", "gloss": "⟨את⟩"}, {"surface": "אעשה", "gloss": "mɛyɛ"}], "timestamp": "2026-09-15T21:37:42.532657856Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 23:26",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Bilam buaa wɔ na ɔkaa kyerɛɛ Balak sɛ: “Mennka kyerɛɛ wo anaa sɛ: deɛ Yawe bɛka no nyinaa, ɛno na ⟨את⟩ mɛyɛ?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "buaa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mennka… anaa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mennka kyerɛɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:37:42.532657856Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,134 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "2-kings 17:15", "book": "2-kings", "lang": "tw", "chapter": 17, "translation": "Wɔpowee ⟨את⟩ ne mmara, ne ⟨את⟩ ne apam a ɔtee ne ⟨את⟩ wɔn agyanom, ne ne adansedie a ɔdaa no adi wɔ ⟨את⟩ wɔn so; na wɔkɔɔ hweehwee akyi, na wɔyɛɛ hweehwee, na wɔkɔɔ aman a wɔwɔ wɔn ho aseɛ no akyi — a Yawe hyɛɛ ⟨את⟩ wɔn sɛ wɔnmnyɛ sɛnea wɔn nso yɛ.", "tokens": [{"surface": "וימאסו", "gloss": "wɔpowee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne mmara"}, {"surface": "חקיו", "gloss": "ne mmara"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne apam"}, {"surface": "בריתו", "gloss": "ne apam"}, {"surface": "אשר", "gloss": "a"}, {"surface": "כרת", "gloss": "ɔtee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn agyanom"}, {"surface": "אבותם", "gloss": "wɔn agyanom"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne adansedie"}, {"surface": "עדותיו", "gloss": "ne adansedie"}, {"surface": "אשר", "gloss": "a"}, {"surface": "העיד", "gloss": "ɔdaa no adi"}, {"surface": "בם", "gloss": "wɔn so"}, {"surface": "וילכו", "gloss": "na wɔkɔɔ"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "ההבל", "gloss": "hweehwee"}, {"surface": "ויהבלו", "gloss": "na wɔyɛɛ hweehwee"}, {"surface": "ואחרי", "gloss": "na ... akyi"}, {"surface": "הגוים", "gloss": "aman"}, {"surface": "אשר", "gloss": "a"}, {"surface": "סביבתם", "gloss": "wɔwɔ wɔn ho aseɛ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צוה", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "לבלתי", "gloss": "sɛ wɔnmmɔ"}, {"surface": "עשות", "gloss": "yɛ"}, {"surface": "כהם", "gloss": "sɛnea wɔn"}], "timestamp": "2026-09-16T05:23:37.727748479Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 17:15",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Wɔpowee ⟨את⟩ ne mmara, ne ⟨את⟩ ne apam a ɔtee ne ⟨את⟩ wɔn agyanom, ne ne adansedie a ɔdaa no adi wɔ ⟨את⟩ wɔn so; na wɔkɔɔ hweehwee akyi, na wɔyɛɛ hweehwee, na wɔkɔɔ aman a wɔwɔ wɔn ho aseɛ no akyi — a Yawe hyɛɛ ⟨את⟩ wɔn sɛ wɔnmnyɛ sɛnea wɔn nso yɛ.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "wɔpowee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmara"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne apam"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ne apam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ɔtee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn agyanom"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "wɔn agyanom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne adansedie"
+    },
+    {
+      "surface": "עדותיו",
+      "gloss": "ne adansedie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העיד",
+      "gloss": "ɔdaa no adi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na wɔkɔɔ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "ההבל",
+      "gloss": "hweehwee"
+    },
+    {
+      "surface": "ויהבלו",
+      "gloss": "na wɔyɛɛ hweehwee"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na ... akyi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "סביבתם",
+      "gloss": "wɔwɔ wɔn ho aseɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sɛ wɔnmmɔ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "sɛnea wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T05:23:37.727748479Z",
+  "model": "glm-5.3"
+}

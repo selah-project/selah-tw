@@ -1,1 +1,115 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "numbers 13:26", "book": "numbers", "lang": "tw", "chapter": 13, "translation": "Na wɔkɔɔ baa Moshe ne Aaron ne Yisrael mma no nyinaa asafo no nkyɛn, wɔ Paran sare no mu, Kades; na wɔbɔɔ ⟨את⟩ wɔn amaneɛ ne ⟨את⟩ asafo no nyinaa, na wɔkyerɛɛ wɔn ⟨את⟩ asase no aduaba.", "tokens": [{"surface": "וילכו", "gloss": "Na wɔkɔɔ"}, {"surface": "ויבאו", "gloss": "baa"}, {"surface": "אל", "gloss": "... nkyɛn"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ואל", "gloss": "ne ... nkyɛn"}, {"surface": "אהרן", "gloss": "Aaron"}, {"surface": "ואל", "gloss": "ne ... nkyɛn"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עדת", "gloss": "asafo"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "אל", "gloss": "... mu"}, {"surface": "מדבר", "gloss": "sare"}, {"surface": "פארן", "gloss": "Paran"}, {"surface": "קדשה", "gloss": "Kades"}, {"surface": "וישיבו", "gloss": "na wɔbɔɔ ... amaneɛ"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "דבר", "gloss": "asɛm"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "asafo no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העדה", "gloss": "asafo no"}, {"surface": "ויראום", "gloss": "na wɔkyerɛɛ wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no aduaba"}, {"surface": "פרי", "gloss": "aduaba"}, {"surface": "הארץ", "gloss": "asase no"}], "timestamp": "2026-09-15T21:31:41.681304614Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 13:26",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na wɔkɔɔ baa Moshe ne Aaron ne Yisrael mma no nyinaa asafo no nkyɛn, wɔ Paran sare no mu, Kades; na wɔbɔɔ ⟨את⟩ wɔn amaneɛ ne ⟨את⟩ asafo no nyinaa, na wɔkyerɛɛ wɔn ⟨את⟩ asase no aduaba.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Na wɔkɔɔ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... nkyɛn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne ... nkyɛn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne ... nkyɛn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asafo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... mu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sare"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kades"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "na wɔbɔɔ ... amaneɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asafo no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "asafo no"
+    },
+    {
+      "surface": "ויראום",
+      "gloss": "na wɔkyerɛɛ wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no aduaba"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aduaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:31:41.681304614Z",
+  "model": "glm-5.3"
+}

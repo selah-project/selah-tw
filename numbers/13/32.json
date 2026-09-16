@@ -1,1 +1,123 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "numbers 13:32", "book": "numbers", "lang": "tw", "chapter": 13, "translation": "Na wɔbɔɔ ⟨את⟩ asase a wɔhwehwɛɛ no bɔne wɔ Yisrael mma no anim, se: Asase a yɛatrɛw mu hwehwɛɛ no yɛ ⟨את⟩ asase a ɔdi ne mu ntenafoɔ; na nnipa a yɛhunuu wɔn mu no nyinaa yɛ ammarima a wɔware paa.", "tokens": [{"surface": "ויוציאו", "gloss": "Na wɔbɔɔ ... bɔne"}, {"surface": "דבת", "gloss": "bɔne"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "תרו", "gloss": "wɔhwehwɛɛ"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no (asase no)"}, {"surface": "אל", "gloss": "wɔ ... anim"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "לאמר", "gloss": "se"}, {"surface": "הארץ", "gloss": "Asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עברנו", "gloss": "yɛatrɛw mu"}, {"surface": "בה", "gloss": "mu"}, {"surface": "לתור", "gloss": "hwehwɛɛ"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no (asase no)"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "אכלת", "gloss": "a ɔdi"}, {"surface": "יושביה", "gloss": "ne mu ntenafoɔ"}, {"surface": "הוא", "gloss": "yɛ"}, {"surface": "וכל", "gloss": "na ... nyinaa"}, {"surface": "העם", "gloss": "nnipa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ראינו", "gloss": "yɛhunuu"}, {"surface": "בתוכה", "gloss": "wɔn mu"}, {"surface": "אנשי", "gloss": "ammarima"}, {"surface": "מדות", "gloss": "a wɔware paa"}], "timestamp": "2026-09-15T21:32:30.328704836Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 13:32",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na wɔbɔɔ ⟨את⟩ asase a wɔhwehwɛɛ no bɔne wɔ Yisrael mma no anim, se: Asase a yɛatrɛw mu hwehwɛɛ no yɛ ⟨את⟩ asase a ɔdi ne mu ntenafoɔ; na nnipa a yɛhunuu wɔn mu no nyinaa yɛ ammarima a wɔware paa.",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "Na wɔbɔɔ ... bɔne"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תרו",
+      "gloss": "wɔhwehwɛɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (asase no)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "yɛatrɛw mu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "hwehwɛɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (asase no)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "a ɔdi"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "ne mu ntenafoɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "yɛhunuu"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ammarima"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "a wɔware paa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:32:30.328704836Z",
+  "model": "glm-5.3"
+}

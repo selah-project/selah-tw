@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":10,"ref":"psalms 90:10","book":"psalms","lang":"tw","chapter":90,"translation":"Yɛn afe nna no mu wɔ afe 70; na sɛ ɛyɛ den a, afe 80; na ne ho ahinasoɔ yɛ adwuma den ne amanehunu; ɛtotow ntɛm, na yɛtu mmirika tu.","tokens":[{"surface":"ימי","gloss":"nna"},{"surface":"שנותינו","gloss":"yɛn afe"},{"surface":"בהם","gloss":"no mu wɔ"},{"surface":"שבעים","gloss":"70"},{"surface":"שנה","gloss":"afe"},{"surface":"ואם","gloss":"na sɛ"},{"surface":"בגבורת","gloss":"sɛ ɛyɛ den a"},{"surface":"שמונים","gloss":"80"},{"surface":"שנה","gloss":"afe"},{"surface":"ורהבם","gloss":"ne ho ahinasoɔ"},{"surface":"עמל","gloss":"adwuma den"},{"surface":"ואון","gloss":"ne amanehunu"},{"surface":"כי","gloss":"ɛno nti"},{"surface":"גז","gloss":"ɛtotow"},{"surface":"חיש","gloss":"ntɛm"},{"surface":"ונעפה","gloss":"yɛtu mmirika tu"}],"timestamp":"2026-09-16T02:14:15.671177883Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 90,
+  "translation": "Yɛn afe nna no mu wɔ afe 70; na sɛ ɛyɛ den a, afe 80; na ne ho ahinasoɔ yɛ adwuma den ne amanehunu; ɛtotow ntɛm, na yɛtu mmirika tu.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "yɛn afe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "no mu wɔ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "70"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "sɛ ɛyɛ den a"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "80"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ne ho ahinasoɔ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "adwuma den"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ne amanehunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛno nti"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ɛtotow"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "ntɛm"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "yɛtu mmirika tu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:14:15.671177883Z",
+  "model": "glm-5.3"
+}

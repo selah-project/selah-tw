@@ -1,1 +1,182 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "esther 4:11", "book": "esther", "lang": "tw", "chapter": 4, "translation": "“Ahemfi adwumfoɔ ne ɔhene amantam nnipa nyinaa nim sɛ, ɔbarima anaa ɔbea biara a ɔbɛkɔ ɔhene nkyɛn, mu aporɔbɔ no mu, a wɔannfrɛ no — mmarara baako na ɛwɔ hɔ sɛ wɔnkum no; ɔno nko ara a ɔhene bɛtrɛw sika kɔkɔɔ ⟨את⟩ pɛsoɔ no ama na ɔnya nkwa. Na me de, wɔammfrɛ me na memmɛkɔ ɔhene nkyɛn bɛyɛ nnasa alignSelf nnawɔtwe aduasa no.”", "tokens": [{"surface": "כל", "gloss": "nyinaa"}, {"surface": "עבדי", "gloss": "adwumfoɔ"}, {"surface": "המלך", "gloss": "ɔhene (ahemfi)"}, {"surface": "ועם", "gloss": "ne nnipa"}, {"surface": "מדינות", "gloss": "amantam"}, {"surface": "המלך", "gloss": "ɔhene no de"}, {"surface": "יודעים", "gloss": "nim"}, {"surface": "אשר", "gloss": "sɛ"}, {"surface": "כל", "gloss": "biara"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "ואשה", "gloss": "anaa ɔbea"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יבוא", "gloss": "ɔbɛkɔ"}, {"surface": "אל", "gloss": "(kɔ) nkyɛn"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "אל", "gloss": "mu"}, {"surface": "החצר", "gloss": "aporɔbɔ no mu"}, {"surface": "הפנימית", "gloss": "mu (a ɛwɔ mu)"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "nn-"}, {"surface": "יקרא", "gloss": "wɔannfrɛ"}, {"surface": "אחת", "gloss": "baako"}, {"surface": "דתו", "gloss": "mmarara"}, {"surface": "להמית", "gloss": "sɛ wɔnkum no"}, {"surface": "לבד", "gloss": "ɔno nko ara"}, {"surface": "מאשר", "gloss": "a"}, {"surface": "יושיט", "gloss": "bɛtrɛw ama"}, {"surface": "לו", "gloss": "no"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sika kɔkɔɔ pɛsoɔ no"}, {"surface": "שרביט", "gloss": "pɛsoɔ"}, {"surface": "הזהב", "gloss": "sika kɔkɔɔ no"}, {"surface": "וחיה", "gloss": "na ɔnya nkwa"}, {"surface": "ואני", "gloss": "na me de"}, {"surface": "לא", "gloss": "nn-"}, {"surface": "נקראתי", "gloss": "wɔammfrɛ me"}, {"surface": "לבוא", "gloss": "na memmɛkɔ"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "זה", "gloss": "bɛyɛ (nnawɔtwe aduasa)"}, {"surface": "שלושים", "gloss": "aduasa"}, {"surface": "יום", "gloss": "nnawɔtwe (da)"}], "timestamp": "2026-09-16T04:01:22.881273701Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 4:11",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "“Ahemfi adwumfoɔ ne ɔhene amantam nnipa nyinaa nim sɛ, ɔbarima anaa ɔbea biara a ɔbɛkɔ ɔhene nkyɛn, mu aporɔbɔ no mu, a wɔannfrɛ no — mmarara baako na ɛwɔ hɔ sɛ wɔnkum no; ɔno nko ara a ɔhene bɛtrɛw sika kɔkɔɔ ⟨את⟩ pɛsoɔ no ama na ɔnya nkwa. Na me de, wɔammfrɛ me na memmɛkɔ ɔhene nkyɛn bɛyɛ nnasa alignSelf nnawɔtwe aduasa no.”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adwumfoɔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene (ahemfi)"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ne nnipa"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "amantam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no de"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "nim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "anaa ɔbea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ɔbɛkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kɔ) nkyɛn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "aporɔbɔ no mu"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "mu (a ɛwɔ mu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wɔannfrɛ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "דתו",
+      "gloss": "mmarara"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "sɛ wɔnkum no"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ɔno nko ara"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יושיט",
+      "gloss": "bɛtrɛw ama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ pɛsoɔ no"
+    },
+    {
+      "surface": "שרביט",
+      "gloss": "pɛsoɔ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔ no"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "na ɔnya nkwa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "נקראתי",
+      "gloss": "wɔammfrɛ me"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "na memmɛkɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bɛyɛ (nnawɔtwe aduasa)"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nnawɔtwe (da)"
+    }
+  ],
+  "timestamp": "2026-09-16T04:01:22.881273701Z",
+  "model": "glm-5.3"
+}

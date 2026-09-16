@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "leviticus 16:32", "book": "leviticus", "lang": "tw", "chapter": 16, "translation": "Na ɔsɔfoɔ a wɔbɛsra ⟨את⟩ no, anaa ne nsa a wɔde beguw ama ⟨את⟩ no ayɛ ɔsɔfoɔ sɛ ne agya anan — no na ɔbɛkyɛ, na ɔhyɛ ⟨את⟩ ntarɛ fitaa no, ntarɛ kronkron no.", "tokens": [{"surface": "וכפר", "gloss": "na ɔbɛkyɛ"}, {"surface": "הכהן", "gloss": "ɔsɔfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ימשח", "gloss": "wɔbɛsra"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "ואשר", "gloss": "anaa a"}, {"surface": "ימלא", "gloss": "wɔde beguw ama"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nsa"}, {"surface": "ידו", "gloss": "ne nsa"}, {"surface": "לכהן", "gloss": "ayɛ ɔsɔfoɔ"}, {"surface": "תחת", "gloss": "sɛ ... anan"}, {"surface": "אביו", "gloss": "ne agya"}, {"surface": "ולבש", "gloss": "na ɔhyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ntarɛ fitaa"}, {"surface": "בגדי", "gloss": "ntarɛ"}, {"surface": "הבד", "gloss": "fitaa"}, {"surface": "בגדי", "gloss": "ntarɛ"}, {"surface": "הקדש", "gloss": "kronkron"}], "timestamp": "2026-09-15T21:18:03.859524754Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔsɔfoɔ a wɔbɛsra ⟨את⟩ no, anaa ne nsa a wɔde beguw ama ⟨את⟩ no ayɛ ɔsɔfoɔ sɛ ne agya anan — no na ɔbɛkyɛ, na ɔhyɛ ⟨את⟩ ntarɛ fitaa no, ntarɛ kronkron no.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "na ɔbɛkyɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "wɔbɛsra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "anaa a"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "wɔde beguw ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ayɛ ɔsɔfoɔ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sɛ ... anan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne agya"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "na ɔhyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntarɛ fitaa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ntarɛ"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "fitaa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ntarɛ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:03.859524754Z",
+  "model": "glm-5.3"
+}

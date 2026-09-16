@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":3,"ref":"2-kings 8:3","book":"2-kings","lang":"tw","chapter":8,"translation":"Mfeɛ nson no baa awieɛ no, ɔbaa no san firi Pelesithifoɔ asase mu; ɔfirii hɔ kɔtoo ɔhene no mu — n’afie ne n’afuo ho.","tokens":[{"surface":"ויהי","gloss":"san firi"},{"surface":"מקצה","gloss":"baa awieɛ"},{"surface":"שבע","gloss":"nson"},{"surface":"שנים","gloss":"mfeɛ"},{"surface":"ותשב","gloss":"san firi"},{"surface":"האשה","gloss":"ɔbaa no"},{"surface":"מארץ","gloss":"asase mu"},{"surface":"פלשתים","gloss":"Pelesithifoɔ"},{"surface":"ותצא","gloss":"firii hɔ"},{"surface":"לצעק","gloss":"kɔtoo ... mu"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"אל","gloss":"ho"},{"surface":"ביתה","gloss":"n’afie"},{"surface":"ואל","gloss":"ne"},{"surface":"שדה","gloss":"n’afuo"}],"timestamp":"2026-09-15T23:28:57.191652866Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mfeɛ nson no baa awieɛ no, ɔbaa no san firi Pelesithifoɔ asase mu; ɔfirii hɔ kɔtoo ɔhene no mu — n’afie ne n’afuo ho.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "san firi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "baa awieɛ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "san firi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "asase mu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesithifoɔ"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "firii hɔ"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "kɔtoo ... mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "n’afie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "n’afuo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:28:57.191652866Z",
+  "model": "glm-5.3"
+}

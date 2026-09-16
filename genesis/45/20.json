@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":20,"ref":"genesis 45:20","book":"genesis","lang":"tw","chapter":45,"translation":"Na mo ani nhwɛ mo nneɛma so; ɛfiri sɛ, Misraim asase no nyinaa papa mo dea.","tokens":[{"surface":"ועינכם","gloss":"mo ani"},{"surface":"אל","gloss":"nnhwɛ"},{"surface":"תחס","gloss":"nhwɛ…so"},{"surface":"על","gloss":"so"},{"surface":"כליכם","gloss":"mo nneɛma"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"טוב","gloss":"papa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"ארץ","gloss":"asase"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"לכם","gloss":"mo dea"},{"surface":"הוא","gloss":"⟨is⟩"}],"timestamp":"2026-09-15T20:40:52.955719308Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 45,
+  "translation": "Na mo ani nhwɛ mo nneɛma so; ɛfiri sɛ, Misraim asase no nyinaa papa mo dea.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "mo ani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nnhwɛ"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "nhwɛ…so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "mo nneɛma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo dea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-15T20:40:52.955719308Z",
+  "model": "glm-5.3"
+}

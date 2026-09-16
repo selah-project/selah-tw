@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 53, "ref": "1-kings 8:53", "book": "1-kings", "lang": "tw", "chapter": 8, "translation": "Ɛfiri sɛ wo na wode wɔn fii wo ho sɛ agyapadeɛ ma wo firi amanaman nyinaa mu, sɛnea wo kasa tia Moshe, wo akɔnhwɛfoɔ nsa so, wɔ berɛ a wode ⟨את⟩ yɛn akyirefoɔ firi Misraim no, Adonai Yawe.", "tokens": [{"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "הבדלתם", "gloss": "wode wɔn fii wo ho"}, {"surface": "לך", "gloss": "ma wo"}, {"surface": "לנחלה", "gloss": "sɛ agyapadeɛ"}, {"surface": "מכל", "gloss": "firi ... nyinaa mu"}, {"surface": "עמי", "gloss": "amanaman"}, {"surface": "הארץ", "gloss": "⟨asase⟩ no so"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "דברת", "gloss": "wo kasa tia"}, {"surface": "ביד", "gloss": "nsa so"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "עבדך", "gloss": "wo akɔnhwɛfoɔ"}, {"surface": "בהוציאך", "gloss": "wɔ berɛ a wode ... firi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yɛn akyirefoɔ"}, {"surface": "אבתינו", "gloss": "yɛn akyirefoɔ"}, {"surface": "ממצרים", "gloss": "Misraim"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T23:16:55.937179546Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 8:53",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Ɛfiri sɛ wo na wode wɔn fii wo ho sɛ agyapadeɛ ma wo firi amanaman nyinaa mu, sɛnea wo kasa tia Moshe, wo akɔnhwɛfoɔ nsa so, wɔ berɛ a wode ⟨את⟩ yɛn akyirefoɔ firi Misraim no, Adonai Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הבדלתם",
+      "gloss": "wode wɔn fii wo ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "sɛ agyapadeɛ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa mu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨asase⟩ no so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wo kasa tia"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa so"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akɔnhwɛfoɔ"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "wɔ berɛ a wode ... firi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn akyirefoɔ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "yɛn akyirefoɔ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:55.937179546Z",
+  "model": "glm-5.3"
+}

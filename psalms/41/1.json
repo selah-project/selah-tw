@@ -1,1 +1,25 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 41:1","book":"psalms","lang":"tw","chapter":41,"translation":"Ɔhwɛfoɔ no dea. Dawid dwom. ⟨sɛnea Hebrew teɛ⟩","tokens":[{"surface":"למנצח","gloss":"Ɔhwɛfoɔ no dea"},{"surface":"מזמור","gloss":"dwom"},{"surface":"לדוד","gloss":"Dawid dea"}],"timestamp":"2026-09-16T05:39:22.669447183Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 41,
+  "translation": "Ɔhwɛfoɔ no dea. Dawid dwom. ⟨sɛnea Hebrew teɛ⟩",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ɔhwɛfoɔ no dea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dwom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid dea"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:22.669447183Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":22,"ref":"joshua 7:22","book":"joshua","lang":"tw","chapter":7,"translation":"Yehoshua somaa asɛmfoɔ, na wɔtu mmirika kɔɔ ahemfi hɔ; na hwɛ, ɛda hɔ a wɔatoto no wɔ n'ahemfi mu, na sika fitaa no wɔ ne ase.","tokens":[{"surface":"וישלח","gloss":"somaa"},{"surface":"יהושע","gloss":"Yehoshua"},{"surface":"מלאכים","gloss":"asɛmfoɔ"},{"surface":"וירצו","gloss":"wɔtu mmirika"},{"surface":"האהלה","gloss":"kɔɔ ⟨the⟩ ahemfi hɔ"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"טמונה","gloss":"wɔatoto no"},{"surface":"באהלו","gloss":"wɔ n'ahemfi mu"},{"surface":"והכסף","gloss":"na sika fitaa no"},{"surface":"תחתיה","gloss":"wɔ ne ase"}],"timestamp":"2026-09-15T22:04:19.043242757Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 7:22",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Yehoshua somaa asɛmfoɔ, na wɔtu mmirika kɔɔ ahemfi hɔ; na hwɛ, ɛda hɔ a wɔatoto no wɔ n'ahemfi mu, na sika fitaa no wɔ ne ase.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "asɛmfoɔ"
+    },
+    {
+      "surface": "וירצו",
+      "gloss": "wɔtu mmirika"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "kɔɔ ⟨the⟩ ahemfi hɔ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "טמונה",
+      "gloss": "wɔatoto no"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "wɔ n'ahemfi mu"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "na sika fitaa no"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "wɔ ne ase"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:19.043242757Z",
+  "model": "glm-5.3"
+}

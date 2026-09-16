@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 8:22","book":"proverbs","lang":"tw","chapter":8,"translation":"Yawe bɔɔ me sɛ n'akwan no ahyɛaseɛ, ansa na wɔabɔ ne nnyuma, firi tete.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"קנני","gloss":"bɔɔ me"},{"surface":"ראשית","gloss":"ahyɛaseɛ"},{"surface":"דרכו","gloss":"n'akwan"},{"surface":"קדם","gloss":"ansa na ... tete"},{"surface":"מפעליו","gloss":"ne nnyuma"},{"surface":"מאז","gloss":"firi tete"}],"timestamp":"2026-09-16T05:43:31.783667384Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Yawe bɔɔ me sɛ n'akwan no ahyɛaseɛ, ansa na wɔabɔ ne nnyuma, firi tete.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "bɔɔ me"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ahyɛaseɛ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "n'akwan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ansa na ... tete"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "ne nnyuma"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "firi tete"
+    }
+  ],
+  "timestamp": "2026-09-16T05:43:31.783667384Z",
+  "model": "glm-5.3"
+}

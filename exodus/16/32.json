@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "exodus 16:32", "book": "exodus", "lang": "tw", "chapter": 16, "translation": "Na Moshe kaa sɛ, Saa na Yawe ahyɛ: ⟨את⟩ moma ɔmer baako a ɛyɛ pɛpɛɛpɛ wɔ mu, na wɔnnhwɛ so ama ⟨את⟩ mo nkyirimma; sɛnea wɔbɛhunu ⟨את⟩ aduane a me ma mo dii wɔ sare no mu, berɛ a metuu mo firi Misraim asase mu no.", "tokens": [{"surface": "ויאמר", "gloss": "Na ... kaa sɛ"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "זה", "gloss": "Saa"}, {"surface": "הדבר", "gloss": "asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צוה", "gloss": "ahyɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "מלא", "gloss": "baako a ɛyɛ pɛpɛɛpɛ"}, {"surface": "העמר", "gloss": "ɔmer"}, {"surface": "ממנו", "gloss": "wɔ mu"}, {"surface": "למשמרת", "gloss": "na wɔnnhwɛ so"}, {"surface": "לדרתיכם", "gloss": "ama mo nkyirimma"}, {"surface": "למען", "gloss": "sɛnea"}, {"surface": "יראו", "gloss": "wɔbɛhunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "aduane"}, {"surface": "הלחם", "gloss": "aduane"}, {"surface": "אשר", "gloss": "a"}, {"surface": "האכלתי", "gloss": "me ma mo dii"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "במדבר", "gloss": "wɔ sare no mu"}, {"surface": "בהוציאי", "gloss": "berɛ a metuu"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "מארץ", "gloss": "firi ... asase mu"}, {"surface": "מצרים", "gloss": "Misraim"}], "timestamp": "2026-09-15T22:27:08.431945919Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 16:32",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Moshe kaa sɛ, Saa na Yawe ahyɛ: ⟨את⟩ moma ɔmer baako a ɛyɛ pɛpɛɛpɛ wɔ mu, na wɔnnhwɛ so ama ⟨את⟩ mo nkyirimma; sɛnea wɔbɛhunu ⟨את⟩ aduane a me ma mo dii wɔ sare no mu, berɛ a metuu mo firi Misraim asase mu no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ... kaa sɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Saa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ahyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "baako a ɛyɛ pɛpɛɛpɛ"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ɔmer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "na wɔnnhwɛ so"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ama mo nkyirimma"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wɔbɛhunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aduane"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "האכלתי",
+      "gloss": "me ma mo dii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ sare no mu"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "berɛ a metuu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi ... asase mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:08.431945919Z",
+  "model": "glm-5.3"
+}

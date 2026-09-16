@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "exodus 7:2", "book": "exodus", "lang": "tw", "chapter": 7, "translation": "Wo na wo bɛka deɛ mɛhyɛ wo ⟨את⟩ nyinaa, na Aaron wo nua no bɛka kyerɛ Farao, na ɔmma ⟨את⟩ Israelfoɔ mmofiri n'asase mu.", "tokens": [{"surface": "אתה", "gloss": "Wo"}, {"surface": "תדבר", "gloss": "bɛka"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "אצוך", "gloss": "mɛhyɛ wo"}, {"surface": "ואהרן", "gloss": "na Aaron"}, {"surface": "אחיך", "gloss": "wo nua"}, {"surface": "ידבר", "gloss": "bɛka kyerɛ"}, {"surface": "אל", "gloss": "kyerɛ"}, {"surface": "פרעה", "gloss": "Farao"}, {"surface": "ושלח", "gloss": "ɔmma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israelfoɔ"}, {"surface": "בני", "gloss": "foɔ"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "מארצו", "gloss": "firi n'asase mu"}], "timestamp": "2026-09-15T20:46:17.807234733Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Wo na wo bɛka deɛ mɛhyɛ wo ⟨את⟩ nyinaa, na Aaron wo nua no bɛka kyerɛ Farao, na ɔmma ⟨את⟩ Israelfoɔ mmofiri n'asase mu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "mɛhyɛ wo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aaron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bɛka kyerɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ɔmma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelfoɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "foɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "firi n'asase mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:17.807234733Z",
+  "model": "glm-5.3"
+}

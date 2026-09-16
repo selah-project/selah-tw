@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":17,"ref":"jeremiah 11:17","book":"jeremiah","lang":"tw","chapter":11,"translation":"Na Yawe Sabaoth, deɛ Ɔduaa ⟨את⟩ wo, kasaam bɔne atia wo, ɛfiri sɛ Yisrael fie ne Yuda fie bɔne a wɔyɛɛ de wɔabɔ Wo bo, sɛ wɔhyɛ nwunu ma Baal nti.","tokens":[{"surface":"ויהוה","gloss":"Na Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"הנוטע","gloss":"deɛ Ɔduaa"},{"surface":"אותך","gloss":"⟨את⟩ wo"},{"surface":"דבר","gloss":"kasaam"},{"surface":"עליך","gloss":"atia wo"},{"surface":"רעה","gloss":"bɔne"},{"surface":"בגלל","gloss":"ɛfiri sɛ"},{"surface":"רעת","gloss":"bɔne"},{"surface":"בית","gloss":"fie"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ובית","gloss":"ne fie"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"אשר","gloss":"a"},{"surface":"עשו","gloss":"wɔyɛɛ"},{"surface":"להם","gloss":"de wɔn ankasa"},{"surface":"להכעסני","gloss":"de wɔabɔ me bo"},{"surface":"לקטר","gloss":"sɛ wɔhyɛ nwunu"},{"surface":"לבעל","gloss":"ma Baal"}],"timestamp":"2026-09-16T00:11:22.186042378Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 11:17",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na Yawe Sabaoth, deɛ Ɔduaa ⟨את⟩ wo, kasaam bɔne atia wo, ɛfiri sɛ Yisrael fie ne Yuda fie bɔne a wɔyɛɛ de wɔabɔ Wo bo, sɛ wɔhyɛ nwunu ma Baal nti.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנוטע",
+      "gloss": "deɛ Ɔduaa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasaam"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atia wo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de wɔn ankasa"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "de wɔabɔ me bo"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "sɛ wɔhyɛ nwunu"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ma Baal"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:22.186042378Z",
+  "model": "glm-5.3"
+}

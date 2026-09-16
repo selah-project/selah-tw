@@ -1,1 +1,106 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "exodus 13:3", "book": "exodus", "lang": "tw", "chapter": 13, "translation": "Moshe kaa kyerɛ nnipa no se: Kae ⟨את⟩ da yi a ⟨את⟩ moyii mo ho fii Misraim, fii koasom fie; ɛfiri sɛ denam nsa den so Yawe baa mo fie ha; na wɔmmi aduane a ansɔ anoo.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "אל", "gloss": "kyerɛ"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "זכור", "gloss": "kae"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "da yi"}, {"surface": "היום", "gloss": "da"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יצאתם", "gloss": "moyii mo ho fii"}, {"surface": "ממצרים", "gloss": "Misraim"}, {"surface": "מבית", "gloss": "fii ... fie"}, {"surface": "עבדים", "gloss": "koasom (akoafoɔ)"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "בחזק", "gloss": "denam ... den"}, {"surface": "יד", "gloss": "nsa den"}, {"surface": "הוציא", "gloss": "baa ... fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "מזה", "gloss": "ha fi"}, {"surface": "ולא", "gloss": "na wɔmmi"}, {"surface": "יאכל", "gloss": "(wɔ)mi"}, {"surface": "חמץ", "gloss": "aduane a ansɔ anoo (chametz)"}], "timestamp": "2026-09-15T20:50:03.732234771Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Moshe kaa kyerɛ nnipa no se: Kae ⟨את⟩ da yi a ⟨את⟩ moyii mo ho fii Misraim, fii koasom fie; ɛfiri sɛ denam nsa den so Yawe baa mo fie ha; na wɔmmi aduane a ansɔ anoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "kae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "da yi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "moyii mo ho fii"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fii ... fie"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "koasom (akoafoɔ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "denam ... den"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa den"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "baa ... fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ha fi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔmmi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "(wɔ)mi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "aduane a ansɔ anoo (chametz)"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:03.732234771Z",
+  "model": "glm-5.3"
+}

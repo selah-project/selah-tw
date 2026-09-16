@@ -1,1 +1,126 @@
-{"tier":"glm-5.2","verse":18,"ref":"joshua 2:18","book":"joshua","lang":"tw","chapter":2,"translation":"Hwɛ, sɛ yɛba asase no mu a, bɔ ⟨את⟩ twerɛ nten kokɔɔ yi wɔ abɔdan a wo tiee yɛn ase wɔ mu no mu; na ⟨את⟩ wo agya ne ⟨את⟩ wo maame ne ⟨את⟩ wo nuanom, ne ⟨את⟩ wo agya fie nyinaa, gye hyia wo ho wɔ fie.","tokens":[{"surface":"הנה","gloss":"Hwɛ"},{"surface":"אנחנו","gloss":"yɛn"},{"surface":"באים","gloss":"reba"},{"surface":"בארץ","gloss":"asase no mu"},{"surface":"את","gloss":"⟨את⟩","marks":"twerɛ nten kokɔɔ yi"},{"surface":"תקות","gloss":"twerɛ"},{"surface":"חוט","gloss":"nten"},{"surface":"השני","gloss":"kokɔɔ"},{"surface":"הזה","gloss":"yi"},{"surface":"תקשרי","gloss":"bɔ"},{"surface":"בחלון","gloss":"abɔdan no mu"},{"surface":"אשר","gloss":"a"},{"surface":"הורדתנו","gloss":"wo tiee yɛn ase"},{"surface":"בו","gloss":"mu"},{"surface":"ואת","gloss":"⟨את⟩","marks":"wo agya"},{"surface":"אביך","gloss":"wo agya"},{"surface":"ואת","gloss":"⟨את⟩","marks":"wo maame"},{"surface":"אמך","gloss":"wo maame"},{"surface":"ואת","gloss":"⟨את⟩","marks":"wo nuanom"},{"surface":"אחיך","gloss":"wo nuanom"},{"surface":"ואת","gloss":"⟨את⟩","marks":"wo agya fie nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"בית","gloss":"fie"},{"surface":"אביך","gloss":"wo agya"},{"surface":"תאספי","gloss":"gye hyia"},{"surface":"אליך","gloss":"wo ho"},{"surface":"הביתה","gloss":"fie"}],"timestamp":"2026-09-15T22:02:44.497375812Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 2:18",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Hwɛ, sɛ yɛba asase no mu a, bɔ ⟨את⟩ twerɛ nten kokɔɔ yi wɔ abɔdan a wo tiee yɛn ase wɔ mu no mu; na ⟨את⟩ wo agya ne ⟨את⟩ wo maame ne ⟨את⟩ wo nuanom, ne ⟨את⟩ wo agya fie nyinaa, gye hyia wo ho wɔ fie.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "באים",
+      "gloss": "reba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase no mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twerɛ nten kokɔɔ yi"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "twerɛ"
+    },
+    {
+      "surface": "חוט",
+      "gloss": "nten"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kokɔɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "תקשרי",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "abɔdan no mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הורדתנו",
+      "gloss": "wo tiee yɛn ase"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo agya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo maame"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wo maame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo nuanom"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nuanom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wo agya fie nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo agya"
+    },
+    {
+      "surface": "תאספי",
+      "gloss": "gye hyia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "fie"
+    }
+  ],
+  "timestamp": "2026-09-15T22:02:44.497375812Z",
+  "model": "glm-5.3"
+}

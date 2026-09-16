@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 49, "ref": "leviticus 14:49", "book": "leviticus", "lang": "tw", "chapter": 14, "translation": "Na ɔbɛfa nnomaa mmienu ne odua a ɛyɛ arɛdua, ne kɔkɔɔ-bɔɔfoɔ nwowa, ne sɔso de akɔfie ⟨את⟩ fie no:", "tokens": [{"surface": "ולקח", "gloss": "na ɔbɛfa"}, {"surface": "לחטא", "gloss": "de akɔfie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fie no"}, {"surface": "הבית", "gloss": "fie no"}, {"surface": "שתי", "gloss": "mmienu"}, {"surface": "צפרים", "gloss": "nnomaa"}, {"surface": "ועץ", "gloss": "ne odua"}, {"surface": "ארז", "gloss": "arɛdua"}, {"surface": "ושני", "gloss": "ne kɔkɔɔ-bɔɔfoɔ"}, {"surface": "תולעת", "gloss": "nwowa"}, {"surface": "ואזב", "gloss": "ne sɔso"}], "timestamp": "2026-09-15T21:13:47.357087927Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na ɔbɛfa nnomaa mmienu ne odua a ɛyɛ arɛdua, ne kɔkɔɔ-bɔɔfoɔ nwowa, ne sɔso de akɔfie ⟨את⟩ fie no:",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "na ɔbɛfa"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "de akɔfie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "nnomaa"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ne odua"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "arɛdua"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ne kɔkɔɔ-bɔɔfoɔ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "nwowa"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ne sɔso"
+    }
+  ],
+  "timestamp": "2026-09-15T21:13:47.357087927Z",
+  "model": "glm-5.3"
+}

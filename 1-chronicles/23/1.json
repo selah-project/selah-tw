@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-chronicles 23:1","book":"1-chronicles","lang":"tw","chapter":23,"translation":"Dawid deɛ abɔ ne mfomsoɔ sɛ wakɔ mfeɛ mu; ɛmaa ɔyɛɛ ne ba ⟨את⟩ Shelomoh hene wɔ Yisraelfoɔ so.","tokens":[{"surface":"ודויד","gloss":"Dawid"},{"surface":"זקן","gloss":"abɔ mfomsoɔ"},{"surface":"ושבע","gloss":"adɔɔso"},{"surface":"ימים","gloss":"afe nyinaa"},{"surface":"וימלך","gloss":"yɛɛ no hene"},{"surface":"את","gloss":"⟨את⟩","marks":"Shelomoh"},{"surface":"שלמה","gloss":"Shelomoh"},{"surface":"בנו","gloss":"ne ba"},{"surface":"על","gloss":"wɔ ... so"},{"surface":"ישראל","gloss":"Yisraelfoɔ"}],"timestamp":"2026-09-16T05:55:48.277944385Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Dawid deɛ abɔ ne mfomsoɔ sɛ wakɔ mfeɛ mu; ɛmaa ɔyɛɛ ne ba ⟨את⟩ Shelomoh hene wɔ Yisraelfoɔ so.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "abɔ mfomsoɔ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "adɔɔso"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "afe nyinaa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yɛɛ no hene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:48.277944385Z",
+  "model": "glm-5.3"
+}

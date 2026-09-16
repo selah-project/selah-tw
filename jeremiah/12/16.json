@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "jeremiah 12:16", "book": "jeremiah", "lang": "tw", "chapter": 12, "translation": "Na ɛbɛba sɛ, sɛ wɔsua me man no ⟨את⟩ akwan yie de bɛsa me din ase sɛ 'Yawe te ase,' sɛnea wɔkyerɛɛ ⟨את⟩ me man no sɛ wɔnsa Baal ase no, a, wɔbɛtena wɔ me man no mu.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛba"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "למד", "gloss": "yie"}, {"surface": "ילמדו", "gloss": "wɔsua"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "akwan"}, {"surface": "דרכי", "gloss": "akwan"}, {"surface": "עמי", "gloss": "me man no"}, {"surface": "להשבע", "gloss": "de bɛsa ... ase"}, {"surface": "בשמי", "gloss": "me din"}, {"surface": "חי", "gloss": "te ase"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "למדו", "gloss": "wɔkyerɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me man no"}, {"surface": "עמי", "gloss": "me man no"}, {"surface": "להשבע", "gloss": "sɛ wɔnsa"}, {"surface": "בבעל", "gloss": "Baal ase"}, {"surface": "ונבנו", "gloss": "wɔbɛtena"}, {"surface": "בתוך", "gloss": "wɔ ... mu"}, {"surface": "עמי", "gloss": "me man no"}], "timestamp": "2026-09-16T00:11:12.296436161Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 12:16",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛbɛba sɛ, sɛ wɔsua me man no ⟨את⟩ akwan yie de bɛsa me din ase sɛ 'Yawe te ase,' sɛnea wɔkyerɛɛ ⟨את⟩ me man no sɛ wɔnsa Baal ase no, a, wɔbɛtena wɔ me man no mu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "למד",
+      "gloss": "yie"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "wɔsua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "akwan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man no"
+    },
+    {
+      "surface": "להשבע",
+      "gloss": "de bɛsa ... ase"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "me din"
+    },
+    {
+      "surface": "חי",
+      "gloss": "te ase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "wɔkyerɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me man no"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man no"
+    },
+    {
+      "surface": "להשבע",
+      "gloss": "sɛ wɔnsa"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal ase"
+    },
+    {
+      "surface": "ונבנו",
+      "gloss": "wɔbɛtena"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me man no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:12.296436161Z",
+  "model": "glm-5.3"
+}

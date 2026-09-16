@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":8,"ref":"hosea 11:8","book":"hosea","lang":"tw","chapter":11,"translation":"Sɛdeɛ metumi bɛgya wo, Efrayim? Sɛdeɛ metumi bɛma wo, Israël? Sɛdeɛ metumi bɛyɛ wo sɛ Adama? Mɛyɛ wo sɛ Tseboim? Me akoma adane wɔ me mu; me mmɔborɔhunu nyinaa ahyɛ agyina abom.","tokens":[{"surface":"איך","gloss":"sɛdeɛ"},{"surface":"אתנך","gloss":"metumi bɛgya wo"},{"surface":"אפרים","gloss":"Efrayim"},{"surface":"אמגנך","gloss":"metumi bɛma wo (bɛkyɛ wo ama)"},{"surface":"ישראל","gloss":"Israël"},{"surface":"איך","gloss":"sɛdeɛ"},{"surface":"אתנך","gloss":"metumi bɛyɛ wo"},{"surface":"כאדמה","gloss":"sɛ Adama"},{"surface":"אשימך","gloss":"mɛyɛ wo"},{"surface":"כצבאים","gloss":"sɛ Tseboim"},{"surface":"נהפך","gloss":"adane"},{"surface":"עלי","gloss":"wɔ me mu"},{"surface":"לבי","gloss":"me akoma"},{"surface":"יחד","gloss":"nyinaa"},{"surface":"נכמרו","gloss":"ahyɛ agyina abom"},{"surface":"נחומי","gloss":"me mmɔborɔhunu"}],"timestamp":"2026-09-16T01:06:18.542429427Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 11:8",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Sɛdeɛ metumi bɛgya wo, Efrayim? Sɛdeɛ metumi bɛma wo, Israël? Sɛdeɛ metumi bɛyɛ wo sɛ Adama? Mɛyɛ wo sɛ Tseboim? Me akoma adane wɔ me mu; me mmɔborɔhunu nyinaa ahyɛ agyina abom.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "metumi bɛgya wo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אמגנך",
+      "gloss": "metumi bɛma wo (bɛkyɛ wo ama)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "metumi bɛyɛ wo"
+    },
+    {
+      "surface": "כאדמה",
+      "gloss": "sɛ Adama"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "mɛyɛ wo"
+    },
+    {
+      "surface": "כצבאים",
+      "gloss": "sɛ Tseboim"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "adane"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wɔ me mu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ahyɛ agyina abom"
+    },
+    {
+      "surface": "נחומי",
+      "gloss": "me mmɔborɔhunu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:06:18.542429427Z",
+  "model": "glm-5.3"
+}

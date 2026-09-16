@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "1-chronicles 15:2", "book": "1-chronicles", "lang": "tw", "chapter": 15, "translation": "Saa berɛ no, Dawid kaa sɛ: ɛnyɛ Levifoɔ na ɛsɛ sɛ wɔde Eloohim ⟨את⟩ adaka no — gye Levifoɔ; efisɛ Yawe ayi wɔn apere sɛ wɔn na wɔbɛsoa Yawe ⟨את⟩ adaka no, na wɔasom no daa.", "tokens": [{"surface": "אז", "gloss": "saa berɛ no"}, {"surface": "אמר", "gloss": "kaa sɛ"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "לא", "gloss": "ɛnyɛ"}, {"surface": "לשאת", "gloss": "sɛ wɔde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Eloohim adaka no"}, {"surface": "ארון", "gloss": "adaka"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "כי", "gloss": "efisɛ"}, {"surface": "אם", "gloss": "gye"}, {"surface": "הלוים", "gloss": "Levifoɔ"}, {"surface": "כי", "gloss": "efisɛ"}, {"surface": "בם", "gloss": "wɔn"}, {"surface": "בחר", "gloss": "ayi apere"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לשאת", "gloss": "sɛ wɔbɛsoa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe adaka no"}, {"surface": "ארון", "gloss": "adaka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ולשרתו", "gloss": "na wɔasom no"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "עולם", "gloss": "daa"}], "timestamp": "2026-09-16T04:42:09.745867883Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Saa berɛ no, Dawid kaa sɛ: ɛnyɛ Levifoɔ na ɛsɛ sɛ wɔde Eloohim ⟨את⟩ adaka no — gye Levifoɔ; efisɛ Yawe ayi wɔn apere sɛ wɔn na wɔbɛsoa Yawe ⟨את⟩ adaka no, na wɔasom no daa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "saa berɛ no"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sɛ wɔde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "gye"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levifoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ayi apere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sɛ wɔbɛsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "na wɔasom no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:42:09.745867883Z",
+  "model": "glm-5.3"
+}

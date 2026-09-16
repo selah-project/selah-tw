@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "numbers 21:16", "book": "numbers", "lang": "tw", "chapter": 21, "translation": "Na firi hɔ wɔkɔɔ Beer — Birim no; Yawe kaa kyerɛɛ Moshe sɛ: \"Boa ⟨את⟩ nnipa no ma wɔboabom ho, na mama wɔn nsuo.\"", "tokens": [{"surface": "ומשם", "gloss": "na firi hɔ"}, {"surface": "בארה", "gloss": "Beer"}, {"surface": "הוא", "gloss": "no"}, {"surface": "הבאר", "gloss": "Birim"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אמר", "gloss": "kaa kyerɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "למשה", "gloss": "Moshe"}, {"surface": "אסף", "gloss": "boa ... ma wɔboabom ho"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnipa no"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "ואתנה", "gloss": "na mama"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "מים", "gloss": "nsuo"}], "timestamp": "2026-09-15T21:35:34.818199121Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na firi hɔ wɔkɔɔ Beer — Birim no; Yawe kaa kyerɛɛ Moshe sɛ: \"Boa ⟨את⟩ nnipa no ma wɔboabom ho, na mama wɔn nsuo.\"",
+  "tokens": [
+    {
+      "surface": "ומשם",
+      "gloss": "na firi hɔ"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "Birim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "boa ... ma wɔboabom ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na mama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:34.818199121Z",
+  "model": "glm-5.3"
+}

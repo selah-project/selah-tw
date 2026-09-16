@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":27,"ref":"deuteronomy 9:27","book":"deuteronomy","lang":"tw","chapter":9,"translation":"Kae w'akoafoɔ Abraham, Yitshak, ne Yakob; nhwɛ nnipa yi denkɛm, ne wɔn bɔne, ne wɔn yɛ.","tokens":[{"surface":"זכר","gloss":"Kae"},{"surface":"לעבדיך","gloss":"w'akoafoɔ"},{"surface":"לאברהם","gloss":"Abraham"},{"surface":"ליצחק","gloss":"Yitshak"},{"surface":"וליעקב","gloss":"ne Yakob"},{"surface":"אל","gloss":"n-"},{"surface":"תפן","gloss":"nhwɛ"},{"surface":"אל","gloss":"de"},{"surface":"קשי","gloss":"denkɛm"},{"surface":"העם","gloss":"nnipa"},{"surface":"הזה","gloss":"yi"},{"surface":"ואל","gloss":"ne"},{"surface":"רשעו","gloss":"wɔn bɔne"},{"surface":"ואל","gloss":"ne"},{"surface":"חטאתו","gloss":"wɔn yɛ"}],"timestamp":"2026-09-15T21:49:52.344334658Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 9:27",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Kae w'akoafoɔ Abraham, Yitshak, ne Yakob; nhwɛ nnipa yi denkɛm, ne wɔn bɔne, ne wɔn yɛ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kae"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "w'akoafoɔ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ne Yakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n-"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "nhwɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "denkɛm"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "wɔn bɔne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "wɔn yɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:52.344334658Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":14,"ref":"isaiah 26:14","book":"isaiah","lang":"tw","chapter":26,"translation":"Awufoɔ no rentena ase; Refaim nso rentena mu; enti wohuu wɔn asɛm, wo sɛee wɔn, na wo maa wɔn nkaeɛ nyinaa firii hɔ.","tokens":[{"surface":"מתים","gloss":"awufoɔ"},{"surface":"בל","gloss":"renni"},{"surface":"יחיו","gloss":"tena ase"},{"surface":"רפאים","gloss":"Refaim"},{"surface":"בל","gloss":"renninyina"},{"surface":"יקמו","gloss":"tena mu"},{"surface":"לכן","gloss":"enti"},{"surface":"פקדת","gloss":"wohuu wɔn asɛm"},{"surface":"ותשמידם","gloss":"wo sɛee wɔn"},{"surface":"ותאבד","gloss":"wo maa ... firii hɔ"},{"surface":"כל","gloss":"nyinaa"},{"surface":"זכר","gloss":"nkaeɛ"},{"surface":"למו","gloss":"wɔn"}],"timestamp":"2026-09-16T05:24:31.518987720Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Awufoɔ no rentena ase; Refaim nso rentena mu; enti wohuu wɔn asɛm, wo sɛee wɔn, na wo maa wɔn nkaeɛ nyinaa firii hɔ.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "awufoɔ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "renni"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "tena ase"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "renninyina"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "tena mu"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "wohuu wɔn asɛm"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "wo sɛee wɔn"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "wo maa ... firii hɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wɔn"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:31.518987720Z",
+  "model": "glm-5.3"
+}

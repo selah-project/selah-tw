@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "jeremiah 22:1", "book": "jeremiah", "lang": "tw", "chapter": 22, "translation": "Sɛnea Yawe ka no, senkɔ Yuda ɔhene fie, na kasa ⟨את⟩ asɛm yi wɔ hɔ:", "tokens": [{"surface": "כה", "gloss": "sɛnea"}, {"surface": "אמר", "gloss": "ka no"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "רד", "gloss": "senkɔ"}, {"surface": "בית", "gloss": "fie"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "ודברת", "gloss": "na kasa"}, {"surface": "שם", "gloss": "wɔ hɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm yi"}, {"surface": "הדבר", "gloss": "asɛm"}, {"surface": "הזה", "gloss": "yi"}], "timestamp": "2026-09-16T00:15:54.087590397Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Sɛnea Yawe ka no, senkɔ Yuda ɔhene fie, na kasa ⟨את⟩ asɛm yi wɔ hɔ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "senkɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na kasa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T00:15:54.087590397Z",
+  "model": "glm-5.3"
+}

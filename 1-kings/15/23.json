@@ -1,1 +1,121 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "1-kings 15:23", "book": "1-kings", "lang": "tw", "chapter": 15, "translation": "Asa nsɛm a aka nyinaa, ⟨את⟩ ne ahoɔden nyinaa, ne de ɔyɛeɛ nyinaa, ne nkurow a ɔsiiɛ — wonka no nkyerɛw wɔ Yuda ahemfo nna nsɛm nwoma mu? Nanso pɛ, wɔ n'akokɔberɛ berɛ mu no, ne nan yaree.", "tokens": [{"surface": "ויתר", "gloss": "a aka"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "דברי", "gloss": "nsɛm"}, {"surface": "אסא", "gloss": "Asa"}, {"surface": "וכל", "gloss": "ne nyinaa"}, {"surface": "גבורתו", "gloss": "n'ahoɔden"}, {"surface": "וכל", "gloss": "ne nyinaa"}, {"surface": "אשר", "gloss": "de"}, {"surface": "עשה", "gloss": "ɔyɛeɛ"}, {"surface": "והערים", "gloss": "ne nkurow"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בנה", "gloss": "ɔsiiɛ"}, {"surface": "הלא", "gloss": "wonka ... ?"}, {"surface": "המה", "gloss": "ɛno"}, {"surface": "כתובים", "gloss": "nkyerɛw"}, {"surface": "על", "gloss": "wɔ ... mu"}, {"surface": "ספר", "gloss": "nwoma"}, {"surface": "דברי", "gloss": "nsɛm"}, {"surface": "הימים", "gloss": "nna"}, {"surface": "למלכי", "gloss": "ahemfo"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "רק", "gloss": "nanso pɛ"}, {"surface": "לעת", "gloss": "wɔ ... berɛ mu"}, {"surface": "זקנתו", "gloss": "n'akokɔberɛ"}, {"surface": "חלה", "gloss": "yaree"}, {"surface": "את", "gloss": "⟨את⟩ ne"}, {"surface": "רגליו", "gloss": "nan"}], "timestamp": "2026-09-15T23:21:24.535791036Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 15:23",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Asa nsɛm a aka nyinaa, ⟨את⟩ ne ahoɔden nyinaa, ne de ɔyɛeɛ nyinaa, ne nkurow a ɔsiiɛ — wonka no nkyerɛw wɔ Yuda ahemfo nna nsɛm nwoma mu? Nanso pɛ, wɔ n'akokɔberɛ berɛ mu no, ne nan yaree.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "a aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "n'ahoɔden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔyɛeɛ"
+    },
+    {
+      "surface": "והערים",
+      "gloss": "ne nkurow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɔsiiɛ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "wonka ... ?"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "nkyerɛw"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nanso pɛ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "wɔ ... berɛ mu"
+    },
+    {
+      "surface": "זקנתו",
+      "gloss": "n'akokɔberɛ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "yaree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:24.535791036Z",
+  "model": "glm-5.3"
+}

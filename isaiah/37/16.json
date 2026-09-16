@@ -1,1 +1,91 @@
-{"tier":"glm-5.2","verse":16,"ref":"isaiah 37:16","book":"isaiah","lang":"tw","chapter":37,"translation":"Yawe Twafoom, Israel Eloohim, wo na wote kerubim no so; wo nko ara ne Eloohim wɔ asase so aman ahodoɔ nyinaa mu; wo na woyɛɛ ⟨את⟩ ɔsoro ne ⟨את⟩ asase.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"ישראל","gloss":"Israel"},{"surface":"ישב","gloss":"wote"},{"surface":"הכרבים","gloss":"kerubim no so"},{"surface":"אתה","gloss":"wo"},{"surface":"הוא","gloss":"wo ankasa"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"לבדך","gloss":"nko ara"},{"surface":"לכל","gloss":"nyinaa mu"},{"surface":"ממלכות","gloss":"aman"},{"surface":"הארץ","gloss":"asase so"},{"surface":"אתה","gloss":"wo"},{"surface":"עשית","gloss":"woyɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔsoro"},{"surface":"השמים","gloss":"ɔsoro"},{"surface":"ואת","gloss":"ne ⟨את⟩","marks":"asase"},{"surface":"הארץ","gloss":"asase"}],"timestamp":"2026-09-15T23:52:56.930824242Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Yawe Twafoom, Israel Eloohim, wo na wote kerubim no so; wo nko ara ne Eloohim wɔ asase so aman ahodoɔ nyinaa mu; wo na woyɛɛ ⟨את⟩ ɔsoro ne ⟨את⟩ asase.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubim no so"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wo ankasa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "aman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "woyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:52:56.930824242Z",
+  "model": "glm-5.3"
+}

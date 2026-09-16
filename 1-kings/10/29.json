@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":29,"ref":"1-kings 10:29","book":"1-kings","lang":"tw","chapter":10,"translation":"Na kɛrekan bɛforo firii Misraim mu wɔ sika ɔha nsia, na ɔpon wɔ aduonum ne ɔha; na saa ara ma ahemfo a wɔwɔ Hiti nyinaa, ne ahemfo a wɔwɔ Aram — wɔn nsa na wɔde bae.","tokens":[{"surface":"ותעלה","gloss":"bɛforo"},{"surface":"ותצא","gloss":"firii"},{"surface":"מרכבה","gloss":"kɛrekan"},{"surface":"ממצרים","gloss":"Misraim mu"},{"surface":"בשש","gloss":"wɔ"},{"surface":"מאות","gloss":"ɔha nsia"},{"surface":"כסף","gloss":"sika"},{"surface":"וסוס","gloss":"na ɔpon"},{"surface":"בחמשים","gloss":"wɔ aduonum"},{"surface":"ומאה","gloss":"ne ɔha"},{"surface":"וכן","gloss":"na saa ara"},{"surface":"לכל","gloss":"ma nyinaa"},{"surface":"מלכי","gloss":"ahemfo"},{"surface":"החתים","gloss":"Hiti"},{"surface":"ולמלכי","gloss":"ne ahemfo"},{"surface":"ארם","gloss":"Aram"},{"surface":"בידם","gloss":"wɔn nsa mu"},{"surface":"יצאו","gloss":"wɔde bae"}],"timestamp":"2026-09-15T23:17:32.125903890Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 10:29",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na kɛrekan bɛforo firii Misraim mu wɔ sika ɔha nsia, na ɔpon wɔ aduonum ne ɔha; na saa ara ma ahemfo a wɔwɔ Hiti nyinaa, ne ahemfo a wɔwɔ Aram — wɔn nsa na wɔde bae.",
+  "tokens": [
+    {
+      "surface": "ותעלה",
+      "gloss": "bɛforo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "firii"
+    },
+    {
+      "surface": "מרכבה",
+      "gloss": "kɛrekan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim mu"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha nsia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "na ɔpon"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "wɔ aduonum"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ne ɔha"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na saa ara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "ולמלכי",
+      "gloss": "ne ahemfo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "wɔn nsa mu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wɔde bae"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:32.125903890Z",
+  "model": "glm-5.3"
+}

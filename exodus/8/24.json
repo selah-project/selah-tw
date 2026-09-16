@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "exodus 8:24", "book": "exodus", "lang": "tw", "chapter": 8, "translation": "Paroh kaa sɛ: Mɛma ⟨את⟩ mo kɔ, na mo bɔ afɔreyɛ ama Yawe mo Eloohim wɔ sare no mu; na nokwarem, monnyɛ kwan akyiri dodo; monkɔsrɛ me ho.", "tokens": [{"surface": "ויאמר", "gloss": "kaa"}, {"surface": "פרעה", "gloss": "Paroh"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "אשלח", "gloss": "mɛma mo kɔ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "וזבחתם", "gloss": "na mo bɛbɔ afɔreyɛ"}, {"surface": "ליהוה", "gloss": "ama Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "במדבר", "gloss": "wɔ sare no mu"}, {"surface": "רק", "gloss": "na nokwarem"}, {"surface": "הרחק", "gloss": "kyɛ kwan akyiri"}, {"surface": "לא", "gloss": "monnyɛ"}, {"surface": "תרחיקו", "gloss": "kwan akyiri dodo"}, {"surface": "ללכת", "gloss": "sɛ mo kɔ"}, {"surface": "העתירו", "gloss": "monkɔsrɛ"}, {"surface": "בעדי", "gloss": "me ho"}], "timestamp": "2026-09-15T20:47:16.604037437Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Paroh kaa sɛ: Mɛma ⟨את⟩ mo kɔ, na mo bɔ afɔreyɛ ama Yawe mo Eloohim wɔ sare no mu; na nokwarem, monnyɛ kwan akyiri dodo; monkɔsrɛ me ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mɛma mo kɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "na mo bɛbɔ afɔreyɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ama Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ sare no mu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "na nokwarem"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "kyɛ kwan akyiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "monnyɛ"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "kwan akyiri dodo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sɛ mo kɔ"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "monkɔsrɛ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "me ho"
+    }
+  ],
+  "timestamp": "2026-09-15T20:47:16.604037437Z",
+  "model": "glm-5.3"
+}

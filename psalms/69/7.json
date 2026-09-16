@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 69:7","book":"psalms","lang":"tw","chapter":69,"translation":"Wo nnyɛ wɔn a wɔtwɛn wo mma wɔnwɛ wɔ me ho, Adonai, Yawe Twafoɔ; wɔn a wɔhwehwɛ wo nnyɛ wɔn mma wɔannya aniwu wɔ me ho, Eloohim a wɔwɔ Israelfoɔ.","tokens":[{"surface":"אל","gloss":"nnyɛ… mma"},{"surface":"יבשו","gloss":"wɔnwɛ"},{"surface":"בי","gloss":"wɔ me ho"},{"surface":"קויך","gloss":"wɔn a wɔtwɛn wo"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"אל","gloss":"nnyɛ… mma"},{"surface":"יכלמו","gloss":"wɔannya aniwu"},{"surface":"בי","gloss":"wɔ me ho"},{"surface":"מבקשיך","gloss":"wɔn a wɔhwehwɛ wo"},{"surface":"אלהי","gloss":"Eloohim a wɔwɔ"},{"surface":"ישראל","gloss":"Israelfoɔ"}],"timestamp":"2026-09-16T02:02:50.987321585Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 69,
+  "translation": "Wo nnyɛ wɔn a wɔtwɛn wo mma wɔnwɛ wɔ me ho, Adonai, Yawe Twafoɔ; wɔn a wɔhwehwɛ wo nnyɛ wɔn mma wɔannya aniwu wɔ me ho, Eloohim a wɔwɔ Israelfoɔ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nnyɛ… mma"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wɔnwɛ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "wɔ me ho"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wɔn a wɔtwɛn wo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nnyɛ… mma"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "wɔannya aniwu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "wɔ me ho"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wɔn a wɔhwehwɛ wo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim a wɔwɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:02:50.987321585Z",
+  "model": "glm-5.3"
+}

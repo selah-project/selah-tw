@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":5,"ref":"psalms 11:5","book":"psalms","lang":"tw","chapter":11,"translation":"Yawe sɔ ɔtɛnefoɔ no hwɛ; na ɔyɛfoɔ ne obi a ɔdɔ basabasayɛ, ne kra sunsum bo no.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"צדיק","gloss":"ɔtɛnefoɔ"},{"surface":"יבחן","gloss":"sɔ ... hwɛ"},{"surface":"ורשע","gloss":"na ɔyɛfoɔ"},{"surface":"ואהב","gloss":"ne obi a ɔdɔ"},{"surface":"חמס","gloss":"basabasayɛ"},{"surface":"שנאה","gloss":"sunsum bo"},{"surface":"נפשו","gloss":"ne kra"}],"timestamp":"2026-09-16T01:37:48.260189741Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Yawe sɔ ɔtɛnefoɔ no hwɛ; na ɔyɛfoɔ ne obi a ɔdɔ basabasayɛ, ne kra sunsum bo no.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɔtɛnefoɔ"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "sɔ ... hwɛ"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "na ɔyɛfoɔ"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ne obi a ɔdɔ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "basabasayɛ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "sunsum bo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ne kra"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:48.260189741Z",
+  "model": "glm-5.3"
+}

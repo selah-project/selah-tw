@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "exodus 19:5", "book": "exodus", "lang": "tw", "chapter": 19, "translation": "Na seɛyi, sɛ mote me nne yie na mohwɛ ⟨את⟩ me apam a, mobɛyɛ meagyapadeɛ firi amanaman nyinaa mu, efirisɛ asase nyinaa yɛ me dea.", "tokens": [{"surface": "ועתה", "gloss": "Na seɛyi"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "שמוע", "gloss": "yie"}, {"surface": "תשמעו", "gloss": "mote me nne"}, {"surface": "בקלי", "gloss": "me nne"}, {"surface": "ושמרתם", "gloss": "mohwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me apam"}, {"surface": "בריתי", "gloss": "me apam"}, {"surface": "והייתם", "gloss": "mobɛyɛ"}, {"surface": "לי", "gloss": "me"}, {"surface": "סגלה", "gloss": "agyapadeɛ"}, {"surface": "מכל", "gloss": "firi ... nyinaa mu"}, {"surface": "העמים", "gloss": "amanaman"}, {"surface": "כי", "gloss": "efirisɛ"}, {"surface": "לי", "gloss": "me dea"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הארץ", "gloss": "asase"}], "timestamp": "2026-09-15T20:51:45.362078077Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na seɛyi, sɛ mote me nne yie na mohwɛ ⟨את⟩ me apam a, mobɛyɛ meagyapadeɛ firi amanaman nyinaa mu, efirisɛ asase nyinaa yɛ me dea.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seɛyi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "yie"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mote me nne"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "mohwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mobɛyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "agyapadeɛ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "firi ... nyinaa mu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efirisɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me dea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T20:51:45.362078077Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "1-kings 7:15", "book": "1-kings", "lang": "tw", "chapter": 7, "translation": "Na ɔyɛɛ ⟨את⟩ nnua ⟨את⟩ mmienu a ɛgyina so no nkɔnsɔn; nwɔtɔ ne du suku na sɛnea ɔdan baako tenten yɛ, na nwɔtɔ ne du suku ntɛmtɛm gyina ɔdan a ɛto so mmienu no ho.", "tokens": [{"surface": "ויצר", "gloss": "ɔyɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnua mmienu a ɛgyina so"}, {"surface": "שני", "gloss": "mmienu"}, {"surface": "העמודים", "gloss": "nnua a ɛgyina so"}, {"surface": "נחשת", "gloss": "nkɔnsɔn"}, {"surface": "שמנה", "gloss": "nwɔtɔ"}, {"surface": "עשרה", "gloss": "du"}, {"surface": "אמה", "gloss": "suku"}, {"surface": "קומת", "gloss": "tenten"}, {"surface": "העמוד", "gloss": "ɔdan"}, {"surface": "האחד", "gloss": "baako"}, {"surface": "וחוט", "gloss": "na akwantia"}, {"surface": "שתים", "gloss": "mmienu"}, {"surface": "עשרה", "gloss": "du"}, {"surface": "אמה", "gloss": "suku"}, {"surface": "יסב", "gloss": "gyina ho"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔdan a ɛto so mmienu"}, {"surface": "העמוד", "gloss": "ɔdan"}, {"surface": "השני", "gloss": "a ɛto so mmienu"}], "timestamp": "2026-09-15T23:16:23.040455575Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɔyɛɛ ⟨את⟩ nnua ⟨את⟩ mmienu a ɛgyina so no nkɔnsɔn; nwɔtɔ ne du suku na sɛnea ɔdan baako tenten yɛ, na nwɔtɔ ne du suku ntɛmtɛm gyina ɔdan a ɛto so mmienu no ho.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnua mmienu a ɛgyina so"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "nnua a ɛgyina so"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkɔnsɔn"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nwɔtɔ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "tenten"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ɔdan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "na akwantia"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "gyina ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔdan a ɛto so mmienu"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ɔdan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a ɛto so mmienu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:16:23.040455575Z",
+  "model": "glm-5.3"
+}

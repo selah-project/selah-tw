@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "isaiah 19:23", "book": "isaiah", "lang": "tw", "chapter": 19, "translation": "Saa da no mu, ɔkwan bɛkɔɔ so firi Misraim kɔ ⟨את⟩ Asur, na Asur bɛba Misraim mu, na Misraim bɛba Asur mu, na Misraim ne Asur bɛsom Yawe bom.", "tokens": [{"surface": "ביום", "gloss": "Saa da no mu"}, {"surface": "ההוא", "gloss": "saa"}, {"surface": "תהיה", "gloss": "bɛkɔɔ so"}, {"surface": "מסלה", "gloss": "kwan kɛseɛ"}, {"surface": "ממצרים", "gloss": "firi Misraim"}, {"surface": "אשורה", "gloss": "kɔ Asur"}, {"surface": "ובא", "gloss": "bɛba"}, {"surface": "אשור", "gloss": "Asur"}, {"surface": "במצרים", "gloss": "Misraim mu"}, {"surface": "ומצרים", "gloss": "Misraim nso"}, {"surface": "באשור", "gloss": "Asur mu"}, {"surface": "ועבדו", "gloss": "bɛsom"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Asur"}, {"surface": "אשור", "gloss": "Asur"}], "timestamp": "2026-09-15T23:46:36.438794209Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Saa da no mu, ɔkwan bɛkɔɔ so firi Misraim kɔ ⟨את⟩ Asur, na Asur bɛba Misraim mu, na Misraim bɛba Asur mu, na Misraim ne Asur bɛsom Yawe bom.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Saa da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛkɔɔ so"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "kwan kɛseɛ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "firi Misraim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "kɔ Asur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misraim mu"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Misraim nso"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "Asur mu"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "bɛsom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:36.438794209Z",
+  "model": "glm-5.3"
+}

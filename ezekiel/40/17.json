@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":17,"ref":"ezekiel 40:17","book":"ezekiel","lang":"tw","chapter":40,"translation":"Ɔde me baa abɔntene a ɛwɔ akyi no, na hwɛ, adan ahodoɔ ne nsase a wɔayɛ ma abɔntene no ho, bɔneho bɔneho — adan ahodoɔ aduasa wɔ nsase no so.","tokens":[{"surface":"ויביאני","gloss":"Ɔde me baa"},{"surface":"אל","gloss":"baa"},{"surface":"החצר","gloss":"abɔntene"},{"surface":"החיצונה","gloss":"a ɛwɔ akyi"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"לשכות","gloss":"adan ahodoɔ"},{"surface":"ורצפה","gloss":"ne nsase"},{"surface":"עשוי","gloss":"wɔayɛ"},{"surface":"לחצר","gloss":"ma abɔntene"},{"surface":"סביב","gloss":"bɔneho"},{"surface":"סביב","gloss":"bɔneho"},{"surface":"שלשים","gloss":"aduasa"},{"surface":"לשכות","gloss":"adan ahodoɔ"},{"surface":"אל","gloss":"wɔ"},{"surface":"הרצפה","gloss":"nsase no so"}],"timestamp":"2026-09-16T00:56:03.669538514Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 40:17",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Ɔde me baa abɔntene a ɛwɔ akyi no, na hwɛ, adan ahodoɔ ne nsase a wɔayɛ ma abɔntene no ho, bɔneho bɔneho — adan ahodoɔ aduasa wɔ nsase no so.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "Ɔde me baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "abɔntene"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "a ɛwɔ akyi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "adan ahodoɔ"
+    },
+    {
+      "surface": "ורצפה",
+      "gloss": "ne nsase"
+    },
+    {
+      "surface": "עשוי",
+      "gloss": "wɔayɛ"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ma abɔntene"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bɔneho"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bɔneho"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "aduasa"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "adan ahodoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "nsase no so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:56:03.669538514Z",
+  "model": "glm-5.3"
+}

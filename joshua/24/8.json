@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "joshua 24:8", "book": "joshua", "lang": "tw", "chapter": 24, "translation": "Mede ⟨את⟩ mo baa Hae⟨את⟩ mori asase so, wɔn a wɔte Yarden atifi; wɔne mo kooyɛ ⟨את⟩, na mede wɔn maa mo nsa, na mo dibaa wɔn asase so ⟨את⟩, na misiee wɔn firi mo anim.", "tokens": [{"surface": "ואבאה", "gloss": "mede mo baa"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "אל", "gloss": "so"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "האמרי", "gloss": "Haemori"}, {"surface": "היושב", "gloss": "wɔn a wɔte"}, {"surface": "בעבר", "gloss": "atifi"}, {"surface": "הירדן", "gloss": "Yarden"}, {"surface": "וילחמו", "gloss": "wɔkooyɛ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "ואתן", "gloss": "na mede maa"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "בידכם", "gloss": "mo nsa"}, {"surface": "ותירשו", "gloss": "mo dibaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn asase"}, {"surface": "ארצם", "gloss": "wɔn asase"}, {"surface": "ואשמידם", "gloss": "na misiee wɔn"}, {"surface": "מפניכם", "gloss": "firi mo anim"}], "timestamp": "2026-09-16T05:13:58.847449176Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Mede ⟨את⟩ mo baa Hae⟨את⟩ mori asase so, wɔn a wɔte Yarden atifi; wɔne mo kooyɛ ⟨את⟩, na mede wɔn maa mo nsa, na mo dibaa wɔn asase so ⟨את⟩, na misiee wɔn firi mo anim.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "mede mo baa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wɔn a wɔte"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wɔkooyɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "na mede maa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mo nsa"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "mo dibaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asase"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "na misiee wɔn"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "firi mo anim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:13:58.847449176Z",
+  "model": "glm-5.3"
+}

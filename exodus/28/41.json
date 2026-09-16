@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 41, "ref": "exodus 28:41", "book": "exodus", "lang": "tw", "chapter": 28, "translation": "Na wo bɛhyɛ ⟨את⟩ wɔn — ⟨את⟩ Aharon, wo nua, ne ⟨את⟩ ne mma a ɔne ⟨את⟩ wɔn — na wo bɛgu ⟨את⟩ wɔn ngo, na wo bɛma ⟨את⟩ wɔn nsa ayɛ ma, na wo bɛkɛseyɛ ⟨את⟩ wɔn, na wɔbɛyɛ asɔfoɔ ama me.", "tokens": [{"surface": "והלבשת", "gloss": "na wo bɛhyɛ wɔn"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn", "marks": "Aharon ne ne mma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "אחיך", "gloss": "wo nua"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mma"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "אתו", "gloss": "⟨את⟩ a ɔne wɔn"}, {"surface": "ומשחת", "gloss": "na wo bɛgu wɔn ngo"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn", "marks": "wɔn"}, {"surface": "ומלאת", "gloss": "na wo bɛma wɔn nsa ayɛ ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nsa"}, {"surface": "ידם", "gloss": "wɔn nsa"}, {"surface": "וקדשת", "gloss": "na wo bɛkɛseyɛ wɔn"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn", "marks": "wɔn"}, {"surface": "וכהנו", "gloss": "na wɔbɛyɛ asɔfoɔ"}, {"surface": "לי", "gloss": "ama me"}], "timestamp": "2026-09-15T22:26:46.682758561Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 28:41",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Na wo bɛhyɛ ⟨את⟩ wɔn — ⟨את⟩ Aharon, wo nua, ne ⟨את⟩ ne mma a ɔne ⟨את⟩ wɔn — na wo bɛgu ⟨את⟩ wɔn ngo, na wo bɛma ⟨את⟩ wɔn nsa ayɛ ma, na wo bɛkɛseyɛ ⟨את⟩ wɔn, na wɔbɛyɛ asɔfoɔ ama me.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "na wo bɛhyɛ wɔn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "Aharon ne ne mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a ɔne wɔn"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na wo bɛgu wɔn ngo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "na wo bɛma wɔn nsa ayɛ ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nsa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "wɔn nsa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na wo bɛkɛseyɛ wɔn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "na wɔbɛyɛ asɔfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    }
+  ],
+  "timestamp": "2026-09-15T22:26:46.682758561Z",
+  "model": "glm-5.3"
+}

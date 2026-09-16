@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "genesis 17:7", "book": "genesis", "lang": "tw", "chapter": 17, "translation": "Na mɛgyina ⟨את⟩ me apam si me ne wo, ne wo nkyirimma a wɔbɛba wo akyi, ntam wɔ wɔn mmusua mu mu, sɛ apam a ɛkɔ so daa, na mɛyɛ wo Eloohim, ne wo nkyirimma a wɔbɛba wo akyi no deɛ.", "tokens": [{"surface": "והקמתי", "gloss": "na mɛgyina … si"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me apam"}, {"surface": "בריתי", "gloss": "me apam"}, {"surface": "ביני", "gloss": "me ntam"}, {"surface": "ובינך", "gloss": "ne wo ntam"}, {"surface": "ובין", "gloss": "ne … ntam"}, {"surface": "זרעך", "gloss": "wo nkyirimma"}, {"surface": "אחריך", "gloss": "a wɔbɛba wo akyi"}, {"surface": "לדרתם", "gloss": "wɔn mmusua mu"}, {"surface": "לברית", "gloss": "sɛ apam"}, {"surface": "עולם", "gloss": "a ɛkɔ so daa"}, {"surface": "להיות", "gloss": "na mɛyɛ"}, {"surface": "לך", "gloss": "wo"}, {"surface": "לאלהים", "gloss": "Eloohim"}, {"surface": "ולזרעך", "gloss": "ne wo nkyirimma"}, {"surface": "אחריך", "gloss": "a wɔbɛba wo akyi"}], "timestamp": "2026-09-15T20:22:25.276602032Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 17:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na mɛgyina ⟨את⟩ me apam si me ne wo, ne wo nkyirimma a wɔbɛba wo akyi, ntam wɔ wɔn mmusua mu mu, sɛ apam a ɛkɔ so daa, na mɛyɛ wo Eloohim, ne wo nkyirimma a wɔbɛba wo akyi no deɛ.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "na mɛgyina … si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "me ntam"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ne wo ntam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne … ntam"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo nkyirimma"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a wɔbɛba wo akyi"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "wɔn mmusua mu"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "sɛ apam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛkɔ so daa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "na mɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ne wo nkyirimma"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a wɔbɛba wo akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:25.276602032Z",
+  "model": "glm-5.3"
+}

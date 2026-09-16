@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"isaiah 14:4","book":"isaiah","lang":"tw","chapter":14,"translation":"Wo bɛto asɛmmɔne yi dwom to Babilon ɔhene so, na wobɛka sɛ: Adeɛ bɛn na ɛte! Ɔgyafoɔ no agu adwuma, ɔtua foɔ no ahyɛ aseɛ!","tokens":[{"surface":"ונשאת","gloss":"wo bɛto dwom"},{"surface":"המשל","gloss":"asɛmmɔne"},{"surface":"הזה","gloss":"yi"},{"surface":"על","gloss":"to"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"בבל","gloss":"Babilon"},{"surface":"ואמרת","gloss":"na wobɛka sɛ"},{"surface":"איך","gloss":"adeɛ bɛn na ɛte"},{"surface":"שבת","gloss":"agu adwuma"},{"surface":"נגש","gloss":"ɔgyafoɔ no"},{"surface":"שבתה","gloss":"ahyɛ aseɛ"},{"surface":"מדהבה","gloss":"ɔtua foɔ no"}],"timestamp":"2026-09-15T23:46:00.914101065Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Wo bɛto asɛmmɔne yi dwom to Babilon ɔhene so, na wobɛka sɛ: Adeɛ bɛn na ɛte! Ɔgyafoɔ no agu adwuma, ɔtua foɔ no ahyɛ aseɛ!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "wo bɛto dwom"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "asɛmmɔne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na wobɛka sɛ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "adeɛ bɛn na ɛte"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "agu adwuma"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ɔgyafoɔ no"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ahyɛ aseɛ"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "ɔtua foɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:46:00.914101065Z",
+  "model": "glm-5.3"
+}

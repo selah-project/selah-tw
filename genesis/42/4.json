@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "genesis 42:4", "book": "genesis", "lang": "tw", "chapter": 42, "translation": "Nanso ⟨את⟩ Binjamin, Yosef nuabarima, Yakob annya no maa wɔn ⟨את⟩ ne nuanom no annkɔ; ɔkaa sɛ, sɛ ɔhaw bi mfa no ho a.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "Binjamin"}, {"surface": "בנימין", "gloss": "Binjamin"}, {"surface": "אחי", "gloss": "nuabarima"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "לא", "gloss": "anni"}, {"surface": "שלח", "gloss": "annya no maa wɔn"}, {"surface": "יעקב", "gloss": "Yakob"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nuanom no"}, {"surface": "אחיו", "gloss": "ne nuanom no"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "אמר", "gloss": "ɔkaa sɛ"}, {"surface": "פן", "gloss": "sɛ"}, {"surface": "יקראנו", "gloss": "mfa no ho"}, {"surface": "אסון", "gloss": "ɔhaw bi"}], "timestamp": "2026-09-15T20:38:23.782175675Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 42,
+  "translation": "Nanso ⟨את⟩ Binjamin, Yosef nuabarima, Yakob annya no maa wɔn ⟨את⟩ ne nuanom no annkɔ; ɔkaa sɛ, sɛ ɔhaw bi mfa no ho a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuabarima"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "annya no maa wɔn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nuanom no"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanom no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔkaa sɛ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "mfa no ho"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ɔhaw bi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:38:23.782175675Z",
+  "model": "glm-5.3"
+}

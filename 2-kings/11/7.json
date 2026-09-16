@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "2-kings 11:7", "book": "2-kings", "lang": "tw", "chapter": 11, "translation": "Na kuw mmienu mo mu — wɔn nyinaa a wɔfiri Sabat mu no — na wɔbɛhwɛ Yawe fie ⟨את⟩ so wɔ ɔhene no ho.", "tokens": [{"surface": "ושתי", "gloss": "na mmienu"}, {"surface": "הידות", "gloss": "kuw"}, {"surface": "בכם", "gloss": "mo mu"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "יצאי", "gloss": "wɔn a wɔfiri"}, {"surface": "השבת", "gloss": "Sabat"}, {"surface": "ושמרו", "gloss": "na wɔbɛhwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "so (mishmeret)"}, {"surface": "משמרת", "gloss": "so"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אל", "gloss": "ho"}, {"surface": "המלך", "gloss": "ɔhene"}], "timestamp": "2026-09-15T23:32:08.324458674Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na kuw mmienu mo mu — wɔn nyinaa a wɔfiri Sabat mu no — na wɔbɛhwɛ Yawe fie ⟨את⟩ so wɔ ɔhene no ho.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na mmienu"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "kuw"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "wɔn a wɔfiri"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "na wɔbɛhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so (mishmeret)"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    }
+  ],
+  "timestamp": "2026-09-15T23:32:08.324458674Z",
+  "model": "glm-5.3"
+}

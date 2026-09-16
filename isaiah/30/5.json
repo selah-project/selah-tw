@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":5,"ref":"isaiah 30:5","book":"isaiah","lang":"tw","chapter":30,"translation":"Wɔn nyinaa anim abere wɔ amanfoɔ a wɔntumi nyɛ mfasoɔ biara ama wɔn; ɛnyɛ mmoa, na ɛnyɛ mfasoɔ, na ɛyɛ animguaseɛ, na ɛsan yɛ ahohoraeɛ.","tokens":[{"surface":"כל","gloss":"wɔn nyinaa"},{"surface":"הבאיש","gloss":"anim abere"},{"surface":"על","gloss":"wɔ"},{"surface":"עם","gloss":"amanfoɔ"},{"surface":"לא","gloss":"ɛnyɛ"},{"surface":"יועילו","gloss":"mfasoɔ"},{"surface":"למו","gloss":"wɔn ho"},{"surface":"לא","gloss":"ɛnyɛ"},{"surface":"לעזר","gloss":"mmoa"},{"surface":"ולא","gloss":"na ɛnyɛ"},{"surface":"להועיל","gloss":"mfasoɔ"},{"surface":"כי","gloss":"na"},{"surface":"לבשת","gloss":"animguaseɛ"},{"surface":"וגם","gloss":"na bio"},{"surface":"לחרפה","gloss":"ahohoraeɛ"}],"timestamp":"2026-09-16T05:26:12.705901205Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Wɔn nyinaa anim abere wɔ amanfoɔ a wɔntumi nyɛ mfasoɔ biara ama wɔn; ɛnyɛ mmoa, na ɛnyɛ mfasoɔ, na ɛyɛ animguaseɛ, na ɛsan yɛ ahohoraeɛ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wɔn nyinaa"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "anim abere"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amanfoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "animguaseɛ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na bio"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "ahohoraeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:26:12.705901205Z",
+  "model": "glm-5.3"
+}

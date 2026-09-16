@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 49, "ref": "joshua 19:49", "book": "joshua", "lang": "tw", "chapter": 19, "translation": "Wɔwiee ⟨את⟩ asase no nkyekyɛmu sɛ adegya wɔ n'ahyɛdeɛ so, na Yisraelfoɔ mma maa Yehoshua, Nun ba, adegya wɔ wɔn mu;", "tokens": [{"surface": "ויכלו", "gloss": "wɔwiee"}, {"surface": "לנחל", "gloss": "sɛ adegya nkyekyɛmu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "לגבולתיה", "gloss": "wɔ n'ahyɛdeɛ so"}, {"surface": "ויתנו", "gloss": "na wɔmaa"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisraelfoɔ"}, {"surface": "נחלה", "gloss": "adegya"}, {"surface": "ליהושע", "gloss": "Yehoshua"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נון", "gloss": "Nun"}, {"surface": "בתוכם", "gloss": "wɔ wɔn mu"}], "timestamp": "2026-09-15T22:08:14.567727984Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 19:49",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Wɔwiee ⟨את⟩ asase no nkyekyɛmu sɛ adegya wɔ n'ahyɛdeɛ so, na Yisraelfoɔ mma maa Yehoshua, Nun ba, adegya wɔ wɔn mu;",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "wɔwiee"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "sɛ adegya nkyekyɛmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "wɔ n'ahyɛdeɛ so"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "na wɔmaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "adegya"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "wɔ wɔn mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:08:14.567727984Z",
+  "model": "glm-5.3"
+}

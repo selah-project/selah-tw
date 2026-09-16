@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "nehemiah 6:14", "book": "nehemiah", "lang": "tw", "chapter": 6, "translation": "Kae, Eloohim yi, Tobiya ne Sanbalat ho sɛnea wɔn nnwuma yi te; Noadia ɔprofetɛ-baa no ne profete a aka a na wɔsuro ⟨את⟩ me no nso ho.", "tokens": [{"surface": "זכרה", "gloss": "Kae"}, {"surface": "אלהי", "gloss": "Eloohim yi"}, {"surface": "לטוביה", "gloss": "Tobiya ho"}, {"surface": "ולסנבלט", "gloss": "ne Sanbalat ho"}, {"surface": "כמעשיו", "gloss": "sɛnea wɔn nnwuma"}, {"surface": "אלה", "gloss": "yi"}, {"surface": "וגם", "gloss": "nso"}, {"surface": "לנועדיה", "gloss": "Noadia ho"}, {"surface": "הנביאה", "gloss": "ɔprofetɛ-baa no"}, {"surface": "וליתר", "gloss": "ne a aka"}, {"surface": "הנביאים", "gloss": "profete no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "היו", "gloss": "na wɔyɛ"}, {"surface": "מיראים", "gloss": "wɔsuro"}, {"surface": "אותי", "gloss": "⟨את⟩ me", "marks": "me"}], "timestamp": "2026-09-16T04:27:49.447197936Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 6:14",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Kae, Eloohim yi, Tobiya ne Sanbalat ho sɛnea wɔn nnwuma yi te; Noadia ɔprofetɛ-baa no ne profete a aka a na wɔsuro ⟨את⟩ me no nso ho.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "Kae"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim yi"
+    },
+    {
+      "surface": "לטוביה",
+      "gloss": "Tobiya ho"
+    },
+    {
+      "surface": "ולסנבלט",
+      "gloss": "ne Sanbalat ho"
+    },
+    {
+      "surface": "כמעשיו",
+      "gloss": "sɛnea wɔn nnwuma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "לנועדיה",
+      "gloss": "Noadia ho"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "ɔprofetɛ-baa no"
+    },
+    {
+      "surface": "וליתר",
+      "gloss": "ne a aka"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profete no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "na wɔyɛ"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "wɔsuro"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    }
+  ],
+  "timestamp": "2026-09-16T04:27:49.447197936Z",
+  "model": "glm-5.3"
+}

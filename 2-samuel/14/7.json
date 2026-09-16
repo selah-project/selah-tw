@@ -1,1 +1,148 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "2-samuel 14:7", "book": "2-samuel", "lang": "tw", "chapter": 14, "translation": "Na hwɛ, abusua no nyinaa sɔre tia wo akumaa no, wɔkaa sɛ: Ma ⟨את⟩ ɔbɔfoɔ no, ne nua barima, na yɛnkum no ɛfiri ne nua nkwa a ɔkum no ho; na yɛnsɛe ⟨את⟩ onifuraeɛ no nso. Na wɔbɛsi ⟨את⟩ me nkyensenkyene a ɛaka no, na wɔamfa biribiara mma m’anima — din anaa nkaeɛ — wɔ asase ani.", "tokens": [{"surface": "והנה", "gloss": "na hwɛ"}, {"surface": "קמה", "gloss": "sɔre tia"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "המשפחה", "gloss": "abusua no"}, {"surface": "על", "gloss": "tia"}, {"surface": "שפחתך", "gloss": "wo akumaa no"}, {"surface": "ויאמרו", "gloss": "wɔkaa sɛ"}, {"surface": "תני", "gloss": "ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔbɔfoɔ no"}, {"surface": "מכה", "gloss": "ɔbɔfoɔ no"}, {"surface": "אחיו", "gloss": "ne nua barima"}, {"surface": "ונמתהו", "gloss": "na yɛnkum no"}, {"surface": "בנפש", "gloss": "nkwa"}, {"surface": "אחיו", "gloss": "ne nua"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הרג", "gloss": "ɔkum"}, {"surface": "ונשמידה", "gloss": "yɛnsɛe"}, {"surface": "גם", "gloss": "nso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "onifuraeɛ no"}, {"surface": "היורש", "gloss": "onifuraeɛ no"}, {"surface": "וכבו", "gloss": "na wɔbɛsi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nkyensenkyene"}, {"surface": "גחלתי", "gloss": "me nkyensenkyene"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נשארה", "gloss": "ɛaka"}, {"surface": "לבלתי", "gloss": "na wɔamma"}, {"surface": "שום", "gloss": "biribiara"}, {"surface": "לאישי", "gloss": "m’anima"}, {"surface": "שם", "gloss": "din"}, {"surface": "ושארית", "gloss": "anaa nkaeɛ"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "פני", "gloss": "ani"}, {"surface": "האדמה", "gloss": "asase"}], "timestamp": "2026-09-15T23:05:36.638959797Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 14:7",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na hwɛ, abusua no nyinaa sɔre tia wo akumaa no, wɔkaa sɛ: Ma ⟨את⟩ ɔbɔfoɔ no, ne nua barima, na yɛnkum no ɛfiri ne nua nkwa a ɔkum no ho; na yɛnsɛe ⟨את⟩ onifuraeɛ no nso. Na wɔbɛsi ⟨את⟩ me nkyensenkyene a ɛaka no, na wɔamfa biribiara mma m’anima — din anaa nkaeɛ — wɔ asase ani.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "sɔre tia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "abusua no"
+    },
+    {
+      "surface": "על",
+      "gloss": "tia"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "wo akumaa no"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔkaa sɛ"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔbɔfoɔ no"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ɔbɔfoɔ no"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua barima"
+    },
+    {
+      "surface": "ונמתהו",
+      "gloss": "na yɛnkum no"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ɔkum"
+    },
+    {
+      "surface": "ונשמידה",
+      "gloss": "yɛnsɛe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onifuraeɛ no"
+    },
+    {
+      "surface": "היורש",
+      "gloss": "onifuraeɛ no"
+    },
+    {
+      "surface": "וכבו",
+      "gloss": "na wɔbɛsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkyensenkyene"
+    },
+    {
+      "surface": "גחלתי",
+      "gloss": "me nkyensenkyene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "ɛaka"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na wɔamma"
+    },
+    {
+      "surface": "שום",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "לאישי",
+      "gloss": "m’anima"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ושארית",
+      "gloss": "anaa nkaeɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T23:05:36.638959797Z",
+  "model": "glm-5.3"
+}

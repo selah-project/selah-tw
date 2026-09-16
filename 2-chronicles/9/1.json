@@ -1,1 +1,148 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "2-chronicles 9:1", "book": "2-chronicles", "lang": "tw", "chapter": 9, "translation": "Saa ɔhemmaa a ɔwɔ Sheba no tee asɛm a wɔka fa ⟨את⟩ Shelomoh ho, na ɔbaa Yerusalem sɛ ɔnsɔ ⟨את⟩ Shelomoh ahwɛ nsɛmmisa den mu, ne karavan kɛseɛ paa, ne yɛmpɔma a ɛsoa nnuhuam, ne sika kɔkɔɔ bebuu, ne aboɔ a wɔbo ho; na ɔbaa Shelomoh nkyɛn, na ɔne no kasa faa deɛ ɛwɔ ne akoma mu nyinaa — ⟨את⟩ ntease a ɔtee no.", "tokens": [{"surface": "ומלכת", "gloss": "na ɔhemmaa"}, {"surface": "שבא", "gloss": "Sheba"}, {"surface": "שמעה", "gloss": "tee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm a wɔka"}, {"surface": "שמע", "gloss": "ntease"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "ותבוא", "gloss": "na ɔbaa"}, {"surface": "לנסות", "gloss": "sɛ ɔnsɔ ahwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Shelomoh"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "בחידות", "gloss": "nsɛmmisa den mu"}, {"surface": "בירושלם", "gloss": "Yerusalem"}, {"surface": "בחיל", "gloss": "karavan mu"}, {"surface": "כבד", "gloss": "kɛseɛ"}, {"surface": "מאד", "gloss": "paa"}, {"surface": "וגמלים", "gloss": "ne yɛmpɔma"}, {"surface": "נשאים", "gloss": "a ɛsoa"}, {"surface": "בשמים", "gloss": "nnuhuam"}, {"surface": "וזהב", "gloss": "ne sika kɔkɔɔ"}, {"surface": "לרב", "gloss": "bebuu"}, {"surface": "ואבן", "gloss": "ne aboɔ"}, {"surface": "יקרה", "gloss": "a wɔbo ho"}, {"surface": "ותבוא", "gloss": "na ɔbaa"}, {"surface": "אל", "gloss": "nkyɛn"}, {"surface": "שלמה", "gloss": "Shelomoh"}, {"surface": "ותדבר", "gloss": "na ɔkaa"}, {"surface": "עמו", "gloss": "ne no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ ɛwɔ ne akoma mu nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "היה", "gloss": "ɛwɔ"}, {"surface": "עם", "gloss": "mu"}, {"surface": "לבבה", "gloss": "ne akoma"}], "timestamp": "2026-09-16T04:57:00.430384209Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 9:1",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Saa ɔhemmaa a ɔwɔ Sheba no tee asɛm a wɔka fa ⟨את⟩ Shelomoh ho, na ɔbaa Yerusalem sɛ ɔnsɔ ⟨את⟩ Shelomoh ahwɛ nsɛmmisa den mu, ne karavan kɛseɛ paa, ne yɛmpɔma a ɛsoa nnuhuam, ne sika kɔkɔɔ bebuu, ne aboɔ a wɔbo ho; na ɔbaa Shelomoh nkyɛn, na ɔne no kasa faa deɛ ɛwɔ ne akoma mu nyinaa — ⟨את⟩ ntease a ɔtee no.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "na ɔhemmaa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm a wɔka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ntease"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "na ɔbaa"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "sɛ ɔnsɔ ahwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "nsɛmmisa den mu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "karavan mu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paa"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ne yɛmpɔma"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "a ɛsoa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nnuhuam"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ne sika kɔkɔɔ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bebuu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ne aboɔ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "a wɔbo ho"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "na ɔbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nkyɛn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛwɔ ne akoma mu nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ɛwɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לבבה",
+      "gloss": "ne akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T04:57:00.430384209Z",
+  "model": "glm-5.3"
+}

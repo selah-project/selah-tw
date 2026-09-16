@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "1-kings 16:33", "book": "1-kings", "lang": "tw", "chapter": 16, "translation": "Ahab yɛɛ ⟨את⟩ Ashera no; na Ahab kɔɔ so yɛɛ deɛ ɛkyɛɛ ⟨את⟩ Yawe, Israel Eloohim, kyɛ sen Israel ahemfo a wɔdii n'anim no nyinaa.", "tokens": [{"surface": "ויעש", "gloss": "yɛɛ"}, {"surface": "אחאב", "gloss": "Ahab"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Ashera no"}, {"surface": "האשרה", "gloss": "Ashera no"}, {"surface": "ויוסף", "gloss": "kɔɔ so"}, {"surface": "אחאב", "gloss": "Ahab"}, {"surface": "לעשות", "gloss": "yɛɛ"}, {"surface": "להכעיס", "gloss": "deɛ ɛkyɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "מכל", "gloss": "sen ... no nyinaa"}, {"surface": "מלכי", "gloss": "ahemfo"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "אשר", "gloss": "a"}, {"surface": "היו", "gloss": "wɔdii"}, {"surface": "לפניו", "gloss": "n'anim"}], "timestamp": "2026-09-15T23:21:57.465688784Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 16:33",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Ahab yɛɛ ⟨את⟩ Ashera no; na Ahab kɔɔ so yɛɛ deɛ ɛkyɛɛ ⟨את⟩ Yawe, Israel Eloohim, kyɛ sen Israel ahemfo a wɔdii n'anim no nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera no"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera no"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "kɔɔ so"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "deɛ ɛkyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sen ... no nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔdii"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'anim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:21:57.465688784Z",
+  "model": "glm-5.3"
+}

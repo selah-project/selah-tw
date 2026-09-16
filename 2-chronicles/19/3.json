@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":3,"ref":"2-chronicles 19:3","book":"2-chronicles","lang":"tw","chapter":19,"translation":"Nanso nneɛma pa wɔ wo mu, ɛfiri sɛ wotutuu Ashera adua no firi asase no so, na woayɛ wo akoma ho nhyehyɛe sɛ wobɛhwehwɛ Eloohim.","tokens":[{"surface":"אבל","gloss":"Nanso"},{"surface":"דברים","gloss":"nneɛma"},{"surface":"טובים","gloss":"pa"},{"surface":"נמצאו","gloss":"wɔ wo mu"},{"surface":"עמך","gloss":"wo mu"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בערת","gloss":"wotutuu"},{"surface":"האשרות","gloss":"Ashera adua no"},{"surface":"מן","gloss":"firi"},{"surface":"הארץ","gloss":"asase no so"},{"surface":"והכינות","gloss":"woayɛ ... nhyehyɛe"},{"surface":"לבבך","gloss":"wo akoma"},{"surface":"לדרש","gloss":"sɛ wobɛhwehwɛ"},{"surface":"האלהים","gloss":"Eloohim"}],"timestamp":"2026-09-16T05:00:47.124155904Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 19:3",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Nanso nneɛma pa wɔ wo mu, ɛfiri sɛ wotutuu Ashera adua no firi asase no so, na woayɛ wo akoma ho nhyehyɛe sɛ wobɛhwehwɛ Eloohim.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Nanso"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "nneɛma"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "wɔ wo mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בערת",
+      "gloss": "wotutuu"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "Ashera adua no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "והכינות",
+      "gloss": "woayɛ ... nhyehyɛe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "sɛ wobɛhwehwɛ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-16T05:00:47.124155904Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "deuteronomy 8:14", "book": "deuteronomy", "lang": "tw", "chapter": 8, "translation": "na wo akoma so, na wo werɛ afiri ⟨את⟩ Yawe, wo Eloohim, deɛ ɔbɛfiri wo wɔ Misraim asase so, wɔ nkoa fie,", "tokens": [{"surface": "ורם", "gloss": "na wo akoma so"}, {"surface": "לבבך", "gloss": "wo akoma"}, {"surface": "ושכחת", "gloss": "na wo werɛ afiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיך", "gloss": "wo Eloohim"}, {"surface": "המוציאך", "gloss": "deɛ ɔbɛfiri wo"}, {"surface": "מארץ", "gloss": "wɔ ... asase so"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "מבית", "gloss": "wɔ ... fie"}, {"surface": "עבדים", "gloss": "nkoa"}], "timestamp": "2026-09-15T21:48:18.505291408Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "na wo akoma so, na wo werɛ afiri ⟨את⟩ Yawe, wo Eloohim, deɛ ɔbɛfiri wo wɔ Misraim asase so, wɔ nkoa fie,",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "na wo akoma so"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wo akoma"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "na wo werɛ afiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "deɛ ɔbɛfiri wo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "wɔ ... asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wɔ ... fie"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nkoa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:18.505291408Z",
+  "model": "glm-5.3"
+}

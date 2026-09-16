@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "2-chronicles 21:7", "book": "2-chronicles", "lang": "tw", "chapter": 21, "translation": "Nanso Yawe ampɛ sɛ ɔsɛe Dawid ⟨את⟩ fie no, ɛfiri apam a ɔhyɛɛ Dawid nso ho, ne sɛnea ɔkae sɛ ɔbɛma no kanea ne ne mma nyinaa daa.", "tokens": [{"surface": "ולא", "gloss": "Nanso ... ampɛ"}, {"surface": "אבה", "gloss": "ampɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "להשחית", "gloss": "sɛ ɔsɛe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dawid fie no"}, {"surface": "בית", "gloss": "fie"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "למען", "gloss": "ɛfiri"}, {"surface": "הברית", "gloss": "apam"}, {"surface": "אשר", "gloss": "a"}, {"surface": "כרת", "gloss": "ɔhyɛɛ"}, {"surface": "לדויד", "gloss": "Dawid nso ho"}, {"surface": "וכאשר", "gloss": "ne sɛnea"}, {"surface": "אמר", "gloss": "ɔkae"}, {"surface": "לתת", "gloss": "ɔbɛma"}, {"surface": "לו", "gloss": "no"}, {"surface": "ניר", "gloss": "kanea"}, {"surface": "ולבניו", "gloss": "ne ne mma"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הימים", "gloss": "daa"}], "timestamp": "2026-09-16T05:02:45.606218693Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Nanso Yawe ampɛ sɛ ɔsɛe Dawid ⟨את⟩ fie no, ɛfiri apam a ɔhyɛɛ Dawid nso ho, ne sɛnea ɔkae sɛ ɔbɛma no kanea ne ne mma nyinaa daa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nanso ... ampɛ"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ampɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "sɛ ɔsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid fie no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ɛfiri"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ɔhyɛɛ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawid nso ho"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ne sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔkae"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ɔbɛma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "kanea"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daa"
+    }
+  ],
+  "timestamp": "2026-09-16T05:02:45.606218693Z",
+  "model": "glm-5.3"
+}

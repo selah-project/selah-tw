@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 30:7","book":"isaiah","lang":"tw","chapter":30,"translation":"Misraim yɛ ahuhuuhuu ne hunu; wɔboa ammɔha. Enti mefrɛɛ saa asɛm yi: Rahab — wɔyɛ tenatenabea.","tokens":[{"surface":"ומצרים","gloss":"Misraim"},{"surface":"הבל","gloss":"ahuhuuhuu"},{"surface":"וריק","gloss":"hunu"},{"surface":"יעזרו","gloss":"wɔboa"},{"surface":"לכן","gloss":"enti"},{"surface":"קראתי","gloss":"mefrɛɛ"},{"surface":"לזאת","gloss":"saa asɛm yi"},{"surface":"רהב","gloss":"Rahab"},{"surface":"הם","gloss":"wɔyɛ"},{"surface":"שבת","gloss":"tenatenabea"}],"timestamp":"2026-09-16T05:24:57.266302226Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Misraim yɛ ahuhuuhuu ne hunu; wɔboa ammɔha. Enti mefrɛɛ saa asɛm yi: Rahab — wɔyɛ tenatenabea.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ahuhuuhuu"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "wɔboa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mefrɛɛ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "saa asɛm yi"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tenatenabea"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:57.266302226Z",
+  "model": "glm-5.3"
+}

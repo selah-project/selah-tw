@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "isaiah 11:11", "book": "isaiah", "lang": "tw", "chapter": 11, "translation": "Na ɛbɛba sɛ da no mu no, Adonai bɛto ne nsa mu bio ɔkwan a ɛtɔ so mmienu, sɛ ɔbɛgya ne nkurɔfoɔ a wɔaka wɔn ho no — ⟨את⟩ wɔn a wɔaka wɔn ho wɔ Ashur ne Misraim ne Patros ne Kush ne Elam ne Shinar ne Hamat ne ɛpo no nsupɔw so.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛba sɛ"}, {"surface": "ביום", "gloss": "da no mu"}, {"surface": "ההוא", "gloss": "no"}, {"surface": "יוסיף", "gloss": "bɛka ho bio"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "שנית", "gloss": "ɔkwan a ɛtɔ so mmienu"}, {"surface": "ידו", "gloss": "ne nsa"}, {"surface": "לקנות", "gloss": "sɛ ɔbɛgya"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn a wɔaka wɔn ho"}, {"surface": "שאר", "gloss": "wɔn a wɔaka wɔn ho"}, {"surface": "עמו", "gloss": "ne nkurɔfoɔ"}, {"surface": "אשר", "gloss": "wɔn a"}, {"surface": "ישאר", "gloss": "wɔaka wɔn ho"}, {"surface": "מאשור", "gloss": "wɔ Ashur"}, {"surface": "וממצרים", "gloss": "ne Misraim"}, {"surface": "ומפתרוס", "gloss": "ne Patros"}, {"surface": "ומכוש", "gloss": "ne Kush"}, {"surface": "ומעילם", "gloss": "ne Elam"}, {"surface": "ומשנער", "gloss": "ne Shinar"}, {"surface": "ומחמת", "gloss": "ne Hamat"}, {"surface": "ומאיי", "gloss": "ne ɛpo no nsupɔw"}, {"surface": "הים", "gloss": "so"}], "timestamp": "2026-09-15T23:42:43.041256714Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 11:11",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɛbɛba sɛ da no mu no, Adonai bɛto ne nsa mu bio ɔkwan a ɛtɔ so mmienu, sɛ ɔbɛgya ne nkurɔfoɔ a wɔaka wɔn ho no — ⟨את⟩ wɔn a wɔaka wɔn ho wɔ Ashur ne Misraim ne Patros ne Kush ne Elam ne Shinar ne Hamat ne ɛpo no nsupɔw so.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba sɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bɛka ho bio"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ɔkwan a ɛtɔ so mmienu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "sɛ ɔbɛgya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔaka wɔn ho"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "wɔn a wɔaka wɔn ho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nkurɔfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wɔn a"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "wɔaka wɔn ho"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "wɔ Ashur"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ne Misraim"
+    },
+    {
+      "surface": "ומפתרוס",
+      "gloss": "ne Patros"
+    },
+    {
+      "surface": "ומכוש",
+      "gloss": "ne Kush"
+    },
+    {
+      "surface": "ומעילם",
+      "gloss": "ne Elam"
+    },
+    {
+      "surface": "ומשנער",
+      "gloss": "ne Shinar"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "ne Hamat"
+    },
+    {
+      "surface": "ומאיי",
+      "gloss": "ne ɛpo no nsupɔw"
+    },
+    {
+      "surface": "הים",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:43.041256714Z",
+  "model": "glm-5.3"
+}

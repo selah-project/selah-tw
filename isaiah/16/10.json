@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 16:10","book":"isaiah","lang":"tw","chapter":16,"translation":"Na anigyeɛ ne mmoadow bɛfiri nnɔbaeɛ asase no so agyae; wɔ bɔdadɔmu obenni nnwomto, obenni nnyegyeeɛ bɔ; nsã no, wɔ nsãbɔdan mu atwetwafoɔ nnsesa; adagyaw asɔeɛ no magyae no.","tokens":[{"surface":"ונאסף","gloss":"bɛfiri ... agyae"},{"surface":"שמחה","gloss":"anigyeɛ"},{"surface":"וגיל","gloss":"ne mmoadow"},{"surface":"מן","gloss":"firi"},{"surface":"הכרמל","gloss":"nnɔbaeɛ asase"},{"surface":"ובכרמים","gloss":"wɔ bɔdadɔmu"},{"surface":"לא","gloss":"obenni"},{"surface":"ירנן","gloss":"nnwomto"},{"surface":"לא","gloss":"obenni"},{"surface":"ירעע","gloss":"nnyegyeeɛ bɔ"},{"surface":"יין","gloss":"nsã"},{"surface":"ביקבים","gloss":"wɔ nsãbɔdan mu"},{"surface":"לא","gloss":"obenni"},{"surface":"ידרך","gloss":"nsesa"},{"surface":"הדרך","gloss":"atwetwafoɔ"},{"surface":"הידד","gloss":"adagyaw asɔeɛ"},{"surface":"השבתי","gloss":"magyae no"}],"timestamp":"2026-09-15T23:45:12.319686012Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na anigyeɛ ne mmoadow bɛfiri nnɔbaeɛ asase no so agyae; wɔ bɔdadɔmu obenni nnwomto, obenni nnyegyeeɛ bɔ; nsã no, wɔ nsãbɔdan mu atwetwafoɔ nnsesa; adagyaw asɔeɛ no magyae no.",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "bɛfiri ... agyae"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "anigyeɛ"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ne mmoadow"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "nnɔbaeɛ asase"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "wɔ bɔdadɔmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "obenni"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "nnwomto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "obenni"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "nnyegyeeɛ bɔ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "nsã"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "wɔ nsãbɔdan mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "obenni"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "nsesa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "atwetwafoɔ"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "adagyaw asɔeɛ"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "magyae no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:45:12.319686012Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "leviticus 19:17", "book": "leviticus", "lang": "tw", "chapter": 19, "translation": "Nnsani ⟨את⟩ wo nua w' akoma mu; twɛ ⟨את⟩ wo yɔnɔ asɛm, na mmu bɔne wɔ ne so.", "tokens": [{"surface": "לא", "gloss": "nn-"}, {"surface": "תשנא", "gloss": "sani"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nua"}, {"surface": "אחיך", "gloss": "wo nua"}, {"surface": "בלבבך", "gloss": "w' akoma mu"}, {"surface": "הוכח", "gloss": "twɛ"}, {"surface": "תוכיח", "gloss": "asɛm (twɛ)"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo yɔnɔ"}, {"surface": "עמיתך", "gloss": "wo yɔnɔ"}, {"surface": "ולא", "gloss": "na mm-"}, {"surface": "תשא", "gloss": "mu"}, {"surface": "עליו", "gloss": "wɔ ne so"}, {"surface": "חטא", "gloss": "bɔne"}], "timestamp": "2026-09-15T21:19:59.370046540Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Nnsani ⟨את⟩ wo nua w' akoma mu; twɛ ⟨את⟩ wo yɔnɔ asɛm, na mmu bɔne wɔ ne so.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "sani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nua"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "w' akoma mu"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "twɛ"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "asɛm (twɛ)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo yɔnɔ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "wo yɔnɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mm-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wɔ ne so"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:59.370046540Z",
+  "model": "glm-5.3"
+}

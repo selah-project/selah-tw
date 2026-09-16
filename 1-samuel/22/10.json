@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 22:10","book":"1-samuel","lang":"tw","chapter":22,"translation":"ɔbisaa Yawe ho ma no, na ɔmaa no aduane, na ɔmaa no ⟨את⟩ Goliyat, Plisitini no, sekan.","tokens":[{"surface":"וישאל","gloss":"ɔbisaa"},{"surface":"לו","gloss":"ma no"},{"surface":"ביהוה","gloss":"Yawe ho"},{"surface":"וצידה","gloss":"na aduane"},{"surface":"נתן","gloss":"ɔmaa"},{"surface":"לו","gloss":"no"},{"surface":"ואת","gloss":"na ⟨את⟩","marks":"sekan"},{"surface":"חרב","gloss":"sekan"},{"surface":"גלית","gloss":"Goliyat"},{"surface":"הפלשתי","gloss":"Plisitini no"},{"surface":"נתן","gloss":"ɔmaa"},{"surface":"לו","gloss":"no"}],"timestamp":"2026-09-15T22:56:10.119061211Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "ɔbisaa Yawe ho ma no, na ɔmaa no aduane, na ɔmaa no ⟨את⟩ Goliyat, Plisitini no, sekan.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ɔbisaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe ho"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "na aduane"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔmaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sekan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sekan"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Plisitini no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔmaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:10.119061211Z",
+  "model": "glm-5.3"
+}

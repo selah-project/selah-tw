@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":23,"ref":"malachi 3:23","book":"malachi","lang":"tw","chapter":3,"translation":"Monhwɛ — me, mesoma ⟨את⟩ Eliya odiyifoɔ no brɛ mo nkyɛn, ansa na Yawe da kɛseɛ ne ɔsuro no bɛba.","tokens":[{"surface":"הנה","gloss":"Monhwɛ"},{"surface":"אנכי","gloss":"me"},{"surface":"שלח","gloss":"mesoma"},{"surface":"לכם","gloss":"brɛ mo nkyɛn"},{"surface":"את","gloss":"⟨את⟩","marks":"Eliya odiyifoɔ no"},{"surface":"אליה","gloss":"Eliya"},{"surface":"הנביא","gloss":"⟨the⟩ odiyifoɔ no"},{"surface":"לפני","gloss":"ansa na"},{"surface":"בוא","gloss":"bɛba"},{"surface":"יום","gloss":"da"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"הגדול","gloss":"kɛseɛ"},{"surface":"והנורא","gloss":"ne ɔsuro no"}],"timestamp":"2026-09-16T05:38:30.125625965Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Monhwɛ — me, mesoma ⟨את⟩ Eliya odiyifoɔ no brɛ mo nkyɛn, ansa na Yawe da kɛseɛ ne ɔsuro no bɛba.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Monhwɛ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mesoma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "brɛ mo nkyɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliya odiyifoɔ no"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨the⟩ odiyifoɔ no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "ne ɔsuro no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:38:30.125625965Z",
+  "model": "glm-5.3"
+}

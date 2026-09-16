@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-samuel 6:21","book":"2-samuel","lang":"tw","chapter":6,"translation":"Dawid kaa kyerɛɛ Mikal sɛ: ɛyɛ Yawe anim — ɔno na ɔpaw me kyɛn wo agya ne ne fie nyinaa, de ɔpaw me sɛ menyɛ ⟨את⟩ akannifoɔ wɔ Yawe amanmufoɔ so, Yisraɛl so; na mɛbɔ agorɔ Yawe anim.","tokens":[{"surface":"ויאמר","gloss":"kaa"},{"surface":"דוד","gloss":"Dawid"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"מיכל","gloss":"Mikal"},{"surface":"לפני","gloss":"anim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אשר","gloss":"ɔno na"},{"surface":"בחר","gloss":"ɔpaw"},{"surface":"בי","gloss":"me"},{"surface":"מאביך","gloss":"kyɛn wo agya"},{"surface":"ומכל","gloss":"ne ne fie nyinaa"},{"surface":"ביתו","gloss":"fie"},{"surface":"לצות","gloss":"de ɔhyɛ me sɛ"},{"surface":"אתי","gloss":"⟨את⟩","marks":"akannifoɔ"},{"surface":"נגיד","gloss":"akannifoɔ"},{"surface":"על","gloss":"wɔ … so"},{"surface":"עם","gloss":"amanmufoɔ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"על","gloss":"so"},{"surface":"ישראל","gloss":"Yisraɛl"},{"surface":"ושחקתי","gloss":"na mɛbɔ agorɔ"},{"surface":"לפני","gloss":"anim"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-15T23:01:24.429367588Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 6:21",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Dawid kaa kyerɛɛ Mikal sɛ: ɛyɛ Yawe anim — ɔno na ɔpaw me kyɛn wo agya ne ne fie nyinaa, de ɔpaw me sɛ menyɛ ⟨את⟩ akannifoɔ wɔ Yawe amanmufoɔ so, Yisraɛl so; na mɛbɔ agorɔ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɔno na"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ɔpaw"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "kyɛn wo agya"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ne ne fie nyinaa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "fie"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "de ɔhyɛ me sɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "akannifoɔ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amanmufoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ושחקתי",
+      "gloss": "na mɛbɔ agorɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:01:24.429367588Z",
+  "model": "glm-5.3"
+}

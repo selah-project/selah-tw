@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":40,"ref":"2-kings 4:40","book":"2-kings","lang":"tw","chapter":4,"translation":"Wɔguu so maa ammarima no dii; sɛ wɔredii nsuam no a, wɔtee teɛ, wɔkaa se, “Kumwuo ɛwɔ kuruwa no mu, Eloohim akwankyerɛfoɔ!” Namtumi anyɛ adidi.","tokens":[{"surface":"ויצקו","gloss":"Wɔguu so"},{"surface":"לאנשים","gloss":"maa ammarima no"},{"surface":"לאכול","gloss":"dii"},{"surface":"ויהי","gloss":"sɛ"},{"surface":"כאכלם","gloss":"wɔredii"},{"surface":"מהנזיד","gloss":"nsuam no"},{"surface":"והמה","gloss":"wɔ"},{"surface":"צעקו","gloss":"tee teɛ"},{"surface":"ויאמרו","gloss":"wɔkaa se"},{"surface":"מות","gloss":"Kumwuo"},{"surface":"בסיר","gloss":"ɛwɔ kuruwa no mu"},{"surface":"איש","gloss":"akwankyerɛfoɔ"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"ולא","gloss":"Nan"},{"surface":"יכלו","gloss":"tumi"},{"surface":"לאכל","gloss":"anyɛ adidi"}],"timestamp":"2026-09-15T23:27:18.522601599Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 4:40",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Wɔguu so maa ammarima no dii; sɛ wɔredii nsuam no a, wɔtee teɛ, wɔkaa se, “Kumwuo ɛwɔ kuruwa no mu, Eloohim akwankyerɛfoɔ!” Namtumi anyɛ adidi.",
+  "tokens": [
+    {
+      "surface": "ויצקו",
+      "gloss": "Wɔguu so"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "maa ammarima no"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "dii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כאכלם",
+      "gloss": "wɔredii"
+    },
+    {
+      "surface": "מהנזיד",
+      "gloss": "nsuam no"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "tee teɛ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wɔkaa se"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Kumwuo"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "ɛwɔ kuruwa no mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "akwankyerɛfoɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Nan"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tumi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "anyɛ adidi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:18.522601599Z",
+  "model": "glm-5.3"
+}

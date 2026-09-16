@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":6,"ref":"exodus 17:6","book":"exodus","lang":"tw","chapter":17,"translation":"Monni, me bɛgyina hɔ wo anim, ɔbo no so, wɔ Horeb; na wobɛbɔ ɔbo no, na nsuo bɛfiri mu, na nnipa no bɛnom. Na Mose yɛɛ saa wɔ Yisrael mpanimfoɔ anim.","tokens":[{"surface":"הנני","gloss":"Monni"},{"surface":"עמד","gloss":"me bɛgyina"},{"surface":"לפניך","gloss":"wo anim"},{"surface":"שם","gloss":"hɔ"},{"surface":"על","gloss":"so"},{"surface":"הצור","gloss":"ɔbo no"},{"surface":"בחרב","gloss":"wɔ Horeb"},{"surface":"והכית","gloss":"na wobɛbɔ"},{"surface":"בצור","gloss":"ɔbo no"},{"surface":"ויצאו","gloss":"bɛfiri"},{"surface":"ממנו","gloss":"mu"},{"surface":"מים","gloss":"nsuo"},{"surface":"ושתה","gloss":"bɛnom"},{"surface":"העם","gloss":"nnipa no"},{"surface":"ויעש","gloss":"yɛɛ"},{"surface":"כן","gloss":"saa"},{"surface":"משה","gloss":"Mose"},{"surface":"לעיני","gloss":"wɔ ... anim","marks":"mpanimfoɔ anim"},{"surface":"זקני","gloss":"mpanimfoɔ"},{"surface":"ישראל","gloss":"Yisrael"}],"timestamp":"2026-09-15T20:52:34.427816352Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 17:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Monni, me bɛgyina hɔ wo anim, ɔbo no so, wɔ Horeb; na wobɛbɔ ɔbo no, na nsuo bɛfiri mu, na nnipa no bɛnom. Na Mose yɛɛ saa wɔ Yisrael mpanimfoɔ anim.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Monni"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "me bɛgyina"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ɔbo no"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wɔ Horeb"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "na wobɛbɔ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ɔbo no"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "bɛfiri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "bɛnom"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "wɔ ... anim",
+      "marks": "mpanimfoɔ anim"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:34.427816352Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "deuteronomy 27:26", "book": "deuteronomy", "lang": "tw", "chapter": 27, "translation": "Ntokwa wɔ ne ho sɛ obi nnya sii ⟨את⟩ Tora no ⟨את⟩ asɛm yi so na ɔnyɛɛ — na nnipa no nyinaa bɛka sɛ: Amen.", "tokens": [{"surface": "ארור", "gloss": "Ntokwa wɔ ne ho"}, {"surface": "אשר", "gloss": "sɛ"}, {"surface": "לא", "gloss": "nn"}, {"surface": "יקים", "gloss": "sii ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Tora no asɛm yi"}, {"surface": "דברי", "gloss": "asɛm"}, {"surface": "התורה", "gloss": "Tora no"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "לעשות", "gloss": "na ɔnyɛɛ"}, {"surface": "אותם", "gloss": "⟨את⟩"}, {"surface": "ואמר", "gloss": "na ... bɛka"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "אמן", "gloss": "Amen"}], "timestamp": "2026-09-15T21:56:28.531435318Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ntokwa wɔ ne ho sɛ obi nnya sii ⟨את⟩ Tora no ⟨את⟩ asɛm yi so na ɔnyɛɛ — na nnipa no nyinaa bɛka sɛ: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Ntokwa wɔ ne ho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "sii ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora no asɛm yi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora no"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na ɔnyɛɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ... bɛka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:28.531435318Z",
+  "model": "glm-5.3"
+}

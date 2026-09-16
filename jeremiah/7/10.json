@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "jeremiah 7:10", "book": "jeremiah", "lang": "tw", "chapter": 7, "translation": "Moaba moagyina me anim wɔ fie yi a me din wɔfrɛ wɔ so, na moaka sɛ, Yɛagye yɛn ho, na yɛyɛ iwiɛ yi ⟨את⟩ nyinaa?", "tokens": [{"surface": "ובאתם", "gloss": "moaba"}, {"surface": "ועמדתם", "gloss": "moagyina"}, {"surface": "לפני", "gloss": "me anim"}, {"surface": "בבית", "gloss": "wɔ fie"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נקרא", "gloss": "wɔfrɛ"}, {"surface": "שמי", "gloss": "me din"}, {"surface": "עליו", "gloss": "wɔ so"}, {"surface": "ואמרתם", "gloss": "moaka sɛ"}, {"surface": "נצלנו", "gloss": "yɛagye yɛn ho"}, {"surface": "למען", "gloss": "na yɛyɛ"}, {"surface": "עשות", "gloss": "yɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "iwiɛ yi nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "התועבות", "gloss": "iwiɛ"}, {"surface": "האלה", "gloss": "yi"}], "timestamp": "2026-09-16T00:08:44.859755823Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 7:10",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Moaba moagyina me anim wɔ fie yi a me din wɔfrɛ wɔ so, na moaka sɛ, Yɛagye yɛn ho, na yɛyɛ iwiɛ yi ⟨את⟩ nyinaa?",
+  "tokens": [
+    {
+      "surface": "ובאתם",
+      "gloss": "moaba"
+    },
+    {
+      "surface": "ועמדתם",
+      "gloss": "moagyina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "me anim"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "wɔfrɛ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "me din"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wɔ so"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "moaka sɛ"
+    },
+    {
+      "surface": "נצלנו",
+      "gloss": "yɛagye yɛn ho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na yɛyɛ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwiɛ yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "iwiɛ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T00:08:44.859755823Z",
+  "model": "glm-5.3"
+}

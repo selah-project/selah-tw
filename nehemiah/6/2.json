@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":2,"ref":"nehemiah 6:2","book":"nehemiah","lang":"tw","chapter":6,"translation":"Sanballat ne Gesem somaa asɛm brɛ me sɛ: Bra, yɛmmɔ nhyiam wɔ nkuraa mu wɔ Ono bonmu; na wɔde wɔ adwene sii so sɛ wɔbɛyɛ me bɔne.","tokens":[{"surface":"וישלח","gloss":"somaa asɛm brɛ"},{"surface":"סנבלט","gloss":"Sanballat"},{"surface":"וגשם","gloss":"ne Gesem"},{"surface":"אלי","gloss":"me"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"לכה","gloss":"Bra"},{"surface":"ונועדה","gloss":"yɛmmɔ nhyiam"},{"surface":"יחדו","gloss":"yɛn ho"},{"surface":"בכפירים","gloss":"wɔ nkuraa mu"},{"surface":"בבקעת","gloss":"wɔ ... bonmu"},{"surface":"אונו","gloss":"Ono"},{"surface":"והמה","gloss":"na wɔn"},{"surface":"חשבים","gloss":"de wɔ adwene sii so"},{"surface":"לעשות","gloss":"sɛ wɔbɛyɛ"},{"surface":"לי","gloss":"me"},{"surface":"רעה","gloss":"bɔne"}],"timestamp":"2026-09-16T04:28:56.716686584Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 6:2",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Sanballat ne Gesem somaa asɛm brɛ me sɛ: Bra, yɛmmɔ nhyiam wɔ nkuraa mu wɔ Ono bonmu; na wɔde wɔ adwene sii so sɛ wɔbɛyɛ me bɔne.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "somaa asɛm brɛ"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ne Gesem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Bra"
+    },
+    {
+      "surface": "ונועדה",
+      "gloss": "yɛmmɔ nhyiam"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yɛn ho"
+    },
+    {
+      "surface": "בכפירים",
+      "gloss": "wɔ nkuraa mu"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "wɔ ... bonmu"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "na wɔn"
+    },
+    {
+      "surface": "חשבים",
+      "gloss": "de wɔ adwene sii so"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ wɔbɛyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T04:28:56.716686584Z",
+  "model": "glm-5.3"
+}

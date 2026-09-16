@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-samuel 21:7","book":"1-samuel","lang":"tw","chapter":21,"translation":"Na ɔsɔfoɔ no maa no duane kronkron, ɛfiri sɛ duane biara nni hɔ, gye duane a ɛgyina anim, a wɔayi afiri Yawe anim, de si duane hyeɛ wɔ da a wɔgyee no no.","tokens":[{"surface":"ויתן","gloss":"na ɔsɔfoɔ no maa"},{"surface":"לו","gloss":"no"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"קדש","gloss":"duane kronkron"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"לא","gloss":"biara nni"},{"surface":"היה","gloss":""},{"surface":"שם","gloss":"hɔ"},{"surface":"לחם","gloss":"duane"},{"surface":"כי","gloss":""},{"surface":"אם","gloss":"gye"},{"surface":"לחם","gloss":"duane"},{"surface":"הפנים","gloss":"a ɛgyina anim"},{"surface":"המוסרים","gloss":"a wɔayi"},{"surface":"מלפני","gloss":"afiri Yawe anim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לשום","gloss":"de si"},{"surface":"לחם","gloss":"duane"},{"surface":"חם","gloss":"hyeɛ"},{"surface":"ביום","gloss":"wɔ da"},{"surface":"הלקחו","gloss":"a wɔgyee no"}],"timestamp":"2026-09-15T22:57:22.551160171Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 21:7",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na ɔsɔfoɔ no maa no duane kronkron, ɛfiri sɛ duane biara nni hɔ, gye duane a ɛgyina anim, a wɔayi afiri Yawe anim, de si duane hyeɛ wɔ da a wɔgyee no no.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔsɔfoɔ no maa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "duane kronkron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "biara nni"
+    },
+    {
+      "surface": "היה",
+      "gloss": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duane"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "gye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duane"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "a ɛgyina anim"
+    },
+    {
+      "surface": "המוסרים",
+      "gloss": "a wɔayi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "afiri Yawe anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "de si"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duane"
+    },
+    {
+      "surface": "חם",
+      "gloss": "hyeɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "הלקחו",
+      "gloss": "a wɔgyee no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:57:22.551160171Z",
+  "model": "glm-5.3"
+}

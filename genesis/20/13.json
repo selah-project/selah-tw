@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "genesis 20:13", "book": "genesis", "lang": "tw", "chapter": 20, "translation": "Ɛbaa sɛ, berɛ a ⟨את⟩ Eloohim maa meyeraa firi m'agya fie, meka kyerɛɛ no sɛ: Woi ne w'ahotɔ hesed a wobɛyɛ ama me; wɔ bea biara a yɛbɛkɔ hɔ no, ka wɔ m'ho sɛ: Ɔyɛ me nua.", "tokens": [{"surface": "ויהי", "gloss": "Ɛbaa sɛ"}, {"surface": "כאשר", "gloss": "berɛ a"}, {"surface": "התעו", "gloss": "maa meyeraa"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me (möfa a wɔde baa me so)"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "מבית", "gloss": "firi fie"}, {"surface": "אבי", "gloss": "m'agya"}, {"surface": "ואמר", "gloss": "mekae"}, {"surface": "לה", "gloss": "kyerɛɛ no"}, {"surface": "זה", "gloss": "Woi"}, {"surface": "חסדך", "gloss": "w'ahotɔ hesed"}, {"surface": "אשר", "gloss": "a"}, {"surface": "תעשי", "gloss": "wobɛyɛ"}, {"surface": "עמדי", "gloss": "ama me"}, {"surface": "אל", "gloss": "wɔ"}, {"surface": "כל", "gloss": "biara"}, {"surface": "המקום", "gloss": "bea"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נבוא", "gloss": "yɛbɛkɔ"}, {"surface": "שמה", "gloss": "hɔ"}, {"surface": "אמרי", "gloss": "ka"}, {"surface": "לי", "gloss": "wɔ m'ho"}, {"surface": "אחי", "gloss": "me nua"}, {"surface": "הוא", "gloss": "ɔyɛ"}], "timestamp": "2026-09-15T20:23:46.843176773Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 20:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ɛbaa sɛ, berɛ a ⟨את⟩ Eloohim maa meyeraa firi m'agya fie, meka kyerɛɛ no sɛ: Woi ne w'ahotɔ hesed a wobɛyɛ ama me; wɔ bea biara a yɛbɛkɔ hɔ no, ka wɔ m'ho sɛ: Ɔyɛ me nua.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɛbaa sɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "maa meyeraa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me (möfa a wɔde baa me so)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi fie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mekae"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Woi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "w'ahotɔ hesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תעשי",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ama me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "yɛbɛkɔ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wɔ m'ho"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "me nua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:46.843176773Z",
+  "model": "glm-5.3"
+}

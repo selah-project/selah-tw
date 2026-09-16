@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "zephaniah 1:4", "book": "zephaniah", "lang": "tw", "chapter": 1, "translation": "Na madeɛ me nsa ato Yuda so, ne Yerusalem ntenafoɔ nyinaa so; na memɛtwa Baal ⟨את⟩ nkaeɛ no, ne makamerifoɔ ⟨את⟩ din no nnwanwafuo asɔfoɔ no nyinaa, mfiri ɛha hɔ.", "tokens": [{"surface": "ונטיתי", "gloss": "madeɛ ... ato"}, {"surface": "ידי", "gloss": "me nsa"}, {"surface": "על", "gloss": "so"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "יושבי", "gloss": "ntenafoɔ"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "והכרתי", "gloss": "memɛtwa"}, {"surface": "מן", "gloss": "mfiri"}, {"surface": "המקום", "gloss": "hɔ"}, {"surface": "הזה", "gloss": "ɛha"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Baal nkaeɛ"}, {"surface": "שאר", "gloss": "nkaeɛ"}, {"surface": "הבעל", "gloss": "Baal"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "makamerifoɔ din"}, {"surface": "שם", "gloss": "din"}, {"surface": "הכמרים", "gloss": "makamerifoɔ"}, {"surface": "עם", "gloss": "nnwanwafuo ... nyinaa"}, {"surface": "הכהנים", "gloss": "asɔfoɔ"}], "timestamp": "2026-09-16T01:24:05.138594454Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na madeɛ me nsa ato Yuda so, ne Yerusalem ntenafoɔ nyinaa so; na memɛtwa Baal ⟨את⟩ nkaeɛ no, ne makamerifoɔ ⟨את⟩ din no nnwanwafuo asɔfoɔ no nyinaa, mfiri ɛha hɔ.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "madeɛ ... ato"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ntenafoɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "memɛtwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mfiri"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɛha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal nkaeɛ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nkaeɛ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makamerifoɔ din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "makamerifoɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnwanwafuo ... nyinaa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:24:05.138594454Z",
+  "model": "glm-5.3"
+}

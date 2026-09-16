@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":18,"ref":"proverbs 21:18","book":"proverbs","lang":"tw","chapter":21,"translation":"Rashiafoɔ no yɛ sika a wɔde sɔ ka ma ɔtorofoɔ no, na onegyimi no gyina ⟨nea wɔte so⟩ pɛpɛɛpɛ wɔ wɔn a wɔkwan so so ananmu.","tokens":[{"surface":"כפר","gloss":"sika a wɔde sɔ ka"},{"surface":"לצדיק","gloss":"ma ɔtorofoɔ no"},{"surface":"רשע","gloss":"rashiafoɔ"},{"surface":"ותחת","gloss":"wɔ ... ananmu"},{"surface":"ישרים","gloss":"wɔn a wɔkwan so so"},{"surface":"בוגד","gloss":"onegyimi"}],"timestamp":"2026-09-16T02:59:49.466448349Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Rashiafoɔ no yɛ sika a wɔde sɔ ka ma ɔtorofoɔ no, na onegyimi no gyina ⟨nea wɔte so⟩ pɛpɛɛpɛ wɔ wɔn a wɔkwan so so ananmu.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "sika a wɔde sɔ ka"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ma ɔtorofoɔ no"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashiafoɔ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "wɔ ... ananmu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wɔn a wɔkwan so so"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "onegyimi"
+    }
+  ],
+  "timestamp": "2026-09-16T02:59:49.466448349Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "jeremiah 49:32", "book": "jeremiah", "lang": "tw", "chapter": 49, "translation": "Na wɔn yɔmsoamma bɛyɛ asɛe, wɔn mmoa dodoɔ ayɛ abɔbɔn; na mɛsane wɔn a wɔatwa wɔn anim mfimfini kyɛn mframa nyinaa; na mɛfiri n'afa biara so de ⟨את⟩ wɔn asɛe brɛ — Yawe asɛm.", "tokens": [{"surface": "והיו", "gloss": "bɛyɛ"}, {"surface": "גמליהם", "gloss": "wɔn yɔmsoamma"}, {"surface": "לבז", "gloss": "asɛe"}, {"surface": "והמון", "gloss": "dodoɔ"}, {"surface": "מקניהם", "gloss": "wɔn mmoa"}, {"surface": "לשלל", "gloss": "abɔbɔn"}, {"surface": "וזרתים", "gloss": "wɔn a wɔatwa wɔn anim mfimfini"}, {"surface": "לכל", "gloss": "kyɛn … nyinaa"}, {"surface": "רוח", "gloss": "mframa"}, {"surface": "קצוצי", "gloss": "wɔatwa"}, {"surface": "פאה", "gloss": "anim mfimfini"}, {"surface": "ומכל", "gloss": "firi … biara"}, {"surface": "עבריו", "gloss": "n'afa so"}, {"surface": "אביא", "gloss": "mɛde … brɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn asɛe"}, {"surface": "אידם", "gloss": "wɔn asɛe"}, {"surface": "נאם", "gloss": "asɛm"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T00:30:11.934960121Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 49:32",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 49,
+  "translation": "Na wɔn yɔmsoamma bɛyɛ asɛe, wɔn mmoa dodoɔ ayɛ abɔbɔn; na mɛsane wɔn a wɔatwa wɔn anim mfimfini kyɛn mframa nyinaa; na mɛfiri n'afa biara so de ⟨את⟩ wɔn asɛe brɛ — Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "גמליהם",
+      "gloss": "wɔn yɔmsoamma"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "asɛe"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "wɔn mmoa"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "abɔbɔn"
+    },
+    {
+      "surface": "וזרתים",
+      "gloss": "wɔn a wɔatwa wɔn anim mfimfini"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kyɛn … nyinaa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "wɔatwa"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "anim mfimfini"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "firi … biara"
+    },
+    {
+      "surface": "עבריו",
+      "gloss": "n'afa so"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mɛde … brɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asɛe"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "wɔn asɛe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:30:11.934960121Z",
+  "model": "glm-5.3"
+}

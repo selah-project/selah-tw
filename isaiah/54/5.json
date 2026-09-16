@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":5,"ref":"isaiah 54:5","book":"isaiah","lang":"tw","chapter":54,"translation":"Ɛfiri sɛ wo Kunu ne deɛ bɔɔ wo — Yawe Tsafoɔ ne ne din; ne Ntokwafoɔ ne Israel Kronkronni; wɔbɛfrɛ no Eloohim, asase nyinaa Wura.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"בעליך","gloss":"wo Kunu"},{"surface":"עשיך","gloss":"deɛ bɔɔ wo"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שמו","gloss":"ne din"},{"surface":"וגאלך","gloss":"ne Ntokwafoɔ"},{"surface":"קדוש","gloss":"Kronkronni"},{"surface":"ישראל","gloss":"Israel"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הארץ","gloss":"asase"},{"surface":"יקרא","gloss":"wɔbɛfrɛ no"}],"timestamp":"2026-09-16T00:00:20.885662050Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 54,
+  "translation": "Ɛfiri sɛ wo Kunu ne deɛ bɔɔ wo — Yawe Tsafoɔ ne ne din; ne Ntokwafoɔ ne Israel Kronkronni; wɔbɛfrɛ no Eloohim, asase nyinaa Wura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "wo Kunu"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "deɛ bɔɔ wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ne Ntokwafoɔ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kronkronni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wɔbɛfrɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:20.885662050Z",
+  "model": "glm-5.3"
+}

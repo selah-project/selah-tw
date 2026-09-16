@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":23,"ref":"psalms 34:23","book":"psalms","lang":"tw","chapter":34,"translation":"Yawe gyen n'akoa nom nkwa, na obiara a ɔde ne ho to Yawe mu no rennya fɔ.","tokens":[{"surface":"פודה","gloss":"gyen ... nkwa"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"נפש","gloss":"nkwa (akra)"},{"surface":"עבדיו","gloss":"n'akoa nom"},{"surface":"ולא","gloss":"na ... rennya"},{"surface":"יאשמו","gloss":"fɔ"},{"surface":"כל","gloss":"obiara"},{"surface":"החסים","gloss":"a ɔde ne ho to"},{"surface":"בו","gloss":"... mu (Yawe mu)"}],"timestamp":"2026-09-16T01:47:56.761495097Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Yawe gyen n'akoa nom nkwa, na obiara a ɔde ne ho to Yawe mu no rennya fɔ.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "gyen ... nkwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa (akra)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n'akoa nom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... rennya"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "a ɔde ne ho to"
+    },
+    {
+      "surface": "בו",
+      "gloss": "... mu (Yawe mu)"
+    }
+  ],
+  "timestamp": "2026-09-16T01:47:56.761495097Z",
+  "model": "glm-5.3"
+}

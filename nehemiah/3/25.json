@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":25,"ref":"nehemiah 3:25","book":"nehemiah","lang":"tw","chapter":3,"translation":"Palal, Uzai ba, siesiee wɔ afasuo no nkyɛnmu ano, ne towɛ no a ɛfiri ɔhene soroɔ fie mu ba, a ɛda nwonderɔ afuo no nkyɛn. Ne akyi Pedaya, Parosh ba, siesiee.","tokens":[{"surface":"פלל","gloss":"Palal"},{"surface":"בן","gloss":"ba"},{"surface":"אוזי","gloss":"Uzai"},{"surface":"מנגד","gloss":"ano (ananmu)"},{"surface":"המקצוע","gloss":"nkyɛnmu"},{"surface":"והמגדל","gloss":"ne towɛ"},{"surface":"היוצא","gloss":"a ɛfiri mu ba"},{"surface":"מבית","gloss":"firi fie"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"העליון","gloss":"soroɔ"},{"surface":"אשר","gloss":"a"},{"surface":"לחצר","gloss":"wɔ afuo"},{"surface":"המטרה","gloss":"nwonderɔ"},{"surface":"אחריו","gloss":"ne akyi"},{"surface":"פדיה","gloss":"Pedaya"},{"surface":"בן","gloss":"ba"},{"surface":"פרעש","gloss":"Parosh"}],"timestamp":"2026-09-16T04:24:35.979342503Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 3:25",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Palal, Uzai ba, siesiee wɔ afasuo no nkyɛnmu ano, ne towɛ no a ɛfiri ɔhene soroɔ fie mu ba, a ɛda nwonderɔ afuo no nkyɛn. Ne akyi Pedaya, Parosh ba, siesiee.",
+  "tokens": [
+    {
+      "surface": "פלל",
+      "gloss": "Palal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אוזי",
+      "gloss": "Uzai"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ano (ananmu)"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "nkyɛnmu"
+    },
+    {
+      "surface": "והמגדל",
+      "gloss": "ne towɛ"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "a ɛfiri mu ba"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi fie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "soroɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "wɔ afuo"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "nwonderɔ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ne akyi"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "Pedaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    }
+  ],
+  "timestamp": "2026-09-16T04:24:35.979342503Z",
+  "model": "glm-5.3"
+}

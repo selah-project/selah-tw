@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":17,"ref":"jeremiah 10:17","book":"jeremiah","lang":"tw","chapter":10,"translation":"Susa wo ntokoridie ano firi asase so, wo a wote ahyɛso mu.","tokens":[{"surface":"אספי","gloss":"susa ano"},{"surface":"מארץ","gloss":"firi asase so"},{"surface":"כנעתך","gloss":"wo ntokoridie"},{"surface":"ישבתי","gloss":"wo a wote"},{"surface":"במצור","gloss":"wɔ ahyɛso mu"}],"timestamp":"2026-09-16T05:29:10.330317632Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Susa wo ntokoridie ano firi asase so, wo a wote ahyɛso mu.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "susa ano"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase so"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "wo ntokoridie"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "wo a wote"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "wɔ ahyɛso mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:29:10.330317632Z",
+  "model": "glm-5.3"
+}

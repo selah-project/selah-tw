@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":17,"ref":"jeremiah 15:17","book":"jeremiah","lang":"tw","chapter":15,"translation":"Mmentena mprefoɔ afɔrefie mu, na mmehyɛ anigyeɛ; esi wo nsa nti no, metena me ho so, efisɛ wo abufuo ahyɛɛ me ma.","tokens":[{"surface":"לא","gloss":"mm"},{"surface":"ישבתי","gloss":"mentena"},{"surface":"בסוד","gloss":"afɔrefie mu"},{"surface":"משחקים","gloss":"mprefoɔ"},{"surface":"ואעלז","gloss":"na mmehyɛ anigyeɛ"},{"surface":"מפני","gloss":"esi…nti"},{"surface":"ידך","gloss":"wo nsa"},{"surface":"בדד","gloss":"me ho so"},{"surface":"ישבתי","gloss":"metena"},{"surface":"כי","gloss":"efisɛ"},{"surface":"זעם","gloss":"abufuo"},{"surface":"מלאתני","gloss":"ahyɛɛ me ma"}],"timestamp":"2026-09-16T00:13:54.978368902Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 15:17",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Mmentena mprefoɔ afɔrefie mu, na mmehyɛ anigyeɛ; esi wo nsa nti no, metena me ho so, efisɛ wo abufuo ahyɛɛ me ma.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mm"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mentena"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "afɔrefie mu"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "mprefoɔ"
+    },
+    {
+      "surface": "ואעלז",
+      "gloss": "na mmehyɛ anigyeɛ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "esi…nti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "me ho so"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "metena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "abufuo"
+    },
+    {
+      "surface": "מלאתני",
+      "gloss": "ahyɛɛ me ma"
+    }
+  ],
+  "timestamp": "2026-09-16T00:13:54.978368902Z",
+  "model": "glm-5.3"
+}

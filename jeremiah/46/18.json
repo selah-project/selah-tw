@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":18,"ref":"jeremiah 46:18","book":"jeremiah","lang":"tw","chapter":46,"translation":"Sɛ me da ase — Hene no hyɛ, Yawe Tsewafoɔ ne din — sɛnea Tabor wɔ mmepɔ mu na Karmel wɔ ɔpo mu, saa na ɔbɛba.","tokens":[{"surface":"חי","gloss":"sɛ me da ase"},{"surface":"אני","gloss":"me"},{"surface":"נאם","gloss":"hyɛ"},{"surface":"המלך","gloss":"Hene no"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שמו","gloss":"ne din"},{"surface":"כי","gloss":"sɛ"},{"surface":"כתבור","gloss":"sɛnea Tabor"},{"surface":"בהרים","gloss":"wɔ mmepɔ mu"},{"surface":"וככרמל","gloss":"na Karmel"},{"surface":"בים","gloss":"wɔ ɔpo mu"},{"surface":"יבוא","gloss":"ɔbɛba"}],"timestamp":"2026-09-16T00:29:16.675723154Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Sɛ me da ase — Hene no hyɛ, Yawe Tsewafoɔ ne din — sɛnea Tabor wɔ mmepɔ mu na Karmel wɔ ɔpo mu, saa na ɔbɛba.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "sɛ me da ase"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "hyɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Hene no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "sɛnea Tabor"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "wɔ mmepɔ mu"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "na Karmel"
+    },
+    {
+      "surface": "בים",
+      "gloss": "wɔ ɔpo mu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ɔbɛba"
+    }
+  ],
+  "timestamp": "2026-09-16T00:29:16.675723154Z",
+  "model": "glm-5.3"
+}

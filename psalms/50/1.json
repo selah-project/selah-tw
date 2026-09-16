@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 50:1","book":"psalms","lang":"tw","chapter":50,"translation":"Ndwom a Asaph yɛe. El, Eloohim, Yawe kasa, na ɔfrɛɛ asase, firi ewia mmoɔ so kɔsi ne mmae.","tokens":[{"surface":"מזמור","gloss":"Ndwom"},{"surface":"לאסף","gloss":"a Asaph yɛe"},{"surface":"אל","gloss":"El"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"דבר","gloss":"kasa"},{"surface":"ויקרא","gloss":"na ɔfrɛɛ"},{"surface":"ארץ","gloss":"asase"},{"surface":"ממזרח","gloss":"firi ewia mmoɔ so"},{"surface":"שמש","gloss":"ewia"},{"surface":"עד","gloss":"kɔsi"},{"surface":"מבאו","gloss":"ne mmae"}],"timestamp":"2026-09-16T01:57:25.698797831Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ndwom a Asaph yɛe. El, Eloohim, Yawe kasa, na ɔfrɛɛ asase, firi ewia mmoɔ so kɔsi ne mmae.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ndwom"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "a Asaph yɛe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "firi ewia mmoɔ so"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ewia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "ne mmae"
+    }
+  ],
+  "timestamp": "2026-09-16T01:57:25.698797831Z",
+  "model": "glm-5.3"
+}

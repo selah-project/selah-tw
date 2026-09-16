@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "exodus 29:9", "book": "exodus", "lang": "tw", "chapter": 29, "translation": "Na wogya wɔn de ⟨את⟩ abɛntia — Aharon ne ne mma — na wokye wɔn akɔnfɔ; na asɔfoɔ som no bɛyɛ wɔn de wɔ mmara a ɛdi hɔ daa; na wo hyɛ Aharon nsa ne ne mma nsa ma.", "tokens": [{"surface": "וחגרת", "gloss": "na wogya wɔn de"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "abɛntia"}, {"surface": "אבנט", "gloss": "abɛntia"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ובניו", "gloss": "ne ne mma"}, {"surface": "וחבשת", "gloss": "na wokye wɔn"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "מגבעת", "gloss": "akɔnfɔ"}, {"surface": "והיתה", "gloss": "na ɛbɛyɛ"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "כהנה", "gloss": "asɔfoɔ som"}, {"surface": "לחקת", "gloss": "de mmara"}, {"surface": "עולם", "gloss": "a ɛdi hɔ daa"}, {"surface": "ומלאת", "gloss": "na wo hyɛ ma"}, {"surface": "יד", "gloss": "nsa"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ויד", "gloss": "ne nsa"}, {"surface": "בניו", "gloss": "ne mma"}], "timestamp": "2026-09-15T21:00:06.757059132Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 29:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na wogya wɔn de ⟨את⟩ abɛntia — Aharon ne ne mma — na wokye wɔn akɔnfɔ; na asɔfoɔ som no bɛyɛ wɔn de wɔ mmara a ɛdi hɔ daa; na wo hyɛ Aharon nsa ne ne mma nsa ma.",
+  "tokens": [
+    {
+      "surface": "וחגרת",
+      "gloss": "na wogya wɔn de"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abɛntia"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "abɛntia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "וחבשת",
+      "gloss": "na wokye wɔn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "akɔnfɔ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "asɔfoɔ som"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "de mmara"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛdi hɔ daa"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "na wo hyɛ ma"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:06.757059132Z",
+  "model": "glm-5.3"
+}

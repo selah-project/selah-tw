@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 25:7","book":"psalms","lang":"tw","chapter":25,"translation":"M'abɔfra berɛ mfomsoɔ ne m'ahokyere mfomsoɔ — mmbɔ hɔ da; na mmom sɛnea wo hesed ⟨nkyerɛaseɛ: ɔdɔ a ɛtra so⟩ te no, kae me, wo ara, esiane wo papa nti, Yawe.","tokens":[{"surface":"חטאות","gloss":"mfomsoɔ"},{"surface":"נעורי","gloss":"m'abɔfra berɛ"},{"surface":"ופשעי","gloss":"ne m'ahokyere mfomsoɔ"},{"surface":"אל","gloss":"mmbɔ hɔ da"},{"surface":"תזכר","gloss":"kae (negation)"},{"surface":"כחסדך","gloss":"sɛnea wo hesed te"},{"surface":"זכר","gloss":"kae"},{"surface":"לי","gloss":"me"},{"surface":"אתה","gloss":"wo ara"},{"surface":"למען","gloss":"esiane"},{"surface":"טובך","gloss":"wo papa"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T01:44:12.796053051Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "M'abɔfra berɛ mfomsoɔ ne m'ahokyere mfomsoɔ — mmbɔ hɔ da; na mmom sɛnea wo hesed ⟨nkyerɛaseɛ: ɔdɔ a ɛtra so⟩ te no, kae me, wo ara, esiane wo papa nti, Yawe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "mfomsoɔ"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "m'abɔfra berɛ"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ne m'ahokyere mfomsoɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mmbɔ hɔ da"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kae (negation)"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sɛnea wo hesed te"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kae"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo ara"
+    },
+    {
+      "surface": "למען",
+      "gloss": "esiane"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "wo papa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:44:12.796053051Z",
+  "model": "glm-5.3"
+}

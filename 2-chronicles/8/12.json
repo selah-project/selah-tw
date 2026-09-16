@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-chronicles 8:12","book":"2-chronicles","lang":"tw","chapter":8,"translation":"Saa bere no Shelomoh maa nnɔgyeɛ a ɛhye no bae sɛnnɔ maa Yawe, wɔ Yawe nnyesoeɛ so, nea ɔsii wɔ ahensie no anim.","tokens":[{"surface":"אז","gloss":"Saa bere no"},{"surface":"העלה","gloss":"maa ... bae"},{"surface":"שלמה","gloss":"Shelomoh"},{"surface":"עלות","gloss":"nnɔgyeɛ a ɛhye"},{"surface":"ליהוה","gloss":"maa Yawe"},{"surface":"על","gloss":"wɔ ... so"},{"surface":"מזבח","gloss":"nnyesoeɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אשר","gloss":"a"},{"surface":"בנה","gloss":"ɔsii"},{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"האולם","gloss":"ahensie"}],"timestamp":"2026-09-16T04:55:00.657432148Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Saa bere no Shelomoh maa nnɔgyeɛ a ɛhye no bae sɛnnɔ maa Yawe, wɔ Yawe nnyesoeɛ so, nea ɔsii wɔ ahensie no anim.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Saa bere no"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "maa ... bae"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nnɔgyeɛ a ɛhye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maa Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nnyesoeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɔsii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "ahensie"
+    }
+  ],
+  "timestamp": "2026-09-16T04:55:00.657432148Z",
+  "model": "glm-5.3"
+}

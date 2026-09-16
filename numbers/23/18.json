@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":18,"ref":"numbers 23:18","book":"numbers","lang":"tw","chapter":23,"translation":"Ɔdane ne kasadwuma no sɔɔ hwɛ, kaa sɛ: Sɔre, Balak, na tie; ma ma wo aso mma me, Tsipor ba.","tokens":[{"surface":"וישא","gloss":"sɔɔ hwɛ"},{"surface":"משלו","gloss":"ne kasadwuma no"},{"surface":"ויאמר","gloss":"kaa sɛ"},{"surface":"קום","gloss":"Sɔre"},{"surface":"בלק","gloss":"Balak"},{"surface":"ושמע","gloss":"na tie"},{"surface":"האזינה","gloss":"ma wo aso mma"},{"surface":"עדי","gloss":"me"},{"surface":"בנו","gloss":"ba"},{"surface":"צפר","gloss":"Tsipor"}],"timestamp":"2026-09-15T21:38:33.872159412Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 23:18",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Ɔdane ne kasadwuma no sɔɔ hwɛ, kaa sɛ: Sɔre, Balak, na tie; ma ma wo aso mma me, Tsipor ba.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "sɔɔ hwɛ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ne kasadwuma no"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sɔre"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na tie"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ma wo aso mma"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Tsipor"
+    }
+  ],
+  "timestamp": "2026-09-15T21:38:33.872159412Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "deuteronomy 28:12", "book": "deuteronomy", "lang": "tw", "chapter": 28, "translation": "Yawe bɛbue ⟨את⟩ ne sika-bɔgya a ɛyɛ papa no — ⟨את⟩ ɔsoro — na ɔde osuo bɛba wo asase so wɔ ne berɛ mu, na ɔhyira ⟨את⟩ wo nsa adwuma nyinaa; na wode bɛhyɛ amanaman pii, na wo werɛ nhɔ sɛ wobebisa hia.", "tokens": [{"surface": "יפתח", "gloss": "bɛbue"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לך", "gloss": "wo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne sika-bɔgya (אוצרו)"}, {"surface": "אוצרו", "gloss": "ne sika-bɔgya"}, {"surface": "הטוב", "gloss": "a ɛyɛ papa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔsoro (השמים)"}, {"surface": "השמים", "gloss": "ɔsoro"}, {"surface": "לתת", "gloss": "na ɔde…bɛba"}, {"surface": "מטר", "gloss": "osuo"}, {"surface": "ארצך", "gloss": "wo asase"}, {"surface": "בעתו", "gloss": "wɔ ne berɛ mu"}, {"surface": "ולברך", "gloss": "na ɔhyira"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nsa adwuma nyinaa (כל מעשה ידך)"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מעשה", "gloss": "adwuma"}, {"surface": "ידך", "gloss": "wo nsa"}, {"surface": "והלוית", "gloss": "wode bɛhyɛ"}, {"surface": "גוים", "gloss": "amanaman"}, {"surface": "רבים", "gloss": "pii"}, {"surface": "ואתה", "gloss": "na wo"}, {"surface": "לא", "gloss": "werɛ nhɔ…sɛ"}, {"surface": "תלוה", "gloss": "wobebisa hia"}], "timestamp": "2026-09-15T21:56:53.888568166Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yawe bɛbue ⟨את⟩ ne sika-bɔgya a ɛyɛ papa no — ⟨את⟩ ɔsoro — na ɔde osuo bɛba wo asase so wɔ ne berɛ mu, na ɔhyira ⟨את⟩ wo nsa adwuma nyinaa; na wode bɛhyɛ amanaman pii, na wo werɛ nhɔ sɛ wobebisa hia.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "bɛbue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne sika-bɔgya (אוצרו)"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "ne sika-bɔgya"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a ɛyɛ papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsoro (השמים)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "na ɔde…bɛba"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "osuo"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "wo asase"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "wɔ ne berɛ mu"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "na ɔhyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nsa adwuma nyinaa (כל מעשה ידך)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "wode bɛhyɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pii"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "werɛ nhɔ…sɛ"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "wobebisa hia"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:53.888568166Z",
+  "model": "glm-5.3"
+}

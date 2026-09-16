@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "isaiah 6:8", "book": "isaiah", "lang": "tw", "chapter": 6, "translation": "Na metee Adonai ⟨את⟩ nne sɛ ɔreka sɛ: Hwan na misoma, na ⟨את⟩ hwan na ɔbɛkɔ yɛn dea? Na mekaa sɛ: Me ha, soma me.", "tokens": [{"surface": "ואשמע", "gloss": "Na metee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nne"}, {"surface": "קול", "gloss": "nne"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "אמר", "gloss": "ɔreka sɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "hwan"}, {"surface": "מי", "gloss": "hwan"}, {"surface": "אשלח", "gloss": "misoma"}, {"surface": "ומי", "gloss": "na hwan"}, {"surface": "ילך", "gloss": "ɔbɛkɔ"}, {"surface": "לנו", "gloss": "yɛn dea"}, {"surface": "ואמר", "gloss": "na mekaa sɛ"}, {"surface": "הנני", "gloss": "Me ha"}, {"surface": "שלחני", "gloss": "soma me"}], "timestamp": "2026-09-15T23:41:09.825822Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na metee Adonai ⟨את⟩ nne sɛ ɔreka sɛ: Hwan na misoma, na ⟨את⟩ hwan na ɔbɛkɔ yɛn dea? Na mekaa sɛ: Me ha, soma me.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Na metee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔreka sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "misoma"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hwan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ɔbɛkɔ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yɛn dea"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mekaa sɛ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Me ha"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "soma me"
+    }
+  ],
+  "timestamp": "2026-09-15T23:41:09.825822Z",
+  "model": "glm-5.3"
+}

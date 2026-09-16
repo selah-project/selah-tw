@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "jonah 1:9", "book": "jonah", "lang": "tw", "chapter": 1, "translation": "Obisaa wɔn sɛ: Hebri ni me, na ⟨את⟩ Yawe, Eloohim a ɔyɛ ɔsoro Wura, na mesuro no — ɔno na ɔbɔɔ ⟨את⟩ ɔpo mu nsuo ne ⟨את⟩ ɔsahara asase no.", "tokens": [{"surface": "ויאמר", "gloss": "ɔkaa kyerɛɛ"}, {"surface": "אליהם", "gloss": "wɔn"}, {"surface": "עברי", "gloss": "Hebri ni"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "השמים", "gloss": "ɔsoro"}, {"surface": "אני", "gloss": "me"}, {"surface": "ירא", "gloss": "mesuro"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשה", "gloss": "ɔbɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔpo mu nsuo"}, {"surface": "הים", "gloss": "ɔpo mu nsuo"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ɔsahara asase"}, {"surface": "היבשה", "gloss": "ɔsahara asase"}], "timestamp": "2026-09-16T01:16:13.019973855Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Obisaa wɔn sɛ: Hebri ni me, na ⟨את⟩ Yawe, Eloohim a ɔyɛ ɔsoro Wura, na mesuro no — ɔno na ɔbɔɔ ⟨את⟩ ɔpo mu nsuo ne ⟨את⟩ ɔsahara asase no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebri ni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mesuro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔpo mu nsuo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɔpo mu nsuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsahara asase"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ɔsahara asase"
+    }
+  ],
+  "timestamp": "2026-09-16T01:16:13.019973855Z",
+  "model": "glm-5.3"
+}

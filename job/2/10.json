@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "job 2:10", "book": "job", "lang": "tw", "chapter": 2, "translation": "Nanso ɔkaa kyerɛɛ no sɛ: “Wokasa sɛ nea nneba abɔnefoɔ baako kasakyi. Adɛn? Yɛgya ⟨את⟩ deɛ ɛyɛ papa ⟨את⟩ firi Eloohim nkyɛn, na yɛngya deɛ ɛyɛ bɔne ⟨את⟩?” Wɔ nea ɛbaa no nyinaa mu Iyob amfom mma wɔ n'ano no.", "tokens": [{"surface": "ויאמר", "gloss": "ɔkaa kyerɛɛ"}, {"surface": "אליה", "gloss": "kyerɛɛ no"}, {"surface": "כדבר", "gloss": "sɛ nea … kasakyi"}, {"surface": "אחת", "gloss": "baako"}, {"surface": "הנבלות", "gloss": "nneba abɔnefoɔ"}, {"surface": "תדברי", "gloss": "wokasa"}, {"surface": "גם", "gloss": "Adɛn?"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ ɛyɛ papa"}, {"surface": "הטוב", "gloss": "deɛ ɛyɛ papa"}, {"surface": "נקבל", "gloss": "yɛgya"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "ואת", "gloss": "na ⟨את⟩", "marks": "deɛ ɛyɛ bɔne"}, {"surface": "הרע", "gloss": "deɛ ɛyɛ bɔne"}, {"surface": "לא", "gloss": "ɛn"}, {"surface": "נקבל", "gloss": "yɛgya"}, {"surface": "בכל", "gloss": "nyinaa mu"}, {"surface": "זאת", "gloss": "nea ɛbaa no"}, {"surface": "לא", "gloss": "mma"}, {"surface": "חטא", "gloss": "amfom"}, {"surface": "איוב", "gloss": "Iyob"}, {"surface": "בשפתיו", "gloss": "wɔ n'ano no"}], "timestamp": "2026-09-16T03:09:07.241883390Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 2:10",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Nanso ɔkaa kyerɛɛ no sɛ: “Wokasa sɛ nea nneba abɔnefoɔ baako kasakyi. Adɛn? Yɛgya ⟨את⟩ deɛ ɛyɛ papa ⟨את⟩ firi Eloohim nkyɛn, na yɛngya deɛ ɛyɛ bɔne ⟨את⟩?” Wɔ nea ɛbaa no nyinaa mu Iyob amfom mma wɔ n'ano no.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sɛ nea … kasakyi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "הנבלות",
+      "gloss": "nneba abɔnefoɔ"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "wokasa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Adɛn?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛyɛ papa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "deɛ ɛyɛ papa"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "yɛgya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "deɛ ɛyɛ bɔne"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "deɛ ɛyɛ bɔne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛn"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "yɛgya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nea ɛbaa no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "amfom"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "wɔ n'ano no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:09:07.241883390Z",
+  "model": "glm-5.3"
+}

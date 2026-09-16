@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "zechariah 8:13", "book": "zechariah", "lang": "tw", "chapter": 8, "translation": "Na ɛbɛba sɛ, sɛnea ⟨את⟩ mo de akumfoɔ adiyisɛm baa amanmu no, fie Yehuda ne fie Yisrael, saa ara na mɛgye mo, na mo bɛyɛ nhyira; monnsuro, monnyɛ mo nsa den.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛba"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "הייתם", "gloss": "mo de baa"}, {"surface": "קללה", "gloss": "akumfoɔ adiyisɛm"}, {"surface": "בגוים", "gloss": "wɔ amanmu"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהודה", "gloss": "Yehuda"}, {"surface": "ובית", "gloss": "ne fie"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "כן", "gloss": "saa ara"}, {"surface": "אושיע", "gloss": "mɛgye"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "והייתם", "gloss": "na mo bɛyɛ"}, {"surface": "ברכה", "gloss": "nhyira"}, {"surface": "אל", "gloss": "ɛnnɛ"}, {"surface": "תיראו", "gloss": "monsuro"}, {"surface": "תחזקנה", "gloss": "monnyɛ…den"}, {"surface": "ידיכם", "gloss": "mo nsa"}], "timestamp": "2026-09-16T01:32:13.688318201Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 8:13",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɛbɛba sɛ, sɛnea ⟨את⟩ mo de akumfoɔ adiyisɛm baa amanmu no, fie Yehuda ne fie Yisrael, saa ara na mɛgye mo, na mo bɛyɛ nhyira; monnsuro, monnyɛ mo nsa den.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mo de baa"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "akumfoɔ adiyisɛm"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "wɔ amanmu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "mɛgye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "na mo bɛyɛ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "monsuro"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "monnyɛ…den"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "mo nsa"
+    }
+  ],
+  "timestamp": "2026-09-16T01:32:13.688318201Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 5:3","book":"psalms","lang":"tw","chapter":5,"translation":"Sisi wo aso hwɛ me sɔre nne, me Hene ne me Eloohim, efisɛ wo nko ara na mesrɛ srɛ.","tokens":[{"surface":"הקשיבה","gloss":"Sisi wo aso hwɛ"},{"surface":"לקול","gloss":"... nne"},{"surface":"שועי","gloss":"me sɔre"},{"surface":"מלכי","gloss":"me Hene"},{"surface":"ואלהי","gloss":"ne me Eloohim"},{"surface":"כי","gloss":"efisɛ"},{"surface":"אליך","gloss":"wo nko ara"},{"surface":"אתפלל","gloss":"mesrɛ srɛ"}],"timestamp":"2026-09-16T01:38:33.597183029Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Sisi wo aso hwɛ me sɔre nne, me Hene ne me Eloohim, efisɛ wo nko ara na mesrɛ srɛ.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Sisi wo aso hwɛ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "... nne"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "me sɔre"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "me Hene"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ne me Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo nko ara"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "mesrɛ srɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:38:33.597183029Z",
+  "model": "glm-5.3"
+}

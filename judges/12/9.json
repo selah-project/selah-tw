@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "judges 12:9", "book": "judges", "lang": "tw", "chapter": 12, "translation": "Na ɔwɔ mma baasa baasa, mma barima dɔnhonko ne ababaawa dɔnhonko; ɔsomaan ababaawa no pii kɔɔ akyire, na ɔde ababaawa dɔnhonko foforɔ baeɛ ma ne mma barima no firi amanneɛsoɔ. Na ɔdii ⟨את⟩ Yisraɛl so atemmamu mfeɛ nson.", "tokens": [{"surface": "ויהי", "gloss": "Na ɔwɔ"}, {"surface": "לו", "gloss": "nea ɔwɔ"}, {"surface": "שלשים", "gloss": "dɔnhonko"}, {"surface": "בנים", "gloss": "mma barima"}, {"surface": "ושלשים", "gloss": "ne ababaawa dɔnhonko"}, {"surface": "בנות", "gloss": "ababaawa"}, {"surface": "שלח", "gloss": "ɔsomaan pii"}, {"surface": "החוצה", "gloss": "kɔɔ akyire"}, {"surface": "ושלשים", "gloss": "ababaawa dɔnhonko"}, {"surface": "בנות", "gloss": "foforɔ"}, {"surface": "הביא", "gloss": "ɔde baeɛ"}, {"surface": "לבניו", "gloss": "ma ne mma barima no"}, {"surface": "מן", "gloss": "firi"}, {"surface": "החוץ", "gloss": "amanneɛsoɔ"}, {"surface": "וישפט", "gloss": "ɔdii atemmamu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisraɛl"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "שבע", "gloss": "nson"}, {"surface": "שנים", "gloss": "mfeɛ"}], "timestamp": "2026-09-15T22:39:46.567164080Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 12:9",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɔwɔ mma baasa baasa, mma barima dɔnhonko ne ababaawa dɔnhonko; ɔsomaan ababaawa no pii kɔɔ akyire, na ɔde ababaawa dɔnhonko foforɔ baeɛ ma ne mma barima no firi amanneɛsoɔ. Na ɔdii ⟨את⟩ Yisraɛl so atemmamu mfeɛ nson.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɔwɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nea ɔwɔ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dɔnhonko"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma barima"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ne ababaawa dɔnhonko"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ababaawa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ɔsomaan pii"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "kɔɔ akyire"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ababaawa dɔnhonko"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "foforɔ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ɔde baeɛ"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ma ne mma barima no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "amanneɛsoɔ"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ɔdii atemmamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nson"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:39:46.567164080Z",
+  "model": "glm-5.3"
+}

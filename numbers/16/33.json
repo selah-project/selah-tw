@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":33,"ref":"numbers 16:33","book":"numbers","lang":"tw","chapter":16,"translation":"Wɔne deɛ ɛwɔ wɔn nsam nyinaa sii ase kɔɔ Seol sɛ wɔte ase, na asase no buu ho hyɛɛ wɔn, na wɔsɛee wɔn fi mpanyimfoɔ no mu.","tokens":[{"surface":"וירדו","gloss":"sii ase kɔɔ"},{"surface":"הם","gloss":"wɔne"},{"surface":"וכל","gloss":"nyinaa"},{"surface":"אשר","gloss":"deɛ ɛwɔ"},{"surface":"להם","gloss":"wɔn nsam"},{"surface":"חיים","gloss":"sɛ wɔte ase"},{"surface":"שאלה","gloss":"Seol"},{"surface":"ותכס","gloss":"buu ho hyɛɛ"},{"surface":"עליהם","gloss":"wɔn"},{"surface":"הארץ","gloss":"asase no"},{"surface":"ויאבדו","gloss":"wɔsɛe wɔn"},{"surface":"מתוך","gloss":"fi"},{"surface":"הקהל","gloss":"mpanyimfoɔ no mu"}],"timestamp":"2026-09-15T21:34:01.747236583Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 16:33",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Wɔne deɛ ɛwɔ wɔn nsam nyinaa sii ase kɔɔ Seol sɛ wɔte ase, na asase no buu ho hyɛɛ wɔn, na wɔsɛee wɔn fi mpanyimfoɔ no mu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "sii ase kɔɔ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ ɛwɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn nsam"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sɛ wɔte ase"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "buu ho hyɛɛ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "wɔsɛe wɔn"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "fi"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mpanyimfoɔ no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:34:01.747236583Z",
+  "model": "glm-5.3"
+}

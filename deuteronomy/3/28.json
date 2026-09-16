@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "deuteronomy 3:28", "book": "deuteronomy", "lang": "tw", "chapter": 3, "translation": "Na hyɛ ⟨את⟩ Yehoshua ahyɛde, na hyɛ no den, na ma ne ho mmoroso; ɛfiri sɛ ɔno na ɔbɛdi ⟨את⟩ nnipadɔm yi anim, na ɔno na ɔbɛma wɔadzi ⟨את⟩ asase no a wobɛhunu no.", "tokens": [{"surface": "וצו", "gloss": "na hyɛ ... ahyɛde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yehoshua"}, {"surface": "יהושע", "gloss": "Yehoshua"}, {"surface": "וחזקהו", "gloss": "na hyɛ no den"}, {"surface": "ואמצהו", "gloss": "na ma ne ho mmoroso"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "יעבר", "gloss": "bɛkɔsɔ"}, {"surface": "לפני", "gloss": "bɛdi ... anim"}, {"surface": "העם", "gloss": "nnipadɔm"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "והוא", "gloss": "na ɔno"}, {"surface": "ינחיל", "gloss": "bɛma wɔadzi"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "תראה", "gloss": "wobɛhunu"}], "timestamp": "2026-09-15T21:46:21.120807090Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na hyɛ ⟨את⟩ Yehoshua ahyɛde, na hyɛ no den, na ma ne ho mmoroso; ɛfiri sɛ ɔno na ɔbɛdi ⟨את⟩ nnipadɔm yi anim, na ɔno na ɔbɛma wɔadzi ⟨את⟩ asase no a wobɛhunu no.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "na hyɛ ... ahyɛde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "na hyɛ no den"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "na ma ne ho mmoroso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "bɛkɔsɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bɛdi ... anim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipadɔm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "bɛma wɔadzi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "wobɛhunu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:21.120807090Z",
+  "model": "glm-5.3"
+}

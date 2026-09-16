@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "jeremiah 7:27", "book": "jeremiah", "lang": "tw", "chapter": 7, "translation": "Na wode nsɛm yi ⟨את⟩ nyinaa bɛka akyerɛ wɔn, na wɔrentie wo; wo frɛ wɔn, na wɔrennye wo nkyerɛ.", "tokens": [{"surface": "ודברת", "gloss": "bɛka akyerɛ"}, {"surface": "אליהם", "gloss": "wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɛm yi nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הדברים", "gloss": "nsɛm"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "ולא", "gloss": "na wɔren"}, {"surface": "ישמעו", "gloss": "ntie"}, {"surface": "אליך", "gloss": "wo"}, {"surface": "וקראת", "gloss": "frɛ"}, {"surface": "אליהם", "gloss": "wɔn"}, {"surface": "ולא", "gloss": "na wɔren"}, {"surface": "יענוכה", "gloss": "nye wo nkyerɛ"}], "timestamp": "2026-09-16T00:08:13.019890253Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na wode nsɛm yi ⟨את⟩ nyinaa bɛka akyerɛ wɔn, na wɔrentie wo; wo frɛ wɔn, na wɔrennye wo nkyerɛ.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "bɛka akyerɛ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔren"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ntie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔren"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "nye wo nkyerɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:08:13.019890253Z",
+  "model": "glm-5.3"
+}

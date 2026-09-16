@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "genesis 17:19", "book": "genesis", "lang": "tw", "chapter": 17, "translation": "Na Eloohim kaa sɛ, Ɛnyɛ saa; wo yere Sara bɛwo wo ba barima, na wobɛfrɛ ⟨את⟩ ne din Yitsak, na mɛgyina ⟨את⟩ me ntam ⟨את⟩ sɛ ɔ ne no bɛyɛ ntam daa, ɔ ne ne nkyirimma a ɔbɛto n'akyi.", "tokens": [{"surface": "ויאמר", "gloss": "ɔkaa"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אבל", "gloss": "ɛnyɛ saa"}, {"surface": "שרה", "gloss": "Sara"}, {"surface": "אשתך", "gloss": "wo yere"}, {"surface": "ילדת", "gloss": "bɛwo"}, {"surface": "לך", "gloss": "wo"}, {"surface": "בן", "gloss": "ba barima"}, {"surface": "וקראת", "gloss": "wobɛfrɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne din"}, {"surface": "שמו", "gloss": "ne din"}, {"surface": "יצחק", "gloss": "Yitsak"}, {"surface": "והקמתי", "gloss": "mɛgyina"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me ntam"}, {"surface": "בריתי", "gloss": "me ntam"}, {"surface": "אתו", "gloss": "⟨את⟩ ne ho"}, {"surface": "לברית", "gloss": "sɛ ntam"}, {"surface": "עולם", "gloss": "daa"}, {"surface": "לזרעו", "gloss": "ne nkyirimma"}, {"surface": "אחריו", "gloss": "n'akyi"}], "timestamp": "2026-09-15T20:22:19.527128827Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 17:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Na Eloohim kaa sɛ, Ɛnyɛ saa; wo yere Sara bɛwo wo ba barima, na wobɛfrɛ ⟨את⟩ ne din Yitsak, na mɛgyina ⟨את⟩ me ntam ⟨את⟩ sɛ ɔ ne no bɛyɛ ntam daa, ɔ ne ne nkyirimma a ɔbɛto n'akyi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ɛnyɛ saa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "wo yere"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "bɛwo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba barima"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "wobɛfrɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "mɛgyina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ntam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me ntam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne ho"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "sɛ ntam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daa"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "ne nkyirimma"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "n'akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:19.527128827Z",
+  "model": "glm-5.3"
+}

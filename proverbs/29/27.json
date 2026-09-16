@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":27,"ref":"proverbs 29:27","book":"proverbs","lang":"tw","chapter":29,"translation":"ɔbarima a ɔyɛ amumuyɛ no yɛ ɛtwam de akoma pa foɔ; na ɔkwan treneefoɔ nso yɛ ɛtwam de bɔnefoɔ.","tokens":[{"surface":"תועבת","gloss":"yɛ ɛtwam de"},{"surface":"צדיקים","gloss":"akoma pa foɔ"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"עול","gloss":"a ɔyɛ amumuyɛ no"},{"surface":"ותועבת","gloss":"na ... yɛ ɛtwam de"},{"surface":"רשע","gloss":"bɔnefoɔ"},{"surface":"ישר","gloss":"treneefoɔ"},{"surface":"דרך","gloss":"ɔkwan"}],"timestamp":"2026-09-16T03:05:36.396029973Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "ɔbarima a ɔyɛ amumuyɛ no yɛ ɛtwam de akoma pa foɔ; na ɔkwan treneefoɔ nso yɛ ɛtwam de bɔnefoɔ.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "yɛ ɛtwam de"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "akoma pa foɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "עול",
+      "gloss": "a ɔyɛ amumuyɛ no"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "na ... yɛ ɛtwam de"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bɔnefoɔ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "treneefoɔ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ɔkwan"
+    }
+  ],
+  "timestamp": "2026-09-16T03:05:36.396029973Z",
+  "model": "glm-5.3"
+}

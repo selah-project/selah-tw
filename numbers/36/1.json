@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":1,"ref":"numbers 36:1","book":"numbers","lang":"tw","chapter":36,"translation":"Na efie akannifoɔ a wofi Gilad mma abusua mu — Makir ba, Menashe ba, a wɔyɛ Yosef mma abusua no mu bi — bɛnɛɛ hɔ, na wɔkasaawe wɔ Moshe anim, ne wɔn a wɔdi anim no anim, Israɛl mma efie akannifoɔ.","tokens":[{"surface":"ויקרבו","gloss":"na wɔbɛnɛɛ hɔ"},{"surface":"ראשי","gloss":"akannifoɔ"},{"surface":"האבות","gloss":"efie"},{"surface":"למשפחת","gloss":"abusua mu"},{"surface":"בני","gloss":"mma"},{"surface":"גלעד","gloss":"Gilad"},{"surface":"בן","gloss":"ba"},{"surface":"מכיר","gloss":"Makir"},{"surface":"בן","gloss":"ba"},{"surface":"מנשה","gloss":"Menashe"},{"surface":"ממשפחת","gloss":"abusua mu"},{"surface":"בני","gloss":"mma"},{"surface":"יוסף","gloss":"Yosef"},{"surface":"וידברו","gloss":"na wɔkasaawe"},{"surface":"לפני","gloss":"anim"},{"surface":"משה","gloss":"Moshe"},{"surface":"ולפני","gloss":"ne ... anim"},{"surface":"הנשאים","gloss":"wɔn a wɔdi anim"},{"surface":"ראשי","gloss":"akannifoɔ"},{"surface":"אבות","gloss":"efie"},{"surface":"לבני","gloss":"mma"},{"surface":"ישראל","gloss":"Israɛl"}],"timestamp":"2026-09-15T21:45:04.841850252Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 36:1",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na efie akannifoɔ a wofi Gilad mma abusua mu — Makir ba, Menashe ba, a wɔyɛ Yosef mma abusua no mu bi — bɛnɛɛ hɔ, na wɔkasaawe wɔ Moshe anim, ne wɔn a wɔdi anim no anim, Israɛl mma efie akannifoɔ.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "na wɔbɛnɛɛ hɔ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "efie"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "abusua mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "abusua mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "na wɔkasaawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ne ... anim"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "wɔn a wɔdi anim"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "efie"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:04.841850252Z",
+  "model": "glm-5.3"
+}

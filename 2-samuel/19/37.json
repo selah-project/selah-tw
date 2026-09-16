@@ -1,1 +1,63 @@
-{"tier":"glm-5.2","verse":37,"ref":"2-samuel 19:37","book":"2-samuel","lang":"tw","chapter":19,"translation":"Kakra bi na wo akoadie bɛfa ⟨את⟩ Yarden so ⟨את⟩ ɔhene; na adɛn nti na ɔhene bɛtua me ka akatua te sɛ yi?","tokens":[{"surface":"כמעט","gloss":"kakra bi"},{"surface":"יעבר","gloss":"bɛfa so"},{"surface":"עבדך","gloss":"wo akoadie"},{"surface":"את","gloss":"⟨את⟩","marks":"Yarden"},{"surface":"הירדן","gloss":"Yarden"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔhene"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"ולמה","gloss":"na adɛn nti"},{"surface":"יגמלני","gloss":"bɛtua me ka"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"הגמולה","gloss":"akatua"},{"surface":"הזאת","gloss":"te sɛ yi"}],"timestamp":"2026-09-15T23:07:59.408576616Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Kakra bi na wo akoadie bɛfa ⟨את⟩ Yarden so ⟨את⟩ ɔhene; na adɛn nti na ɔhene bɛtua me ka akatua te sɛ yi?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kakra bi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "bɛfa so"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoadie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "na adɛn nti"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "bɛtua me ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "akatua"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "te sɛ yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:07:59.408576616Z",
+  "model": "glm-5.3"
+}

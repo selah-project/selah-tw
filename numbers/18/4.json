@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "numbers 18:4", "book": "numbers", "lang": "tw", "chapter": 18, "translation": "Na wɔne mo bɛka abom, na wɔbɛhwɛ nhyiam ten no ⟨את⟩ hwɛsoɔ so, de yɛ ten no som nyinaa; na ɔhyɛfoɔ nmmɔn mo ho.", "tokens": [{"surface": "ונלוו", "gloss": "na wɔne mo bɛka abom"}, {"surface": "עליך", "gloss": "mo ho"}, {"surface": "ושמרו", "gloss": "na wɔbɛhwɛ … so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nhyiam ten no hwɛsoɔ"}, {"surface": "משמרת", "gloss": "hwɛsoɔ"}, {"surface": "אהל", "gloss": "ten"}, {"surface": "מועד", "gloss": "nhyiam"}, {"surface": "לכל", "gloss": "de yɛ … nyinaa"}, {"surface": "עבדת", "gloss": "som"}, {"surface": "האהל", "gloss": "ten no"}, {"surface": "וזר", "gloss": "na ɔhyɛfoɔ"}, {"surface": "לא", "gloss": "nn"}, {"surface": "יקרב", "gloss": "mmɔn"}, {"surface": "אליכם", "gloss": "mo ho"}], "timestamp": "2026-09-15T21:35:23.413777657Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 18:4",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Na wɔne mo bɛka abom, na wɔbɛhwɛ nhyiam ten no ⟨את⟩ hwɛsoɔ so, de yɛ ten no som nyinaa; na ɔhyɛfoɔ nmmɔn mo ho.",
+  "tokens": [
+    {
+      "surface": "ונלוו",
+      "gloss": "na wɔne mo bɛka abom"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "na wɔbɛhwɛ … so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyiam ten no hwɛsoɔ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "hwɛsoɔ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nhyiam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de yɛ … nyinaa"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "som"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ten no"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "na ɔhyɛfoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "mmɔn"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo ho"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:23.413777657Z",
+  "model": "glm-5.3"
+}

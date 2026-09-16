@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":9,"ref":"numbers 21:9","book":"numbers","lang":"tw","chapter":21,"translation":"Mosheh yɛɛ nneɛma bɔne ⟨את⟩ nwansena mframa dɔkɔdɔkɔ de sii dua-lankana so; na sɛ nwansena bia bɔ obi a, na ɔhwɛ nwansena mframa dɔkɔdɔkɔ no na ɔnya nkwa.","tokens":[{"surface":"ויעש","gloss":"yɛɛ"},{"surface":"משה","gloss":"Mosheh"},{"surface":"נחש","gloss":"nwansena"},{"surface":"נחשת","gloss":"mframa dɔkɔdɔkɔ"},{"surface":"וישמהו","gloss":"de sii"},{"surface":"על","gloss":"so"},{"surface":"הנס","gloss":"dua-lankana"},{"surface":"והיה","gloss":"na sɛ"},{"surface":"אם","gloss":"sɛ"},{"surface":"נשך","gloss":"bɔ"},{"surface":"הנחש","gloss":"nwansena no"},{"surface":"את","gloss":"⟨את⟩","marks":"obi"},{"surface":"איש","gloss":"obi"},{"surface":"והביט","gloss":"na ɔhwɛ"},{"surface":"אל","gloss":"(hwɛ)"},{"surface":"נחש","gloss":"nwansena"},{"surface":"הנחשת","gloss":"mframa dɔkɔdɔkɔ no"},{"surface":"וחי","gloss":"na ɔnya nkwa"}],"timestamp":"2026-09-15T21:35:14.437344688Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 21:9",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Mosheh yɛɛ nneɛma bɔne ⟨את⟩ nwansena mframa dɔkɔdɔkɔ de sii dua-lankana so; na sɛ nwansena bia bɔ obi a, na ɔhwɛ nwansena mframa dɔkɔdɔkɔ no na ɔnya nkwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nwansena"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mframa dɔkɔdɔkɔ"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "de sii"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הנס",
+      "gloss": "dua-lankana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nwansena no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obi"
+    },
+    {
+      "surface": "והביט",
+      "gloss": "na ɔhwɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(hwɛ)"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nwansena"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mframa dɔkɔdɔkɔ no"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na ɔnya nkwa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:14.437344688Z",
+  "model": "glm-5.3"
+}

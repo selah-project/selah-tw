@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "jeremiah 38:13", "book": "jeremiah", "lang": "tw", "chapter": 38, "translation": "Wɔtwaa ⟨את⟩ Yirmeyahu de mmoa mu, na wɔmaa no so firi tokuro no mu; na ⟨את⟩ Yirmeyahu tenaa aban no afiase.", "tokens": [{"surface": "וימשכו", "gloss": "wɔtwaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yirmeyahu"}, {"surface": "ירמיהו", "gloss": "Yirmeyahu"}, {"surface": "בחבלים", "gloss": "de mmoa mu"}, {"surface": "ויעלו", "gloss": "wɔmaa no so"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "Yirmeyahu"}, {"surface": "מן", "gloss": "firi"}, {"surface": "הבור", "gloss": "tokuro no mu"}, {"surface": "וישב", "gloss": "na ɔtenaa"}, {"surface": "ירמיהו", "gloss": "Yirmeyahu"}, {"surface": "בחצר", "gloss": "afiase"}, {"surface": "המטרה", "gloss": "aban no (abankɔgyafoɔ)"}], "timestamp": "2026-09-16T00:24:17.602954108Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Wɔtwaa ⟨את⟩ Yirmeyahu de mmoa mu, na wɔmaa no so firi tokuro no mu; na ⟨את⟩ Yirmeyahu tenaa aban no afiase.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "wɔtwaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "de mmoa mu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wɔmaa no so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "tokuro no mu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ɔtenaa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "afiase"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "aban no (abankɔgyafoɔ)"
+    }
+  ],
+  "timestamp": "2026-09-16T00:24:17.602954108Z",
+  "model": "glm-5.3"
+}

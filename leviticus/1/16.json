@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "leviticus 1:16", "book": "leviticus", "lang": "tw", "chapter": 1, "translation": "Na ɔbɛyi ⟨את⟩ ne yafunu mu nneɛma ne ne ntakra, na ɔde bɛto afɔdwa no ⟨את⟩ ho apueeɛ fam, baabi a wɔto nkukua no.", "tokens": [{"surface": "והסיר", "gloss": "ɔbɛyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne yafunu mu nneɛma"}, {"surface": "מראתו", "gloss": "ne yafunu mu nneɛma"}, {"surface": "בנצתה", "gloss": "ne ntakra"}, {"surface": "והשליך", "gloss": "na ɔde bɛto"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "no (deɛ wɔayi no)"}, {"surface": "אצל", "gloss": "ho"}, {"surface": "המזבח", "gloss": "afɔdwa no"}, {"surface": "קדמה", "gloss": "apueeɛ fam"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "מקום", "gloss": "baabi"}, {"surface": "הדשן", "gloss": "nkukua no"}], "timestamp": "2026-09-15T21:08:28.924933358Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na ɔbɛyi ⟨את⟩ ne yafunu mu nneɛma ne ne ntakra, na ɔde bɛto afɔdwa no ⟨את⟩ ho apueeɛ fam, baabi a wɔto nkukua no.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ɔbɛyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne yafunu mu nneɛma"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "ne yafunu mu nneɛma"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "ne ntakra"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "na ɔde bɛto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "no (deɛ wɔayi no)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔdwa no"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "apueeɛ fam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "nkukua no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:28.924933358Z",
+  "model": "glm-5.3"
+}

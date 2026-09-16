@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "nehemiah 13:11", "book": "nehemiah", "lang": "tw", "chapter": 13, "translation": "Na me ne ⟨את⟩ mpanimfoɔ no sii akyinnyeɛ, na mekaa sɛ: Adɛn nti na wɔagya Eloohim fie no gu? Na mboabuu wɔn ho, na mesii wɔn wɔ wɔn gyinabea so.", "tokens": [{"surface": "ואריבה", "gloss": "na me ne wɔn sii akyinnyeɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mpanimfoɔ no"}, {"surface": "הסגנים", "gloss": "mpanimfoɔ no"}, {"surface": "ואמרה", "gloss": "na mekaa"}, {"surface": "מדוע", "gloss": "adɛn nti"}, {"surface": "נעזב", "gloss": "wɔagya gu"}, {"surface": "בית", "gloss": "fie"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "ואקבצם", "gloss": "na mboabuu wɔn ho"}, {"surface": "ואעמדם", "gloss": "na mesii wɔn"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "עמדם", "gloss": "wɔn gyinabea"}], "timestamp": "2026-09-16T04:33:49.301121445Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na me ne ⟨את⟩ mpanimfoɔ no sii akyinnyeɛ, na mekaa sɛ: Adɛn nti na wɔagya Eloohim fie no gu? Na mboabuu wɔn ho, na mesii wɔn wɔ wɔn gyinabea so.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "na me ne wɔn sii akyinnyeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanimfoɔ no"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "mpanimfoɔ no"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "na mekaa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "adɛn nti"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "wɔagya gu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "na mboabuu wɔn ho"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "na mesii wɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "wɔn gyinabea"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:49.301121445Z",
+  "model": "glm-5.3"
+}

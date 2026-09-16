@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":26,"ref":"leviticus 13:26","book":"leviticus","lang":"tw","chapter":13,"translation":"Na sɛ sɔfoɔ no hwɛ no, na hwɛ, sɛ ntɛtɛ fitaa nni bɛntuma no mu, na ɛnni fam wɔ dwuma no ase, na mmom ɛyɛ sumen so a, sɔfoɔ no bɛsie no nnawɔtwe.","tokens":[{"surface":"ואם","gloss":"na sɛ"},{"surface":"יראנה","gloss":"hwɛ"},{"surface":"הכהן","gloss":"sɔfoɔ no"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"אין","gloss":"nni"},{"surface":"בבהרת","gloss":"wɔ bɛntuma no mu"},{"surface":"שער","gloss":"ntɛtɛ"},{"surface":"לבן","gloss":"fitaa"},{"surface":"ושפלה","gloss":"na ɛnni fam"},{"surface":"איננה","gloss":"ɛnni"},{"surface":"מן","gloss":"wɔ"},{"surface":"העור","gloss":"dwuma no ase"},{"surface":"והוא","gloss":"na mmom ɛ"},{"surface":"כהה","gloss":"yɛ sumen so"},{"surface":"והסגירו","gloss":"bɛsie no"},{"surface":"הכהן","gloss":"sɔfoɔ no"},{"surface":"שבעת","gloss":"nnawɔtwe"},{"surface":"ימים","gloss":"nnawɔtwe"}],"timestamp":"2026-09-15T21:15:20.734087976Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 13:26",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na sɛ sɔfoɔ no hwɛ no, na hwɛ, sɛ ntɛtɛ fitaa nni bɛntuma no mu, na ɛnni fam wɔ dwuma no ase, na mmom ɛyɛ sumen so a, sɔfoɔ no bɛsie no nnawɔtwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sɔfoɔ no"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "wɔ bɛntuma no mu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ntɛtɛ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fitaa"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "na ɛnni fam"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ɛnni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "dwuma no ase"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na mmom ɛ"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "yɛ sumen so"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "bɛsie no"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sɔfoɔ no"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nnawɔtwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnawɔtwe"
+    }
+  ],
+  "timestamp": "2026-09-15T21:15:20.734087976Z",
+  "model": "glm-5.3"
+}

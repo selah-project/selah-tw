@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "exodus 14:20", "book": "exodus", "lang": "tw", "chapter": 14, "translation": "Ɛbaa Misraim asɔre ne Yisrael asɔre ntam; na osuo no ne sum no wɔ hɔ, na ɛmaa ⟨את⟩ anadwo no hyɛɛ nkan, na ɛberɛ korɔ no biara antumi annɛ obiara da anadwo no mu nyinaa.", "tokens": [{"surface": "ויבא", "gloss": "Ɛbaa... ntam"}, {"surface": "בין", "gloss": "ntam"}, {"surface": "מחנה", "gloss": "asɔre"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "ובין", "gloss": "ne ... ntam"}, {"surface": "מחנה", "gloss": "asɔre"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "ויהי", "gloss": "na ... wɔ hɔ"}, {"surface": "הענן", "gloss": "osuo no"}, {"surface": "והחשך", "gloss": "ne sum no"}, {"surface": "ויאר", "gloss": "na ɛmaa... hyɛɛ nkan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "anadwo no"}, {"surface": "הלילה", "gloss": "anadwo no"}, {"surface": "ולא", "gloss": "na ... annɛ"}, {"surface": "קרב", "gloss": "antumi annɛ obiara"}, {"surface": "זה", "gloss": "korɔ no baako"}, {"surface": "אל", "gloss": ""}, {"surface": "זה", "gloss": "korɔ no baako"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הלילה", "gloss": "anadwo no mu nyinaa"}], "timestamp": "2026-09-15T20:50:31.211199434Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ɛbaa Misraim asɔre ne Yisrael asɔre ntam; na osuo no ne sum no wɔ hɔ, na ɛmaa ⟨את⟩ anadwo no hyɛɛ nkan, na ɛberɛ korɔ no biara antumi annɛ obiara da anadwo no mu nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ɛbaa... ntam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "asɔre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne ... ntam"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "asɔre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ... wɔ hɔ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "osuo no"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "ne sum no"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "na ɛmaa... hyɛɛ nkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anadwo no"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... annɛ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "antumi annɛ obiara"
+    },
+    {
+      "surface": "זה",
+      "gloss": "korɔ no baako"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "זה",
+      "gloss": "korɔ no baako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "anadwo no mu nyinaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:31.211199434Z",
+  "model": "glm-5.3"
+}

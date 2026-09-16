@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":49,"ref":"genesis 24:49","book":"genesis","lang":"tw","chapter":24,"translation":"Na seɛ yi, sɛ moyɛ hesed ne nokorɛ ma ⟨את⟩ me wura a, ka kyerɛ me; sɛ ɛnyɛ saa a, ka kyerɛ me, na matwe me ho akɔ nifa so anaa benkum so.","tokens":[{"surface":"ועתה","gloss":"Na seɛ yi"},{"surface":"אם","gloss":"sɛ"},{"surface":"ישכם","gloss":"moyɛ"},{"surface":"עשים","gloss":"moyɛ"},{"surface":"חסד","gloss":"hesed ⟨⟩"},{"surface":"ואמת","gloss":"ne nokorɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"me wura"},{"surface":"אדני","gloss":"me wura"},{"surface":"הגידו","gloss":"ka kyerɛ"},{"surface":"לי","gloss":"me"},{"surface":"ואם","gloss":"sɛ ɛnyɛ saa a"},{"surface":"לא","gloss":"ɛnyɛ saa"},{"surface":"הגידו","gloss":"ka kyerɛ"},{"surface":"לי","gloss":"me"},{"surface":"ואפנה","gloss":"na matwe me ho"},{"surface":"על","gloss":"kɔ"},{"surface":"ימין","gloss":"nifa so"},{"surface":"או","gloss":"anaa"},{"surface":"על","gloss":"kɔ"},{"surface":"שמאל","gloss":"benkum so"}],"timestamp":"2026-09-15T20:25:02.971509265Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 24:49",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na seɛ yi, sɛ moyɛ hesed ne nokorɛ ma ⟨את⟩ me wura a, ka kyerɛ me; sɛ ɛnyɛ saa a, ka kyerɛ me, na matwe me ho akɔ nifa so anaa benkum so.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seɛ yi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ישכם",
+      "gloss": "moyɛ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "moyɛ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed ⟨⟩"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ne nokorɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me wura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ka kyerɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sɛ ɛnyɛ saa a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ saa"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ka kyerɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואפנה",
+      "gloss": "na matwe me ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nifa so"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "שמאל",
+      "gloss": "benkum so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:02.971509265Z",
+  "model": "glm-5.3"
+}

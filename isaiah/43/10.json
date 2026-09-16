@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 43:10","book":"isaiah","lang":"tw","chapter":43,"translation":"Moadan me adansedifoɔ, Yawe ka sɛ, ne me akoa a mepaw no; sɛ moyɛ mo nim, na mode mo gyidi to me so, na mote ase sɛ me ne ⟨onipa⟩ no; ansa na me nhyɛaseɛ obianni bɔɔ El, na wɔ me akyiri nso obiara nnyɛ.","tokens":[{"surface":"אתם","gloss":"Moadan"},{"surface":"עדי","gloss":"me adansedifoɔ"},{"surface":"נאם","gloss":"ka sɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"ועבדי","gloss":"ne me akoa"},{"surface":"אשר","gloss":"a"},{"surface":"בחרתי","gloss":"mepaw no"},{"surface":"למען","gloss":"sɛ"},{"surface":"תדעו","gloss":"moyɛ mo nim"},{"surface":"ותאמינו","gloss":"na mode mo gyidi to me so"},{"surface":"לי","gloss":"me so"},{"surface":"ותבינו","gloss":"na mote ase"},{"surface":"כי","gloss":"sɛ"},{"surface":"אני","gloss":"me ne"},{"surface":"הוא","gloss":"no onipa no"},{"surface":"לפני","gloss":"ansa na me nhyɛaseɛ"},{"surface":"לא","gloss":"nn"},{"surface":"נוצר","gloss":"obianni bɔɔ"},{"surface":"אל","gloss":"El"},{"surface":"ואחרי","gloss":"na wɔ me akyiri nso"},{"surface":"לא","gloss":"nn"},{"surface":"יהיה","gloss":"nnyɛ"}],"timestamp":"2026-09-15T23:55:48.034400031Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 43,
+  "translation": "Moadan me adansedifoɔ, Yawe ka sɛ, ne me akoa a mepaw no; sɛ moyɛ mo nim, na mode mo gyidi to me so, na mote ase sɛ me ne ⟨onipa⟩ no; ansa na me nhyɛaseɛ obianni bɔɔ El, na wɔ me akyiri nso obiara nnyɛ.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Moadan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "me adansedifoɔ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ne me akoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mepaw no"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "moyɛ mo nim"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "na mode mo gyidi to me so"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me so"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "na mote ase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no onipa no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ansa na me nhyɛaseɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "obianni bɔɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na wɔ me akyiri nso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nnyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T23:55:48.034400031Z",
+  "model": "glm-5.3"
+}

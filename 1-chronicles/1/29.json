@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":29,"ref":"1-chronicles 1:29","book":"1-chronicles","lang":"tw","chapter":1,"translation":"Saa ara na wɔn n aseɛ teɛ: Jishmael bɛkorɔfoɔ ⟨ne⟩ Nebajot, Kedar, Adbeel, Mibsam.","tokens":[{"surface":"אלה","gloss":"Saa ara"},{"surface":"תלדותם","gloss":"wɔn n aseɛ teɛ"},{"surface":"בכור","gloss":"bɛkorɔfoɔ"},{"surface":"ישמעאל","gloss":"Jishmael"},{"surface":"נביות","gloss":"Nebajot"},{"surface":"וקדר","gloss":"Kedar"},{"surface":"ואדבאל","gloss":"Adbeel"},{"surface":"ומבשם","gloss":"Mibsam"}],"timestamp":"2026-09-16T04:33:47.649675476Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 1:29",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Saa ara na wɔn n aseɛ teɛ: Jishmael bɛkorɔfoɔ ⟨ne⟩ Nebajot, Kedar, Adbeel, Mibsam.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Saa ara"
+    },
+    {
+      "surface": "תלדותם",
+      "gloss": "wɔn n aseɛ teɛ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bɛkorɔfoɔ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebajot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "Adbeel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "Mibsam"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:47.649675476Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":33,"ref":"genesis 21:33","book":"genesis","lang":"tw","chapter":21,"translation":"Na Abraham duaa esel-dua wɔ Beer-Sheba, na ɔfrɛɛ Yawe din wɔ hɔ, El Olam (Eloohim a ɛda hɔ daa).","tokens":[{"surface":"ויטע","gloss":"duaa"},{"surface":"אשל","gloss":"esel-dua"},{"surface":"בבאר","gloss":"wɔ Beer-"},{"surface":"שבע","gloss":"Sheba"},{"surface":"ויקרא","gloss":"na ɔfrɛɛ"},{"surface":"שם","gloss":"wɔ hɔ"},{"surface":"בשם","gloss":"din"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אל","gloss":"El"},{"surface":"עולם","gloss":"Olam"}],"timestamp":"2026-09-15T20:22:38.300965636Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Na Abraham duaa esel-dua wɔ Beer-Sheba, na ɔfrɛɛ Yawe din wɔ hɔ, El Olam (Eloohim a ɛda hɔ daa).",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "duaa"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "esel-dua"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "wɔ Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na ɔfrɛɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:38.300965636Z",
+  "model": "glm-5.3"
+}

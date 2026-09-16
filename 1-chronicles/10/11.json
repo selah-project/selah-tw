@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "1-chronicles 10:11", "book": "1-chronicles", "lang": "tw", "chapter": 10, "translation": "Na Yabesh-Gilead no nyinaa tee ⟨את⟩ deɛ Peleshtimfoɔ yɛɛ Saul nyinaa.", "tokens": [{"surface": "וישמעו", "gloss": "tee"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "יביש", "gloss": "Yabesh"}, {"surface": "גלעד", "gloss": "Gilead"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ nyinaa"}, {"surface": "כל", "gloss": "deɛ nyinaa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשו", "gloss": "yɛe"}, {"surface": "פלשתים", "gloss": "Peleshtimfoɔ"}, {"surface": "לשאול", "gloss": "Saul"}], "timestamp": "2026-09-16T04:40:03.876586471Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Yabesh-Gilead no nyinaa tee ⟨את⟩ deɛ Peleshtimfoɔ yɛɛ Saul nyinaa.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "tee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "deɛ nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yɛe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtimfoɔ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:03.876586471Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,87 @@
-{"tier":"glm-5.2","verse":9,"ref":"exodus 2:9","book":"exodus","lang":"tw","chapter":2,"translation":"Paroh babaa no kaa sɛ: “Fa ⟨את⟩ abɔfra yi kɔ, na susuw no ma me, na me de ⟨את⟩ wo akatua bɛtua.” Na ɔbaa no faa abɔfra no, na ɔsusuuae no.","tokens":[{"surface":"ותאמר","gloss":"kaa"},{"surface":"לה","gloss":"no"},{"surface":"בת","gloss":"babaa"},{"surface":"פרעה","gloss":"Paroh"},{"surface":"היליכי","gloss":"fa kɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"abɔfra yi"},{"surface":"הילד","gloss":"abɔfra"},{"surface":"הזה","gloss":"yi"},{"surface":"והינקהו","gloss":"na susuw no"},{"surface":"לי","gloss":"ma me"},{"surface":"ואני","gloss":"na me"},{"surface":"אתן","gloss":"de"},{"surface":"את","gloss":"⟨את⟩","marks":"wo akatua"},{"surface":"שכרך","gloss":"wo akatua"},{"surface":"ותקח","gloss":"na ɔfaa"},{"surface":"האשה","gloss":"ɔbaa no"},{"surface":"הילד","gloss":"abɔfra no"},{"surface":"ותניקהו","gloss":"na ɔsusuuae no"}],"timestamp":"2026-09-15T20:42:30.438686237Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Paroh babaa no kaa sɛ: “Fa ⟨את⟩ abɔfra yi kɔ, na susuw no ma me, na me de ⟨את⟩ wo akatua bɛtua.” Na ɔbaa no faa abɔfra no, na ɔsusuuae no.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "no"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "fa kɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abɔfra yi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "abɔfra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "na susuw no"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo akatua"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "wo akatua"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "na ɔfaa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "abɔfra no"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "na ɔsusuuae no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:30.438686237Z",
+  "model": "glm-5.3"
+}

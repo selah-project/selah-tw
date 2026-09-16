@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"exodus 17:8","book":"exodus","lang":"tw","chapter":17,"translation":"Amalek baa, ɛne Yisrael kɔɔ ko wɔ Refidim.","tokens":[{"surface":"ויבא","gloss":"baa"},{"surface":"עמלק","gloss":"Amalek"},{"surface":"וילחם","gloss":"kɔɔ ko"},{"surface":"עם","gloss":"ne"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ברפידם","gloss":"wɔ Refidim"}],"timestamp":"2026-09-15T20:52:34.428896717Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Amalek baa, ɛne Yisrael kɔɔ ko wɔ Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "kɔɔ ko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "wɔ Refidim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:34.428896717Z",
+  "model": "glm-5.3"
+}

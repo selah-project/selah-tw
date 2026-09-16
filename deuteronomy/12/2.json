@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "deuteronomy 12:2", "book": "deuteronomy", "lang": "tw", "chapter": 12, "translation": "Monɔsɛe ara na monɔsɛe ⟨את⟩ beaeɛ ⟨את⟩ nyinaa a aman no a mo bɛhyɛ wɔn aseɛ som wɔn anyame wɔ hɔ, ⟨את⟩ wɔn anyame no, wɔ mmepɔ a ɛsoɔ ne mmepɔ nketewa so, na nnua a ahahamoro nyinaa ase.", "tokens": [{"surface": "אבד", "gloss": "monɔsɛe"}, {"surface": "תאבדון", "gloss": "ara na monɔsɛe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "beaeɛ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "המקמות", "gloss": "beaeɛ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עבדו", "gloss": "som"}, {"surface": "שם", "gloss": "wɔ hɔ"}, {"surface": "הגוים", "gloss": "aman no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתם", "gloss": "mo"}, {"surface": "ירשים", "gloss": "bɛhyɛ wɔn aseɛ"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn anyame no"}, {"surface": "אלהיהם", "gloss": "wɔn anyame"}, {"surface": "על", "gloss": "so"}, {"surface": "ההרים", "gloss": "mmepɔ"}, {"surface": "הרמים", "gloss": "a ɛsoɔ"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "הגבעות", "gloss": "mmepɔ nketewa"}, {"surface": "ותחת", "gloss": "na ... ase"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עץ", "gloss": "nnua"}, {"surface": "רענן", "gloss": "a ahahamoro"}], "timestamp": "2026-09-15T21:51:39.809403001Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 12:2",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Monɔsɛe ara na monɔsɛe ⟨את⟩ beaeɛ ⟨את⟩ nyinaa a aman no a mo bɛhyɛ wɔn aseɛ som wɔn anyame wɔ hɔ, ⟨את⟩ wɔn anyame no, wɔ mmepɔ a ɛsoɔ ne mmepɔ nketewa so, na nnua a ahahamoro nyinaa ase.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "monɔsɛe"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ara na monɔsɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beaeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "beaeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ירשים",
+      "gloss": "bɛhyɛ wɔn aseɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn anyame no"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "wɔn anyame"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mmepɔ"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "a ɛsoɔ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "mmepɔ nketewa"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na ... ase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "a ahahamoro"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:39.809403001Z",
+  "model": "glm-5.3"
+}

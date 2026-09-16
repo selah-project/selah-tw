@@ -1,1 +1,104 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "exodus 13:19", "book": "exodus", "lang": "tw", "chapter": 13, "translation": "Mose faa ⟨את⟩ Yosef ⟨את⟩ nnompe no, na ɛne no kɔeɛ; ɛfiri sɛ wɔde ntam hyɛɛ Yisrael mma so kɛseɛ sɛ: 'Eloohim bɛsɔ mo ahwɛ nokorɛ; na mo de ⟨את⟩ me ⟨את⟩ nnompe no mfiri ha na ⟨את⟩ mo ne me nkom.'", "tokens": [{"surface": "ויקח", "gloss": "faa"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yosef nnompe no"}, {"surface": "עצמות", "gloss": "nnompe"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "עמו", "gloss": "na ɛne no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "השבע", "gloss": "ntam"}, {"surface": "השביע", "gloss": "hyɛɛ so kɛseɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael mma"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "פקד", "gloss": "bɛsɔ ahwɛ"}, {"surface": "יפקד", "gloss": "nokorɛ"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "והעליתם", "gloss": "mo de ... mfiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nnompe no"}, {"surface": "עצמתי", "gloss": "me nnompe"}, {"surface": "מזה", "gloss": "firi ha"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo ne me nkom"}], "timestamp": "2026-09-15T20:50:14.828858602Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Mose faa ⟨את⟩ Yosef ⟨את⟩ nnompe no, na ɛne no kɔeɛ; ɛfiri sɛ wɔde ntam hyɛɛ Yisrael mma so kɛseɛ sɛ: 'Eloohim bɛsɔ mo ahwɛ nokorɛ; na mo de ⟨את⟩ me ⟨את⟩ nnompe no mfiri ha na ⟨את⟩ mo ne me nkom.'",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef nnompe no"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "nnompe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ɛne no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "hyɛɛ so kɛseɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "bɛsɔ ahwɛ"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "nokorɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "mo de ... mfiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nnompe no"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "me nnompe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "firi ha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo ne me nkom"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:14.828858602Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":5,"ref":"jeremiah 51:5","book":"jeremiah","lang":"tw","chapter":51,"translation":"Ɛfiri sɛ Yisraɛl nnyaa gua, na Yuda nso nnyaa gua firi ne Eloohim nkyɛn, firi Yawe a ɔyɛ asraafoɔ Awurafoɔ no nkyɛn; ɛfiri sɛ wɔn asase ayɛ ma mfomsoɔ so wɔ Yisraɛl Kronkrondi no anim.","tokens":[{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"לא","gloss":"nn"},{"surface":"אלמן","gloss":"nyaa gua"},{"surface":"ישראל","gloss":"Yisraɛl"},{"surface":"ויהודה","gloss":"na Yuda nso"},{"surface":"מאלהיו","gloss":"firi ne Eloohim nkyɛn"},{"surface":"מיהוה","gloss":"firi Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"ארצם","gloss":"wɔn asase"},{"surface":"מלאה","gloss":"ayɛ ma"},{"surface":"אשם","gloss":"mfomsoɔ so"},{"surface":"מקדוש","gloss":"wɔ ... Kronkrondi no anim"},{"surface":"ישראל","gloss":"Yisraɛl"}],"timestamp":"2026-09-16T00:30:29.440442576Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 51:5",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 51,
+  "translation": "Ɛfiri sɛ Yisraɛl nnyaa gua, na Yuda nso nnyaa gua firi ne Eloohim nkyɛn, firi Yawe a ɔyɛ asraafoɔ Awurafoɔ no nkyɛn; ɛfiri sɛ wɔn asase ayɛ ma mfomsoɔ so wɔ Yisraɛl Kronkrondi no anim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "אלמן",
+      "gloss": "nyaa gua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yuda nso"
+    },
+    {
+      "surface": "מאלהיו",
+      "gloss": "firi ne Eloohim nkyɛn"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "firi Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "wɔn asase"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ayɛ ma"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "mfomsoɔ so"
+    },
+    {
+      "surface": "מקדוש",
+      "gloss": "wɔ ... Kronkrondi no anim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-16T00:30:29.440442576Z",
+  "model": "glm-5.3"
+}

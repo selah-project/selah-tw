@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":3,"ref":"jeremiah 7:3","book":"jeremiah","lang":"tw","chapter":7,"translation":"Sɛnea Yawe Asraafoɔ, Israel Eloohim, ka sɛ: Monyɛ mo akwan ne mo nnwuma pa, na mɛma mo atena ⟨את⟩ wɔ baabi yi mu.","tokens":[{"surface":"כה","gloss":"Sɛnea"},{"surface":"אמר","gloss":"ka sɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"ישראל","gloss":"Israel"},{"surface":"היטיבו","gloss":"Monyɛ … pa"},{"surface":"דרכיכם","gloss":"mo akwan"},{"surface":"ומעלליכם","gloss":"ne mo nnwuma"},{"surface":"ואשכנה","gloss":"na mɛma mo atena"},{"surface":"אתכם","gloss":"⟨את⟩","marks":"mo"},{"surface":"במקום","gloss":"wɔ baabi"},{"surface":"הזה","gloss":"yi mu"}],"timestamp":"2026-09-16T05:29:00.341998552Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Sɛnea Yawe Asraafoɔ, Israel Eloohim, ka sɛ: Monyɛ mo akwan ne mo nnwuma pa, na mɛma mo atena ⟨את⟩ wɔ baabi yi mu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "Monyɛ … pa"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mo akwan"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "ne mo nnwuma"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "na mɛma mo atena"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ baabi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:29:00.341998552Z",
+  "model": "glm-5.3"
+}

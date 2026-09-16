@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":20,"ref":"exodus 15:20","book":"exodus","lang":"tw","chapter":15,"translation":"Na Miriam, ɔsansɔfoɔ, Aaron nuabea, faa ⟨את⟩ twerɛdua-to no wɔ ne nsa mu, na mmea no nyinaa baa ne akyi, na twerɛdua-to ne asaw akɛseɛ.","tokens":[{"surface":"ותקח","gloss":"faa"},{"surface":"מרים","gloss":"Miriam"},{"surface":"הנביאה","gloss":"ɔsansɔfoɔ"},{"surface":"אחות","gloss":"nuabea"},{"surface":"אהרן","gloss":"Aaron"},{"surface":"את","gloss":"⟨את⟩","marks":"twerɛdua-to no"},{"surface":"התף","gloss":"twerɛdua-to no"},{"surface":"בידה","gloss":"ne nsa mu"},{"surface":"ותצאן","gloss":"baa ne akyi"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הנשים","gloss":"mmea no"},{"surface":"אחריה","gloss":"ne akyi"},{"surface":"בתפים","gloss":"twerɛdua-to"},{"surface":"ובמחלת","gloss":"asaw akɛseɛ"}],"timestamp":"2026-09-15T20:50:18.499416598Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na Miriam, ɔsansɔfoɔ, Aaron nuabea, faa ⟨את⟩ twerɛdua-to no wɔ ne nsa mu, na mmea no nyinaa baa ne akyi, na twerɛdua-to ne asaw akɛseɛ.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "ɔsansɔfoɔ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nuabea"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twerɛdua-to no"
+    },
+    {
+      "surface": "התף",
+      "gloss": "twerɛdua-to no"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "ne nsa mu"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "baa ne akyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mmea no"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ne akyi"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "twerɛdua-to"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "asaw akɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:50:18.499416598Z",
+  "model": "glm-5.3"
+}

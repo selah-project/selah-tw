@@ -1,1 +1,104 @@
-{"tier": "glm-5.2", "verse": 39, "ref": "numbers 15:39", "book": "numbers", "lang": "tw", "chapter": 15, "translation": "Na ɛbɛyɛ tzitzit ma mo, na moanhunu ⟨את⟩ no na moakae Yawe nhyehyɛeɛ ⟨את⟩ no nyinaa na moayɛ ⟨את⟩ no; na moannwene mo akoma akyi na moani akyi, a moahunu awareɔ-kɔso wɔ so di akyi;", "tokens": [{"surface": "והיה", "gloss": "Na ɛbɛyɛ"}, {"surface": "לכם", "gloss": "ma mo"}, {"surface": "לציצת", "gloss": "tzitzit"}, {"surface": "וראיתם", "gloss": "na moanhunu"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "no (tzitzit no)"}, {"surface": "וזכרתם", "gloss": "na moakae"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe nhyehyɛeɛ no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מצות", "gloss": "nhyehyɛeɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ועשיתם", "gloss": "na moayɛ"}, {"surface": "אתם", "gloss": "⟨את⟩ no", "marks": "no (nhyehyɛeɛ no)"}, {"surface": "ולא", "gloss": "na moannwene"}, {"surface": "תתרו", "gloss": "moannwene akyi"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "לבבכם", "gloss": "mo akoma"}, {"surface": "ואחרי", "gloss": "na ... akyi"}, {"surface": "עיניכם", "gloss": "moani"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתם", "gloss": "moahunu"}, {"surface": "זנים", "gloss": "awareɔ-kɔso wɔ so di"}, {"surface": "אחריהם", "gloss": "wɔn akyi"}], "timestamp": "2026-09-15T21:34:18.041740747Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 15:39",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na ɛbɛyɛ tzitzit ma mo, na moanhunu ⟨את⟩ no na moakae Yawe nhyehyɛeɛ ⟨את⟩ no nyinaa na moayɛ ⟨את⟩ no; na moannwene mo akoma akyi na moani akyi, a moahunu awareɔ-kɔso wɔ so di akyi;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo"
+    },
+    {
+      "surface": "לציצת",
+      "gloss": "tzitzit"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "na moanhunu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (tzitzit no)"
+    },
+    {
+      "surface": "וזכרתם",
+      "gloss": "na moakae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nhyehyɛeɛ no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nhyehyɛeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na moayɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (nhyehyɛeɛ no)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na moannwene"
+    },
+    {
+      "surface": "תתרו",
+      "gloss": "moannwene akyi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mo akoma"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na ... akyi"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "moani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "moahunu"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "awareɔ-kɔso wɔ so di"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "wɔn akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:34:18.041740747Z",
+  "model": "glm-5.3"
+}

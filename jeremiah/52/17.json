@@ -1,1 +1,101 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "jeremiah 52:17", "book": "jeremiah", "lang": "tw", "chapter": 52, "translation": "Kasdimfoɔ no bɔɔ ⟨את⟩ kɔla nnyinasodua a na ɛwɔ Yawe fie no mu, ⟨את⟩ ne ⟨את⟩ nnyinasoɔ no, ne ⟨את⟩ kɔla Yam ⟨asaawa⟩ no a na ɛwɔ Yawe fie no mu, na wɔde wɔn kɔla no nyinaa kɔɔ Babilon.", "tokens": [{"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "kɔla nnyinasodua"}, {"surface": "עמודי", "gloss": "nnyinasodua"}, {"surface": "הנחשת", "gloss": "kɔla"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לבית", "gloss": "ɛwɔ fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "nnyinasoɔ no"}, {"surface": "המכנות", "gloss": "nnyinasoɔ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "kɔla asaawa no"}, {"surface": "ים", "gloss": "Yam ⟨asaawa⟩"}, {"surface": "הנחשת", "gloss": "kɔla"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בבית", "gloss": "wɔ fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "שברו", "gloss": "bɔɔ"}, {"surface": "כשדים", "gloss": "Kasdimfoɔ"}, {"surface": "וישאו", "gloss": "na wɔde ... kɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kɔla no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "נחשתם", "gloss": "wɔn kɔla"}, {"surface": "בבלה", "gloss": "Babilon"}], "timestamp": "2026-09-16T05:31:22.863371266Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 52:17",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Kasdimfoɔ no bɔɔ ⟨את⟩ kɔla nnyinasodua a na ɛwɔ Yawe fie no mu, ⟨את⟩ ne ⟨את⟩ nnyinasoɔ no, ne ⟨את⟩ kɔla Yam ⟨asaawa⟩ no a na ɛwɔ Yawe fie no mu, na wɔde wɔn kɔla no nyinaa kɔɔ Babilon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "kɔla nnyinasodua"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "nnyinasodua"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ɛwɔ fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "nnyinasoɔ no"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "kɔla asaawa no"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam ⟨asaawa⟩"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdimfoɔ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "na wɔde ... kɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɔla no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "wɔn kɔla"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-16T05:31:22.863371266Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":1,"ref":"proverbs 14:1","book":"proverbs","lang":"tw","chapter":14,"translation":"Ɔbea a ɔwɔ nyansa si ⟨ne⟩ fie; nanso ɔberɛfoɔ de ne nsa bubua mu.","tokens":[{"surface":"חכמות","gloss":"nyansa"},{"surface":"נשים","gloss":"ɔbea"},{"surface":"בנתה","gloss":"si"},{"surface":"ביתה","gloss":"ne fie"},{"surface":"ואולת","gloss":"nanso ɔberɛfoɔ"},{"surface":"בידיה","gloss":"de ne nsa"},{"surface":"תהרסנו","gloss":"bubua mu"}],"timestamp":"2026-09-16T02:52:58.376618313Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ɔbea a ɔwɔ nyansa si ⟨ne⟩ fie; nanso ɔberɛfoɔ de ne nsa bubua mu.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ɔbea"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "nanso ɔberɛfoɔ"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "de ne nsa"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "bubua mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:52:58.376618313Z",
+  "model": "glm-5.3"
+}

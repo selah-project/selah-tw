@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "esther 9:31", "book": "esther", "lang": "tw", "chapter": 9, "translation": "Sɛdeɛ wɔbɛsi Puriim ⟨את⟩ da yi atimesɛm wɔ wɔn bere so — sɛnea Mordekai ɔyehudini ne Ester ɔhemmaa siwɔ so — ne sɛdeɛ wɔde bɔɔ wɔn ankasa ne wɔn nkwadaa ho bɔhyɛ: ɛboɔ nsɛm ne wɔn tesɛm.", "tokens": [{"surface": "לקים", "gloss": "Sɛdeɛ wɔbɛsi...so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Puriim da yi"}, {"surface": "ימי", "gloss": "da"}, {"surface": "הפרים", "gloss": "Puriim"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "בזמניהם", "gloss": "wɔn bere so"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "קים", "gloss": "siwɔ so"}, {"surface": "עליהם", "gloss": "so"}, {"surface": "מרדכי", "gloss": "Mordekai"}, {"surface": "היהודי", "gloss": "ɔyehudini"}, {"surface": "ואסתר", "gloss": "ne Ester"}, {"surface": "המלכה", "gloss": "ɔhemmaa"}, {"surface": "וכאשר", "gloss": "ne sɛdeɛ"}, {"surface": "קימו", "gloss": "bɔɔ bɔhyɛ"}, {"surface": "על", "gloss": "ho"}, {"surface": "נפשם", "gloss": "wɔn ankasa"}, {"surface": "ועל", "gloss": "ne"}, {"surface": "זרעם", "gloss": "wɔn nkwadaa"}, {"surface": "דברי", "gloss": "nsɛm"}, {"surface": "הצמות", "gloss": "ɛboɔ"}, {"surface": "וזעקתם", "gloss": "ne wɔn tesɛm"}], "timestamp": "2026-09-16T04:03:18.853968908Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "esther 9:31",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Sɛdeɛ wɔbɛsi Puriim ⟨את⟩ da yi atimesɛm wɔ wɔn bere so — sɛnea Mordekai ɔyehudini ne Ester ɔhemmaa siwɔ so — ne sɛdeɛ wɔde bɔɔ wɔn ankasa ne wɔn nkwadaa ho bɔhyɛ: ɛboɔ nsɛm ne wɔn tesɛm.",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "Sɛdeɛ wɔbɛsi...so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Puriim da yi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הפרים",
+      "gloss": "Puriim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "בזמניהם",
+      "gloss": "wɔn bere so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "קים",
+      "gloss": "siwɔ so"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "so"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "ɔyehudini"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ne Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ɔhemmaa"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ne sɛdeɛ"
+    },
+    {
+      "surface": "קימו",
+      "gloss": "bɔɔ bɔhyɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "wɔn ankasa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "wɔn nkwadaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הצמות",
+      "gloss": "ɛboɔ"
+    },
+    {
+      "surface": "וזעקתם",
+      "gloss": "ne wɔn tesɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T04:03:18.853968908Z",
+  "model": "glm-5.3"
+}

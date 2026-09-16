@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "leviticus 20:22", "book": "leviticus", "lang": "tw", "chapter": 20, "translation": "Enti monhwɛ ⟨את⟩ me mmara ⟨את⟩ nyinaa ne ⟨את⟩ me atemmu ⟨את⟩ nyinaa so, na moye ⟨את⟩ no; na ɛma asase a mede mo rekɔ hɔ tena no rentow mo ho agu.", "tokens": [{"surface": "ושמרתם", "gloss": "monhwɛ so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me mmara nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "חקתי", "gloss": "me mmara"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "me atemmu nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "משפטי", "gloss": "me atemmu"}, {"surface": "ועשיתם", "gloss": "na moye"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "ולא", "gloss": "na ... ren"}, {"surface": "תקיא", "gloss": "ntow mo ho agu"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אני", "gloss": "me"}, {"surface": "מביא", "gloss": "de mo rekɔ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "שמה", "gloss": "hɔ"}, {"surface": "לשבת", "gloss": "sɛ motea"}, {"surface": "בה", "gloss": "so"}], "timestamp": "2026-09-15T21:20:43.309686594Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Enti monhwɛ ⟨את⟩ me mmara ⟨את⟩ nyinaa ne ⟨את⟩ me atemmu ⟨את⟩ nyinaa so, na moye ⟨את⟩ no; na ɛma asase a mede mo rekɔ hɔ tena no rentow mo ho agu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "monhwɛ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me mmara nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "me mmara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me atemmu nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "me atemmu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na moye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... ren"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "ntow mo ho agu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "de mo rekɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sɛ motea"
+    },
+    {
+      "surface": "בה",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:20:43.309686594Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "deuteronomy 8:19", "book": "deuteronomy", "lang": "tw", "chapter": 8, "translation": "Na ɛbɛba sɛ sɛ wowerɛ ⟨את⟩ Yawe wo Eloohim, na wodi Eloohim afoforo akyi, na wosom wɔn, na wobutu ase kyerɛ wɔn a, mede m'adanseɛ gu mo so nnɛ yi sɛ mobɛhwerɛ ara.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛba"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "שכח", "gloss": "werɛ"}, {"surface": "תשכח", "gloss": "wowerɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיך", "gloss": "wo Eloohim"}, {"surface": "והלכת", "gloss": "na wodi"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אחרים", "gloss": "afoforo"}, {"surface": "ועבדתם", "gloss": "na wosom"}, {"surface": "והשתחוית", "gloss": "na wobutu ase"}, {"surface": "להם", "gloss": "kyerɛ wɔn"}, {"surface": "העדתי", "gloss": "meda m'adanseɛ"}, {"surface": "בכם", "gloss": "gu mo so"}, {"surface": "היום", "gloss": "nnɛ"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "אבד", "gloss": "hwerɛ"}, {"surface": "תאבדון", "gloss": "mobɛhwerɛ ara"}], "timestamp": "2026-09-15T21:49:34.973316932Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɛbɛba sɛ sɛ wowerɛ ⟨את⟩ Yawe wo Eloohim, na wodi Eloohim afoforo akyi, na wosom wɔn, na wobutu ase kyerɛ wɔn a, mede m'adanseɛ gu mo so nnɛ yi sɛ mobɛhwerɛ ara.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "werɛ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wowerɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "na wodi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "afoforo"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "na wosom"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "na wobutu ase"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kyerɛ wɔn"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "meda m'adanseɛ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "gu mo so"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hwerɛ"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "mobɛhwerɛ ara"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:34.973316932Z",
+  "model": "glm-5.3"
+}

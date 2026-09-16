@@ -1,1 +1,59 @@
-{"tier":"glm-5.2","verse":18,"ref":"judges 3:18","book":"judges","lang":"tw","chapter":3,"translation":"Na sɛ ɔwiee ⟨את⟩ noaadeɛ no mmoa no gye to mu a, ɔsamaниe ⟨את⟩ nnipa no, wɔn a wɔsoa noaadeɛ no.","tokens":[{"surface":"ויהי","gloss":"Na ... sɛ ... a"},{"surface":"כאשר","gloss":"sɛ"},{"surface":"כלה","gloss":"ɔwiee"},{"surface":"להקריב","gloss":"mmoa ... gye to mu"},{"surface":"את","gloss":"⟨את⟩","marks":"noaadeɛ no"},{"surface":"המנחה","gloss":"noaadeɛ no"},{"surface":"וישלח","gloss":"ɔsamaa kɔm"},{"surface":"את","gloss":"⟨את⟩","marks":"nnipa no"},{"surface":"העם","gloss":"nnipa no"},{"surface":"נשאי","gloss":"wɔn a wɔsoa"},{"surface":"המנחה","gloss":"noaadeɛ no"}],"timestamp":"2026-09-16T05:14:18.259163443Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na sɛ ɔwiee ⟨את⟩ noaadeɛ no mmoa no gye to mu a, ɔsamaниe ⟨את⟩ nnipa no, wɔn a wɔsoa noaadeɛ no.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... sɛ ... a"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ɔwiee"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "mmoa ... gye to mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noaadeɛ no"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "noaadeɛ no"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ɔsamaa kɔm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wɔn a wɔsoa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "noaadeɛ no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:18.259163443Z",
+  "model": "glm-5.3"
+}

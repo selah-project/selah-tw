@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":4,"ref":"song-of-songs 1:4","book":"song-of-songs","lang":"tw","chapter":1,"translation":"Tware me, na yɛndi wo akyi; Ɔhene de me aba n'ahemfie adan mu; yɛnwendwen wɔ wo mu na yɛnwen; yɛbɛkae wo dɔ sen nsa; nnipa a wɔdi nokorɛ dɔ wo.","tokens":[{"surface":"משכני","gloss":"Tware me"},{"surface":"אחריך","gloss":"na yɛndi wo akyi"},{"surface":"נרוצה","gloss":""},{"surface":"הביאני","gloss":"de me aba"},{"surface":"המלך","gloss":"Ɔhene"},{"surface":"חדריו","gloss":"n'ahemfie adan mu"},{"surface":"נגילה","gloss":"yɛnwendwen"},{"surface":"ונשמחה","gloss":"na yɛnwen"},{"surface":"בך","gloss":"wɔ wo mu"},{"surface":"נזכירה","gloss":"yɛbɛkae"},{"surface":"דדיך","gloss":"wo dɔ"},{"surface":"מיין","gloss":"sen nsa"},{"surface":"מישרים","gloss":"nnipa a wɔdi nokorɛ"},{"surface":"אהבוך","gloss":"dɔ wo"}],"timestamp":"2026-09-16T03:40:22.231991341Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 1:4",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Tware me, na yɛndi wo akyi; Ɔhene de me aba n'ahemfie adan mu; yɛnwendwen wɔ wo mu na yɛnwen; yɛbɛkae wo dɔ sen nsa; nnipa a wɔdi nokorɛ dɔ wo.",
+  "tokens": [
+    {
+      "surface": "משכני",
+      "gloss": "Tware me"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "na yɛndi wo akyi"
+    },
+    {
+      "surface": "נרוצה",
+      "gloss": ""
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "de me aba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene"
+    },
+    {
+      "surface": "חדריו",
+      "gloss": "n'ahemfie adan mu"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "yɛnwendwen"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "na yɛnwen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wɔ wo mu"
+    },
+    {
+      "surface": "נזכירה",
+      "gloss": "yɛbɛkae"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "wo dɔ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "sen nsa"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "nnipa a wɔdi nokorɛ"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "dɔ wo"
+    }
+  ],
+  "timestamp": "2026-09-16T03:40:22.231991341Z",
+  "model": "glm-5.3"
+}

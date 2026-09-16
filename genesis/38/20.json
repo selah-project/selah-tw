@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":20,"ref":"genesis 38:20","book":"genesis","lang":"tw","chapter":38,"translation":"Na Yuda som ⟨את⟩ gidi ananwa no de ne yɔnko Ɔadulamni no nsa, sɛ ɔnkɔfa nsɛmfua no firi ɔbaa no nsa; na ɔanhunu no.","tokens":[{"surface":"וישלח","gloss":"som"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"את","gloss":"⟨את⟩","marks":"gidi ananwa no"},{"surface":"גדי","gloss":"gidi"},{"surface":"העזים","gloss":"ananwa no"},{"surface":"ביד","gloss":"nsa"},{"surface":"רעהו","gloss":"ne yɔnko"},{"surface":"העדלמי","gloss":"Ɔadulamni no"},{"surface":"לקחת","gloss":"sɛ ɔnkɔfa"},{"surface":"הערבון","gloss":"nsɛmfua no"},{"surface":"מיד","gloss":"firi ... nsa"},{"surface":"האשה","gloss":"ɔbaa no"},{"surface":"ולא","gloss":"na ... anni"},{"surface":"מצאה","gloss":"hunu no"}],"timestamp":"2026-09-15T20:36:05.853762182Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na Yuda som ⟨את⟩ gidi ananwa no de ne yɔnko Ɔadulamni no nsa, sɛ ɔnkɔfa nsɛmfua no firi ɔbaa no nsa; na ɔanhunu no.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidi ananwa no"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "gidi"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ananwa no"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ne yɔnko"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Ɔadulamni no"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sɛ ɔnkɔfa"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "nsɛmfua no"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi ... nsa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ɔbaa no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... anni"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "hunu no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:05.853762182Z",
+  "model": "glm-5.3"
+}

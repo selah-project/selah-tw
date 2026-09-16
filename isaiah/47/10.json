@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 47:10","book":"isaiah","lang":"tw","chapter":47,"translation":"Wo deɛ wode wo ho to w'abamubuho so; woka sɛ: “Ɔbiara nhunu me.” Wo nyansapɛ ne wo nimdeɛ, ɛno na ɛdannan wo kɔ akyi; na woka wo tirim sɛ: “Me na me wɔ, na mmienu nni hɔ bio.”","tokens":[{"surface":"ותבטחי","gloss":"wode wo ho to"},{"surface":"ברעתך","gloss":"w'abamubuho so"},{"surface":"אמרת","gloss":"woka sɛ"},{"surface":"אין","gloss":"ɔbiara n-"},{"surface":"ראני","gloss":"hunu me"},{"surface":"חכמתך","gloss":"wo nyansapɛ"},{"surface":"ודעתך","gloss":"ne wo nimdeɛ"},{"surface":"היא","gloss":"ɛno"},{"surface":"שובבתך","gloss":"ɛdannan wo kɔ akyi"},{"surface":"ותאמרי","gloss":"na woka"},{"surface":"בלבך","gloss":"wo tirim"},{"surface":"אני","gloss":"me na me wɔ"},{"surface":"ואפסי","gloss":"na mmienu nni hɔ"},{"surface":"עוד","gloss":"bio"}],"timestamp":"2026-09-15T23:58:02.140648261Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Wo deɛ wode wo ho to w'abamubuho so; woka sɛ: “Ɔbiara nhunu me.” Wo nyansapɛ ne wo nimdeɛ, ɛno na ɛdannan wo kɔ akyi; na woka wo tirim sɛ: “Me na me wɔ, na mmienu nni hɔ bio.”",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "wode wo ho to"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "w'abamubuho so"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "woka sɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɔbiara n-"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "hunu me"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "wo nyansapɛ"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "ne wo nimdeɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛno"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "ɛdannan wo kɔ akyi"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "na woka"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "wo tirim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me na me wɔ"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "na mmienu nni hɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:02.140648261Z",
+  "model": "glm-5.3"
+}

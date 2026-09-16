@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-samuel 20:8","book":"2-samuel","lang":"tw","chapter":20,"translation":"Wɔduu abɔɔ kɛseɛ a ɛwɔ Gibon no ho, Amasa baa wɔn anim; Yoab hyɛɛ n'atadeɛ a ɔde puee no, na n'akyire so wɔbɔɔ sekan mu wɔ ne nanam wɔ ne sumina mu; ɔpuee no, sekan no tui.","tokens":[{"surface":"הם","gloss":"wɔ"},{"surface":"עם","gloss":"duu … ho"},{"surface":"האבן","gloss":"abɔɔ"},{"surface":"הגדולה","gloss":"kɛseɛ"},{"surface":"אשר","gloss":"a"},{"surface":"בגבעון","gloss":"ɛwɔ Gibon"},{"surface":"ועמשא","gloss":"Amasa"},{"surface":"בא","gloss":"baa"},{"surface":"לפניהם","gloss":"wɔn anim"},{"surface":"ויואב","gloss":"Yoab"},{"surface":"חגור","gloss":"hyɛɛ"},{"surface":"מדו","gloss":"n'atadeɛ"},{"surface":"לבשו","gloss":"ɔde hyɛɛ"},{"surface":"ועלו","gloss":"n'akyire so"},{"surface":"חגור","gloss":"akɔkɔbɔ"},{"surface":"חרב","gloss":"sekan"},{"surface":"מצמדת","gloss":"a wɔabɔ mu"},{"surface":"על","gloss":"wɔ so"},{"surface":"מתניו","gloss":"ne nanam"},{"surface":"בתערה","gloss":"ne sumina mu"},{"surface":"והוא","gloss":"ɔno"},{"surface":"יצא","gloss":"puee"},{"surface":"ותפל","gloss":"na ehui / tui"}],"timestamp":"2026-09-15T23:09:10.204968122Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 20:8",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Wɔduu abɔɔ kɛseɛ a ɛwɔ Gibon no ho, Amasa baa wɔn anim; Yoab hyɛɛ n'atadeɛ a ɔde puee no, na n'akyire so wɔbɔɔ sekan mu wɔ ne nanam wɔ ne sumina mu; ɔpuee no, sekan no tui.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "duu … ho"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "abɔɔ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ɛwɔ Gibon"
+    },
+    {
+      "surface": "ועמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "wɔn anim"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "n'atadeɛ"
+    },
+    {
+      "surface": "לבשו",
+      "gloss": "ɔde hyɛɛ"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "n'akyire so"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "akɔkɔbɔ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sekan"
+    },
+    {
+      "surface": "מצמדת",
+      "gloss": "a wɔabɔ mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ so"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ne nanam"
+    },
+    {
+      "surface": "בתערה",
+      "gloss": "ne sumina mu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "puee"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "na ehui / tui"
+    }
+  ],
+  "timestamp": "2026-09-15T23:09:10.204968122Z",
+  "model": "glm-5.3"
+}

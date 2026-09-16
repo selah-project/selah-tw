@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":32,"ref":"deuteronomy 1:32","book":"deuteronomy","lang":"tw","chapter":1,"translation":"Nanso wɔ asɛm yi mu no, moannye Yawe, mo Eloohim, nni.","tokens":[{"surface":"ובדבר","gloss":"Nanso wɔ asɛm yi mu"},{"surface":"הזה","gloss":"yi"},{"surface":"אינכם","gloss":"moannyɛ"},{"surface":"מאמינם","gloss":"nni nokorɛ mu / moannye nni"},{"surface":"ביהוה","gloss":"Yawe"},{"surface":"אלהיכם","gloss":"mo Eloohim"}],"timestamp":"2026-09-15T21:45:26.474501113Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Nanso wɔ asɛm yi mu no, moannye Yawe, mo Eloohim, nni.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Nanso wɔ asɛm yi mu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "moannyɛ"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "nni nokorɛ mu / moannye nni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:26.474501113Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,85 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "1-samuel 21:2", "book": "1-samuel", "lang": "tw", "chapter": 21, "translation": "David baa Nob, ɔkɔɔ Akimelek ɔsɔfoɔ hɔ, na Akimelek ho tui hyiaa David, ɔkaa kyerɛɛ no sɛ: Adɛn na wo nkutoo na wowɔ hɔ, na ɔbarima biara nni ⟨את⟩ wo ho?", "tokens": [{"surface": "ויבא", "gloss": "baa"}, {"surface": "דוד", "gloss": "David"}, {"surface": "נבה", "gloss": "Nob"}, {"surface": "אל", "gloss": "ɔkɔɔ"}, {"surface": "אחימלך", "gloss": "Akimelek"}, {"surface": "הכהן", "gloss": "ɔsɔfoɔ"}, {"surface": "ויחרד", "gloss": "ho tui"}, {"surface": "אחימלך", "gloss": "Akimelek"}, {"surface": "לקראת", "gloss": "hyiaa"}, {"surface": "דוד", "gloss": "David"}, {"surface": "ויאמר", "gloss": "ɔkaa kyerɛɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "מדוע", "gloss": "adɛn"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "לבדך", "gloss": "nkutoo na wowɔ hɔ"}, {"surface": "ואיש", "gloss": "na ɔbarima biara"}, {"surface": "אין", "gloss": "nni"}, {"surface": "אתך", "gloss": "wo ho ⟨את⟩"}], "timestamp": "2026-09-15T22:56:09.276822650Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "David baa Nob, ɔkɔɔ Akimelek ɔsɔfoɔ hɔ, na Akimelek ho tui hyiaa David, ɔkaa kyerɛɛ no sɛ: Adɛn na wo nkutoo na wowɔ hɔ, na ɔbarima biara nni ⟨את⟩ wo ho?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɔkɔɔ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akimelek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ho tui"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akimelek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hyiaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "adɛn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nkutoo na wowɔ hɔ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na ɔbarima biara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "wo ho ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:09.276822650Z",
+  "model": "glm-5.3"
+}

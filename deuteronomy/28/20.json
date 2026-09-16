@@ -1,1 +1,112 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "deuteronomy 28:20", "book": "deuteronomy", "lang": "tw", "chapter": 28, "translation": "Yawe bɛsoma ⟨את⟩ adua no, ⟨את⟩ basabasayɛ, ne animtew ⟨את⟩ mo so, wɔ deɛ wo nsa bɛto so nyinaa mu, kɔsɛ sɛ wɔasɛe wo na wo asɛe ntɛm, ɛfiri wo nneyɛɛ bɔne nti, ɛfiri sɛ woagyaw me.", "tokens": [{"surface": "ישלח", "gloss": "bɛsoma"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "בך", "gloss": "mo so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "adua no"}, {"surface": "המארה", "gloss": "adua no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "basabasayɛ"}, {"surface": "המהומה", "gloss": "basabasayɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "animtew"}, {"surface": "המגערת", "gloss": "animtew"}, {"surface": "בכל", "gloss": "wɔ ... nyinaa mu"}, {"surface": "משלח", "gloss": "bɛto so"}, {"surface": "ידך", "gloss": "wo nsa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "תעשה", "gloss": "bɛyɛ"}, {"surface": "עד", "gloss": "kɔsɛ sɛ"}, {"surface": "השמדך", "gloss": "wɔasɛe wo"}, {"surface": "ועד", "gloss": "na kɔsɛ sɛ"}, {"surface": "אבדך", "gloss": "wo asɛe"}, {"surface": "מהר", "gloss": "ntɛm"}, {"surface": "מפני", "gloss": "ɛfiri ... nti"}, {"surface": "רע", "gloss": "bɔne"}, {"surface": "מעלליך", "gloss": "wo nneyɛɛ"}, {"surface": "אשר", "gloss": "ɛfiri sɛ"}, {"surface": "עזבתני", "gloss": "woagyaw me"}], "timestamp": "2026-09-15T22:32:08.081933478Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yawe bɛsoma ⟨את⟩ adua no, ⟨את⟩ basabasayɛ, ne animtew ⟨את⟩ mo so, wɔ deɛ wo nsa bɛto so nyinaa mu, kɔsɛ sɛ wɔasɛe wo na wo asɛe ntɛm, ɛfiri wo nneyɛɛ bɔne nti, ɛfiri sɛ woagyaw me.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "bɛsoma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adua no"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "adua no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basabasayɛ"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "basabasayɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "animtew"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "animtew"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "bɛto so"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bɛyɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsɛ sɛ"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "wɔasɛe wo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kɔsɛ sɛ"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "wo asɛe"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ntɛm"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɛfiri ... nti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "wo nneyɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "woagyaw me"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:08.081933478Z",
+  "model": "glm-5.3"
+}

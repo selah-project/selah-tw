@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"1-kings 19:8","book":"1-kings","lang":"tw","chapter":19,"translation":"Na ɔsɔree, dii aduane, nom nsuo, na ɔde saa aduane no ahoɔden nantew nnawɔtwe baanan ne anadwo nnawɔtwe baanan, kɔsii Eloohim bepɔ — Choreb.","tokens":[{"surface":"ויקם","gloss":"sɔree"},{"surface":"ויאכל","gloss":"dii aduane"},{"surface":"וישתה","gloss":"nom nsuo"},{"surface":"וילך","gloss":"nantew"},{"surface":"בכח","gloss":"de ahoɔden"},{"surface":"האכילה","gloss":"saa aduane no"},{"surface":"ההיא","gloss":"saa"},{"surface":"ארבעים","gloss":"nnawɔtwe baanan"},{"surface":"יום","gloss":"nnawɔtwe"},{"surface":"וארבעים","gloss":"ne nnawɔtwe baanan"},{"surface":"לילה","gloss":"anadwo"},{"surface":"עד","gloss":"kɔsii"},{"surface":"הר","gloss":"bepɔ"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"חרב","gloss":"Choreb"}],"timestamp":"2026-09-16T05:20:14.893628072Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na ɔsɔree, dii aduane, nom nsuo, na ɔde saa aduane no ahoɔden nantew nnawɔtwe baanan ne anadwo nnawɔtwe baanan, kɔsii Eloohim bepɔ — Choreb.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sɔree"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dii aduane"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "nom nsuo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nantew"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "de ahoɔden"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "saa aduane no"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "nnawɔtwe baanan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nnawɔtwe"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ne nnawɔtwe baanan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Choreb"
+    }
+  ],
+  "timestamp": "2026-09-16T05:20:14.893628072Z",
+  "model": "glm-5.3"
+}

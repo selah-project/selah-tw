@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":6,"ref":"job 37:6","book":"job","lang":"tw","chapter":37,"translation":"Nokorɛ sɛ, ɔka kyerɛ bɔwerɛ sɛ: 'Kɔ asase so'; na kyerɛ nsuo-tɔ ketewa, ne nsuo-tɔ a emu dɔ a efiri ne ahoɔden mu.","tokens":[{"surface":"כי","gloss":"Nokorɛ sɛ"},{"surface":"לשלג","gloss":"bɔwerɛ ho"},{"surface":"יאמר","gloss":"ɔka kyerɛ"},{"surface":"הוא","gloss":"sɛ ⟨ɛ⟩"},{"surface":"ארץ","gloss":"asase"},{"surface":"וגשם","gloss":"nsuo-tɔ ketewa"},{"surface":"מטר","gloss":"a ɛtɔ"},{"surface":"וגשם","gloss":"nsuo-tɔ"},{"surface":"מטרות","gloss":"a emu dɔ"},{"surface":"עזו","gloss":"efiri ne ahoɔden mu"}],"timestamp":"2026-09-16T03:35:23.623628855Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Nokorɛ sɛ, ɔka kyerɛ bɔwerɛ sɛ: 'Kɔ asase so'; na kyerɛ nsuo-tɔ ketewa, ne nsuo-tɔ a emu dɔ a efiri ne ahoɔden mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokorɛ sɛ"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "bɔwerɛ ho"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ɔka kyerɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sɛ ⟨ɛ⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "nsuo-tɔ ketewa"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "a ɛtɔ"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "nsuo-tɔ"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "a emu dɔ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "efiri ne ahoɔden mu"
+    }
+  ],
+  "timestamp": "2026-09-16T03:35:23.623628855Z",
+  "model": "glm-5.3"
+}

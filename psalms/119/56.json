@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":56,"ref":"psalms 119:56","book":"psalms","lang":"tw","chapter":119,"translation":"Wei na ɛyɛɛ me dea, ɛfiri sɛ mehwɛɛ wo nhyehyɛeɛ so.","tokens":[{"surface":"זאת","gloss":"wei"},{"surface":"היתה","gloss":"yɛɛ"},{"surface":"לי","gloss":"me dea"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"פקדיך","gloss":"wo nhyehyɛeɛ"},{"surface":"נצרתי","gloss":"mehwɛɛ ... so"}],"timestamp":"2026-09-16T02:29:34.600735942Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 119,
+  "translation": "Wei na ɛyɛɛ me dea, ɛfiri sɛ mehwɛɛ wo nhyehyɛeɛ so.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "wei"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me dea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "wo nhyehyɛeɛ"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "mehwɛɛ ... so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:29:34.600735942Z",
+  "model": "glm-5.3"
+}

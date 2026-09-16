@@ -1,1 +1,96 @@
-{"tier":"glm-5.2","verse":6,"ref":"exodus 6:6","book":"exodus","lang":"tw","chapter":6,"translation":"Ɛno nti, ka kyerɛ Israel mma no sɛ: Me ne Yawe, na mɛbɛ⟨את⟩ mo ⟨את⟩ mo afi Misraim adwuma adifudepɛ no ase, na memgya ⟨את⟩ mo afi wɔn nnɔmaeɛ mu, na mede nsateaa a wɔatɛe ne atemmu kɛseɛ bɛgya mo.","tokens":[{"surface":"לכן","gloss":"Ɛno nti"},{"surface":"אמר","gloss":"ka kyerɛ"},{"surface":"לבני","gloss":"mma"},{"surface":"ישראל","gloss":"Israel"},{"surface":"אני","gloss":"Me"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"והוצאתי","gloss":"na mɛbɛmo"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo"},{"surface":"מתחת","gloss":"afi ... ase"},{"surface":"סבלת","gloss":"adwuma adifudepɛ"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"והצלתי","gloss":"na memgya"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo"},{"surface":"מעבדתם","gloss":"wɔn nnɔmaeɛ"},{"surface":"וגאלתי","gloss":"na mebɛgya"},{"surface":"אתכם","gloss":"⟨את⟩ mo","marks":"mo"},{"surface":"בזרוע","gloss":"nsateaa"},{"surface":"נטויה","gloss":"a wɔatɛe"},{"surface":"ובשפטים","gloss":"ne atemmu"},{"surface":"גדלים","gloss":"kɛseɛ"}],"timestamp":"2026-09-15T20:46:17.093021948Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɛno nti, ka kyerɛ Israel mma no sɛ: Me ne Yawe, na mɛbɛ⟨את⟩ mo ⟨את⟩ mo afi Misraim adwuma adifudepɛ no ase, na memgya ⟨את⟩ mo afi wɔn nnɔmaeɛ mu, na mede nsateaa a wɔatɛe ne atemmu kɛseɛ bɛgya mo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ɛno nti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka kyerɛ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "na mɛbɛmo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "afi ... ase"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "adwuma adifudepɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "na memgya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "wɔn nnɔmaeɛ"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "na mebɛgya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "nsateaa"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "a wɔatɛe"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "ne atemmu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "kɛseɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:46:17.093021948Z",
+  "model": "glm-5.3"
+}

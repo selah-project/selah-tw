@@ -1,1 +1,106 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "ezekiel 47:22", "book": "ezekiel", "lang": "tw", "chapter": 47, "translation": "Na ɛbɛba sɛ mobɛkyɛ ⟨את⟩ no ayɛ agyapadeɛ ma mo ne ahɔhoɔ a wɔte mo mu, a wɔwoo mma wɔ mo mu no; na wɔbɛyɛ sɛ wɔawo wɔ ɔman no mu wɔ Yisraɛl mma mu no; ⟨את⟩ mo no, wɔbɛgye agyapadeɛ wɔ Yisraɛl anammɔn mu.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛba sɛ"}, {"surface": "תפלו", "gloss": "mobɛkyɛ no"}, {"surface": "אותה", "gloss": "⟨את⟩ no", "marks": "agyapadeɛ no"}, {"surface": "בנחלה", "gloss": "ayɛ agyapadeɛ"}, {"surface": "לכם", "gloss": "ma mo"}, {"surface": "ולהגרים", "gloss": "ne ahɔhoɔ"}, {"surface": "הגרים", "gloss": "a wɔte"}, {"surface": "בתוככם", "gloss": "mo mu"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הולדו", "gloss": "wɔwoo"}, {"surface": "בנים", "gloss": "mma"}, {"surface": "בתוככם", "gloss": "wɔ mo mu"}, {"surface": "והיו", "gloss": "na wɔbɛyɛ"}, {"surface": "לכם", "gloss": "sɛ"}, {"surface": "כאזרח", "gloss": "sɛ obi a wɔawo no ɔman no mu"}, {"surface": "בבני", "gloss": "wɔ mma mu"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "יפלו", "gloss": "wɔbɛgye"}, {"surface": "בנחלה", "gloss": "agyapadeɛ"}, {"surface": "בתוך", "gloss": "wɔ mu"}, {"surface": "שבטי", "gloss": "anammɔn"}, {"surface": "ישראל", "gloss": "Yisraɛl"}], "timestamp": "2026-09-16T01:01:32.982908274Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 47:22",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Na ɛbɛba sɛ mobɛkyɛ ⟨את⟩ no ayɛ agyapadeɛ ma mo ne ahɔhoɔ a wɔte mo mu, a wɔwoo mma wɔ mo mu no; na wɔbɛyɛ sɛ wɔawo wɔ ɔman no mu wɔ Yisraɛl mma mu no; ⟨את⟩ mo no, wɔbɛgye agyapadeɛ wɔ Yisraɛl anammɔn mu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba sɛ"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "mobɛkyɛ no"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ no",
+      "marks": "agyapadeɛ no"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ayɛ agyapadeɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo"
+    },
+    {
+      "surface": "ולהגרים",
+      "gloss": "ne ahɔhoɔ"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "a wɔte"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mo mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "wɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "wɔ mo mu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na wɔbɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "sɛ obi a wɔawo no ɔman no mu"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wɔ mma mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "wɔbɛgye"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "agyapadeɛ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "anammɔn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-16T01:01:32.982908274Z",
+  "model": "glm-5.3"
+}

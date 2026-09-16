@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "judges 4:7", "book": "judges", "lang": "tw", "chapter": 4, "translation": "“Mɛsɔre ⟨את⟩ Sisera, Yabin asraafoɔ panyin, ne ⟨את⟩ ne aserɛ ne ⟨את⟩ ne dɔm akɔ wo so wɔ Kishon asubɔnten no ho, na mede no bɛma wo nsa.”", "tokens": [{"surface": "ומשכתי", "gloss": "Mɛsɔre"}, {"surface": "אליך", "gloss": "akɔ wo so"}, {"surface": "אל", "gloss": "wɔ ... ho"}, {"surface": "נחל", "gloss": "asubɔnten"}, {"surface": "קישון", "gloss": "Kishon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Sisera"}, {"surface": "סיסרא", "gloss": "Sisera"}, {"surface": "שר", "gloss": "panyin"}, {"surface": "צבא", "gloss": "asraafoɔ"}, {"surface": "יבין", "gloss": "Yabin"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne aserɛ"}, {"surface": "רכבו", "gloss": "ne aserɛ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne dɔm"}, {"surface": "המונו", "gloss": "ne dɔm"}, {"surface": "ונתתיהו", "gloss": "mede no bɛma"}, {"surface": "בידך", "gloss": "wo nsa"}], "timestamp": "2026-09-15T22:36:18.990927372Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "“Mɛsɔre ⟨את⟩ Sisera, Yabin asraafoɔ panyin, ne ⟨את⟩ ne aserɛ ne ⟨את⟩ ne dɔm akɔ wo so wɔ Kishon asubɔnten no ho, na mede no bɛma wo nsa.”",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "Mɛsɔre"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "akɔ wo so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asubɔnten"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panyin"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne aserɛ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ne aserɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne dɔm"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "ne dɔm"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "mede no bɛma"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "wo nsa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:36:18.990927372Z",
+  "model": "glm-5.3"
+}

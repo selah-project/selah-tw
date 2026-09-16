@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "leviticus 25:27", "book": "leviticus", "lang": "tw", "chapter": 25, "translation": "Na ɔbɔ ⟨את⟩ afe a wɔtɔn no mu nkontabuo, na ɔsan de ⟨את⟩ deɛ aka no ma ɔbarima a wɔtɔn no maa no, na ɔsan kɔ n'agyapadeɛ mu.", "tokens": [{"surface": "וחשב", "gloss": "na ɔbɔ nkontabuo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "afe"}, {"surface": "שני", "gloss": "afe"}, {"surface": "ממכרו", "gloss": "a wɔtɔn no"}, {"surface": "והשיב", "gloss": "na ɔsan de ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ aka no"}, {"surface": "העדף", "gloss": "deɛ aka no"}, {"surface": "לאיש", "gloss": "ma ɔbarima"}, {"surface": "אשר", "gloss": "a"}, {"surface": "מכר", "gloss": "wɔtɔn"}, {"surface": "לו", "gloss": "maa no"}, {"surface": "ושב", "gloss": "na ɔsan kɔ"}, {"surface": "לאחזתו", "gloss": "n'agyapadeɛ mu"}], "timestamp": "2026-09-16T05:14:29.096175866Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɔbɔ ⟨את⟩ afe a wɔtɔn no mu nkontabuo, na ɔsan de ⟨את⟩ deɛ aka no ma ɔbarima a wɔtɔn no maa no, na ɔsan kɔ n'agyapadeɛ mu.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "na ɔbɔ nkontabuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "afe"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "a wɔtɔn no"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na ɔsan de ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ aka no"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "deɛ aka no"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ma ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "wɔtɔn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na ɔsan kɔ"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "n'agyapadeɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:29.096175866Z",
+  "model": "glm-5.3"
+}

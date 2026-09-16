@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":26,"ref":"isaiah 14:26","book":"isaiah","lang":"tw","chapter":14,"translation":"Yi ne nhyehyɛe a wɔahyɛ ato asase nyinaa so, na yi ne nsa a wɔatrɛw agu aman nyinaa so.","tokens":[{"surface":"זאת","gloss":"yi ne"},{"surface":"העצה","gloss":"nhyehyɛe"},{"surface":"היעוצה","gloss":"a wɔahyɛ ato ... so"},{"surface":"על","gloss":"so"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הארץ","gloss":"asase"},{"surface":"וזאת","gloss":"na yi ne"},{"surface":"היד","gloss":"nsa"},{"surface":"הנטויה","gloss":"a wɔatrɛw agu"},{"surface":"על","gloss":"so"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הגוים","gloss":"aman"}],"timestamp":"2026-09-15T23:44:57.887559939Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Yi ne nhyehyɛe a wɔahyɛ ato asase nyinaa so, na yi ne nsa a wɔatrɛw agu aman nyinaa so.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "yi ne"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "nhyehyɛe"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "a wɔahyɛ ato ... so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "na yi ne"
+    },
+    {
+      "surface": "היד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "a wɔatrɛw agu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-09-15T23:44:57.887559939Z",
+  "model": "glm-5.3"
+}

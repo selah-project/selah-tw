@@ -1,1 +1,126 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "jeremiah 13:13", "book": "jeremiah", "lang": "tw", "chapter": 13, "translation": "Na wubɛka akyerɛ wɔn sɛ: Yawe ka sɛ, Mete sɛ merebɛhyɛ asase yi asetenfoɔ ⟨את⟩ nyinaa ma wɔanyam — ⟨את⟩ ahemfo a wɔtena Dawid atifi, ne ⟨את⟩ asɔfoɔ, ne ⟨את⟩ adikanfoɔ, ne ⟨את⟩ Yerusalem asetenfoɔ nyinaa — anhiamu.", "tokens": [{"surface": "ואמרת", "gloss": "na wubɛka"}, {"surface": "אליהם", "gloss": "akyerɛ wɔn"}, {"surface": "כה", "gloss": "sɛ"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "הנני", "gloss": "mete sɛ"}, {"surface": "ממלא", "gloss": "merɛbɛhyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asetenfoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ישבי", "gloss": "asetenfoɔ"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ahemfo"}, {"surface": "המלכים", "gloss": "ahemfo"}, {"surface": "הישבים", "gloss": "a wɔtena"}, {"surface": "לדוד", "gloss": "Dawid"}, {"surface": "על", "gloss": "so"}, {"surface": "כסאו", "gloss": "n'ahemfi"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "asɔfoɔ"}, {"surface": "הכהנים", "gloss": "asɔfoɔ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "adikanfoɔ"}, {"surface": "הנביאים", "gloss": "adikanfoɔ"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "asetenfoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ישבי", "gloss": "asetenfoɔ"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "שכרון", "gloss": "anhiamu"}], "timestamp": "2026-09-16T00:10:48.337788175Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 13:13",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na wubɛka akyerɛ wɔn sɛ: Yawe ka sɛ, Mete sɛ merebɛhyɛ asase yi asetenfoɔ ⟨את⟩ nyinaa ma wɔanyam — ⟨את⟩ ahemfo a wɔtena Dawid atifi, ne ⟨את⟩ asɔfoɔ, ne ⟨את⟩ adikanfoɔ, ne ⟨את⟩ Yerusalem asetenfoɔ nyinaa — anhiamu.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na wubɛka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "akyerɛ wɔn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mete sɛ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "merɛbɛhyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asetenfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asetenfoɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ahemfo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "a wɔtena"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "n'ahemfi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "asɔfoɔ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "asɔfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "adikanfoɔ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "adikanfoɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "asetenfoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asetenfoɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "שכרון",
+      "gloss": "anhiamu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:10:48.337788175Z",
+  "model": "glm-5.3"
+}

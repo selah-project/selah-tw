@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":3,"ref":"ezekiel 46:3","book":"ezekiel","lang":"tw","chapter":46,"translation":"Na asase no nkurɔfoɔ bɛkotondwom wɔ saa ɛpono no bueɛ mu, Daasu nna ne bosome foforɔ nna mu, wɔ Yawe anim.","tokens":[{"surface":"והשתחוו","gloss":"na ... bɛkotondwom"},{"surface":"עם","gloss":"nkurɔfoɔ"},{"surface":"הארץ","gloss":"asase"},{"surface":"פתח","gloss":"bueɛ"},{"surface":"השער","gloss":"ɛpono"},{"surface":"ההוא","gloss":"saa"},{"surface":"בשבתות","gloss":"Daasu nna"},{"surface":"ובחדשים","gloss":"bosome foforɔ nna"},{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T01:03:36.419997424Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 46:3",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 46,
+  "translation": "Na asase no nkurɔfoɔ bɛkotondwom wɔ saa ɛpono no bueɛ mu, Daasu nna ne bosome foforɔ nna mu, wɔ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "והשתחוו",
+      "gloss": "na ... bɛkotondwom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkurɔfoɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bueɛ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ɛpono"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "בשבתות",
+      "gloss": "Daasu nna"
+    },
+    {
+      "surface": "ובחדשים",
+      "gloss": "bosome foforɔ nna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:03:36.419997424Z",
+  "model": "glm-5.3"
+}

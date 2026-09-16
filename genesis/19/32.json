@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "genesis 19:32", "book": "genesis", "lang": "tw", "chapter": 19, "translation": "Ma yɛnnkɔ; yɛnnɔ ⟨את⟩ yɛn agya nsã, na yɛnnɛn ne ho, na yɛnkora nkorɔmma firi yɛn agya hɔ.”", "tokens": [{"surface": "לכה", "gloss": "Ma yɛnnkɔ"}, {"surface": "נשקה", "gloss": "yɛnnɔ … nsã"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yɛn agya"}, {"surface": "אבינו", "gloss": "yɛn agya"}, {"surface": "יין", "gloss": "nsã"}, {"surface": "ונשכבה", "gloss": "na yɛnnɛn"}, {"surface": "עמו", "gloss": "ne ho"}, {"surface": "ונחיה", "gloss": "na yɛnkora"}, {"surface": "מאבינו", "gloss": "firi yɛn agya hɔ"}, {"surface": "זרע", "gloss": "nkorɔmma"}], "timestamp": "2026-09-15T20:22:52.108325266Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Ma yɛnnkɔ; yɛnnɔ ⟨את⟩ yɛn agya nsã, na yɛnnɛn ne ho, na yɛnkora nkorɔmma firi yɛn agya hɔ.”",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Ma yɛnnkɔ"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "yɛnnɔ … nsã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn agya"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "yɛn agya"
+    },
+    {
+      "surface": "יין",
+      "gloss": "nsã"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "na yɛnnɛn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "na yɛnkora"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "firi yɛn agya hɔ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nkorɔmma"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:52.108325266Z",
+  "model": "glm-5.3"
+}

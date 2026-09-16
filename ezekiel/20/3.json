@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "ezekiel 20:3", "book": "ezekiel", "lang": "tw", "chapter": 20, "translation": "Onipa ba, kasa kyerɛ Yisraɛl ⟨את⟩ mpanimfoɔ no, na ka kyɛn wɔn se: Sɛdeɛ Adonai Yawe ka no: Mo⟨את⟩ mo moaba bɛbisa me? Merekamfo sɛ, sɛ me nkwa wɔ a, mɛnsa mo asɛm, Adonai Yawe nkyerɛkyerɛmu.", "tokens": [{"surface": "בן", "gloss": "ba"}, {"surface": "אדם", "gloss": "Onipa"}, {"surface": "דבר", "gloss": "kasa kyerɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisraɛl mpanimfoɔ no"}, {"surface": "זקני", "gloss": "mpanimfoɔ"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "ואמרת", "gloss": "na ka kyɛn wɔn"}, {"surface": "אלהם", "gloss": "wɔn ho"}, {"surface": "כה", "gloss": "Sɛdeɛ ... ka no"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "הלדרש", "gloss": "Momo moaba bɛbisa?"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "mo (wɔn ho)"}, {"surface": "אתם", "gloss": "mo"}, {"surface": "באים", "gloss": "moaba"}, {"surface": "חי", "gloss": "Merekamfo sɛ ... nkwa"}, {"surface": "אני", "gloss": "me"}, {"surface": "אם", "gloss": "sɛ ... a"}, {"surface": "אדרש", "gloss": "mɛnsa asɛm"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "נאם", "gloss": "nkyerɛkyerɛmu"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T00:42:28.930208340Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 20:3",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Onipa ba, kasa kyerɛ Yisraɛl ⟨את⟩ mpanimfoɔ no, na ka kyɛn wɔn se: Sɛdeɛ Adonai Yawe ka no: Mo⟨את⟩ mo moaba bɛbisa me? Merekamfo sɛ, sɛ me nkwa wɔ a, mɛnsa mo asɛm, Adonai Yawe nkyerɛkyerɛmu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Onipa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa kyerɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl mpanimfoɔ no"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ka kyɛn wɔn"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sɛdeɛ ... ka no"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הלדרש",
+      "gloss": "Momo moaba bɛbisa?"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mo (wɔn ho)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "moaba"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Merekamfo sɛ ... nkwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ ... a"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "mɛnsa asɛm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkyerɛkyerɛmu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:42:28.930208340Z",
+  "model": "glm-5.3"
+}

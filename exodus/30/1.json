@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":1,"ref":"exodus 30:1","book":"exodus","lang":"tw","chapter":30,"translation":"Na wobɛyɛ mmoroyam a wɔde hyɛ nkyenee: wode Sitim dua na wobɛyɛ ⟨את⟩ no.","tokens":[{"surface":"ועשית","gloss":"na wobɛyɛ"},{"surface":"מזבח","gloss":"mmoroyam"},{"surface":"מקטר","gloss":"a wɔde hyɛ"},{"surface":"קטרת","gloss":"nkyenee"},{"surface":"עצי","gloss":"dua"},{"surface":"שטים","gloss":"Sitim"},{"surface":"תעשה","gloss":"wobɛyɛ"},{"surface":"אתו","gloss":"⟨את⟩ no","marks":"no (mmoroyam no)"}],"timestamp":"2026-09-15T21:00:45.806986800Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 30,
+  "translation": "Na wobɛyɛ mmoroyam a wɔde hyɛ nkyenee: wode Sitim dua na wobɛyɛ ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na wobɛyɛ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mmoroyam"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "a wɔde hyɛ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkyenee"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Sitim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wobɛyɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (mmoroyam no)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:00:45.806986800Z",
+  "model": "glm-5.3"
+}

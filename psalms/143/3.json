@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 143:3","book":"psalms","lang":"tw","chapter":143,"translation":"Ɛfiri sɛ ɔtanfoɔ dii me kra akyi; ɛbɔɔ me nkwa guu asase so; ɛmaa me tenaa sum mu, sɛ awufoɔ a wɔawu firi tete.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"רדף","gloss":"dii akyi"},{"surface":"אויב","gloss":"ɔtanfoɔ"},{"surface":"נפשי","gloss":"me kra"},{"surface":"דכא","gloss":"ɛbɔɔ guu"},{"surface":"לארץ","gloss":"asase so"},{"surface":"חיתי","gloss":"me nkwa"},{"surface":"הושיבני","gloss":"ɛmaa me tenaa"},{"surface":"במחשכים","gloss":"sum mu"},{"surface":"כמתי","gloss":"sɛ awufoɔ"},{"surface":"עולם","gloss":"firi tete"}],"timestamp":"2026-09-16T05:42:44.383173552Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 143,
+  "translation": "Ɛfiri sɛ ɔtanfoɔ dii me kra akyi; ɛbɔɔ me nkwa guu asase so; ɛmaa me tenaa sum mu, sɛ awufoɔ a wɔawu firi tete.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "dii akyi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ɔtanfoɔ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me kra"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ɛbɔɔ guu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ɛmaa me tenaa"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sum mu"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "sɛ awufoɔ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "firi tete"
+    }
+  ],
+  "timestamp": "2026-09-16T05:42:44.383173552Z",
+  "model": "glm-5.3"
+}

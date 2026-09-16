@@ -1,1 +1,57 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-kings 11:3", "book": "2-kings", "lang": "tw", "chapter": 11, "translation": "Na ɔ⟨את⟩ ne no tetee Yawe fie mu, ahorohomm da mfeɛ nsia; na Ataliah dii asase no so.", "tokens": [{"surface": "ויהי", "gloss": "Na ... tetee"}, {"surface": "אתה", "gloss": "⟨את⟩ ne no"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "מתחבא", "gloss": "ahorohomm da"}, {"surface": "שש", "gloss": "nsia"}, {"surface": "שנים", "gloss": "mfeɛ"}, {"surface": "ועתליה", "gloss": "na Ataliah"}, {"surface": "מלכת", "gloss": "dii ... so"}, {"surface": "על", "gloss": "so"}, {"surface": "הארץ", "gloss": "asase no"}], "timestamp": "2026-09-16T05:23:54.805023301Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ɔ⟨את⟩ ne no tetee Yawe fie mu, ahorohomm da mfeɛ nsia; na Ataliah dii asase no so.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... tetee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ne no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "ahorohomm da"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nsia"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "na Ataliah"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "dii ... so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:23:54.805023301Z",
+  "model": "glm-5.3"
+}

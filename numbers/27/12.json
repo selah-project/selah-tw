@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":12,"ref":"numbers 27:12","book":"numbers","lang":"tw","chapter":27,"translation":"Yawe kaa kyire Mose: “Kɔ soro kɔ Abarim bepɔ yi so, na hwɛ ⟨את⟩ asase a mede ama Israel mma.”","tokens":[{"surface":"ויאמר","gloss":"kaa kyire"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אל","gloss":"kyire"},{"surface":"משה","gloss":"Mose"},{"surface":"עלה","gloss":"kɔ soro"},{"surface":"אל","gloss":"kɔ"},{"surface":"הר","gloss":"bepɔ"},{"surface":"העברים","gloss":"Abarim"},{"surface":"הזה","gloss":"yi"},{"surface":"וראה","gloss":"na hwɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"asase no"},{"surface":"הארץ","gloss":"asase"},{"surface":"אשר","gloss":"a"},{"surface":"נתתי","gloss":"mede ama"},{"surface":"לבני","gloss":"mma"},{"surface":"ישראל","gloss":"Israel"}],"timestamp":"2026-09-15T21:40:16.534808859Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Yawe kaa kyire Mose: “Kɔ soro kɔ Abarim bepɔ yi so, na hwɛ ⟨את⟩ asase a mede ama Israel mma.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kɔ soro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Abarim"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede ama"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T21:40:16.534808859Z",
+  "model": "glm-5.3"
+}

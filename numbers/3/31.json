@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":31,"ref":"numbers 3:31","book":"numbers","lang":"tw","chapter":3,"translation":"Wɔn hwɛ-som adwuma ne Adaka no, ne Pon no, ne Kandɛl no, ne afɔreɛpon no, ne Kronkrondee akoradeɛ a wɔde yɛ som wɔ mu no, ne Ntaban no, ne ne som adwuma nyinaa.","tokens":[{"surface":"ומשמרתם","gloss":"Wɔn hwɛ-som adwuma"},{"surface":"הארן","gloss":"Adaka no"},{"surface":"והשלחן","gloss":"ne Pon no"},{"surface":"והמנרה","gloss":"ne Kandɛl no"},{"surface":"והמזבחת","gloss":"ne afɔreɛpon no"},{"surface":"וכלי","gloss":"ne akoradeɛ"},{"surface":"הקדש","gloss":"Kronkrondee"},{"surface":"אשר","gloss":"a"},{"surface":"ישרתו","gloss":"wɔde yɛ som"},{"surface":"בהם","gloss":"wɔ mu"},{"surface":"והמסך","gloss":"ne Ntaban no"},{"surface":"וכל","gloss":"ne nyinaa"},{"surface":"עבדתו","gloss":"ne som adwuma"}],"timestamp":"2026-09-15T21:25:16.775509988Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 3:31",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Wɔn hwɛ-som adwuma ne Adaka no, ne Pon no, ne Kandɛl no, ne afɔreɛpon no, ne Kronkrondee akoradeɛ a wɔde yɛ som wɔ mu no, ne Ntaban no, ne ne som adwuma nyinaa.",
+  "tokens": [
+    {
+      "surface": "ומשמרתם",
+      "gloss": "Wɔn hwɛ-som adwuma"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Adaka no"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "ne Pon no"
+    },
+    {
+      "surface": "והמנרה",
+      "gloss": "ne Kandɛl no"
+    },
+    {
+      "surface": "והמזבחת",
+      "gloss": "ne afɔreɛpon no"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ne akoradeɛ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Kronkrondee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "wɔde yɛ som"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "והמסך",
+      "gloss": "ne Ntaban no"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ne som adwuma"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:16.775509988Z",
+  "model": "glm-5.3"
+}

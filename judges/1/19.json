@@ -1,1 +1,84 @@
-{"tier":"glm-5.2","verse":19,"ref":"judges 1:19","book":"judges","lang":"tw","chapter":1,"translation":"Na Yawe kaa Yuda ho, na ɔfaa bepɔ no so asase; nanso wantumi nnya atena ɛmmuasoa sofoɔ no, ɛfiri sɛ wɔwɔ dadeɛ mmoadoma.","tokens":[{"surface":"ויהי","gloss":"Na ... kaa ho"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"את","gloss":"⟨את⟩ ne","marks":"Yuda"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"וירש","gloss":"ɔfaa ... so asase"},{"surface":"את","gloss":"⟨את⟩","marks":"bepɔ no"},{"surface":"ההר","gloss":"bepɔ no"},{"surface":"כי","gloss":"nanso"},{"surface":"לא","gloss":"wantumi"},{"surface":"להוריש","gloss":"nnya atena"},{"surface":"את","gloss":"⟨את⟩","marks":"atena εmmuasoa sofoɔ no"},{"surface":"ישבי","gloss":"atena ɛmmuasoa sofoɔ no"},{"surface":"העמק","gloss":"ɛmmuasoa"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"רכב","gloss":"mmoadoma"},{"surface":"ברזל","gloss":"dadeɛ"},{"surface":"להם","gloss":"wɔwɔ"}],"timestamp":"2026-09-15T22:35:09.382847017Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na Yawe kaa Yuda ho, na ɔfaa bepɔ no so asase; nanso wantumi nnya atena ɛmmuasoa sofoɔ no, ɛfiri sɛ wɔwɔ dadeɛ mmoadoma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... kaa ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ɔfaa ... so asase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ no"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wantumi"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "nnya atena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atena εmmuasoa sofoɔ no"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "atena ɛmmuasoa sofoɔ no"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ɛmmuasoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "mmoadoma"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dadeɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔwɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:35:09.382847017Z",
+  "model": "glm-5.3"
+}

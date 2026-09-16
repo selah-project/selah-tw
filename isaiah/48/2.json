@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 48:2","book":"isaiah","lang":"tw","chapter":48,"translation":"Ɛfiri sɛ wɔfrɛ wɔn kurom kronkron din, na wɔde wɔn ho to Yisrael Eloohim so; Yawe Sabaoot ne ne din.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"מעיר","gloss":"kurom"},{"surface":"הקדש","gloss":"kronkron"},{"surface":"נקראו","gloss":"wɔfrɛ wɔn ... din"},{"surface":"ועל","gloss":"na wɔde wɔn ho to ... so"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"נסמכו","gloss":"de wɔn ho to ... so"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שמו","gloss":"ne din"}],"timestamp":"2026-09-15T23:58:11.498920331Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 48,
+  "translation": "Ɛfiri sɛ wɔfrɛ wɔn kurom kronkron din, na wɔde wɔn ho to Yisrael Eloohim so; Yawe Sabaoot ne ne din.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kurom"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "wɔfrɛ wɔn ... din"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔde wɔn ho to ... so"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "de wɔn ho to ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    }
+  ],
+  "timestamp": "2026-09-15T23:58:11.498920331Z",
+  "model": "glm-5.3"
+}

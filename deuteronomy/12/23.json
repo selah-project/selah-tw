@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":23,"ref":"deuteronomy 12:23","book":"deuteronomy","lang":"tw","chapter":12,"translation":"Na mmom yɛ den w'ani so sɛ wo renni mogya no; ɛfiri sɛ mogya no ne nkwa no, na wo mmu nkwa no ne nam no.","tokens":[{"surface":"רק","gloss":"Na mmom"},{"surface":"חזק","gloss":"yɛ den w'ani so"},{"surface":"לבלתי","gloss":"sɛ wo renni"},{"surface":"אכל","gloss":"nni"},{"surface":"הדם","gloss":"mogya no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"הדם","gloss":"mogya no"},{"surface":"הוא","gloss":"ne"},{"surface":"הנפש","gloss":"⟨the⟩ nkwa no"},{"surface":"ולא","gloss":"na wo mmu"},{"surface":"תאכל","gloss":"mmu"},{"surface":"הנפש","gloss":"⟨the⟩ nkwa no"},{"surface":"עם","gloss":"ne"},{"surface":"הבשר","gloss":"nam no"}],"timestamp":"2026-09-15T21:50:58.604048184Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na mmom yɛ den w'ani so sɛ wo renni mogya no; ɛfiri sɛ mogya no ne nkwa no, na wo mmu nkwa no ne nam no.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Na mmom"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yɛ den w'ani so"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sɛ wo renni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨the⟩ nkwa no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wo mmu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mmu"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨the⟩ nkwa no"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nam no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:50:58.604048184Z",
+  "model": "glm-5.3"
+}

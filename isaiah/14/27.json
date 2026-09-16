@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":27,"ref":"isaiah 14:27","book":"isaiah","lang":"tw","chapter":14,"translation":"Ɛfiri sɛ Yawe Sabaoth ayɛ no adwene, na hwan na ɔbɛtɔ no ase? Na ne nsa a wɔatrɛw no — na hwan na ɔbɛdan no akyi?","tokens":[{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"יעץ","gloss":"ayɛ no adwene"},{"surface":"ומי","gloss":"na hwan na"},{"surface":"יפר","gloss":"ɔbɛtɔ no ase"},{"surface":"וידו","gloss":"na ne nsa"},{"surface":"הנטויה","gloss":"a wɔatrɛw no"},{"surface":"ומי","gloss":"na hwan na"},{"surface":"ישיבנה","gloss":"ɔbɛdan no akyi"}],"timestamp":"2026-09-15T23:44:57.887717514Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 14:27",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Ɛfiri sɛ Yawe Sabaoth ayɛ no adwene, na hwan na ɔbɛtɔ no ase? Na ne nsa a wɔatrɛw no — na hwan na ɔbɛdan no akyi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ayɛ no adwene"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hwan na"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ɔbɛtɔ no ase"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "na ne nsa"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "a wɔatrɛw no"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na hwan na"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ɔbɛdan no akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:44:57.887717514Z",
+  "model": "glm-5.3"
+}

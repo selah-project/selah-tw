@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 34, "ref": "judges 6:34", "book": "judges", "lang": "tw", "chapter": 6, "translation": "Na Yawe Honhom hyɛɛ ⟨את⟩ Gideon sɛ n'adeɛ, na ɔtoɔ dwom wɔ aben mu, na Abiezer frɛɛ ne nuanom baa n'akyi.", "tokens": [{"surface": "ורוח", "gloss": "Honhom"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לבשה", "gloss": "hyɛɛ ... sɛ n'adeɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Gideon"}, {"surface": "גדעון", "gloss": "Gideon"}, {"surface": "ויתקע", "gloss": "ɔtoɔ dwom"}, {"surface": "בשופר", "gloss": "wɔ aben mu"}, {"surface": "ויזעק", "gloss": "frɛɛ ne nuanom"}, {"surface": "אביעזר", "gloss": "Abiezer"}, {"surface": "אחריו", "gloss": "baa n'akyi"}], "timestamp": "2026-09-15T22:38:25.810075574Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na Yawe Honhom hyɛɛ ⟨את⟩ Gideon sɛ n'adeɛ, na ɔtoɔ dwom wɔ aben mu, na Abiezer frɛɛ ne nuanom baa n'akyi.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "Honhom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "hyɛɛ ... sɛ n'adeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gideon"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "ɔtoɔ dwom"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "wɔ aben mu"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "frɛɛ ne nuanom"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baa n'akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:38:25.810075574Z",
+  "model": "glm-5.3"
+}

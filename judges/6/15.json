@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":15,"ref":"judges 6:15","book":"judges","lang":"tw","chapter":6,"translation":"Ɔkaa kyerɛɛ no sɛ: Mepa wo kyɛw, Adonai, adeɛ bɛn na mɛde agya Yisrael ⟨את⟩? Hwɛ, me ebusua yɛ emu dɔla wɔ Manase mu, na me nso meyɛ obi a ɔsua koraa wɔ m'agya fie.","tokens":[{"surface":"ויאמר","gloss":"ɔkaa kyerɛɛ"},{"surface":"אליו","gloss":"no"},{"surface":"בי","gloss":"mepa wo kyɛw"},{"surface":"אדני","gloss":"Adonai"},{"surface":"במה","gloss":"adeɛ bɛn na mɛde"},{"surface":"אושיע","gloss":"agya"},{"surface":"את","gloss":"⟨את⟩","marks":"Yisrael"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"הנה","gloss":"hwɛ"},{"surface":"אלפי","gloss":"me ebusua"},{"surface":"הדל","gloss":"emu dɔla"},{"surface":"במנשה","gloss":"wɔ Manase mu"},{"surface":"ואנכי","gloss":"na me nso"},{"surface":"הצעיר","gloss":"obi a ɔsua koraa"},{"surface":"בבית","gloss":"wɔ fie"},{"surface":"אבי","gloss":"m'agya"}],"timestamp":"2026-09-16T05:14:54.134612414Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɔkaa kyerɛɛ no sɛ: Mepa wo kyɛw, Adonai, adeɛ bɛn na mɛde agya Yisrael ⟨את⟩? Hwɛ, me ebusua yɛ emu dɔla wɔ Manase mu, na me nso meyɛ obi a ɔsua koraa wɔ m'agya fie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "במה",
+      "gloss": "adeɛ bɛn na mɛde"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "agya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hwɛ"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "me ebusua"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "emu dɔla"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "wɔ Manase mu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na me nso"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "obi a ɔsua koraa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    }
+  ],
+  "timestamp": "2026-09-16T05:14:54.134612414Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "2-kings 20:15", "book": "2-kings", "lang": "tw", "chapter": 20, "translation": "Ɔkaa sɛ: Deɛ wɔhunuu wɔ wo fie no dɛn? Hizkiahu de too so sɛ: Deɛ ɛwɔ me fie mu ⟨את⟩ nyinaa wɔhunuu; biribiara nni hɔ a mempue kyerɛɛ wɔn wɔ me adaka mu.", "tokens": [{"surface": "ויאמר", "gloss": "na ɔkaa"}, {"surface": "מה", "gloss": "dɛn"}, {"surface": "ראו", "gloss": "wɔhunuu"}, {"surface": "בביתך", "gloss": "wɔ wo fie"}, {"surface": "ויאמר", "gloss": "na ɔkaa"}, {"surface": "חזקיהו", "gloss": "Hizkiahu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deɛ ɛwɔ me fie mu nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אשר", "gloss": "deɛ"}, {"surface": "בביתי", "gloss": "wɔ me fie mu"}, {"surface": "ראו", "gloss": "wɔhunuu"}, {"surface": "לא", "gloss": "nni"}, {"surface": "היה", "gloss": "hɔ"}, {"surface": "דבר", "gloss": "biribiara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "לא", "gloss": "mempue"}, {"surface": "הראיתם", "gloss": "kyerɛɛ wɔn"}, {"surface": "באצרתי", "gloss": "wɔ me adaka mu"}], "timestamp": "2026-09-15T23:35:37.423975023Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ɔkaa sɛ: Deɛ wɔhunuu wɔ wo fie no dɛn? Hizkiahu de too so sɛ: Deɛ ɛwɔ me fie mu ⟨את⟩ nyinaa wɔhunuu; biribiara nni hɔ a mempue kyerɛɛ wɔn wɔ me adaka mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dɛn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wɔ wo fie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛwɔ me fie mu nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "wɔ me fie mu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mempue"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "kyerɛɛ wɔn"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "wɔ me adaka mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:35:37.423975023Z",
+  "model": "glm-5.3"
+}

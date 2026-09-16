@@ -1,1 +1,117 @@
-{"tier":"glm-5.2","verse":9,"ref":"genesis 22:9","book":"genesis","lang":"tw","chapter":22,"translation":"Wɔbaa beae a Eloohim kaa kyerɛɛ no no; na Abraham sii ogya dan ⟨את⟩ adurow no wɔ hɔ, hyehyɛɛ ⟨את⟩ nnua no, kyekyeree ⟨את⟩ Yitsak ne ba, de no too adurow no so, ⟨את⟩ nnua no atifi.","tokens":[{"surface":"ויבאו","gloss":"Wɔbaa"},{"surface":"אל","gloss":"kɔ"},{"surface":"המקום","gloss":"beae"},{"surface":"אשר","gloss":"a"},{"surface":"אמר","gloss":"kaa"},{"surface":"לו","gloss":"kyerɛɛ no"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"ויבן","gloss":"sii"},{"surface":"שם","gloss":"wɔ hɔ"},{"surface":"אברהם","gloss":"Abraham"},{"surface":"את","gloss":"⟨את⟩","marks":"adurow no"},{"surface":"המזבח","gloss":"ogyadan"},{"surface":"ויערך","gloss":"hyehyɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"nnua no"},{"surface":"העצים","gloss":"nnua"},{"surface":"ויעקד","gloss":"kyekyeree"},{"surface":"את","gloss":"⟨את⟩","marks":"Yitsak"},{"surface":"יצחק","gloss":"Yitsak"},{"surface":"בנו","gloss":"ne ba"},{"surface":"וישם","gloss":"de too"},{"surface":"אתו","gloss":"⟨את⟩ no","marks":"Yitsak"},{"surface":"על","gloss":"so"},{"surface":"המזבח","gloss":"ogyadan no"},{"surface":"ממעל","gloss":"atifi"},{"surface":"לעצים","gloss":"nnua no"}],"timestamp":"2026-09-15T20:23:17.536548291Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 22:9",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Wɔbaa beae a Eloohim kaa kyerɛɛ no no; na Abraham sii ogya dan ⟨את⟩ adurow no wɔ hɔ, hyehyɛɛ ⟨את⟩ nnua no, kyekyeree ⟨את⟩ Yitsak ne ba, de no too adurow no so, ⟨את⟩ nnua no atifi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Wɔbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "beae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "sii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adurow no"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ogyadan"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "hyehyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnua no"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "ויעקד",
+      "gloss": "kyekyeree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "de too"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ogyadan no"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "לעצים",
+      "gloss": "nnua no"
+    }
+  ],
+  "timestamp": "2026-09-15T20:23:17.536548291Z",
+  "model": "glm-5.3"
+}

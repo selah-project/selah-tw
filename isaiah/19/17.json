@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":17,"ref":"isaiah 19:17","book":"isaiah","lang":"tw","chapter":19,"translation":"Na asase Yehuda bɛyɛ ehuw ama Misraim; obiara a ɔbɛka ⟨את⟩ ne din wɔ ne ho no bɛyɛ waw, ɛfiri Yawe Sabua afotu a ⟨ɔno⟩ nam so hyehyɛ tia no no.","tokens":[{"surface":"והיתה","gloss":"na ... bɛyɛ"},{"surface":"אדמת","gloss":"asase"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"למצרים","gloss":"ama Misraim"},{"surface":"לחגא","gloss":"ehuw"},{"surface":"כל","gloss":"obiara"},{"surface":"אשר","gloss":"a"},{"surface":"יזכיר","gloss":"bɛka ... din"},{"surface":"אתה","gloss":"⟨את⟩","marks":"ne din (asase Yehuda)"},{"surface":"אליו","gloss":"wɔ ne ho"},{"surface":"יפחד","gloss":"bɛyɛ waw"},{"surface":"מפני","gloss":"ɛfiri"},{"surface":"עצת","gloss":"afotu"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"אשר","gloss":"a"},{"surface":"הוא","gloss":"⟨ɔno⟩"},{"surface":"יועץ","gloss":"nam so hyehyɛ"},{"surface":"עליו","gloss":"tia no"}],"timestamp":"2026-09-16T05:24:12.601236188Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 19:17",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na asase Yehuda bɛyɛ ehuw ama Misraim; obiara a ɔbɛka ⟨את⟩ ne din wɔ ne ho no bɛyɛ waw, ɛfiri Yawe Sabua afotu a ⟨ɔno⟩ nam so hyehyɛ tia no no.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "na ... bɛyɛ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "asase"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ama Misraim"
+    },
+    {
+      "surface": "לחגא",
+      "gloss": "ehuw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יזכיר",
+      "gloss": "bɛka ... din"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ne din (asase Yehuda)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wɔ ne ho"
+    },
+    {
+      "surface": "יפחד",
+      "gloss": "bɛyɛ waw"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɛfiri"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "afotu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ɔno⟩"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "nam so hyehyɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tia no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:12.601236188Z",
+  "model": "glm-5.3"
+}

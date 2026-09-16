@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "2-samuel 13:22", "book": "2-samuel", "lang": "tw", "chapter": 13, "translation": "Na Abshalom annkasa nkyerɛ ⟨את⟩ Amnon bɔne anaa papa, ɛfiri sɛ Abshalom tan ⟨את⟩ Amnon esiane asɛm a ɔdii Tamar ne nuabea no ho adew so.", "tokens": [{"surface": "ולא", "gloss": "Na ... ann"}, {"surface": "דבר", "gloss": "kasa"}, {"surface": "אבשלום", "gloss": "Abshalom"}, {"surface": "עם", "gloss": "nkyerɛ"}, {"surface": "אמנון", "gloss": "Amnon"}, {"surface": "למרע", "gloss": "bɔne"}, {"surface": "ועד", "gloss": "anaa"}, {"surface": "טוב", "gloss": "papa"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "שנא", "gloss": "tan"}, {"surface": "אבשלום", "gloss": "Abshalom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Amnon"}, {"surface": "אמנון", "gloss": "Amnon"}, {"surface": "על", "gloss": "esiane"}, {"surface": "דבר", "gloss": "asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ענה", "gloss": "dii ... ho adew so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Tamar"}, {"surface": "תמר", "gloss": "Tamar"}, {"surface": "אחתו", "gloss": "ne nuabea"}], "timestamp": "2026-09-16T05:19:13.567921953Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Abshalom annkasa nkyerɛ ⟨את⟩ Amnon bɔne anaa papa, ɛfiri sɛ Abshalom tan ⟨את⟩ Amnon esiane asɛm a ɔdii Tamar ne nuabea no ho adew so.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ... ann"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nkyerɛ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "esiane"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "dii ... ho adew so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ne nuabea"
+    }
+  ],
+  "timestamp": "2026-09-16T05:19:13.567921953Z",
+  "model": "glm-5.3"
+}

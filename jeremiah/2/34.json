@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":34,"ref":"jeremiah 2:34","book":"jeremiah","lang":"tw","chapter":2,"translation":"Bio, wo nkyɛnmu na wɔhunuu abɔfoɔ a wɔyɛ ahiafoɔ na wɔho nteɛ no mogya; ɛnyɛ sɛ wɔbɔɔ afiim hwehwɛɛ sika na wohui wɔn — na ɛwɔ biribiara yi so.","tokens":[{"surface":"גם","gloss":"Bio"},{"surface":"בכנפיך","gloss":"wo nkyɛnmu"},{"surface":"נמצאו","gloss":"wɔhunuu"},{"surface":"דם","gloss":"mogya"},{"surface":"נפשות","gloss":"abɔfoɔ"},{"surface":"אביונים","gloss":"ahiafoɔ"},{"surface":"נקיים","gloss":"wɔho nteɛ"},{"surface":"לא","gloss":"ɛnyɛ sɛ"},{"surface":"במחתרת","gloss":"wɔbɔɔ afiim"},{"surface":"מצאתים","gloss":"wohui wɔn"},{"surface":"כי","gloss":"na"},{"surface":"על","gloss":"so"},{"surface":"כל","gloss":"biribiara"},{"surface":"אלה","gloss":"yi"}],"timestamp":"2026-09-16T00:05:30.038553630Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 2:34",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Bio, wo nkyɛnmu na wɔhunuu abɔfoɔ a wɔyɛ ahiafoɔ na wɔho nteɛ no mogya; ɛnyɛ sɛ wɔbɔɔ afiim hwehwɛɛ sika na wohui wɔn — na ɛwɔ biribiara yi so.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bio"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "wo nkyɛnmu"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "wɔhunuu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "abɔfoɔ"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "נקיים",
+      "gloss": "wɔho nteɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "wɔbɔɔ afiim"
+    },
+    {
+      "surface": "מצאתים",
+      "gloss": "wohui wɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-16T00:05:30.038553630Z",
+  "model": "glm-5.3"
+}

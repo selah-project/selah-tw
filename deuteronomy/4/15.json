@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":15,"ref":"deuteronomy 4:15","book":"deuteronomy","lang":"tw","chapter":4,"translation":"Ɛno nti mo nhwɛ yie kɛseɛ wɔ mo ankasa ho, ɛfiri sɛ moanhunu mfonini biara wɔ da a Yawe kasa kyerɛɛ mo wɔ Horeb no, ogya no mu.","tokens":[{"surface":"ונשמרתם","gloss":"mo nhwɛ yie"},{"surface":"מאד","gloss":"kɛseɛ"},{"surface":"לנפשתיכם","gloss":"wɔ mo ankasa ho"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"לא","gloss":"nn"},{"surface":"ראיתם","gloss":"moanhunu"},{"surface":"כל","gloss":"biara"},{"surface":"תמונה","gloss":"mfonini"},{"surface":"ביום","gloss":"wɔ da"},{"surface":"דבר","gloss":"kasa"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אליכם","gloss":"kyerɛɛ mo"},{"surface":"בחרב","gloss":"wɔ Horeb"},{"surface":"מתוך","gloss":"mu"},{"surface":"האש","gloss":"ogya"}],"timestamp":"2026-09-15T21:46:47.426898146Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 4:15",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Ɛno nti mo nhwɛ yie kɛseɛ wɔ mo ankasa ho, ɛfiri sɛ moanhunu mfonini biara wɔ da a Yawe kasa kyerɛɛ mo wɔ Horeb no, ogya no mu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "mo nhwɛ yie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "wɔ mo ankasa ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "moanhunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "mfonini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kyerɛɛ mo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wɔ Horeb"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogya"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:47.426898146Z",
+  "model": "glm-5.3"
+}

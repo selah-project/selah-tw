@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "genesis 39:4", "book": "genesis", "lang": "tw", "chapter": 39, "translation": "Na Yosef hunu dadɔ wɔ n'ani so, na ɔsom no; na ⟨את⟩ ɔde no sii ne fie so, na deɛ ɔwɔ nyinaa ɔde hyɛɛ ne nsa mu.", "tokens": [{"surface": "וימצא", "gloss": "hunu"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "חן", "gloss": "dadɔ"}, {"surface": "בעיניו", "gloss": "wɔ n'ani so"}, {"surface": "וישרת", "gloss": "na ɔsom"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "ויפקדהו", "gloss": "ɔde no sii so"}, {"surface": "על", "gloss": "so"}, {"surface": "ביתו", "gloss": "ne fie"}, {"surface": "וכל", "gloss": "na deɛ ... nyinaa"}, {"surface": "יש", "gloss": "ɔwɔ"}, {"surface": "לו", "gloss": "(dative -for him)"}, {"surface": "נתן", "gloss": "ɔde hyɛɛ"}, {"surface": "בידו", "gloss": "ne nsa mu"}], "timestamp": "2026-09-15T20:36:45.754281258Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 39,
+  "translation": "Na Yosef hunu dadɔ wɔ n'ani so, na ɔsom no; na ⟨את⟩ ɔde no sii ne fie so, na deɛ ɔwɔ nyinaa ɔde hyɛɛ ne nsa mu.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "hunu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חן",
+      "gloss": "dadɔ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wɔ n'ani so"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "na ɔsom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "ɔde no sii so"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ne fie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na deɛ ... nyinaa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(dative -for him)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ɔde hyɛɛ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ne nsa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T20:36:45.754281258Z",
+  "model": "glm-5.3"
+}

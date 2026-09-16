@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "1-kings 2:17", "book": "1-kings", "lang": "tw", "chapter": 2, "translation": "Na ɔkaa sɛ: Bisa, mesrɛ wo, Shlomoh ⟨ɔ⟩ ɔhene no, ɛfiri sɛ ɔrentwa ⟨את⟩ wo anim, na ɔmma me ⟨את⟩ Abishag ⟨ɔ⟩ Shunamni no sɛ yere.", "tokens": [{"surface": "ויאמר", "gloss": "Na ɔkaa sɛ"}, {"surface": "אמרי", "gloss": "Bisa"}, {"surface": "נא", "gloss": "mesrɛ wo"}, {"surface": "לשלמה", "gloss": "Shlomoh"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "לא", "gloss": "ren-"}, {"surface": "ישיב", "gloss": "ntwa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo anim"}, {"surface": "פניך", "gloss": "wo anim"}, {"surface": "ויתן", "gloss": "na ɔmma"}, {"surface": "לי", "gloss": "me"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Abishag"}, {"surface": "אבישג", "gloss": "Abishag"}, {"surface": "השונמית", "gloss": "Shunamni no"}, {"surface": "לאשה", "gloss": "sɛ yere"}], "timestamp": "2026-09-15T23:13:11.635762944Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na ɔkaa sɛ: Bisa, mesrɛ wo, Shlomoh ⟨ɔ⟩ ɔhene no, ɛfiri sɛ ɔrentwa ⟨את⟩ wo anim, na ɔmma me ⟨את⟩ Abishag ⟨ɔ⟩ Shunamni no sɛ yere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa sɛ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Bisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mesrɛ wo"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren-"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo anim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wo anim"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ɔmma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shunamni no"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sɛ yere"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:11.635762944Z",
+  "model": "glm-5.3"
+}

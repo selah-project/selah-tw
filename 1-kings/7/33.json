@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":33,"ref":"1-kings 7:33","book":"1-kings","lang":"tw","chapter":7,"translation":"Na mmorɔn no adwuma yɛ sɛ karɔn mmorɔn adwuma; wɔn akeseɛ ne wɔn akyikyerɛ ne wɔn nsensan ne wɔn nkabomde — ne nyinaa yɛ de wɔatu no mu.","tokens":[{"surface":"ומעשה","gloss":"na adwuma"},{"surface":"האופנים","gloss":"mmorɔn no"},{"surface":"כמעשה","gloss":"sɛ adwuma"},{"surface":"אופן","gloss":"mmorɔn"},{"surface":"המרכבה","gloss":"karɔn no"},{"surface":"ידותם","gloss":"wɔn akeseɛ"},{"surface":"וגביהם","gloss":"ne wɔn akyikyerɛ"},{"surface":"וחשקיהם","gloss":"ne wɔn nsensan"},{"surface":"וחשריהם","gloss":"ne wɔn nkabomde"},{"surface":"הכל","gloss":"ne nyinaa"},{"surface":"מוצק","gloss":"de wɔatu no mu"}],"timestamp":"2026-09-15T23:15:56.326824726Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 7:33",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na mmorɔn no adwuma yɛ sɛ karɔn mmorɔn adwuma; wɔn akeseɛ ne wɔn akyikyerɛ ne wɔn nsensan ne wɔn nkabomde — ne nyinaa yɛ de wɔatu no mu.",
+  "tokens": [
+    {
+      "surface": "ומעשה",
+      "gloss": "na adwuma"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "mmorɔn no"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sɛ adwuma"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "mmorɔn"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "karɔn no"
+    },
+    {
+      "surface": "ידותם",
+      "gloss": "wɔn akeseɛ"
+    },
+    {
+      "surface": "וגביהם",
+      "gloss": "ne wɔn akyikyerɛ"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ne wɔn nsensan"
+    },
+    {
+      "surface": "וחשריהם",
+      "gloss": "ne wɔn nkabomde"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "de wɔatu no mu"
+    }
+  ],
+  "timestamp": "2026-09-15T23:15:56.326824726Z",
+  "model": "glm-5.3"
+}

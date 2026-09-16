@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 82:3","book":"psalms","lang":"tw","chapter":82,"translation":"\"Monwu amamfɔ ne mmɔfrɔ a wɔawu agya no ho asɛm, monhyira ahiafoɔ ne adifudepɛfoɔ no.\"","tokens":[{"surface":"שפטו","gloss":"Monwu ... asɛm"},{"surface":"דל","gloss":"amamfɔ"},{"surface":"ויתום","gloss":"mmɔfrɔ a wɔawu agya no"},{"surface":"עני","gloss":"ahiafoɔ"},{"surface":"ורש","gloss":"adifudepɛfoɔ"},{"surface":"הצדיקו","gloss":"monhyira"}],"timestamp":"2026-09-16T02:11:36.718828509Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 82,
+  "translation": "\"Monwu amamfɔ ne mmɔfrɔ a wɔawu agya no ho asɛm, monhyira ahiafoɔ ne adifudepɛfoɔ no.\"",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Monwu ... asɛm"
+    },
+    {
+      "surface": "דל",
+      "gloss": "amamfɔ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "mmɔfrɔ a wɔawu agya no"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ahiafoɔ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "adifudepɛfoɔ"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "monhyira"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:36.718828509Z",
+  "model": "glm-5.3"
+}

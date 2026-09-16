@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "1-samuel 11:4", "book": "1-samuel", "lang": "tw", "chapter": 11, "translation": "Asomafoɔ no baa Saul Gibea, kaa nsɛm no wɔ nnipa no aso; na nnipa no nyinaa de ⟨את⟩ wɔn nne too hu, bɔɔ su.", "tokens": [{"surface": "ויבאו", "gloss": "baa"}, {"surface": "המלאכים", "gloss": "asomafoɔ no"}, {"surface": "גבעת", "gloss": "Gibea"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "וידברו", "gloss": "kaa"}, {"surface": "הדברים", "gloss": "nsɛm no"}, {"surface": "באזני", "gloss": "wɔ ... aso"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "וישאו", "gloss": "de wɔn nne too hu"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העם", "gloss": "nnipa no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn nne"}, {"surface": "קולם", "gloss": "wɔn nne"}, {"surface": "ויבכו", "gloss": "bɔɔ su"}], "timestamp": "2026-09-16T05:16:42.162471253Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Asomafoɔ no baa Saul Gibea, kaa nsɛm no wɔ nnipa no aso; na nnipa no nyinaa de ⟨את⟩ wɔn nne too hu, bɔɔ su.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baa"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "asomafoɔ no"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm no"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "wɔ ... aso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "de wɔn nne too hu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn nne"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "wɔn nne"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bɔɔ su"
+    }
+  ],
+  "timestamp": "2026-09-16T05:16:42.162471253Z",
+  "model": "glm-5.3"
+}

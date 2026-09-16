@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":18,"ref":"deuteronomy 24:18","book":"deuteronomy","lang":"tw","chapter":24,"translation":"NaKAe ka sɛ woyɛɛ adwan wɔ Misraim, na Yawe wo Eloohim gyee wo firi hɔ; ɛno enti mɛka kyerɛ wo sɛ yɛ ⟨את⟩ nsɛm yi.","tokens":[{"surface":"וזכרת","gloss":"kae"},{"surface":"כי","gloss":"sɛ"},{"surface":"עבד","gloss":"adwan"},{"surface":"היית","gloss":"woyɛɛ"},{"surface":"במצרים","gloss":"wɔ Misraim"},{"surface":"ויפדך","gloss":"gyee wo"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"משם","gloss":"firi hɔ"},{"surface":"על","gloss":"ɛno enti"},{"surface":"כן","gloss":" enti"},{"surface":"אנכי","gloss":"mɛ"},{"surface":"מצוך","gloss":"ka kyerɛ wo"},{"surface":"לעשות","gloss":"sɛ yɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"nsɛm yi"},{"surface":"הדבר","gloss":"nsɛm"},{"surface":"הזה","gloss":"yi"}],"timestamp":"2026-09-15T21:56:14.169267949Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 24:18",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "NaKAe ka sɛ woyɛɛ adwan wɔ Misraim, na Yawe wo Eloohim gyee wo firi hɔ; ɛno enti mɛka kyerɛ wo sɛ yɛ ⟨את⟩ nsɛm yi.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "kae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adwan"
+    },
+    {
+      "surface": "היית",
+      "gloss": "woyɛɛ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wɔ Misraim"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "gyee wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "משם",
+      "gloss": "firi hɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɛno enti"
+    },
+    {
+      "surface": "כן",
+      "gloss": " enti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mɛ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ka kyerɛ wo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sɛ yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:14.169267949Z",
+  "model": "glm-5.3"
+}

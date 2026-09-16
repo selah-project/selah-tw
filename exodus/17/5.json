@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":5,"ref":"exodus 17:5","book":"exodus","lang":"tw","chapter":17,"translation":"Yawe kaa kyerɛɛ Mose: Kɔ ⟨nnipa⟩ no anim, na fa ⟨את⟩ wo ho mpanimfoɔ bi firi Yisrael mu, ne wo dua a wode bɔɔ ⟨את⟩ asubɔnten no — fa no wɔ wo nsam na kɔ.","tokens":[{"surface":"ויאמר","gloss":"kaa"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"משה","gloss":"Mose"},{"surface":"עבר","gloss":"Kɔ"},{"surface":"לפני","gloss":"anim"},{"surface":"העם","gloss":"nnipa no"},{"surface":"וקח","gloss":"na fa"},{"surface":"אתך","gloss":"⟨את⟩ wo ho","marks":"mpanimfoɔ bi firi Yisrael mu"},{"surface":"מזקני","gloss":"mpanimfoɔ bi firi"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ומטך","gloss":"ne wo dua"},{"surface":"אשר","gloss":"a"},{"surface":"הכית","gloss":"wode bɔɔ"},{"surface":"בו","gloss":"no"},{"surface":"את","gloss":"⟨את⟩","marks":"asubɔnten no"},{"surface":"היאר","gloss":"asubɔnten no"},{"surface":"קח","gloss":"fa no"},{"surface":"בידך","gloss":"wɔ wo nsam"},{"surface":"והלכת","gloss":"na kɔ"}],"timestamp":"2026-09-15T20:52:34.427103105Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Yawe kaa kyerɛɛ Mose: Kɔ ⟨nnipa⟩ no anim, na fa ⟨את⟩ wo ho mpanimfoɔ bi firi Yisrael mu, ne wo dua a wode bɔɔ ⟨את⟩ asubɔnten no — fa no wɔ wo nsam na kɔ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Kɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "na fa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo ho",
+      "marks": "mpanimfoɔ bi firi Yisrael mu"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "mpanimfoɔ bi firi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "ne wo dua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "wode bɔɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asubɔnten no"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "asubɔnten no"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fa no"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "wɔ wo nsam"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "na kɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:52:34.427103105Z",
+  "model": "glm-5.3"
+}

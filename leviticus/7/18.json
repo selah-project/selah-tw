@@ -1,1 +1,101 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "leviticus 7:18", "book": "leviticus", "lang": "tw", "chapter": 7, "translation": "Na sɛ wɔdi bi wɔ ne som ⟨את⟩ no nwomu wɔ ɛda a ɛtɔ so mmiɛnsa no, ɛnhwɛ so; ɛnkenkan deɛ ɔde ma no ho; ɛbɛyɛ pigul; na honhom a ɔdi bi no bɛsoa ne bɔne.", "tokens": [{"surface": "ואם", "gloss": "na sɛ"}, {"surface": "האכל", "gloss": "wɔdi"}, {"surface": "יאכל", "gloss": "bi"}, {"surface": "מבשר", "gloss": "wɔ nwomu"}, {"surface": "זבח", "gloss": "som"}, {"surface": "שלמיו", "gloss": "ne... no"}, {"surface": "ביום", "gloss": "wɔ ɛda"}, {"surface": "השלישי", "gloss": "a ɛtɔ so mmiɛnsa no"}, {"surface": "לא", "gloss": "ɛn-"}, {"surface": "ירצה", "gloss": "hwɛ so"}, {"surface": "המקריב", "gloss": "deɛ ɔde ma"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "לא", "gloss": "ɛn-"}, {"surface": "יחשב", "gloss": "kenkan"}, {"surface": "לו", "gloss": "no ho"}, {"surface": "פגול", "gloss": "pigul"}, {"surface": "יהיה", "gloss": "ɛbɛyɛ"}, {"surface": "והנפש", "gloss": "na honhom"}, {"surface": "האכלת", "gloss": "a ɔdi"}, {"surface": "ממנו", "gloss": "bi"}, {"surface": "עונה", "gloss": "ne bɔne"}, {"surface": "תשא", "gloss": "bɛsoa"}], "timestamp": "2026-09-15T21:10:12.476680273Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 7:18",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na sɛ wɔdi bi wɔ ne som ⟨את⟩ no nwomu wɔ ɛda a ɛtɔ so mmiɛnsa no, ɛnhwɛ so; ɛnkenkan deɛ ɔde ma no ho; ɛbɛyɛ pigul; na honhom a ɔdi bi no bɛsoa ne bɔne.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "wɔdi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bi"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "wɔ nwomu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ne... no"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a ɛtɔ so mmiɛnsa no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛn-"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "hwɛ so"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "deɛ ɔde ma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛn-"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "kenkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pigul"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ɛbɛyɛ"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "na honhom"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "a ɔdi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bi"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bɛsoa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:12.476680273Z",
+  "model": "glm-5.3"
+}

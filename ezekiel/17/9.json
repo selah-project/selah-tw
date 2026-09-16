@@ -1,1 +1,119 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "ezekiel 17:9", "book": "ezekiel", "lang": "tw", "chapter": 17, "translation": "Ka sɛ: Sɛnea Adonai Yawe ka no: Ɛbɛtumi ayɛ yie? Ɛnyɛ sɛ ⟨את⟩ ne nnensini wɔbɛtetew ano, na ⟨את⟩ ne aba wɔbɛtwa mu, na ɛsensera? Ne nsoromma nhaban foforɔ nyinaa bɛsensera; ɛnyɛ wɔ nnuruam kɛseɛ anaa nnipa dodoɔ mu na wɔbɛtumi asoa no afiri ⟨את⟩ ne nnensini so.", "tokens": [{"surface": "אמר", "gloss": "Ka"}, {"surface": "כה", "gloss": "sɛnea"}, {"surface": "אמר", "gloss": "ka"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "תצלח", "gloss": "bɛtumi ayɛ yie"}, {"surface": "הלוא", "gloss": "ɛnyɛ sɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nnensini"}, {"surface": "שרשיה", "gloss": "ne nnensini"}, {"surface": "ינתק", "gloss": "wɔbɛtetew ano"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ne aba"}, {"surface": "פריה", "gloss": "ne aba"}, {"surface": "יקוסס", "gloss": "wɔbɛtwa mu"}, {"surface": "ויבש", "gloss": "na ɛsensera"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "טרפי", "gloss": "nhaban foforɔ"}, {"surface": "צמחה", "gloss": "ne nsoromma"}, {"surface": "תיבש", "gloss": "bɛsensera"}, {"surface": "ולא", "gloss": "ɛnyɛ"}, {"surface": "בזרע", "gloss": "wɔ nnuruam"}, {"surface": "גדולה", "gloss": "kɛseɛ"}, {"surface": "ובעם", "gloss": "anaa wɔ nnipa"}, {"surface": "רב", "gloss": "dodoɔ"}, {"surface": "למשאות", "gloss": "soa"}, {"surface": "אותה", "gloss": "⟨את⟩ no"}, {"surface": "משרשיה", "gloss": "afiri ne nnensini so"}], "timestamp": "2026-09-16T00:41:51.295640598Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 17:9",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Ka sɛ: Sɛnea Adonai Yawe ka no: Ɛbɛtumi ayɛ yie? Ɛnyɛ sɛ ⟨את⟩ ne nnensini wɔbɛtetew ano, na ⟨את⟩ ne aba wɔbɛtwa mu, na ɛsensera? Ne nsoromma nhaban foforɔ nyinaa bɛsensera; ɛnyɛ wɔ nnuruam kɛseɛ anaa nnipa dodoɔ mu na wɔbɛtumi asoa no afiri ⟨את⟩ ne nnensini so.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "bɛtumi ayɛ yie"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ɛnyɛ sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnensini"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ne nnensini"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "wɔbɛtetew ano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne aba"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ne aba"
+    },
+    {
+      "surface": "יקוסס",
+      "gloss": "wɔbɛtwa mu"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "na ɛsensera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "טרפי",
+      "gloss": "nhaban foforɔ"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "ne nsoromma"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "bɛsensera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "בזרע",
+      "gloss": "wɔ nnuruam"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "ובעם",
+      "gloss": "anaa wɔ nnipa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dodoɔ"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "soa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "משרשיה",
+      "gloss": "afiri ne nnensini so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:41:51.295640598Z",
+  "model": "glm-5.3"
+}

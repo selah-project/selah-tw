@@ -1,1 +1,42 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "1-chronicles 23:2", "book": "1-chronicles", "lang": "tw", "chapter": 23, "translation": "Ɔboaa Yisraelfoɔ akandifoɔ ⟨את⟩ nyinaa, ne asɔfoɔ ne Levifoɔ.", "tokens": [{"surface": "ויאסף", "gloss": "ɔboaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "akandifoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "שרי", "gloss": "akandifoɔ"}, {"surface": "ישראל", "gloss": "Yisraelfoɔ"}, {"surface": "והכהנים", "gloss": "ne asɔfoɔ"}, {"surface": "והלוים", "gloss": "ne Levifoɔ"}], "timestamp": "2026-09-16T05:55:48.278271199Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Ɔboaa Yisraelfoɔ akandifoɔ ⟨את⟩ nyinaa, ne asɔfoɔ ne Levifoɔ.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ɔboaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akandifoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akandifoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelfoɔ"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ne asɔfoɔ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ne Levifoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:55:48.278271199Z",
+  "model": "glm-5.3"
+}

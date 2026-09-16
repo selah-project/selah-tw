@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":10,"ref":"esther 1:10","book":"esther","lang":"tw","chapter":1,"translation":"Da a ɛtoɔ so nson no, ɛberɛ a ɔhene no akoma gyee wɔ nsa mu no, ɔkaa kyerɛɛ Mehuman, Bizta, Harbona, Bigta ne Abagta, Zetar ne Karkas — akwammafoɔ nson a wɔsom wɔ ɔhene Akaswerosh anim ⟨את⟩ no.","tokens":[{"surface":"ביום","gloss":"da no mu"},{"surface":"השביעי","gloss":"a ɛtoɔ so nson"},{"surface":"כטוב","gloss":"sɛnea ... gyee"},{"surface":"לב","gloss":"akoma"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"ביין","gloss":"nsa mu"},{"surface":"אמר","gloss":"kaa kyerɛɛ"},{"surface":"למהומן","gloss":"kyerɛɛ Mehuman"},{"surface":"בזתא","gloss":"Bizta"},{"surface":"חרבונא","gloss":"Harbona"},{"surface":"בגתא","gloss":"Bigta"},{"surface":"ואבגתא","gloss":"ne Abagta"},{"surface":"זתר","gloss":"Zetar"},{"surface":"וכרכס","gloss":"ne Karkas"},{"surface":"שבעת","gloss":"nson"},{"surface":"הסריסים","gloss":"akwammafoɔ"},{"surface":"המשרתים","gloss":"a wɔsom"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔhene anim"},{"surface":"פני","gloss":"anim"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"אחשורוש","gloss":"Akaswerosh"}],"timestamp":"2026-09-16T04:00:28.433158656Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 1:10",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Da a ɛtoɔ so nson no, ɛberɛ a ɔhene no akoma gyee wɔ nsa mu no, ɔkaa kyerɛɛ Mehuman, Bizta, Harbona, Bigta ne Abagta, Zetar ne Karkas — akwammafoɔ nson a wɔsom wɔ ɔhene Akaswerosh anim ⟨את⟩ no.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a ɛtoɔ so nson"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "sɛnea ... gyee"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "nsa mu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "למהומן",
+      "gloss": "kyerɛɛ Mehuman"
+    },
+    {
+      "surface": "בזתא",
+      "gloss": "Bizta"
+    },
+    {
+      "surface": "חרבונא",
+      "gloss": "Harbona"
+    },
+    {
+      "surface": "בגתא",
+      "gloss": "Bigta"
+    },
+    {
+      "surface": "ואבגתא",
+      "gloss": "ne Abagta"
+    },
+    {
+      "surface": "זתר",
+      "gloss": "Zetar"
+    },
+    {
+      "surface": "וכרכס",
+      "gloss": "ne Karkas"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nson"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "akwammafoɔ"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "a wɔsom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akaswerosh"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:28.433158656Z",
+  "model": "glm-5.3"
+}

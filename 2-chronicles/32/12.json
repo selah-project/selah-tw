@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "2-chronicles 32:12", "book": "2-chronicles", "lang": "tw", "chapter": 32, "translation": "So ɔno ara, Yehizkiyahu, na ɔyii ⟨את⟩ ne mmeae kronkron ne ⟨את⟩ n'abɔdan no, na ɔkaa kyerɛɛ Yuda ne Yerusalem sɛ: 'Mɔyɛ awerɛhyɛm wɔ abɔdan baako anim, na moasɔ nhwiren agu so'?", "tokens": [{"surface": "הלא", "gloss": "So"}, {"surface": "הוא", "gloss": "ɔno ara"}, {"surface": "יחזקיהו", "gloss": "Yehizkiyahu"}, {"surface": "הסיר", "gloss": "yii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne mmeae kronkron"}, {"surface": "במתיו", "gloss": "ne mmeae kronkron"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "n'abɔdan"}, {"surface": "מזבחתיו", "gloss": "n'abɔdan"}, {"surface": "ויאמר", "gloss": "na ɔkaa kyerɛɛ"}, {"surface": "ליהודה", "gloss": "Yuda"}, {"surface": "ולירושלם", "gloss": "ne Yerusalem"}, {"surface": "לאמר", "gloss": "sɛ"}, {"surface": "לפני", "gloss": "wɔ ... anim"}, {"surface": "מזבח", "gloss": "abɔdan"}, {"surface": "אחד", "gloss": "baako"}, {"surface": "תשתחוו", "gloss": "Mɔyɛ awerɛhyɛm"}, {"surface": "ועליו", "gloss": "na ... agu so"}, {"surface": "תקטירו", "gloss": "moasɔ nhwiren"}], "timestamp": "2026-09-16T05:10:35.109206322Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "So ɔno ara, Yehizkiyahu, na ɔyii ⟨את⟩ ne mmeae kronkron ne ⟨את⟩ n'abɔdan no, na ɔkaa kyerɛɛ Yuda ne Yerusalem sɛ: 'Mɔyɛ awerɛhyɛm wɔ abɔdan baako anim, na moasɔ nhwiren agu so'?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "So"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ara"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mmeae kronkron"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ne mmeae kronkron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n'abɔdan"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "n'abɔdan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa kyerɛɛ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ne Yerusalem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "abɔdan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "Mɔyɛ awerɛhyɛm"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "na ... agu so"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "moasɔ nhwiren"
+    }
+  ],
+  "timestamp": "2026-09-16T05:10:35.109206322Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 29, "ref": "ezekiel 32:29", "book": "ezekiel", "lang": "tw", "chapter": 32, "translation": "Hɔ na Edom ne n'ahemfo ne nsianimma nyinaa a wɔde wɔn ho guu wɔn ahoɔden mu, ⟨את⟩ afena ⟨את⟩ akɔfoɔ no ho; wɔn ara ne wɔn a wɔantwa wɔn twetweamu da, ne ⟨את⟩ wɔn a wɔba bon mu.", "tokens": [{"surface": "שמה", "gloss": "hɔ"}, {"surface": "אדום", "gloss": "Edom"}, {"surface": "מלכיה", "gloss": "n'ahemfo"}, {"surface": "וכל", "gloss": "ne nyinaa"}, {"surface": "נשיאיה", "gloss": "nsianimma"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נתנו", "gloss": "wɔde wɔn ho guu"}, {"surface": "בגבורתם", "gloss": "wɔn ahoɔden mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "afena akɔfoɔ no"}, {"surface": "חללי", "gloss": "akɔfoɔ"}, {"surface": "חרב", "gloss": "afena"}, {"surface": "המה", "gloss": "wɔn ara"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn a wɔantwa wɔn twetweamu"}, {"surface": "ערלים", "gloss": "wɔn a wɔantwa wɔn twetweamu"}, {"surface": "ישכבו", "gloss": "da"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "wɔn a wɔba bon mu"}, {"surface": "ירדי", "gloss": "wɔn a wɔba"}, {"surface": "בור", "gloss": "bon mu"}], "timestamp": "2026-09-16T00:52:16.233967266Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 32:29",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Hɔ na Edom ne n'ahemfo ne nsianimma nyinaa a wɔde wɔn ho guu wɔn ahoɔden mu, ⟨את⟩ afena ⟨את⟩ akɔfoɔ no ho; wɔn ara ne wɔn a wɔantwa wɔn twetweamu da, ne ⟨את⟩ wɔn a wɔba bon mu.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "n'ahemfo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "נשיאיה",
+      "gloss": "nsianimma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "wɔde wɔn ho guu"
+    },
+    {
+      "surface": "בגבורתם",
+      "gloss": "wɔn ahoɔden mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afena akɔfoɔ no"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "akɔfoɔ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "afena"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔn ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a wɔantwa wɔn twetweamu"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "wɔn a wɔantwa wɔn twetweamu"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "wɔn a wɔba bon mu"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "wɔn a wɔba"
+    },
+    {
+      "surface": "בור",
+      "gloss": "bon mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:52:16.233967266Z",
+  "model": "glm-5.3"
+}

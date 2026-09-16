@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"isaiah 53:4","book":"isaiah","lang":"tw","chapter":53,"translation":"Nokorɛ sɛ yɛn nyarewa na ɔdee bɔe, na yɛn n naw so na ɔdii; nanso yɛ hunuu no sɛ obi a wɔade no, Eloohim abɔ no, na wɔadɔɔ no so.","tokens":[{"surface":"אכן","gloss":"Nokorɛ sɛ"},{"surface":"חלינו","gloss":"yɛn nyarewa"},{"surface":"הוא","gloss":"ɔno"},{"surface":"נשא","gloss":"ɔdee bɔe"},{"surface":"ומכאבינו","gloss":"na yɛn n naw"},{"surface":"סבלם","gloss":"ɔdii (so)"},{"surface":"ואנחנו","gloss":"nanso yɛn"},{"surface":"חשבנהו","gloss":"hunuu no sɛ"},{"surface":"נגוע","gloss":"obi a wɔade no"},{"surface":"מכה","gloss":"abɔ no"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"ומענה","gloss":"na wɔadɔɔ no so"}],"timestamp":"2026-09-16T05:27:14.862626421Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 53,
+  "translation": "Nokorɛ sɛ yɛn nyarewa na ɔdee bɔe, na yɛn n naw so na ɔdii; nanso yɛ hunuu no sɛ obi a wɔade no, Eloohim abɔ no, na wɔadɔɔ no so.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Nokorɛ sɛ"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "yɛn nyarewa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ɔdee bɔe"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "na yɛn n naw"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "ɔdii (so)"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nanso yɛn"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "hunuu no sɛ"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "obi a wɔade no"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "abɔ no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "na wɔadɔɔ no so"
+    }
+  ],
+  "timestamp": "2026-09-16T05:27:14.862626421Z",
+  "model": "glm-5.3"
+}

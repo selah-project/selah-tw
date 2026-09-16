@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":6,"ref":"ezra 2:6","book":"ezra","lang":"tw","chapter":2,"translation":"Pachath-Moab mma, Yeshua ne Yoab mma, nkɔsoɔ abien ɔha nwɔtwe ne dumienu (2,812).","tokens":[{"surface":"בני","gloss":"mma"},{"surface":"פחת","gloss":"Pachath"},{"surface":"מואב","gloss":"Moab"},{"surface":"לבני","gloss":"mma"},{"surface":"ישוע","gloss":"Yeshua"},{"surface":"יואב","gloss":"Yoab"},{"surface":"אלפים","gloss":"nkɔsoɔ abien"},{"surface":"שמנה","gloss":"nwɔtwe"},{"surface":"מאות","gloss":"ɔha"},{"surface":"ושנים","gloss":"ne dumienu"},{"surface":"עשר","gloss":"dumienu"}],"timestamp":"2026-09-16T04:17:21.890371941Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Pachath-Moab mma, Yeshua ne Yoab mma, nkɔsoɔ abien ɔha nwɔtwe ne dumienu (2,812).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pachath"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nkɔsoɔ abien"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nwɔtwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ne dumienu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dumienu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:17:21.890371941Z",
+  "model": "glm-5.3"
+}

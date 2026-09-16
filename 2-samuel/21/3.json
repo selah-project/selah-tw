@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-samuel 21:3", "book": "2-samuel", "lang": "tw", "chapter": 21, "translation": "na Dawid kaa kyerɛɛ Gibeonfoɔ sɛ, deɛ nkaehu bɛyɛ ama mo, na deɛ bɛka akɔ ho na mo nsa aka Yawe ⟨את⟩ asaase no, na mo nhyira so.", "tokens": [{"surface": "ויאמר", "gloss": "na ... kaa kyerɛɛ"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "הגבענים", "gloss": "Gibeonfoɔ"}, {"surface": "מה", "gloss": "deɛ"}, {"surface": "אעשה", "gloss": "nkaehu bɛyɛ"}, {"surface": "לכם", "gloss": "ama mo"}, {"surface": "ובמה", "gloss": "na deɛ bɛka"}, {"surface": "אכפר", "gloss": "akɔ ho"}, {"surface": "וברכו", "gloss": "na mo nhyira so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe asaase no"}, {"surface": "נחלת", "gloss": "asaase no"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T23:11:04.074273320Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "na Dawid kaa kyerɛɛ Gibeonfoɔ sɛ, deɛ nkaehu bɛyɛ ama mo, na deɛ bɛka akɔ ho na mo nsa aka Yawe ⟨את⟩ asaase no, na mo nhyira so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... kaa kyerɛɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Gibeonfoɔ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nkaehu bɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ama mo"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "na deɛ bɛka"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "akɔ ho"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "na mo nhyira so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe asaase no"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "asaase no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:11:04.074273320Z",
+  "model": "glm-5.3"
+}

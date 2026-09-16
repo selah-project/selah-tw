@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "amos 5:1", "book": "amos", "lang": "tw", "chapter": 5, "translation": "Montie ⟨את⟩ asɛm yi a mebɔ akokɔdwom wɔ mo so — awerɛhowdwom ma Israel fie.", "tokens": [{"surface": "שמעו", "gloss": "Montie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm yi"}, {"surface": "הדבר", "gloss": "asɛm"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "נשא", "gloss": "mebɔ"}, {"surface": "עליכם", "gloss": "wɔ mo so"}, {"surface": "קינה", "gloss": "akokɔdwom"}, {"surface": "בית", "gloss": "fie"}, {"surface": "ישראל", "gloss": "Israel"}], "timestamp": "2026-09-16T01:12:57.815272696Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Montie ⟨את⟩ asɛm yi a mebɔ akokɔdwom wɔ mo so — awerɛhowdwom ma Israel fie.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Montie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mebɔ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "wɔ mo so"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "akokɔdwom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-16T01:12:57.815272696Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "numbers 8:15", "book": "numbers", "lang": "tw", "chapter": 8, "translation": "Akyire yi no, Halɛvim bɛba ayɛ ⟨את⟩ Obofra-Mhyiasedan no som, na wo hoɔ ⟨את⟩ wɔn na wode ⟨את⟩ wɔn bɔ mmɔso.", "tokens": [{"surface": "ואחרי", "gloss": "akyire"}, {"surface": "כן", "gloss": "yi no"}, {"surface": "יבאו", "gloss": "wɔbɛba"}, {"surface": "הלוים", "gloss": "Halɛvim"}, {"surface": "לעבד", "gloss": "ayɛ…som"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Obofra-Mhyiasedan"}, {"surface": "אהל", "gloss": "Obofra"}, {"surface": "מועד", "gloss": "Mhyiasedan"}, {"surface": "וטהרת", "gloss": "na wo hoɔ"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "והנפת", "gloss": "wode wɔn bɔ mmɔso"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn"}, {"surface": "תנופה", "gloss": "mmɔso"}], "timestamp": "2026-09-15T21:29:37.519393112Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Akyire yi no, Halɛvim bɛba ayɛ ⟨את⟩ Obofra-Mhyiasedan no som, na wo hoɔ ⟨את⟩ wɔn na wode ⟨את⟩ wɔn bɔ mmɔso.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "akyire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yi no"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wɔbɛba"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Halɛvim"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ayɛ…som"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obofra-Mhyiasedan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Obofra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mhyiasedan"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "na wo hoɔ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "wode wɔn bɔ mmɔso"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "mmɔso"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:37.519393112Z",
+  "model": "glm-5.3"
+}

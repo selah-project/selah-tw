@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "exodus 12:23", "book": "exodus", "lang": "tw", "chapter": 12, "translation": "Na Yawe bɛtuam akɔbɔ ⟨את⟩ Misraim so, na ɔbɛhunu ⟨את⟩ mogya no wɔ ɛgyaano no ne ɛgyaano mmienu nsɔano soɔ no so; na Yawe bɛtwam ɛgyaano no so, na ɛrenma ɔsɛefoɔ no mmra mo afie mu nkɔbɔ mo so.", "tokens": [{"surface": "ועבר", "gloss": "bɛtuam akɔ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "לנגף", "gloss": "akɔbɔ so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Misraim"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "וראה", "gloss": "ɔbɛhunu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mogya no"}, {"surface": "הדם", "gloss": "mogya no"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "המשקוף", "gloss": "ɛgyaano no"}, {"surface": "ועל", "gloss": "ne"}, {"surface": "שתי", "gloss": "mmienu"}, {"surface": "המזוזת", "gloss": "nsɔano soɔ"}, {"surface": "ופסח", "gloss": "bɛtwam ... so"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "על", "gloss": "so"}, {"surface": "הפתח", "gloss": "ɛgyaano no"}, {"surface": "ולא", "gloss": "na ɛrenma"}, {"surface": "יתן", "gloss": "renma"}, {"surface": "המשחית", "gloss": "ɔsɛefoɔ no"}, {"surface": "לבא", "gloss": "mmra"}, {"surface": "אל", "gloss": "mu"}, {"surface": "בתיכם", "gloss": "mo afie"}, {"surface": "לנגף", "gloss": "nkɔbɔ so"}], "timestamp": "2026-09-15T20:49:31.515117013Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na Yawe bɛtuam akɔbɔ ⟨את⟩ Misraim so, na ɔbɛhunu ⟨את⟩ mogya no wɔ ɛgyaano no ne ɛgyaano mmienu nsɔano soɔ no so; na Yawe bɛtwam ɛgyaano no so, na ɛrenma ɔsɛefoɔ no mmra mo afie mu nkɔbɔ mo so.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "bɛtuam akɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "akɔbɔ so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ɔbɛhunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogya no"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "ɛgyaano no"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "nsɔano soɔ"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "bɛtwam ... so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ɛgyaano no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛrenma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "renma"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "ɔsɛefoɔ no"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "mmra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "mo afie"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "nkɔbɔ so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:49:31.515117013Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "malachi 2:9", "book": "malachi", "lang": "tw", "chapter": 2, "translation": "Me nso ama ⟨את⟩ mo ayɛ ⟨את⟩ wɔn a wɔhwɛ wɔn so ne wɔn a wɔto wɔn fam wɔ nnipa dodoɔ nyinaa anim, sɛdeɛ moanni me nkwannie so na mohwɛ anim wɔ Tora no mu.", "tokens": [{"surface": "וגם", "gloss": "nso"}, {"surface": "אני", "gloss": "me"}, {"surface": "נתתי", "gloss": "ama mo ayɛ"}, {"surface": "אתכם", "gloss": "⟨את⟩mo", "marks": "wɔn a wɔhwɛ wɔn so ne wɔn a wɔto wɔn fam"}, {"surface": "נבזים", "gloss": "wɔn a wɔhwɛ wɔn so"}, {"surface": "ושפלים", "gloss": "ne wɔn a wɔto wɔn fam"}, {"surface": "לכל", "gloss": "nyinaa"}, {"surface": "העם", "gloss": "nnipa dodoɔ"}, {"surface": "כפי", "gloss": "sɛdeɛ"}, {"surface": "אשר", "gloss": ""}, {"surface": "אינכם", "gloss": "moanni"}, {"surface": "שמרים", "gloss": "so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me nkwannie"}, {"surface": "דרכי", "gloss": "me nkwannie"}, {"surface": "ונשאים", "gloss": "mohwɛ"}, {"surface": "פנים", "gloss": "anim"}, {"surface": "בתורה", "gloss": "wɔ Tora no mu"}], "timestamp": "2026-09-16T01:36:31.696267471Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Me nso ama ⟨את⟩ mo ayɛ ⟨את⟩ wɔn a wɔhwɛ wɔn so ne wɔn a wɔto wɔn fam wɔ nnipa dodoɔ nyinaa anim, sɛdeɛ moanni me nkwannie so na mohwɛ anim wɔ Tora no mu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ama mo ayɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩mo",
+      "marks": "wɔn a wɔhwɛ wɔn so ne wɔn a wɔto wɔn fam"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "wɔn a wɔhwɛ wɔn so"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "ne wɔn a wɔto wɔn fam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa dodoɔ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "moanni"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkwannie"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "me nkwannie"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "mohwɛ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "anim"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "wɔ Tora no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:36:31.696267471Z",
+  "model": "glm-5.3"
+}

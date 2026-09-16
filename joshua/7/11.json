@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "joshua 7:11", "book": "joshua", "lang": "tw", "chapter": 7, "translation": "Israelfoɔ ayɛ bɔne; na wɔatwa ⟨את⟩ me apam a mhyɛɛ ⟨את⟩ wɔn no so; na wɔafa fri deɛ wɔahyɛ ama sɛ wɔmfa nyɛ bi (⟨חרם⟩) no mu; na wɔawɔ, na wɔakyerɛ atɔyerɛfoɔ, na wɔde ahyɛ wɔn nneɛma mu.", "tokens": [{"surface": "חטא", "gloss": "ayɛ bɔne"}, {"surface": "ישראל", "gloss": "Israelfoɔ"}, {"surface": "וגם", "gloss": "na"}, {"surface": "עברו", "gloss": "wɔatwa ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me apam"}, {"surface": "בריתי", "gloss": "me apam"}, {"surface": "אשר", "gloss": "a"}, {"surface": "צויתי", "gloss": "mhyɛɛ wɔn"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "וגם", "gloss": "na"}, {"surface": "לקחו", "gloss": "wɔafa"}, {"surface": "מן", "gloss": "fri"}, {"surface": "החרם", "gloss": "deɛ wɔahyɛ ama sɛ wɔmfa nyɛ bi no mu"}, {"surface": "וגם", "gloss": "na"}, {"surface": "גנבו", "gloss": "wɔawɔ"}, {"surface": "וגם", "gloss": "na"}, {"surface": "כחשו", "gloss": "wɔakyerɛ atɔyerɛfoɔ"}, {"surface": "וגם", "gloss": "na"}, {"surface": "שמו", "gloss": "wɔde ahyɛ"}, {"surface": "בכליהם", "gloss": "wɔn nneɛma mu"}], "timestamp": "2026-09-15T22:33:25.430572048Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Israelfoɔ ayɛ bɔne; na wɔatwa ⟨את⟩ me apam a mhyɛɛ ⟨את⟩ wɔn no so; na wɔafa fri deɛ wɔahyɛ ama sɛ wɔmfa nyɛ bi (⟨חרם⟩) no mu; na wɔawɔ, na wɔakyerɛ atɔyerɛfoɔ, na wɔde ahyɛ wɔn nneɛma mu.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "ayɛ bɔne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wɔatwa ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mhyɛɛ wɔn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wɔafa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fri"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "deɛ wɔahyɛ ama sɛ wɔmfa nyɛ bi no mu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "wɔawɔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "wɔakyerɛ atɔyerɛfoɔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wɔde ahyɛ"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "wɔn nneɛma mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:25.430572048Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,91 @@
-{"tier":"glm-5.2","verse":3,"ref":"joshua 3:3","book":"joshua","lang":"tw","chapter":3,"translation":"Na wɔhyɛɛ ⟨את⟩ ɔman no sɛ: Sɛ moahunu ⟨את⟩ Yawe mo Eloohim apam ⟨את⟩ adaka no, ne Levifoɔ a wɔyɛ asɔfoɔ no de no so a, monnantew mo nsa so, na monsanka ne akyi.","tokens":[{"surface":"ויצוו","gloss":"wɔhyɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔman no"},{"surface":"העם","gloss":"ɔman no"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"כראותכם","gloss":"Sɛ moahunu"},{"surface":"את","gloss":"⟨את⟩","marks":"apam adaka no"},{"surface":"ארון","gloss":"adaka"},{"surface":"ברית","gloss":"apam"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיכם","gloss":"mo Eloohim"},{"surface":"והכהנים","gloss":"ne asɔfoɔ no"},{"surface":"הלוים","gloss":"Levifoɔ"},{"surface":"נשאים","gloss":"a wɔde so"},{"surface":"אתו","gloss":"⟨את⟩ no"},{"surface":"ואתם","gloss":"mo"},{"surface":"תסעו","gloss":"monnantew mo nsa so"},{"surface":"ממקומכם","gloss":"firi moateɛ"},{"surface":"והלכתם","gloss":"monsanka"},{"surface":"אחריו","gloss":"ne akyi"}],"timestamp":"2026-09-15T22:01:24.211516179Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔhyɛɛ ⟨את⟩ ɔman no sɛ: Sɛ moahunu ⟨את⟩ Yawe mo Eloohim apam ⟨את⟩ adaka no, ne Levifoɔ a wɔyɛ asɔfoɔ no de no so a, monnantew mo nsa so, na monsanka ne akyi.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "wɔhyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔman no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɔman no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "Sɛ moahunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apam adaka no"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "adaka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ne asɔfoɔ no"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levifoɔ"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "a wɔde so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "monnantew mo nsa so"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "firi moateɛ"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "monsanka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ne akyi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:01:24.211516179Z",
+  "model": "glm-5.3"
+}

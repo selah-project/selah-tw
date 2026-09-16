@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"2-chronicles 7:4","book":"2-chronicles","lang":"tw","chapter":7,"translation":"Na ɔhene no ne ɔman no nyinaa bɔɔ afɔre wɔ Yawe anim.","tokens":[{"surface":"והמלך","gloss":"na ɔhene no"},{"surface":"וכל","gloss":"ne ... nyinaa"},{"surface":"העם","gloss":"⟨the⟩ ɔman no"},{"surface":"זבחים","gloss":"bɔɔ afɔre"},{"surface":"זבח","gloss":"afɔre"},{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T04:56:43.192602687Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɔhene no ne ɔman no nyinaa bɔɔ afɔre wɔ Yawe anim.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "na ɔhene no"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ ɔman no"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "bɔɔ afɔre"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "afɔre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T04:56:43.192602687Z",
+  "model": "glm-5.3"
+}

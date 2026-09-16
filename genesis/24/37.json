@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":37,"ref":"genesis 24:37","book":"genesis","lang":"tw","chapter":24,"translation":"Na me wura maa me bɔɔ aseɔ se, Wobɛntwa ɔbaa ama me ba wɔ Kenaanni mma mu, me a mete wɔ n'asase so no:","tokens":[{"surface":"וישבעני","gloss":"maa me bɔɔ aseɔ"},{"surface":"אדני","gloss":"me wura"},{"surface":"לאמר","gloss":"se"},{"surface":"לא","gloss":"bɛn-"},{"surface":"תקח","gloss":"ntwa"},{"surface":"אשה","gloss":"ɔbaa"},{"surface":"לבני","gloss":"ama me ba"},{"surface":"מבנות","gloss":"wɔ ... mma mu"},{"surface":"הכנעני","gloss":"Kenaanni"},{"surface":"אשר","gloss":"a"},{"surface":"אנכי","gloss":"me"},{"surface":"ישב","gloss":"mete"},{"surface":"בארצו","gloss":"wɔ n'asase so"}],"timestamp":"2026-09-15T20:25:29.093159071Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 24:37",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Na me wura maa me bɔɔ aseɔ se, Wobɛntwa ɔbaa ama me ba wɔ Kenaanni mma mu, me a mete wɔ n'asase so no:",
+  "tokens": [
+    {
+      "surface": "וישבעני",
+      "gloss": "maa me bɔɔ aseɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bɛn-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ama me ba"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "wɔ ... mma mu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mete"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "wɔ n'asase so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:25:29.093159071Z",
+  "model": "glm-5.3"
+}

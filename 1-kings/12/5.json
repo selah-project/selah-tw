@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":5,"ref":"1-kings 12:5","book":"1-kings","lang":"tw","chapter":12,"translation":"Na ɔkaa kyɛw wɔn ho sɛ: “Monkɔ mma nna mmiɛnsa, na mosan bra me nkyɛn.” Ná amanfoɔ no kɔeɛ.","tokens":[{"surface":"ויאמר","gloss":"Na ɔkaa kyɛw wɔn ho sɛ"},{"surface":"אליהם","gloss":"wɔn ho"},{"surface":"לכו","gloss":"Monkɔ"},{"surface":"עד","gloss":"mma"},{"surface":"שלשה","gloss":"mmiɛnsa"},{"surface":"ימים","gloss":"nna"},{"surface":"ושובו","gloss":"na mosan bra"},{"surface":"אלי","gloss":"me nkyɛn"},{"surface":"וילכו","gloss":"Na ... kɔeɛ"},{"surface":"העם","gloss":"amanfoɔ no"}],"timestamp":"2026-09-15T23:18:55.342370502Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɔkaa kyɛw wɔn ho sɛ: “Monkɔ mma nna mmiɛnsa, na mosan bra me nkyɛn.” Ná amanfoɔ no kɔeɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa kyɛw wɔn ho sɛ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Monkɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "na mosan bra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Na ... kɔeɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amanfoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:55.342370502Z",
+  "model": "glm-5.3"
+}

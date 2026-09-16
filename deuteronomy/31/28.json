@@ -1,1 +1,89 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "deuteronomy 31:28", "book": "deuteronomy", "lang": "tw", "chapter": 31, "translation": "„Boaboa me ho ⟨את⟩ mo afanafoɔ ⟨את⟩ nyinaa ne mo mpanyimfoɔ ma mɛka nsɛm yi wɔ wɔn aso mu, na mɛma ⟨את⟩ ɔsoro ne ⟨את⟩ asase nyɛ adanse wɔ wɔn ho.”", "tokens": [{"surface": "הקהילו", "gloss": "Boaboa"}, {"surface": "אלי", "gloss": "me ho"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo afanafoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "זקני", "gloss": "afanafoɔ"}, {"surface": "שבטיכם", "gloss": "mo (mmusua)"}, {"surface": "ושטריכם", "gloss": "ne mo mpanyimfoɔ"}, {"surface": "ואדברה", "gloss": "ma mɛka"}, {"surface": "באזניהם", "gloss": "wɔ wɔn aso mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɛm yi"}, {"surface": "הדברים", "gloss": "nsɛm"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "ואעידה", "gloss": "na mɛma ... nyɛ adanse"}, {"surface": "בם", "gloss": "wɔ wɔn ho"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔsoro"}, {"surface": "השמים", "gloss": "ɔsoro"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "asase"}, {"surface": "הארץ", "gloss": "asase"}], "timestamp": "2026-09-15T21:59:44.894660426Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 31:28",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "„Boaboa me ho ⟨את⟩ mo afanafoɔ ⟨את⟩ nyinaa ne mo mpanyimfoɔ ma mɛka nsɛm yi wɔ wɔn aso mu, na mɛma ⟨את⟩ ɔsoro ne ⟨את⟩ asase nyɛ adanse wɔ wɔn ho.”",
+  "tokens": [
+    {
+      "surface": "הקהילו",
+      "gloss": "Boaboa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo afanafoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "afanafoɔ"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "mo (mmusua)"
+    },
+    {
+      "surface": "ושטריכם",
+      "gloss": "ne mo mpanyimfoɔ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ma mɛka"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "wɔ wɔn aso mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm yi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "na mɛma ... nyɛ adanse"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔ wɔn ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔsoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:44.894660426Z",
+  "model": "glm-5.3"
+}

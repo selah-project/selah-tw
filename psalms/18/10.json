@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"psalms 18:10","book":"psalms","lang":"tw","chapter":18,"translation":"Wayɛ ɔsoro no kyɛw na ɔbaa ase, na esum-kesɛeɛ baa ne nan ase.","tokens":[{"surface":"ויט","gloss":"wayɛ ... kyɛw"},{"surface":"שמים","gloss":"ɔsoro"},{"surface":"וירד","gloss":"ɔbaa ase"},{"surface":"וערפל","gloss":"esum-kesɛeɛ"},{"surface":"תחת","gloss":"ase"},{"surface":"רגליו","gloss":"ne nan ase"}],"timestamp":"2026-09-16T06:05:46.600110646Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wayɛ ɔsoro no kyɛw na ɔbaa ase, na esum-kesɛeɛ baa ne nan ase.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wayɛ ... kyɛw"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ɔbaa ase"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "esum-kesɛeɛ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ne nan ase"
+    }
+  ],
+  "timestamp": "2026-09-16T06:05:46.600110646Z",
+  "model": "glm-5.3"
+}

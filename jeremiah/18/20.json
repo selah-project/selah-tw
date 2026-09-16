@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "jeremiah 18:20", "book": "jeremiah", "lang": "tw", "chapter": 18, "translation": "Wobɔ bɔne ma pa anaa? Ɛfiri sɛ wɔatu ohia aso me nkwa. Ka wɔn a megyinaa w'anim kaa pa faa wɔn ho no wɔ adwenem, sɛ medan ⟨את⟩ w'abufuo no firi wɔn so no.", "tokens": [{"surface": "הישלם", "gloss": "Wobɔ ... ma"}, {"surface": "תחת", "gloss": "ma"}, {"surface": "טובה", "gloss": "pa"}, {"surface": "רעה", "gloss": "bɔne"}, {"surface": "כי", "gloss": "Ɛfiri sɛ"}, {"surface": "כרו", "gloss": "wɔatu ... aso"}, {"surface": "שוחה", "gloss": "ohia"}, {"surface": "לנפשי", "gloss": "me nkwa"}, {"surface": "זכר", "gloss": "Ka ... wɔ adwenem"}, {"surface": "עמדי", "gloss": "megyinaa"}, {"surface": "לפניך", "gloss": "w'anim"}, {"surface": "לדבר", "gloss": "kaa"}, {"surface": "עליהם", "gloss": "faa wɔn ho"}, {"surface": "טובה", "gloss": "pa"}, {"surface": "להשיב", "gloss": "medan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'abufuo no"}, {"surface": "חמתך", "gloss": "w'abufuo no"}, {"surface": "מהם", "gloss": "firi wɔn so"}], "timestamp": "2026-09-16T00:12:34.141185434Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 18:20",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wobɔ bɔne ma pa anaa? Ɛfiri sɛ wɔatu ohia aso me nkwa. Ka wɔn a megyinaa w'anim kaa pa faa wɔn ho no wɔ adwenem, sɛ medan ⟨את⟩ w'abufuo no firi wɔn so no.",
+  "tokens": [
+    {
+      "surface": "הישלם",
+      "gloss": "Wobɔ ... ma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ma"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "wɔatu ... aso"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ohia"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Ka ... wɔ adwenem"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "megyinaa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "w'anim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "faa wɔn ho"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "medan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'abufuo no"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "w'abufuo no"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "firi wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:12:34.141185434Z",
+  "model": "glm-5.3"
+}

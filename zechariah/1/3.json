@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":3,"ref":"zechariah 1:3","book":"zechariah","lang":"tw","chapter":1,"translation":"Na wobɛka akyerɛ wɔn se: Sɛnea Yawe Sabaoth ka ni: Monsan mmra me nkyɛn — Yawe Sabaoth asɛm — na mɛsan abra mo nkyɛn — Yawe Sabaoth ka.","tokens":[{"surface":"ואמרת","gloss":"na wobɛka"},{"surface":"אלהם","gloss":"kyerɛ wɔn"},{"surface":"כה","gloss":"sɛnea"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שובו","gloss":"monsan mmra"},{"surface":"אלי","gloss":"me nkyɛn"},{"surface":"נאם","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"ואשוב","gloss":"na mɛsan abɛbra"},{"surface":"אליכם","gloss":"mo nkyɛn"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"}],"timestamp":"2026-09-16T01:27:53.863143299Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 1:3",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na wobɛka akyerɛ wɔn se: Sɛnea Yawe Sabaoth ka ni: Monsan mmra me nkyɛn — Yawe Sabaoth asɛm — na mɛsan abra mo nkyɛn — Yawe Sabaoth ka.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na wobɛka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kyerɛ wɔn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "monsan mmra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me nkyɛn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "na mɛsan abɛbra"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo nkyɛn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:53.863143299Z",
+  "model": "glm-5.3"
+}

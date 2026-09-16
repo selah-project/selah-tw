@@ -1,1 +1,43 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "ezekiel 16:2", "book": "ezekiel", "lang": "tw", "chapter": 16, "translation": "Onipa ba, ma ⟨את⟩ Yerusalem nim ⟨את⟩ ne nnisɔ:", "tokens": [{"surface": "בן", "gloss": "ba"}, {"surface": "אדם", "gloss": "onipa"}, {"surface": "הודע", "gloss": "ma ... nim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yerusalem"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nnisɔ"}, {"surface": "תועבתיה", "gloss": "ne nnisɔ"}], "timestamp": "2026-09-16T00:41:09.082986561Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Onipa ba, ma ⟨את⟩ Yerusalem nim ⟨את⟩ ne nnisɔ:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ma ... nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nnisɔ"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "ne nnisɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:41:09.082986561Z",
+  "model": "glm-5.3"
+}

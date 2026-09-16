@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 5:26","book":"genesis","lang":"tw","chapter":5,"translation":"Na Metusela tena aseɛ, wɔ akyi a ɔwoo ⟨את⟩ Lemek no, mfeɛ ɔha nson ne nwɔtwe ne mmienu, na ɔwoo mma mmarima ne mma mmaa.","tokens":[{"surface":"ויחי","gloss":"tena aseɛ"},{"surface":"מתושלח","gloss":"Metusela"},{"surface":"אחרי","gloss":"wɔ akyi"},{"surface":"הולידו","gloss":"a ɔwoo no"},{"surface":"את","gloss":"⟨את⟩","marks":"Lemek"},{"surface":"למך","gloss":"Lemek"},{"surface":"שתים","gloss":"ne mmienu"},{"surface":"ושמונים","gloss":"ne nwɔtwe"},{"surface":"שנה","gloss":"mfeɛ"},{"surface":"ושבע","gloss":"ɔha nson"},{"surface":"מאות","gloss":"ɔha"},{"surface":"שנה","gloss":"mfeɛ"},{"surface":"ויולד","gloss":"na ɔwoo"},{"surface":"בנים","gloss":"mma mmarima"},{"surface":"ובנות","gloss":"ne mma mmaa"}],"timestamp":"2026-09-15T20:16:32.094111444Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 5:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na Metusela tena aseɛ, wɔ akyi a ɔwoo ⟨את⟩ Lemek no, mfeɛ ɔha nson ne nwɔtwe ne mmienu, na ɔwoo mma mmarima ne mma mmaa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "tena aseɛ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metusela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "wɔ akyi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "a ɔwoo no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ne mmienu"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ne nwɔtwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ɔha nson"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na ɔwoo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma mmarima"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ne mma mmaa"
+    }
+  ],
+  "timestamp": "2026-09-15T20:16:32.094111444Z",
+  "model": "glm-5.3"
+}

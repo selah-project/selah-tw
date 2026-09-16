@@ -1,1 +1,120 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "nehemiah 9:19", "book": "nehemiah", "lang": "tw", "chapter": 9, "translation": "Na wo, wɔ wo mmɔborohunu a ɛdɔɔso mu no, woannwigya wɔn wɔ asorɔkye mu; ⟨את⟩ nsɔonso a ɛyɛ osuo no annfiri wɔn so awia bere sɛ ɛde wɔn kwan no mu; na ⟨את⟩ nsɔonso a ɛyɛ ogya no anadwo bere sɛ ɛhyerɛn wɔn so, ne ⟨את⟩ kwan a wɔbɛfa wɔ mu no.", "tokens": [{"surface": "ואתה", "gloss": "na wo"}, {"surface": "ברחמיך", "gloss": "wɔ wo mmɔborohunu mu"}, {"surface": "הרבים", "gloss": "a ɛdɔɔso"}, {"surface": "לא", "gloss": "an"}, {"surface": "עזבתם", "gloss": "nwigya wɔn"}, {"surface": "במדבר", "gloss": "wɔ asorɔkye mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɔonso"}, {"surface": "עמוד", "gloss": "nsɔonso"}, {"surface": "הענן", "gloss": "osuo no"}, {"surface": "לא", "gloss": "ann"}, {"surface": "סר", "gloss": "firi"}, {"surface": "מעליהם", "gloss": "wɔn so"}, {"surface": "ביומם", "gloss": "awia"}, {"surface": "להנחתם", "gloss": "sɛ ɛde wɔn"}, {"surface": "בהדרך", "gloss": "kwan no mu"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nsɔonso"}, {"surface": "עמוד", "gloss": "nsɔonso"}, {"surface": "האש", "gloss": "ogya no"}, {"surface": "בלילה", "gloss": "anadwo"}, {"surface": "להאיר", "gloss": "sɛ ɛhyerɛn"}, {"surface": "להם", "gloss": "wɔn so"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "kwan no"}, {"surface": "הדרך", "gloss": "kwan no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "ילכו", "gloss": "wɔbɛfa"}, {"surface": "בה", "gloss": "wɔ mu"}], "timestamp": "2026-09-16T04:32:08.815804414Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 9:19",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wo, wɔ wo mmɔborohunu a ɛdɔɔso mu no, woannwigya wɔn wɔ asorɔkye mu; ⟨את⟩ nsɔonso a ɛyɛ osuo no annfiri wɔn so awia bere sɛ ɛde wɔn kwan no mu; na ⟨את⟩ nsɔonso a ɛyɛ ogya no anadwo bere sɛ ɛhyerɛn wɔn so, ne ⟨את⟩ kwan a wɔbɛfa wɔ mu no.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "ברחמיך",
+      "gloss": "wɔ wo mmɔborohunu mu"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "a ɛdɔɔso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "nwigya wɔn"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asorɔkye mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɔonso"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "nsɔonso"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "osuo no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ann"
+    },
+    {
+      "surface": "סר",
+      "gloss": "firi"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "ביומם",
+      "gloss": "awia"
+    },
+    {
+      "surface": "להנחתם",
+      "gloss": "sɛ ɛde wɔn"
+    },
+    {
+      "surface": "בהדרך",
+      "gloss": "kwan no mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nsɔonso"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "nsɔonso"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ogya no"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "sɛ ɛhyerɛn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kwan no"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "kwan no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "wɔbɛfa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wɔ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:32:08.815804414Z",
+  "model": "glm-5.3"
+}

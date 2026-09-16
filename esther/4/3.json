@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":3,"ref":"esther 4:3","book":"esther","lang":"tw","chapter":4,"translation":"Na ɔman biara ne ɔman biara mu, baabi a ɔhene no asɛm ne n'ahyɛdeɛ duru, ɔyareɛ kɛseɛ sɔɔ Yudafoɔ no, ne aduane a wɔde bɔ wɔn ho ban, ne su, ne awerɛhoɔ; sanma ne nkotodwe wɔtrɛw maa dodoɔ no ara.","tokens":[{"surface":"ובכל","gloss":"na ɔman biara mu"},{"surface":"מדינה","gloss":"ɔman"},{"surface":"ומדינה","gloss":"ne ɔman biara"},{"surface":"מקום","gloss":"baabi"},{"surface":"אשר","gloss":"a"},{"surface":"דבר","gloss":"asɛm"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"ודתו","gloss":"ne n'ahyɛdeɛ"},{"surface":"מגיע","gloss":"duru"},{"surface":"אבל","gloss":"ɔyareɛ"},{"surface":"גדול","gloss":"kɛseɛ"},{"surface":"ליהודים","gloss":"sɔɔ Yudafoɔ no"},{"surface":"וצום","gloss":"ne aduane a wɔde bɔ wɔn ho ban"},{"surface":"ובכי","gloss":"ne su"},{"surface":"ומספד","gloss":"ne awerɛhoɔ"},{"surface":"שק","gloss":"sanma"},{"surface":"ואפר","gloss":"ne nkotodwe"},{"surface":"יצע","gloss":"wɔtrɛw"},{"surface":"לרבים","gloss":"maa dodoɔ no ara"}],"timestamp":"2026-09-16T04:02:35.736152550Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 4:3",
+  "book": "esther",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔman biara ne ɔman biara mu, baabi a ɔhene no asɛm ne n'ahyɛdeɛ duru, ɔyareɛ kɛseɛ sɔɔ Yudafoɔ no, ne aduane a wɔde bɔ wɔn ho ban, ne su, ne awerɛhoɔ; sanma ne nkotodwe wɔtrɛw maa dodoɔ no ara.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "na ɔman biara mu"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ɔman"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "ne ɔman biara"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "baabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "ne n'ahyɛdeɛ"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "duru"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ɔyareɛ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "sɔɔ Yudafoɔ no"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "ne aduane a wɔde bɔ wɔn ho ban"
+    },
+    {
+      "surface": "ובכי",
+      "gloss": "ne su"
+    },
+    {
+      "surface": "ומספד",
+      "gloss": "ne awerɛhoɔ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sanma"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ne nkotodwe"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "wɔtrɛw"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "maa dodoɔ no ara"
+    }
+  ],
+  "timestamp": "2026-09-16T04:02:35.736152550Z",
+  "model": "glm-5.3"
+}

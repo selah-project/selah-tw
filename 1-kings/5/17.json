@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "1-kings 5:17", "book": "1-kings", "lang": "tw", "chapter": 5, "translation": "Wo nim ⟨את⟩ David, m'agya, sɛ ɔantumi ansie fie maa Yawe, n'Eloohim, din, esiane ɔko a ɛbɔɔ no ho nti, kɔsii sɛ Yawe de wɔn hyɛɛ ⟨את⟩ ne nan nkyɛnmu ase.", "tokens": [{"surface": "אתה", "gloss": "wo"}, {"surface": "ידעת", "gloss": "nim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "David"}, {"surface": "דוד", "gloss": "David"}, {"surface": "אבי", "gloss": "m'agya"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "לא", "gloss": "antumi"}, {"surface": "יכל", "gloss": "tumie"}, {"surface": "לבנות", "gloss": "sɛ ɔbɛsie"}, {"surface": "בית", "gloss": "fie"}, {"surface": "לשם", "gloss": "maa din"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיו", "gloss": "n'Eloohim"}, {"surface": "מפני", "gloss": "esiane"}, {"surface": "המלחמה", "gloss": "ɔko"}, {"surface": "אשר", "gloss": "a"}, {"surface": "סבבהו", "gloss": "abɔ no ho"}, {"surface": "עד", "gloss": "kɔsii sɛ"}, {"surface": "תת", "gloss": "hyɛɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "תחת", "gloss": "ase"}, {"surface": "כפות", "gloss": "nan nkyɛnmu"}, {"surface": "רגלו", "gloss": "ne nan"}], "timestamp": "2026-09-15T23:15:15.783432543Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Wo nim ⟨את⟩ David, m'agya, sɛ ɔantumi ansie fie maa Yawe, n'Eloohim, din, esiane ɔko a ɛbɔɔ no ho nti, kɔsii sɛ Yawe de wɔn hyɛɛ ⟨את⟩ ne nan nkyɛnmu ase.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "antumi"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "tumie"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sɛ ɔbɛsie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "maa din"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "n'Eloohim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "esiane"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "abɔ no ho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii sɛ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "hyɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "nan nkyɛnmu"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "ne nan"
+    }
+  ],
+  "timestamp": "2026-09-15T23:15:15.783432543Z",
+  "model": "glm-5.3"
+}

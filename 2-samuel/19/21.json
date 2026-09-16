@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-samuel 19:21","book":"2-samuel","lang":"tw","chapter":19,"translation":"Efisɛ wo akɔda nim sɛ meyɛɛ bɔne, enti hwɛ, ɛnnɛ ara meba sɛ deɛ ɔdi kan wɔ Yosef fie nyinaa mu, sɛ matena ase abɛhyia me wura ɔhene no.","tokens":[{"surface":"כי","gloss":"efisɛ"},{"surface":"ידע","gloss":"nim"},{"surface":"עבדך","gloss":"wo akɔda"},{"surface":"כי","gloss":"sɛ"},{"surface":"אני","gloss":"me"},{"surface":"חטאתי","gloss":"meyɛɛ bɔne"},{"surface":"והנה","gloss":"na hwɛ"},{"surface":"באתי","gloss":"meba"},{"surface":"היום","gloss":"ɛnnɛ"},{"surface":"ראשון","gloss":"deɛ ɔdi kan"},{"surface":"לכל","gloss":"wɔ ... nyinaa mu"},{"surface":"בית","gloss":"fie"},{"surface":"יוסף","gloss":"Yosef"},{"surface":"לרדת","gloss":"sɛ metena ase"},{"surface":"לקראת","gloss":"abɛhyia"},{"surface":"אדני","gloss":"me wura"},{"surface":"המלך","gloss":"ɔhene no"}],"timestamp":"2026-09-15T23:08:13.400911621Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 19:21",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Efisɛ wo akɔda nim sɛ meyɛɛ bɔne, enti hwɛ, ɛnnɛ ara meba sɛ deɛ ɔdi kan wɔ Yosef fie nyinaa mu, sɛ matena ase abɛhyia me wura ɔhene no.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nim"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akɔda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "meyɛɛ bɔne"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "meba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɛnnɛ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "deɛ ɔdi kan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "sɛ metena ase"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "abɛhyia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "me wura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:08:13.400911621Z",
+  "model": "glm-5.3"
+}

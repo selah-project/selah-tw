@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "psalms 145:15", "book": "psalms", "lang": "tw", "chapter": 145, "translation": "Adwuma nyinaa ani hwɛ wo so wɔ anidasoɔ mu, na wo de ⟨את⟩ wɔn aduane ma wɔn wɔ ne berɛ mu.", "tokens": [{"surface": "עיני", "gloss": "ani"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "אליך", "gloss": "wo so"}, {"surface": "ישברו", "gloss": "hwɛ ... wɔ anidasoɔ mu"}, {"surface": "ואתה", "gloss": "na wo"}, {"surface": "נותן", "gloss": "de ... ma"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn aduane"}, {"surface": "אכלם", "gloss": "wɔn aduane"}, {"surface": "בעתו", "gloss": "wɔ ne berɛ mu"}], "timestamp": "2026-09-16T02:39:13.599946701Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 145,
+  "translation": "Adwuma nyinaa ani hwɛ wo so wɔ anidasoɔ mu, na wo de ⟨את⟩ wɔn aduane ma wɔn wɔ ne berɛ mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "hwɛ ... wɔ anidasoɔ mu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "de ... ma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn aduane"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "wɔn aduane"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "wɔ ne berɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:39:13.599946701Z",
+  "model": "glm-5.3"
+}

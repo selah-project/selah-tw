@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "numbers 17:3", "book": "numbers", "lang": "tw", "chapter": 17, "translation": "⟨את⟩ gyapono a nnipa bɔnefoɔ yi de bɛe wɔn ankasa nkwa ano no, na wɔnyɛ no ⟨את⟩ dadeɛ mpɔtam a wɔabɔ mu, sɛ afɔrebɛn no ho hye, ɛfiri sɛ wɔde bɛe wɔn Yawe anim, enti ɛyɛɛ kronkron; na ɛnyɛ nsɛnkyerɛnne ma Yisraɛl mma.", "tokens": [{"surface": "את", "gloss": "⟨את⟩", "marks": "gyapono"}, {"surface": "מחתות", "gloss": "gyapono"}, {"surface": "החטאים", "gloss": "nnipa bɔnefoɔ"}, {"surface": "האלה", "gloss": "yi"}, {"surface": "בנפשתם", "gloss": "wɔn ankasa nkwa ano"}, {"surface": "ועשו", "gloss": "wɔnyɛ"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "dadeɛ mpɔtam"}, {"surface": "רקעי", "gloss": "dadeɛ mpɔtam a wɔabɔ mu"}, {"surface": "פחים", "gloss": "dadeɛ"}, {"surface": "צפוי", "gloss": "ho hye"}, {"surface": "למזבח", "gloss": "afɔrebɛn no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "הקריבם", "gloss": "wɔde bɛe wɔn"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ויקדשו", "gloss": "ɛyɛɛ kronkron"}, {"surface": "ויהיו", "gloss": "ɛnyɛ"}, {"surface": "לאות", "gloss": "nsɛnkyerɛnne"}, {"surface": "לבני", "gloss": "ma ... mma"}, {"surface": "ישראל", "gloss": "Yisraɛl"}], "timestamp": "2026-09-15T21:34:57.369035826Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 17:3",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "⟨את⟩ gyapono a nnipa bɔnefoɔ yi de bɛe wɔn ankasa nkwa ano no, na wɔnyɛ no ⟨את⟩ dadeɛ mpɔtam a wɔabɔ mu, sɛ afɔrebɛn no ho hye, ɛfiri sɛ wɔde bɛe wɔn Yawe anim, enti ɛyɛɛ kronkron; na ɛnyɛ nsɛnkyerɛnne ma Yisraɛl mma.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyapono"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "gyapono"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "nnipa bɔnefoɔ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "בנפשתם",
+      "gloss": "wɔn ankasa nkwa ano"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "wɔnyɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dadeɛ mpɔtam"
+    },
+    {
+      "surface": "רקעי",
+      "gloss": "dadeɛ mpɔtam a wɔabɔ mu"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "dadeɛ"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "ho hye"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "afɔrebɛn no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "הקריבם",
+      "gloss": "wɔde bɛe wɔn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקדשו",
+      "gloss": "ɛyɛɛ kronkron"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ma ... mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-09-15T21:34:57.369035826Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":8,"ref":"hosea 7:8","book":"hosea","lang":"tw","chapter":7,"translation":"Efrayim ama ne ho aka aman no mu; Efrayim ayɛ ɛkwan-keke a wɔannane no.","tokens":[{"surface":"אפרים","gloss":"Efrayim"},{"surface":"בעמים","gloss":"aman no mu"},{"surface":"הוא","gloss":"ne ho"},{"surface":"יתבולל","gloss":"ama ... aka"},{"surface":"אפרים","gloss":"Efrayim"},{"surface":"היה","gloss":"ayɛ"},{"surface":"עגה","gloss":"ɛkwan-keke"},{"surface":"בלי","gloss":"a wɔannane"},{"surface":"הפוכה","gloss":"nane"}],"timestamp":"2026-09-16T01:05:39.563345799Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Efrayim ama ne ho aka aman no mu; Efrayim ayɛ ɛkwan-keke a wɔannane no.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "aman no mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "ama ... aka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "ɛkwan-keke"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "a wɔannane"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "nane"
+    }
+  ],
+  "timestamp": "2026-09-16T01:05:39.563345799Z",
+  "model": "glm-5.3"
+}

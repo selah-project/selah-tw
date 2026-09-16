@@ -1,1 +1,76 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "joshua 7:17", "book": "joshua", "lang": "tw", "chapter": 7, "translation": "Na ɔde Yuda ⟨את⟩ abusua no bɛn, na ɔkyerɛɛ ⟨את⟩ Zarchi ⟨את⟩ abusua no; na ɔde Zarchi abusua no bɛn amammɔn, na Zabdi na wɔkyerɛɛ no.", "tokens": [{"surface": "ויקרב", "gloss": "ɔde…bɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Zarchi abusua no"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "וילכד", "gloss": "ɔkyerɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Zarchi abusua no"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "הזרחי", "gloss": "Zarchi"}, {"surface": "ויקרב", "gloss": "ɔde…bɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Zarchi abusua no"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "הזרחי", "gloss": "Zarchi"}, {"surface": "לגברים", "gloss": "amammɔn"}, {"surface": "וילכד", "gloss": "wɔkyerɛɛ"}, {"surface": "זבדי", "gloss": "Zabdi"}], "timestamp": "2026-09-15T22:04:24.382583205Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɔde Yuda ⟨את⟩ abusua no bɛn, na ɔkyerɛɛ ⟨את⟩ Zarchi ⟨את⟩ abusua no; na ɔde Zarchi abusua no bɛn amammɔn, na Zabdi na wɔkyerɛɛ no.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɔde…bɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zarchi abusua no"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ɔkyerɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zarchi abusua no"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zarchi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ɔde…bɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zarchi abusua no"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zarchi"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "amammɔn"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wɔkyerɛɛ"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:24.382583205Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,47 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "exodus 38:6", "book": "exodus", "lang": "tw", "chapter": 38, "translation": "Na ɔyɛɛ ⟨את⟩ nnua dantɛ no wɔ Sitim dua mu, na ɔde ⟨את⟩ nkɔkɔɔ hyɛɛ wɔn so.", "tokens": [{"surface": "ויעש", "gloss": "ɔyɛɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnua dantɛ no"}, {"surface": "הבדים", "gloss": "nnua dantɛ no"}, {"surface": "עצי", "gloss": "dua"}, {"surface": "שטים", "gloss": "Sitim"}, {"surface": "ויצף", "gloss": "ɔhyɛɛ so"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "nnua dantɛ no"}, {"surface": "נחשת", "gloss": "nkɔkɔɔ"}], "timestamp": "2026-09-15T21:05:25.615619966Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 38,
+  "translation": "Na ɔyɛɛ ⟨את⟩ nnua dantɛ no wɔ Sitim dua mu, na ɔde ⟨את⟩ nkɔkɔɔ hyɛɛ wɔn so.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ɔyɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnua dantɛ no"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "nnua dantɛ no"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Sitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ɔhyɛɛ so"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nnua dantɛ no"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:25.615619966Z",
+  "model": "glm-5.3"
+}

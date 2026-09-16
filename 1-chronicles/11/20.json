@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "1-chronicles 11:20", "book": "1-chronicles", "lang": "tw", "chapter": 11, "translation": "Abisai, Yowab nuabarima, na ɔyɛɛ mmiɛnsa no panin; na ɔmaa ⟨את⟩ n'apampam sɔree tiaa nnipa a wɔatow wɔn ɔhaasa; nanso wantwa mmiɛnsa no mu koraa.", "tokens": [{"surface": "ואבשי", "gloss": "Abisai"}, {"surface": "אחי", "gloss": "nuabarima"}, {"surface": "יואב", "gloss": "Yowab"}, {"surface": "הוא", "gloss": "ɔno"}, {"surface": "היה", "gloss": "yɛɛ"}, {"surface": "ראש", "gloss": "panin"}, {"surface": "השלושה", "gloss": "mmiɛnsa no"}, {"surface": "והוא", "gloss": "na ɔno"}, {"surface": "עורר", "gloss": "maa ... sɔree"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'apampam"}, {"surface": "חניתו", "gloss": "n'apampam"}, {"surface": "על", "gloss": "tiaa"}, {"surface": "שלש", "gloss": "mmiɛnsa"}, {"surface": "מאות", "gloss": "ɔha"}, {"surface": "חלל", "gloss": "nnipa a wɔatow wɔn"}, {"surface": "ולא", "gloss": "nanso ... n-"}, {"surface": "שם", "gloss": "twa din"}, {"surface": "בשלושה", "gloss": "wɔ mmiɛnsa no mu"}], "timestamp": "2026-09-16T04:42:16.268794167Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Abisai, Yowab nuabarima, na ɔyɛɛ mmiɛnsa no panin; na ɔmaa ⟨את⟩ n'apampam sɔree tiaa nnipa a wɔatow wɔn ɔhaasa; nanso wantwa mmiɛnsa no mu koraa.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Abisai"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nuabarima"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "panin"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "mmiɛnsa no"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔno"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "maa ... sɔree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'apampam"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "n'apampam"
+    },
+    {
+      "surface": "על",
+      "gloss": "tiaa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɔha"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nnipa a wɔatow wɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... n-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "twa din"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "wɔ mmiɛnsa no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:42:16.268794167Z",
+  "model": "glm-5.3"
+}

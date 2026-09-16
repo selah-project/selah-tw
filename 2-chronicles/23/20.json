@@ -1,1 +1,139 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "2-chronicles 23:20", "book": "2-chronicles", "lang": "tw", "chapter": 23, "translation": "Ɔfaa ⟨את⟩ aha no ⟨את⟩ akandifoɔ ne ⟨את⟩ ahemfo no ne ⟨את⟩ nnipa no ⟨את⟩ atifoɔ, ne ⟨את⟩ asase no nnipa nyinaa, na ɔde ɔhene no sii fam firi Yawe fie mu; wɔbaa ɔhene fie no Agyae a ɛkorɔn no mu, na wɔmaa ɔhene no tenaa ahennie no ahennwa so.", "tokens": [{"surface": "ויקח", "gloss": "Ɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "aha no akandifoɔ"}, {"surface": "שרי", "gloss": "akandifoɔ"}, {"surface": "המאות", "gloss": "aha no"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ahemfo no"}, {"surface": "האדירים", "gloss": "ahemfo"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "nnipa no atifoɔ"}, {"surface": "המושלים", "gloss": "atifoɔ"}, {"surface": "בעם", "gloss": "wɔ nnipa mu"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "asase no nnipa nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עם", "gloss": "nnipa"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "ויורד", "gloss": "ɔde ... sii fam"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔhene no"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "מבית", "gloss": "firi fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ויבאו", "gloss": "wɔbaa"}, {"surface": "בתוך", "gloss": "mu"}, {"surface": "שער", "gloss": "Agyae"}, {"surface": "העליון", "gloss": "a ɛkorɔn"}, {"surface": "בית", "gloss": "fie"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "ויושיבו", "gloss": "wɔmaa ... tenaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔhene no"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "על", "gloss": "so"}, {"surface": "כסא", "gloss": "ahennwa"}, {"surface": "הממלכה", "gloss": "ahennie no"}], "timestamp": "2026-09-16T05:06:19.774317007Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 23:20",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Ɔfaa ⟨את⟩ aha no ⟨את⟩ akandifoɔ ne ⟨את⟩ ahemfo no ne ⟨את⟩ nnipa no ⟨את⟩ atifoɔ, ne ⟨את⟩ asase no nnipa nyinaa, na ɔde ɔhene no sii fam firi Yawe fie mu; wɔbaa ɔhene fie no Agyae a ɛkorɔn no mu, na wɔmaa ɔhene no tenaa ahennie no ahennwa so.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha no akandifoɔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akandifoɔ"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "aha no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahemfo no"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa no atifoɔ"
+    },
+    {
+      "surface": "המושלים",
+      "gloss": "atifoɔ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "wɔ nnipa mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asase no nnipa nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "ɔde ... sii fam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "firi fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wɔbaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "Agyae"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "a ɛkorɔn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ויושיבו",
+      "gloss": "wɔmaa ... tenaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ahennwa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ahennie no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:06:19.774317007Z",
+  "model": "glm-5.3"
+}

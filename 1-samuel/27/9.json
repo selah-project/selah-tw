@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-samuel 27:9","book":"1-samuel","lang":"tw","chapter":27,"translation":"David bɔɔ ⟨את⟩ asase no so, na ɔampgya ɔbarima anaa ɔbaa biara nkwa, na ɔfaa nnwan, anantwi, mpɔnpɔn, yɔnko ne ntaade, na ɔsan kɔɔ baa Akish nkyɛn.","tokens":[{"surface":"והכה","gloss":"bɔɔ"},{"surface":"דוד","gloss":"David"},{"surface":"את","gloss":"⟨את⟩","marks":"asase"},{"surface":"הארץ","gloss":"asase"},{"surface":"ולא","gloss":"na ɔan-"},{"surface":"יחיה","gloss":"pgya nkwa"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"ואשה","gloss":"na ɔbaa"},{"surface":"ולקח","gloss":"ɔfaa"},{"surface":"צאן","gloss":"nnwan"},{"surface":"ובקר","gloss":"anantwi"},{"surface":"וחמרים","gloss":"mpɔnpɔn"},{"surface":"וגמלים","gloss":"yɔnko"},{"surface":"ובגדים","gloss":"ntaade"},{"surface":"וישב","gloss":"ɔsan kɔɔ"},{"surface":"ויבא","gloss":"baa"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"אכיש","gloss":"Akish nkyɛn"}],"timestamp":"2026-09-16T05:18:43.233061529Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "David bɔɔ ⟨את⟩ asase no so, na ɔampgya ɔbarima anaa ɔbaa biara nkwa, na ɔfaa nnwan, anantwi, mpɔnpɔn, yɔnko ne ntaade, na ɔsan kɔɔ baa Akish nkyɛn.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "bɔɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔan-"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "pgya nkwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "na ɔbaa"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nnwan"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "anantwi"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "mpɔnpɔn"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "yɔnko"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "ntaade"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ɔsan kɔɔ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-16T05:18:43.233061529Z",
+  "model": "glm-5.3"
+}

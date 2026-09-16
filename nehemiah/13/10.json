@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":10,"ref":"nehemiah 13:10","book":"nehemiah","lang":"tw","chapter":13,"translation":"Na mhunuu sɛ Levifoɔ no kyɛfa no wɔamfa amma wɔn, na wɔn mu biara tu kɔɔ n'afuo mu — Levifoɔ no ne dwomtofoɔ a wɔyɛɛ adwuma no.","tokens":[{"surface":"ואדעה","gloss":"na mhunuu"},{"surface":"כי","gloss":"sɛ"},{"surface":"מניות","gloss":"kyɛfa no"},{"surface":"הלוים","gloss":"Levifoɔ"},{"surface":"לא","gloss":"wɔamfa amma"},{"surface":"נתנה","gloss":"amma wɔn"},{"surface":"ויברחו","gloss":"na wɔtu kɔɔ"},{"surface":"איש","gloss":"wɔn mu biara"},{"surface":"לשדהו","gloss":"n'afuo mu"},{"surface":"הלוים","gloss":"Levifoɔ no"},{"surface":"והמשררים","gloss":"ne dwomtofoɔ"},{"surface":"עשי","gloss":"a wɔyɛɛ"},{"surface":"המלאכה","gloss":"adwuma no"}],"timestamp":"2026-09-16T04:33:49.300935792Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 13:10",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na mhunuu sɛ Levifoɔ no kyɛfa no wɔamfa amma wɔn, na wɔn mu biara tu kɔɔ n'afuo mu — Levifoɔ no ne dwomtofoɔ a wɔyɛɛ adwuma no.",
+  "tokens": [
+    {
+      "surface": "ואדעה",
+      "gloss": "na mhunuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "מניות",
+      "gloss": "kyɛfa no"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levifoɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔamfa amma"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "amma wɔn"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "na wɔtu kɔɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wɔn mu biara"
+    },
+    {
+      "surface": "לשדהו",
+      "gloss": "n'afuo mu"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levifoɔ no"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "ne dwomtofoɔ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "a wɔyɛɛ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "adwuma no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:33:49.300935792Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":23,"ref":"joshua 13:23","book":"joshua","lang":"tw","chapter":13,"translation":"Na Ruben mma hyeɛ bɛ Yordan ne ne hyeɛ; wei ne Ruben mma agyapadɛ, wɔn abusua biara — nnkurow ne nnkurow nketewa.","tokens":[{"surface":"ויהי","gloss":"Na ... bɛ"},{"surface":"גבול","gloss":"hyeɛ"},{"surface":"בני","gloss":"mma"},{"surface":"ראובן","gloss":"Ruben"},{"surface":"הירדן","gloss":"Yordan"},{"surface":"וגבול","gloss":"ne hyeɛ"},{"surface":"זאת","gloss":"wei"},{"surface":"נחלת","gloss":"agyapadɛ"},{"surface":"בני","gloss":"mma"},{"surface":"ראובן","gloss":"Ruben"},{"surface":"למשפחתם","gloss":"wɔn abusua biara"},{"surface":"הערים","gloss":"nnkurow"},{"surface":"וחצריהן","gloss":"nnkurow nketewa"}],"timestamp":"2026-09-15T22:05:24.492576549Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 13:23",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na Ruben mma hyeɛ bɛ Yordan ne ne hyeɛ; wei ne Ruben mma agyapadɛ, wɔn abusua biara — nnkurow ne nnkurow nketewa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ... bɛ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hyeɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordan"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "ne hyeɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wei"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "agyapadɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "wɔn abusua biara"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nnkurow"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "nnkurow nketewa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:24.492576549Z",
+  "model": "glm-5.3"
+}

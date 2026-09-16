@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":44,"ref":"leviticus 11:44","book":"leviticus","lang":"tw","chapter":11,"translation":"Ɛfiri sɛ me ne Yawe, mo Eloohim; enti momma ⟨את⟩ mo ho kronkron, na moyɛ akronkronfoɔ, ɛfiri sɛ me kronkron; na monnsɛe mo ho wɔ nnoɔma a ɔhwe ase wɔ asase no nyinaa mu.","tokens":[{"surface":"כי","gloss":"Ɛfiri sɛ"},{"surface":"אני","gloss":"me ne"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיכם","gloss":"mo Eloohim"},{"surface":"והתקדשתם","gloss":"momma mo ho kronkron"},{"surface":"והייתם","gloss":"na moyɛ"},{"surface":"קדשים","gloss":"akronkronfoɔ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"קדוש","gloss":"me kronkron"},{"surface":"אני","gloss":"me"},{"surface":"ולא","gloss":"na monn-"},{"surface":"תטמאו","gloss":"sɛe mo ho"},{"surface":"את","gloss":"⟨את⟩","marks":"mo ho"},{"surface":"נפשתיכם","gloss":"mo ho"},{"surface":"בכל","gloss":"wɔ … nyinaa mu"},{"surface":"השרץ","gloss":"nnoɔma a ɔhwe ase"},{"surface":"הרמש","gloss":"ɔhwe ase"},{"surface":"על","gloss":"wɔ"},{"surface":"הארץ","gloss":"asase so"}],"timestamp":"2026-09-15T22:27:22.272585097Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 11:44",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛfiri sɛ me ne Yawe, mo Eloohim; enti momma ⟨את⟩ mo ho kronkron, na moyɛ akronkronfoɔ, ɛfiri sɛ me kronkron; na monnsɛe mo ho wɔ nnoɔma a ɔhwe ase wɔ asase no nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "והתקדשתם",
+      "gloss": "momma mo ho kronkron"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "na moyɛ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "akronkronfoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "me kronkron"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na monn-"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "sɛe mo ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo ho"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mo ho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ … nyinaa mu"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nnoɔma a ɔhwe ase"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "ɔhwe ase"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:22.272585097Z",
+  "model": "glm-5.3"
+}

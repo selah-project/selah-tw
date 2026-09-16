@@ -1,1 +1,127 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "1-kings 13:11", "book": "1-kings", "lang": "tw", "chapter": 13, "translation": "Na ɔkɔfoɔ baako a ɔyɛ oni-panin tenaa Bet-El; ne ba bɛbaa hɔ kaa asɛm a Eloohim barima no yɛɛ nnɛ wɔ Bet-El ⟨את⟩ nyinaa kyerɛɛ no — ⟨את⟩ nsɛm a ɔkaa kyerɛɛ ɔhene no — na wɔkasa kyerɛɛ wɔn agya.", "tokens": [{"surface": "ונביא", "gloss": "Na ɔkɔfoɔ"}, {"surface": "אחד", "gloss": "baako"}, {"surface": "זקן", "gloss": "oni-panin"}, {"surface": "ישב", "gloss": "tenaa"}, {"surface": "בבית", "gloss": "wɔ Bet"}, {"surface": "אל", "gloss": "El"}, {"surface": "ויבוא", "gloss": "ne ba bɛbaa hɔ"}, {"surface": "בנו", "gloss": "ne ba"}, {"surface": "ויספר", "gloss": "kaa kyɛrɛɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm no nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "המעשה", "gloss": "asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשה", "gloss": "yɛɛ"}, {"surface": "איש", "gloss": "barima"}, {"surface": "האלהים", "gloss": "Eloohim no"}, {"surface": "היום", "gloss": "nnɛ"}, {"surface": "בבית", "gloss": "wɔ Bet"}, {"surface": "אל", "gloss": "El"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɛm no"}, {"surface": "הדברים", "gloss": "nsɛm no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "דבר", "gloss": "ɔkaa"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "ויספרום", "gloss": "wɔkasa kyerɛɛ"}, {"surface": "לאביהם", "gloss": "wɔn agya"}], "timestamp": "2026-09-15T23:20:36.158162019Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 13:11",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Na ɔkɔfoɔ baako a ɔyɛ oni-panin tenaa Bet-El; ne ba bɛbaa hɔ kaa asɛm a Eloohim barima no yɛɛ nnɛ wɔ Bet-El ⟨את⟩ nyinaa kyerɛɛ no — ⟨את⟩ nsɛm a ɔkaa kyerɛɛ ɔhene no — na wɔkasa kyerɛɛ wɔn agya.",
+  "tokens": [
+    {
+      "surface": "ונביא",
+      "gloss": "Na ɔkɔfoɔ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oni-panin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ne ba bɛbaa hɔ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "kaa kyɛrɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm no nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "barima"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim no"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm no"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nsɛm no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "ויספרום",
+      "gloss": "wɔkasa kyerɛɛ"
+    },
+    {
+      "surface": "לאביהם",
+      "gloss": "wɔn agya"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:36.158162019Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "genesis 40:19", "book": "genesis", "lang": "tw", "chapter": 40, "translation": "Wɔ nna mmiɛnsa mu no, Paroh bɛto ⟨את⟩ wo tiri fi ⟨את⟩ wo so, na ɔbɛbɔ wo kɔ dua so, na nnoma no bɛ-di ⟨את⟩ wo nam fi wo so.", "tokens": [{"surface": "בעוד", "gloss": "wɔ ... mu"}, {"surface": "שלשת", "gloss": "mmiɛnsa"}, {"surface": "ימים", "gloss": "nna"}, {"surface": "ישא", "gloss": "bɛtoa"}, {"surface": "פרעה", "gloss": "Paroh"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo tiri"}, {"surface": "ראשך", "gloss": "wo tiri"}, {"surface": "מעליך", "gloss": "fi wo so"}, {"surface": "ותלה", "gloss": "na ɔbɛbɔ wo kɔ"}, {"surface": "אותך", "gloss": "⟨את⟩ wo"}, {"surface": "על", "gloss": "kɔ ... so"}, {"surface": "עץ", "gloss": "dua"}, {"surface": "ואכל", "gloss": "na ... bɛ-di"}, {"surface": "העוף", "gloss": "nnoma no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo nam"}, {"surface": "בשרך", "gloss": "wo nam"}, {"surface": "מעליך", "gloss": "fi wo so"}], "timestamp": "2026-09-15T20:37:10.855442145Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 40:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Wɔ nna mmiɛnsa mu no, Paroh bɛto ⟨את⟩ wo tiri fi ⟨את⟩ wo so, na ɔbɛbɔ wo kɔ dua so, na nnoma no bɛ-di ⟨את⟩ wo nam fi wo so.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bɛtoa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo tiri"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "wo tiri"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "fi wo so"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "na ɔbɛbɔ wo kɔ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔ ... so"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na ... bɛ-di"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "nnoma no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo nam"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "wo nam"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "fi wo so"
+    }
+  ],
+  "timestamp": "2026-09-15T20:37:10.855442145Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":7,"ref":"deuteronomy 24:7","book":"deuteronomy","lang":"tw","chapter":24,"translation":"Sɛ obi benya ɔbarima a wayɛ Israelfoɔ ba, na ɔyɛ n'abusua mu onipa, na ɔtɔn no, ɔbarima no bewu; na wobesan asɛe bɔne no firi wo mu.","tokens":[{"surface":"כי","gloss":"Sɛ"},{"surface":"ימצא","gloss":"wobebenya"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"גנב","gloss":"a wawu"},{"surface":"נפש","gloss":"onipa"},{"surface":"מאחיו","gloss":"n'abusua mu"},{"surface":"מבני","gloss":"firi … mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"והתעמר","gloss":"na ɔde ayɛ"},{"surface":"בו","gloss":"no"},{"surface":"ומכרו","gloss":"na ɔtɔn no"},{"surface":"ומת","gloss":"obewu"},{"surface":"הגנב","gloss":"ɔkorɔmfoɔ no"},{"surface":"ההוא","gloss":"no"},{"surface":"ובערת","gloss":"na wobesan asɛe"},{"surface":"הרע","gloss":"bɔne no"},{"surface":"מקרבך","gloss":"firi wo mu"}],"timestamp":"2026-09-15T21:55:28.105496003Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Sɛ obi benya ɔbarima a wayɛ Israelfoɔ ba, na ɔyɛ n'abusua mu onipa, na ɔtɔn no, ɔbarima no bewu; na wobesan asɛe bɔne no firi wo mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "wobebenya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "a wawu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "n'abusua mu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "firi … mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "na ɔde ayɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "na ɔtɔn no"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "obewu"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ɔkorɔmfoɔ no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "na wobesan asɛe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne no"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "firi wo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:28.105496003Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "jeremiah 37:5", "book": "jeremiah", "lang": "tw", "chapter": 37, "translation": "Na Paroh asraa no firii Misraim, na Kasdim a wɔatoto Yerusalem mu no tee ⟨את⟩ wɔn asɛm no, na wɔfirii Yerusalem so.", "tokens": [{"surface": "וחיל", "gloss": "asraa no"}, {"surface": "פרעה", "gloss": "Paroh"}, {"surface": "יצא", "gloss": "firii"}, {"surface": "ממצרים", "gloss": "Misraim"}, {"surface": "וישמעו", "gloss": "tee"}, {"surface": "הכשדים", "gloss": "Kasdim"}, {"surface": "הצרים", "gloss": "a wɔatoto mu no"}, {"surface": "על", "gloss": "mu"}, {"surface": "ירושלם", "gloss": "Yerusalem"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn asɛm no"}, {"surface": "שמעם", "gloss": "wɔn asɛm no"}, {"surface": "ויעלו", "gloss": "na wɔfirii"}, {"surface": "מעל", "gloss": "so"}, {"surface": "ירושלם", "gloss": "Yerusalem"}], "timestamp": "2026-09-16T00:22:09.308571898Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 37:5",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na Paroh asraa no firii Misraim, na Kasdim a wɔatoto Yerusalem mu no tee ⟨את⟩ wɔn asɛm no, na wɔfirii Yerusalem so.",
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "asraa no"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "firii"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "tee"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "a wɔatoto mu no"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn asɛm no"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "wɔn asɛm no"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "na wɔfirii"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "so"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T00:22:09.308571898Z",
+  "model": "glm-5.3"
+}

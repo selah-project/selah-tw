@@ -1,1 +1,101 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "1-samuel 23:23", "book": "1-samuel", "lang": "tw", "chapter": 23, "translation": "Na ⟨את⟩ monhwɛ na monim nsumaeɛ nyinaa a ɔde sie ne ho wɔ hɔ, na mosan bra m'akyi de nokorɛ bi ba, na mɛne mo akɔ; na sɛ ɔwɔ asase no so a, mɛhwehwɛ no ⟨את⟩ wɔ Yuda apem nyinaa mu.", "tokens": [{"surface": "וראו", "gloss": "monhwɛ"}, {"surface": "ודעו", "gloss": "na monim"}, {"surface": "מכל", "gloss": "nyinaa"}, {"surface": "המחבאים", "gloss": "nsumaeɛ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יתחבא", "gloss": "ɔde sie ne ho"}, {"surface": "שם", "gloss": "wɔ hɔ"}, {"surface": "ושבתם", "gloss": "na mosan bra"}, {"surface": "אלי", "gloss": "m'akyi"}, {"surface": "אל", "gloss": "de"}, {"surface": "נכון", "gloss": "nokorɛ bi"}, {"surface": "והלכתי", "gloss": "na mɛne mo akɔ"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo"}, {"surface": "והיה", "gloss": "na sɛ"}, {"surface": "אם", "gloss": "sɛ"}, {"surface": "ישנו", "gloss": "ɔwɔ"}, {"surface": "בארץ", "gloss": "asase no so"}, {"surface": "וחפשתי", "gloss": "mɛhwehwɛ"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "בכל", "gloss": "wɔ nyinaa mu"}, {"surface": "אלפי", "gloss": "apem"}, {"surface": "יהודה", "gloss": "Yuda"}], "timestamp": "2026-09-15T22:56:52.584049561Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 23:23",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na ⟨את⟩ monhwɛ na monim nsumaeɛ nyinaa a ɔde sie ne ho wɔ hɔ, na mosan bra m'akyi de nokorɛ bi ba, na mɛne mo akɔ; na sɛ ɔwɔ asase no so a, mɛhwehwɛ no ⟨את⟩ wɔ Yuda apem nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "monhwɛ"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "na monim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "המחבאים",
+      "gloss": "nsumaeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יתחבא",
+      "gloss": "ɔde sie ne ho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wɔ hɔ"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "na mosan bra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m'akyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nokorɛ bi"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "na mɛne mo akɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "ɔwɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase no so"
+    },
+    {
+      "surface": "וחפשתי",
+      "gloss": "mɛhwehwɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wɔ nyinaa mu"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "apem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-15T22:56:52.584049561Z",
+  "model": "glm-5.3"
+}

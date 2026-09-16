@@ -1,1 +1,127 @@
-{"tier":"glm-5.2","verse":18,"ref":"ezekiel 31:18","book":"ezekiel","lang":"tw","chapter":31,"translation":"Hwan na wobɛde no toto wo ho sɛ saa wɔ animuonyam ne kɛseɛ mu wɔ Eden nnua no mu? Wobɛsiane ⟨את⟩ Eden nnua no akɔ asase a ɛwɔ fam; wobɛda wɔn a wɔantwa wɔn kakyi mu, ne ⟨את⟩ wɔn a akodaa twaa wɔn wuo no — Parhao ne ne dɔm nyinaa na ɔyɛ, Adonai Yawe asɛm.","tokens":[{"surface":"אל","gloss":"de … to"},{"surface":"מי","gloss":"hwan"},{"surface":"דמית","gloss":"wode … toto wo ho"},{"surface":"ככה","gloss":"sɛ saa"},{"surface":"בכבוד","gloss":"wɔ animuonyam mu"},{"surface":"ובגדל","gloss":"ne kɛseɛ mu"},{"surface":"בעצי","gloss":"wɔ nnua mu"},{"surface":"עדן","gloss":"Eden"},{"surface":"והורדת","gloss":"wobɛsiane"},{"surface":"את","gloss":"⟨את⟩","marks":"Eden nnua"},{"surface":"עצי","gloss":"nnua"},{"surface":"עדן","gloss":"Eden"},{"surface":"אל","gloss":"akɔ"},{"surface":"ארץ","gloss":"asase"},{"surface":"תחתית","gloss":"a ɛwɔ fam"},{"surface":"בתוך","gloss":"wɔ … mu"},{"surface":"ערלים","gloss":"wɔn a wɔantwa wɔn kakyi"},{"surface":"תשכב","gloss":"wobɛda"},{"surface":"את","gloss":"⟨את⟩","marks":"wɔn a akodaa twaa wɔn wuo"},{"surface":"חללי","gloss":"wɔn a wɔwuiɛ"},{"surface":"חרב","gloss":"akodaa"},{"surface":"הוא","gloss":"no ara"},{"surface":"פרעה","gloss":"Parhao"},{"surface":"וכל","gloss":"ne … nyinaa"},{"surface":"המונה","gloss":"ne dɔm"},{"surface":"נאם","gloss":"asɛm"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T00:49:53.135950909Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 31:18",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Hwan na wobɛde no toto wo ho sɛ saa wɔ animuonyam ne kɛseɛ mu wɔ Eden nnua no mu? Wobɛsiane ⟨את⟩ Eden nnua no akɔ asase a ɛwɔ fam; wobɛda wɔn a wɔantwa wɔn kakyi mu, ne ⟨את⟩ wɔn a akodaa twaa wɔn wuo no — Parhao ne ne dɔm nyinaa na ɔyɛ, Adonai Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "de … to"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "wode … toto wo ho"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "sɛ saa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "wɔ animuonyam mu"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "ne kɛseɛ mu"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "wɔ nnua mu"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "wobɛsiane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eden nnua"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nnua"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "a ɛwɔ fam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wɔ … mu"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "wɔn a wɔantwa wɔn kakyi"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "wobɛda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn a akodaa twaa wɔn wuo"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wɔn a wɔwuiɛ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "akodaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no ara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne … nyinaa"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "ne dɔm"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:49:53.135950909Z",
+  "model": "glm-5.3"
+}

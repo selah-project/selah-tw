@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"zechariah 6:4","book":"zechariah","lang":"tw","chapter":6,"translation":"Na mebuaa, na meka kyerɛɛ ɔsorofoɔ ɔno a ɔka kasa fa me ho no sɛ: Nneɛma yi deɛ, Adonai?","tokens":[{"surface":"ואען","gloss":"na mebuaa"},{"surface":"ואמר","gloss":"na meka kyerɛɛ"},{"surface":"אל","gloss":"kyerɛɛ"},{"surface":"המלאך","gloss":"ɔsorofoɔ no"},{"surface":"הדבר","gloss":"ɔno a ɔka kasa"},{"surface":"בי","gloss":"fa me ho"},{"surface":"מה","gloss":"nneɛma yi deɛ sɛ"},{"surface":"אלה","gloss":"yi"},{"surface":"אדני","gloss":"Adonai"}],"timestamp":"2026-09-16T01:28:11.123502763Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na mebuaa, na meka kyerɛɛ ɔsorofoɔ ɔno a ɔka kasa fa me ho no sɛ: Nneɛma yi deɛ, Adonai?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "na mebuaa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na meka kyerɛɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ɔsorofoɔ no"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ɔno a ɔka kasa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fa me ho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nneɛma yi deɛ sɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-16T01:28:11.123502763Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "leviticus 4:6", "book": "leviticus", "lang": "tw", "chapter": 4, "translation": "Sɔfoɔ no bɛto ⟨את⟩ ne nsateaa wɔ ⟨את⟩ mogya no mu, na wɔbɛgu mogya no mu bi nnuonnwɔtwe wɔ Yawe anim, wɔ kronkron-paroket no anim.", "tokens": [{"surface": "וטבל", "gloss": "bɛto"}, {"surface": "הכהן", "gloss": "sɔfoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nsateaa"}, {"surface": "אצבעו", "gloss": "ne nsateaa"}, {"surface": "בדם", "gloss": "wɔ mogya no mu"}, {"surface": "והזה", "gloss": "na wɔbɛgu ... nnuonnwɔtwe"}, {"surface": "מן", "gloss": "mu bi"}, {"surface": "הדם", "gloss": "mogya no"}, {"surface": "שבע", "gloss": "nnuonnwɔtwe"}, {"surface": "פעמים", "gloss": "mmɔdenso"}, {"surface": "לפני", "gloss": "wɔ ... anim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kronkron-paroket no anim"}, {"surface": "פני", "gloss": "anim"}, {"surface": "פרכת", "gloss": "paroket"}, {"surface": "הקדש", "gloss": "kronkron"}], "timestamp": "2026-09-15T21:10:25.487002543Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Sɔfoɔ no bɛto ⟨את⟩ ne nsateaa wɔ ⟨את⟩ mogya no mu, na wɔbɛgu mogya no mu bi nnuonnwɔtwe wɔ Yawe anim, wɔ kronkron-paroket no anim.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "bɛto"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sɔfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nsateaa"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ne nsateaa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "wɔ mogya no mu"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "na wɔbɛgu ... nnuonnwɔtwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu bi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nnuonnwɔtwe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mmɔdenso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kronkron-paroket no anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T21:10:25.487002543Z",
+  "model": "glm-5.3"
+}

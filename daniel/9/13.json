@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":13,"ref":"daniel 9:13","book":"daniel","lang":"tw","chapter":9,"translation":"Sɛnea wɔatwerɛ wɔ Mose Tora mu no, ⟨את⟩ ɔhaw yi ⟨את⟩ nyinaa aba yɛn so, na yɛanhunu Yawe, yɛn Eloohim, anim sɛ yɛbɛsan afiri yɛn bɔne mu na sɛ yɛnya ntease wɔ wo nokorɛ mu.","tokens":[{"surface":"כאשר","gloss":"Sɛnea"},{"surface":"כתוב","gloss":"wɔatwerɛ"},{"surface":"בתורת","gloss":"wɔ Tora mu"},{"surface":"משה","gloss":"Mose"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔhaw yi nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"הרעה","gloss":"ɔhaw"},{"surface":"הזאת","gloss":"yi"},{"surface":"באה","gloss":"aba"},{"surface":"עלינו","gloss":"yɛn so"},{"surface":"ולא","gloss":"na yɛan-"},{"surface":"חלינו","gloss":"hunu ...anim"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe anim"},{"surface":"פני","gloss":"anim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהינו","gloss":"yɛn Eloohim"},{"surface":"לשוב","gloss":"sɛ yɛbɛsan"},{"surface":"מעוננו","gloss":"firi yɛn bɔne mu"},{"surface":"ולהשכיל","gloss":"na sɛ yɛnya ntease"},{"surface":"באמתך","gloss":"wɔ wo nokorɛ mu"}],"timestamp":"2026-09-16T04:16:02.477195489Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 9:13",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Sɛnea wɔatwerɛ wɔ Mose Tora mu no, ⟨את⟩ ɔhaw yi ⟨את⟩ nyinaa aba yɛn so, na yɛanhunu Yawe, yɛn Eloohim, anim sɛ yɛbɛsan afiri yɛn bɔne mu na sɛ yɛnya ntease wɔ wo nokorɛ mu.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sɛnea"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "wɔatwerɛ"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "wɔ Tora mu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhaw yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ɔhaw"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "באה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn so"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yɛan-"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "hunu ...anim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe anim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "sɛ yɛbɛsan"
+    },
+    {
+      "surface": "מעוננו",
+      "gloss": "firi yɛn bɔne mu"
+    },
+    {
+      "surface": "ולהשכיל",
+      "gloss": "na sɛ yɛnya ntease"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "wɔ wo nokorɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T04:16:02.477195489Z",
+  "model": "glm-5.3"
+}

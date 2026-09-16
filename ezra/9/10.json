@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"ezra 9:10","book":"ezra","lang":"tw","chapter":9,"translation":"Na seesei, Eloohim yɛn, yɛbɛka deɛn wɔ eyi akyi? Efisɛ yɛagyaw wo mmarahyɛ.","tokens":[{"surface":"ועתה","gloss":"Na seesei"},{"surface":"מה","gloss":"deɛn"},{"surface":"נאמר","gloss":"yɛbɛka"},{"surface":"אלהינו","gloss":"Eloohim yɛn"},{"surface":"אחרי","gloss":"akyi"},{"surface":"זאת","gloss":"eyi"},{"surface":"כי","gloss":"Efisɛ"},{"surface":"עזבנו","gloss":"yɛagyaw"},{"surface":"מצותיך","gloss":"wo mmarahyɛ"}],"timestamp":"2026-09-16T04:21:54.216159864Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na seesei, Eloohim yɛn, yɛbɛka deɛn wɔ eyi akyi? Efisɛ yɛagyaw wo mmarahyɛ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛn"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "yɛbɛka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim yɛn"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Efisɛ"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "yɛagyaw"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "wo mmarahyɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:21:54.216159864Z",
+  "model": "glm-5.3"
+}

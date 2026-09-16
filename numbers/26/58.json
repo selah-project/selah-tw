@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 58, "ref": "numbers 26:58", "book": "numbers", "lang": "tw", "chapter": 26, "translation": "Saa na Levi mmusua: Libnifoɔ abusua, Hebronfoɔ abusua, Mahlifoɔ abusua, Mushifoɔ abusua, Korahfoɔ abusua; na Kohath woo ⟨את⟩ Amram.", "tokens": [{"surface": "אלה", "gloss": "saa na"}, {"surface": "משפחת", "gloss": "mmusua"}, {"surface": "לוי", "gloss": "Levi"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "הלבני", "gloss": "Libnifoɔ"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "החברני", "gloss": "Hebronfoɔ"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "המחלי", "gloss": "Mahlifoɔ"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "המושי", "gloss": "Mushifoɔ"}, {"surface": "משפחת", "gloss": "abusua"}, {"surface": "הקרחי", "gloss": "Korahfoɔ"}, {"surface": "וקהת", "gloss": "na Kohath"}, {"surface": "הולד", "gloss": "woo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Amram"}, {"surface": "עמרם", "gloss": "Amram"}], "timestamp": "2026-09-15T21:39:13.910265547Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 26:58",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Saa na Levi mmusua: Libnifoɔ abusua, Hebronfoɔ abusua, Mahlifoɔ abusua, Mushifoɔ abusua, Korahfoɔ abusua; na Kohath woo ⟨את⟩ Amram.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "saa na"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mmusua"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "Libnifoɔ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Hebronfoɔ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "Mahlifoɔ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "Mushifoɔ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "abusua"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "Korahfoɔ"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "na Kohath"
+    },
+    {
+      "surface": "הולד",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amram"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    }
+  ],
+  "timestamp": "2026-09-15T21:39:13.910265547Z",
+  "model": "glm-5.3"
+}

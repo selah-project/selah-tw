@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":14,"ref":"micah 6:14","book":"micah","lang":"tw","chapter":6,"translation":"Wo bɛdi aduane na wo nsa nwera, na wɔ yaruma no ben wo mu; wo bɛgye na wonnyɛ nkwansomgye, na deɛ wo bɛgyae no, mede bɛma akofena.","tokens":[{"surface":"אתה","gloss":"wo"},{"surface":"תאכל","gloss":"wo bɛdi aduane"},{"surface":"ולא","gloss":"na wo nsa"},{"surface":"תשבע","gloss":"nwera"},{"surface":"וישחך","gloss":"wɔ yaruma"},{"surface":"בקרבך","gloss":"wo mu"},{"surface":"ותסג","gloss":"wo bɛgye"},{"surface":"ולא","gloss":"na wonnyɛ"},{"surface":"תפליט","gloss":"nkwansomgye"},{"surface":"ואשר","gloss":"na deɛ"},{"surface":"תפלט","gloss":"wo bɛgyae"},{"surface":"לחרב","gloss":"akofena"},{"surface":"אתן","gloss":"mede bɛma"}],"timestamp":"2026-09-16T01:18:36.642850376Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Wo bɛdi aduane na wo nsa nwera, na wɔ yaruma no ben wo mu; wo bɛgye na wonnyɛ nkwansomgye, na deɛ wo bɛgyae no, mede bɛma akofena.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wo bɛdi aduane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wo nsa"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "nwera"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "wɔ yaruma"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "wo bɛgye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wonnyɛ"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "nkwansomgye"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "wo bɛgyae"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mede bɛma"
+    }
+  ],
+  "timestamp": "2026-09-16T01:18:36.642850376Z",
+  "model": "glm-5.3"
+}

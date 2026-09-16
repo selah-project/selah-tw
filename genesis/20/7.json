@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":7,"ref":"genesis 20:7","book":"genesis","lang":"tw","chapter":20,"translation":"Ɛnna ɛnnɛ yi, san de ɔbarima no yere no ma no; ɛfiri sɛ ɔyɛ ɔdi-akanfoɔ, na ɔbɛto mpaeɛ wo ho, na wubenya nkwa; nanso sɛ wonsan de no mma a, hu sɛ wuwu na wobewu — wo, ne biribiara a ɛwɔ wo.","tokens":[{"surface":"ועתה","gloss":"ɛnna ɛnnɛ yi"},{"surface":"השב","gloss":"san de ... ma no"},{"surface":"אשת","gloss":"yere"},{"surface":"האיש","gloss":"ɔbarima no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"נביא","gloss":"ɔdi-akanfoɔ"},{"surface":"הוא","gloss":"ɔyɛ"},{"surface":"ויתפלל","gloss":"na ɔbɛto mpaeɛ"},{"surface":"בעדך","gloss":"wo ho"},{"surface":"וחיה","gloss":"na wubenya nkwa"},{"surface":"ואם","gloss":"nanso sɛ"},{"surface":"אינך","gloss":"wonsan ... mma"},{"surface":"משיב","gloss":"de no"},{"surface":"דע","gloss":"hu sɛ"},{"surface":"כי","gloss":""},{"surface":"מות","gloss":"wuwu"},{"surface":"תמות","gloss":"wobewu"},{"surface":"אתה","gloss":"wo"},{"surface":"וכל","gloss":"ne biribiara"},{"surface":"אשר","gloss":"a"},{"surface":"לך","gloss":"ɛwɔ wo"}],"timestamp":"2026-09-15T20:24:19.043535607Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 20:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Ɛnna ɛnnɛ yi, san de ɔbarima no yere no ma no; ɛfiri sɛ ɔyɛ ɔdi-akanfoɔ, na ɔbɛto mpaeɛ wo ho, na wubenya nkwa; nanso sɛ wonsan de no mma a, hu sɛ wuwu na wobewu — wo, ne biribiara a ɛwɔ wo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ɛnna ɛnnɛ yi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "san de ... ma no"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yere"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ɔbarima no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ɔdi-akanfoɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔyɛ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "na ɔbɛto mpaeɛ"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "wo ho"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "na wubenya nkwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nanso sɛ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wonsan ... mma"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "de no"
+    },
+    {
+      "surface": "דע",
+      "gloss": "hu sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מות",
+      "gloss": "wuwu"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wobewu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɛwɔ wo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:24:19.043535607Z",
+  "model": "glm-5.3"
+}

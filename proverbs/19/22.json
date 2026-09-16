@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 19:22","book":"proverbs","lang":"tw","chapter":19,"translation":"Deɛ ɔpɛ onipa no ne nesom-bo; ɛyɛ papa sɛ wonya ahia na ɛnyɛ sɛ wonyɛ onipa ɛtorɔsofoɔ.","tokens":[{"surface":"תאות","gloss":"deɛ ɔpɛ"},{"surface":"אדם","gloss":"onipa"},{"surface":"חסדו","gloss":"nesom-bo ⟨hesed⟩"},{"surface":"וטוב","gloss":"ɛyɛ papa"},{"surface":"רש","gloss":"ɔhafoɔ"},{"surface":"מאיש","gloss":"sen onipa"},{"surface":"כזב","gloss":"ɛtorɔsofoɔ"}],"timestamp":"2026-09-16T02:54:30.586156651Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Deɛ ɔpɛ onipa no ne nesom-bo; ɛyɛ papa sɛ wonya ahia na ɛnyɛ sɛ wonyɛ onipa ɛtorɔsofoɔ.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "deɛ ɔpɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "nesom-bo ⟨hesed⟩"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ɔhafoɔ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "sen onipa"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ɛtorɔsofoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T02:54:30.586156651Z",
+  "model": "glm-5.3"
+}

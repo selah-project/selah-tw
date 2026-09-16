@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "ezekiel 4:3", "book": "ezekiel", "lang": "tw", "chapter": 4, "translation": "Na wo, fa dɔte adɔkɔ fa ma wo ho, na wo de yɛ dɔte ⟨את⟩ mprɛ wɔ wo ne ⟨את⟩ kuro no ntam; na wo si w'ani sɛ ɛso, na ɛbɛda mmɔhyɛ ase, na wo bɛhyɛ no mu. Ɛyɛ nsɛnkyerɛnne ma Yisrael fie.", "tokens": [{"surface": "ואתה", "gloss": "na wo"}, {"surface": "קח", "gloss": "fa"}, {"surface": "לך", "gloss": "ma wo ho"}, {"surface": "מחבת", "gloss": "adɔkɔ"}, {"surface": "ברזל", "gloss": "dɔte"}, {"surface": "ונתתה", "gloss": "na wo de bɛyɛ"}, {"surface": "אותה", "gloss": "⟨את⟩", "marks": "adɔkɔ no"}, {"surface": "קיר", "gloss": "mprɛ"}, {"surface": "ברזל", "gloss": "dɔte"}, {"surface": "בינך", "gloss": "wo ne"}, {"surface": "ובין", "gloss": "nantam"}, {"surface": "העיר", "gloss": "kuro no"}, {"surface": "והכינתה", "gloss": "na wo si w'ani"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'ani"}, {"surface": "פניך", "gloss": "w'ani"}, {"surface": "אליה", "gloss": "sɛ ɛso"}, {"surface": "והיתה", "gloss": "na ɛbɛda"}, {"surface": "במצור", "gloss": "mmɔhyɛ ase"}, {"surface": "וצרת", "gloss": "na wo bɛhyɛ no mu"}, {"surface": "עליה", "gloss": "so"}, {"surface": "אות", "gloss": "nsɛnkyerɛnne"}, {"surface": "היא", "gloss": "ɛyɛ"}, {"surface": "לבית", "gloss": "ma Yisrael fie"}, {"surface": "ישראל", "gloss": "Yisrael"}], "timestamp": "2026-09-16T00:35:04.651875905Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na wo, fa dɔte adɔkɔ fa ma wo ho, na wo de yɛ dɔte ⟨את⟩ mprɛ wɔ wo ne ⟨את⟩ kuro no ntam; na wo si w'ani sɛ ɛso, na ɛbɛda mmɔhyɛ ase, na wo bɛhyɛ no mu. Ɛyɛ nsɛnkyerɛnne ma Yisrael fie.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo ho"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "adɔkɔ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dɔte"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na wo de bɛyɛ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "adɔkɔ no"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "mprɛ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dɔte"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "wo ne"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nantam"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro no"
+    },
+    {
+      "surface": "והכינתה",
+      "gloss": "na wo si w'ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'ani"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "w'ani"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sɛ ɛso"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ɛbɛda"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mmɔhyɛ ase"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "na wo bɛhyɛ no mu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɛyɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ma Yisrael fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-16T00:35:04.651875905Z",
+  "model": "glm-5.3"
+}

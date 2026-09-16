@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 118:8","book":"psalms","lang":"tw","chapter":118,"translation":"ɛyɛ papa sɛ wode ho to Yawe mu, sen sɛ wode ho to onipa mu.","tokens":[{"surface":"טוב","gloss":"ɛyɛ papa"},{"surface":"לחסות","gloss":"sɛ wode ho to"},{"surface":"ביהוה","gloss":"Yawe mu"},{"surface":"מבטח","gloss":"sen sɛ wode ho to"},{"surface":"באדם","gloss":"onipa mu"}],"timestamp":"2026-09-16T02:25:34.190861962Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 118,
+  "translation": "ɛyɛ papa sɛ wode ho to Yawe mu, sen sɛ wode ho to onipa mu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ɛyɛ papa"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "sɛ wode ho to"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe mu"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "sen sɛ wode ho to"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "onipa mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:25:34.190861962Z",
+  "model": "glm-5.3"
+}

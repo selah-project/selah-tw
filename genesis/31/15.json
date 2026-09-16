@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "genesis 31:15", "book": "genesis", "lang": "tw", "chapter": 31, "translation": "Wɔnnyɛ yɛn ankasa anisoɔfoɔ sɛ yɛyɛ ahɔhoɔ ma no? Ɛma ɔtɔn yɛn, na akyire ɔwee ⟨את⟩ yɛn sika no so awie.", "tokens": [{"surface": "הלוא", "gloss": "Wɔnnyɛ... anisoɔfoɔ sɛ"}, {"surface": "נכריות", "gloss": "ahɔhoɔ"}, {"surface": "נחשבנו", "gloss": "yɛyɛ"}, {"surface": "לו", "gloss": "ma no"}, {"surface": "כי", "gloss": "Ɛma"}, {"surface": "מכרנו", "gloss": "ɔtɔn yɛn"}, {"surface": "ויאכל", "gloss": "ɔwee... awie"}, {"surface": "גם", "gloss": "so"}, {"surface": "אכול", "gloss": "wee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yɛn sika"}, {"surface": "כספנו", "gloss": "yɛn sika"}], "timestamp": "2026-09-15T20:29:25.137804787Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Wɔnnyɛ yɛn ankasa anisoɔfoɔ sɛ yɛyɛ ahɔhoɔ ma no? Ɛma ɔtɔn yɛn, na akyire ɔwee ⟨את⟩ yɛn sika no so awie.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Wɔnnyɛ... anisoɔfoɔ sɛ"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "yɛyɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ɛma"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ɔtɔn yɛn"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ɔwee... awie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "so"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "wee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn sika"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "yɛn sika"
+    }
+  ],
+  "timestamp": "2026-09-15T20:29:25.137804787Z",
+  "model": "glm-5.3"
+}

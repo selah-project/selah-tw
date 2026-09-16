@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":6,"ref":"job 4:6","book":"job","lang":"tw","chapter":4,"translation":"Anaasɛ ɛnyɛ sɛ wo osuro yɛ wo ho ban, wo anidaso ne wo nkwannom wɔnteɛ?","tokens":[{"surface":"הלא","gloss":"anaasɛ ɛnyɛ sɛ"},{"surface":"יראתך","gloss":"wo osuro"},{"surface":"כסלתך","gloss":"wo ho ban / ahotoso"},{"surface":"תקותך","gloss":"wo anidaso"},{"surface":"ותם","gloss":"na ... wɔnteɛ"},{"surface":"דרכיך","gloss":"wo nkwannom"}],"timestamp":"2026-09-16T03:10:42.302238787Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Anaasɛ ɛnyɛ sɛ wo osuro yɛ wo ho ban, wo anidaso ne wo nkwannom wɔnteɛ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "anaasɛ ɛnyɛ sɛ"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "wo osuro"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "wo ho ban / ahotoso"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "wo anidaso"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "na ... wɔnteɛ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "wo nkwannom"
+    }
+  ],
+  "timestamp": "2026-09-16T03:10:42.302238787Z",
+  "model": "glm-5.3"
+}

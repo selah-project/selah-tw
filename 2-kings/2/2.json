@@ -1,1 +1,109 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-kings 2:2","book":"2-kings","lang":"tw","chapter":2,"translation":"Na Elia kaa kyɛɛ Elisɛa sɛ: “Tena ha, mepa wo kyɛw, ɛfiri sɛ Yawe asoma me akɔ Betel.” Na Elisɛa buaa sɛ: “Sɛndeɛ sɛ Yawe te aseɛ, na sɛndeɛ sɛ wo nkwa nso te aseɛ, ɛnde mɛgyaw wo da.” Enti wɔdii Betel ase.","tokens":[{"surface":"ויאמר","gloss":"Na ɔkaa kyɛɛ"},{"surface":"אליהו","gloss":"Elia"},{"surface":"אל","gloss":"kyɛɛ"},{"surface":"אלישע","gloss":"Elisɛa"},{"surface":"שב","gloss":"tena"},{"surface":"נא","gloss":"mepa wo kyɛw"},{"surface":"פה","gloss":"ha"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"שלחני","gloss":"asoma me"},{"surface":"עד","gloss":"akɔ"},{"surface":"בית","gloss":"Bet"},{"surface":"אל","gloss":"el"},{"surface":"ויאמר","gloss":"Na ɔbuaa sɛ"},{"surface":"אלישע","gloss":"Elisɛa"},{"surface":"חי","gloss":"te aseɛ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"וחי","gloss":"na ... te aseɛ"},{"surface":"נפשך","gloss":"wo nkwa"},{"surface":"אם","gloss":"sɛndeɛ sɛ"},{"surface":"אעזבך","gloss":"mɛgyaw wo"},{"surface":"וירדו","gloss":"wɔdii ... ase"},{"surface":"בית","gloss":"Bet"},{"surface":"אל","gloss":"el"}],"timestamp":"2026-09-15T23:27:39.379184186Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 2:2",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Elia kaa kyɛɛ Elisɛa sɛ: “Tena ha, mepa wo kyɛw, ɛfiri sɛ Yawe asoma me akɔ Betel.” Na Elisɛa buaa sɛ: “Sɛndeɛ sɛ Yawe te aseɛ, na sɛndeɛ sɛ wo nkwa nso te aseɛ, ɛnde mɛgyaw wo da.” Enti wɔdii Betel ase.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa kyɛɛ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyɛɛ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisɛa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tena"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "asoma me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔbuaa sɛ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisɛa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "te aseɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na ... te aseɛ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wo nkwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛndeɛ sɛ"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "mɛgyaw wo"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "wɔdii ... ase"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:39.379184186Z",
+  "model": "glm-5.3"
+}

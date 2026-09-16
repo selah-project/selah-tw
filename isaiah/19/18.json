@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":18,"ref":"isaiah 19:18","book":"isaiah","lang":"tw","chapter":19,"translation":"Da no mu, nkuro anum bɛwɔ Misraim asase so a wɔbɛka Kenaan kasa, na wɔbɛbɔ Yawe Sabua din; kurow baako mu no wɔbɛfrɛ no ⟨kurow a wɔasɛe no⟩.","tokens":[{"surface":"ביום","gloss":"da no mu"},{"surface":"ההוא","gloss":"no"},{"surface":"יהיו","gloss":"bɛwɔ"},{"surface":"חמש","gloss":"anum"},{"surface":"ערים","gloss":"nkuro"},{"surface":"בארץ","gloss":"asase so"},{"surface":"מצרים","gloss":"Misraim"},{"surface":"מדברות","gloss":"bɛka"},{"surface":"שפת","gloss":"kasa"},{"surface":"כנען","gloss":"Kenaan"},{"surface":"ונשבעות","gloss":"na wɔbɛbɔ ... din"},{"surface":"ליהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"עיר","gloss":"kurow"},{"surface":"ההרס","gloss":"a wɔasɛe no"},{"surface":"יאמר","gloss":"wɔbɛfrɛ"},{"surface":"לאחת","gloss":"baako mu no"}],"timestamp":"2026-09-16T05:24:12.603596527Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 19:18",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Da no mu, nkuro anum bɛwɔ Misraim asase so a wɔbɛka Kenaan kasa, na wɔbɛbɔ Yawe Sabua din; kurow baako mu no wɔbɛfrɛ no ⟨kurow a wɔasɛe no⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bɛwɔ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "anum"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nkuro"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "מדברות",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ונשבעות",
+      "gloss": "na wɔbɛbɔ ... din"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "ההרס",
+      "gloss": "a wɔasɛe no"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wɔbɛfrɛ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "baako mu no"
+    }
+  ],
+  "timestamp": "2026-09-16T05:24:12.603596527Z",
+  "model": "glm-5.3"
+}

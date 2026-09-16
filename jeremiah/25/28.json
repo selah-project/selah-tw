@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":28,"ref":"jeremiah 25:28","book":"jeremiah","lang":"tw","chapter":25,"translation":"Na ɛbɛba sɛ wɔbɛpow sɛ wɔbɛfa kuruwa no wɔ wo nsa mu anom a, wobɛka akyerɛ wɔn sɛ: Sɛdeɛ Yawe Sabaoɔ ka: Monom ara kwa!","tokens":[{"surface":"והיה","gloss":"Na ɛbɛba"},{"surface":"כי","gloss":"sɛ"},{"surface":"ימאנו","gloss":"wɔbɛpow"},{"surface":"לקחת","gloss":"sɛ wɔbɛfa"},{"surface":"הכוס","gloss":"kuruwa no"},{"surface":"מידך","gloss":"wɔ wo nsa mu"},{"surface":"לשתות","gloss":"anom"},{"surface":"ואמרת","gloss":"wobɛka akyerɛ wɔn"},{"surface":"אליהם","gloss":"wɔn"},{"surface":"כה","gloss":"Sɛdeɛ"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שתו","gloss":"Monom ara"},{"surface":"תשתו","gloss":"kwa!"}],"timestamp":"2026-09-16T00:17:14.370831769Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 25:28",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na ɛbɛba sɛ wɔbɛpow sɛ wɔbɛfa kuruwa no wɔ wo nsa mu anom a, wobɛka akyerɛ wɔn sɛ: Sɛdeɛ Yawe Sabaoɔ ka: Monom ara kwa!",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na ɛbɛba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ימאנו",
+      "gloss": "wɔbɛpow"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sɛ wɔbɛfa"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kuruwa no"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "wɔ wo nsa mu"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "anom"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wobɛka akyerɛ wɔn"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "Monom ara"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "kwa!"
+    }
+  ],
+  "timestamp": "2026-09-16T00:17:14.370831769Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":1,"ref":"isaiah 54:1","book":"isaiah","lang":"tw","chapter":54,"translation":"Bɔ w'ani so dawuru, wo awotwaa a wonnwoo; si dwom denden na bɔ anigyeɛ nnwom, wo a woanyɛ ayamyeɛ; ɛfiri sɛ ɔkorɔmfoɔ mma dɔɔso sen ɔwarefoɔ mma, Yawe de ⟨ne⟩ ka.","tokens":[{"surface":"רני","gloss":"bɔ w'ani so dawuru"},{"surface":"עקרה","gloss":"wo awotwaa"},{"surface":"לא","gloss":"onn…"},{"surface":"ילדה","gloss":"nwoo"},{"surface":"פצחי","gloss":"si dwom denden"},{"surface":"רנה","gloss":"nnwom"},{"surface":"וצהלי","gloss":"na bɔ anigyeɛ"},{"surface":"לא","gloss":"on…"},{"surface":"חלה","gloss":"yɛɛ ayamyeɛ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"רבים","gloss":"dɔɔso"},{"surface":"בני","gloss":"mma"},{"surface":"שוממה","gloss":"ɔkorɔmfoɔ"},{"surface":"מבני","gloss":"sen… mma"},{"surface":"בעולה","gloss":"ɔwarefoɔ"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-15T23:59:38.623008053Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 54:1",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 54,
+  "translation": "Bɔ w'ani so dawuru, wo awotwaa a wonnwoo; si dwom denden na bɔ anigyeɛ nnwom, wo a woanyɛ ayamyeɛ; ɛfiri sɛ ɔkorɔmfoɔ mma dɔɔso sen ɔwarefoɔ mma, Yawe de ⟨ne⟩ ka.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "bɔ w'ani so dawuru"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "wo awotwaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "onn…"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nwoo"
+    },
+    {
+      "surface": "פצחי",
+      "gloss": "si dwom denden"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "nnwom"
+    },
+    {
+      "surface": "וצהלי",
+      "gloss": "na bɔ anigyeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "on…"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "yɛɛ ayamyeɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שוממה",
+      "gloss": "ɔkorɔmfoɔ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sen… mma"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ɔwarefoɔ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:59:38.623008053Z",
+  "model": "glm-5.3"
+}

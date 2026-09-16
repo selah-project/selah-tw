@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "daniel 1:19", "book": "daniel", "lang": "tw", "chapter": 1, "translation": "⟨את⟩ Ɔhene no ne wɔn kasaeɛ, na wɔanhunu obi a ɔte sɛ Daniel, Hanania, Mishael ne Azaria wɔ wɔn nyinaa mu; enti wɔgyinaa ɔhene no anim.", "tokens": [{"surface": "וידבר", "gloss": "kasaeɛ"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "wɔn"}, {"surface": "המלך", "gloss": "Ɔhene no"}, {"surface": "ולא", "gloss": "na wɔanhunu"}, {"surface": "נמצא", "gloss": "obiri"}, {"surface": "מכלם", "gloss": "wɔ wɔn nyinaa mu"}, {"surface": "כדניאל", "gloss": "a ɔte sɛ Daniel"}, {"surface": "חנניה", "gloss": "Hanania"}, {"surface": "מישאל", "gloss": "Mishael"}, {"surface": "ועזריה", "gloss": "ne Azaria"}, {"surface": "ויעמדו", "gloss": "wɔgyinaa"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "המלך", "gloss": "ɔhene no"}], "timestamp": "2026-09-16T04:05:17.184701763Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "⟨את⟩ Ɔhene no ne wɔn kasaeɛ, na wɔanhunu obi a ɔte sɛ Daniel, Hanania, Mishael ne Azaria wɔ wɔn nyinaa mu; enti wɔgyinaa ɔhene no anim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kasaeɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene no"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wɔanhunu"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "obiri"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "wɔ wɔn nyinaa mu"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "a ɔte sɛ Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hanania"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ne Azaria"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wɔgyinaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:05:17.184701763Z",
+  "model": "glm-5.3"
+}

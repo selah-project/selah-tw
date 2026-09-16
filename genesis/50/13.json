@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "genesis 50:13", "book": "genesis", "lang": "tw", "chapter": 50, "translation": "Ne mma ⟨את⟩ no de ⟨את⟩ no kɔɔ Kenanan asase so, na wɔsiee no wɔ abura a ɛwɔ Makpela asianso mu, dea Abraham tɔɔ ⟨את⟩ asianso no sɛ asie-agyapadeɛ firi ⟨את⟩ Efron Hitini no nkyɛn, wɔ Mamre anim.", "tokens": [{"surface": "וישאו", "gloss": "de no kɔɔ"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "no (Yakob)"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "ארצה", "gloss": "asase so"}, {"surface": "כנען", "gloss": "Kenanan"}, {"surface": "ויקברו", "gloss": "na wɔsiee"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "no (Yakob)"}, {"surface": "במערת", "gloss": "wɔ abura mu"}, {"surface": "שדה", "gloss": "asianso"}, {"surface": "המכפלה", "gloss": "Makpela"}, {"surface": "אשר", "gloss": "dea"}, {"surface": "קנה", "gloss": "tɔɔ"}, {"surface": "אברהם", "gloss": "Abraham"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asianso no"}, {"surface": "השדה", "gloss": "asianso no"}, {"surface": "לאחזת", "gloss": "sɛ asie-agyapadeɛ"}, {"surface": "קבר", "gloss": "asie"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "עפרן", "gloss": "Efron"}, {"surface": "החתי", "gloss": "Hitini no"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "פני", "gloss": "anim"}, {"surface": "ממרא", "gloss": "Mamre"}], "timestamp": "2026-09-15T20:42:42.189520074Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 50:13",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 50,
+  "translation": "Ne mma ⟨את⟩ no de ⟨את⟩ no kɔɔ Kenanan asase so, na wɔsiee no wɔ abura a ɛwɔ Makpela asianso mu, dea Abraham tɔɔ ⟨את⟩ asianso no sɛ asie-agyapadeɛ firi ⟨את⟩ Efron Hitini no nkyɛn, wɔ Mamre anim.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "de no kɔɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Yakob)"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenanan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "na wɔsiee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Yakob)"
+    },
+    {
+      "surface": "במערת",
+      "gloss": "wɔ abura mu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "asianso"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "Makpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dea"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tɔɔ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asianso no"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "asianso no"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "sɛ asie-agyapadeɛ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "asie"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitini no"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    }
+  ],
+  "timestamp": "2026-09-15T20:42:42.189520074Z",
+  "model": "glm-5.3"
+}

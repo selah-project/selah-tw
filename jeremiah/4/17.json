@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":17,"ref":"jeremiah 4:17","book":"jeremiah","lang":"tw","chapter":4,"translation":"Sɛnea wɔn a wɔhwɛ afuo so nkɔnsɔn no, saa ara na wɔgyina no ho ahyia; ɛfiri sɛ ⟨את⟩ me na ɔyɛɛ asoɔden — Yawe nkɔmhyɛ.","tokens":[{"surface":"כשמרי","gloss":"sɛnea wɔn a wɔhwɛ"},{"surface":"שדי","gloss":"afuo so"},{"surface":"היו","gloss":"wɔyɛ"},{"surface":"עליה","gloss":"no so"},{"surface":"מסביב","gloss":"ho ahyia"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אתי","gloss":"⟨את⟩","marks":"me — ɔsɔree me"},{"surface":"מרתה","gloss":"ɔyɛɛ asoɔden"},{"surface":"נאם","gloss":"nkɔmhyɛ"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T00:06:12.748518369Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Sɛnea wɔn a wɔhwɛ afuo so nkɔnsɔn no, saa ara na wɔgyina no ho ahyia; ɛfiri sɛ ⟨את⟩ me na ɔyɛɛ asoɔden — Yawe nkɔmhyɛ.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "sɛnea wɔn a wɔhwɛ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "afuo so"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "no so"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ho ahyia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me — ɔsɔree me"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "ɔyɛɛ asoɔden"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkɔmhyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:06:12.748518369Z",
+  "model": "glm-5.3"
+}

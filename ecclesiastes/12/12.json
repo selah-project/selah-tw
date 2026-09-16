@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":12,"ref":"ecclesiastes 12:12","book":"ecclesiastes","lang":"tw","chapter":12,"translation":"Na deɛ ɛboro eyinom so, me ba, hwɛ wo ho: nwoma dodow a wɔkyerɛw no, awieeɛ nni hɔ; kasa dodow nso de ɔbrɛ ba nipadua so.","tokens":[{"surface":"ויתר","gloss":"na deɛ ɛboro ... so"},{"surface":"מהמה","gloss":"eyinom akyi"},{"surface":"בני","gloss":"me ba"},{"surface":"הזהר","gloss":"hwɛ wo ho"},{"surface":"עשות","gloss":"a wɔkyerɛw"},{"surface":"ספרים","gloss":"nwoma"},{"surface":"הרבה","gloss":"dodow"},{"surface":"אין","gloss":"nni hɔ"},{"surface":"קץ","gloss":"awieeɛ"},{"surface":"ולהג","gloss":"na kasa dodow"},{"surface":"הרבה","gloss":"dodow"},{"surface":"יגעת","gloss":"ɔbrɛ"},{"surface":"בשר","gloss":"nipadua"}],"timestamp":"2026-09-16T05:50:35.777362038Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na deɛ ɛboro eyinom so, me ba, hwɛ wo ho: nwoma dodow a wɔkyerɛw no, awieeɛ nni hɔ; kasa dodow nso de ɔbrɛ ba nipadua so.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "na deɛ ɛboro ... so"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "eyinom akyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "me ba"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "hwɛ wo ho"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "a wɔkyerɛw"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "dodow"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nni hɔ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "awieeɛ"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "na kasa dodow"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "dodow"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ɔbrɛ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nipadua"
+    }
+  ],
+  "timestamp": "2026-09-16T05:50:35.777362038Z",
+  "model": "glm-5.3"
+}

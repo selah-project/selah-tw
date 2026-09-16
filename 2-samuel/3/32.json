@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "2-samuel 3:32", "book": "2-samuel", "lang": "tw", "chapter": 3, "translation": "Wɔsiee ⟨את⟩ Abner wɔ Hebron; na ɔhene no maa ne nne so, ɔsuiɛ wɔ ⟨את⟩ Abner asisie ho; na nnipa nyinaa nso suiɛ.", "tokens": [{"surface": "ויקברו", "gloss": "Wɔsiee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Abner"}, {"surface": "אבנר", "gloss": "Abner"}, {"surface": "בחברון", "gloss": "wɔ Hebron"}, {"surface": "וישא", "gloss": "maa ... so"}, {"surface": "המלך", "gloss": "ɔhene no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nne"}, {"surface": "קולו", "gloss": "ne nne"}, {"surface": "ויבך", "gloss": "ɔsuiɛ"}, {"surface": "אל", "gloss": "wɔ ... ho"}, {"surface": "קבר", "gloss": "asisie"}, {"surface": "אבנר", "gloss": "Abner"}, {"surface": "ויבכו", "gloss": "nso suiɛ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "העם", "gloss": "nnipa"}], "timestamp": "2026-09-15T23:02:26.054516481Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Wɔsiee ⟨את⟩ Abner wɔ Hebron; na ɔhene no maa ne nne so, ɔsuiɛ wɔ ⟨את⟩ Abner asisie ho; na nnipa nyinaa nso suiɛ.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Wɔsiee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "wɔ Hebron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "maa ... so"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nne"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ne nne"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ɔsuiɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "asisie"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "nso suiɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:02:26.054516481Z",
+  "model": "glm-5.3"
+}

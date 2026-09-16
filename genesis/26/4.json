@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "genesis 26:4", "book": "genesis", "lang": "tw", "chapter": 26, "translation": "Na mɛma ⟨את⟩ wo ase adɔɔso sɛnea soro nsoromma teɛ, na mɛma wo ase ⟨את⟩ asase yi nyinaa; na wiase aman nyinaa bɛhyɛ wɔn ase wɔ wo ase mu,", "tokens": [{"surface": "והרביתי", "gloss": "mɛma wo ase adɔɔso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo ase"}, {"surface": "זרעך", "gloss": "wo ase"}, {"surface": "ככוכבי", "gloss": "sɛnea ... nsoromma teɛ"}, {"surface": "השמים", "gloss": "soro"}, {"surface": "ונתתי", "gloss": "mɛma"}, {"surface": "לזרעך", "gloss": "wo ase"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase yi nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הארצת", "gloss": "asase"}, {"surface": "האל", "gloss": "yi"}, {"surface": "והתברכו", "gloss": "bɛhyɛ wɔn ase"}, {"surface": "בזרעך", "gloss": "wɔ wo ase mu"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "גויי", "gloss": "aman"}, {"surface": "הארץ", "gloss": "wiase"}], "timestamp": "2026-09-15T20:26:26.507572625Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na mɛma ⟨את⟩ wo ase adɔɔso sɛnea soro nsoromma teɛ, na mɛma wo ase ⟨את⟩ asase yi nyinaa; na wiase aman nyinaa bɛhyɛ wɔn ase wɔ wo ase mu,",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "mɛma wo ase adɔɔso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ase"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wo ase"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "sɛnea ... nsoromma teɛ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "soro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mɛma"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "wo ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase yi nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "asase"
+    },
+    {
+      "surface": "האל",
+      "gloss": "yi"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "bɛhyɛ wɔn ase"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "wɔ wo ase mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "aman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wiase"
+    }
+  ],
+  "timestamp": "2026-09-15T20:26:26.507572625Z",
+  "model": "glm-5.3"
+}

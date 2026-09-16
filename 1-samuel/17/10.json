@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "1-samuel 17:10", "book": "1-samuel", "lang": "tw", "chapter": 17, "translation": "Filistini no kaa sɛ: \"Mɛdi animuonyam ⟨את⟩ amam ba Israel yi; moma me ɔbarima, na yɛnko bom.\"", "tokens": [{"surface": "ויאמר", "gloss": "kaa sɛ"}, {"surface": "הפלשתי", "gloss": "Filistini no"}, {"surface": "אני", "gloss": "Me"}, {"surface": "חרפתי", "gloss": "medi animuonyam"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "amam ba Israel"}, {"surface": "מערכות", "gloss": "amam"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "היום", "gloss": "yi"}, {"surface": "הזה", "gloss": ""}, {"surface": "תנו", "gloss": "moma"}, {"surface": "לי", "gloss": "me"}, {"surface": "איש", "gloss": "ɔbarima"}, {"surface": "ונלחמה", "gloss": "na yɛnko"}, {"surface": "יחד", "gloss": "bom"}], "timestamp": "2026-09-15T22:53:54.492311527Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Filistini no kaa sɛ: \"Mɛdi animuonyam ⟨את⟩ amam ba Israel yi; moma me ɔbarima, na yɛnko bom.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistini no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "medi animuonyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amam ba Israel"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "amam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "תנו",
+      "gloss": "moma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "na yɛnko"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bom"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:54.492311527Z",
+  "model": "glm-5.3"
+}

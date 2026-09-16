@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":7,"ref":"deuteronomy 33:7","book":"deuteronomy","lang":"tw","chapter":33,"translation":"Na eyi ne Yehuda dea, na ɔkaa sɛ: Tie, Yawe, Yehuda nne, na de no ba ne nkorɔfoɔ ho; ne nsa dɔɔso ma no, na wone no bɛyɛ ɔboafoɔ ɔbɛne ne atamfoɔ.","tokens":[{"surface":"וזאת","gloss":"na eyi"},{"surface":"ליהודה","gloss":"Yehuda dea"},{"surface":"ויאמר","gloss":"na ɔkaa sɛ"},{"surface":"שמע","gloss":"Tie"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"קול","gloss":"nne"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"ואל","gloss":"ba"},{"surface":"עמו","gloss":"ne nkorɔfoɔ"},{"surface":"תביאנו","gloss":"de no"},{"surface":"ידיו","gloss":"ne nsa"},{"surface":"רב","gloss":"dɔɔso"},{"surface":"לו","gloss":"ma no"},{"surface":"ועזר","gloss":"na ɔboafoɔ"},{"surface":"מצריו","gloss":"ne atamfoɔ"},{"surface":"תהיה","gloss":"bɛyɛ"}],"timestamp":"2026-09-15T22:00:04.364341743Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 33:7",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na eyi ne Yehuda dea, na ɔkaa sɛ: Tie, Yawe, Yehuda nne, na de no ba ne nkorɔfoɔ ho; ne nsa dɔɔso ma no, na wone no bɛyɛ ɔboafoɔ ɔbɛne ne atamfoɔ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na eyi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda dea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne nkorɔfoɔ"
+    },
+    {
+      "surface": "תביאנו",
+      "gloss": "de no"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dɔɔso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "na ɔboafoɔ"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "ne atamfoɔ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛyɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:00:04.364341743Z",
+  "model": "glm-5.3"
+}

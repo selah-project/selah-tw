@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":11,"ref":"haggai 2:11","book":"haggai","lang":"tw","chapter":2,"translation":"Sɛdeɛ Yawe Twafoom ka no: Bisa ⟨את⟩ mmarima pa no Torah ho asɛm sɛ:","tokens":[{"surface":"כה","gloss":"Sɛdeɛ"},{"surface":"אמר","gloss":"ka no"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שאל","gloss":"Bisa"},{"surface":"נא","gloss":"mɛbisa"},{"surface":"את","gloss":"⟨את⟩","marks":"mmarima pa no"},{"surface":"הכהנים","gloss":"mmarima pa no"},{"surface":"תורה","gloss":"Torah"},{"surface":"לאמר","gloss":"sɛ"}],"timestamp":"2026-09-16T01:27:45.586021959Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Sɛdeɛ Yawe Twafoom ka no: Bisa ⟨את⟩ mmarima pa no Torah ho asɛm sɛ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Bisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mɛbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmarima pa no"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mmarima pa no"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:45.586021959Z",
+  "model": "glm-5.3"
+}

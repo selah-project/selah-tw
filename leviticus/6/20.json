@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":20,"ref":"leviticus 6:20","book":"leviticus","lang":"tw","chapter":6,"translation":"Biribiara a ɛbɛka ne nam no bɛyɛ kronkron; na deɛ ɛbɛfrafra firi ne mogya mu akɔ atadeɛ a wɔafrafra so no, wo bɛsu ahoɔden mu wɔ beae kronkron mu.","tokens":[{"surface":"כל","gloss":"Biribiara"},{"surface":"אשר","gloss":"a"},{"surface":"יגע","gloss":"bɛka"},{"surface":"בבשרה","gloss":"ne nam"},{"surface":"יקדש","gloss":"bɛyɛ kronkron"},{"surface":"ואשר","gloss":"na deɛ"},{"surface":"יזה","gloss":"bɛfrafra"},{"surface":"מדמה","gloss":"firi ne mogya mu"},{"surface":"על","gloss":"akɔ ... so"},{"surface":"הבגד","gloss":"atadeɛ"},{"surface":"אשר","gloss":"a wɔafrafra so"},{"surface":"יזה","gloss":"wɔafrafra"},{"surface":"עליה","gloss":"so"},{"surface":"תכבס","gloss":"bɛsu ahoɔden"},{"surface":"במקום","gloss":"wɔ beae mu"},{"surface":"קדש","gloss":"kronkron"}],"timestamp":"2026-09-15T21:09:35.321285028Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Biribiara a ɛbɛka ne nam no bɛyɛ kronkron; na deɛ ɛbɛfrafra firi ne mogya mu akɔ atadeɛ a wɔafrafra so no, wo bɛsu ahoɔden mu wɔ beae kronkron mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "ne nam"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "bɛyɛ kronkron"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na deɛ"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "bɛfrafra"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "firi ne mogya mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "akɔ ... so"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a wɔafrafra so"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "wɔafrafra"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "so"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "bɛsu ahoɔden"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ beae mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kronkron"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:35.321285028Z",
+  "model": "glm-5.3"
+}

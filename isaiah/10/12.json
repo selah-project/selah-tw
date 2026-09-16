@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "isaiah 10:12", "book": "isaiah", "lang": "tw", "chapter": 10, "translation": "Na ɛbɛba sɛ, berɛ a Adonai bɛwie n'adwuma ⟨את⟩ nyinaa wɔ Tsoion bepɔ so ne Yerusalem, mɛpɔ asotwe wɔ Asor ɔhene akoma ahantan aba so, ne n'ani ahantan animuonyam so.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛba sɛ"}, {"surface": "כי", "gloss": "berɛ a"}, {"surface": "יבצע", "gloss": "bɛwie"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'adwuma nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מעשהו", "gloss": "n'adwuma"}, {"surface": "בהר", "gloss": "wɔ ... bepɔ so"}, {"surface": "ציון", "gloss": "Tsoion"}, {"surface": "ובירושלם", "gloss": "ne Yerusalem"}, {"surface": "אפקד", "gloss": "mɛpɔ asotwe"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "פרי", "gloss": "aba"}, {"surface": "גדל", "gloss": "kɛseɛ"}, {"surface": "לבב", "gloss": "akoma"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "אשור", "gloss": "Asor"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "תפארת", "gloss": "animuonyam"}, {"surface": "רום", "gloss": "ahantan"}, {"surface": "עיניו", "gloss": "n'ani"}], "timestamp": "2026-09-15T23:42:22.262535534Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 10:12",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na ɛbɛba sɛ, berɛ a Adonai bɛwie n'adwuma ⟨את⟩ nyinaa wɔ Tsoion bepɔ so ne Yerusalem, mɛpɔ asotwe wɔ Asor ɔhene akoma ahantan aba so, ne n'ani ahantan animuonyam so.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba sɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "berɛ a"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "bɛwie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'adwuma nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "n'adwuma"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "wɔ ... bepɔ so"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsoion"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ne Yerusalem"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "mɛpɔ asotwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asor"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ahantan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "n'ani"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:22.262535534Z",
+  "model": "glm-5.3"
+}

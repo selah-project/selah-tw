@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":7,"ref":"song-of-songs 5:7","book":"song-of-songs","lang":"tw","chapter":5,"translation":"Wɔn a wɔdi kurow no mu ahwɛ so no hunuu me; wɔbɔɔ me, wɔyaa me; wɔn a wɔhwɛ afasu no so de ⟨את⟩ me kyɛw no fii me so.","tokens":[{"surface":"מצאני","gloss":"hunuu me"},{"surface":"השמרים","gloss":"Wɔn a wɔdi ... hwɛ so no"},{"surface":"הסבבים","gloss":"kurow no mu"},{"surface":"בעיר","gloss":"kurow"},{"surface":"הכוני","gloss":"wɔbɔɔ me"},{"surface":"פצעוני","gloss":"wɔyaa me"},{"surface":"נשאו","gloss":"de ... fii me so"},{"surface":"את","gloss":"⟨את⟩","marks":"me kyɛw no"},{"surface":"רדידי","gloss":"me kyɛw"},{"surface":"מעלי","gloss":"fii me so"},{"surface":"שמרי","gloss":"wɔn a wɔhwɛ ... so"},{"surface":"החמות","gloss":"afasu no"}],"timestamp":"2026-09-16T03:44:50.478485386Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Wɔn a wɔdi kurow no mu ahwɛ so no hunuu me; wɔbɔɔ me, wɔyaa me; wɔn a wɔhwɛ afasu no so de ⟨את⟩ me kyɛw no fii me so.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "hunuu me"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "Wɔn a wɔdi ... hwɛ so no"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "kurow no mu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kurow"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "wɔbɔɔ me"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "wɔyaa me"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "de ... fii me so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me kyɛw no"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "me kyɛw"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fii me so"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "wɔn a wɔhwɛ ... so"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "afasu no"
+    }
+  ],
+  "timestamp": "2026-09-16T03:44:50.478485386Z",
+  "model": "glm-5.3"
+}

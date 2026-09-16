@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 7:12","book":"psalms","lang":"tw","chapter":7,"translation":"Eloohim yɛ ɔtetefoɔ a ɔte nokware, na El de abufuo di da biara.","tokens":[{"surface":"אלהים","gloss":"Eloohim"},{"surface":"שופט","gloss":"ɔtetefoɔ"},{"surface":"צדיק","gloss":"a ɔte nokware"},{"surface":"ואל","gloss":"na El"},{"surface":"זעם","gloss":"de abufuo di"},{"surface":"בכל","gloss":"biara"},{"surface":"יום","gloss":"da"}],"timestamp":"2026-09-16T01:37:25.074461469Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Eloohim yɛ ɔtetefoɔ a ɔte nokware, na El de abufuo di da biara.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ɔtetefoɔ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "a ɔte nokware"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "de abufuo di"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-16T01:37:25.074461469Z",
+  "model": "glm-5.3"
+}

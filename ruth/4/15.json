@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "ruth 4:15", "book": "ruth", "lang": "tw", "chapter": 4, "translation": "Na ɔbɛyɛ ama wo sɛ obi a ɔbɛsan de nkwa aba, na ɔbɛhwo wo wɔ ⟨את⟩ wo mmerɛbɔ mu; ɛfiri sɛ wo yere Ba a ɔdɔ wo na ɔwoo no, na ɔsom wo kyɛn mma baason.", "tokens": [{"surface": "והיה", "gloss": "na ɔbɛyɛ"}, {"surface": "לך", "gloss": "ama wo"}, {"surface": "למשיב", "gloss": "obi a ɔbɛsan de nkwa aba"}, {"surface": "נפש", "gloss": "nkwa"}, {"surface": "ולכלכל", "gloss": "na ɔbɛhwo wo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo mmerɛbɔ"}, {"surface": "שיבתך", "gloss": "wo mmerɛbɔ"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "כלתך", "gloss": "wo yere Ba"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אהבתך", "gloss": "ɔdɔ wo"}, {"surface": "ילדתו", "gloss": "na ɔwoo no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "היא", "gloss": "ɔ"}, {"surface": "טובה", "gloss": "ɔsom"}, {"surface": "לך", "gloss": "wo"}, {"surface": "משבעה", "gloss": "kyɛn baason"}, {"surface": "בנים", "gloss": "mma"}], "timestamp": "2026-09-16T05:47:46.185189928Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 4:15",
+  "book": "ruth",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔbɛyɛ ama wo sɛ obi a ɔbɛsan de nkwa aba, na ɔbɛhwo wo wɔ ⟨את⟩ wo mmerɛbɔ mu; ɛfiri sɛ wo yere Ba a ɔdɔ wo na ɔwoo no, na ɔsom wo kyɛn mma baason.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɔbɛyɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    },
+    {
+      "surface": "למשיב",
+      "gloss": "obi a ɔbɛsan de nkwa aba"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "ולכלכל",
+      "gloss": "na ɔbɛhwo wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo mmerɛbɔ"
+    },
+    {
+      "surface": "שיבתך",
+      "gloss": "wo mmerɛbɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "wo yere Ba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהבתך",
+      "gloss": "ɔdɔ wo"
+    },
+    {
+      "surface": "ילדתו",
+      "gloss": "na ɔwoo no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɔ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ɔsom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "kyɛn baason"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    }
+  ],
+  "timestamp": "2026-09-16T05:47:46.185189928Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "ezekiel 26:16", "book": "ezekiel", "lang": "tw", "chapter": 26, "translation": "Na asorɔkye mpanyimfoɔ nyinaa bɛtufi ⟨את⟩ wɔn akongua so; wobeyi ⟨את⟩ wɔn atadeɛ ne wɔn ntoma a wɔayɛ no fɛfɛɛfɛ afiri wɔn ho; wɔhyɛ suro mu; wɔtena asase so, na wɔyɛ den wɔ berɛ biara mu, na wɔyɛ nkwaseasem wɔ wo ho.", "tokens": [{"surface": "וירדו", "gloss": "na wɔbɛtufi"}, {"surface": "מעל", "gloss": "fi so"}, {"surface": "כסאותם", "gloss": "wɔn akongua"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "נשיאי", "gloss": "mpanyimfoɔ"}, {"surface": "הים", "gloss": "asorɔkye"}, {"surface": "והסירו", "gloss": "na wobeyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn atadeɛ"}, {"surface": "מעיליהם", "gloss": "wɔn atadeɛ"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn ntoma a wɔayɛ no fɛfɛɛfɛ"}, {"surface": "בגדי", "gloss": "ntoma"}, {"surface": "רקמתם", "gloss": "a wɔayɛ no fɛfɛɛfɛ"}, {"surface": "יפשטו", "gloss": "wobeyi afiri wɔn ho"}, {"surface": "חרדות", "gloss": "suro mu"}, {"surface": "ילבשו", "gloss": "wɔhyɛ"}, {"surface": "על", "gloss": "so"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "ישבו", "gloss": "wɔtena"}, {"surface": "וחרדו", "gloss": "na wɔyɛ den"}, {"surface": "לרגעים", "gloss": "wɔ berɛ biara mu"}, {"surface": "ושממו", "gloss": "na wɔyɛ nkwaseasem"}, {"surface": "עליך", "gloss": "wɔ wo ho"}], "timestamp": "2026-09-16T05:34:09.308815979Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 26:16",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na asorɔkye mpanyimfoɔ nyinaa bɛtufi ⟨את⟩ wɔn akongua so; wobeyi ⟨את⟩ wɔn atadeɛ ne wɔn ntoma a wɔayɛ no fɛfɛɛfɛ afiri wɔn ho; wɔhyɛ suro mu; wɔtena asase so, na wɔyɛ den wɔ berɛ biara mu, na wɔyɛ nkwaseasem wɔ wo ho.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "na wɔbɛtufi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fi so"
+    },
+    {
+      "surface": "כסאותם",
+      "gloss": "wɔn akongua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "asorɔkye"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "na wobeyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn atadeɛ"
+    },
+    {
+      "surface": "מעיליהם",
+      "gloss": "wɔn atadeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ntoma a wɔayɛ no fɛfɛɛfɛ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ntoma"
+    },
+    {
+      "surface": "רקמתם",
+      "gloss": "a wɔayɛ no fɛfɛɛfɛ"
+    },
+    {
+      "surface": "יפשטו",
+      "gloss": "wobeyi afiri wɔn ho"
+    },
+    {
+      "surface": "חרדות",
+      "gloss": "suro mu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "wɔhyɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wɔtena"
+    },
+    {
+      "surface": "וחרדו",
+      "gloss": "na wɔyɛ den"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "wɔ berɛ biara mu"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "na wɔyɛ nkwaseasem"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wɔ wo ho"
+    }
+  ],
+  "timestamp": "2026-09-16T05:34:09.308815979Z",
+  "model": "glm-5.3"
+}

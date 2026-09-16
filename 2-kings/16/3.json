@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "2-kings 16:3", "book": "2-kings", "lang": "tw", "chapter": 16, "translation": "Na ɔfaa Israel ahene kwan so, na ɔde ⟨את⟩ ne ba bɔɔ no mu kɔɔ ogya mu, sɛnea amanɔnefoɔ no dɔteɛ a Yawe twaa ⟨את⟩ wɔn firi Israel mma anim no.", "tokens": [{"surface": "וילך", "gloss": "na ɔfaa"}, {"surface": "בדרך", "gloss": "kwan so"}, {"surface": "מלכי", "gloss": "ahene"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "וגם", "gloss": "na"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne ba"}, {"surface": "בנו", "gloss": "ne ba"}, {"surface": "העביר", "gloss": "bɔɔ no mu kɔɔ"}, {"surface": "באש", "gloss": "ogya mu"}, {"surface": "כתעבות", "gloss": "sɛnea ... dɔteɛ"}, {"surface": "הגוים", "gloss": "amanɔnefoɔ no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "הוריש", "gloss": "twaa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn", "marks": "amanɔnefoɔ no"}, {"surface": "מפני", "gloss": "firi ... anim"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Israel"}], "timestamp": "2026-09-15T23:33:52.525234593Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɔfaa Israel ahene kwan so, na ɔde ⟨את⟩ ne ba bɔɔ no mu kɔɔ ogya mu, sɛnea amanɔnefoɔ no dɔteɛ a Yawe twaa ⟨את⟩ wɔn firi Israel mma anim no.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na ɔfaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kwan so"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ba"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "bɔɔ no mu kɔɔ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "sɛnea ... dɔteɛ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amanɔnefoɔ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "twaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "amanɔnefoɔ no"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "firi ... anim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T23:33:52.525234593Z",
+  "model": "glm-5.3"
+}

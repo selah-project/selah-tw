@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 21:26","book":"genesis","lang":"tw","chapter":21,"translation":"Abimelek kaa sɛ, Menim hɔ sɛ hwan na ɔyɛɛ ⟨את⟩ asɛm yi; na wo nso ankɔka akyerɛ me, na me nso antie asɛm no gye nnɛ.","tokens":[{"surface":"ויאמר","gloss":"kaa sɛ"},{"surface":"אבימלך","gloss":"Abimelek"},{"surface":"לא","gloss":"nnim"},{"surface":"ידעתי","gloss":"Menim"},{"surface":"מי","gloss":"hwan"},{"surface":"עשה","gloss":"yɛɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"asԑm yi"},{"surface":"הדבר","gloss":"asɛm"},{"surface":"הזה","gloss":"yi"},{"surface":"וגם","gloss":"nso"},{"surface":"אתה","gloss":"wo"},{"surface":"לא","gloss":"ankɔka"},{"surface":"הגדת","gloss":"ankɔka akyerɛ"},{"surface":"לי","gloss":"me"},{"surface":"וגם","gloss":"nso"},{"surface":"אנכי","gloss":"me"},{"surface":"לא","gloss":"antie"},{"surface":"שמעתי","gloss":"antie"},{"surface":"בלתי","gloss":"gye"},{"surface":"היום","gloss":"nnɛ"}],"timestamp":"2026-09-15T20:22:53.480275865Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Abimelek kaa sɛ, Menim hɔ sɛ hwan na ɔyɛɛ ⟨את⟩ asɛm yi; na wo nso ankɔka akyerɛ me, na me nso antie asɛm no gye nnɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa sɛ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnim"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Menim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hwan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asԑm yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ankɔka"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ankɔka akyerɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "antie"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "antie"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "gye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nnɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:22:53.480275865Z",
+  "model": "glm-5.3"
+}

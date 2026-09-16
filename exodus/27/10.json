@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"exodus 27:10","book":"exodus","lang":"tw","chapter":27,"translation":"Ne mpɔnsɛm no aduonu, ne wɔn nnyinasoɔ aduonu, kɔberɛ; na mpɔnsɛm no nsɔnso ne wɔn nkataa yɛ ⟨sika kɔkɔɔ⟩.","tokens":[{"surface":"ועמדיו","gloss":"ne mpɔnsɛm no"},{"surface":"עשרים","gloss":"aduonu"},{"surface":"ואדניהם","gloss":"ne wɔn nnyinasoɔ"},{"surface":"עשרים","gloss":"aduonu"},{"surface":"נחשת","gloss":"kɔberɛ"},{"surface":"ווי","gloss":"na ... nsɔnso"},{"surface":"העמדים","gloss":"mpɔnsɛm no"},{"surface":"וחשקיהם","gloss":"ne wɔn nkataa"},{"surface":"כסף","gloss":"sika kɔkɔɔ"}],"timestamp":"2026-09-15T20:57:50.672618045Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ne mpɔnsɛm no aduonu, ne wɔn nnyinasoɔ aduonu, kɔberɛ; na mpɔnsɛm no nsɔnso ne wɔn nkataa yɛ ⟨sika kɔkɔɔ⟩.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "ne mpɔnsɛm no"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ne wɔn nnyinasoɔ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kɔberɛ"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "na ... nsɔnso"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mpɔnsɛm no"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ne wɔn nkataa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika kɔkɔɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:57:50.672618045Z",
+  "model": "glm-5.3"
+}

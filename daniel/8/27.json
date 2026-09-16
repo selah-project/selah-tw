@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "daniel 8:27", "book": "daniel", "lang": "tw", "chapter": 8, "translation": "Na me, Daniele, mubuiɛ besii me so na mɛyare nnansa bi; afei misɔre na mayɛ Ɔhene no ⟨את⟩ adwuma, na mepenyaa wɔ ɔhunumu no ho, na obiara anna ne ho ase.", "tokens": [{"surface": "ואני", "gloss": "Na me"}, {"surface": "דניאל", "gloss": "Daniele"}, {"surface": "נהייתי", "gloss": "besii me so"}, {"surface": "ונחליתי", "gloss": "mɛyare"}, {"surface": "ימים", "gloss": "nnansa bi"}, {"surface": "ואקום", "gloss": "misɔre"}, {"surface": "ואעשה", "gloss": "mayɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Ɔhene no adwuma"}, {"surface": "מלאכת", "gloss": "adwuma"}, {"surface": "המלך", "gloss": "Ɔhene no"}, {"surface": "ואשתומם", "gloss": "mepenyaa"}, {"surface": "על", "gloss": "wɔ ... ho"}, {"surface": "המראה", "gloss": "ɔhunumu no"}, {"surface": "ואין", "gloss": "na obiara nni hɔ"}, {"surface": "מבין", "gloss": "a ɔna ne ho ase"}], "timestamp": "2026-09-16T04:12:30.418507390Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 8:27",
+  "book": "daniel",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na me, Daniele, mubuiɛ besii me so na mɛyare nnansa bi; afei misɔre na mayɛ Ɔhene no ⟨את⟩ adwuma, na mepenyaa wɔ ɔhunumu no ho, na obiara anna ne ho ase.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniele"
+    },
+    {
+      "surface": "נהייתי",
+      "gloss": "besii me so"
+    },
+    {
+      "surface": "ונחליתי",
+      "gloss": "mɛyare"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nnansa bi"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "misɔre"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɔhene no adwuma"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ɔhene no"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "mepenyaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ɔhunumu no"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na obiara nni hɔ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "a ɔna ne ho ase"
+    }
+  ],
+  "timestamp": "2026-09-16T04:12:30.418507390Z",
+  "model": "glm-5.3"
+}

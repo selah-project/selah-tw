@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":15,"ref":"genesis 26:15","book":"genesis","lang":"tw","chapter":26,"translation":"Na abura ahodoɔ a ne papa nkaa twaa wɔ Abraham ne papa nnɛ mu no nyinaa, Filistiafoɔ bɔɔ mu, na wɔde ɛprɔ hyɛɛ mu.","tokens":[{"surface":"וכל","gloss":"nyinaa"},{"surface":"הבארת","gloss":"abura ahodoɔ"},{"surface":"אשר","gloss":"a"},{"surface":"חפרו","gloss":"twaa"},{"surface":"עבדי","gloss":"nkaa"},{"surface":"אביו","gloss":"ne papa"},{"surface":"בימי","gloss":"wɔ nnɛ mu"},{"surface":"אברהם","gloss":"Abraham"},{"surface":"אביו","gloss":"ne papa"},{"surface":"סתמום","gloss":"bɔɔ mu"},{"surface":"פלשתים","gloss":"Filistiafoɔ"},{"surface":"וימלאום","gloss":"na wɔde ... hyɛɛ mu"},{"surface":"עפר","gloss":"ɛprɔ"}],"timestamp":"2026-09-15T20:26:18.154363905Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na abura ahodoɔ a ne papa nkaa twaa wɔ Abraham ne papa nnɛ mu no nyinaa, Filistiafoɔ bɔɔ mu, na wɔde ɛprɔ hyɛɛ mu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "abura ahodoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "twaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nkaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "wɔ nnɛ mu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ne papa"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "bɔɔ mu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiafoɔ"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "na wɔde ... hyɛɛ mu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ɛprɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:26:18.154363905Z",
+  "model": "glm-5.3"
+}

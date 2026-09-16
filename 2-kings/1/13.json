@@ -1,1 +1,133 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-kings 1:13","book":"2-kings","lang":"tw","chapter":1,"translation":"Ɔsan somaa sarfoɔ a ɔdi adɔnum ne ne adɔnum a ɔto so mmiɛnsa. Sarfoɔ a ɔdi adɔnum a ɔto so mmiɛnsa no kɔɔ soro, baa hɔ, buu n'akotoku ase wɔ Elia anim, bɔɔ mpaeɛ kɔɔ ne so, kaa kyerɛɛ no sɛ: Onipa a ɔyɛ Eloohim dea, mesrɛ wo, ma me nkwa ne wo akɔmfɔ yi — adɔnum — nkwa nsom bo wɔ wo ani so.","tokens":[{"surface":"וישב","gloss":"Ɔsan"},{"surface":"וישלח","gloss":"somaa"},{"surface":"שר","gloss":"sarfoɔ"},{"surface":"חמשים","gloss":"adɔnum"},{"surface":"שלשים","gloss":"a ɔto so mmiɛnsa"},{"surface":"וחמשיו","gloss":"ne ne adɔnum"},{"surface":"ויעל","gloss":"kɔɔ soro"},{"surface":"ויבא","gloss":"baa hɔ"},{"surface":"שר","gloss":"sarfoɔ"},{"surface":"החמשים","gloss":"adɔnum"},{"surface":"השלישי","gloss":"a ɔto so mmiɛnsa"},{"surface":"ויכרע","gloss":"buu n'akotoku ase"},{"surface":"על","gloss":"wɔ"},{"surface":"ברכיו","gloss":"n'akotoku"},{"surface":"לנגד","gloss":"anim"},{"surface":"אליהו","gloss":"Elia"},{"surface":"ויתחנן","gloss":"bɔɔ mpaeɛ"},{"surface":"אליו","gloss":"kɔɔ ne so"},{"surface":"וידבר","gloss":"kaa"},{"surface":"אליו","gloss":"kyerɛɛ no"},{"surface":"איש","gloss":"onipa"},{"surface":"האלהים","gloss":"Eloohim dea"},{"surface":"תיקר","gloss":"nsom bo"},{"surface":"נא","gloss":"mesrɛ wo"},{"surface":"נפשי","gloss":"me nkwa"},{"surface":"ונפש","gloss":"ne nkwa"},{"surface":"עבדיך","gloss":"wo akɔmfɔ"},{"surface":"אלה","gloss":"yi"},{"surface":"חמשים","gloss":"adɔnum"},{"surface":"בעיניך","gloss":"wɔ wo ani so"}],"timestamp":"2026-09-15T23:27:53.292900510Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 1:13",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Ɔsan somaa sarfoɔ a ɔdi adɔnum ne ne adɔnum a ɔto so mmiɛnsa. Sarfoɔ a ɔdi adɔnum a ɔto so mmiɛnsa no kɔɔ soro, baa hɔ, buu n'akotoku ase wɔ Elia anim, bɔɔ mpaeɛ kɔɔ ne so, kaa kyerɛɛ no sɛ: Onipa a ɔyɛ Eloohim dea, mesrɛ wo, ma me nkwa ne wo akɔmfɔ yi — adɔnum — nkwa nsom bo wɔ wo ani so.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ɔsan"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "somaa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarfoɔ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "adɔnum"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "a ɔto so mmiɛnsa"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "ne ne adɔnum"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kɔɔ soro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "baa hɔ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarfoɔ"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "adɔnum"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a ɔto so mmiɛnsa"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "buu n'akotoku ase"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "n'akotoku"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "bɔɔ mpaeɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kɔɔ ne so"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kyerɛɛ no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim dea"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "nsom bo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mesrɛ wo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "me nkwa"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ne nkwa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wo akɔmfɔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "adɔnum"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "wɔ wo ani so"
+    }
+  ],
+  "timestamp": "2026-09-15T23:27:53.292900510Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":9,"ref":"deuteronomy 3:9","book":"deuteronomy","lang":"tw","chapter":3,"translation":"Tsidonfoɔ frɛ Hermon Sirion; na Haemorifoo frɛ no Senir.","tokens":[{"surface":"צידנים","gloss":"Tsidonfoɔ"},{"surface":"יקראו","gloss":"frɛ"},{"surface":"לחרמון","gloss":"Hermon"},{"surface":"שרין","gloss":"Sirion"},{"surface":"והאמרי","gloss":"na Haemorifoo"},{"surface":"יקראו","gloss":"frɛ"},{"surface":"לו","gloss":"no"},{"surface":"שניר","gloss":"Senir"}],"timestamp":"2026-09-15T21:46:09.566911845Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Tsidonfoɔ frɛ Hermon Sirion; na Haemorifoo frɛ no Senir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Tsidonfoɔ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Sirion"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "na Haemorifoo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "frɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Senir"
+    }
+  ],
+  "timestamp": "2026-09-15T21:46:09.566911845Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":13,"ref":"exodus 36:13","book":"exodus","lang":"tw","chapter":36,"translation":"Na ɔyɛɛ nsɔeɛ aduonum a wɔde sika kɔkɔɔ ayɛ, na ɔkaa ⟨את⟩ atadeɛ no baako bɛdi ne yɔnko so de nsɔeɛ no; na frɛm no bɛyɛɛ baako.","tokens":[{"surface":"ויעש","gloss":"na ɔyɛɛ"},{"surface":"חמשים","gloss":"aduonum"},{"surface":"קרסי","gloss":"nsɔeɛ"},{"surface":"זהב","gloss":"sika kɔkɔɔ"},{"surface":"ויחבר","gloss":"na ɔkaa"},{"surface":"את","gloss":"⟨את⟩","marks":"atadeɛ"},{"surface":"הירעת","gloss":"atadeɛ"},{"surface":"אחת","gloss":"baako"},{"surface":"אל","gloss":"so"},{"surface":"אחת","gloss":"baako"},{"surface":"בקרסים","gloss":"nsɔeɛ no mu"},{"surface":"ויהי","gloss":"yɛɛ"},{"surface":"המשכן","gloss":"frɛm"},{"surface":"אחד","gloss":"baako"}],"timestamp":"2026-09-15T21:05:38.377499386Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Na ɔyɛɛ nsɔeɛ aduonum a wɔde sika kɔkɔɔ ayɛ, na ɔkaa ⟨את⟩ atadeɛ no baako bɛdi ne yɔnko so de nsɔeɛ no; na frɛm no bɛyɛɛ baako.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na ɔyɛɛ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "aduonum"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "nsɔeɛ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "na ɔkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atadeɛ"
+    },
+    {
+      "surface": "הירעת",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "nsɔeɛ no mu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "frɛm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-15T21:05:38.377499386Z",
+  "model": "glm-5.3"
+}

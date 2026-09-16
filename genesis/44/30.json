@@ -1,1 +1,57 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "genesis 44:30", "book": "genesis", "lang": "tw", "chapter": 44, "translation": "Na seesei, sɛ meba wo akoadini m'agya hɔ, na abarima no nni ⟨את⟩ yɛn mu, na ne nkwa akyekyere ne nkwa mu,", "tokens": [{"surface": "ועתה", "gloss": "Na seesei"}, {"surface": "כבאי", "gloss": "sɛ meba"}, {"surface": "אל", "gloss": "hɔ"}, {"surface": "עבדך", "gloss": "wo akoadini"}, {"surface": "אבי", "gloss": "m'agya"}, {"surface": "והנער", "gloss": "na abarima no"}, {"surface": "איננו", "gloss": "nni"}, {"surface": "אתנו", "gloss": "⟨את⟩ yɛn mu"}, {"surface": "ונפשו", "gloss": "na ne nkwa"}, {"surface": "קשורה", "gloss": "akyekyere"}, {"surface": "בנפשו", "gloss": "ne nkwa mu"}], "timestamp": "2026-09-15T22:24:28.209041193Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 44:30",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Na seesei, sɛ meba wo akoadini m'agya hɔ, na abarima no nni ⟨את⟩ yɛn mu, na ne nkwa akyekyere ne nkwa mu,",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "כבאי",
+      "gloss": "sɛ meba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wo akoadini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "na abarima no"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn mu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "na ne nkwa"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "akyekyere"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ne nkwa mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:28.209041193Z",
+  "model": "glm-5.3"
+}

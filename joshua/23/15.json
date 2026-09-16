@@ -1,1 +1,142 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "joshua 23:15", "book": "joshua", "lang": "tw", "chapter": 23, "translation": "Na ɛbɛyɛ sɛdeɛ adwuma pa ⟨את⟩ nyinaa a Yawe mo Eloohim kaa kyerɛɛ mo no baa mo so no, saa ara na Yawe bɛde ⟨את⟩ adwuma bɔne nyinaa aba mo so, kɔsii sɛ ɔbɛsɛe mo mfiri asase pa yi a Yawe mo Eloohim ama mo no so.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛyɛ"}, {"surface": "כאשר", "gloss": "sɛdeɛ"}, {"surface": "בא", "gloss": "baa"}, {"surface": "עליכם", "gloss": "mo so"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הדבר", "gloss": "adwuma"}, {"surface": "הטוב", "gloss": "pa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "דבר", "gloss": "kaa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "אליכם", "gloss": "kyerɛɛ mo"}, {"surface": "כן", "gloss": "saa ara"}, {"surface": "יביא", "gloss": "bɛde...aba"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עליכם", "gloss": "mo so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "adwuma bɔne nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "הדבר", "gloss": "adwuma"}, {"surface": "הרע", "gloss": "bɔne"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "השמידו", "gloss": "ɔbɛsɛe"}, {"surface": "אותכם", "gloss": "⟨את⟩ mo"}, {"surface": "מעל", "gloss": "mfiri...so"}, {"surface": "האדמה", "gloss": "asase"}, {"surface": "הטובה", "gloss": "pa"}, {"surface": "הזאת", "gloss": "yi"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נתן", "gloss": "ama"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}], "timestamp": "2026-09-15T22:34:26.065397813Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 23:15",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Na ɛbɛyɛ sɛdeɛ adwuma pa ⟨את⟩ nyinaa a Yawe mo Eloohim kaa kyerɛɛ mo no baa mo so no, saa ara na Yawe bɛde ⟨את⟩ adwuma bɔne nyinaa aba mo so, kɔsii sɛ ɔbɛsɛe mo mfiri asase pa yi a Yawe mo Eloohim ama mo no so.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛdeɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kyerɛɛ mo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa ara"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "bɛde...aba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma bɔne nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ɔbɛsɛe"
+    },
+    {
+      "surface": "אותכם",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mfiri...so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ama"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:34:26.065397813Z",
+  "model": "glm-5.3"
+}

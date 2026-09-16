@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":20,"ref":"ezekiel 32:20","book":"ezekiel","lang":"tw","chapter":32,"translation":"Wɔbɛtɔ afena wɔabɔ wɔn mu; afena de ama no: monsisa ⟨את⟩ no ne ne dɔm nyinaa.","tokens":[{"surface":"בתוך","gloss":"mu"},{"surface":"חללי","gloss":"wɔn a wɔabɔ wɔn"},{"surface":"חרב","gloss":"afena"},{"surface":"יפלו","gloss":"Wɔbɛtɔ"},{"surface":"חרב","gloss":"afena"},{"surface":"נתנה","gloss":"de ama"},{"surface":"משכו","gloss":"monsisa"},{"surface":"אותה","gloss":"⟨את⟩ no","marks":"Misraim"},{"surface":"וכל","gloss":"ne ... nyinaa"},{"surface":"המוניה","gloss":"dɔm"}],"timestamp":"2026-09-16T00:50:45.375603960Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Wɔbɛtɔ afena wɔabɔ wɔn mu; afena de ama no: monsisa ⟨את⟩ no ne ne dɔm nyinaa.",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wɔn a wɔabɔ wɔn"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "afena"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "Wɔbɛtɔ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "afena"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "de ama"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "monsisa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ no",
+      "marks": "Misraim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "dɔm"
+    }
+  ],
+  "timestamp": "2026-09-16T00:50:45.375603960Z",
+  "model": "glm-5.3"
+}

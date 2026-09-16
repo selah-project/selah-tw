@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "psalms 27:4", "book": "psalms", "lang": "tw", "chapter": 27, "translation": "Ade baako na mesrɛɛ ⟨את⟩ firi Yawe nkyɛn ⟨את⟩ — deɛ ɛno ara na mehwehwɛ: sɛ metena Yawe fie mu m'abrabɔ nna nyinaa, sɛ mehwɛ Yawe fɛfɛɛfɛ na mɛsɔre ahwɛ ne abasomtuo mu.", "tokens": [{"surface": "אחת", "gloss": "Ade baako"}, {"surface": "שאלתי", "gloss": "mesrɛɛ"}, {"surface": "מאת", "gloss": "firi ... nkyɛn ⟨את⟩"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אותה", "gloss": "⟨את⟩", "marks": "mehwehwɛ"}, {"surface": "אבקש", "gloss": "mehwehwɛ"}, {"surface": "שבתי", "gloss": "metena"}, {"surface": "בבית", "gloss": "wɔ ... fie mu"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "ימי", "gloss": "nna"}, {"surface": "חיי", "gloss": "m'abrabɔ"}, {"surface": "לחזות", "gloss": "sɛ mehwɛ"}, {"surface": "בנעם", "gloss": "fɛfɛɛfɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ולבקר", "gloss": "na mɛsɔre ahwɛ"}, {"surface": "בהיכלו", "gloss": "ne abasomtuo mu"}], "timestamp": "2026-09-16T01:45:34.946007194Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Ade baako na mesrɛɛ ⟨את⟩ firi Yawe nkyɛn ⟨את⟩ — deɛ ɛno ara na mehwehwɛ: sɛ metena Yawe fie mu m'abrabɔ nna nyinaa, sɛ mehwɛ Yawe fɛfɛɛfɛ na mɛsɔre ahwɛ ne abasomtuo mu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Ade baako"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mesrɛɛ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ... nkyɛn ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "mehwehwɛ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "mehwehwɛ"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "metena"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ ... fie mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "m'abrabɔ"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "sɛ mehwɛ"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "fɛfɛɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "na mɛsɔre ahwɛ"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "ne abasomtuo mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:45:34.946007194Z",
+  "model": "glm-5.3"
+}

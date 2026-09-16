@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":16,"ref":"1-samuel 25:16","book":"1-samuel","lang":"tw","chapter":25,"translation":"Wɔyɛɛ ɔfasuo mmienu — anadwo ne awia — nnena nyinaa a yɛwɔ wɔn na yɛrehwɛ nnwan no so.","tokens":[{"surface":"חומה","gloss":"ɔfasuo"},{"surface":"היו","gloss":"yɛɛ"},{"surface":"עלינו","gloss":"yɛn ho"},{"surface":"גם","gloss":"mmienu —"},{"surface":"לילה","gloss":"anadwo"},{"surface":"גם","gloss":"ne"},{"surface":"יומם","gloss":"awia"},{"surface":"כל","gloss":"nyinaa"},{"surface":"ימי","gloss":"nnena"},{"surface":"היותנו","gloss":"yɛwɔ"},{"surface":"עמם","gloss":"wɔn"},{"surface":"רעים","gloss":"rehwɛ so"},{"surface":"הצאן","gloss":"nnwan no"}],"timestamp":"2026-09-15T22:58:05.048624068Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Wɔyɛɛ ɔfasuo mmienu — anadwo ne awia — nnena nyinaa a yɛwɔ wɔn na yɛrehwɛ nnwan no so.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "ɔfasuo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yɛɛ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yɛn ho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mmienu —"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nnena"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "yɛwɔ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "rehwɛ so"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nnwan no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:58:05.048624068Z",
+  "model": "glm-5.3"
+}

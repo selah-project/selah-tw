@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "judges 11:20", "book": "judges", "lang": "tw", "chapter": 11, "translation": "Nanso Sihon amfa ne ho anto ⟨את⟩ Israel so sɛ ɔbɛnam ne hyeɛ mu; na Sihon boaboaa n'aman nyinaa ano, na wɔtenaa Yahasa, na ɔko tiaa ⟨את⟩ Israel.", "tokens": [{"surface": "ולא", "gloss": "Nanso ... an-"}, {"surface": "האמין", "gloss": "faa ne ho too ... so"}, {"surface": "סיחון", "gloss": "Sihon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israel"}, {"surface": "ישראל", "gloss": "Israel"}, {"surface": "עבר", "gloss": "nam"}, {"surface": "בגבלו", "gloss": "ne hyeɛ mu"}, {"surface": "ויאסף", "gloss": "boaboaa ... ano"}, {"surface": "סיחון", "gloss": "Sihon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'aman nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עמו", "gloss": "n'aman"}, {"surface": "ויחנו", "gloss": "tenaa"}, {"surface": "ביהצה", "gloss": "Yahasa"}, {"surface": "וילחם", "gloss": "ko tiaa"}, {"surface": "עם", "gloss": "-"}, {"surface": "ישראל", "gloss": "Israel"}], "timestamp": "2026-09-15T22:41:03.882511333Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Nanso Sihon amfa ne ho anto ⟨את⟩ Israel so sɛ ɔbɛnam ne hyeɛ mu; na Sihon boaboaa n'aman nyinaa ano, na wɔtenaa Yahasa, na ɔko tiaa ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nanso ... an-"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "faa ne ho too ... so"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "ne hyeɛ mu"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "boaboaa ... ano"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'aman nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'aman"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "tenaa"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "Yahasa"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ko tiaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-15T22:41:03.882511333Z",
+  "model": "glm-5.3"
+}

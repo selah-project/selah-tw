@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":14,"ref":"psalms 83:14","book":"psalms","lang":"tw","chapter":83,"translation":"Elohay, ma wɔnyɛ sɛ ntokuro-gye, ne sɛ nnwam wɔ mframa anim.","tokens":[{"surface":"אלהי","gloss":"me Eloohim"},{"surface":"שיתמו","gloss":"ma wɔnyɛ"},{"surface":"כגלגל","gloss":"sɛ ntokuro-gye"},{"surface":"כקש","gloss":"ne sɛ nnwam"},{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"רוח","gloss":"mframa"}],"timestamp":"2026-09-16T02:11:19.066179067Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 83,
+  "translation": "Elohay, ma wɔnyɛ sɛ ntokuro-gye, ne sɛ nnwam wɔ mframa anim.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "me Eloohim"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "ma wɔnyɛ"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "sɛ ntokuro-gye"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ne sɛ nnwam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mframa"
+    }
+  ],
+  "timestamp": "2026-09-16T02:11:19.066179067Z",
+  "model": "glm-5.3"
+}

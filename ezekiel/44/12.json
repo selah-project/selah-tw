@@ -1,1 +1,97 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "ezekiel 44:12", "book": "ezekiel", "lang": "tw", "chapter": 44, "translation": "Efisɛ wɔsom ⟨את⟩ wɔn wɔ wɔn abosom anim, na wɔyɛɛ Yisrael fie bɔne-amintim; ɛno enti mahyɛɛ me nsa so wɔ wɔn so — Adonai Yawe asɛm — na wɔbɛsoa wɔn bɔne.", "tokens": [{"surface": "יען", "gloss": "Efisɛ"}, {"surface": "אשר", "gloss": ""}, {"surface": "ישרתו", "gloss": "wɔsom"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "לפני", "gloss": "wɔ … anim"}, {"surface": "גלוליהם", "gloss": "wɔn abosom"}, {"surface": "והיו", "gloss": "na wɔyɛɛ"}, {"surface": "לבית", "gloss": "ma … fie"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "למכשול", "gloss": "bɔne-amintim"}, {"surface": "עון", "gloss": "bɔne"}, {"surface": "על", "gloss": ""}, {"surface": "כן", "gloss": "ɛno enti"}, {"surface": "נשאתי", "gloss": "mahyɛɛ … so"}, {"surface": "ידי", "gloss": "me nsa"}, {"surface": "עליהם", "gloss": "wɔn so"}, {"surface": "נאם", "gloss": "asɛm"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ונשאו", "gloss": "na wɔbɛsoa"}, {"surface": "עונם", "gloss": "wɔn bɔne"}], "timestamp": "2026-09-16T01:01:02.124215877Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 44:12",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Efisɛ wɔsom ⟨את⟩ wɔn wɔ wɔn abosom anim, na wɔyɛɛ Yisrael fie bɔne-amintim; ɛno enti mahyɛɛ me nsa so wɔ wɔn so — Adonai Yawe asɛm — na wɔbɛsoa wɔn bɔne.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Efisɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "wɔsom"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ … anim"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "wɔn abosom"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na wɔyɛɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ma … fie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למכשול",
+      "gloss": "bɔne-amintim"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɛno enti"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mahyɛɛ … so"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "me nsa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "na wɔbɛsoa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "wɔn bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T01:01:02.124215877Z",
+  "model": "glm-5.3"
+}

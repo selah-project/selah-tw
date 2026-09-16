@@ -1,1 +1,99 @@
-{"tier":"glm-5.2","verse":31,"ref":"1-kings 16:31","book":"1-kings","lang":"tw","chapter":16,"translation":"Na ɛyɛɛ mmerɛw sɛ ɔnam Yarobeam, Nebat ba, bɔneɛ mu no, ɔwaree ⟨את⟩ Izebel, Etbaal, Tsidonfoɔ ɔhene no babaa; na ɔkɔɔ somm ⟨את⟩ Baal, na ɔbrɛɛ no ase.","tokens":[{"surface":"ויהי","gloss":"Na ɛba sɛ"},{"surface":"הנקל","gloss":"ɛyɛɛ mmerɛw"},{"surface":"לכתו","gloss":"nenanteɛ"},{"surface":"בחטאות","gloss":"wɔ bɔneɛ mu"},{"surface":"ירבעם","gloss":"Yarobeam"},{"surface":"בן","gloss":"ba"},{"surface":"נבט","gloss":"Nebat"},{"surface":"ויקח","gloss":"waree"},{"surface":"אשה","gloss":"ɔbaa"},{"surface":"את","gloss":"⟨את⟩","marks":"Izebel"},{"surface":"איזבל","gloss":"Izebel"},{"surface":"בת","gloss":"babaa"},{"surface":"אתבעל","gloss":"Etbaal"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"צידנים","gloss":"Tsidonfoɔ"},{"surface":"וילך","gloss":"kɔɔ"},{"surface":"ויעבד","gloss":"somm"},{"surface":"את","gloss":"⟨את⟩","marks":"Baal"},{"surface":"הבעל","gloss":"Baal"},{"surface":"וישתחו","gloss":"brɛɛ no ase"},{"surface":"לו","gloss":"no"}],"timestamp":"2026-09-15T23:22:33.462342832Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 16:31",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na ɛyɛɛ mmerɛw sɛ ɔnam Yarobeam, Nebat ba, bɔneɛ mu no, ɔwaree ⟨את⟩ Izebel, Etbaal, Tsidonfoɔ ɔhene no babaa; na ɔkɔɔ somm ⟨את⟩ Baal, na ɔbrɛɛ no ase.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ɛba sɛ"
+    },
+    {
+      "surface": "הנקל",
+      "gloss": "ɛyɛɛ mmerɛw"
+    },
+    {
+      "surface": "לכתו",
+      "gloss": "nenanteɛ"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "wɔ bɔneɛ mu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "waree"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babaa"
+    },
+    {
+      "surface": "אתבעל",
+      "gloss": "Etbaal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "צידנים",
+      "gloss": "Tsidonfoɔ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "somm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "brɛɛ no ase"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-15T23:22:33.462342832Z",
+  "model": "glm-5.3"
+}

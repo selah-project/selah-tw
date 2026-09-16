@@ -1,1 +1,81 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "joshua 22:15", "book": "joshua", "lang": "tw", "chapter": 22, "translation": "Na wɔbaa Rubenfoɔ mma ne Gadfoɔ mma ne Mana⟨את⟩ se afaboxoɔ no fa hɔ so, kɔɔ Gilad asase so, na wɔne wɔn kasaaye se:", "tokens": [{"surface": "ויבאו", "gloss": "na wɔbaa"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ראובן", "gloss": "Rubenfoɔ"}, {"surface": "ואל", "gloss": "ne"}, {"surface": "בני", "gloss": "mma"}, {"surface": "גד", "gloss": "Gadfoɔ"}, {"surface": "ואל", "gloss": "ne"}, {"surface": "חצי", "gloss": "fa"}, {"surface": "שבט", "gloss": "afaboxoɔ"}, {"surface": "מנשה", "gloss": "Manase"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "הגלעד", "gloss": "Gilad"}, {"surface": "וידברו", "gloss": "na wɔkasaaye"}, {"surface": "אתם", "gloss": "⟨את⟩"}, {"surface": "לאמר", "gloss": "se"}], "timestamp": "2026-09-15T22:33:49.767606656Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 22:15",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na wɔbaa Rubenfoɔ mma ne Gadfoɔ mma ne Mana⟨את⟩ se afaboxoɔ no fa hɔ so, kɔɔ Gilad asase so, na wɔne wɔn kasaaye se:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "na wɔbaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenfoɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadfoɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "afaboxoɔ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "na wɔkasaaye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-15T22:33:49.767606656Z",
+  "model": "glm-5.3"
+}

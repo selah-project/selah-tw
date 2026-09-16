@@ -1,1 +1,104 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "numbers 25:11", "book": "numbers", "lang": "tw", "chapter": 25, "translation": "Pinehas, Elazar ba, Aharon ba, ɔsɔfoɔ no, siesiee ⟨את⟩ me boɔ firii Yisrael mma so wɔ n'ahohoraeɛ mu — ɔhohoraa ⟨את⟩ me ahohora wɔ wɔn mu — enti mannɔeɛ Yisrael mma no ngu wɔ ⟨את⟩ me ahohora mu.", "tokens": [{"surface": "פינחס", "gloss": "Pinehas"}, {"surface": "בן", "gloss": "ba"}, {"surface": "אלעזר", "gloss": "Elazar"}, {"surface": "בן", "gloss": "ba"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "הכהן", "gloss": "ɔsɔfoɔ no"}, {"surface": "השיב", "gloss": "siesiee (dane)"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me boɔ"}, {"surface": "חמתי", "gloss": "me boɔ"}, {"surface": "מעל", "gloss": "firii ... so"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "בקנאו", "gloss": "wɔ n'ahohoraeɛ mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me ahohora"}, {"surface": "קנאתי", "gloss": "me ahohora"}, {"surface": "בתוכם", "gloss": "wɔ wɔn mu"}, {"surface": "ולא", "gloss": "enti mannɔeɛ"}, {"surface": "כליתי", "gloss": "nɔeɛ (sɛee)"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yisrael mma"}, {"surface": "בני", "gloss": "mma"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "בקנאתי", "gloss": "wɔ me ahohora mu"}], "timestamp": "2026-09-15T21:37:52.412166756Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 25:11",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Pinehas, Elazar ba, Aharon ba, ɔsɔfoɔ no, siesiee ⟨את⟩ me boɔ firii Yisrael mma so wɔ n'ahohoraeɛ mu — ɔhohoraa ⟨את⟩ me ahohora wɔ wɔn mu — enti mannɔeɛ Yisrael mma no ngu wɔ ⟨את⟩ me ahohora mu.",
+  "tokens": [
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "siesiee (dane)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me boɔ"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "me boɔ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "firii ... so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בקנאו",
+      "gloss": "wɔ n'ahohoraeɛ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ahohora"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "me ahohora"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "wɔ wɔn mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enti mannɔeɛ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nɔeɛ (sɛee)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "wɔ me ahohora mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:37:52.412166756Z",
+  "model": "glm-5.3"
+}

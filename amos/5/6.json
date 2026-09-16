@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":6,"ref":"amos 5:6","book":"amos","lang":"tw","chapter":5,"translation":"Hwehwɛ ⟨את⟩ Yawe na mo nyɛ wɔn a wɔte aseɛ, na ogya ɛrentew ase wɔ Yosef fie na ɛnto ho, na obiara nni hɔ a ɔbɛsɔ ogya no mu ama Bet-El.","tokens":[{"surface":"דרשו","gloss":"Hwehwɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"וחיו","gloss":"na mo nyɛ wɔn a wɔte aseɛ"},{"surface":"פן","gloss":"na"},{"surface":"יצלח","gloss":"ɛrentew ase"},{"surface":"כאש","gloss":"sɛ ogya"},{"surface":"בית","gloss":"wɔ ... fie"},{"surface":"יוסף","gloss":"Yosef"},{"surface":"ואכלה","gloss":"na ɛnto ho"},{"surface":"ואין","gloss":"na obiara nni hɔ"},{"surface":"מכבה","gloss":"a ɔbɛsɔ ogya no mu"},{"surface":"לבית","gloss":"ama Bet"},{"surface":"אל","gloss":"-El"}],"timestamp":"2026-09-16T01:13:04.638756968Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Hwehwɛ ⟨את⟩ Yawe na mo nyɛ wɔn a wɔte aseɛ, na ogya ɛrentew ase wɔ Yosef fie na ɛnto ho, na obiara nni hɔ a ɔbɛsɔ ogya no mu ama Bet-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Hwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "na mo nyɛ wɔn a wɔte aseɛ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ɛrentew ase"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "sɛ ogya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wɔ ... fie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "na ɛnto ho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na obiara nni hɔ"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "a ɔbɛsɔ ogya no mu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ama Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-09-16T01:13:04.638756968Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":4,"ref":"leviticus 2:4","book":"leviticus","lang":"tw","chapter":2,"translation":"Na sɛ wode korban — minchah a wɔnoa wɔ tanur (sigya mmɔwa) mu — brɛ: soleth khallot mátsot a wɔde ngo agyira, anaa raqiq mátsot a wɔasra ngo.","tokens":[{"surface":"וכי","gloss":"Na sɛ"},{"surface":"תקרב","gloss":"brɛ"},{"surface":"קרבן","gloss":"korban"},{"surface":"מנחה","gloss":"minchah"},{"surface":"מאפה","gloss":"a wɔnoa"},{"surface":"תנור","gloss":"tanur (sigya mmɔwa) mu"},{"surface":"סלת","gloss":"soleth"},{"surface":"חלות","gloss":"khallot"},{"surface":"מצת","gloss":"mátsot"},{"surface":"בלולת","gloss":"a wɔde ngo agyira"},{"surface":"בשמן","gloss":"ngo mu"},{"surface":"ורקיקי","gloss":"raqiq"},{"surface":"מצות","gloss":"mátsot"},{"surface":"משחים","gloss":"a wɔasra ngo"},{"surface":"בשמן","gloss":"ngo mu"}],"timestamp":"2026-09-15T21:08:59.450386771Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 2:4",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na sɛ wode korban — minchah a wɔnoa wɔ tanur (sigya mmɔwa) mu — brɛ: soleth khallot mátsot a wɔde ngo agyira, anaa raqiq mátsot a wɔasra ngo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sɛ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "brɛ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "a wɔnoa"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "tanur (sigya mmɔwa) mu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soleth"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "khallot"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mátsot"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "a wɔde ngo agyira"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo mu"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "raqiq"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mátsot"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "a wɔasra ngo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:08:59.450386771Z",
+  "model": "glm-5.3"
+}

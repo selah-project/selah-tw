@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":15,"ref":"isaiah 40:15","book":"isaiah","lang":"tw","chapter":40,"translation":"Hwɛ, amanɔman te sɛ nsuo ketewa a ɛtɔ fidie mu, na wɔkan wɔ sɛ ɛdwonsɔ a ɛda susu afiri so; hwɛ, ɔsoro nsupɔ so asaase sɛ nwoma ketewa.","tokens":[{"surface":"הן","gloss":"Hwɛ"},{"surface":"גוים","gloss":"amanɔman"},{"surface":"כמר","gloss":"te sɛ nsuo ketewa"},{"surface":"מדלי","gloss":"a ɛtɔ fidie mu"},{"surface":"וכשחק","gloss":"na sɛ ɛdwonsɔ ketewa"},{"surface":"מאזנים","gloss":"susu afiri"},{"surface":"נחשבו","gloss":"wɔkan wɔ sɛ"},{"surface":"הן","gloss":"Hwɛ"},{"surface":"איים","gloss":"nsupɔ so asaase"},{"surface":"כדק","gloss":"sɛ nwoma ketewa"},{"surface":"יטול","gloss":"ɔsoro"}],"timestamp":"2026-09-15T23:54:02.980555375Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 40:15",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Hwɛ, amanɔman te sɛ nsuo ketewa a ɛtɔ fidie mu, na wɔkan wɔ sɛ ɛdwonsɔ a ɛda susu afiri so; hwɛ, ɔsoro nsupɔ so asaase sɛ nwoma ketewa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanɔman"
+    },
+    {
+      "surface": "כמר",
+      "gloss": "te sɛ nsuo ketewa"
+    },
+    {
+      "surface": "מדלי",
+      "gloss": "a ɛtɔ fidie mu"
+    },
+    {
+      "surface": "וכשחק",
+      "gloss": "na sɛ ɛdwonsɔ ketewa"
+    },
+    {
+      "surface": "מאזנים",
+      "gloss": "susu afiri"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "wɔkan wɔ sɛ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "nsupɔ so asaase"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "sɛ nwoma ketewa"
+    },
+    {
+      "surface": "יטול",
+      "gloss": "ɔsoro"
+    }
+  ],
+  "timestamp": "2026-09-15T23:54:02.980555375Z",
+  "model": "glm-5.3"
+}

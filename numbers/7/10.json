@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "numbers 7:10", "book": "numbers", "lang": "tw", "chapter": 7, "translation": "Na akannifoɔ no de ⟨את⟩ afɔdiboa no ⟨את⟩ dedea bae da a wɔsraa no no; na akannifoɔ no de ⟨את⟩ wɔn afɔdeɛ bae afɔdiboa no anim.", "tokens": [{"surface": "ויקריבו", "gloss": "Na ... bae"}, {"surface": "הנשאים", "gloss": "akannifoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "afɔdiboa no dedea"}, {"surface": "חנכת", "gloss": "dedea"}, {"surface": "המזבח", "gloss": "afɔdiboa no"}, {"surface": "ביום", "gloss": "da"}, {"surface": "המשח", "gloss": "a wɔsraa no"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "ויקריבו", "gloss": "bae"}, {"surface": "הנשיאם", "gloss": "akannifoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn afɔdeɛ"}, {"surface": "קרבנם", "gloss": "wɔn afɔdeɛ"}, {"surface": "לפני", "gloss": "anim"}, {"surface": "המזבח", "gloss": "afɔdiboa no"}], "timestamp": "2026-09-15T21:27:19.237070714Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na akannifoɔ no de ⟨את⟩ afɔdiboa no ⟨את⟩ dedea bae da a wɔsraa no no; na akannifoɔ no de ⟨את⟩ wɔn afɔdeɛ bae afɔdiboa no anim.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Na ... bae"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "akannifoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afɔdiboa no dedea"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "dedea"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔdiboa no"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "a wɔsraa no"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "bae"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "akannifoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn afɔdeɛ"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "wɔn afɔdeɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "afɔdiboa no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:19.237070714Z",
+  "model": "glm-5.3"
+}

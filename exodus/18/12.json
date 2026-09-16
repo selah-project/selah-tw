@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":12,"ref":"exodus 18:12","book":"exodus","lang":"tw","chapter":18,"translation":"Yitro, Moshe agya, bɔɔ afɔdeɛ a ɛhyeɛ ne afɔdeɛ ahodoɔ maa Eloohim; Aharon ne Yisrael mpanyimfoɔ nyinaa bae bɛdii aduane ne Moshe agya wɔ Eloohim anim.","tokens":[{"surface":"ויקח","gloss":"bɔɔ / de bae"},{"surface":"יתרו","gloss":"Yitro"},{"surface":"חתן","gloss":"agya (abusua mu nsemmɔne)"},{"surface":"משה","gloss":"Moshe"},{"surface":"עלה","gloss":"afɔdeɛ a ɛhyeɛ"},{"surface":"וזבחים","gloss":"ne afɔdeɛ ahodoɔ"},{"surface":"לאלהים","gloss":"maa Eloohim"},{"surface":"ויבא","gloss":"bae"},{"surface":"אהרן","gloss":"Aharon"},{"surface":"וכל","gloss":"ne ... nyinaa"},{"surface":"זקני","gloss":"mpanyimfoɔ"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"לאכל","gloss":"bɛdii"},{"surface":"לחם","gloss":"aduane"},{"surface":"עם","gloss":"ne"},{"surface":"חתן","gloss":"agya"},{"surface":"משה","gloss":"Moshe"},{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"האלהים","gloss":"Eloohim"}],"timestamp":"2026-09-15T22:27:15.090309457Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 18:12",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Yitro, Moshe agya, bɔɔ afɔdeɛ a ɛhyeɛ ne afɔdeɛ ahodoɔ maa Eloohim; Aharon ne Yisrael mpanyimfoɔ nyinaa bae bɛdii aduane ne Moshe agya wɔ Eloohim anim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "bɔɔ / de bae"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "agya (abusua mu nsemmɔne)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "afɔdeɛ a ɛhyeɛ"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "ne afɔdeɛ ahodoɔ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "maa Eloohim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bae"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... nyinaa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mpanyimfoɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "bɛdii"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "agya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T22:27:15.090309457Z",
+  "model": "glm-5.3"
+}

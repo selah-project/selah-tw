@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":22,"ref":"judges 3:22","book":"judges","lang":"tw","chapter":3,"translation":"Na sekan no nso kɔɔ mu wɔ n'akyi, na nsuyire no hyɛɛ mu duruu sekan no so, ɛntɛm na wantwa akofena no firi ne yam mu; na pagya no bae.","tokens":[{"surface":"ויבא","gloss":"kɔɔ mu"},{"surface":"גם","gloss":"nso"},{"surface":"הנצב","gloss":"sekan no (n'akyi)"},{"surface":"אחר","gloss":"wɔ n'akyi"},{"surface":"הלהב","gloss":"sekan no"},{"surface":"ויסגר","gloss":"hyɛɛ mu"},{"surface":"החלב","gloss":"nsuyire no"},{"surface":"בעד","gloss":"duruu so"},{"surface":"הלהב","gloss":"sekan no"},{"surface":"כי","gloss":"ɛntɛm na"},{"surface":"לא","gloss":"an-"},{"surface":"שלף","gloss":"twa"},{"surface":"החרב","gloss":"akofena no"},{"surface":"מבטנו","gloss":"firi ne yam mu"},{"surface":"ויצא","gloss":"bae"},{"surface":"הפרשדנה","gloss":"pagya no"}],"timestamp":"2026-09-15T22:35:28.878649413Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 3:22",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na sekan no nso kɔɔ mu wɔ n'akyi, na nsuyire no hyɛɛ mu duruu sekan no so, ɛntɛm na wantwa akofena no firi ne yam mu; na pagya no bae.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kɔɔ mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "sekan no (n'akyi)"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wɔ n'akyi"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "sekan no"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "hyɛɛ mu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nsuyire no"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "duruu so"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "sekan no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛntɛm na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "an-"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "twa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "akofena no"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "firi ne yam mu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "bae"
+    },
+    {
+      "surface": "הפרשדנה",
+      "gloss": "pagya no"
+    }
+  ],
+  "timestamp": "2026-09-15T22:35:28.878649413Z",
+  "model": "glm-5.3"
+}

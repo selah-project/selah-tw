@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":19,"ref":"1-chronicles 23:19","book":"1-chronicles","lang":"tw","chapter":23,"translation":"Chebron mma no: Yeriyah ɔtitenani, Amarya ɔtɔ so mmienu, Yachaziel ɔtɔ so mmiɛnsa, ne Yekameam ɔtɔ so ɛnan.","tokens":[{"surface":"בני","gloss":"mma"},{"surface":"חברון","gloss":"Chebron"},{"surface":"יריהו","gloss":"Yeriyah"},{"surface":"הראש","gloss":"ɔtitenani"},{"surface":"אמריה","gloss":"Amarya"},{"surface":"השני","gloss":"ɔtɔ so mmienu"},{"surface":"יחזיאל","gloss":"Yachaziel"},{"surface":"השלישי","gloss":"ɔtɔ so mmiɛnsa"},{"surface":"ויקמעם","gloss":"ne Yekameam"},{"surface":"הרביעי","gloss":"ɔtɔ so ɛnan"}],"timestamp":"2026-09-16T04:46:03.357405704Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 23:19",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Chebron mma no: Yeriyah ɔtitenani, Amarya ɔtɔ so mmienu, Yachaziel ɔtɔ so mmiɛnsa, ne Yekameam ɔtɔ so ɛnan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "Yeriyah"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ɔtitenani"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarya"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɔtɔ so mmienu"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Yachaziel"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ɔtɔ so mmiɛnsa"
+    },
+    {
+      "surface": "ויקמעם",
+      "gloss": "ne Yekameam"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ɔtɔ so ɛnan"
+    }
+  ],
+  "timestamp": "2026-09-16T04:46:03.357405704Z",
+  "model": "glm-5.3"
+}

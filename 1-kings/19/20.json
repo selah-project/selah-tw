@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "1-kings 19:20", "book": "1-kings", "lang": "tw", "chapter": 19, "translation": "Na ɔgyaee ⟨את⟩ nnantwie no, na ɔdwane hweree Eliya, na ɔkaa sɛ: Ma me, mepɛ sɛ me bɔ m'agya ne m'enna nsu, na mesoa wo akyi. Na ɔkaa sɛ: Kɔ, san aba; efirisɛ deɛn na mayɛ ama wo?", "tokens": [{"surface": "ויעזב", "gloss": "na ɔgyaee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnantwie no"}, {"surface": "הבקר", "gloss": "nnantwie no"}, {"surface": "וירץ", "gloss": "na ɔdwane hweree"}, {"surface": "אחרי", "gloss": ""}, {"surface": "אליהו", "gloss": "Eliya"}, {"surface": "ויאמר", "gloss": "na ɔkaa sɛ"}, {"surface": "אשקה", "gloss": "me bɔ nsu"}, {"surface": "נא", "gloss": "mepɛ"}, {"surface": "לאבי", "gloss": "m'agya"}, {"surface": "ולאמי", "gloss": "ne m'enna"}, {"surface": "ואלכה", "gloss": "na mesoa kɔ"}, {"surface": "אחריך", "gloss": "wo akyi"}, {"surface": "ויאמר", "gloss": "na ɔkaa sɛ"}, {"surface": "לו", "gloss": "no"}, {"surface": "לך", "gloss": "kɔ"}, {"surface": "שוב", "gloss": "san aba"}, {"surface": "כי", "gloss": "efirisɛ"}, {"surface": "מה", "gloss": "deɛn"}, {"surface": "עשיתי", "gloss": "mayɛ"}, {"surface": "לך", "gloss": "ama wo"}], "timestamp": "2026-09-15T23:23:23.506418537Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Na ɔgyaee ⟨את⟩ nnantwie no, na ɔdwane hweree Eliya, na ɔkaa sɛ: Ma me, mepɛ sɛ me bɔ m'agya ne m'enna nsu, na mesoa wo akyi. Na ɔkaa sɛ: Kɔ, san aba; efirisɛ deɛn na mayɛ ama wo?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "na ɔgyaee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnantwie no"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nnantwie no"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "na ɔdwane hweree"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "me bɔ nsu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepɛ"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "m'agya"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "ne m'enna"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "na mesoa kɔ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "wo akyi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "san aba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efirisɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "deɛn"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mayɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ama wo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:23:23.506418537Z",
+  "model": "glm-5.3"
+}

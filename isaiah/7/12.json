@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":12,"ref":"isaiah 7:12","book":"isaiah","lang":"tw","chapter":7,"translation":"na Ajaz kaa se, Merɛnbisa, na merɛnsɔ ⟨את⟩ Yawe nhwɛ.","tokens":[{"surface":"ויאמר","gloss":"na ... kaa se"},{"surface":"אחז","gloss":"Ajaz"},{"surface":"לא","gloss":"m- ... ren"},{"surface":"אשאל","gloss":"bisa"},{"surface":"ולא","gloss":"na ... m- ... ren"},{"surface":"אנסה","gloss":"sɔ ... nhwɛ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yawe"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-15T23:41:58.812520147Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "na Ajaz kaa se, Merɛnbisa, na merɛnsɔ ⟨את⟩ Yawe nhwɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... kaa se"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "m- ... ren"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... m- ... ren"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "sɔ ... nhwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T23:41:58.812520147Z",
+  "model": "glm-5.3"
+}

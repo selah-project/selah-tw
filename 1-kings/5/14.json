@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "1-kings 5:14", "book": "1-kings", "lang": "tw", "chapter": 5, "translation": "Na wɔfiri amanaman nyinaa mu baa hɔ bɛtie ⟨את⟩ Sholomo ⟨את⟩ nyansa, wɔn a wɔfiri ⟨את⟩ asase no ahemfo nyinaa mu, a wɔatye ne nyansa no asɛm.", "tokens": [{"surface": "ויבאו", "gloss": "baa hɔ"}, {"surface": "מכל", "gloss": "nyinaa mu"}, {"surface": "העמים", "gloss": "amanaman"}, {"surface": "לשמע", "gloss": "bɛtie"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Sholomo nyansa"}, {"surface": "חכמת", "gloss": "nyansa"}, {"surface": "שלמה", "gloss": "Sholomo"}, {"surface": "מאת", "gloss": "firi ⟨את⟩"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מלכי", "gloss": "ahemfo"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "שמעו", "gloss": "wɔatye ... asɛm"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne nyansa"}, {"surface": "חכמתו", "gloss": "ne nyansa"}], "timestamp": "2026-09-15T23:13:58.870072363Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Na wɔfiri amanaman nyinaa mu baa hɔ bɛtie ⟨את⟩ Sholomo ⟨את⟩ nyansa, wɔn a wɔfiri ⟨את⟩ asase no ahemfo nyinaa mu, a wɔatye ne nyansa no asɛm.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baa hɔ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nyinaa mu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "bɛtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sholomo nyansa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sholomo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "firi ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ahemfo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wɔatye ... asɛm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne nyansa"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ne nyansa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:58.870072363Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":26,"ref":"isaiah 10:26","book":"isaiah","lang":"tw","chapter":10,"translation":"Yawe Tsafo Asafo no bɛma nteɛboɔ asɔ ne so, sɛnea wɔbɔɔ Midian no wɔ Oreb Ɔboɔ no so; na ne kyerewɔ no bɛkɔ ɛpo no so, na wɔde bɛma so wɔ Misraim kwan mu.","tokens":[{"surface":"ועורר","gloss":"bɛma ... asɔ"},{"surface":"עליו","gloss":"ne so"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שוט","gloss":"nteɛboɔ"},{"surface":"כמכת","gloss":"sɛnea wɔbɔɔ"},{"surface":"מדין","gloss":"Midian"},{"surface":"בצור","gloss":"wɔ ... Ɔboɔ no so"},{"surface":"עורב","gloss":"Oreb"},{"surface":"ומטהו","gloss":"na ne kyerewɔ no"},{"surface":"על","gloss":"bɛkɔ ... so"},{"surface":"הים","gloss":"ɛpo no"},{"surface":"ונשאו","gloss":"na wɔde bɛma so"},{"surface":"בדרך","gloss":"wɔ ... kwan mu"},{"surface":"מצרים","gloss":"Misraim"}],"timestamp":"2026-09-15T23:42:16.704697762Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 10:26",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Yawe Tsafo Asafo no bɛma nteɛboɔ asɔ ne so, sɛnea wɔbɔɔ Midian no wɔ Oreb Ɔboɔ no so; na ne kyerewɔ no bɛkɔ ɛpo no so, na wɔde bɛma so wɔ Misraim kwan mu.",
+  "tokens": [
+    {
+      "surface": "ועורר",
+      "gloss": "bɛma ... asɔ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "nteɛboɔ"
+    },
+    {
+      "surface": "כמכת",
+      "gloss": "sɛnea wɔbɔɔ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "wɔ ... Ɔboɔ no so"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "ומטהו",
+      "gloss": "na ne kyerewɔ no"
+    },
+    {
+      "surface": "על",
+      "gloss": "bɛkɔ ... so"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɛpo no"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "na wɔde bɛma so"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wɔ ... kwan mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:42:16.704697762Z",
+  "model": "glm-5.3"
+}

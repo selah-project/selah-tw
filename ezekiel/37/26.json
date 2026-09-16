@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "ezekiel 37:26", "book": "ezekiel", "lang": "tw", "chapter": 37, "translation": "Na mɛbɔ ⟨את⟩ wɔn ntam apam — apam a asomdwoeɛ wom; apam a ɛbɛkɔ dede gyina ⟨את⟩ wɔn ho. Na mɛhyɛ wɔn mu na mamɛ wɔn dodoɔ, na made ⟨את⟩ me asɔredan abɔ mu wɔ wɔn mu kɔdede.", "tokens": [{"surface": "וכרתי", "gloss": "na mɛbɔ ntam"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "ברית", "gloss": "apam"}, {"surface": "שלום", "gloss": "a asomdwoeɛ wom"}, {"surface": "ברית", "gloss": "apam"}, {"surface": "עולם", "gloss": "a ɛbɛkɔ dede"}, {"surface": "יהיה", "gloss": "bɛgyina"}, {"surface": "אותם", "gloss": "⟨את⟩"}, {"surface": "ונתתים", "gloss": "wɔn ho"}, {"surface": "והרביתי", "gloss": "na mamɛ wɔn dodoɔ"}, {"surface": "אותם", "gloss": "⟨את⟩"}, {"surface": "ונתתי", "gloss": "na made"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me asɔredan"}, {"surface": "מקדשי", "gloss": "me asɔredan"}, {"surface": "בתוכם", "gloss": "wɔ wɔn mu"}, {"surface": "לעולם", "gloss": "kɔdede"}], "timestamp": "2026-09-16T00:55:05.399877362Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 37:26",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na mɛbɔ ⟨את⟩ wɔn ntam apam — apam a asomdwoeɛ wom; apam a ɛbɛkɔ dede gyina ⟨את⟩ wɔn ho. Na mɛhyɛ wɔn mu na mamɛ wɔn dodoɔ, na made ⟨את⟩ me asɔredan abɔ mu wɔ wɔn mu kɔdede.",
+  "tokens": [
+    {
+      "surface": "וכרתי",
+      "gloss": "na mɛbɔ ntam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "a asomdwoeɛ wom"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "apam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛbɛkɔ dede"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛgyina"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "na mamɛ wɔn dodoɔ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na made"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me asɔredan"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "me asɔredan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "wɔ wɔn mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔdede"
+    }
+  ],
+  "timestamp": "2026-09-16T00:55:05.399877362Z",
+  "model": "glm-5.3"
+}

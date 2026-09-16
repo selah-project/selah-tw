@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":11,"ref":"numbers 6:11","book":"numbers","lang":"tw","chapter":6,"translation":"Ɔsɔfoɔ no bɛyɛ baako sɛ bɔneyɛ afɔdeɛ ɛna baako sɛ nnɔeɛ afɔdeɛ, na ɔbɛyɛ basabasayie-somfoɔ ma no, ɛfiri deɛ ɔyɛɛ bɔne wɔ ɔpagya no so; na ɔbɛkronkron ⟨את⟩ ne ti wɔ saa da no mu.","tokens":[{"surface":"ועשה","gloss":"na ɔbɛyɛ"},{"surface":"הכהן","gloss":"ɔsɔfoɔ no"},{"surface":"אחד","gloss":"baako"},{"surface":"לחטאת","gloss":"sɛ bɔneyɛ afɔdeɛ"},{"surface":"ואחד","gloss":"ɛna baako"},{"surface":"לעלה","gloss":"sɛ nnɔeɛ afɔdeɛ"},{"surface":"וכפר","gloss":"na ɔbɛyɛ basabasayie-somfoɔ"},{"surface":"עליו","gloss":"ma no"},{"surface":"מאשר","gloss":"ɛfiri deɛ"},{"surface":"חטא","gloss":"ɔyɛɛ bɔne"},{"surface":"על","gloss":"wɔ"},{"surface":"הנפש","gloss":"ɔpagya no so"},{"surface":"וקדש","gloss":"na ɔbɛkronkron"},{"surface":"את","gloss":"⟨את⟩","marks":"ne ti"},{"surface":"ראשו","gloss":"ne ti"},{"surface":"ביום","gloss":"wɔ da"},{"surface":"ההוא","gloss":"saa"}],"timestamp":"2026-09-15T21:27:42.390881312Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 6:11",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Ɔsɔfoɔ no bɛyɛ baako sɛ bɔneyɛ afɔdeɛ ɛna baako sɛ nnɔeɛ afɔdeɛ, na ɔbɛyɛ basabasayie-somfoɔ ma no, ɛfiri deɛ ɔyɛɛ bɔne wɔ ɔpagya no so; na ɔbɛkronkron ⟨את⟩ ne ti wɔ saa da no mu.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "na ɔbɛyɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ no"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sɛ bɔneyɛ afɔdeɛ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ɛna baako"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "sɛ nnɔeɛ afɔdeɛ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na ɔbɛyɛ basabasayie-somfoɔ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ma no"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ɛfiri deɛ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ɔyɛɛ bɔne"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ɔpagya no so"
+    },
+    {
+      "surface": "וקדש",
+      "gloss": "na ɔbɛkronkron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne ti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:42.390881312Z",
+  "model": "glm-5.3"
+}

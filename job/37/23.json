@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":23,"ref":"job 37:23","book":"job","lang":"tw","chapter":37,"translation":"Shadai — yɛrentumi nhunu no; ɔyɛ tumi kɛseɛ, ne atemmu, ne gyidi kɛseɛ; ɔrenkyɛm obiara.","tokens":[{"surface":"שדי","gloss":"Shadai"},{"surface":"לא","gloss":"yɛn... nhunu"},{"surface":"מצאנהו","gloss":"yɛrentumi nhunu no"},{"surface":"שגיא","gloss":"kɛseɛ"},{"surface":"כח","gloss":"tumi"},{"surface":"ומשפט","gloss":"ne atemmu"},{"surface":"ורב","gloss":"ne ... kɛseɛ"},{"surface":"צדקה","gloss":"gyidi"},{"surface":"לא","gloss":"ren"},{"surface":"יענה","gloss":"nkyɛm obiara"}],"timestamp":"2026-09-16T03:35:41.237435745Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 37:23",
+  "book": "job",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Shadai — yɛrentumi nhunu no; ɔyɛ tumi kɛseɛ, ne atemmu, ne gyidi kɛseɛ; ɔrenkyɛm obiara.",
+  "tokens": [
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yɛn... nhunu"
+    },
+    {
+      "surface": "מצאנהו",
+      "gloss": "yɛrentumi nhunu no"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "tumi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ne atemmu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ne ... kɛseɛ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gyidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ren"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nkyɛm obiara"
+    }
+  ],
+  "timestamp": "2026-09-16T03:35:41.237435745Z",
+  "model": "glm-5.3"
+}

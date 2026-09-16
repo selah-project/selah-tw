@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-samuel 17:22","book":"1-samuel","lang":"tw","chapter":17,"translation":"Dawid gyaa ⟨את⟩ n'adeɛ no wɔ ɔhwɛfoɔ a ɔhwɛɛ n'adeɛ no nsa, na ɔdii mmirikatuo kɔɔ mmea no mu, na ɔbaa hɔ, na ɔbisaSRE ne nuanom asomdwoeɛ.","tokens":[{"surface":"ויטש","gloss":"gyaa"},{"surface":"דוד","gloss":"Dawid"},{"surface":"את","gloss":"⟨את⟩","marks":"n'adeɛ no"},{"surface":"הכלים","gloss":"n'adeɛ no"},{"surface":"מעליו","gloss":"firi ne so"},{"surface":"על","gloss":"wɔ"},{"surface":"יד","gloss":"nsa"},{"surface":"שומר","gloss":"ɔhwɛfoɔ"},{"surface":"הכלים","gloss":"a ɔhwɛɛ n'adeɛ no"},{"surface":"וירץ","gloss":"na ɔdii mmirikatuo"},{"surface":"המערכה","gloss":"kɔɔ mmea no mu"},{"surface":"ויבא","gloss":"na ɔbaa hɔ"},{"surface":"וישאל","gloss":"na ɔbisaSRE"},{"surface":"לאחיו","gloss":"ne nuanom"},{"surface":"לשלום","gloss":"asomdwoeɛ"}],"timestamp":"2026-09-15T22:53:55.071898973Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Dawid gyaa ⟨את⟩ n'adeɛ no wɔ ɔhwɛfoɔ a ɔhwɛɛ n'adeɛ no nsa, na ɔdii mmirikatuo kɔɔ mmea no mu, na ɔbaa hɔ, na ɔbisaSRE ne nuanom asomdwoeɛ.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "gyaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'adeɛ no"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "n'adeɛ no"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "firi ne so"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "nsa"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ɔhwɛfoɔ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "a ɔhwɛɛ n'adeɛ no"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "na ɔdii mmirikatuo"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "kɔɔ mmea no mu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na ɔbaa hɔ"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "na ɔbisaSRE"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ne nuanom"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "asomdwoeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:55.071898973Z",
+  "model": "glm-5.3"
+}

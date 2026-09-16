@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":20,"ref":"leviticus 15:20","book":"leviticus","lang":"tw","chapter":15,"translation":"Na adeɛ biara a ɔbɛda so wɔ ne nidadabere mu, ahotɔ nni mu; na adeɛ biara a ɔbɛtena so, ahotɔ nni mu.","tokens":[{"surface":"וכל","gloss":"Na adeɛ biara"},{"surface":"אשר","gloss":"a"},{"surface":"תשכב","gloss":"ɔbɛda"},{"surface":"עליו","gloss":"so"},{"surface":"בנדתה","gloss":"wɔ ne nidadabere mu"},{"surface":"יטמא","gloss":"ahotɔ nni mu"},{"surface":"וכל","gloss":"na adeɛ biara"},{"surface":"אשר","gloss":"a"},{"surface":"תשב","gloss":"ɔbɛtena"},{"surface":"עליו","gloss":"so"},{"surface":"יטמא","gloss":"ahotɔ nni mu"}],"timestamp":"2026-09-15T21:17:35.835812491Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Na adeɛ biara a ɔbɛda so wɔ ne nidadabere mu, ahotɔ nni mu; na adeɛ biara a ɔbɛtena so, ahotɔ nni mu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na adeɛ biara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ɔbɛda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "wɔ ne nidadabere mu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ahotɔ nni mu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na adeɛ biara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ɔbɛtena"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "so"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ahotɔ nni mu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:17:35.835812491Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "jeremiah 52:10", "book": "jeremiah", "lang": "tw", "chapter": 52, "translation": "Na Babilon ɔhene no kum ⟨את⟩ Zedekiah ⟨את⟩ mma wɔ n'ani so; na ɔkum Yuda akandifoɔ nyinaa nso wɔ Ribla.", "tokens": [{"surface": "וישחט", "gloss": "na ɔkum"}, {"surface": "מלך", "gloss": "ɔhene"}, {"surface": "בבל", "gloss": "Babilon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Zedekiah mma"}, {"surface": "בני", "gloss": "mma"}, {"surface": "צדקיהו", "gloss": "Zedekiah"}, {"surface": "לעיניו", "gloss": "wɔ n'ani so"}, {"surface": "וגם", "gloss": "nso"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yuda akandifoɔ nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "שרי", "gloss": "akandifoɔ"}, {"surface": "יהודה", "gloss": "Yuda"}, {"surface": "שחט", "gloss": "ɔkum"}, {"surface": "ברבלתה", "gloss": "wɔ Ribla"}], "timestamp": "2026-09-16T00:31:32.659753817Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Na Babilon ɔhene no kum ⟨את⟩ Zedekiah ⟨את⟩ mma wɔ n'ani so; na ɔkum Yuda akandifoɔ nyinaa nso wɔ Ribla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "na ɔkum"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zedekiah mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Zedekiah"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "wɔ n'ani so"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda akandifoɔ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akandifoɔ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "ɔkum"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "wɔ Ribla"
+    }
+  ],
+  "timestamp": "2026-09-16T00:31:32.659753817Z",
+  "model": "glm-5.3"
+}

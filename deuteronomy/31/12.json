@@ -1,1 +1,112 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "deuteronomy 31:12", "book": "deuteronomy", "lang": "tw", "chapter": 31, "translation": "Boa ⟨את⟩ nkurɔfoɔ no bom — mmarima ne mmaa ne mmɔfra nketewa, ne wo abɔfoɔ a ɔte wo nnsɔanmu — sɛ wɔbɛtie, na wɔasua, na wɔnore ⟨את⟩ Yawe, mo Eloohim, nkonim, na wɔbɛhyɛ so yɛ ⟨את⟩ Tora yi nsɛm nyinaa.", "tokens": [{"surface": "הקהל", "gloss": "boa ... bom"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nkurɔfoɔ no"}, {"surface": "העם", "gloss": "nkurɔfoɔ no"}, {"surface": "האנשים", "gloss": "mmarima"}, {"surface": "והנשים", "gloss": "ne mmaa"}, {"surface": "והטף", "gloss": "ne mmɔfra nketewa"}, {"surface": "וגרך", "gloss": "ne wo abɔfoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בשעריך", "gloss": "ɔte wo nnsɔanmu"}, {"surface": "למען", "gloss": "sɛ"}, {"surface": "ישמעו", "gloss": "wɔbɛtie"}, {"surface": "ולמען", "gloss": "na"}, {"surface": "ילמדו", "gloss": "wɔasua"}, {"surface": "ויראו", "gloss": "na wɔnore ... nkonim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe, mo Eloohim"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}, {"surface": "ושמרו", "gloss": "na wɔbɛhyɛ so"}, {"surface": "לעשות", "gloss": "yɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nsɛm nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "דברי", "gloss": "nsɛm"}, {"surface": "התורה", "gloss": "Tora"}, {"surface": "הזאת", "gloss": "yi"}], "timestamp": "2026-09-15T21:59:46.450208405Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 31:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 31,
+  "translation": "Boa ⟨את⟩ nkurɔfoɔ no bom — mmarima ne mmaa ne mmɔfra nketewa, ne wo abɔfoɔ a ɔte wo nnsɔanmu — sɛ wɔbɛtie, na wɔasua, na wɔnore ⟨את⟩ Yawe, mo Eloohim, nkonim, na wɔbɛhyɛ so yɛ ⟨את⟩ Tora yi nsɛm nyinaa.",
+  "tokens": [
+    {
+      "surface": "הקהל",
+      "gloss": "boa ... bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkurɔfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkurɔfoɔ no"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "ne mmaa"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ne mmɔfra nketewa"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ne wo abɔfoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ɔte wo nnsɔanmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "wɔbɛtie"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "wɔasua"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na wɔnore ... nkonim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe, mo Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "na wɔbɛhyɛ so"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsɛm nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nsɛm"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:46.450208405Z",
+  "model": "glm-5.3"
+}

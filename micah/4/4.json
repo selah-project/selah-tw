@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":4,"ref":"micah 4:4","book":"micah","lang":"tw","chapter":4,"translation":"Na onipa biara bɛtena n'abua ase, ne ne nkyirenkyire ase, na obiara nni hɔ a ɔbɛma wɔasu; efisɛ Yawe a odi asraafo dodoɔ so no ano na ɔkaa asɛm.","tokens":[{"surface":"וישבו","gloss":"bɛtena"},{"surface":"איש","gloss":"onipa biara"},{"surface":"תחת","gloss":"ase"},{"surface":"גפנו","gloss":"n'abua"},{"surface":"ותחת","gloss":"ne ... ase"},{"surface":"תאנתו","gloss":"ne nkyirenkyire"},{"surface":"ואין","gloss":"obiara nni hɔ"},{"surface":"מחריד","gloss":"a ɔbɛma wɔasu"},{"surface":"כי","gloss":"efisɛ"},{"surface":"פי","gloss":"ano"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"דבר","gloss":"ɔkaa asɛm"}],"timestamp":"2026-09-16T01:20:26.625080015Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na onipa biara bɛtena n'abua ase, ne ne nkyirenkyire ase, na obiara nni hɔ a ɔbɛma wɔasu; efisɛ Yawe a odi asraafo dodoɔ so no ano na ɔkaa asɛm.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "bɛtena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "n'abua"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ne ... ase"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "ne nkyirenkyire"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "obiara nni hɔ"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "a ɔbɛma wɔasu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkaa asɛm"
+    }
+  ],
+  "timestamp": "2026-09-16T01:20:26.625080015Z",
+  "model": "glm-5.3"
+}

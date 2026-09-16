@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":16,"ref":"deuteronomy 24:16","book":"deuteronomy","lang":"tw","chapter":24,"translation":"Awofoɔ renwu wɔ mma ho asɛm mu; mma nso renwu wɔ awofoɔ ho asɛm mu; onipa biara bɛwu wɔ n'ankasa bɔne mu.","tokens":[{"surface":"לא","gloss":"ɛrense sɛ"},{"surface":"יומתו","gloss":"wɔbɛwu / wɔbɛkum wɔn"},{"surface":"אבות","gloss":"awofoɔ"},{"surface":"על","gloss":"wɔ ... ho"},{"surface":"בנים","gloss":"mma"},{"surface":"ובנים","gloss":"mma nso"},{"surface":"לא","gloss":"ɛrense sɛ"},{"surface":"יומתו","gloss":"wɔbɛwu"},{"surface":"על","gloss":"wɔ ... ho"},{"surface":"אבות","gloss":"awofoɔ"},{"surface":"איש","gloss":"onipa biara"},{"surface":"בחטאו","gloss":"wɔ n'ankasa bɔne mu"},{"surface":"יומתו","gloss":"bɛwu"}],"timestamp":"2026-09-15T21:55:48.910618694Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Awofoɔ renwu wɔ mma ho asɛm mu; mma nso renwu wɔ awofoɔ ho asɛm mu; onipa biara bɛwu wɔ n'ankasa bɔne mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɛrense sɛ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "wɔbɛwu / wɔbɛkum wɔn"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "awofoɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "mma nso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛrense sɛ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "wɔbɛwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "awofoɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "wɔ n'ankasa bɔne mu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bɛwu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:48.910618694Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "deuteronomy 11:10", "book": "deuteronomy", "lang": "tw", "chapter": 11, "translation": "Ɛfiri sɛ asase a woredi hɔ kɔ sɛ wo bɛdi so no, ɛnyɛ te sɛ Misraim asase, a mo firii hɔ no, baabi a wode wo nnua bɛgu ⟨את⟩ w'ahoboa, na wode wo nan atenidigya gu so, te sɛ ahahamoo turo.", "tokens": [{"surface": "כי", "gloss": "Ɛfiri sɛ"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתה", "gloss": "wo"}, {"surface": "בא", "gloss": "woredi hɔ kɔ"}, {"surface": "שמה", "gloss": "hɔ"}, {"surface": "לרשתה", "gloss": "sɛ wo bɛdi so"}, {"surface": "לא", "gloss": "ɛnyɛ"}, {"surface": "כארץ", "gloss": "te sɛ … asase"}, {"surface": "מצרים", "gloss": "Misraim"}, {"surface": "הוא", "gloss": "no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יצאתם", "gloss": "mo firii"}, {"surface": "משם", "gloss": "hɔ"}, {"surface": "אשר", "gloss": "baabi a"}, {"surface": "תזרע", "gloss": "wode wo nnua bɛgu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'ahoboa"}, {"surface": "זרעך", "gloss": "w'ahoboa"}, {"surface": "והשקית", "gloss": "na wo… gu so"}, {"surface": "ברגלך", "gloss": "wo nan"}, {"surface": "כגן", "gloss": "te sɛ turo"}, {"surface": "הירק", "gloss": "ahahamoo"}], "timestamp": "2026-09-15T21:48:29.757913443Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 11:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɛfiri sɛ asase a woredi hɔ kɔ sɛ wo bɛdi so no, ɛnyɛ te sɛ Misraim asase, a mo firii hɔ no, baabi a wode wo nnua bɛgu ⟨את⟩ w'ahoboa, na wode wo nan atenidigya gu so, te sɛ ahahamoo turo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛfiri sɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "woredi hɔ kɔ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "sɛ wo bɛdi so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɛnyɛ"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "te sɛ … asase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "mo firii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baabi a"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "wode wo nnua bɛgu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'ahoboa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "w'ahoboa"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "na wo… gu so"
+    },
+    {
+      "surface": "ברגלך",
+      "gloss": "wo nan"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "te sɛ turo"
+    },
+    {
+      "surface": "הירק",
+      "gloss": "ahahamoo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:48:29.757913443Z",
+  "model": "glm-5.3"
+}

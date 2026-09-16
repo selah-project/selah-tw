@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":32,"ref":"judges 6:32","book":"judges","lang":"tw","chapter":6,"translation":"Na wɔtoo no din Yerubbaal wɔ saa da no mu, sɛ, Baal mma ne ho asɛm, ɛfiri sɛ wantubu ⟨את⟩ n'afɔreɛ pon no.","tokens":[{"surface":"ויקרא","gloss":"Na wɔtoo no din"},{"surface":"לו","gloss":"no"},{"surface":"ביום","gloss":"wɔ … da no mu"},{"surface":"ההוא","gloss":"saa"},{"surface":"ירבעל","gloss":"Yerubbaal"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"ירב","gloss":"mma ne ho asɛm"},{"surface":"בו","gloss":"ne"},{"surface":"הבעל","gloss":"Baal"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"נתץ","gloss":"wantubu"},{"surface":"את","gloss":"⟨את⟩","marks":"nʼafɔreɛ pon"},{"surface":"מזבחו","gloss":"n'afɔreɛ pon"}],"timestamp":"2026-09-15T22:38:51.300266541Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na wɔtoo no din Yerubbaal wɔ saa da no mu, sɛ, Baal mma ne ho asɛm, ɛfiri sɛ wantubu ⟨את⟩ n'afɔreɛ pon no.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na wɔtoo no din"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ … da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "mma ne ho asɛm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "wantubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nʼafɔreɛ pon"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "n'afɔreɛ pon"
+    }
+  ],
+  "timestamp": "2026-09-15T22:38:51.300266541Z",
+  "model": "glm-5.3"
+}

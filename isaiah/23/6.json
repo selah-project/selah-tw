@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":6,"ref":"isaiah 23:6","book":"isaiah","lang":"tw","chapter":23,"translation":"Monomɔ ho kɔ Tarshish; mo a mote ase wɔ mpoano, monsu dɛdɛeɛ.","tokens":[{"surface":"עברו","gloss":"monomɔ ho kɔ"},{"surface":"תרשישה","gloss":"Tarshish"},{"surface":"הילילו","gloss":"monsu dɛdɛeɛ"},{"surface":"ישבי","gloss":"mo a mote ase"},{"surface":"אי","gloss":"mpoano"}],"timestamp":"2026-09-15T23:47:48.600582238Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Monomɔ ho kɔ Tarshish; mo a mote ase wɔ mpoano, monsu dɛdɛeɛ.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "monomɔ ho kɔ"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "monsu dɛdɛeɛ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mo a mote ase"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mpoano"
+    }
+  ],
+  "timestamp": "2026-09-15T23:47:48.600582238Z",
+  "model": "glm-5.3"
+}

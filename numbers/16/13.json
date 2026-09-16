@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":13,"ref":"numbers 16:13","book":"numbers","lang":"tw","chapter":16,"translation":"Soa ketewa bi na wo de yɛn baa soro firi asase a ɛto nufusuo ne nwini mu, na wo de yɛn bɛkum wɔ asase akyi mu? Sɛ wo bɛyɛ ɔhene nso so wɔ yɛn so?","tokens":[{"surface":"המעט","gloss":"soa ketewa"},{"surface":"כי","gloss":"sɛ"},{"surface":"העליתנו","gloss":"wo de yɛn baa soro"},{"surface":"מארץ","gloss":"firi asase"},{"surface":"זבת","gloss":"a ɛto"},{"surface":"חלב","gloss":"nufusuo"},{"surface":"ודבש","gloss":"ne nwini"},{"surface":"להמיתנו","gloss":"de yɛn bɛkum"},{"surface":"במדבר","gloss":"wɔ asase akyi mu"},{"surface":"כי","gloss":"sɛ"},{"surface":"תשתרר","gloss":"bɛyɛ ɔhene"},{"surface":"עלינו","gloss":"wɔ yɛn so"},{"surface":"גם","gloss":"nso"},{"surface":"השתרר","gloss":"ayɛ ɔhene"}],"timestamp":"2026-09-15T21:34:52.852996756Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 16:13",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Soa ketewa bi na wo de yɛn baa soro firi asase a ɛto nufusuo ne nwini mu, na wo de yɛn bɛkum wɔ asase akyi mu? Sɛ wo bɛyɛ ɔhene nso so wɔ yɛn so?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "soa ketewa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "wo de yɛn baa soro"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "firi asase"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "a ɛto"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nufusuo"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ne nwini"
+    },
+    {
+      "surface": "להמיתנו",
+      "gloss": "de yɛn bɛkum"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "wɔ asase akyi mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "תשתרר",
+      "gloss": "bɛyɛ ɔhene"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "wɔ yɛn so"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "השתרר",
+      "gloss": "ayɛ ɔhene"
+    }
+  ],
+  "timestamp": "2026-09-15T21:34:52.852996756Z",
+  "model": "glm-5.3"
+}

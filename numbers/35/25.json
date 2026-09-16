@@ -1,1 +1,122 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "numbers 35:25", "book": "numbers", "lang": "tw", "chapter": 35, "translation": "Na ⟨אֵדָה⟩ ⟨את⟩ no bɛgya ⟨את⟩ ɔkumfoɔ ⟨את⟩ no firi mogya-fonyo no nsa mu, na ⟨אֵדָה⟩ no bɛsiesie no akɔ n'ahobammɔ kuro no mu, baako a ɔdwan kɔɔ hɔ; na ɔbɛtena hɔ kɔsii ɔsɔfoɔ kɛseɛ no wuo, ɔno a wɔsɔ no hyɛɛ no ngo kronkron no mu.", "tokens": [{"surface": "והצילו", "gloss": "bɛgya"}, {"surface": "העדה", "gloss": "⟨אֵדָה⟩ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɔkumfoɔ no"}, {"surface": "הרצח", "gloss": "ɔkumfoɔ no"}, {"surface": "מיד", "gloss": "firi ... nsa mu"}, {"surface": "גאל", "gloss": "fonyo"}, {"surface": "הדם", "gloss": "mogya"}, {"surface": "והשיבו", "gloss": "bɛsiesie ... akɔ"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "העדה", "gloss": "⟨אֵדָה⟩ no"}, {"surface": "אל", "gloss": "akɔ"}, {"surface": "עיר", "gloss": "kuro"}, {"surface": "מקלטו", "gloss": "n'ahobammɔ"}, {"surface": "אשר", "gloss": "baako a"}, {"surface": "נס", "gloss": "ɔdwan kɔɔ"}, {"surface": "שמה", "gloss": "hɔ"}, {"surface": "וישב", "gloss": "na ɔbɛtena"}, {"surface": "בה", "gloss": "hɔ"}, {"surface": "עד", "gloss": "kɔsii"}, {"surface": "מות", "gloss": "wuo"}, {"surface": "הכהן", "gloss": "ɔsɔfoɔ"}, {"surface": "הגדל", "gloss": "kɛseɛ no"}, {"surface": "אשר", "gloss": "ɔno a"}, {"surface": "משח", "gloss": "wɔsɔ no hyɛɛ"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "בשמן", "gloss": "ngo ... mu"}, {"surface": "הקדש", "gloss": "kronkron no"}], "timestamp": "2026-09-15T21:44:32.216121827Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 35:25",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Na ⟨אֵדָה⟩ ⟨את⟩ no bɛgya ⟨את⟩ ɔkumfoɔ ⟨את⟩ no firi mogya-fonyo no nsa mu, na ⟨אֵדָה⟩ no bɛsiesie no akɔ n'ahobammɔ kuro no mu, baako a ɔdwan kɔɔ hɔ; na ɔbɛtena hɔ kɔsii ɔsɔfoɔ kɛseɛ no wuo, ɔno a wɔsɔ no hyɛɛ no ngo kronkron no mu.",
+  "tokens": [
+    {
+      "surface": "והצילו",
+      "gloss": "bɛgya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨אֵדָה⟩ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔkumfoɔ no"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ɔkumfoɔ no"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi ... nsa mu"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "fonyo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "bɛsiesie ... akɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨אֵדָה⟩ no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "n'ahobammɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baako a"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ɔdwan kɔɔ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ɔbɛtena"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wuo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kɛseɛ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɔno a"
+    },
+    {
+      "surface": "משח",
+      "gloss": "wɔsɔ no hyɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo ... mu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:44:32.216121827Z",
+  "model": "glm-5.3"
+}

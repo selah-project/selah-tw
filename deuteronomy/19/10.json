@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":10,"ref":"deuteronomy 19:10","book":"deuteronomy","lang":"tw","chapter":19,"translation":"na wɔnsɛe mogya kronkron wɔ wo asase mu, a Yawe wo Eloohim de ma wo sɛ agyapadeɛ — na sɛe a, mogya bɛda wo so.","tokens":[{"surface":"ולא","gloss":"na wɔn-"},{"surface":"ישפך","gloss":"sɛe"},{"surface":"דם","gloss":"mogya"},{"surface":"נקי","gloss":"kronkron"},{"surface":"בקרב","gloss":"wɔ ... mu"},{"surface":"ארצך","gloss":"wo asase"},{"surface":"אשר","gloss":"a"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אלהיך","gloss":"wo Eloohim"},{"surface":"נתן","gloss":"de ma"},{"surface":"לך","gloss":"wo"},{"surface":"נחלה","gloss":"sɛ agyapadeɛ"},{"surface":"והיה","gloss":"na sɛe a"},{"surface":"עליך","gloss":"wo so"},{"surface":"דמים","gloss":"mogya"}],"timestamp":"2026-09-15T21:53:09.236914660Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "na wɔnsɛe mogya kronkron wɔ wo asase mu, a Yawe wo Eloohim de ma wo sɛ agyapadeɛ — na sɛe a, mogya bɛda wo so.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na wɔn-"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "sɛe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wɔ ... mu"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "wo asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de ma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sɛ agyapadeɛ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na sɛe a"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wo so"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mogya"
+    }
+  ],
+  "timestamp": "2026-09-15T21:53:09.236914660Z",
+  "model": "glm-5.3"
+}

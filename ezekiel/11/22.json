@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "ezekiel 11:22", "book": "ezekiel", "lang": "tw", "chapter": 11, "translation": "Na akerubfoɔ no twaa ⟨את⟩ wɔn ntaban, ne mmirikatufoɔ no wɔ wɔn nkyɛn; na Yisrael Eloohim animuonyam guu wɔn so wɔ soro.", "tokens": [{"surface": "וישאו", "gloss": "twaa (wɔn ntaban)"}, {"surface": "הכרובים", "gloss": "akerubfoɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn ntaban"}, {"surface": "כנפיהם", "gloss": "wɔn ntaban"}, {"surface": "והאופנים", "gloss": "ne mmirikatufoɔ no"}, {"surface": "לעמתם", "gloss": "wɔ wɔn nkyɛn"}, {"surface": "וכבוד", "gloss": "animuonyam"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "עליהם", "gloss": "wɔn so"}, {"surface": "מלמעלה", "gloss": "wɔ soro"}], "timestamp": "2026-09-16T00:36:23.470693205Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 11:22",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na akerubfoɔ no twaa ⟨את⟩ wɔn ntaban, ne mmirikatufoɔ no wɔ wɔn nkyɛn; na Yisrael Eloohim animuonyam guu wɔn so wɔ soro.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "twaa (wɔn ntaban)"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "akerubfoɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ntaban"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "wɔn ntaban"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "ne mmirikatufoɔ no"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "wɔ wɔn nkyɛn"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "animuonyam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "wɔ soro"
+    }
+  ],
+  "timestamp": "2026-09-16T00:36:23.470693205Z",
+  "model": "glm-5.3"
+}

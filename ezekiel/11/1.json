@@ -1,1 +1,137 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "ezekiel 11:1", "book": "ezekiel", "lang": "tw", "chapter": 11, "translation": "Na ⟨את⟩ honhuryɛ no sɔɔ ⟨את⟩ me na ɛde me baa Yawe fi no abɔsoɔ a ɛdi kan no, a ɛhwɛ apueɛ fam; na hwɛ, wɔ abɔsoɔ no ano wɔ mmarima aduonu enum; na mehunuu wɔn mu ⟨את⟩ Yaazania, Azur ba, ne ⟨את⟩ Pelatia, Benaya ba, na wɔyɛ nnipa no mu akandifoɔ.", "tokens": [{"surface": "ותשא", "gloss": "sɔɔ"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me"}, {"surface": "רוח", "gloss": "honhuryɛ"}, {"surface": "ותבא", "gloss": "ɛde me baa"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me"}, {"surface": "אל", "gloss": "baa"}, {"surface": "שער", "gloss": "abɔsoɔ"}, {"surface": "בית", "gloss": "fi"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "הקדמוני", "gloss": "a ɛdi kan"}, {"surface": "הפונה", "gloss": "a ɛhwɛ"}, {"surface": "קדימה", "gloss": "apueɛ fam"}, {"surface": "והנה", "gloss": "na hwɛ"}, {"surface": "בפתח", "gloss": "wɔ ano"}, {"surface": "השער", "gloss": "abɔsoɔ no"}, {"surface": "עשרים", "gloss": "aduonu"}, {"surface": "וחמשה", "gloss": "enum"}, {"surface": "איש", "gloss": "mmarima"}, {"surface": "ואראה", "gloss": "mehunuu"}, {"surface": "בתוכם", "gloss": "wɔn mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaazania"}, {"surface": "יאזניה", "gloss": "Yaazania"}, {"surface": "בן", "gloss": "ba"}, {"surface": "עזר", "gloss": "Azur"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "Pelatia"}, {"surface": "פלטיהו", "gloss": "Pelatia"}, {"surface": "בן", "gloss": "ba"}, {"surface": "בניהו", "gloss": "Benaya"}, {"surface": "שרי", "gloss": "akandifoɔ"}, {"surface": "העם", "gloss": "nnipa no mu"}], "timestamp": "2026-09-16T00:37:59.271728421Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 11:1",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ honhuryɛ no sɔɔ ⟨את⟩ me na ɛde me baa Yawe fi no abɔsoɔ a ɛdi kan no, a ɛhwɛ apueɛ fam; na hwɛ, wɔ abɔsoɔ no ano wɔ mmarima aduonu enum; na mehunuu wɔn mu ⟨את⟩ Yaazania, Azur ba, ne ⟨את⟩ Pelatia, Benaya ba, na wɔyɛ nnipa no mu akandifoɔ.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "sɔɔ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "honhuryɛ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ɛde me baa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "abɔsoɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הקדמוני",
+      "gloss": "a ɛdi kan"
+    },
+    {
+      "surface": "הפונה",
+      "gloss": "a ɛhwɛ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "apueɛ fam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na hwɛ"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "wɔ ano"
+    },
+    {
+      "surface": "השער",
+      "gloss": "abɔsoɔ no"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "enum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmarima"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mehunuu"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "wɔn mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazania"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazania"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Azur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Pelatia"
+    },
+    {
+      "surface": "פלטיהו",
+      "gloss": "Pelatia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benaya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akandifoɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:37:59.271728421Z",
+  "model": "glm-5.3"
+}

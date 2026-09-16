@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 3:10","book":"1-samuel","lang":"tw","chapter":3,"translation":"Yawe baa, ɔgyinaa hɔ, na ɔfrɛe sɛde ɔfrɛe daa no mu: Samuel, Samuel. Samuel kaa se: kasa, efisɛ w'akoa retie.","tokens":[{"surface":"ויבא","gloss":"baa"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"ויתיצב","gloss":"ɔgyinaa hɔ"},{"surface":"ויקרא","gloss":"ɔfrɛe"},{"surface":"כפעם","gloss":"sɛde ɔfrɛe"},{"surface":"בפעם","gloss":"daa no mu"},{"surface":"שמואל","gloss":"Samuel"},{"surface":"שמואל","gloss":"Samuel"},{"surface":"ויאמר","gloss":"kaa"},{"surface":"שמואל","gloss":"Samuel"},{"surface":"דבר","gloss":"kasa"},{"surface":"כי","gloss":"efisɛ"},{"surface":"שמע","gloss":"retie"},{"surface":"עבדך","gloss":"w'akoa"}],"timestamp":"2026-09-15T22:46:42.109892491Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Yawe baa, ɔgyinaa hɔ, na ɔfrɛe sɛde ɔfrɛe daa no mu: Samuel, Samuel. Samuel kaa se: kasa, efisɛ w'akoa retie.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ɔgyinaa hɔ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ɔfrɛe"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "sɛde ɔfrɛe"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "daa no mu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "retie"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "w'akoa"
+    }
+  ],
+  "timestamp": "2026-09-15T22:46:42.109892491Z",
+  "model": "glm-5.3"
+}

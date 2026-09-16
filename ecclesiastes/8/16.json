@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "ecclesiastes 8:16", "book": "ecclesiastes", "lang": "tw", "chapter": 8, "translation": "Bere a mede ⟨את⟩ me akoma maa sɛ mebɛsua nyansa, na mahwɛ ⟨את⟩ adwuma no a wɔyɛ wɔ asase so — ɛfiri sɛ wo nso, wɔ awia ne anadwo mu no, nna wɔ n'ani mu, ɔnhunu da —", "tokens": [{"surface": "כאשר", "gloss": "bere a"}, {"surface": "נתתי", "gloss": "mede ... maa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me akoma"}, {"surface": "לבי", "gloss": "me akoma"}, {"surface": "לדעת", "gloss": "sɛ mebɛsua"}, {"surface": "חכמה", "gloss": "nyansa"}, {"surface": "ולראות", "gloss": "na mahwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "adwuma no"}, {"surface": "הענין", "gloss": "adwuma no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "נעשה", "gloss": "wɔyɛ"}, {"surface": "על", "gloss": "so"}, {"surface": "הארץ", "gloss": "asase"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "גם", "gloss": "nso"}, {"surface": "ביום", "gloss": "wɔ awia mu"}, {"surface": "ובלילה", "gloss": "ne anadwo mu"}, {"surface": "שנה", "gloss": "nna"}, {"surface": "בעיניו", "gloss": "wɔ n'ani mu"}, {"surface": "איננו", "gloss": "ɔnhunu"}, {"surface": "ראה", "gloss": "da"}], "timestamp": "2026-09-16T04:00:08.258320757Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Bere a mede ⟨את⟩ me akoma maa sɛ mebɛsua nyansa, na mahwɛ ⟨את⟩ adwuma no a wɔyɛ wɔ asase so — ɛfiri sɛ wo nso, wɔ awia ne anadwo mu no, nna wɔ n'ani mu, ɔnhunu da —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bere a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mede ... maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me akoma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "me akoma"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sɛ mebɛsua"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nyansa"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "na mahwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adwuma no"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "adwuma no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ awia mu"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ne anadwo mu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wɔ n'ani mu"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ɔnhunu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-16T04:00:08.258320757Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":31,"ref":"1-kings 8:31","book":"1-kings","lang":"tw","chapter":8,"translation":"⟨את⟩ Sɛ onipa yɛ bɔne ɔne yɔnko, na wode apam hyɛ no so ma odi apam, na ɔde apam no ba wo bofoo anim wɔ fie yi—","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"deɛ onipa bɛyɛ (bɔne ne apam asɛm no)"},{"surface":"אשר","gloss":"sɛ"},{"surface":"יחטא","gloss":"yɛ bɔne"},{"surface":"איש","gloss":"onipa"},{"surface":"לרעהו","gloss":"ɔne yɔnko"},{"surface":"ונשא","gloss":"na wode"},{"surface":"בו","gloss":"no so"},{"surface":"אלה","gloss":"apam"},{"surface":"להאלתו","gloss":"hyɛ no ma odi apam"},{"surface":"ובא","gloss":"na ɔde ... ba"},{"surface":"אלה","gloss":"apam no"},{"surface":"לפני","gloss":"anim"},{"surface":"מזבחך","gloss":"wo bofoo"},{"surface":"בבית","gloss":"wɔ fie"},{"surface":"הזה","gloss":"yi"}],"timestamp":"2026-09-15T23:17:06.295113512Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "⟨את⟩ Sɛ onipa yɛ bɔne ɔne yɔnko, na wode apam hyɛ no so ma odi apam, na ɔde apam no ba wo bofoo anim wɔ fie yi—",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ onipa bɛyɛ (bɔne ne apam asɛm no)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "yɛ bɔne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ɔne yɔnko"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "na wode"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "apam"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "hyɛ no ma odi apam"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na ɔde ... ba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "apam no"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "wo bofoo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    }
+  ],
+  "timestamp": "2026-09-15T23:17:06.295113512Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":13,"ref":"nehemiah 9:13","book":"nehemiah","lang":"tw","chapter":9,"translation":"Na wo sii aseɛ baa Hɔ Sinai so, na wode w'ano kasa kyerɛɛ wɔn firi ɔsoro mu, na wo maa wɔn atemmuo atifi ne mmara a ɛyɛ nokorɛ, mmara ne nhyehyɛe a ɛyɛ papa.","tokens":[{"surface":"ועל","gloss":"na wɔ"},{"surface":"הר","gloss":"Hɔ"},{"surface":"סיני","gloss":"Sinai"},{"surface":"ירדת","gloss":"sii aseɛ baa"},{"surface":"ודבר","gloss":"na wode w'ano kasa kyerɛɛ"},{"surface":"עמהם","gloss":"wɔn"},{"surface":"משמים","gloss":"firi ɔsoro mu"},{"surface":"ותתן","gloss":"na wo maa"},{"surface":"להם","gloss":"wɔn"},{"surface":"משפטים","gloss":"atemmauo"},{"surface":"ישרים","gloss":"atifi"},{"surface":"ותורות","gloss":"ne mmara"},{"surface":"אמת","gloss":"a ɛyɛ nokorɛ"},{"surface":"חקים","gloss":"mmara"},{"surface":"ומצות","gloss":"ne nhyehyɛe"},{"surface":"טובים","gloss":"a ɛyɛ papa"}],"timestamp":"2026-09-16T04:30:56.623514070Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 9:13",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wo sii aseɛ baa Hɔ Sinai so, na wode w'ano kasa kyerɛɛ wɔn firi ɔsoro mu, na wo maa wɔn atemmuo atifi ne mmara a ɛyɛ nokorɛ, mmara ne nhyehyɛe a ɛyɛ papa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hɔ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "sii aseɛ baa"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na wode w'ano kasa kyerɛɛ"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "firi ɔsoro mu"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "na wo maa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "atemmauo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "atifi"
+    },
+    {
+      "surface": "ותורות",
+      "gloss": "ne mmara"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "a ɛyɛ nokorɛ"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "mmara"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ne nhyehyɛe"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "a ɛyɛ papa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:30:56.623514070Z",
+  "model": "glm-5.3"
+}

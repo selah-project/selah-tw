@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "1-chronicles 11:23", "book": "1-chronicles", "lang": "tw", "chapter": 11, "translation": "Ɔno nso kum ⟨את⟩ onipa no, Misraim ni no — ⟨את⟩ onipa a ne tenten yɛɛ ɔbɛn anum; na wɔ Misraim ni no nsa mu no, sɔdea te sɛ ntoma-nini mfidie nsɛn. Ɔsii hɔ baa ne nkyɛn de pɛnkɔn, ɔde asɛm dua sɔdea no firi Misraim ni no nsa mu, na ɔde ne sɔdea no kum no.", "tokens": [{"surface": "והוא", "gloss": "ɔno nso"}, {"surface": "הכה", "gloss": "kum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "onipa no, Misraim ni no"}, {"surface": "האיש", "gloss": "onipa no"}, {"surface": "המצרי", "gloss": "Misraim ni"}, {"surface": "איש", "gloss": "onipa"}, {"surface": "מדה", "gloss": "ne tenten"}, {"surface": "חמש", "gloss": "anum"}, {"surface": "באמה", "gloss": "ɔbɛn"}, {"surface": "וביד", "gloss": "wɔ ... nsa mu"}, {"surface": "המצרי", "gloss": "Misraim ni"}, {"surface": "חנית", "gloss": "sɔdea"}, {"surface": "כמנור", "gloss": "te sɛ ... mfidie nsɛn"}, {"surface": "ארגים", "gloss": "ntoma-nini"}, {"surface": "וירד", "gloss": "ɔsii hɔ baa"}, {"surface": "אליו", "gloss": "ne nkyɛn"}, {"surface": "בשבט", "gloss": "de pɛnkɔn"}, {"surface": "ויגזל", "gloss": "ɔde asɛm dua"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sɔdea no"}, {"surface": "החנית", "gloss": "sɔdea no"}, {"surface": "מיד", "gloss": "firi ... nsa mu"}, {"surface": "המצרי", "gloss": "Misraim ni"}, {"surface": "ויהרגהו", "gloss": "kum no"}, {"surface": "בחניתו", "gloss": "ne sɔdea no"}], "timestamp": "2026-09-16T04:42:16.646752930Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 11:23",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Ɔno nso kum ⟨את⟩ onipa no, Misraim ni no — ⟨את⟩ onipa a ne tenten yɛɛ ɔbɛn anum; na wɔ Misraim ni no nsa mu no, sɔdea te sɛ ntoma-nini mfidie nsɛn. Ɔsii hɔ baa ne nkyɛn de pɛnkɔn, ɔde asɛm dua sɔdea no firi Misraim ni no nsa mu, na ɔde ne sɔdea no kum no.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ɔno nso"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onipa no, Misraim ni no"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onipa no"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misraim ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "anum"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ɔbɛn"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "wɔ ... nsa mu"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misraim ni"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sɔdea"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "te sɛ ... mfidie nsɛn"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ntoma-nini"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ɔsii hɔ baa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ne nkyɛn"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "de pɛnkɔn"
+    },
+    {
+      "surface": "ויגזל",
+      "gloss": "ɔde asɛm dua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sɔdea no"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "sɔdea no"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi ... nsa mu"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misraim ni"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "kum no"
+    },
+    {
+      "surface": "בחניתו",
+      "gloss": "ne sɔdea no"
+    }
+  ],
+  "timestamp": "2026-09-16T04:42:16.646752930Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "ezekiel 22:19", "book": "ezekiel", "lang": "tw", "chapter": 22, "translation": "Enti Adonai Yawe ka se: ɛfiri sɛ ⟨את⟩ mo nyinaa ayɛ sigim, enti mehyɛ mo bɔ sɛ mɛboaboa mo ano akɔ Yerusalem mfimfini;", "tokens": [{"surface": "לכן", "gloss": "enti"}, {"surface": "כה", "gloss": "sɛnea"}, {"surface": "אמר", "gloss": "ka se"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "יען", "gloss": "ɛfiri sɛ"}, {"surface": "היות", "gloss": "ayɛ"}, {"surface": "כלכם", "gloss": "mo nyinaa"}, {"surface": "לסגים", "gloss": "sigim"}, {"surface": "לכן", "gloss": "enti"}, {"surface": "הנני", "gloss": "mehyɛ bɔ sɛ me"}, {"surface": "קבץ", "gloss": "boaboa ano"}, {"surface": "אתכם", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "אל", "gloss": "akɔ"}, {"surface": "תוך", "gloss": "mfimfini"}, {"surface": "ירושלם", "gloss": "Yerusalem"}], "timestamp": "2026-09-16T00:45:25.290471180Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 22:19",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Enti Adonai Yawe ka se: ɛfiri sɛ ⟨את⟩ mo nyinaa ayɛ sigim, enti mehyɛ mo bɔ sɛ mɛboaboa mo ano akɔ Yerusalem mfimfini;",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ayɛ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "mo nyinaa"
+    },
+    {
+      "surface": "לסגים",
+      "gloss": "sigim"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "enti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mehyɛ bɔ sɛ me"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "boaboa ano"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akɔ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mfimfini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-16T00:45:25.290471180Z",
+  "model": "glm-5.3"
+}

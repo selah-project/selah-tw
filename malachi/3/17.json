@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":17,"ref":"malachi 3:17","book":"malachi","lang":"tw","chapter":3,"translation":"Na wɔbɛyɛ me dea, Yawe Tsafoɔ ka, ɛda a mɛyɛ me n'agyapadeɛ ⟨segulah — wɔn a wɔwɔ me dodo⟩ no, na mɛhunu mmɔborɔ wɔ wɔn so, sɛ ɔbarima a ɔhunu mmɔborɔ ma ne ba a ɔsom ⟨אתו⟩ no.","tokens":[{"surface":"והיו","gloss":"na wɔbɛyɛ"},{"surface":"לי","gloss":"me dea"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"ליום","gloss":"ɛda"},{"surface":"אשר","gloss":"no"},{"surface":"אני","gloss":"me"},{"surface":"עשה","gloss":"mɛyɛ"},{"surface":"סגלה","gloss":"agyapadeɛ (segulah)"},{"surface":"וחמלתי","gloss":"na mɛhunu mmɔborɔ"},{"surface":"עליהם","gloss":"wɔ wɔn so"},{"surface":"כאשר","gloss":"sɛ"},{"surface":"יחמל","gloss":"ɔhunu mmɔborɔ"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"על","gloss":"ma"},{"surface":"בנו","gloss":"ne ba"},{"surface":"העבד","gloss":"a ɔsom"},{"surface":"אתו","gloss":"⟨את⟩","marks":"no (ne ba a ɔsom no)"}],"timestamp":"2026-09-16T01:34:11.143698035Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "malachi 3:17",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔbɛyɛ me dea, Yawe Tsafoɔ ka, ɛda a mɛyɛ me n'agyapadeɛ ⟨segulah — wɔn a wɔwɔ me dodo⟩ no, na mɛhunu mmɔborɔ wɔ wɔn so, sɛ ɔbarima a ɔhunu mmɔborɔ ma ne ba a ɔsom ⟨אתו⟩ no.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "na wɔbɛyɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me dea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ɛda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mɛyɛ"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "agyapadeɛ (segulah)"
+    },
+    {
+      "surface": "וחמלתי",
+      "gloss": "na mɛhunu mmɔborɔ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔ wɔn so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "ɔhunu mmɔborɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "a ɔsom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no (ne ba a ɔsom no)"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:11.143698035Z",
+  "model": "glm-5.3"
+}

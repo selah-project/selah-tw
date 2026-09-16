@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "psalms 117:1", "book": "psalms", "lang": "tw", "chapter": 117, "translation": "Munye ⟨את⟩ Yawe anuasa, amanaman nyinaa; munu no mmoa, nnipakuo nyinaa.", "tokens": [{"surface": "הללו", "gloss": "munye ... anuasa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "גוים", "gloss": "amanaman"}, {"surface": "שבחוהו", "gloss": "munu no mmoa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "האמים", "gloss": "nnipakuo"}], "timestamp": "2026-09-16T06:23:50.268255372Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 117,
+  "translation": "Munye ⟨את⟩ Yawe anuasa, amanaman nyinaa; munu no mmoa, nnipakuo nyinaa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "munye ... anuasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amanaman"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "munu no mmoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "nnipakuo"
+    }
+  ],
+  "timestamp": "2026-09-16T06:23:50.268255372Z",
+  "model": "glm-5.3"
+}

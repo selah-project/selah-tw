@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 35, "ref": "numbers 22:35", "book": "numbers", "lang": "tw", "chapter": 22, "translation": "Yawe bɔfoɔ no kaa kyerɛɛ Bilam sɛ: Kɔ wɔ mmarima no ho; nanso ⟨את⟩ asɛm a mɛka kyerɛ wo no, ⟨את⟩ no na wobɛka. Enti Bilam kɔɔ wɔ Balak mpanimfoɔ no ho.", "tokens": [{"surface": "ויאמר", "gloss": "kaa kyerɛɛ"}, {"surface": "מלאך", "gloss": "bɔfoɔ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אל", "gloss": "kyerɛɛ"}, {"surface": "בלעם", "gloss": "Bilam"}, {"surface": "לך", "gloss": "kɔ"}, {"surface": "עם", "gloss": "wɔ ... ho"}, {"surface": "האנשים", "gloss": "mmarima no"}, {"surface": "ואפס", "gloss": "nanso ... nko"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɛm no"}, {"surface": "הדבר", "gloss": "asɛm"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אדבר", "gloss": "mɛka"}, {"surface": "אליך", "gloss": "kyerɛ wo"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "wobɛka"}, {"surface": "תדבר", "gloss": "bɛka"}, {"surface": "וילך", "gloss": "kɔɔ"}, {"surface": "בלעם", "gloss": "Bilam"}, {"surface": "עם", "gloss": "wɔ ... ho"}, {"surface": "שרי", "gloss": "mpanimfoɔ"}, {"surface": "בלק", "gloss": "Balak"}], "timestamp": "2026-09-15T21:37:52.721713194Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 22:35",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Yawe bɔfoɔ no kaa kyerɛɛ Bilam sɛ: Kɔ wɔ mmarima no ho; nanso ⟨את⟩ asɛm a mɛka kyerɛ wo no, ⟨את⟩ no na wobɛka. Enti Bilam kɔɔ wɔ Balak mpanimfoɔ no ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "bɔfoɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛɛ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mmarima no"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "nanso ... nko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm no"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kyerɛ wo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "wobɛka"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ ... ho"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    }
+  ],
+  "timestamp": "2026-09-15T21:37:52.721713194Z",
+  "model": "glm-5.3"
+}

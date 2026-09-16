@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":16,"ref":"song-of-songs 4:16","book":"song-of-songs","lang":"tw","chapter":4,"translation":"Nyan, Atifi, na bra, Anaafoɔ; bɔ me afuo, na ne nnuru dwoodwoo nyera ngu. Me dɔfoɔ nera ne afuo mu, na ɔdi ne nnɔbae dɛ.","tokens":[{"surface":"עורי","gloss":"nyan"},{"surface":"צפון","gloss":"Atifi"},{"surface":"ובואי","gloss":"na bra"},{"surface":"תימן","gloss":"Anaafoɔ"},{"surface":"הפיחי","gloss":"bɔ"},{"surface":"גני","gloss":"me afuo"},{"surface":"יזלו","gloss":"nyera ngu"},{"surface":"בשמיו","gloss":"ne nnuru dwoodwoo"},{"surface":"יבא","gloss":"nera"},{"surface":"דודי","gloss":"me dɔfoɔ"},{"surface":"לגנו","gloss":"ne afuo mu"},{"surface":"ויאכל","gloss":"na ɔdi"},{"surface":"פרי","gloss":"nnɔbae"},{"surface":"מגדיו","gloss":"dɛ"}],"timestamp":"2026-09-16T03:43:39.433672410Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 4:16",
+  "book": "song-of-songs",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Nyan, Atifi, na bra, Anaafoɔ; bɔ me afuo, na ne nnuru dwoodwoo nyera ngu. Me dɔfoɔ nera ne afuo mu, na ɔdi ne nnɔbae dɛ.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "nyan"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "Atifi"
+    },
+    {
+      "surface": "ובואי",
+      "gloss": "na bra"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Anaafoɔ"
+    },
+    {
+      "surface": "הפיחי",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "גני",
+      "gloss": "me afuo"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "nyera ngu"
+    },
+    {
+      "surface": "בשמיו",
+      "gloss": "ne nnuru dwoodwoo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nera"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "me dɔfoɔ"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "ne afuo mu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "na ɔdi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "nnɔbae"
+    },
+    {
+      "surface": "מגדיו",
+      "gloss": "dɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T03:43:39.433672410Z",
+  "model": "glm-5.3"
+}

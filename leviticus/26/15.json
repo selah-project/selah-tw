@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "leviticus 26:15", "book": "leviticus", "lang": "tw", "chapter": 26, "translation": "na sɛ mopopa me mmara, na sɛ mo ho gya ⟨את⟩ m'atemma mu ama mo nkwa, sɛ moannyɛ me mmara ⟨את⟩ nyinaa na moasɛe ⟨את⟩ me ntamgyina", "tokens": [{"surface": "ואם", "gloss": "na sɛ"}, {"surface": "בחקתי", "gloss": "me mmara"}, {"surface": "תמאסו", "gloss": "mopopa"}, {"surface": "ואם", "gloss": "na sɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "m'atemma mu"}, {"surface": "משפטי", "gloss": "m'atemma mu"}, {"surface": "תגעל", "gloss": "ho gya"}, {"surface": "נפשכם", "gloss": "mo nkwa"}, {"surface": "לבלתי", "gloss": "sɛ moann"}, {"surface": "עשות", "gloss": "yɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mmara nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מצותי", "gloss": "me mmara"}, {"surface": "להפרכם", "gloss": "sɛ moasɛe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me ntamgyina"}, {"surface": "בריתי", "gloss": "me ntamgyina"}], "timestamp": "2026-09-15T21:23:10.129069958Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "na sɛ mopopa me mmara, na sɛ mo ho gya ⟨את⟩ m'atemma mu ama mo nkwa, sɛ moannyɛ me mmara ⟨את⟩ nyinaa na moasɛe ⟨את⟩ me ntamgyina",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "me mmara"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "mopopa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'atemma mu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "m'atemma mu"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ho gya"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "mo nkwa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sɛ moann"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmara nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "me mmara"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "sɛ moasɛe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me ntamgyina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me ntamgyina"
+    }
+  ],
+  "timestamp": "2026-09-15T21:23:10.129069958Z",
+  "model": "glm-5.3"
+}

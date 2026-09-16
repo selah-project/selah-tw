@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 73:7","book":"psalms","lang":"tw","chapter":73,"translation":"Wɔn aniwa fri n'ahonya mu a ɛpue; wɔn akoma adwene aka ahyɛ so.","tokens":[{"surface":"יצא","gloss":"pue"},{"surface":"מחלב","gloss":"firi n'ahonya mu"},{"surface":"עינמו","gloss":"wɔn aniwa"},{"surface":"עברו","gloss":"wɔn aka ahyɛ so"},{"surface":"משכיות","gloss":"adwene (mfonini)"},{"surface":"לבב","gloss":"akoma"}],"timestamp":"2026-09-16T02:04:41.053027092Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 73,
+  "translation": "Wɔn aniwa fri n'ahonya mu a ɛpue; wɔn akoma adwene aka ahyɛ so.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "pue"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "firi n'ahonya mu"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "wɔn aniwa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wɔn aka ahyɛ so"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "adwene (mfonini)"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "akoma"
+    }
+  ],
+  "timestamp": "2026-09-16T02:04:41.053027092Z",
+  "model": "glm-5.3"
+}

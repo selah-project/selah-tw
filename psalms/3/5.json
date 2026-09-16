@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":5,"ref":"psalms 3:5","book":"psalms","lang":"tw","chapter":3,"translation":"Me nne kɔ Yawe, mefrɛ no, na ɔbua me firi ⟨ne⟩ kronkron bepɔ so. Selah.","tokens":[{"surface":"קולי","gloss":"me nne"},{"surface":"אל","gloss":"kɔ"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אקרא","gloss":"mefrɛ no"},{"surface":"ויענני","gloss":"na ɔbua me"},{"surface":"מהר","gloss":"firi bepɔ"},{"surface":"קדשו","gloss":"ne kronkron de so"},{"surface":"סלה","gloss":"Selah"}],"timestamp":"2026-09-16T01:34:53.343887195Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Me nne kɔ Yawe, mefrɛ no, na ɔbua me firi ⟨ne⟩ kronkron bepɔ so. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "me nne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mefrɛ no"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "na ɔbua me"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "firi bepɔ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ne kronkron de so"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-16T01:34:53.343887195Z",
+  "model": "glm-5.3"
+}

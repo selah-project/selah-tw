@@ -1,1 +1,85 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "1-samuel 17:9", "book": "1-samuel", "lang": "tw", "chapter": 17, "translation": "Sɛ ɔtumi ne me ko, ⟨את⟩ na ɔbɔ me, yɛbɛyɛ akodafoɔ ma mo; sɛ mesuro no, na mebɔ no, mo nso mobɛyɛ akodafoɔ ma ⟨את⟩ yɛn, na moyɛ yɛn nkoa.\"", "tokens": [{"surface": "אם", "gloss": "Sɛ"}, {"surface": "יוכל", "gloss": "ɔtumi"}, {"surface": "להלחם", "gloss": "ne me ko"}, {"surface": "אתי", "gloss": "⟨את⟩"}, {"surface": "והכני", "gloss": "na ɔbɔ me"}, {"surface": "והיינו", "gloss": "yɛbɛyɛ"}, {"surface": "לכם", "gloss": "ma mo"}, {"surface": "לעבדים", "gloss": "akodafoɔ"}, {"surface": "ואם", "gloss": "sɛ"}, {"surface": "אני", "gloss": "me"}, {"surface": "אוכל", "gloss": "mesuro"}, {"surface": "לו", "gloss": "no"}, {"surface": "והכיתיו", "gloss": "na mebɔ no"}, {"surface": "והייתם", "gloss": "mobɛyɛ"}, {"surface": "לנו", "gloss": "ma yɛn"}, {"surface": "לעבדים", "gloss": "akodafoɔ"}, {"surface": "ועבדתם", "gloss": "na moyɛ"}, {"surface": "אתנו", "gloss": "⟨את⟩ yɛn"}], "timestamp": "2026-09-15T22:53:54.491976677Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Sɛ ɔtumi ne me ko, ⟨את⟩ na ɔbɔ me, yɛbɛyɛ akodafoɔ ma mo; sɛ mesuro no, na mebɔ no, mo nso mobɛyɛ akodafoɔ ma ⟨את⟩ yɛn, na moyɛ yɛn nkoa.\"",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sɛ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ɔtumi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ne me ko"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "na ɔbɔ me"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "yɛbɛyɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ma mo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "akodafoɔ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mesuro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "na mebɔ no"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mobɛyɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ma yɛn"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "akodafoɔ"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "na moyɛ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T22:53:54.491976677Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "amos 9:11", "book": "amos", "lang": "tw", "chapter": 9, "translation": "Saa da no mu no, mɛgyina ⟨את⟩ Dawid ⟨את⟩ apata a ɛatu no so, na mɛbɔ ne mu paeɛ ano; na mɛgyina n'asɛeɛ no so, na mɛbɛsi no sɛnea tete nna no mu deɛ.", "tokens": [{"surface": "ביום", "gloss": "da no mu"}, {"surface": "ההוא", "gloss": "saa"}, {"surface": "אקים", "gloss": "mɛgyina ... so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dawid apata"}, {"surface": "סכת", "gloss": "apata"}, {"surface": "דויד", "gloss": "Dawid"}, {"surface": "הנפלת", "gloss": "a ɛatu"}, {"surface": "וגדרתי", "gloss": "na mɛbɔ ... ano"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne mu paeɛ"}, {"surface": "פרציהן", "gloss": "ne mu paeɛ"}, {"surface": "והרסתיו", "gloss": "n'asɛeɛ"}, {"surface": "אקים", "gloss": "mɛgyina ... so"}, {"surface": "ובניתיה", "gloss": "mɛbɛsi"}, {"surface": "כימי", "gloss": "sɛnea ... nna"}, {"surface": "עולם", "gloss": "tete"}], "timestamp": "2026-09-16T01:15:33.265994468Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Saa da no mu no, mɛgyina ⟨את⟩ Dawid ⟨את⟩ apata a ɛatu no so, na mɛbɔ ne mu paeɛ ano; na mɛgyina n'asɛeɛ no so, na mɛbɛsi no sɛnea tete nna no mu deɛ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "mɛgyina ... so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid apata"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "apata"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "a ɛatu"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "na mɛbɔ ... ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mu paeɛ"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "ne mu paeɛ"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "n'asɛeɛ"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "mɛgyina ... so"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "mɛbɛsi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sɛnea ... nna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tete"
+    }
+  ],
+  "timestamp": "2026-09-16T01:15:33.265994468Z",
+  "model": "glm-5.3"
+}

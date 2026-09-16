@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "numbers 14:15", "book": "numbers", "lang": "tw", "chapter": 14, "translation": "Sɛ wo kum ⟨את⟩ nnipa yi sɛ onipa baako a, aman a wɔate ⟨את⟩ w'asɛm no bɛka sɛ:", "tokens": [{"surface": "והמתה", "gloss": "sɛ wo kum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnipa yi"}, {"surface": "העם", "gloss": "nnipa"}, {"surface": "הזה", "gloss": "yi"}, {"surface": "כאיש", "gloss": "sɛ onipa"}, {"surface": "אחד", "gloss": "baako"}, {"surface": "ואמרו", "gloss": "bɛka"}, {"surface": "הגוים", "gloss": "aman"}, {"surface": "אשר", "gloss": "a"}, {"surface": "שמעו", "gloss": "wɔate"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'asɛm no"}, {"surface": "שמעך", "gloss": "w'asɛm no"}, {"surface": "לאמר", "gloss": "sɛ"}], "timestamp": "2026-09-15T21:31:53.458699084Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Sɛ wo kum ⟨את⟩ nnipa yi sɛ onipa baako a, aman a wɔate ⟨את⟩ w'asɛm no bɛka sɛ:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "sɛ wo kum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa yi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sɛ onipa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wɔate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'asɛm no"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "w'asɛm no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:31:53.458699084Z",
+  "model": "glm-5.3"
+}

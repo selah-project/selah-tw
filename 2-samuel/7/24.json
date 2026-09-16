@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "2-samuel 7:24", "book": "2-samuel", "lang": "tw", "chapter": 7, "translation": "Na wo siw ⟨את⟩ w'amanmu Yisraɛl sɛ ɛnkyerɛ sɛ ɔman a ɛyɛ wo dea kɔsi akyinnye, na wo, Yawe, wɔyɛɛ wɔn Eloohim.", "tokens": [{"surface": "ותכונן", "gloss": "na wo siw"}, {"surface": "לך", "gloss": "sɛ ... wo dea"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'amanmu Yisraɛl"}, {"surface": "עמך", "gloss": "w'amanmu"}, {"surface": "ישראל", "gloss": "Yisraɛl"}, {"surface": "לך", "gloss": "ma wo"}, {"surface": "לעם", "gloss": "sɛ ɔman"}, {"surface": "עד", "gloss": "kɔsi"}, {"surface": "עולם", "gloss": "akyinnye"}, {"surface": "ואתה", "gloss": "na wo"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "היית", "gloss": "wɔyɛɛ"}, {"surface": "להם", "gloss": "wɔn"}, {"surface": "לאלהים", "gloss": "sɛ Eloohim"}], "timestamp": "2026-09-15T23:03:35.287424637Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 7:24",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na wo siw ⟨את⟩ w'amanmu Yisraɛl sɛ ɛnkyerɛ sɛ ɔman a ɛyɛ wo dea kɔsi akyinnye, na wo, Yawe, wɔyɛɛ wɔn Eloohim.",
+  "tokens": [
+    {
+      "surface": "ותכונן",
+      "gloss": "na wo siw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sɛ ... wo dea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'amanmu Yisraɛl"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "w'amanmu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma wo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sɛ ɔman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "akyinnye"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sɛ Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:03:35.287424637Z",
+  "model": "glm-5.3"
+}

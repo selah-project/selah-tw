@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "ezekiel 37:13", "book": "ezekiel", "lang": "tw", "chapter": 37, "translation": "Na mo bɛsua sɛ me ne Yawe, berɛ a mebue ⟨את⟩ mo amusieɛ na mede mo sɔre firi ⟨את⟩ mo amusieɛ mu, me nkorɔfoɔ.", "tokens": [{"surface": "וידעתם", "gloss": "mo bɛsua"}, {"surface": "כי", "gloss": "sɛ"}, {"surface": "אני", "gloss": "me ne"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "בפתחי", "gloss": "berɛ a mebue"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mo amusieɛ"}, {"surface": "קברותיכם", "gloss": "mo amusieɛ"}, {"surface": "ובהעלותי", "gloss": "na mede mo sɔre"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "מקברותיכם", "gloss": "firi mo amusieɛ mu"}, {"surface": "עמי", "gloss": "me nkorɔfoɔ"}], "timestamp": "2026-09-16T00:54:32.971232723Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "Na mo bɛsua sɛ me ne Yawe, berɛ a mebue ⟨את⟩ mo amusieɛ na mede mo sɔre firi ⟨את⟩ mo amusieɛ mu, me nkorɔfoɔ.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "mo bɛsua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "berɛ a mebue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo amusieɛ"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "mo amusieɛ"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "na mede mo sɔre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "firi mo amusieɛ mu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "me nkorɔfoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:54:32.971232723Z",
+  "model": "glm-5.3"
+}

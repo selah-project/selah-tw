@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":35,"ref":"1-kings 11:35","book":"1-kings","lang":"tw","chapter":11,"translation":"Na mɛfa ahemman no firi ne ba nsa mu, na mɛma wo, ⟨את⟩ abusuakuo dumienu.","tokens":[{"surface":"ולקחתי","gloss":"Na mɛfa"},{"surface":"המלוכה","gloss":"ahemman no"},{"surface":"מיד","gloss":"firi...nsa mu"},{"surface":"בנו","gloss":"ne ba"},{"surface":"ונתתיה","gloss":"na mɛma"},{"surface":"לך","gloss":"wo"},{"surface":"את","gloss":"⟨את⟩","marks":"abusuakuo dumienu"},{"surface":"עשרת","gloss":"dumienu"},{"surface":"השבטים","gloss":"abusuakuo"}],"timestamp":"2026-09-15T23:18:07.696185828Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Na mɛfa ahemman no firi ne ba nsa mu, na mɛma wo, ⟨את⟩ abusuakuo dumienu.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Na mɛfa"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ahemman no"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "firi...nsa mu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "na mɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abusuakuo dumienu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dumienu"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "abusuakuo"
+    }
+  ],
+  "timestamp": "2026-09-15T23:18:07.696185828Z",
+  "model": "glm-5.3"
+}

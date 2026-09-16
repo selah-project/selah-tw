@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":4,"ref":"deuteronomy 16:4","book":"deuteronomy","lang":"tw","chapter":16,"translation":"Seɔ nnyɛ ne sɛ ɛdam bi bɛda wo ani so wɔ wo ahyeɛ so nyinaa — nna nson — na de ɛfiri nam no mu a wobɛbɔ afɔre anwummerɛ, da a ɛdi kan no, mu biara nnware kɔsi anɔpa.","tokens":[{"surface":"ולא","gloss":"Seɔ nnyɛ ne sɛ"},{"surface":"יראה","gloss":"bɛda wo ani so"},{"surface":"לך","gloss":"wo"},{"surface":"שאר","gloss":"ɛdam bi"},{"surface":"בכל","gloss":"nyinaa"},{"surface":"גבלך","gloss":"wo ahyeɛ so"},{"surface":"שבעת","gloss":"nna"},{"surface":"ימים","gloss":"nson"},{"surface":"ולא","gloss":"na ... nnware"},{"surface":"ילין","gloss":""},{"surface":"מן","gloss":"de ɛfiri"},{"surface":"הבשר","gloss":"nam no mu"},{"surface":"אשר","gloss":"a"},{"surface":"תזבח","gloss":"wobɛbɔ afɔre"},{"surface":"בערב","gloss":"anwummerɛ"},{"surface":"ביום","gloss":"da"},{"surface":"הראשון","gloss":"a ɛdi kan no mu"},{"surface":"לבקר","gloss":"kɔsi anɔpa"}],"timestamp":"2026-09-15T21:52:18.564437417Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Seɔ nnyɛ ne sɛ ɛdam bi bɛda wo ani so wɔ wo ahyeɛ so nyinaa — nna nson — na de ɛfiri nam no mu a wobɛbɔ afɔre anwummerɛ, da a ɛdi kan no, mu biara nnware kɔsi anɔpa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Seɔ nnyɛ ne sɛ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bɛda wo ani so"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ɛdam bi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "wo ahyeɛ so"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nson"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... nnware"
+    },
+    {
+      "surface": "ילין",
+      "gloss": ""
+    },
+    {
+      "surface": "מן",
+      "gloss": "de ɛfiri"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nam no mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "wobɛbɔ afɔre"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "anwummerɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "da"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "a ɛdi kan no mu"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "kɔsi anɔpa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:52:18.564437417Z",
+  "model": "glm-5.3"
+}

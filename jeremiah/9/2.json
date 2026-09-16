@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "jeremiah 9:2", "book": "jeremiah", "lang": "tw", "chapter": 9, "translation": "Na wɔde ⟨את⟩ wɔn tɛkrɛma hyɛ mu sɛ wɔn otua — atoro; na ɛnyɛ nokorɛdenim na wɔyɛɛ den wɔ asase so. Ɛfiri sɛ wɔfiri bɔne kɔɔ bɔne, na ⟨את⟩ me wɔannim — Yawe asɛm.", "tokens": [{"surface": "וידרכו", "gloss": "na wɔde ... hyɛ mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn tɛkrɛma"}, {"surface": "לשונם", "gloss": "wɔn tɛkrɛma"}, {"surface": "קשתם", "gloss": "wɔn otua"}, {"surface": "שקר", "gloss": "atoro"}, {"surface": "ולא", "gloss": "na ɛnyɛ"}, {"surface": "לאמונה", "gloss": "nokorɛdenim"}, {"surface": "גברו", "gloss": "wɔyɛɛ den"}, {"surface": "בארץ", "gloss": "wɔ asase so"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "מרעה", "gloss": "fi bɔne"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "רעה", "gloss": "bɔne"}, {"surface": "יצאו", "gloss": "wɔfiri"}, {"surface": "ואתי", "gloss": "na ⟨את⟩ me"}, {"surface": "לא", "gloss": "wɔannim"}, {"surface": "ידעו", "gloss": "annim"}, {"surface": "נאם", "gloss": "asɛm"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-16T00:09:43.482788571Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 9,
+  "translation": "Na wɔde ⟨את⟩ wɔn tɛkrɛma hyɛ mu sɛ wɔn otua — atoro; na ɛnyɛ nokorɛdenim na wɔyɛɛ den wɔ asase so. Ɛfiri sɛ wɔfiri bɔne kɔɔ bɔne, na ⟨את⟩ me wɔannim — Yawe asɛm.",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "na wɔde ... hyɛ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn tɛkrɛma"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "wɔn tɛkrɛma"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "wɔn otua"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "atoro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɛnyɛ"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "nokorɛdenim"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "wɔyɛɛ den"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "fi bɔne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wɔfiri"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "na ⟨את⟩ me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔannim"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "annim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T00:09:43.482788571Z",
+  "model": "glm-5.3"
+}

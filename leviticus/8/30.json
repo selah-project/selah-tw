@@ -1,1 +1,141 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "leviticus 8:30", "book": "leviticus", "lang": "tw", "chapter": 8, "translation": "Mosheh faa nhwanwam no mu bi ⟨את⟩ ne mogya a ɛwɔ soronwa no so no mu bi, hwiee guu Aharon so, ⟨את⟩ ne n'atadeɛ so, ne ne mma so, ne ne mma atadeɛ a ɛne wɔn wɔ hɔ no so; na ɔdae ⟨את⟩ Aharon ne ⟨את⟩ n'atadeɛ ne ⟨את⟩ ne mma ne ⟨את⟩ ne mma atadeɛ a ɛne no wɔ hɔ no.", "tokens": [{"surface": "ויקח", "gloss": "faa"}, {"surface": "משה", "gloss": "Mosheh"}, {"surface": "משמן", "gloss": "nhwanwam no mu bi"}, {"surface": "המשחה", "gloss": "nhwanwam no"}, {"surface": "ומן", "gloss": "ne ... mu bi"}, {"surface": "הדם", "gloss": "mogya no"}, {"surface": "אשר", "gloss": "a"}, {"surface": "על", "gloss": "wɔ ... so"}, {"surface": "המזבח", "gloss": "soronwa no"}, {"surface": "ויז", "gloss": "hwiee guu"}, {"surface": "על", "gloss": "so"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "על", "gloss": "so"}, {"surface": "בגדיו", "gloss": "n'atadeɛ"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "ועל", "gloss": "ne ... so"}, {"surface": "בגדי", "gloss": "atadeɛ"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "אתו", "gloss": "⟨את⟩ ne"}, {"surface": "ויקדש", "gloss": "ɔdae"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'atadeɛ"}, {"surface": "בגדיו", "gloss": "n'atadeɛ"}, {"surface": "ואת", "gloss": "⟨את⟩ ne", "marks": "ne mma"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "ואת", "gloss": "⟨את⟩ ne", "marks": "ne mma atadeɛ"}, {"surface": "בגדי", "gloss": "atadeɛ"}, {"surface": "בניו", "gloss": "ne mma"}, {"surface": "אתו", "gloss": "⟨את⟩ ne"}], "timestamp": "2026-09-15T21:12:40.795276480Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Mosheh faa nhwanwam no mu bi ⟨את⟩ ne mogya a ɛwɔ soronwa no so no mu bi, hwiee guu Aharon so, ⟨את⟩ ne n'atadeɛ so, ne ne mma so, ne ne mma atadeɛ a ɛne wɔn wɔ hɔ no so; na ɔdae ⟨את⟩ Aharon ne ⟨את⟩ n'atadeɛ ne ⟨את⟩ ne mma ne ⟨את⟩ ne mma atadeɛ a ɛne no wɔ hɔ no.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "nhwanwam no mu bi"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "nhwanwam no"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne ... mu bi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mogya no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "soronwa no"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "hwiee guu"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "n'atadeɛ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ɔdae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'atadeɛ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "n'atadeɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne mma atadeɛ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "atadeɛ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne"
+    }
+  ],
+  "timestamp": "2026-09-15T21:12:40.795276480Z",
+  "model": "glm-5.3"
+}

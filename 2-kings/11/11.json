@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":11,"ref":"2-kings 11:11","book":"2-kings","lang":"tw","chapter":11,"translation":"Atuatifoɔ no gyinaa, obiara ne ne nnwom wɔ ne nsa mu, efiri fie no kpɔnkɔ a ɛwɔ nifa so de kɔ fie no kpɔnkɔ a ɛwɔ benkum so, wɔ afɔrebɔdan no ho ne fie no ho, twam hene no ho.","tokens":[{"surface":"ויעמדו","gloss":"gyinaa"},{"surface":"הרצים","gloss":"atuatifoɔ no"},{"surface":"איש","gloss":"obiara"},{"surface":"וכליו","gloss":"ne ne nnwom"},{"surface":"בידו","gloss":"wɔ ne nsa mu"},{"surface":"מכתף","gloss":"efiri kpɔnkɔ"},{"surface":"הבית","gloss":"fie no"},{"surface":"הימנית","gloss":"a ɛwɔ nifa so"},{"surface":"עד","gloss":"de kɔ"},{"surface":"כתף","gloss":"kpɔnkɔ"},{"surface":"הבית","gloss":"fie no"},{"surface":"השמאלית","gloss":"a ɛwɔ benkum so"},{"surface":"למזבח","gloss":"wɔ afɔrebɔdan no ho"},{"surface":"ולבית","gloss":"ne fie no ho"},{"surface":"על","gloss":"twam"},{"surface":"המלך","gloss":"hene no"},{"surface":"סביב","gloss":"ho"}],"timestamp":"2026-09-16T06:53:35.900351Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Atuatifoɔ no gyinaa, obiara ne ne nnwom wɔ ne nsa mu, efiri fie no kpɔnkɔ a ɛwɔ nifa so de kɔ fie no kpɔnkɔ a ɛwɔ benkum so, wɔ afɔrebɔdan no ho ne fie no ho, twam hene no ho.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "gyinaa"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "atuatifoɔ no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "ne ne nnwom"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "wɔ ne nsa mu"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "efiri kpɔnkɔ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "a ɛwɔ nifa so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de kɔ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "kpɔnkɔ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "a ɛwɔ benkum so"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "wɔ afɔrebɔdan no ho"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ne fie no ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "twam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hene no"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-09-16T06:53:35.900351Z",
+  "model": "glm-5.3"
+}

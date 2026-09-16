@@ -1,1 +1,84 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 10:2","book":"1-chronicles","lang":"tw","chapter":10,"translation":"Filistifoɔ tee Shaoul ne ne mma akyi, na Filistifoɔ kum ⟨את⟩ Yonatan ne ⟨את⟩ Abinadab ne ⟨את⟩ Malkishua, Shaoul mma.","tokens":[{"surface":"וידבקו","gloss":"tee akyi den"},{"surface":"פלשתים","gloss":"Filistifoɔ"},{"surface":"אחרי","gloss":"akyi"},{"surface":"שאול","gloss":"Shaoul"},{"surface":"ואחרי","gloss":"ne ... akyi"},{"surface":"בניו","gloss":"ne mma"},{"surface":"ויכו","gloss":"kum"},{"surface":"פלשתים","gloss":"Filistifoɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"Yonatan"},{"surface":"יונתן","gloss":"Yonatan"},{"surface":"ואת","gloss":"⟨את⟩","marks":"Abinadab"},{"surface":"אבינדב","gloss":"Abinadab"},{"surface":"ואת","gloss":"⟨את⟩","marks":"Malkishua"},{"surface":"מלכי","gloss":"Malki"},{"surface":"שוע","gloss":"shua"},{"surface":"בני","gloss":"mma"},{"surface":"שאול","gloss":"Shaoul"}],"timestamp":"2026-09-16T04:40:20.244487324Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Filistifoɔ tee Shaoul ne ne mma akyi, na Filistifoɔ kum ⟨את⟩ Yonatan ne ⟨את⟩ Abinadab ne ⟨את⟩ Malkishua, Shaoul mma.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "tee akyi den"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ne ... akyi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kum"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistifoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    }
+  ],
+  "timestamp": "2026-09-16T04:40:20.244487324Z",
+  "model": "glm-5.3"
+}

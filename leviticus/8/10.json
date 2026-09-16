@@ -1,1 +1,73 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "leviticus 8:10", "book": "leviticus", "lang": "tw", "chapter": 8, "translation": "Na Mosɛ faa ⟨את⟩ ngo a wɔde mahyɛ no, na ɔhyiraa ⟨את⟩ asɔredan no ⟨את⟩ ne ⟨את⟩ biribiara a ɛwɔ mu, na ɔterɛ no kronkron.", "tokens": [{"surface": "ויקח", "gloss": "na … faa"}, {"surface": "משה", "gloss": "Mosɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ngo a wɔde mahyɛ no"}, {"surface": "שמן", "gloss": "ngo"}, {"surface": "המשחה", "gloss": "a wɔde mahyɛ"}, {"surface": "וימשח", "gloss": "na ɔhyiraa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asɔredan no"}, {"surface": "המשכן", "gloss": "asɔredan no"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "biribiara a ɛwɔ mu"}, {"surface": "כל", "gloss": "biribiara"}, {"surface": "אשר", "gloss": "a"}, {"surface": "בו", "gloss": "ɛwɔ mu"}, {"surface": "ויקדש", "gloss": "na ɔterɛ no kronkron"}, {"surface": "אתם", "gloss": "⟨את⟩ no", "marks": ""}], "timestamp": "2026-09-15T21:11:58.743288077Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na Mosɛ faa ⟨את⟩ ngo a wɔde mahyɛ no, na ɔhyiraa ⟨את⟩ asɔredan no ⟨את⟩ ne ⟨את⟩ biribiara a ɛwɔ mu, na ɔterɛ no kronkron.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na … faa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngo a wɔde mahyɛ no"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a wɔde mahyɛ"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "na ɔhyiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asɔredan no"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "asɔredan no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "biribiara a ɛwɔ mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ɛwɔ mu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "na ɔterɛ no kronkron"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ no",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-15T21:11:58.743288077Z",
+  "model": "glm-5.3"
+}

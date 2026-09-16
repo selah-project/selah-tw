@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "deuteronomy 28:8", "book": "deuteronomy", "lang": "tw", "chapter": 28, "translation": "Yawe bɛhyehyɛ ⟨את⟩ nhyira ⟨את⟩ wo nkyɛn, wɔ wo abɔsoɔ mu ne biribiara a wode wo nsa yɛ mu; na Ɔbɛhyira wo wɔ asase a Yawe wo Eloohim de bɛma wo no mu.", "tokens": [{"surface": "יצו", "gloss": "bɛhyehyɛ"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתך", "gloss": "⟨את⟩ wo nkyɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nhyira"}, {"surface": "הברכה", "gloss": "nhyira"}, {"surface": "באסמיך", "gloss": "wɔ wo abɔsoɔ mu"}, {"surface": "ובכל", "gloss": "ne biribiara"}, {"surface": "משלח", "gloss": "a wode (wo nsa) yɛ"}, {"surface": "ידך", "gloss": "wo nsa"}, {"surface": "וברכך", "gloss": "na Ɔbɛhyira wo"}, {"surface": "בארץ", "gloss": "wɔ asase"}, {"surface": "אשר", "gloss": "a"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיך", "gloss": "wo Eloohim"}, {"surface": "נתן", "gloss": "de bɛma"}, {"surface": "לך", "gloss": "wo"}], "timestamp": "2026-09-15T21:56:46.623087865Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Yawe bɛhyehyɛ ⟨את⟩ nhyira ⟨את⟩ wo nkyɛn, wɔ wo abɔsoɔ mu ne biribiara a wode wo nsa yɛ mu; na Ɔbɛhyira wo wɔ asase a Yawe wo Eloohim de bɛma wo no mu.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "bɛhyehyɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wo nkyɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhyira"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "nhyira"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "wɔ wo abɔsoɔ mu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne biribiara"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "a wode (wo nsa) yɛ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wo nsa"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "na Ɔbɛhyira wo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wɔ asase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de bɛma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:56:46.623087865Z",
+  "model": "glm-5.3"
+}

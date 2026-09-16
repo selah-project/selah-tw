@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":12,"ref":"deuteronomy 32:12","book":"deuteronomy","lang":"tw","chapter":32,"translation":"Yawe nko ara na ɔkyɛree no; ɔpanyin biara a ɔyɛ aman deity nka ho.","tokens":[{"surface":"יהוה","gloss":"Yawe"},{"surface":"בדד","gloss":"nko ara"},{"surface":"ינחנו","gloss":"ɔkyɛree no"},{"surface":"ואין","gloss":"biara nka ho"},{"surface":"עמו","gloss":"ne ho"},{"surface":"אל","gloss":"deity"},{"surface":"נכר","gloss":"aman (amanideɛ)"}],"timestamp":"2026-09-15T21:59:00.372205485Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Yawe nko ara na ɔkyɛree no; ɔpanyin biara a ɔyɛ aman deity nka ho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "nko ara"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ɔkyɛree no"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "biara nka ho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deity"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "aman (amanideɛ)"
+    }
+  ],
+  "timestamp": "2026-09-15T21:59:00.372205485Z",
+  "model": "glm-5.3"
+}

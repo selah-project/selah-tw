@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":23,"ref":"proverbs 17:23","book":"proverbs","lang":"tw","chapter":17,"translation":"Ɔbɔnefoɔ gye tow fi akyi mu, de sɛe atemmu akwan.","tokens":[{"surface":"שחד","gloss":"tow"},{"surface":"מחיק","gloss":"fi akyi mu"},{"surface":"רשע","gloss":"ɔbɔnefoɔ"},{"surface":"יקח","gloss":"gye"},{"surface":"להטות","gloss":"de sɛe"},{"surface":"ארחות","gloss":"akwan"},{"surface":"משפט","gloss":"atemmu"}],"timestamp":"2026-09-16T02:55:20.548195758Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "tw",
+  "chapter": 17,
+  "translation": "Ɔbɔnefoɔ gye tow fi akyi mu, de sɛe atemmu akwan.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "tow"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "fi akyi mu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ɔbɔnefoɔ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "gye"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "de sɛe"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "akwan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "atemmu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:55:20.548195758Z",
+  "model": "glm-5.3"
+}

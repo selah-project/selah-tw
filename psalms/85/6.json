@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 85:6","book":"psalms","lang":"tw","chapter":85,"translation":"So wobɛbosua yɛn da? Wo boɔ bɛtoa so firi asefoɔ so kɔsi asefoɔ so?","tokens":[{"surface":"הלעולם","gloss":"so ⟨he⟩"},{"surface":"תאנף","gloss":"wobɛbosua"},{"surface":"בנו","gloss":"yɛn"},{"surface":"תמשך","gloss":"bɛtoa so"},{"surface":"אפך","gloss":"wo boɔ"},{"surface":"לדר","gloss":"firi asefoɔ so"},{"surface":"ודר","gloss":"kɔsi asefoɔ so"}],"timestamp":"2026-09-16T02:12:55.077827805Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 85,
+  "translation": "So wobɛbosua yɛn da? Wo boɔ bɛtoa so firi asefoɔ so kɔsi asefoɔ so?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "so ⟨he⟩"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "wobɛbosua"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "yɛn"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "bɛtoa so"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wo boɔ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "firi asefoɔ so"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kɔsi asefoɔ so"
+    }
+  ],
+  "timestamp": "2026-09-16T02:12:55.077827805Z",
+  "model": "glm-5.3"
+}

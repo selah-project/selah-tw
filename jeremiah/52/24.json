@@ -1,1 +1,76 @@
-{"tier":"glm-5.2","verse":24,"ref":"jeremiah 52:24","book":"jeremiah","lang":"tw","chapter":52,"translation":"Rab-tabbachim no faa ⟨את⟩ Serayah, ɔsɔfoɔ no titenani, ne ⟨את⟩ Tsefanyah, ɔsɔfoɔ a ɔtɔ so mmienu, ne ⟨את⟩ nnipa mmiɛnsa a wɔhwɛ ɛhyɛn-gua no.","tokens":[{"surface":"ויקח","gloss":"faa"},{"surface":"רב","gloss":"kandifoɔ"},{"surface":"טבחים","gloss":"tabbachim"},{"surface":"את","gloss":"⟨את⟩","marks":"Serayah"},{"surface":"שריה","gloss":"Serayah"},{"surface":"כהן","gloss":"ɔsɔfoɔ"},{"surface":"הראש","gloss":"titenani"},{"surface":"ואת","gloss":"⟨את⟩","marks":"Tsefanyah"},{"surface":"צפניה","gloss":"Tsefanyah"},{"surface":"כהן","gloss":"ɔsɔfoɔ"},{"surface":"המשנה","gloss":"a ɔtɔ so mmienu"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nnipa mmiɛnsa"},{"surface":"שלשת","gloss":"mmiɛnsa"},{"surface":"שמרי","gloss":"a wɔhwɛ"},{"surface":"הסף","gloss":"ɛhyɛn-gua"}],"timestamp":"2026-09-16T05:32:56.233805096Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 52,
+  "translation": "Rab-tabbachim no faa ⟨את⟩ Serayah, ɔsɔfoɔ no titenani, ne ⟨את⟩ Tsefanyah, ɔsɔfoɔ a ɔtɔ so mmienu, ne ⟨את⟩ nnipa mmiɛnsa a wɔhwɛ ɛhyɛn-gua no.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kandifoɔ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabbachim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "titenani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ɔsɔfoɔ"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "a ɔtɔ so mmienu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa mmiɛnsa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "a wɔhwɛ"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ɛhyɛn-gua"
+    }
+  ],
+  "timestamp": "2026-09-16T05:32:56.233805096Z",
+  "model": "glm-5.3"
+}

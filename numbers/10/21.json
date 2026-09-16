@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":21,"ref":"numbers 10:21","book":"numbers","lang":"tw","chapter":10,"translation":"Na Kehatfoɔ no nso tuu kwan, wɔn a wɔsoa asɔredan kronkron no; na wɔsii ⟨את⟩ francwa no ansa na wɔduo.","tokens":[{"surface":"ונסעו","gloss":"tuu kwan"},{"surface":"הקהתים","gloss":"Kehatfoɔ no"},{"surface":"נשאי","gloss":"wɔn a wɔsoa"},{"surface":"המקדש","gloss":"asɔredan kronkron no"},{"surface":"והקימו","gloss":"na wɔsii"},{"surface":"את","gloss":"⟨את⟩","marks":"francwa no"},{"surface":"המשכן","gloss":"francwa no"},{"surface":"עד","gloss":"ansa na"},{"surface":"באם","gloss":"wɔduo"}],"timestamp":"2026-09-15T21:29:14.064951604Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Na Kehatfoɔ no nso tuu kwan, wɔn a wɔsoa asɔredan kronkron no; na wɔsii ⟨את⟩ francwa no ansa na wɔduo.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "tuu kwan"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatfoɔ no"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wɔn a wɔsoa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "asɔredan kronkron no"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "na wɔsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "francwa no"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "francwa no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ansa na"
+    },
+    {
+      "surface": "באם",
+      "gloss": "wɔduo"
+    }
+  ],
+  "timestamp": "2026-09-15T21:29:14.064951604Z",
+  "model": "glm-5.3"
+}

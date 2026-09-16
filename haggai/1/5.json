@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":5,"ref":"haggai 1:5","book":"haggai","lang":"tw","chapter":1,"translation":"Na seesei, saa na Yawe Tsaḇaot ka: monfa mo akoma si mo akwan so.","tokens":[{"surface":"ועתה","gloss":"Na seesei"},{"surface":"כה","gloss":"saa"},{"surface":"אמר","gloss":"ka"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"שימו","gloss":"monfa ... si"},{"surface":"לבבכם","gloss":"mo akoma"},{"surface":"על","gloss":"so"},{"surface":"דרכיכם","gloss":"mo akwan"}],"timestamp":"2026-09-16T01:28:21.364841975Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "tw",
+  "chapter": 1,
+  "translation": "Na seesei, saa na Yawe Tsaḇaot ka: monfa mo akoma si mo akwan so.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na seesei"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "monfa ... si"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mo akoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mo akwan"
+    }
+  ],
+  "timestamp": "2026-09-16T01:28:21.364841975Z",
+  "model": "glm-5.3"
+}

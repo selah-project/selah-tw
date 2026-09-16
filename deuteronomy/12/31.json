@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "deuteronomy 12:31", "book": "deuteronomy", "lang": "tw", "chapter": 12, "translation": "Wonnyɛ saa ma Yawe wo Eloohim; ɛfiri sɛ nnyinasɛm bɔne biara a Yawe kyere, na wɔn anyame na wɔde ayɛ; ɛfiri sɛ ⟨את⟩ wɔn mma mmarima ne ⟨את⟩ wɔn mma mmaawa mpo, wɔhyew wɔn ogya mu ma wɔn anyame.", "tokens": [{"surface": "לא", "gloss": "Nnni"}, {"surface": "תעשה", "gloss": "yɛ"}, {"surface": "כן", "gloss": "saa"}, {"surface": "ליהוה", "gloss": "ma Yawe"}, {"surface": "אלהיך", "gloss": "wo Eloohim"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "כל", "gloss": "biara"}, {"surface": "תועבת", "gloss": "nnyinasɛm bɔne"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אשר", "gloss": "a"}, {"surface": "שנא", "gloss": "kyere"}, {"surface": "עשו", "gloss": "wɔde ayɛ"}, {"surface": "לאלהיהם", "gloss": "wɔn anyame"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "גם", "gloss": "mpo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wɔn mma mmarima"}, {"surface": "בניהם", "gloss": "wɔn mma mmarima"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wɔn mma mmaawa"}, {"surface": "בנתיהם", "gloss": "wɔn mma mmaawa"}, {"surface": "ישרפו", "gloss": "wɔhyew wɔn"}, {"surface": "באש", "gloss": "ogya mu"}, {"surface": "לאלהיהם", "gloss": "ma wɔn anyame"}], "timestamp": "2026-09-15T21:51:25.356669271Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Wonnyɛ saa ma Yawe wo Eloohim; ɛfiri sɛ nnyinasɛm bɔne biara a Yawe kyere, na wɔn anyame na wɔde ayɛ; ɛfiri sɛ ⟨את⟩ wɔn mma mmarima ne ⟨את⟩ wɔn mma mmaawa mpo, wɔhyew wɔn ogya mu ma wɔn anyame.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nnni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ma Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "nnyinasɛm bɔne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kyere"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wɔde ayɛ"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "wɔn anyame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mma mmarima"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wɔn mma mmarima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn mma mmaawa"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "wɔn mma mmaawa"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "wɔhyew wɔn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ogya mu"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "ma wɔn anyame"
+    }
+  ],
+  "timestamp": "2026-09-15T21:51:25.356669271Z",
+  "model": "glm-5.3"
+}

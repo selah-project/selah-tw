@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "judges 20:5", "book": "judges", "lang": "tw", "chapter": 20, "translation": "Na Gibeafoɔ no sɔree tia ⟨את⟩ me, na wɔhyɛɛ ⟨את⟩ efie no ho ase wɔ anadwo tia me; me na wɔdwen sɛ wɔbɛkum, na ⟨את⟩ me pilegesh na wɔdɔɔ no, na ɔwuiɛ.", "tokens": [{"surface": "ויקמו", "gloss": "na wɔsɔree"}, {"surface": "עלי", "gloss": "tia me"}, {"surface": "בעלי", "gloss": "Gibeafoɔ"}, {"surface": "הגבעה", "gloss": "Gibea"}, {"surface": "ויסבו", "gloss": "na wɔhyɛɛ ase"}, {"surface": "עלי", "gloss": "tia me"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "efie no"}, {"surface": "הבית", "gloss": "efie no"}, {"surface": "לילה", "gloss": "anadwo"}, {"surface": "אותי", "gloss": "⟨את⟩ me", "marks": "me"}, {"surface": "דמו", "gloss": "wɔdwen sɛ"}, {"surface": "להרג", "gloss": "wɔbɛkum"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "me pilegesh"}, {"surface": "פילגשי", "gloss": "me pilegesh"}, {"surface": "ענו", "gloss": "wɔdɔɔ no"}, {"surface": "ותמת", "gloss": "na ɔwuiɛ"}], "timestamp": "2026-09-15T22:44:40.863935773Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 20,
+  "translation": "Na Gibeafoɔ no sɔree tia ⟨את⟩ me, na wɔhyɛɛ ⟨את⟩ efie no ho ase wɔ anadwo tia me; me na wɔdwen sɛ wɔbɛkum, na ⟨את⟩ me pilegesh na wɔdɔɔ no, na ɔwuiɛ.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "na wɔsɔree"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "Gibeafoɔ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "na wɔhyɛɛ ase"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tia me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "efie no"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "anadwo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "wɔdwen sɛ"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "wɔbɛkum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me pilegesh"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "me pilegesh"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "wɔdɔɔ no"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "na ɔwuiɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T22:44:40.863935773Z",
+  "model": "glm-5.3"
+}

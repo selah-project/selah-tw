@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":9,"ref":"amos 8:9","book":"amos","lang":"tw","chapter":8,"translation":"Na ɛbɛba wɔ ⟨da⟩ da no mu — Adonai Yawe nkae — sɛ mɛma ewiabere aba awia mu, na mɛyɛ asase no sum wɔ hann da mu.","tokens":[{"surface":"והיה","gloss":"na ɛbɛba"},{"surface":"ביום","gloss":"wɔ da no mu"},{"surface":"ההוא","gloss":"saa (da)"},{"surface":"נאם","gloss":"nkae"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"והבאתי","gloss":"mɛma ... aba"},{"surface":"השמש","gloss":"ewiabere (sun)"},{"surface":"בצהרים","gloss":"wɔ awia mu"},{"surface":"והחשכתי","gloss":"na mɛyɛ ... sum"},{"surface":"לארץ","gloss":"asase no"},{"surface":"ביום","gloss":"wɔ da mu"},{"surface":"אור","gloss":"hann"}],"timestamp":"2026-09-16T01:15:03.909720995Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 8:9",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Na ɛbɛba wɔ ⟨da⟩ da no mu — Adonai Yawe nkae — sɛ mɛma ewiabere aba awia mu, na mɛyɛ asase no sum wɔ hann da mu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da no mu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saa (da)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkae"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "mɛma ... aba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ewiabere (sun)"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "wɔ awia mu"
+    },
+    {
+      "surface": "והחשכתי",
+      "gloss": "na mɛyɛ ... sum"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ da mu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-09-16T01:15:03.909720995Z",
+  "model": "glm-5.3"
+}

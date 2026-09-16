@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":6,"ref":"numbers 32:6","book":"numbers","lang":"tw","chapter":32,"translation":"Mosheh kaa kyerɛɛ Gad mma ne Reuben mma sɛ: So mo nuanom bɛkɔ ɔko mu, na moatena ha?","tokens":[{"surface":"ויאמר","gloss":"kaa"},{"surface":"משה","gloss":"Mosheh"},{"surface":"לבני","gloss":"kyerɛɛ … mma"},{"surface":"גד","gloss":"Gad"},{"surface":"ולבני","gloss":"ne … mma"},{"surface":"ראובן","gloss":"Reuben"},{"surface":"האחיכם","gloss":"mo nuanom"},{"surface":"יבאו","gloss":"bɛkɔ"},{"surface":"למלחמה","gloss":"ɔko mu"},{"surface":"ואתם","gloss":"mo"},{"surface":"תשבו","gloss":"moatena"},{"surface":"פה","gloss":"ha"}],"timestamp":"2026-09-16T06:55:38.088886564Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 32:6",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 32,
+  "translation": "Mosheh kaa kyerɛɛ Gad mma ne Reuben mma sɛ: So mo nuanom bɛkɔ ɔko mu, na moatena ha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kyerɛɛ … mma"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ne … mma"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "האחיכם",
+      "gloss": "mo nuanom"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ɔko mu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "moatena"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-09-16T06:55:38.088886564Z",
+  "model": "glm-5.3"
+}

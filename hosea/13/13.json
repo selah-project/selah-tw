@@ -1,1 +1,69 @@
-{"tier":"glm-5.3","verse":13,"ref":"hosea 13:13","book":"hosea","lang":"tw","chapter":13,"translation":"Abea a ɔwo ba no yawa bɛba no so; ɔno ara yɛ ba a ɔnnim. Ɛberɛ a ɛsɛ sɛ ɔgyina wɔ ba a ɔbɔ mu no, ɔnngyina hɔ.","tokens":[{"surface":"חבלי","gloss":"yawa"},{"surface":"יולדה","gloss":"abea a ɔwo ba"},{"surface":"יבאו","gloss":"bɛba"},{"surface":"לו","gloss":"no so"},{"surface":"הוא","gloss":"ɔno ara"},{"surface":"בן","gloss":"ba"},{"surface":"לא","gloss":"nni"},{"surface":"חכם","gloss":"ɔnim"},{"surface":"כי","gloss":"ma"},{"surface":"עת","gloss":"ɛberɛ"},{"surface":"לא","gloss":"nnyɛ"},{"surface":"יעמד","gloss":"ɔnngyina hɔ"},{"surface":"במשבר","gloss":"wɔ ba a ɔbɔ mu"},{"surface":"בנים","gloss":"ba"}],"timestamp":"2026-09-16T07:02:05.095472705Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.3",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Abea a ɔwo ba no yawa bɛba no so; ɔno ara yɛ ba a ɔnnim. Ɛberɛ a ɛsɛ sɛ ɔgyina wɔ ba a ɔbɔ mu no, ɔnngyina hɔ.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "yawa"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "abea a ɔwo ba"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no so"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno ara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ɔnim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ɛberɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyɛ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ɔnngyina hɔ"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "wɔ ba a ɔbɔ mu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-09-16T07:02:05.095472705Z",
+  "model": "glm-5.3"
+}

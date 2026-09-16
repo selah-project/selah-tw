@@ -1,1 +1,116 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "genesis 22:2", "book": "genesis", "lang": "tw", "chapter": 22, "translation": "Na ɔkaa se: Fa ⟨את⟩ wo ba, ⟨את⟩ wo ba a ɔyɛ ⟨את⟩ wo ba koraa, a wo dɔ no, Yitsak, na kɔ wo kwan so akɔ Moria asase so; na ɔbɔ no afiase sɛ ɔnnan hɔ ayɛ ɔhyɛdaw dwuma, wɔ bepɔ biara mu a mɛka akyerɛ wo so.", "tokens": [{"surface": "ויאמר", "gloss": "Na ɔkaa se"}, {"surface": "קח", "gloss": "Fa"}, {"surface": "נא", "gloss": "mepa wo kyɛw"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wo ba"}, {"surface": "בנך", "gloss": "wo ba"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "a ɔyɛ wo ba koraa"}, {"surface": "יחידך", "gloss": "a ɔyɛ wo ba koraa"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אהבת", "gloss": "wo dɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yitsak"}, {"surface": "יצחק", "gloss": "Yitsak"}, {"surface": "ולך", "gloss": "na kɔ"}, {"surface": "לך", "gloss": "wo ankasa"}, {"surface": "אל", "gloss": "kɔ"}, {"surface": "ארץ", "gloss": "asase so"}, {"surface": "המריה", "gloss": "Moria"}, {"surface": "והעלהו", "gloss": "na ɔbɔ no afiase"}, {"surface": "שם", "gloss": "hɔ"}, {"surface": "לעלה", "gloss": "ayɛ ɔhyɛdaw dwuma"}, {"surface": "על", "gloss": "wɔ"}, {"surface": "אחד", "gloss": "biara"}, {"surface": "ההרים", "gloss": "bepɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אמר", "gloss": "mɛka"}, {"surface": "אליך", "gloss": "akyerɛ wo"}], "timestamp": "2026-09-15T20:24:17.563093663Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 22:2",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 22,
+  "translation": "Na ɔkaa se: Fa ⟨את⟩ wo ba, ⟨את⟩ wo ba a ɔyɛ ⟨את⟩ wo ba koraa, a wo dɔ no, Yitsak, na kɔ wo kwan so akɔ Moria asase so; na ɔbɔ no afiase sɛ ɔnnan hɔ ayɛ ɔhyɛdaw dwuma, wɔ bepɔ biara mu a mɛka akyerɛ wo so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ɔkaa se"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mepa wo kyɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wo ba"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wo ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ɔyɛ wo ba koraa"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "a ɔyɛ wo ba koraa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "wo dɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na kɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wo ankasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase so"
+    },
+    {
+      "surface": "המריה",
+      "gloss": "Moria"
+    },
+    {
+      "surface": "והעלהו",
+      "gloss": "na ɔbɔ no afiase"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ayɛ ɔhyɛdaw dwuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biara"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mɛka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "akyerɛ wo"
+    }
+  ],
+  "timestamp": "2026-09-15T20:24:17.563093663Z",
+  "model": "glm-5.3"
+}

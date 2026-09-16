@@ -1,1 +1,72 @@
-{"tier":"glm-5.2","verse":33,"ref":"leviticus 4:33","book":"leviticus","lang":"tw","chapter":4,"translation":"Na ɔde ne nsa bɛto ⟨את⟩ afɔfɔɔ no tir so, na ɔbɛbɔ ⟨את⟩ no sɛ afɔfɔɔ no wɔ baabi a wɔbɔ ⟨את⟩ ɔhye no","tokens":[{"surface":"וסמך","gloss":"na ɔde ne nsa to"},{"surface":"את","gloss":"⟨את⟩","marks":"afɔfɔɔ no tir"},{"surface":"ידו","gloss":"ne nsa"},{"surface":"על","gloss":"so"},{"surface":"ראש","gloss":"tir"},{"surface":"החטאת","gloss":"afɔfɔɔ no"},{"surface":"ושחט","gloss":"na ɔbɛbɔ"},{"surface":"אתה","gloss":"⟨את⟩","marks":"afɔfɔɔ no"},{"surface":"לחטאת","gloss":"sɛ afɔfɔɔ"},{"surface":"במקום","gloss":"wɔ baabi"},{"surface":"אשר","gloss":"a"},{"surface":"ישחט","gloss":"wɔbɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"ɔhye no"},{"surface":"העלה","gloss":"ɔhye no"}],"timestamp":"2026-09-15T21:09:03.359424384Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔde ne nsa bɛto ⟨את⟩ afɔfɔɔ no tir so, na ɔbɛbɔ ⟨את⟩ no sɛ afɔfɔɔ no wɔ baabi a wɔbɔ ⟨את⟩ ɔhye no",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "na ɔde ne nsa to"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afɔfɔɔ no tir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tir"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "afɔfɔɔ no"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "na ɔbɛbɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "afɔfɔɔ no"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sɛ afɔfɔɔ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wɔ baabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "wɔbɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhye no"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɔhye no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:09:03.359424384Z",
+  "model": "glm-5.3"
+}

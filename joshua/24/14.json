@@ -1,1 +1,96 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "joshua 24:14", "book": "joshua", "lang": "tw", "chapter": 24, "translation": "Ɛnde afei, monsuru ⟨את⟩ Yawe ⟨את⟩ na momɔ no som wɔ nokorɛm ne nkontompo mu, na moma ayera: ⟨את⟩ anyame a mo nnamfo som wɔn wɔ asubɔnten no akyi ne wɔ Misraim; na momɔ ⟨את⟩ Yawe som.", "tokens": [{"surface": "ועתה", "gloss": "Ɛnde afei"}, {"surface": "יראו", "gloss": "monsuru"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ועבדו", "gloss": "na momɔ no som"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "בתמים", "gloss": "wɔ nokorɛm mu"}, {"surface": "ובאמת", "gloss": "ne nkontompo mu"}, {"surface": "והסירו", "gloss": "na moma ayera"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "anyame a mo nnamfo som wɔn"}, {"surface": "אלהים", "gloss": "anyame"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עבדו", "gloss": "som"}, {"surface": "אבותיכם", "gloss": "mo nnamfo"}, {"surface": "בעבר", "gloss": "wɔ akyi"}, {"surface": "הנהר", "gloss": "asubɔnten no"}, {"surface": "ובמצרים", "gloss": "ne wɔ Misraim"}, {"surface": "ועבדו", "gloss": "na momɔ som"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe"}, {"surface": "יהוה", "gloss": "Yawe"}], "timestamp": "2026-09-15T22:32:48.153833448Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 24:14",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 24,
+  "translation": "Ɛnde afei, monsuru ⟨את⟩ Yawe ⟨את⟩ na momɔ no som wɔ nokorɛm ne nkontompo mu, na moma ayera: ⟨את⟩ anyame a mo nnamfo som wɔn wɔ asubɔnten no akyi ne wɔ Misraim; na momɔ ⟨את⟩ Yawe som.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ɛnde afei"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "monsuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "na momɔ no som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "wɔ nokorɛm mu"
+    },
+    {
+      "surface": "ובאמת",
+      "gloss": "ne nkontompo mu"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "na moma ayera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anyame a mo nnamfo som wɔn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "anyame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "som"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "mo nnamfo"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "wɔ akyi"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "asubɔnten no"
+    },
+    {
+      "surface": "ובמצרים",
+      "gloss": "ne wɔ Misraim"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "na momɔ som"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:48.153833448Z",
+  "model": "glm-5.3"
+}

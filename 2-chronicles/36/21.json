@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-chronicles 36:21","book":"2-chronicles","lang":"tw","chapter":36,"translation":"Sɛdeɛ Yawe asɛm no a ɔkaa guu Yeremiyahu ano no bɛwie no, asase no hwɛɛ ⟨את⟩ ne Sabbath ahorow so; ɛhomee aguaree nnora nyinaa, sɛdeɛ mfeɛ aduɔson bɛwie.","tokens":[{"surface":"למלאות","gloss":"sɛdeɛ ... bɛwie"},{"surface":"דבר","gloss":"asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"בפי","gloss":"guu ... ano"},{"surface":"ירמיהו","gloss":"Yeremiyahu"},{"surface":"עד","gloss":"kɔsii"},{"surface":"רצתה","gloss":"hwɛɛ ... so"},{"surface":"הארץ","gloss":"asase no"},{"surface":"את","gloss":"⟨את⟩","marks":"ne Sabbath ahorow"},{"surface":"שבתותיה","gloss":"ne Sabbath ahorow"},{"surface":"כל","gloss":"nyinaa"},{"surface":"ימי","gloss":"nnora"},{"surface":"השמה","gloss":"aguaree"},{"surface":"שבתה","gloss":"ɛhomee"},{"surface":"למלאות","gloss":"sɛdeɛ ... bɛwie"},{"surface":"שבעים","gloss":"aduɔson"},{"surface":"שנה","gloss":"mfeɛ"}],"timestamp":"2026-09-16T05:13:32.620812941Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 36:21",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 36,
+  "translation": "Sɛdeɛ Yawe asɛm no a ɔkaa guu Yeremiyahu ano no bɛwie no, asase no hwɛɛ ⟨את⟩ ne Sabbath ahorow so; ɛhomee aguaree nnora nyinaa, sɛdeɛ mfeɛ aduɔson bɛwie.",
+  "tokens": [
+    {
+      "surface": "למלאות",
+      "gloss": "sɛdeɛ ... bɛwie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "guu ... ano"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiyahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsii"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "hwɛɛ ... so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne Sabbath ahorow"
+    },
+    {
+      "surface": "שבתותיה",
+      "gloss": "ne Sabbath ahorow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nnora"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "aguaree"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ɛhomee"
+    },
+    {
+      "surface": "למלאות",
+      "gloss": "sɛdeɛ ... bɛwie"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "aduɔson"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T05:13:32.620812941Z",
+  "model": "glm-5.3"
+}

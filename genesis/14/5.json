@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "genesis 14:5", "book": "genesis", "lang": "tw", "chapter": 14, "translation": "Na wɔ afe dunan no mu no, Kedarlaomer ne ahemfo a wɔ⟨את⟩ ne no bae no bɔɔ ⟨את⟩ Refaim wɔ Ashterot-Karnaim, ne ⟨את⟩ Zuzim wɔ Ham, ne ⟨את⟩ Emim wɔ Shaveh-Kiriathaim.", "tokens": [{"surface": "ובארבע", "gloss": "na wɔ ... nnan"}, {"surface": "עשרה", "gloss": "du"}, {"surface": "שנה", "gloss": "afe"}, {"surface": "בא", "gloss": "bae"}, {"surface": "כדרלעמר", "gloss": "Kedarlaomer"}, {"surface": "והמלכים", "gloss": "ne ahemfo"}, {"surface": "אשר", "gloss": "a"}, {"surface": "אתו", "gloss": "⟨את⟩ ne no"}, {"surface": "ויכו", "gloss": "na wɔbɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Refaim"}, {"surface": "רפאים", "gloss": "Refaim"}, {"surface": "בעשתרת", "gloss": "wɔ Ashterot"}, {"surface": "קרנים", "gloss": "-Karnaim"}, {"surface": "ואת", "gloss": "ne ⟨את⟩"}, {"surface": "הזוזים", "gloss": "Zuzim"}, {"surface": "בהם", "gloss": "wɔ Ham"}, {"surface": "ואת", "gloss": "ne ⟨את⟩"}, {"surface": "האימים", "gloss": "Emim"}, {"surface": "בשוה", "gloss": "wɔ Shaveh"}, {"surface": "קריתים", "gloss": "-Kiriathaim"}], "timestamp": "2026-09-15T20:19:15.035032691Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na wɔ afe dunan no mu no, Kedarlaomer ne ahemfo a wɔ⟨את⟩ ne no bae no bɔɔ ⟨את⟩ Refaim wɔ Ashterot-Karnaim, ne ⟨את⟩ Zuzim wɔ Ham, ne ⟨את⟩ Emim wɔ Shaveh-Kiriathaim.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "na wɔ ... nnan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bae"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "ne ahemfo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ne no"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "na wɔbɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Refaim"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "wɔ Ashterot"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "-Karnaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "Zuzim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wɔ Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "Emim"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "wɔ Shaveh"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "-Kiriathaim"
+    }
+  ],
+  "timestamp": "2026-09-15T20:19:15.035032691Z",
+  "model": "glm-5.3"
+}

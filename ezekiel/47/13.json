@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":13,"ref":"ezekiel 47:13","book":"ezekiel","lang":"tw","chapter":47,"translation":"Saa na Adonai Yawe ka: Yi ne hyeɛ a mo bɛfa so wura ⟨את⟩ asase no, Israel afahyɛdua dumienu no mu; Yosef n'akyi fa ⟨chebelim⟩ mmienu.","tokens":[{"surface":"כה","gloss":"Saa"},{"surface":"אמר","gloss":"ka"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"גה","gloss":"yi"},{"surface":"גבול","gloss":"hyeɛ"},{"surface":"אשר","gloss":"a"},{"surface":"תתנחלו","gloss":"mo bɛfa so wura"},{"surface":"את","gloss":"⟨את⟩","marks":"asase no"},{"surface":"הארץ","gloss":"asase no"},{"surface":"לשני","gloss":"dumuenu no mu"},{"surface":"עשר","gloss":"dumienu"},{"surface":"שבטי","gloss":"afahyɛdua"},{"surface":"ישראל","gloss":"Israel"},{"surface":"יוסף","gloss":"Yosef"},{"surface":"חבלים","gloss":"chebelim (akyi fa)"}],"timestamp":"2026-09-16T01:02:16.585136379Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 47:13",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 47,
+  "translation": "Saa na Adonai Yawe ka: Yi ne hyeɛ a mo bɛfa so wura ⟨את⟩ asase no, Israel afahyɛdua dumienu no mu; Yosef n'akyi fa ⟨chebelim⟩ mmienu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Saa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hyeɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תתנחלו",
+      "gloss": "mo bɛfa so wura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "dumuenu no mu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dumienu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "afahyɛdua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "chebelim (akyi fa)"
+    }
+  ],
+  "timestamp": "2026-09-16T01:02:16.585136379Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":36,"ref":"leviticus 25:36","book":"leviticus","lang":"tw","chapter":25,"translation":"Ɛnsɛ sɛ wode ⟨את⟩ ntɔsoɔ anaa nkɔsoɔ firi no; na wo suro wo Eloohim, na awo nua nwaren ase wo nkyɛn.","tokens":[{"surface":"אל","gloss":"Ɛnsɛ sɛ"},{"surface":"תקח","gloss":"wode … firi"},{"surface":"מאתו","gloss":"⟨את⟩","marks":"ntɔsoɔ anaa nkɔsoɔ"},{"surface":"נשך","gloss":"ntɔsoɔ"},{"surface":"ותרבית","gloss":"nkɔsoɔ"},{"surface":"ויראת","gloss":"na wo suro"},{"surface":"מאלהיך","gloss":"wo Eloohim"},{"surface":"וחי","gloss":"nwaren ase"},{"surface":"אחיך","gloss":"wo nua"},{"surface":"עמך","gloss":"wo nkyɛn"}],"timestamp":"2026-09-15T21:21:55.584629082Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Ɛnsɛ sɛ wode ⟨את⟩ ntɔsoɔ anaa nkɔsoɔ firi no; na wo suro wo Eloohim, na awo nua nwaren ase wo nkyɛn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ɛnsɛ sɛ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wode … firi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "ntɔsoɔ anaa nkɔsoɔ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ntɔsoɔ"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "nkɔsoɔ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "na wo suro"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "wo Eloohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "nwaren ase"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wo nua"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wo nkyɛn"
+    }
+  ],
+  "timestamp": "2026-09-15T21:21:55.584629082Z",
+  "model": "glm-5.3"
+}

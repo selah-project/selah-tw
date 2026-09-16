@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 34:2","book":"numbers","lang":"tw","chapter":34,"translation":"Hyɛ ⟨את⟩ Yisrael mma no, na ka kyerɛ wɔn se: sɛ moreduru Kenaan asase no mu a, eyi ne asase no a ɛbɛtɔ mo so sɛ agyapadeɛ — Kenaan asase, n'ahyɛbea so:","tokens":[{"surface":"צו","gloss":"Hyɛ (fo)"},{"surface":"את","gloss":"⟨את⟩","marks":"Yisrael mma"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ואמרת","gloss":"na ka kyerɛ"},{"surface":"אלהם","gloss":"wɔn"},{"surface":"כי","gloss":"sɛ"},{"surface":"אתם","gloss":"mo"},{"surface":"באים","gloss":"reduru"},{"surface":"אל","gloss":"kɔ"},{"surface":"הארץ","gloss":"asase no mu"},{"surface":"כנען","gloss":"Kenaan"},{"surface":"זאת","gloss":"eyi"},{"surface":"הארץ","gloss":"asase no"},{"surface":"אשר","gloss":"a"},{"surface":"תפל","gloss":"ɛbɛtɔ"},{"surface":"לכם","gloss":"mo so"},{"surface":"בנחלה","gloss":"sɛ agyapadeɛ"},{"surface":"ארץ","gloss":"asase"},{"surface":"כנען","gloss":"Kenaan"},{"surface":"לגבלתיה","gloss":"n'ahyɛbea so"}],"timestamp":"2026-09-15T21:44:12.988245502Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Hyɛ ⟨את⟩ Yisrael mma no, na ka kyerɛ wɔn se: sɛ moreduru Kenaan asase no mu a, eyi ne asase no a ɛbɛtɔ mo so sɛ agyapadeɛ — Kenaan asase, n'ahyɛbea so:",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Hyɛ (fo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael mma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ka kyerɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "reduru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no mu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ɛbɛtɔ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo so"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "sɛ agyapadeɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "n'ahyɛbea so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:44:12.988245502Z",
+  "model": "glm-5.3"
+}

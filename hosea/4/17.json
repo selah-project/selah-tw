@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":17,"ref":"hosea 4:17","book":"hosea","lang":"tw","chapter":4,"translation":"Efraim wɔabɔ no ka abosom ho; gyae no.","tokens":[{"surface":"חבור","gloss":"wɔabɔ no ka ... ho"},{"surface":"עצבים","gloss":"abosom"},{"surface":"אפרים","gloss":"Efraim"},{"surface":"הנח","gloss":"gyae"},{"surface":"לו","gloss":"no"}],"timestamp":"2026-09-16T01:04:18.482106914Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Efraim wɔabɔ no ka abosom ho; gyae no.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "wɔabɔ no ka ... ho"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "abosom"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "gyae"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:04:18.482106914Z",
+  "model": "glm-5.3"
+}

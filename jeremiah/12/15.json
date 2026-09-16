@@ -1,1 +1,57 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "jeremiah 12:15", "book": "jeremiah", "lang": "tw", "chapter": 12, "translation": "Na ɛbɛba sɛ, sɛ metew ⟨את⟩ wɔn wie a, mɛsan aba, na mmɔborɔhunu bɛda wɔn so, na mabɛsane wɔn, obiara akɔ n'agyapadie mu, ne obiara n'asase so.", "tokens": [{"surface": "והיה", "gloss": "na ɛbɛba"}, {"surface": "אחרי", "gloss": "sɛ ... wie a"}, {"surface": "נתשי", "gloss": "metew"}, {"surface": "אותם", "gloss": "⟨את⟩ wɔn"}, {"surface": "אשוב", "gloss": "mɛsan aba"}, {"surface": "ורחמתים", "gloss": "na mmɔborɔhunu bɛda wɔn so"}, {"surface": "והשבתים", "gloss": "mabɛsane wɔn"}, {"surface": "איש", "gloss": "obiara"}, {"surface": "לנחלתו", "gloss": "n'agyapadie mu"}, {"surface": "ואיש", "gloss": "ne obiara"}, {"surface": "לארצו", "gloss": "n'asase so"}], "timestamp": "2026-09-16T00:11:12.296265875Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɛbɛba sɛ, sɛ metew ⟨את⟩ wɔn wie a, mɛsan aba, na mmɔborɔhunu bɛda wɔn so, na mabɛsane wɔn, obiara akɔ n'agyapadie mu, ne obiara n'asase so.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sɛ ... wie a"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "metew"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wɔn"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "mɛsan aba"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "na mmɔborɔhunu bɛda wɔn so"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "mabɛsane wɔn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "obiara"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "n'agyapadie mu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ne obiara"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "n'asase so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:11:12.296265875Z",
+  "model": "glm-5.3"
+}

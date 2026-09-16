@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "2-chronicles 33:11", "book": "2-chronicles", "lang": "tw", "chapter": 33, "translation": "Enti Yawe de Ashur ɔhene asraafoɔ ⟨את⟩ mpanimfoɔ brɛɛ wɔn; wɔkyeree ⟨את⟩ Manase wɔ nnua nnini mu, wɔde kɔkɔɔ mmɔntene hyɛɛ no ase, na wɔde no kɔɔ Babel.", "tokens": [{"surface": "ויבא", "gloss": "de … brɛɛ wɔn"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "עליהם", "gloss": "wɔn so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mpanimfoɔ"}, {"surface": "שרי", "gloss": "mpanimfoɔ"}, {"surface": "הצבא", "gloss": "asraafoɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "למלך", "gloss": "ɔhene a ɔwɔ"}, {"surface": "אשור", "gloss": "Ashur"}, {"surface": "וילכדו", "gloss": "wɔkyeree"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Manase"}, {"surface": "מנשה", "gloss": "Manase"}, {"surface": "בחחים", "gloss": "wɔ nnua nnini mu"}, {"surface": "ויאסרהו", "gloss": "wɔhyɛɛ no ase"}, {"surface": "בנחשתים", "gloss": "kɔkɔɔ mmɔntene"}, {"surface": "ויוליכהו", "gloss": "wɔde no kɔɔ"}, {"surface": "בבלה", "gloss": "Babel"}], "timestamp": "2026-09-16T05:10:21.083701665Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Enti Yawe de Ashur ɔhene asraafoɔ ⟨את⟩ mpanimfoɔ brɛɛ wɔn; wɔkyeree ⟨את⟩ Manase wɔ nnua nnini mu, wɔde kɔkɔɔ mmɔntene hyɛɛ no ase, na wɔde no kɔɔ Babel.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "de … brɛɛ wɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wɔn so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanimfoɔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanimfoɔ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɔhene a ɔwɔ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "wɔkyeree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manase"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "wɔ nnua nnini mu"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "wɔhyɛɛ no ase"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "kɔkɔɔ mmɔntene"
+    },
+    {
+      "surface": "ויוליכהו",
+      "gloss": "wɔde no kɔɔ"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-09-16T05:10:21.083701665Z",
+  "model": "glm-5.3"
+}

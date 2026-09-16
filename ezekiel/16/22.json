@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "ezekiel 16:22", "book": "ezekiel", "lang": "tw", "chapter": 16, "translation": "Na w'atam foforɔ nyi⟨את⟩ naa ne w'akwaseasɛm nyi⟨את⟩ naa mu no, woannka w'abɔfra berɛ no adwen — sɛ na woyɛ akɔkɔɔ na wotiwa, na wo wɔ wo mogya mu na wɔbɔ wo soɔ.", "tokens": [{"surface": "ואת", "gloss": "na ⟨את⟩"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "תועבתיך", "gloss": "w'atam foforɔ"}, {"surface": "ותזנתיך", "gloss": "ne w'akwaseasɛm"}, {"surface": "לא", "gloss": "wɔann"}, {"surface": "זכרתי", "gloss": "kaa ... adwen"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'abɔfra berɛ"}, {"surface": "ימי", "gloss": "berɛ"}, {"surface": "נעוריך", "gloss": "w'abɔfra"}, {"surface": "בהיותך", "gloss": "sɛ na woyɛ"}, {"surface": "ערם", "gloss": "akɔkɔɔ"}, {"surface": "ועריה", "gloss": "na wotiwa"}, {"surface": "מתבוססת", "gloss": "wɔbɔ wo soɔ"}, {"surface": "בדמך", "gloss": "wo mogya mu"}, {"surface": "היית", "gloss": "na wowɔ ara"}], "timestamp": "2026-09-16T00:40:39.907328141Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 16:22",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na w'atam foforɔ nyi⟨את⟩ naa ne w'akwaseasɛm nyi⟨את⟩ naa mu no, woannka w'abɔfra berɛ no adwen — sɛ na woyɛ akɔkɔɔ na wotiwa, na wo wɔ wo mogya mu na wɔbɔ wo soɔ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "w'atam foforɔ"
+    },
+    {
+      "surface": "ותזנתיך",
+      "gloss": "ne w'akwaseasɛm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wɔann"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "kaa ... adwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'abɔfra berɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "berɛ"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "w'abɔfra"
+    },
+    {
+      "surface": "בהיותך",
+      "gloss": "sɛ na woyɛ"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "akɔkɔɔ"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "na wotiwa"
+    },
+    {
+      "surface": "מתבוססת",
+      "gloss": "wɔbɔ wo soɔ"
+    },
+    {
+      "surface": "בדמך",
+      "gloss": "wo mogya mu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "na wowɔ ara"
+    }
+  ],
+  "timestamp": "2026-09-16T00:40:39.907328141Z",
+  "model": "glm-5.3"
+}

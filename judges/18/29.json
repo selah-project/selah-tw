@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":29,"ref":"judges 18:29","book":"judges","lang":"tw","chapter":18,"translation":"Wɔfrɛɛ kurow no din Dan, wɔ Dan wɔn agya din so — deɛ wɔwoo no maa Yisrael; nanso Layish na kurow no din yɛeɛ da a ɛdi kan.","tokens":[{"surface":"ויקראו","gloss":"wɔfrɛɛ"},{"surface":"שם","gloss":"din"},{"surface":"העיר","gloss":"kurow no"},{"surface":"דן","gloss":"Dan"},{"surface":"בשם","gloss":"wɔ din so"},{"surface":"דן","gloss":"Dan"},{"surface":"אביהם","gloss":"wɔn agya"},{"surface":"אשר","gloss":"deɛ"},{"surface":"יולד","gloss":"wɔwoo no"},{"surface":"לישראל","gloss":"maa Yisrael"},{"surface":"ואולם","gloss":"nanso"},{"surface":"ליש","gloss":"Layish"},{"surface":"שם","gloss":"din"},{"surface":"העיר","gloss":"kurow no"},{"surface":"לראשנה","gloss":"da a ɛdi kan"}],"timestamp":"2026-09-15T22:44:11.986964445Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 18:29",
+  "book": "judges",
+  "lang": "tw",
+  "chapter": 18,
+  "translation": "Wɔfrɛɛ kurow no din Dan, wɔ Dan wɔn agya din so — deɛ wɔwoo no maa Yisrael; nanso Layish na kurow no din yɛeɛ da a ɛdi kan.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "wɔfrɛɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ din so"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "wɔn agya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deɛ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "wɔwoo no"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "maa Yisrael"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Layish"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kurow no"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "da a ɛdi kan"
+    }
+  ],
+  "timestamp": "2026-09-15T22:44:11.986964445Z",
+  "model": "glm-5.3"
+}

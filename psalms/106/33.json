@@ -1,1 +1,38 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "psalms 106:33", "book": "psalms", "lang": "tw", "chapter": 106, "translation": "Ɛwom sɛ wɔyɛɛ dɛn wɔ ⟨את⟩ n'ahom mu, na ɔkaa asɛm a ɔnnyɛ no wɔ n'ano.", "tokens": [{"surface": "כי", "gloss": "Ɛwom sɛ"}, {"surface": "המרו", "gloss": "wɔyɛɛ dɛn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "n'ahom"}, {"surface": "רוחו", "gloss": "n'ahom"}, {"surface": "ויבטא", "gloss": "na ɔkaa asɛm a ɔnnyɛ no"}, {"surface": "בשפתיו", "gloss": "wɔ n'ano"}], "timestamp": "2026-09-16T02:23:32.039605589Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Ɛwom sɛ wɔyɛɛ dɛn wɔ ⟨את⟩ n'ahom mu, na ɔkaa asɛm a ɔnnyɛ no wɔ n'ano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɛwom sɛ"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "wɔyɛɛ dɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ahom"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "n'ahom"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "na ɔkaa asɛm a ɔnnyɛ no"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "wɔ n'ano"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:32.039605589Z",
+  "model": "glm-5.3"
+}

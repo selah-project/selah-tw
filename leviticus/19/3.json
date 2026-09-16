@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "leviticus 19:3", "book": "leviticus", "lang": "tw", "chapter": 19, "translation": "Obiara mfa n'awofoɔ mma ne maame ne ne papa, na munnyɛ ⟨את⟩ me Homma da; me Yawe, mo Eloohim.", "tokens": [{"surface": "איש", "gloss": "Obiara"}, {"surface": "אמו", "gloss": "ne maame"}, {"surface": "ואביו", "gloss": "ne ne papa"}, {"surface": "תיראו", "gloss": "mfa ... mma"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "me Homma"}, {"surface": "שבתתי", "gloss": "me Homma"}, {"surface": "תשמרו", "gloss": "munnyɛ"}, {"surface": "אני", "gloss": "me"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהיכם", "gloss": "mo Eloohim"}], "timestamp": "2026-09-15T21:18:01.410325203Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 19,
+  "translation": "Obiara mfa n'awofoɔ mma ne maame ne ne papa, na munnyɛ ⟨את⟩ me Homma da; me Yawe, mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Obiara"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ne ne papa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mfa ... mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "me Homma"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "me Homma"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "munnyɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "mo Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:01.410325203Z",
+  "model": "glm-5.3"
+}

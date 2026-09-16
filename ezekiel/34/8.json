@@ -1,1 +1,140 @@
-{"tier":"glm-5.2","verse":8,"ref":"ezekiel 34:8","book":"ezekiel","lang":"tw","chapter":34,"translation":"Mehyɛ me nkwa, Adonai Yawe se: nokorɛ sɛ, ɛfiri sɛ m'nnwan ayɛ abasamtuo, na m'nnwan ayɛ aduane ma wura mu mmoa nyinaa, ɛfiri sɛ ɔdwanhwɛfoɔ nni hɔ, na me ɔdwanhwɛfoɔ nhwehwɛɛ ⟨את⟩ m'nnwan; na ɔdwanhwɛfoɔ no hwɛɛ ⟨את⟩ wɔn ankasa so, na wɔanhwɛ ⟨את⟩ m'nnwan so;","tokens":[{"surface":"חי","gloss":"Mehyɛ ... nkwa"},{"surface":"אני","gloss":"me"},{"surface":"נאם","gloss":"se"},{"surface":"אדני","gloss":"Adonai"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"אם","gloss":"nokorɛ sɛ"},{"surface":"לא","gloss":"nokorɛ sɛ"},{"surface":"יען","gloss":"ɛfiri sɛ"},{"surface":"היות","gloss":"sɛ ... ayɛ"},{"surface":"צאני","gloss":"m'nnwan"},{"surface":"לבז","gloss":"abasamtuo"},{"surface":"ותהיינה","gloss":"na ... ayɛɛ"},{"surface":"צאני","gloss":"m'nnwan"},{"surface":"לאכלה","gloss":"aduane"},{"surface":"לכל","gloss":"ma ... nyinaa"},{"surface":"חית","gloss":"mmoa"},{"surface":"השדה","gloss":"wura mu"},{"surface":"מאין","gloss":"ɛfiri sɛ ... nni hɔ"},{"surface":"רעה","gloss":"ɔdwanhwɛfoɔ"},{"surface":"ולא","gloss":"na ... mmpɛ"},{"surface":"דרשו","gloss":"nhwehwɛ"},{"surface":"רעי","gloss":"me ɔdwanhwɛfoɔ"},{"surface":"את","gloss":"⟨את⟩","marks":"m'nnwan"},{"surface":"צאני","gloss":"m'nnwan"},{"surface":"וירעו","gloss":"hwɛɛ ... so"},{"surface":"הרעים","gloss":"ɔdwanhwɛfoɔ no"},{"surface":"אותם","gloss":"⟨את⟩","marks":"wɔn ankasa"},{"surface":"ואת","gloss":"⟨את⟩","marks":"m'nnwan"},{"surface":"צאני","gloss":"m'nnwan"},{"surface":"לא","gloss":"mmpɛ"},{"surface":"רעו","gloss":"nhwɛ ... so"}],"timestamp":"2026-09-16T00:53:52.294274149Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 34:8",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Mehyɛ me nkwa, Adonai Yawe se: nokorɛ sɛ, ɛfiri sɛ m'nnwan ayɛ abasamtuo, na m'nnwan ayɛ aduane ma wura mu mmoa nyinaa, ɛfiri sɛ ɔdwanhwɛfoɔ nni hɔ, na me ɔdwanhwɛfoɔ nhwehwɛɛ ⟨את⟩ m'nnwan; na ɔdwanhwɛfoɔ no hwɛɛ ⟨את⟩ wɔn ankasa so, na wɔanhwɛ ⟨את⟩ m'nnwan so;",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Mehyɛ ... nkwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nokorɛ sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nokorɛ sɛ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "sɛ ... ayɛ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "m'nnwan"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "abasamtuo"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "na ... ayɛɛ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "m'nnwan"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ma ... nyinaa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mmoa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wura mu"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ɛfiri sɛ ... nni hɔ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ɔdwanhwɛfoɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... mmpɛ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nhwehwɛ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "me ɔdwanhwɛfoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'nnwan"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "m'nnwan"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "hwɛɛ ... so"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ɔdwanhwɛfoɔ no"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn ankasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "m'nnwan"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "m'nnwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mmpɛ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "nhwɛ ... so"
+    }
+  ],
+  "timestamp": "2026-09-16T00:53:52.294274149Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":33,"ref":"numbers 21:33","book":"numbers","lang":"tw","chapter":21,"translation":"Wɔdan wɔn ho, wɔforo kwan ⟨הבשן⟩ Bashan so; na Og, Bashan ɔhene, bɛtɔɔ wɔn so — ɔno ne n'aman nyinaa — akɔ ɔko mu wɔ Edrei.","tokens":[{"surface":"ויפנו","gloss":"wɔdan wɔn ho"},{"surface":"ויעלו","gloss":"wɔforo"},{"surface":"דרך","gloss":"kwan"},{"surface":"הבשן","gloss":"Bashan"},{"surface":"ויצא","gloss":"bɛtɔɔ wɔn so"},{"surface":"עוג","gloss":"Og"},{"surface":"מלך","gloss":"ɔhene"},{"surface":"הבשן","gloss":"Bashan"},{"surface":"לקראתם","gloss":"bɛtɔɔ wɔn so"},{"surface":"הוא","gloss":"ɔno"},{"surface":"וכל","gloss":"ne nyinaa"},{"surface":"עמו","gloss":"n'aman"},{"surface":"למלחמה","gloss":"akɔ ɔko mu"},{"surface":"אדרעי","gloss":"Edrei"}],"timestamp":"2026-09-15T21:35:25.001508056Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 21:33",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Wɔdan wɔn ho, wɔforo kwan ⟨הבשן⟩ Bashan so; na Og, Bashan ɔhene, bɛtɔɔ wɔn so — ɔno ne n'aman nyinaa — akɔ ɔko mu wɔ Edrei.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "wɔdan wɔn ho"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wɔforo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "bɛtɔɔ wɔn so"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "bɛtɔɔ wɔn so"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɔno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne nyinaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'aman"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "akɔ ɔko mu"
+    },
+    {
+      "surface": "אדרעי",
+      "gloss": "Edrei"
+    }
+  ],
+  "timestamp": "2026-09-15T21:35:25.001508056Z",
+  "model": "glm-5.3"
+}

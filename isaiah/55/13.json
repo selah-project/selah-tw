@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":13,"ref":"isaiah 55:13","book":"isaiah","lang":"tw","chapter":55,"translation":"Ananmu kɔkɔɔdɔ no, sipres dua bɛso; ananmu atwerɛ no, hasidua bɛso; na ɛbɛyɛ dea Yawe dea, ɛbɛyɛ din, ɛbɛyɛ nsɛnkyerɛnne a ɛbɛkɔ so ⟨daa⟩, a wɔremmu no da.","tokens":[{"surface":"תחת","gloss":"ananmu"},{"surface":"הנעצוץ","gloss":"kɔkɔɔdɔ"},{"surface":"יעלה","gloss":"bɛso"},{"surface":"ברוש","gloss":"sipres dua"},{"surface":"תחת","gloss":"ananmu"},{"surface":"הסרפד","gloss":"atwerɛ"},{"surface":"יעלה","gloss":"bɛso"},{"surface":"הדס","gloss":"hasidua"},{"surface":"והיה","gloss":"na ɛbɛyɛ"},{"surface":"ליהוה","gloss":"dea Yawe dea"},{"surface":"לשם","gloss":"ɛbɛyɛ din"},{"surface":"לאות","gloss":"nsɛnkyerɛnne"},{"surface":"עולם","gloss":"a ɛbɛkɔ so ⟨daa⟩"},{"surface":"לא","gloss":"a wɔre-…-da (nnegation)"},{"surface":"יכרת","gloss":"wɔremmu no"}],"timestamp":"2026-09-16T00:00:06.994298014Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 55:13",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 55,
+  "translation": "Ananmu kɔkɔɔdɔ no, sipres dua bɛso; ananmu atwerɛ no, hasidua bɛso; na ɛbɛyɛ dea Yawe dea, ɛbɛyɛ din, ɛbɛyɛ nsɛnkyerɛnne a ɛbɛkɔ so ⟨daa⟩, a wɔremmu no da.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ananmu"
+    },
+    {
+      "surface": "הנעצוץ",
+      "gloss": "kɔkɔɔdɔ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bɛso"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "sipres dua"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananmu"
+    },
+    {
+      "surface": "הסרפד",
+      "gloss": "atwerɛ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bɛso"
+    },
+    {
+      "surface": "הדס",
+      "gloss": "hasidua"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dea Yawe dea"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ɛbɛyɛ din"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nsɛnkyerɛnne"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a ɛbɛkɔ so ⟨daa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a wɔre-…-da (nnegation)"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "wɔremmu no"
+    }
+  ],
+  "timestamp": "2026-09-16T00:00:06.994298014Z",
+  "model": "glm-5.3"
+}

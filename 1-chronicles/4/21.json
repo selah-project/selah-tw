@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":21,"ref":"1-chronicles 4:21","book":"1-chronicles","lang":"tw","chapter":4,"translation":"Shela, Yehuda ba, mma ne: Er, Leka agya, na Laada, Maresha agya; na abusua a wɔyɛ adwuma a ɛfa bɔtɔ nnwa ho no — Ashbea fie dea.","tokens":[{"surface":"בני","gloss":"mma"},{"surface":"שלה","gloss":"Shela"},{"surface":"בן","gloss":"ba"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"ער","gloss":"Er"},{"surface":"אבי","gloss":"agya"},{"surface":"לכה","gloss":"Leka"},{"surface":"ולעדה","gloss":"na Laada"},{"surface":"אבי","gloss":"agya"},{"surface":"מרשה","gloss":"Maresha"},{"surface":"ומשפחות","gloss":"na abusua"},{"surface":"בית","gloss":"fie"},{"surface":"עבדת","gloss":"adwuma"},{"surface":"הבץ","gloss":"bɔtɔ nnwa ho"},{"surface":"לבית","gloss":"— Ashbea fie dea"},{"surface":"אשבע","gloss":"Ashbea"}],"timestamp":"2026-09-16T05:54:45.313636772Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 4:21",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Shela, Yehuda ba, mma ne: Er, Leka agya, na Laada, Maresha agya; na abusua a wɔyɛ adwuma a ɛfa bɔtɔ nnwa ho no — Ashbea fie dea.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Leka"
+    },
+    {
+      "surface": "ולעדה",
+      "gloss": "na Laada"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "agya"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "na abusua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adwuma"
+    },
+    {
+      "surface": "הבץ",
+      "gloss": "bɔtɔ nnwa ho"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "— Ashbea fie dea"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "Ashbea"
+    }
+  ],
+  "timestamp": "2026-09-16T05:54:45.313636772Z",
+  "model": "glm-5.3"
+}

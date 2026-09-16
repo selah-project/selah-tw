@@ -1,1 +1,121 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 29:2","book":"1-chronicles","lang":"tw","chapter":29,"translation":"Na me ahoɔden nyinaa mu mihyɛɛ deɛ ɛbɛboa fie a ɛyɛ m'Eloohim dea: sika kɔkɔɔ ma sika kɔkɔɔ nneyɛeɛ, dwetɛ ma dwetɛ nneyɛeɛ, nkɔnsankɔn ma nkɔnsankɔn nneyɛeɛ, dadeɛ ma dadeɛ nneyɛeɛ, nwoma ma nwoma nneyɛeɛ, Shaham aboɔ, ne ahoɔdeɛ mmɔhyɛ, puk aboɔ ne nkyerɛwdeɛ-akɔnsua, ne aboɔ a ɛsom bo biara, ne Shayish aboɔ dodoɔ.","tokens":[{"surface":"וככל","gloss":"Na me ahoɔden nyinaa mu"},{"surface":"כחי","gloss":"me ahoɔden"},{"surface":"הכינותי","gloss":"mihyɛɛ"},{"surface":"לבית","gloss":"fie"},{"surface":"אלהי","gloss":"m'Eloohim dea"},{"surface":"הזהב","gloss":"sika kɔkɔɔ"},{"surface":"לזהב","gloss":"ma sika kɔkɔɔ nneyɛeɛ"},{"surface":"והכסף","gloss":"dwetɛ"},{"surface":"לכסף","gloss":"ma dwetɛ nneyɛeɛ"},{"surface":"והנחשת","gloss":"nkɔnsankɔn"},{"surface":"לנחשת","gloss":"ma nkɔnsankɔn nneyɛeɛ"},{"surface":"הברזל","gloss":"dadeɛ"},{"surface":"לברזל","gloss":"ma dadeɛ nneyɛeɛ"},{"surface":"והעצים","gloss":"nwoma"},{"surface":"לעצים","gloss":"ma nwoma nneyɛeɛ"},{"surface":"אבני","gloss":"aboɔ"},{"surface":"שהם","gloss":"Shaham"},{"surface":"ומלואים","gloss":"ne mmɔhyɛdeɛ"},{"surface":"אבני","gloss":"aboɔ"},{"surface":"פוך","gloss":"puk"},{"surface":"ורקמה","gloss":"ne akɔnsua"},{"surface":"וכל","gloss":"ne ... biara"},{"surface":"אבן","gloss":"aboɔ"},{"surface":"יקרה","gloss":"a ɛsom bo"},{"surface":"ואבני","gloss":"ne aboɔ"},{"surface":"שיש","gloss":"Shayish"},{"surface":"לרב","gloss":"dodoɔ"}],"timestamp":"2026-09-16T04:52:45.827319759Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 29:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 29,
+  "translation": "Na me ahoɔden nyinaa mu mihyɛɛ deɛ ɛbɛboa fie a ɛyɛ m'Eloohim dea: sika kɔkɔɔ ma sika kɔkɔɔ nneyɛeɛ, dwetɛ ma dwetɛ nneyɛeɛ, nkɔnsankɔn ma nkɔnsankɔn nneyɛeɛ, dadeɛ ma dadeɛ nneyɛeɛ, nwoma ma nwoma nneyɛeɛ, Shaham aboɔ, ne ahoɔdeɛ mmɔhyɛ, puk aboɔ ne nkyerɛwdeɛ-akɔnsua, ne aboɔ a ɛsom bo biara, ne Shayish aboɔ dodoɔ.",
+  "tokens": [
+    {
+      "surface": "וככל",
+      "gloss": "Na me ahoɔden nyinaa mu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "me ahoɔden"
+    },
+    {
+      "surface": "הכינותי",
+      "gloss": "mihyɛɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "m'Eloohim dea"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "ma sika kɔkɔɔ nneyɛeɛ"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "dwetɛ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "ma dwetɛ nneyɛeɛ"
+    },
+    {
+      "surface": "והנחשת",
+      "gloss": "nkɔnsankɔn"
+    },
+    {
+      "surface": "לנחשת",
+      "gloss": "ma nkɔnsankɔn nneyɛeɛ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "dadeɛ"
+    },
+    {
+      "surface": "לברזל",
+      "gloss": "ma dadeɛ nneyɛeɛ"
+    },
+    {
+      "surface": "והעצים",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "לעצים",
+      "gloss": "ma nwoma nneyɛeɛ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "Shaham"
+    },
+    {
+      "surface": "ומלואים",
+      "gloss": "ne mmɔhyɛdeɛ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "פוך",
+      "gloss": "puk"
+    },
+    {
+      "surface": "ורקמה",
+      "gloss": "ne akɔnsua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... biara"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "a ɛsom bo"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ne aboɔ"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "Shayish"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "dodoɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:52:45.827319759Z",
+  "model": "glm-5.3"
+}

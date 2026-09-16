@@ -1,1 +1,121 @@
-{"tier":"glm-5.2","verse":10,"ref":"nehemiah 6:10","book":"nehemiah","lang":"tw","chapter":6,"translation":"Na me kɔɔ Shemayah fie — Delaya ba, Meheitabel ba — na ɔatɛm, na ɔkaa sɛ: Momma yɛnhyia wɔ Eloohim fie, wɔ heikal no mu, na yɛnnya ahina ama heikal no apono ahodoɔ, efisɛ wɔreba kum wo; anadwo nso wɔreba kum wo.","tokens":[{"surface":"ואני","gloss":"na me"},{"surface":"באתי","gloss":"kɔɔ"},{"surface":"בית","gloss":"fie"},{"surface":"שמעיה","gloss":"Shemayah"},{"surface":"בן","gloss":"ba"},{"surface":"דליה","gloss":"Delaya"},{"surface":"בן","gloss":"ba"},{"surface":"מהיטבאל","gloss":"Meheitabel"},{"surface":"והוא","gloss":"na ɔ"},{"surface":"עצור","gloss":"atɛm"},{"surface":"ויאמר","gloss":"na ɔkaa sɛ"},{"surface":"נועד","gloss":"momma yɛnhyia"},{"surface":"אל","gloss":"wɔ"},{"surface":"בית","gloss":"fie"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"אל","gloss":"wɔ"},{"surface":"תוך","gloss":"mu"},{"surface":"ההיכל","gloss":"heikal no"},{"surface":"ונסגרה","gloss":"na yɛnnya ahina ama"},{"surface":"דלתות","gloss":"apono ahodoɔ"},{"surface":"ההיכל","gloss":"heikal no"},{"surface":"כי","gloss":"efisɛ"},{"surface":"באים","gloss":"wɔreba"},{"surface":"להרגך","gloss":"kum wo"},{"surface":"ולילה","gloss":"anadwo nso"},{"surface":"באים","gloss":"wɔreba"},{"surface":"להרגך","gloss":"kum wo"}],"timestamp":"2026-09-16T04:27:35.978933448Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 6:10",
+  "book": "nehemiah",
+  "lang": "tw",
+  "chapter": 6,
+  "translation": "Na me kɔɔ Shemayah fie — Delaya ba, Meheitabel ba — na ɔatɛm, na ɔkaa sɛ: Momma yɛnhyia wɔ Eloohim fie, wɔ heikal no mu, na yɛnnya ahina ama heikal no apono ahodoɔ, efisɛ wɔreba kum wo; anadwo nso wɔreba kum wo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Delaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "Meheitabel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ɔ"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "atɛm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔkaa sɛ"
+    },
+    {
+      "surface": "נועד",
+      "gloss": "momma yɛnhyia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikal no"
+    },
+    {
+      "surface": "ונסגרה",
+      "gloss": "na yɛnnya ahina ama"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "apono ahodoɔ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikal no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efisɛ"
+    },
+    {
+      "surface": "באים",
+      "gloss": "wɔreba"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "kum wo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "anadwo nso"
+    },
+    {
+      "surface": "באים",
+      "gloss": "wɔreba"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "kum wo"
+    }
+  ],
+  "timestamp": "2026-09-16T04:27:35.978933448Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,96 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "joshua 14:7", "book": "joshua", "lang": "tw", "chapter": 14, "translation": "Mfeɛ aduanan na me dii berɛ a Moshe, Yawe akoa no, somaa me ⟨את⟩ firi Kadesh-Barnea sɛ makɔhwehwɛ ⟨את⟩ asase no, na mesan de ⟨את⟩ asɛm baa ne nkyɛn sɛnea ɛwɔ me akoma mu.", "tokens": [{"surface": "בן", "gloss": "mfeɛ"}, {"surface": "ארבעים", "gloss": "aduanan"}, {"surface": "שנה", "gloss": "mfeɛ"}, {"surface": "אנכי", "gloss": "me"}, {"surface": "בשלח", "gloss": "somaa me berɛ a"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "עבד", "gloss": "akoa"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "me"}, {"surface": "מקדש", "gloss": "firi Kadesh"}, {"surface": "ברנע", "gloss": "Barnea"}, {"surface": "לרגל", "gloss": "sɛ makɔhwehwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase no"}, {"surface": "הארץ", "gloss": "asase no"}, {"surface": "ואשב", "gloss": "na mesan de baa"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "asɛm"}, {"surface": "דבר", "gloss": "asɛm"}, {"surface": "כאשר", "gloss": "sɛnea"}, {"surface": "עם", "gloss": "wɔ"}, {"surface": "לבבי", "gloss": "me akoma mu"}], "timestamp": "2026-09-15T22:06:16.055236067Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 14:7",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Mfeɛ aduanan na me dii berɛ a Moshe, Yawe akoa no, somaa me ⟨את⟩ firi Kadesh-Barnea sɛ makɔhwehwɛ ⟨את⟩ asase no, na mesan de ⟨את⟩ asɛm baa ne nkyɛn sɛnea ɛwɔ me akoma mu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "somaa me berɛ a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "firi Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "sɛ makɔhwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "na mesan de baa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "asɛm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asɛm"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wɔ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "me akoma mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:06:16.055236067Z",
+  "model": "glm-5.3"
+}

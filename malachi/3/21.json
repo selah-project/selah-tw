@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":21,"ref":"malachi 3:21","book":"malachi","lang":"tw","chapter":3,"translation":"Mo bɛporow abɔnefoɔ no, ɛfiri sɛ wɔbɛyɛ ntomguo wɔ mo nan aseɛ, wɔ ɛda a mɛyɛ no, Yawe Tsebaot de asɛm no.","tokens":[{"surface":"ועסותם","gloss":"mo bɛporow"},{"surface":"רשעים","gloss":"abɔnefoɔ no"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"יהיו","gloss":"wɔbɛyɛ"},{"surface":"אפר","gloss":"ntomguo"},{"surface":"תחת","gloss":"aseɛ"},{"surface":"כפות","gloss":"⟨nan⟩"},{"surface":"רגליכם","gloss":"mo nan"},{"surface":"ביום","gloss":"wɔ ɛda"},{"surface":"אשר","gloss":"a"},{"surface":"אני","gloss":"me"},{"surface":"עשה","gloss":"mɛyɛ"},{"surface":"אמר","gloss":"de asɛm"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"צבאות","gloss":"Tsevaot"}],"timestamp":"2026-09-16T05:39:12.851691570Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "malachi 3:21",
+  "book": "malachi",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Mo bɛporow abɔnefoɔ no, ɛfiri sɛ wɔbɛyɛ ntomguo wɔ mo nan aseɛ, wɔ ɛda a mɛyɛ no, Yawe Tsebaot de asɛm no.",
+  "tokens": [
+    {
+      "surface": "ועסותם",
+      "gloss": "mo bɛporow"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abɔnefoɔ no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wɔbɛyɛ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ntomguo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aseɛ"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "⟨nan⟩"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "mo nan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wɔ ɛda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mɛyɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de asɛm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-16T05:39:12.851691570Z",
+  "model": "glm-5.3"
+}

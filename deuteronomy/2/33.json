@@ -1,1 +1,60 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "deuteronomy 2:33", "book": "deuteronomy", "lang": "tw", "chapter": 2, "translation": "Na Yawe yɛn Eloohim maa no wɔ yɛn anim, na yɛbɔe no, ⟨את⟩ ne ⟨את⟩ ne mma, ne ⟨את⟩ n'aman nyinaa.", "tokens": [{"surface": "ויתנהו", "gloss": "maa no"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "אלהינו", "gloss": "yɛn Eloohim"}, {"surface": "לפנינו", "gloss": "wɔ yɛn anim"}, {"surface": "ונך", "gloss": "na yɛbɔe"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "no"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "ne mma"}, {"surface": "בנו", "gloss": "ne mma"}, {"surface": "ואת", "gloss": "ne ⟨את⟩", "marks": "n'aman nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "עמו", "gloss": "n'aman"}], "timestamp": "2026-09-15T21:45:45.751512768Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Yawe yɛn Eloohim maa no wɔ yɛn anim, na yɛbɔe no, ⟨את⟩ ne ⟨את⟩ ne mma, ne ⟨את⟩ n'aman nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "maa no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yɛn Eloohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "wɔ yɛn anim"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "na yɛbɔe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "ne mma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne ⟨את⟩",
+      "marks": "n'aman nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'aman"
+    }
+  ],
+  "timestamp": "2026-09-15T21:45:45.751512768Z",
+  "model": "glm-5.3"
+}

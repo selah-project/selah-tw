@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 16:2","book":"1-chronicles","lang":"tw","chapter":16,"translation":"Na Dawid wiee ɔhyeɛ afɔdeɛ ne asomdwoeɛ afɔdeɛ no mmoa, na ɔhyiraa ⟨את⟩ nkorɔfoɔ no wɔ Yawe din mu.","tokens":[{"surface":"ויכל","gloss":"na ... wiee"},{"surface":"דויד","gloss":"Dawid"},{"surface":"מהעלות","gloss":"no mmoa"},{"surface":"העלה","gloss":"ɔhyeɛ afɔdeɛ"},{"surface":"והשלמים","gloss":"ne asomdwoeɛ afɔdeɛ"},{"surface":"ויברך","gloss":"na ɔhyiraa"},{"surface":"את","gloss":"⟨את⟩","marks":"nkorɔfoɔ no"},{"surface":"העם","gloss":"nkorɔfoɔ no"},{"surface":"בשם","gloss":"wɔ ... din mu"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T04:43:52.477873347Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Na Dawid wiee ɔhyeɛ afɔdeɛ ne asomdwoeɛ afɔdeɛ no mmoa, na ɔhyiraa ⟨את⟩ nkorɔfoɔ no wɔ Yawe din mu.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "na ... wiee"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "no mmoa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɔhyeɛ afɔdeɛ"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ne asomdwoeɛ afɔdeɛ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na ɔhyiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nkorɔfoɔ no"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "wɔ ... din mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T04:43:52.477873347Z",
+  "model": "glm-5.3"
+}

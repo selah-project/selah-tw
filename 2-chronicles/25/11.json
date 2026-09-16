@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "2-chronicles 25:11", "book": "2-chronicles", "lang": "tw", "chapter": 25, "translation": "Na Amatsjah hyɛɛ ne ho den, dwanee ⟨את⟩ ne manfoɔ no, kɔɔ Nkyen Bɔnno mu, kumii ⟨את⟩ Seir mma no mpem du.", "tokens": [{"surface": "ואמציהו", "gloss": "Amatsjah"}, {"surface": "התחזק", "gloss": "hyɛɛ ne ho den"}, {"surface": "וינהג", "gloss": "dwanee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne manfoɔ no"}, {"surface": "עמו", "gloss": "ne manfoɔ no"}, {"surface": "וילך", "gloss": "kɔɔ"}, {"surface": "גיא", "gloss": "bɔnno"}, {"surface": "המלח", "gloss": "nkyen"}, {"surface": "ויך", "gloss": "kumii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Seir mma no"}, {"surface": "בני", "gloss": "mma"}, {"surface": "שעיר", "gloss": "Seir"}, {"surface": "עשרת", "gloss": "du"}, {"surface": "אלפים", "gloss": "mpem"}], "timestamp": "2026-09-16T05:05:58.658206498Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na Amatsjah hyɛɛ ne ho den, dwanee ⟨את⟩ ne manfoɔ no, kɔɔ Nkyen Bɔnno mu, kumii ⟨את⟩ Seir mma no mpem du.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "Amatsjah"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "hyɛɛ ne ho den"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dwanee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne manfoɔ no"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ne manfoɔ no"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "bɔnno"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "nkyen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kumii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seir mma no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mpem"
+    }
+  ],
+  "timestamp": "2026-09-16T05:05:58.658206498Z",
+  "model": "glm-5.3"
+}

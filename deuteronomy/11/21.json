@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":21,"ref":"deuteronomy 11:21","book":"deuteronomy","lang":"tw","chapter":11,"translation":"Sɛdeɛ mo nna bɛdɔɔso, ne mo mma nna, wɔ ⟨asase⟩ no a Yawe bɔɔ tam kyerɛɛ mo agyafoɔ sɛ ɔde bɛma wɔn no so — sɛ ɔsoro nna da ⟨asase⟩ so.","tokens":[{"surface":"למען","gloss":"Sɛdeɛ"},{"surface":"ירבו","gloss":"bɛdɔɔso"},{"surface":"ימיכם","gloss":"mo nna"},{"surface":"וימי","gloss":"ne … nna"},{"surface":"בניכם","gloss":"mo mma"},{"surface":"על","gloss":"wɔ … so"},{"surface":"האדמה","gloss":"⟨asase⟩ no"},{"surface":"אשר","gloss":"a"},{"surface":"נשבע","gloss":"bɔɔ tam"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לאבתיכם","gloss":"mo agyafoɔ"},{"surface":"לתת","gloss":"sɛ ɔde bɛma"},{"surface":"להם","gloss":"wɔn"},{"surface":"כימי","gloss":"sɛ … nna"},{"surface":"השמים","gloss":"ɔsoro"},{"surface":"על","gloss":"da … so"},{"surface":"הארץ","gloss":"⟨asase⟩"}],"timestamp":"2026-09-15T21:49:15.905455005Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 11:21",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 11,
+  "translation": "Sɛdeɛ mo nna bɛdɔɔso, ne mo mma nna, wɔ ⟨asase⟩ no a Yawe bɔɔ tam kyerɛɛ mo agyafoɔ sɛ ɔde bɛma wɔn no so — sɛ ɔsoro nna da ⟨asase⟩ so.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Sɛdeɛ"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "bɛdɔɔso"
+    },
+    {
+      "surface": "ימיכם",
+      "gloss": "mo nna"
+    },
+    {
+      "surface": "וימי",
+      "gloss": "ne … nna"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "mo mma"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ … so"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨asase⟩ no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bɔɔ tam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "mo agyafoɔ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sɛ ɔde bɛma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sɛ … nna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ɔsoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "da … so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨asase⟩"
+    }
+  ],
+  "timestamp": "2026-09-15T21:49:15.905455005Z",
+  "model": "glm-5.3"
+}

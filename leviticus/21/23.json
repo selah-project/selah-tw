@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":23,"ref":"leviticus 21:23","book":"leviticus","lang":"tw","chapter":21,"translation":"Nanso ɔnnkɔ paraoket no ho, na ɔnnkɔso ogyadan no so, ɛfiri sɛ mumu wɔ ne mu; na ɔmmɛma ⟨את⟩ me nkronkronbea ahodoɔ no ayɛ difiri; ɛfiri sɛ me ne Yawe, me na mede kronkrondie aba wɔn so.","tokens":[{"surface":"אך","gloss":"nanso"},{"surface":"אל","gloss":"ho"},{"surface":"הפרכת","gloss":"paraoket"},{"surface":"לא","gloss":"nn"},{"surface":"יבא","gloss":"ɔnkɔ"},{"surface":"ואל","gloss":"na ... so"},{"surface":"המזבח","gloss":"ogyadan"},{"surface":"לא","gloss":"nn"},{"surface":"יגש","gloss":"ɔnnkɔso"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"מום","gloss":"mumu"},{"surface":"בו","gloss":"ne mu"},{"surface":"ולא","gloss":"na ɔmmɛ"},{"surface":"יחלל","gloss":"ayɛ difiri"},{"surface":"את","gloss":"⟨את⟩","marks":"me nkronkronbea ahodoɔ"},{"surface":"מקדשי","gloss":"me nkronkronbea ahodoɔ"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"אני","gloss":"me ne"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"מקדשם","gloss":"mede kronkrondie ba wɔn so"}],"timestamp":"2026-09-15T21:19:36.764265950Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Nanso ɔnnkɔ paraoket no ho, na ɔnnkɔso ogyadan no so, ɛfiri sɛ mumu wɔ ne mu; na ɔmmɛma ⟨את⟩ me nkronkronbea ahodoɔ no ayɛ difiri; ɛfiri sɛ me ne Yawe, me na mede kronkrondie aba wɔn so.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paraoket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ɔnkɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ... so"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ogyadan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ɔnnkɔso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mumu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ɔmmɛ"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "ayɛ difiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me nkronkronbea ahodoɔ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "me nkronkronbea ahodoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "mede kronkrondie ba wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:36.764265950Z",
+  "model": "glm-5.3"
+}

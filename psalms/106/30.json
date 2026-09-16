@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":30,"ref":"psalms 106:30","book":"psalms","lang":"tw","chapter":106,"translation":"Pinehas gyinaa hvn na obuu atɛn, na mmorɔsa no gyaa.","tokens":[{"surface":"ויעמד","gloss":"gyinaa hvn"},{"surface":"פינחס","gloss":"Pinehas"},{"surface":"ויפלל","gloss":"na obuu atɛn"},{"surface":"ותעצר","gloss":"na ... gyaa"},{"surface":"המגפה","gloss":"mmorɔsa no"}],"timestamp":"2026-09-16T02:23:27.177737004Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 106,
+  "translation": "Pinehas gyinaa hvn na obuu atɛn, na mmorɔsa no gyaa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "gyinaa hvn"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "na obuu atɛn"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "na ... gyaa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "mmorɔsa no"
+    }
+  ],
+  "timestamp": "2026-09-16T02:23:27.177737004Z",
+  "model": "glm-5.3"
+}

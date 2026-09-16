@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-chronicles 26:12","book":"2-chronicles","lang":"tw","chapter":26,"translation":"Wɔn nyinaa dodow — abusua akannifoɔ, akokoduro atitiriwfoɔ — yɛɛ apem ebien ne aha nsia.","tokens":[{"surface":"כל","gloss":"nyinaa"},{"surface":"מספר","gloss":"dodow"},{"surface":"ראשי","gloss":"akannifoɔ"},{"surface":"האבות","gloss":"abusua atitiriw"},{"surface":"לגבורי","gloss":"akokodurofoɔ"},{"surface":"חיל","gloss":"ahoɔden"},{"surface":"אלפים","gloss":"apem ebien"},{"surface":"ושש","gloss":"ne nsia"},{"surface":"מאות","gloss":"aha"}],"timestamp":"2026-09-16T05:58:49.830412267Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Wɔn nyinaa dodow — abusua akannifoɔ, akokoduro atitiriwfoɔ — yɛɛ apem ebien ne aha nsia.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "dodow"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akannifoɔ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "abusua atitiriw"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "akokodurofoɔ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ahoɔden"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "apem ebien"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ne nsia"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-16T05:58:49.830412267Z",
+  "model": "glm-5.3"
+}

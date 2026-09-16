@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":18,"ref":"joshua 10:18","book":"joshua","lang":"tw","chapter":10,"translation":"Yehoshua kaa se: Monintinn aboɔ akɛseɛ mmɔ abura no ano, na mo nkurɔfo nkɔ so hwɛ wɔn so.","tokens":[{"surface":"ויאמר","gloss":"kaa se"},{"surface":"יהושע","gloss":"Yehoshua"},{"surface":"גלו","gloss":"monintinn"},{"surface":"אבנים","gloss":"aboɔ"},{"surface":"גדלות","gloss":"akɛseɛ"},{"surface":"אל","gloss":"mmɔ"},{"surface":"פי","gloss":"ano"},{"surface":"המערה","gloss":"abura no"},{"surface":"והפקידו","gloss":"mo nkurɔfo nkɔ so hwɛ"},{"surface":"עליה","gloss":"so"},{"surface":"אנשים","gloss":"nnipa"},{"surface":"לשמרם","gloss":"hwɛ wɔn so"}],"timestamp":"2026-09-15T22:04:53.455682167Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 10:18",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Yehoshua kaa se: Monintinn aboɔ akɛseɛ mmɔ abura no ano, na mo nkurɔfo nkɔ so hwɛ wɔn so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa se"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "monintinn"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "aboɔ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mmɔ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "abura no"
+    },
+    {
+      "surface": "והפקידו",
+      "gloss": "mo nkurɔfo nkɔ so hwɛ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "לשמרם",
+      "gloss": "hwɛ wɔn so"
+    }
+  ],
+  "timestamp": "2026-09-15T22:04:53.455682167Z",
+  "model": "glm-5.3"
+}

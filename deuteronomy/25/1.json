@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "deuteronomy 25:1", "book": "deuteronomy", "lang": "tw", "chapter": 25, "translation": "Sɛ asɛm sɛso ba nnipa ntam, na wɔba atemmuo no ase, na wɔbu atemmu, na wɔde kwaseafuo no yɛ ⟨את⟩ kwaseafoɔ, na wɔde ⟨את⟩ bɔnefoɔ no yɛ bɔnefoɔ.", "tokens": [{"surface": "כי", "gloss": "sɛ"}, {"surface": "יהיה", "gloss": "ba"}, {"surface": "ריב", "gloss": "asɛm sɛso"}, {"surface": "בין", "gloss": "ntam"}, {"surface": "אנשים", "gloss": "nnipa"}, {"surface": "ונגשו", "gloss": "na wɔba"}, {"surface": "אל", "gloss": "ase"}, {"surface": "המשפט", "gloss": "atemmuo no"}, {"surface": "ושפטום", "gloss": "na wɔbu atemmu"}, {"surface": "והצדיקו", "gloss": "na wɔde kwaseafuo no yɛ kwaseafoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kwaseafoɔ no"}, {"surface": "הצדיק", "gloss": "kwaseafoɔ no"}, {"surface": "והרשיעו", "gloss": "na wɔde bɔnefoɔ no yɛ bɔnefoɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bɔnefoɔ no"}, {"surface": "הרשע", "gloss": "bɔnefoɔ no"}], "timestamp": "2026-09-15T21:55:49.315383543Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Sɛ asɛm sɛso ba nnipa ntam, na wɔba atemmuo no ase, na wɔbu atemmu, na wɔde kwaseafuo no yɛ ⟨את⟩ kwaseafoɔ, na wɔde ⟨את⟩ bɔnefoɔ no yɛ bɔnefoɔ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "asɛm sɛso"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ntam"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "nnipa"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "na wɔba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ase"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "atemmuo no"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "na wɔbu atemmu"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "na wɔde kwaseafuo no yɛ kwaseafoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwaseafoɔ no"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "kwaseafoɔ no"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "na wɔde bɔnefoɔ no yɛ bɔnefoɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔnefoɔ no"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bɔnefoɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:55:49.315383543Z",
+  "model": "glm-5.3"
+}

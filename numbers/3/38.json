@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":38,"ref":"numbers 3:38","book":"numbers","lang":"tw","chapter":3,"translation":"Ne wɔn a wɔtenaa asɔredan no anim, wɔ apuei fam, Nhyiam Tɛnt no anim, apuei fam, na Mose ne Aharon ne ne mma; wɔhwɛɛ asɔrfie no so hwɛso, ma Yisrael mma no so hwɛso; ɔbayifo biara a ɔbɛn no bɛwu.","tokens":[{"surface":"והחנים","gloss":"ne wɔn a wɔtenaa"},{"surface":"לפני","gloss":"anim"},{"surface":"המשכן","gloss":"asɔredan no"},{"surface":"קדמה","gloss":"wɔ apuei fam"},{"surface":"לפני","gloss":"anim"},{"surface":"אהל","gloss":"Tɛnt"},{"surface":"מועד","gloss":"Nhyiam"},{"surface":"מזרחה","gloss":"apuei fam"},{"surface":"משה","gloss":"Mose"},{"surface":"ואהרן","gloss":"ne Aharon"},{"surface":"ובניו","gloss":"ne ne mma"},{"surface":"שמרים","gloss":"wɔhwɛɛ so"},{"surface":"משמרת","gloss":"hwɛso"},{"surface":"המקדש","gloss":"asɔrfie no"},{"surface":"למשמרת","gloss":"ma ... so hwɛso"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"והזר","gloss":"ne ɔbayifo"},{"surface":"הקרב","gloss":"a ɔbɛn"},{"surface":"יומת","gloss":"bɛwu"}],"timestamp":"2026-09-15T21:25:46.419516945Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 3:38",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Ne wɔn a wɔtenaa asɔredan no anim, wɔ apuei fam, Nhyiam Tɛnt no anim, apuei fam, na Mose ne Aharon ne ne mma; wɔhwɛɛ asɔrfie no so hwɛso, ma Yisrael mma no so hwɛso; ɔbayifo biara a ɔbɛn no bɛwu.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ne wɔn a wɔtenaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "asɔredan no"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "wɔ apuei fam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tɛnt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nhyiam"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "apuei fam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ne Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ne ne mma"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "wɔhwɛɛ so"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "hwɛso"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "asɔrfie no"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "ma ... so hwɛso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ne ɔbayifo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a ɔbɛn"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bɛwu"
+    }
+  ],
+  "timestamp": "2026-09-15T21:25:46.419516945Z",
+  "model": "glm-5.3"
+}

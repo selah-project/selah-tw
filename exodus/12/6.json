@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "exodus 12:6", "book": "exodus", "lang": "tw", "chapter": 12, "translation": "Mo bɛhwɛ so akɔsi sɛ ɔbɛdu bosome no da a ɛtɔ so nnan ne du; na Yisraël nnyigyei ne amanfoo ⟨את⟩ nyinaa bɛtwetwe abirekyie no asiesie anwummerɛ berɛ mu.", "tokens": [{"surface": "והיה", "gloss": "bɛhwɛ so"}, {"surface": "לכם", "gloss": "mo"}, {"surface": "למשמרת", "gloss": "hwɛ so"}, {"surface": "עד", "gloss": "kɔsi sɛ"}, {"surface": "ארבעה", "gloss": "nan"}, {"surface": "עשר", "gloss": "du"}, {"surface": "יום", "gloss": "da"}, {"surface": "לחדש", "gloss": "bosome"}, {"surface": "הזה", "gloss": "no"}, {"surface": "ושחטו", "gloss": "bɛtwetwe no asiesie"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "abirekyie no"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "קהל", "gloss": "nnyigyei"}, {"surface": "עדת", "gloss": "amanfoo"}, {"surface": "ישראל", "gloss": "Yisraël"}, {"surface": "בין", "gloss": "berɛ mu"}, {"surface": "הערבים", "gloss": "anwummerɛ"}], "timestamp": "2026-09-15T20:48:27.073863778Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Mo bɛhwɛ so akɔsi sɛ ɔbɛdu bosome no da a ɛtɔ so nnan ne du; na Yisraël nnyigyei ne amanfoo ⟨את⟩ nyinaa bɛtwetwe abirekyie no asiesie anwummerɛ berɛ mu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bɛhwɛ so"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "hwɛ so"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kɔsi sɛ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "du"
+    },
+    {
+      "surface": "יום",
+      "gloss": "da"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bosome"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "no"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "bɛtwetwe no asiesie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "abirekyie no"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nnyigyei"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "amanfoo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "בין",
+      "gloss": "berɛ mu"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "anwummerɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:48:27.073863778Z",
+  "model": "glm-5.3"
+}

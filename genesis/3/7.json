@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":7,"ref":"genesis 3:7","book":"genesis","lang":"tw","chapter":3,"translation":"Na wɔn baanu ani buee, na wɔhuu sɛ wɔyɛ ayɛɔteɛ; enti wɔkyekyeree tekyerɛma dua no nhaban na wɔyɛɛ wɔn ho bɔtoɔ.","tokens":[{"surface":"ותפקחנה","gloss":"buee"},{"surface":"עיני","gloss":"ani"},{"surface":"שניהם","gloss":"wɔn baanu"},{"surface":"וידעו","gloss":"wɔhuu"},{"surface":"כי","gloss":"sɛ"},{"surface":"עירמם","gloss":"ayɛɔteɛ"},{"surface":"הם","gloss":"wɔyɛ"},{"surface":"ויתפרו","gloss":"wɔkyekyeree"},{"surface":"עלה","gloss":"nhaban"},{"surface":"תאנה","gloss":"tekyerɛma dua no"},{"surface":"ויעשו","gloss":"wɔyɛɛ"},{"surface":"להם","gloss":"wɔn ho"},{"surface":"חגרת","gloss":"bɔtoɔ"}],"timestamp":"2026-09-15T20:15:28.791325234Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 3:7",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na wɔn baanu ani buee, na wɔhuu sɛ wɔyɛ ayɛɔteɛ; enti wɔkyekyeree tekyerɛma dua no nhaban na wɔyɛɛ wɔn ho bɔtoɔ.",
+  "tokens": [
+    {
+      "surface": "ותפקחנה",
+      "gloss": "buee"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wɔn baanu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "wɔhuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "עירמם",
+      "gloss": "ayɛɔteɛ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "ויתפרו",
+      "gloss": "wɔkyekyeree"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nhaban"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "tekyerɛma dua no"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wɔn ho"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "bɔtoɔ"
+    }
+  ],
+  "timestamp": "2026-09-15T20:15:28.791325234Z",
+  "model": "glm-5.3"
+}

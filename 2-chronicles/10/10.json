@@ -1,1 +1,126 @@
-{"tier":"glm-5.2","verse":10,"ref":"2-chronicles 10:10","book":"2-chronicles","lang":"tw","chapter":10,"translation":"Nkwadaa a wɔne ⟨את⟩ no nyiniiɛ ⟨את⟩ no kasa kyerɛɛ ⟨את⟩ no sɛ: Sɛnea ti na wode asɛm yi kɔma nnipakuw no a wɔka kyerɛɛ wo sɛ: Wo papa ma yɛn ɛbrɛ no mu yɛɛ den, na wo, ma ɛyɛ hare ama yɛn — sɛnea ti na wɔbɛka akyerɛ wɔn: M'ansam ketewa no yɛ duru sen me papa akyi.","tokens":[{"surface":"וידברו","gloss":"wɔkasa kyerɛɛ"},{"surface":"אתו","gloss":"⟨את⟩ no"},{"surface":"הילדים","gloss":"nkwadaa"},{"surface":"אשר","gloss":"a"},{"surface":"גדלו","gloss":"wɔnyiniiɛ"},{"surface":"אתו","gloss":"⟨את⟩ no"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"כה","gloss":"sɛnea ti"},{"surface":"תאמר","gloss":"wode asɛm kɔma"},{"surface":"לעם","gloss":"nnipakuw no"},{"surface":"אשר","gloss":"a"},{"surface":"דברו","gloss":"wɔka kyerɛɛ"},{"surface":"אליך","gloss":"wo"},{"surface":"לאמר","gloss":"sɛ"},{"surface":"אביך","gloss":"wo papa"},{"surface":"הכביד","gloss":"ma … mu yɛɛ den"},{"surface":"את","gloss":"⟨את⟩","marks":"εbrε yɛn no"},{"surface":"עלנו","gloss":"yɛn ɛbrɛ"},{"surface":"ואתה","gloss":"na wo"},{"surface":"הקל","gloss":"ma ɛyɛ hare"},{"surface":"מעלינו","gloss":"firi yɛn so"},{"surface":"כה","gloss":"sɛnea ti"},{"surface":"תאמר","gloss":"wobɛka"},{"surface":"אלהם","gloss":"akyerɛ wɔn"},{"surface":"קטני","gloss":"m'ansam ketewa"},{"surface":"עבה","gloss":"yɛ duru"},{"surface":"ממתני","gloss":"sen … akyi"},{"surface":"אבי","gloss":"me papa"}],"timestamp":"2026-09-16T04:58:51.017673131Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 10:10",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 10,
+  "translation": "Nkwadaa a wɔne ⟨את⟩ no nyiniiɛ ⟨את⟩ no kasa kyerɛɛ ⟨את⟩ no sɛ: Sɛnea ti na wode asɛm yi kɔma nnipakuw no a wɔka kyerɛɛ wo sɛ: Wo papa ma yɛn ɛbrɛ no mu yɛɛ den, na wo, ma ɛyɛ hare ama yɛn — sɛnea ti na wɔbɛka akyerɛ wɔn: M'ansam ketewa no yɛ duru sen me papa akyi.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "wɔkasa kyerɛɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "nkwadaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "wɔnyiniiɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛnea ti"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wode asɛm kɔma"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nnipakuw no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wɔka kyerɛɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wo papa"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ma … mu yɛɛ den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "εbrε yɛn no"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "yɛn ɛbrɛ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wo"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ma ɛyɛ hare"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "firi yɛn so"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛnea ti"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wobɛka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "akyerɛ wɔn"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "m'ansam ketewa"
+    },
+    {
+      "surface": "עבה",
+      "gloss": "yɛ duru"
+    },
+    {
+      "surface": "ממתני",
+      "gloss": "sen … akyi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "me papa"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:51.017673131Z",
+  "model": "glm-5.3"
+}

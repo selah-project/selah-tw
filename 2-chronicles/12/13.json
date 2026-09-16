@@ -1,1 +1,142 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-chronicles 12:13","book":"2-chronicles","lang":"tw","chapter":12,"translation":"Na ɔhene Rɔhabɛam hyɛɛ ne ho den wɔ Yerusalem, na ɔdii ɔhene; ɛfiri sɛ Rɔhabɛam adi mfeɛ aduanan ne baako berɛ a ɔbɛyɛɛ ɔhene no, na ɔdii ɔhene mfeɛ dunsia wɔ Yerusalem, kuro a Yawe paw no wɔ Israelfoɔ mmusua nyinaa mu sɛ ɔde ⟨את⟩ ne din bɛto hɔ; na ne maame din de Naama, Amɔnno-ba.","tokens":[{"surface":"ויתחזק","gloss":"hyɛɛ ne ho den"},{"surface":"המלך","gloss":"ɔhene"},{"surface":"רחבעם","gloss":"Rɔhabɛam"},{"surface":"בירושלם","gloss":"wɔ Yerusalem"},{"surface":"וימלך","gloss":"na ɔdii ɔhene"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בן","gloss":"-ba (adi mfeɛ)"},{"surface":"ארבעים","gloss":"aduanan"},{"surface":"ואחת","gloss":"ne baako"},{"surface":"שנה","gloss":"mfeɛ"},{"surface":"רחבעם","gloss":"Rɔhabɛam"},{"surface":"במלכו","gloss":"berɛ a ɔbɛyɛɛ ɔhene"},{"surface":"ושבע","gloss":"na dunsia"},{"surface":"עשרה","gloss":"-sia (du)"},{"surface":"שנה","gloss":"mfeɛ"},{"surface":"מלך","gloss":"dii ɔhene"},{"surface":"בירושלם","gloss":"wɔ Yerusalem"},{"surface":"העיר","gloss":"kuro"},{"surface":"אשר","gloss":"a"},{"surface":"בחר","gloss":"paw"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"לשום","gloss":"sɛ ɔde bɛto"},{"surface":"את","gloss":"⟨את⟩","marks":"ne din"},{"surface":"שמו","gloss":"ne din"},{"surface":"שם","gloss":"hɔ"},{"surface":"מכל","gloss":"wɔ ... nyinaa mu"},{"surface":"שבטי","gloss":"mmusua"},{"surface":"ישראל","gloss":"Israelfoɔ"},{"surface":"ושם","gloss":"na ... din"},{"surface":"אמו","gloss":"ne maame"},{"surface":"נעמה","gloss":"Naama"},{"surface":"העמנית","gloss":"Amɔnno-ba"}],"timestamp":"2026-09-16T04:58:25.435383480Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 12:13",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 12,
+  "translation": "Na ɔhene Rɔhabɛam hyɛɛ ne ho den wɔ Yerusalem, na ɔdii ɔhene; ɛfiri sɛ Rɔhabɛam adi mfeɛ aduanan ne baako berɛ a ɔbɛyɛɛ ɔhene no, na ɔdii ɔhene mfeɛ dunsia wɔ Yerusalem, kuro a Yawe paw no wɔ Israelfoɔ mmusua nyinaa mu sɛ ɔde ⟨את⟩ ne din bɛto hɔ; na ne maame din de Naama, Amɔnno-ba.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "hyɛɛ ne ho den"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rɔhabɛam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na ɔdii ɔhene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ba (adi mfeɛ)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "aduanan"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ne baako"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rɔhabɛam"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "berɛ a ɔbɛyɛɛ ɔhene"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na dunsia"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-sia (du)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mfeɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dii ɔhene"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "wɔ Yerusalem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "paw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "sɛ ɔde bɛto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne din"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ne din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hɔ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wɔ ... nyinaa mu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mmusua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfoɔ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na ... din"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ne maame"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Naama"
+    },
+    {
+      "surface": "העמנית",
+      "gloss": "Amɔnno-ba"
+    }
+  ],
+  "timestamp": "2026-09-16T04:58:25.435383480Z",
+  "model": "glm-5.3"
+}

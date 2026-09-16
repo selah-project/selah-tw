@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":14,"ref":"2-kings 25:14","book":"2-kings","lang":"tw","chapter":25,"translation":"Na wɔfaa ⟨את⟩ nkuku, ne ⟨את⟩ nteaseɛnam, ne ⟨את⟩ nwoma, ne ⟨א_t⟩ ⟨את⟩ nkyɛnkorɔ, ne ⟨את⟩ akodeɛ nyinaa a wɔde nkɔnkɔ yɛe a wɔde som wɔ mu no.","tokens":[{"surface":"ואת","gloss":"⟨את⟩","marks":"nkuku"},{"surface":"הסירת","gloss":"nkuku"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nteaseɛnam"},{"surface":"היעים","gloss":"nteaseɛnam"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nwoma"},{"surface":"המזמרות","gloss":"nwoma"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nkyɛnkorɔ"},{"surface":"הכפות","gloss":"nkyɛnkorɔ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"akodeɛ nyinaa"},{"surface":"כל","gloss":"nyinaa"},{"surface":"כלי","gloss":"akodeɛ"},{"surface":"הנחשת","gloss":"a wɔde nkɔnkɔ yɛe"},{"surface":"אשר","gloss":"a"},{"surface":"ישרתו","gloss":"wɔde som wɔ mu"},{"surface":"בם","gloss":"wɔ mu"},{"surface":"לקחו","gloss":"wɔfaa"}],"timestamp":"2026-09-15T23:38:03.308987792Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "tw",
+  "chapter": 25,
+  "translation": "Na wɔfaa ⟨את⟩ nkuku, ne ⟨את⟩ nteaseɛnam, ne ⟨את⟩ nwoma, ne ⟨א_t⟩ ⟨את⟩ nkyɛnkorɔ, ne ⟨את⟩ akodeɛ nyinaa a wɔde nkɔnkɔ yɛe a wɔde som wɔ mu no.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkuku"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "nkuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nteaseɛnam"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "nteaseɛnam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwoma"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "nwoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkyɛnkorɔ"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "nkyɛnkorɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akodeɛ nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "akodeɛ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "a wɔde nkɔnkɔ yɛe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "wɔde som wɔ mu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wɔ mu"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wɔfaa"
+    }
+  ],
+  "timestamp": "2026-09-15T23:38:03.308987792Z",
+  "model": "glm-5.3"
+}

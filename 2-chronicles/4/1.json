@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":1,"ref":"2-chronicles 4:1","book":"2-chronicles","lang":"tw","chapter":4,"translation":"Na ɔyɛɛ dã afɔre asɔredan, amoɔ aduonu ne tenten, na amoɔ aduonu ne tɛtrɛtɛ, na amoɔ du ne sorokɔ.","tokens":[{"surface":"ויעש","gloss":"Na ɔyɛɛ"},{"surface":"מזבח","gloss":"afɔre asɔredan"},{"surface":"נחשת","gloss":"dã"},{"surface":"עשרים","gloss":"aduonu"},{"surface":"אמה","gloss":"amoɔ"},{"surface":"ארכו","gloss":"ne tenten"},{"surface":"ועשרים","gloss":"na aduonu"},{"surface":"אמה","gloss":"amoɔ"},{"surface":"רחבו","gloss":"ne tɛtrɛtɛ"},{"surface":"ועשר","gloss":"na du"},{"surface":"אמות","gloss":"amoɔ"},{"surface":"קומתו","gloss":"ne sorokɔ"}],"timestamp":"2026-09-16T04:53:56.891079986Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Na ɔyɛɛ dã afɔre asɔredan, amoɔ aduonu ne tenten, na amoɔ aduonu ne tɛtrɛtɛ, na amoɔ du ne sorokɔ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na ɔyɛɛ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "afɔre asɔredan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "dã"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amoɔ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ne tenten"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na aduonu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amoɔ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ne tɛtrɛtɛ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na du"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amoɔ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ne sorokɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T04:53:56.891079986Z",
+  "model": "glm-5.3"
+}

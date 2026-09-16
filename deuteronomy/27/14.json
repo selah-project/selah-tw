@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":14,"ref":"deuteronomy 27:14","book":"deuteronomy","lang":"tw","chapter":27,"translation":"Na Laevifoɔ bɛbua na wɔbɛka kyerɛ onipa biara a ɔwɔ Israel, na wɔnne dɔre:","tokens":[{"surface":"וענו","gloss":"bɛbua"},{"surface":"הלוים","gloss":"Laevifoɔ"},{"surface":"ואמרו","gloss":"na wɔbɛka kyerɛ"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"כל","gloss":"biara"},{"surface":"איש","gloss":"onipa"},{"surface":"ישראל","gloss":"Israel"},{"surface":"קול","gloss":"nne"},{"surface":"רם","gloss":"dɔre"}],"timestamp":"2026-09-15T22:32:11.497155773Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Na Laevifoɔ bɛbua na wɔbɛka kyerɛ onipa biara a ɔwɔ Israel, na wɔnne dɔre:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "bɛbua"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laevifoɔ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "na wɔbɛka kyerɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nne"
+    },
+    {
+      "surface": "רם",
+      "gloss": "dɔre"
+    }
+  ],
+  "timestamp": "2026-09-15T22:32:11.497155773Z",
+  "model": "glm-5.3"
+}

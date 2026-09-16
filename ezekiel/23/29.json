@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 29, "ref": "ezekiel 23:29", "book": "ezekiel", "lang": "tw", "chapter": 23, "translation": "Wɔbɛyɛ ⟨את⟩ wo wɔ ɔtan mu, wɔbɛsɔ wo nnwuma nyinaa, na wɔagyaw wo akɔtobere ne sekaasekaa; na wɔbɛda wo nna-bɔne akyirikyiri adi — wo mmarabɔne ne wo nna-bɔne.", "tokens": [{"surface": "ועשו", "gloss": "wɔbɛyɛ wo"}, {"surface": "אותך", "gloss": "⟨את⟩wo", "marks": "wo"}, {"surface": "בשנאה", "gloss": "wɔ ɔtan mu"}, {"surface": "ולקחו", "gloss": "wɔbɛsɔ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "יגיעך", "gloss": "wo nnwuma"}, {"surface": "ועזבוך", "gloss": "na wɔagyaw wo"}, {"surface": "עירם", "gloss": "akɔtobere"}, {"surface": "ועריה", "gloss": "ne sekaasekaa"}, {"surface": "ונגלה", "gloss": "na wɔbɛda ... adi"}, {"surface": "ערות", "gloss": "akyirikyiri (adwam bɔne)"}, {"surface": "זנוניך", "gloss": "wo nna-bɔne"}, {"surface": "וזמתך", "gloss": "wo mmarabɔne"}, {"surface": "ותזנותיך", "gloss": "ne wo nna-bɔne"}], "timestamp": "2026-09-16T00:46:05.668699330Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 23:29",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 23,
+  "translation": "Wɔbɛyɛ ⟨את⟩ wo wɔ ɔtan mu, wɔbɛsɔ wo nnwuma nyinaa, na wɔagyaw wo akɔtobere ne sekaasekaa; na wɔbɛda wo nna-bɔne akyirikyiri adi — wo mmarabɔne ne wo nna-bɔne.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "wɔbɛyɛ wo"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩wo",
+      "marks": "wo"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "wɔ ɔtan mu"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "wɔbɛsɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "wo nnwuma"
+    },
+    {
+      "surface": "ועזבוך",
+      "gloss": "na wɔagyaw wo"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "akɔtobere"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "ne sekaasekaa"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "na wɔbɛda ... adi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "akyirikyiri (adwam bɔne)"
+    },
+    {
+      "surface": "זנוניך",
+      "gloss": "wo nna-bɔne"
+    },
+    {
+      "surface": "וזמתך",
+      "gloss": "wo mmarabɔne"
+    },
+    {
+      "surface": "ותזנותיך",
+      "gloss": "ne wo nna-bɔne"
+    }
+  ],
+  "timestamp": "2026-09-16T00:46:05.668699330Z",
+  "model": "glm-5.3"
+}

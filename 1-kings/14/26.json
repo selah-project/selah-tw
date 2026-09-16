@@ -1,1 +1,97 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "1-kings 14:26", "book": "1-kings", "lang": "tw", "chapter": 14, "translation": "ɔfaa ⟨את⟩ Yawe fi ⟨את⟩ akoradeɛ ne ⟨את⟩ ɔhene fi akoradeɛ; deɛ ɛwɔ hɔ nyinaa ɔfaa; ɔfaa ⟨את⟩ sika kɔkɔɔ akofena a Shelomoh yɛe no nyinaa.", "tokens": [{"surface": "ויקח", "gloss": "ɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yawe fi akoradeɛ"}, {"surface": "אצרות", "gloss": "akoradeɛ"}, {"surface": "בית", "gloss": "fi"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ɔhene fi akoradeɛ"}, {"surface": "אוצרות", "gloss": "akoradeɛ"}, {"surface": "בית", "gloss": "fi"}, {"surface": "המלך", "gloss": "ɔhene"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "deɛ ɛwɔ hɔ nyinaa"}, {"surface": "הכל", "gloss": "deɛ ɛwɔ hɔ nyinaa"}, {"surface": "לקח", "gloss": "ɔfaa"}, {"surface": "ויקח", "gloss": "ɔfaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sika kɔkɔɔ akofena nyinaa"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "מגני", "gloss": "akofena"}, {"surface": "הזהב", "gloss": "sika kɔkɔɔ"}, {"surface": "אשר", "gloss": "a"}, {"surface": "עשה", "gloss": "yɛe"}, {"surface": "שלמה", "gloss": "Shelomoh"}], "timestamp": "2026-09-15T23:20:05.122900828Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "ɔfaa ⟨את⟩ Yawe fi ⟨את⟩ akoradeɛ ne ⟨את⟩ ɔhene fi akoradeɛ; deɛ ɛwɔ hɔ nyinaa ɔfaa; ɔfaa ⟨את⟩ sika kɔkɔɔ akofena a Shelomoh yɛe no nyinaa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe fi akoradeɛ"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "akoradeɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɔhene fi akoradeɛ"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "akoradeɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deɛ ɛwɔ hɔ nyinaa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "deɛ ɛwɔ hɔ nyinaa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ɔfaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika kɔkɔɔ akofena nyinaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "akofena"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sika kɔkɔɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-15T23:20:05.122900828Z",
+  "model": "glm-5.3"
+}

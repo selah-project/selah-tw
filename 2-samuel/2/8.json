@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "2-samuel 2:8", "book": "2-samuel", "lang": "tw", "chapter": 2, "translation": "Na Abner, Ner ba, Saul asraafoɔ no panin, faa ⟨את⟩ Ish-Boshet, Saul ba, na ɔde no bɛsii Mahanaim.", "tokens": [{"surface": "ואבנר", "gloss": "Na Abner"}, {"surface": "בן", "gloss": "ba"}, {"surface": "נר", "gloss": "Ner"}, {"surface": "שר", "gloss": "panin"}, {"surface": "צבא", "gloss": "asraafoɔ"}, {"surface": "אשר", "gloss": "nea"}, {"surface": "לשאול", "gloss": "Saul dea"}, {"surface": "לקח", "gloss": "faa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Ish-Boshet"}, {"surface": "איש", "gloss": "Ish-"}, {"surface": "בשת", "gloss": "Boshet"}, {"surface": "בן", "gloss": "ba"}, {"surface": "שאול", "gloss": "Saul"}, {"surface": "ויעברהו", "gloss": "ɔde no bɛsii"}, {"surface": "מחנים", "gloss": "Mahanaim"}], "timestamp": "2026-09-15T23:00:55.414288518Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Na Abner, Ner ba, Saul asraafoɔ no panin, faa ⟨את⟩ Ish-Boshet, Saul ba, na ɔde no bɛsii Mahanaim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Na Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panin"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "asraafoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nea"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saul dea"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "faa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "ɔde no bɛsii"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaim"
+    }
+  ],
+  "timestamp": "2026-09-15T23:00:55.414288518Z",
+  "model": "glm-5.3"
+}

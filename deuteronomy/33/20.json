@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":20,"ref":"deuteronomy 33:20","book":"deuteronomy","lang":"tw","chapter":33,"translation":"Na ɔkaa Gad ho asɛm sɛ: Nhyira nka deɛ ɔtrɛw Gad (ne asase) mu; ɔtena hɔ sɛ gyata, ɔtetew nanam aфи ne tirim ti-pa.","tokens":[{"surface":"ולגד","gloss":"na Gad ho"},{"surface":"אמר","gloss":"ɔkaa asɛm"},{"surface":"ברוך","gloss":"nhyira nka"},{"surface":"מרחיב","gloss":"deɛ ɔtrɛw ... mu"},{"surface":"גד","gloss":"Gad"},{"surface":"כלביא","gloss":"sɛ gyata (gyata-baa)"},{"surface":"שכן","gloss":"ɔtena hɔ"},{"surface":"וטרף","gloss":"ɔtetew"},{"surface":"זרוע","gloss":"nanam (bɔkɔ)"},{"surface":"אף","gloss":"anaasɛ nso"},{"surface":"קדקד","gloss":"tirim ti-pa"}],"timestamp":"2026-09-15T21:58:53.060712657Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "tw",
+  "chapter": 33,
+  "translation": "Na ɔkaa Gad ho asɛm sɛ: Nhyira nka deɛ ɔtrɛw Gad (ne asase) mu; ɔtena hɔ sɛ gyata, ɔtetew nanam aфи ne tirim ti-pa.",
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "na Gad ho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ɔkaa asɛm"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nhyira nka"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "deɛ ɔtrɛw ... mu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "sɛ gyata (gyata-baa)"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ɔtena hɔ"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "ɔtetew"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "nanam (bɔkɔ)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anaasɛ nso"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "tirim ti-pa"
+    }
+  ],
+  "timestamp": "2026-09-15T21:58:53.060712657Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":19,"ref":"genesis 8:19","book":"genesis","lang":"tw","chapter":8,"translation":"Nnwumakwa biara, tetefoforɔ biara, ne mpɔtoroma biara — biribiara a ɛtete wɔ asase so — wɔn abusua abusua no mu na wɔfii asram no mu.","tokens":[{"surface":"כל","gloss":"biara"},{"surface":"החיה","gloss":"nnwumakwa"},{"surface":"כל","gloss":"biara"},{"surface":"הרמש","gloss":"tetefoforɔ"},{"surface":"וכל","gloss":"ne ... biara"},{"surface":"העוף","gloss":"mpɔtoroma"},{"surface":"כל","gloss":"biribiara"},{"surface":"רומש","gloss":"a ɛtete"},{"surface":"על","gloss":"wɔ asase so"},{"surface":"הארץ","gloss":"asase"},{"surface":"למשפחתיהם","gloss":"wɔn abusua abusua no mu"},{"surface":"יצאו","gloss":"wɔfiri"},{"surface":"מן","gloss":"… mu"},{"surface":"התבה","gloss":"asram"}],"timestamp":"2026-09-15T20:17:39.290663512Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 8,
+  "translation": "Nnwumakwa biara, tetefoforɔ biara, ne mpɔtoroma biara — biribiara a ɛtete wɔ asase so — wɔn abusua abusua no mu na wɔfii asram no mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nnwumakwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "tetefoforɔ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne ... biara"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "mpɔtoroma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biribiara"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "a ɛtete"
+    },
+    {
+      "surface": "על",
+      "gloss": "wɔ asase so"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "wɔn abusua abusua no mu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wɔfiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "… mu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "asram"
+    }
+  ],
+  "timestamp": "2026-09-15T20:17:39.290663512Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "ezekiel 44:7", "book": "ezekiel", "lang": "tw", "chapter": 44, "translation": "Ɛfiri sɛ, wɔ berɛ a mo de abɔfra ahɔhoɔ — wɔn a wɔantwɛ wɔn akoma mu, na wɔantwɛ wɔn honam mu — baa me asɔredan mu bɛyɛɛ asɔredan mufoɔ, bɛtwaa ⟨את⟩ me fie no so; wɔ mɔɔ ⟨את⟩ me aduane — nsam ne mogya; na wɔbɔɔ ⟨את⟩ me apam no mu, de bɔɔ mo nnaedɔm nyinaa mu.", "tokens": [{"surface": "בהביאכם", "gloss": "mo de baa"}, {"surface": "בני", "gloss": "abɔfra"}, {"surface": "נכר", "gloss": "ahɔhoɔ"}, {"surface": "ערלי", "gloss": "wɔn a wɔantwɛ wɔn"}, {"surface": "לב", "gloss": "akoma mu"}, {"surface": "וערלי", "gloss": "na wɔn a wɔantwɛ wɔn"}, {"surface": "בשר", "gloss": "honam mu"}, {"surface": "להיות", "gloss": "sɛ wɔbɛyɛ"}, {"surface": "במקדשי", "gloss": "me asɔredan mufoɔ"}, {"surface": "לחללו", "gloss": "bɛtwaa so"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me fie no"}, {"surface": "ביתי", "gloss": "me fie no"}, {"surface": "בהקריבכם", "gloss": "wɔ mo mɔɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me aduane"}, {"surface": "לחמי", "gloss": "me aduane"}, {"surface": "חלב", "gloss": "nsam"}, {"surface": "ודם", "gloss": "ne mogya"}, {"surface": "ויפרו", "gloss": "na wɔbɔɔ mu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me apam no"}, {"surface": "בריתי", "gloss": "me apam no"}, {"surface": "אל", "gloss": "de bɔɔ"}, {"surface": "כל", "gloss": "nyinaa"}, {"surface": "תועבותיכם", "gloss": "mo nnaedɔm ... mu"}], "timestamp": "2026-09-16T01:00:24.395494159Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 44:7",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 44,
+  "translation": "Ɛfiri sɛ, wɔ berɛ a mo de abɔfra ahɔhoɔ — wɔn a wɔantwɛ wɔn akoma mu, na wɔantwɛ wɔn honam mu — baa me asɔredan mu bɛyɛɛ asɔredan mufoɔ, bɛtwaa ⟨את⟩ me fie no so; wɔ mɔɔ ⟨את⟩ me aduane — nsam ne mogya; na wɔbɔɔ ⟨את⟩ me apam no mu, de bɔɔ mo nnaedɔm nyinaa mu.",
+  "tokens": [
+    {
+      "surface": "בהביאכם",
+      "gloss": "mo de baa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abɔfra"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ahɔhoɔ"
+    },
+    {
+      "surface": "ערלי",
+      "gloss": "wɔn a wɔantwɛ wɔn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akoma mu"
+    },
+    {
+      "surface": "וערלי",
+      "gloss": "na wɔn a wɔantwɛ wɔn"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "honam mu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sɛ wɔbɛyɛ"
+    },
+    {
+      "surface": "במקדשי",
+      "gloss": "me asɔredan mufoɔ"
+    },
+    {
+      "surface": "לחללו",
+      "gloss": "bɛtwaa so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me fie no"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "me fie no"
+    },
+    {
+      "surface": "בהקריבכם",
+      "gloss": "wɔ mo mɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me aduane"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "me aduane"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nsam"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ne mogya"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "na wɔbɔɔ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me apam no"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "me apam no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de bɔɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyinaa"
+    },
+    {
+      "surface": "תועבותיכם",
+      "gloss": "mo nnaedɔm ... mu"
+    }
+  ],
+  "timestamp": "2026-09-16T01:00:24.395494159Z",
+  "model": "glm-5.3"
+}

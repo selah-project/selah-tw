@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":6,"ref":"numbers 5:6","book":"numbers","lang":"tw","chapter":5,"translation":"Kasa kyerɛ Israelfo mma: ɔbarima anaa ɔbea, sɛ wɔyɛ onipa bɔne biara, a wɔayɛ treachery tia Yawe, na honhom no ayɛ fɔ —","tokens":[{"surface":"דבר","gloss":"Kasa"},{"surface":"אל","gloss":"kyerɛ"},{"surface":"בני","gloss":"mma"},{"surface":"ישראל","gloss":"Israelfo"},{"surface":"איש","gloss":"ɔbarima"},{"surface":"או","gloss":"anaa"},{"surface":"אשה","gloss":"ɔbea"},{"surface":"כי","gloss":"sɛ"},{"surface":"יעשו","gloss":"wɔyɛ"},{"surface":"מכל","gloss":"biara"},{"surface":"חטאת","gloss":"bɔne"},{"surface":"האדם","gloss":"onipa"},{"surface":"למעל","gloss":"treachery"},{"surface":"מעל","gloss":"tia"},{"surface":"ביהוה","gloss":"Yawe"},{"surface":"ואשמה","gloss":"ayɛ fɔ"},{"surface":"הנפש","gloss":"honhom no"},{"surface":"ההוא","gloss":""}],"timestamp":"2026-09-15T21:27:18.562646062Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 5:6",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 5,
+  "translation": "Kasa kyerɛ Israelfo mma: ɔbarima anaa ɔbea, sɛ wɔyɛ onipa bɔne biara, a wɔayɛ treachery tia Yawe, na honhom no ayɛ fɔ —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kyerɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelfo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "או",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɔbea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wɔyɛ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "biara"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bɔne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onipa"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "treachery"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואשמה",
+      "gloss": "ayɛ fɔ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "honhom no"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-15T21:27:18.562646062Z",
+  "model": "glm-5.3"
+}

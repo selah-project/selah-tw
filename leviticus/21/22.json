@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"leviticus 21:22","book":"leviticus","lang":"tw","chapter":21,"translation":"Ne Eloohim aduane no — kronkrondeɛ mu kronkron deɛ ne kronkron deɛ — no, ɔbɛdi.","tokens":[{"surface":"לחם","gloss":"aduane"},{"surface":"אלהיו","gloss":"ne Eloohim"},{"surface":"מקדשי","gloss":"kronkrondeɛ mu"},{"surface":"הקדשים","gloss":"kronkron deɛ"},{"surface":"ומן","gloss":"ne ... mu"},{"surface":"הקדשים","gloss":"kronkron deɛ"},{"surface":"יאכל","gloss":"ɔbɛdi"}],"timestamp":"2026-09-15T21:19:36.763962757Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 21,
+  "translation": "Ne Eloohim aduane no — kronkrondeɛ mu kronkron deɛ ne kronkron deɛ — no, ɔbɛdi.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "aduane"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ne Eloohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "kronkrondeɛ mu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kronkron deɛ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne ... mu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kronkron deɛ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ɔbɛdi"
+    }
+  ],
+  "timestamp": "2026-09-15T21:19:36.763962757Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,144 @@
-{"tier":"glm-5.2","verse":4,"ref":"zechariah 2:4","book":"zechariah","lang":"tw","chapter":2,"translation":"Mebisaa se: Nneɛma bɛn na ɛreba yi de yɛ? Ɔbuaa se: Yɛn ne anantwi a wɔsɛee ⟨את⟩ Yuda, na ɛmaa onipa biara da antuu ne ti; na wɔba yi de wɔn atrɛ, de ⟨את⟩ bubu anantwi a aman no dane tiaa ⟨את⟩ Yuda asase de asɛe no.","tokens":[{"surface":"ואמר","gloss":"mebisaa"},{"surface":"מה","gloss":"bɛn"},{"surface":"אלה","gloss":"yi"},{"surface":"באים","gloss":"na ɛreba"},{"surface":"לעשות","gloss":"de yɛ"},{"surface":"ויאמר","gloss":"ɔbuaa"},{"surface":"לאמר","gloss":"se"},{"surface":"אלה","gloss":"yɛn ne"},{"surface":"הקרנות","gloss":"anantwi no"},{"surface":"אשר","gloss":"a"},{"surface":"זרו","gloss":"wɔsɛee"},{"surface":"את","gloss":"⟨את⟩","marks":"Yuda"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"כפי","gloss":"enti"},{"surface":"איש","gloss":"onipa biara"},{"surface":"לא","gloss":"da"},{"surface":"נשא","gloss":"antuu"},{"surface":"ראשו","gloss":"ne ti"},{"surface":"ויבאו","gloss":"na wɔba"},{"surface":"אלה","gloss":"yi"},{"surface":"להחריד","gloss":"de wɔn atrɛ"},{"surface":"אתם","gloss":"⟨את⟩","marks":"wɔn"},{"surface":"לידות","gloss":"bubu"},{"surface":"את","gloss":"⟨את⟩","marks":"anantwi"},{"surface":"קרנות","gloss":"anantwi"},{"surface":"הגוים","gloss":"aman no"},{"surface":"הנשאים","gloss":"a wɔdane"},{"surface":"קרן","gloss":"anantwi"},{"surface":"אל","gloss":"tiaa"},{"surface":"ארץ","gloss":"asase"},{"surface":"יהודה","gloss":"Yuda"},{"surface":"לזרותה","gloss":"de asɛe no"}],"timestamp":"2026-09-16T01:27:46.797319065Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 2:4",
+  "book": "zechariah",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Mebisaa se: Nneɛma bɛn na ɛreba yi de yɛ? Ɔbuaa se: Yɛn ne anantwi a wɔsɛee ⟨את⟩ Yuda, na ɛmaa onipa biara da antuu ne ti; na wɔba yi de wɔn atrɛ, de ⟨את⟩ bubu anantwi a aman no dane tiaa ⟨את⟩ Yuda asase de asɛe no.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mebisaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "na ɛreba"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de yɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɔbuaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yɛn ne"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "anantwi no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "wɔsɛee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "enti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onipa biara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "antuu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ne ti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "na wɔba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "להחריד",
+      "gloss": "de wɔn atrɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wɔn"
+    },
+    {
+      "surface": "לידות",
+      "gloss": "bubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anantwi"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "anantwi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "aman no"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "a wɔdane"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "anantwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tiaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לזרותה",
+      "gloss": "de asɛe no"
+    }
+  ],
+  "timestamp": "2026-09-16T01:27:46.797319065Z",
+  "model": "glm-5.3"
+}

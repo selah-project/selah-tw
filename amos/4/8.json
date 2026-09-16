@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":8,"ref":"amos 4:8","book":"amos","lang":"tw","chapter":4,"translation":"Nnipa firi nkurow mmienu anaa mmiɛnsa mu bɔɔ wɔn ho ase kɔɔ kuro baako mu kɔsa nsuo, na wɔannya ma wɔn ho tɔɔ; nanso moansan aba me ho, Yawe kã.","tokens":[{"surface":"ונעו","gloss":"bɔɔ wɔn ho ase"},{"surface":"שתים","gloss":"mmienu"},{"surface":"שלש","gloss":"mmiɛnsa"},{"surface":"ערים","gloss":"nkurow"},{"surface":"אל","gloss":"kɔɔ"},{"surface":"עיר","gloss":"kuro"},{"surface":"אחת","gloss":"baako"},{"surface":"לשתות","gloss":"kɔsa nsuo"},{"surface":"מים","gloss":"nsuo"},{"surface":"ולא","gloss":"nanso na ... antɔ"},{"surface":"ישבעו","gloss":"wɔannya ma wɔn ho tɔɔ"},{"surface":"ולא","gloss":"nanso ... annye"},{"surface":"שבתם","gloss":"moansan aba"},{"surface":"עדי","gloss":"me ho"},{"surface":"נאם","gloss":"kã"},{"surface":"יהוה","gloss":"Yawe"}],"timestamp":"2026-09-16T01:14:18.299938860Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 4:8",
+  "book": "amos",
+  "lang": "tw",
+  "chapter": 4,
+  "translation": "Nnipa firi nkurow mmienu anaa mmiɛnsa mu bɔɔ wɔn ho ase kɔɔ kuro baako mu kɔsa nsuo, na wɔannya ma wɔn ho tɔɔ; nanso moansan aba me ho, Yawe kã.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "bɔɔ wɔn ho ase"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mmiɛnsa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nkurow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "baako"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "kɔsa nsuo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nsuo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso na ... antɔ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "wɔannya ma wɔn ho tɔɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanso ... annye"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "moansan aba"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "me ho"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-16T01:14:18.299938860Z",
+  "model": "glm-5.3"
+}

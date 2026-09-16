@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":3,"ref":"leviticus 16:3","book":"leviticus","lang":"tw","chapter":16,"translation":"Sɛdea Aharɔn bɛkɔ kronkron afie mu: anantwie, anantwie ba ba, de bɔne afɔdeɛ, na otwe de hyɛn afɔdeɛ.","tokens":[{"surface":"בזאת","gloss":"sɛdea"},{"surface":"יבא","gloss":"bɛkɔ"},{"surface":"אהרן","gloss":"Aharɔn"},{"surface":"אל","gloss":"kɔ"},{"surface":"הקדש","gloss":"kronkron afie"},{"surface":"בפר","gloss":"anantwie"},{"surface":"בן","gloss":"ba"},{"surface":"בקר","gloss":"anantwie"},{"surface":"לחטאת","gloss":"de bɔne afɔdeɛ"},{"surface":"ואיל","gloss":"na otwe"},{"surface":"לעלה","gloss":"de hyɛn afɔdeɛ"}],"timestamp":"2026-09-15T21:18:24.293055454Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 16,
+  "translation": "Sɛdea Aharɔn bɛkɔ kronkron afie mu: anantwie, anantwie ba ba, de bɔne afɔdeɛ, na otwe de hyɛn afɔdeɛ.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "sɛdea"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛkɔ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron afie"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "anantwie"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "de bɔne afɔdeɛ"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na otwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "de hyɛn afɔdeɛ"
+    }
+  ],
+  "timestamp": "2026-09-15T21:18:24.293055454Z",
+  "model": "glm-5.3"
+}

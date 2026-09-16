@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "psalms 127:5", "book": "psalms", "lang": "tw", "chapter": 127, "translation": "Nkonimdie ⟨את⟩ ne ⟨את⟩ ɔbarima a ɔhyɛɛ ⟨את⟩ ne towdua ma; wɔrenntwere wɔn ho, ɛfiri sɛ wɔbɛka ne ɔtamfoɔ no wɔ ɛponsu no mu.", "tokens": [{"surface": "אשרי", "gloss": "Nkonimdie"}, {"surface": "הגבר", "gloss": "ne ⟨את⟩ ɔbarima"}, {"surface": "אשר", "gloss": "a"}, {"surface": "מלא", "gloss": "hyɛɛ ma"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ne towdua"}, {"surface": "אשפתו", "gloss": "ne towdua"}, {"surface": "מהם", "gloss": "wɔn"}, {"surface": "לא", "gloss": "rennin"}, {"surface": "יבשו", "gloss": "twere wɔn ho"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "ידברו", "gloss": "bɛka"}, {"surface": "את", "gloss": "⟨את⟩ ne", "marks": "ɔtamfoɔ no"}, {"surface": "אויבים", "gloss": "ɔtamfoɔ no"}, {"surface": "בשער", "gloss": "wɔ ɛponsu no mu"}], "timestamp": "2026-09-16T02:30:55.156859909Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 127,
+  "translation": "Nkonimdie ⟨את⟩ ne ⟨את⟩ ɔbarima a ɔhyɛɛ ⟨את⟩ ne towdua ma; wɔrenntwere wɔn ho, ɛfiri sɛ wɔbɛka ne ɔtamfoɔ no wɔ ɛponsu no mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nkonimdie"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ne ⟨את⟩ ɔbarima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hyɛɛ ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne towdua"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "ne towdua"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rennin"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "twere wɔn ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bɛka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ɔtamfoɔ no"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "ɔtamfoɔ no"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "wɔ ɛponsu no mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:30:55.156859909Z",
+  "model": "glm-5.3"
+}

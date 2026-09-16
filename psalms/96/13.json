@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":13,"ref":"psalms 96:13","book":"psalms","lang":"tw","chapter":96,"translation":"Wɔ Yawe anim, ɛfiri sɛ ɔreba, ɛfiri sɛ ɔreba sɛ ɔbɛsɛ asase no asɛm; ɔbɛsɛ asase nyinaa asɛm wɔ atɛnterɛ mu, na nnipa aman wɔ n' nokorɛ mu.","tokens":[{"surface":"לפני","gloss":"wɔ ... anim"},{"surface":"יהוה","gloss":"Yawe"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בא","gloss":"ɔreba"},{"surface":"כי","gloss":"ɛfiri sɛ"},{"surface":"בא","gloss":"ɔreba"},{"surface":"לשפט","gloss":"sɛ ɔbɛsɛ asɛm"},{"surface":"הארץ","gloss":"asase no"},{"surface":"ישפט","gloss":"ɔbɛsɛ asɛm"},{"surface":"תבל","gloss":"asase nyinaa"},{"surface":"בצדק","gloss":"wɔ atɛnterɛ mu"},{"surface":"ועמים","gloss":"na nnipa aman"},{"surface":"באמונתו","gloss":"wɔ ne nokorɛ mu"}],"timestamp":"2026-09-16T02:16:48.640907284Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 96,
+  "translation": "Wɔ Yawe anim, ɛfiri sɛ ɔreba, ɛfiri sɛ ɔreba sɛ ɔbɛsɛ asase no asɛm; ɔbɛsɛ asase nyinaa asɛm wɔ atɛnterɛ mu, na nnipa aman wɔ n' nokorɛ mu.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "wɔ ... anim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ɔreba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ɔreba"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sɛ ɔbɛsɛ asɛm"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "asase no"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ɔbɛsɛ asɛm"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "asase nyinaa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "wɔ atɛnterɛ mu"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na nnipa aman"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "wɔ ne nokorɛ mu"
+    }
+  ],
+  "timestamp": "2026-09-16T02:16:48.640907284Z",
+  "model": "glm-5.3"
+}

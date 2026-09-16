@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 136:7","book":"psalms","lang":"tw","chapter":136,"translation":"Deɛ ɔyɔɔ ɛnnwum akɛseɛ; ɛfirisɛ n'hesed ⟨adɔeɛ⟩ tra hɔ kɔ afe bɛneyɛ.","tokens":[{"surface":"לעשה","gloss":"deɛ ɔyɔɔ"},{"surface":"אורים","gloss":"nnwum"},{"surface":"גדלים","gloss":"akɛseɛ"},{"surface":"כי","gloss":"ɛfirisɛ"},{"surface":"לעולם","gloss":"kɔ afe bɛneyɛ"},{"surface":"חסדו","gloss":"n'hesed ⟨adɔeɛ⟩"}],"timestamp":"2026-09-16T02:34:46.357712856Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "tw",
+  "chapter": 136,
+  "translation": "Deɛ ɔyɔɔ ɛnnwum akɛseɛ; ɛfirisɛ n'hesed ⟨adɔeɛ⟩ tra hɔ kɔ afe bɛneyɛ.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "deɛ ɔyɔɔ"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "nnwum"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfirisɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔ afe bɛneyɛ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "n'hesed ⟨adɔeɛ⟩"
+    }
+  ],
+  "timestamp": "2026-09-16T02:34:46.357712856Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "2-chronicles 34:14", "book": "2-chronicles", "lang": "tw", "chapter": 34, "translation": "Bere a wɔde ⟨את⟩ sika a wɔde baa Yawe fie no baeɛ no, ɔsɔfiri Hilkia hunuu ⟨את⟩ Torah Yawe nwoma no, a ɛwɔ Moshe nsa mu.", "tokens": [{"surface": "ובהוציאם", "gloss": "Bere a wɔde ... baeɛ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sika no"}, {"surface": "הכסף", "gloss": "sika no"}, {"surface": "המובא", "gloss": "a wɔde baa"}, {"surface": "בית", "gloss": "fie"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "מצא", "gloss": "hunuu"}, {"surface": "חלקיהו", "gloss": "Hilkia"}, {"surface": "הכהן", "gloss": "ɔsɔfiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Torah Yawe nwoma no"}, {"surface": "ספר", "gloss": "nwoma no"}, {"surface": "תורת", "gloss": "Torah"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "ביד", "gloss": "sa mu"}, {"surface": "משה", "gloss": "Moshe"}], "timestamp": "2026-09-16T05:12:21.761302113Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "tw",
+  "chapter": 34,
+  "translation": "Bere a wɔde ⟨את⟩ sika a wɔde baa Yawe fie no baeɛ no, ɔsɔfiri Hilkia hunuu ⟨את⟩ Torah Yawe nwoma no, a ɛwɔ Moshe nsa mu.",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "Bere a wɔde ... baeɛ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sika no"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sika no"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "a wɔde baa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "hunuu"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah Yawe nwoma no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nwoma no"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa mu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-16T05:12:21.761302113Z",
+  "model": "glm-5.3"
+}

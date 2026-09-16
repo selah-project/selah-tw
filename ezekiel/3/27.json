@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "ezekiel 3:27", "book": "ezekiel", "lang": "tw", "chapter": 3, "translation": "Na berɛ a mese wo ho asɛm no, ⟨את⟩ mɛbue ⟨את⟩ w'ano, na wobɛka kyerɛ wɔn sɛ: Yawe Adonai se; obi a ɔte, nte; obi a ɔpaw, ɔmpaw; wɔyɛ atɛ fie.", "tokens": [{"surface": "ובדברי", "gloss": "na berɛ a mese wo ho asɛm"}, {"surface": "אותך", "gloss": "⟨את⟩", "marks": "mɛbue w'ano"}, {"surface": "אפתח", "gloss": "mɛbue"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "w'ano"}, {"surface": "פיך", "gloss": "w'ano"}, {"surface": "ואמרת", "gloss": "na wobɛka kyerɛ"}, {"surface": "אליהם", "gloss": "wɔn"}, {"surface": "כה", "gloss": "sɛ"}, {"surface": "אמר", "gloss": "se"}, {"surface": "אדני", "gloss": "Adonai"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "השמע", "gloss": "obi a ɔte"}, {"surface": "ישמע", "gloss": "nte"}, {"surface": "והחדל", "gloss": "obi a ɔpaw"}, {"surface": "יחדל", "gloss": "ɔmpaw"}, {"surface": "כי", "gloss": "; wɔyɛ"}, {"surface": "בית", "gloss": "fie"}, {"surface": "מרי", "gloss": "atɛ"}, {"surface": "המה", "gloss": "wɔ"}], "timestamp": "2026-09-16T00:33:24.314795051Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 3:27",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 3,
+  "translation": "Na berɛ a mese wo ho asɛm no, ⟨את⟩ mɛbue ⟨את⟩ w'ano, na wobɛka kyerɛ wɔn sɛ: Yawe Adonai se; obi a ɔte, nte; obi a ɔpaw, ɔmpaw; wɔyɛ atɛ fie.",
+  "tokens": [
+    {
+      "surface": "ובדברי",
+      "gloss": "na berɛ a mese wo ho asɛm"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "mɛbue w'ano"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "mɛbue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w'ano"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "w'ano"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na wobɛka kyerɛ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "obi a ɔte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nte"
+    },
+    {
+      "surface": "והחדל",
+      "gloss": "obi a ɔpaw"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ɔmpaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "; wɔyɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "atɛ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wɔ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:33:24.314795051Z",
+  "model": "glm-5.3"
+}

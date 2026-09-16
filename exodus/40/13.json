@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "exodus 40:13", "book": "exodus", "lang": "tw", "chapter": 40, "translation": "Na wo bɛhyɛ ⟨את⟩ Aharon ⟨את⟩ nnipa atadeɛ kronkron ⟨את⟩ no, na wode ngo asra ⟨את⟩ no, na woaye no kronkron, na ɔbɛyɛ ɔsɔfoɔ ama me.", "tokens": [{"surface": "והלבשת", "gloss": "wo bɛhyɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Aharon"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nnipa atadeɛ kronkron no"}, {"surface": "בגדי", "gloss": "nnipa atadeɛ"}, {"surface": "הקדש", "gloss": "kronkron"}, {"surface": "ומשחת", "gloss": "na wode ngo asra"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "וקדשת", "gloss": "na woaye no kronkron"}, {"surface": "אתו", "gloss": "⟨את⟩ no"}, {"surface": "וכהן", "gloss": "na ɔbɛyɛ ɔsɔfoɔ"}, {"surface": "לי", "gloss": "ama me"}], "timestamp": "2026-09-15T21:07:11.960947014Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 40,
+  "translation": "Na wo bɛhyɛ ⟨את⟩ Aharon ⟨את⟩ nnipa atadeɛ kronkron ⟨את⟩ no, na wode ngo asra ⟨את⟩ no, na woaye no kronkron, na ɔbɛyɛ ɔsɔfoɔ ama me.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "wo bɛhyɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnipa atadeɛ kronkron no"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nnipa atadeɛ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kronkron"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na wode ngo asra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na woaye no kronkron"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "na ɔbɛyɛ ɔsɔfoɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ama me"
+    }
+  ],
+  "timestamp": "2026-09-15T21:07:11.960947014Z",
+  "model": "glm-5.3"
+}

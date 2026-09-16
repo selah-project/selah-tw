@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":25,"ref":"exodus 26:25","book":"exodus","lang":"tw","chapter":26,"translation":"Na ɛbɛyɛ nnwuma (nwɔtaw) desuo-desa; wɔn nnyinasoɔ a ɛyɛ sika kɔkɔɔ no, nnyinasoɔ dunsia — nnyinasoɔ mmienu na ɛgyina desua baako ase, na nnyinasoɔ mmienu na ɛgyina desua baako ase.","tokens":[{"surface":"והיו","gloss":"na ɛbɛyɛ"},{"surface":"שמנה","gloss":"nwɔtaw"},{"surface":"קרשים","gloss":"desuo (nwɔtaw)"},{"surface":"ואדניהם","gloss":"na wɔn nnyinasoɔ"},{"surface":"כסף","gloss":"sika kɔkɔɔ (kodɔ)"},{"surface":"ששה","gloss":"dunsia"},{"surface":"עשר","gloss":"dunsia"},{"surface":"אדנים","gloss":"nnyinasoɔ"},{"surface":"שני","gloss":"mmienu"},{"surface":"אדנים","gloss":"nnyinasoɔ"},{"surface":"תחת","gloss":"ase"},{"surface":"הקרש","gloss":"desua no"},{"surface":"האחד","gloss":"baako"},{"surface":"ושני","gloss":"na mmienu"},{"surface":"אדנים","gloss":"nnyinasoɔ"},{"surface":"תחת","gloss":"ase"},{"surface":"הקרש","gloss":"desua no"},{"surface":"האחד","gloss":"baako"}],"timestamp":"2026-09-16T06:23:04.231328623Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 26:25",
+  "book": "exodus",
+  "lang": "tw",
+  "chapter": 26,
+  "translation": "Na ɛbɛyɛ nnwuma (nwɔtaw) desuo-desa; wɔn nnyinasoɔ a ɛyɛ sika kɔkɔɔ no, nnyinasoɔ dunsia — nnyinasoɔ mmienu na ɛgyina desua baako ase, na nnyinasoɔ mmienu na ɛgyina desua baako ase.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "na ɛbɛyɛ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nwɔtaw"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "desuo (nwɔtaw)"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na wɔn nnyinasoɔ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sika kɔkɔɔ (kodɔ)"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "dunsia"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dunsia"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mmienu"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "desua no"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na mmienu"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "nnyinasoɔ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ase"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "desua no"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "baako"
+    }
+  ],
+  "timestamp": "2026-09-16T06:23:04.231328623Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":5,"ref":"ezekiel 15:5","book":"ezekiel","lang":"tw","chapter":15,"translation":"Hwɛ, berɛ a na ɛyɛ dwoodwoo no, wɔantumi ansɔ adwuma mu; ɛdeɛn na sɛ ogya atɔ ɛso na ɛhyeɛ a, ɛbɛsɔ adwuma mu bio?","tokens":[{"surface":"הנה","gloss":"Hwɛ"},{"surface":"בהיותו","gloss":"berɛ a na ɛwɔ hɔ"},{"surface":"תמים","gloss":"yɛ dwoodwoo"},{"surface":"לא","gloss":"antumi annsɔ"},{"surface":"יעשה","gloss":"wɔbɔ no"},{"surface":"למלאכה","gloss":"adwuma mu"},{"surface":"אף","gloss":"ɛdeɛn na"},{"surface":"כי","gloss":"sɛ"},{"surface":"אש","gloss":"ogya"},{"surface":"אכלתהו","gloss":"atɔ ɛso"},{"surface":"ויחר","gloss":"na ɛhyeɛ"},{"surface":"ונעשה","gloss":"na ɛhyeɛ"},{"surface":"עוד","gloss":"bio"},{"surface":"למלאכה","gloss":"adwuma mu"}],"timestamp":"2026-09-16T00:39:39.911488743Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 15:5",
+  "book": "ezekiel",
+  "lang": "tw",
+  "chapter": 15,
+  "translation": "Hwɛ, berɛ a na ɛyɛ dwoodwoo no, wɔantumi ansɔ adwuma mu; ɛdeɛn na sɛ ogya atɔ ɛso na ɛhyeɛ a, ɛbɛsɔ adwuma mu bio?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hwɛ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "berɛ a na ɛwɔ hɔ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yɛ dwoodwoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "antumi annsɔ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wɔbɔ no"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "adwuma mu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ɛdeɛn na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogya"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "atɔ ɛso"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "na ɛhyeɛ"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "na ɛhyeɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bio"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "adwuma mu"
+    }
+  ],
+  "timestamp": "2026-09-16T00:39:39.911488743Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 37:26","book":"genesis","lang":"tw","chapter":37,"translation":"na Yehuda kaa ne nuanom ho asɛm sɛ, mfasoɔ bɛn na ɛwɔ mu sɛ yɛbɛkum ⟨את⟩ yɛn nua na yɛde ⟨את⟩ ne mogya asie?","tokens":[{"surface":"ויאמר","gloss":"na kaa"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"אל","gloss":"ho asɛm"},{"surface":"אחיו","gloss":"ne nuanom"},{"surface":"מה","gloss":"bɛn"},{"surface":"בצע","gloss":"mfasoɔ"},{"surface":"כי","gloss":"sɛ"},{"surface":"נהרג","gloss":"yɛbɛkum"},{"surface":"את","gloss":"⟨את⟩","marks":"yɛn nua"},{"surface":"אחינו","gloss":"yɛn nua"},{"surface":"וכסינו","gloss":"na yɛde asie"},{"surface":"את","gloss":"⟨את⟩","marks":"ne mogya"},{"surface":"דמו","gloss":"ne mogya"}],"timestamp":"2026-09-15T22:24:41.164500904Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 37,
+  "translation": "na Yehuda kaa ne nuanom ho asɛm sɛ, mfasoɔ bɛn na ɛwɔ mu sɛ yɛbɛkum ⟨את⟩ yɛn nua na yɛde ⟨את⟩ ne mogya asie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na kaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho asɛm"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ne nuanom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mfasoɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "yɛbɛkum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɛn nua"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "yɛn nua"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "na yɛde asie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne mogya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ne mogya"
+    }
+  ],
+  "timestamp": "2026-09-15T22:24:41.164500904Z",
+  "model": "glm-5.3"
+}

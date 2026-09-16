@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":8,"ref":"jeremiah 28:8","book":"jeremiah","lang":"tw","chapter":28,"translation":"Odiyifoɔ a wɔdi me anim ne wo anim firi tete no, wɔhyɛɛ nsɛm nhyɛ wɔ aman dodow so ne ahemman akɛseɛ so — ɔko, bɔne, ne sɛeɛ ho.","tokens":[{"surface":"הנביאים","gloss":"Odiyifoɔ"},{"surface":"אשר","gloss":"a"},{"surface":"היו","gloss":"wɔyɛɛ"},{"surface":"לפני","gloss":"di me anim"},{"surface":"ולפניך","gloss":"ne wo anim"},{"surface":"מן","gloss":"firi"},{"surface":"העולם","gloss":"tete no"},{"surface":"וינבאו","gloss":"wɔhyɛɛ nsɛm nhyɛ"},{"surface":"אל","gloss":"wɔ ... so"},{"surface":"ארצות","gloss":"aman"},{"surface":"רבות","gloss":"dodow"},{"surface":"ועל","gloss":"ne ... so"},{"surface":"ממלכות","gloss":"ahemman"},{"surface":"גדלות","gloss":"akɛseɛ"},{"surface":"למלחמה","gloss":"ɔko"},{"surface":"ולרעה","gloss":"ne bɔne"},{"surface":"ולדבר","gloss":"ne sɛeɛ"}],"timestamp":"2026-09-16T00:17:42.900947295Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 28:8",
+  "book": "jeremiah",
+  "lang": "tw",
+  "chapter": 28,
+  "translation": "Odiyifoɔ a wɔdi me anim ne wo anim firi tete no, wɔhyɛɛ nsɛm nhyɛ wɔ aman dodow so ne ahemman akɛseɛ so — ɔko, bɔne, ne sɛeɛ ho.",
+  "tokens": [
+    {
+      "surface": "הנביאים",
+      "gloss": "Odiyifoɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wɔyɛɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di me anim"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "ne wo anim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "firi"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "tete no"
+    },
+    {
+      "surface": "וינבאו",
+      "gloss": "wɔhyɛɛ nsɛm nhyɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wɔ ... so"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "aman"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "dodow"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne ... so"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ahemman"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "akɛseɛ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ɔko"
+    },
+    {
+      "surface": "ולרעה",
+      "gloss": "ne bɔne"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "ne sɛeɛ"
+    }
+  ],
+  "timestamp": "2026-09-16T00:17:42.900947295Z",
+  "model": "glm-5.3"
+}

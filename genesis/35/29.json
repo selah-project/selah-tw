@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 29, "ref": "genesis 35:29", "book": "genesis", "lang": "tw", "chapter": 35, "translation": "Isaak homee werɛ, na ɔwuiɛ, na wɔboaa ⟨את⟩ no kɔɔ n'adamfoɔ no mu, wagye akokoɔ, na nna ahyɛ no ma; na ne mma Esau ne Yaketu siee no.", "tokens": [{"surface": "ויגוע", "gloss": "homee werɛ"}, {"surface": "יצחק", "gloss": "Isaak"}, {"surface": "וימת", "gloss": "na ɔwuiɛ"}, {"surface": "ויאסף", "gloss": "na wɔboaa no"}, {"surface": "אל", "gloss": "kɔɔ"}, {"surface": "עמיו", "gloss": "n'adamfoɔ no mu"}, {"surface": "זקן", "gloss": "wagye akokoɔ"}, {"surface": "ושבע", "gloss": "na ahyɛ no ma"}, {"surface": "ימים", "gloss": "nna"}, {"surface": "ויקברו", "gloss": "na ... siee"}, {"surface": "אתו", "gloss": "⟨את⟩ no", "marks": "no (Esau ne Yaketu)"}, {"surface": "עשו", "gloss": "Esau"}, {"surface": "ויעקב", "gloss": "ne Yaketu"}, {"surface": "בניו", "gloss": "ne mma"}], "timestamp": "2026-09-15T20:33:14.089690867Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 35:29",
+  "book": "genesis",
+  "lang": "tw",
+  "chapter": 35,
+  "translation": "Isaak homee werɛ, na ɔwuiɛ, na wɔboaa ⟨את⟩ no kɔɔ n'adamfoɔ no mu, wagye akokoɔ, na nna ahyɛ no ma; na ne mma Esau ne Yaketu siee no.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "homee werɛ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaak"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na ɔwuiɛ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "na wɔboaa no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔɔ"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "n'adamfoɔ no mu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wagye akokoɔ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na ahyɛ no ma"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "na ... siee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ no",
+      "marks": "no (Esau ne Yaketu)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ne Yaketu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ne mma"
+    }
+  ],
+  "timestamp": "2026-09-15T20:33:14.089690867Z",
+  "model": "glm-5.3"
+}

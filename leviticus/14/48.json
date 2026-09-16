@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 48, "ref": "leviticus 14:48", "book": "leviticus", "lang": "tw", "chapter": 14, "translation": "Na sɛ ɔsɔfɔ no ba ɔbɛba, na ɔhunu, na, hwɛ, yadeɛ no annye ntrɛwe wɔ ⟨את⟩ fie no mu wɔ berɛ a wɔasii fie no ano akyi no, na ɔsɔfɔ no bɛhotew ⟨את⟩ fie no, ɛfiri sɛ yadeɛ no asa.", "tokens": [{"surface": "ואם", "gloss": "na sɛ"}, {"surface": "בא", "gloss": "ba"}, {"surface": "יבא", "gloss": "ɔbɛba"}, {"surface": "הכהן", "gloss": "ɔsɔfɔ no"}, {"surface": "וראה", "gloss": "na ɔhunu"}, {"surface": "והנה", "gloss": "na, hwɛ"}, {"surface": "לא", "gloss": "annyɛ"}, {"surface": "פשה", "gloss": "nye ntrɛwe"}, {"surface": "הנגע", "gloss": "yadeɛ no"}, {"surface": "בבית", "gloss": "wɔ fie no mu"}, {"surface": "אחרי", "gloss": "akyi"}, {"surface": "הטח", "gloss": "a wɔasii ano"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fie no"}, {"surface": "הבית", "gloss": "fie no"}, {"surface": "וטהר", "gloss": "bɛhotew"}, {"surface": "הכהן", "gloss": "ɔsɔfɔ no"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fie no"}, {"surface": "הבית", "gloss": "fie no"}, {"surface": "כי", "gloss": "ɛfiri sɛ"}, {"surface": "נרפא", "gloss": "asa"}, {"surface": "הנגע", "gloss": "yadeɛ no"}], "timestamp": "2026-09-15T21:15:54.040916634Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 14:48",
+  "book": "leviticus",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na sɛ ɔsɔfɔ no ba ɔbɛba, na ɔhunu, na, hwɛ, yadeɛ no annye ntrɛwe wɔ ⟨את⟩ fie no mu wɔ berɛ a wɔasii fie no ano akyi no, na ɔsɔfɔ no bɛhotew ⟨את⟩ fie no, ɛfiri sɛ yadeɛ no asa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ɔbɛba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfɔ no"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na ɔhunu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na, hwɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "annyɛ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "nye ntrɛwe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yadeɛ no"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wɔ fie no mu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akyi"
+    },
+    {
+      "surface": "הטח",
+      "gloss": "a wɔasii ano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "bɛhotew"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ɔsɔfɔ no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fie no"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "fie no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɛfiri sɛ"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "asa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yadeɛ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:15:54.040916634Z",
+  "model": "glm-5.3"
+}

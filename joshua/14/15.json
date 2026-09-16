@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":15,"ref":"joshua 14:15","book":"joshua","lang":"tw","chapter":14,"translation":"Na Hebron din dada ne Kiryat-Arba — Arba na ɔyɛ ⟨ɔbarima kɛseɛ⟩ wɔ Anakim mu. Na asase no dwannaa wɔ ɔko mu.","tokens":[{"surface":"ושם","gloss":"na ... din"},{"surface":"חברון","gloss":"Hebron"},{"surface":"לפנים","gloss":"dada"},{"surface":"קרית","gloss":"Kiryat"},{"surface":"ארבע","gloss":"Arba"},{"surface":"האדם","gloss":"ɔbarima"},{"surface":"הגדול","gloss":"kɛseɛ"},{"surface":"בענקים","gloss":"wɔ Anakim mu"},{"surface":"הוא","gloss":"na ɔyɛ"},{"surface":"והארץ","gloss":"na asase no"},{"surface":"שקטה","gloss":"dwannaa"},{"surface":"ממלחמה","gloss":"wɔ ɔko mu"}],"timestamp":"2026-09-15T22:05:09.507879754Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 14:15",
+  "book": "joshua",
+  "lang": "tw",
+  "chapter": 14,
+  "translation": "Na Hebron din dada ne Kiryat-Arba — Arba na ɔyɛ ⟨ɔbarima kɛseɛ⟩ wɔ Anakim mu. Na asase no dwannaa wɔ ɔko mu.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na ... din"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dada"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ɔbarima"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kɛseɛ"
+    },
+    {
+      "surface": "בענקים",
+      "gloss": "wɔ Anakim mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ɔyɛ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na asase no"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "dwannaa"
+    },
+    {
+      "surface": "ממלחמה",
+      "gloss": "wɔ ɔko mu"
+    }
+  ],
+  "timestamp": "2026-09-15T22:05:09.507879754Z",
+  "model": "glm-5.3"
+}

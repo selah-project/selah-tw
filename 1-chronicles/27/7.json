@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-chronicles 27:7","book":"1-chronicles","lang":"tw","chapter":27,"translation":"Deɛ ɔdi ɛnan wɔ ɔsram a ɛtwa so ɛnan no so ne Asael, Yoab nua, na Zebadía ne ba dii ne akyi, na wɔn a wɔwɔ n'akyirikyiri mu no yɛ mpem aduonu ne ɛnan.","tokens":[{"surface":"הרביעי","gloss":"deɛ ɔdi ɛnan"},{"surface":"לחדש","gloss":"wɔ ɔsram no mu"},{"surface":"הרביעי","gloss":"a ɛtwa so ɛnan"},{"surface":"עשה","gloss":"yɛ"},{"surface":"אל","gloss":"Asael"},{"surface":"אחי","gloss":"nua"},{"surface":"יואב","gloss":"Yoab"},{"surface":"וזבדיה","gloss":"Zebadía"},{"surface":"בנו","gloss":"ne ba"},{"surface":"אחריו","gloss":"di n'akyi"},{"surface":"ועל","gloss":"na wɔ"},{"surface":"מחלקתו","gloss":"n'akyirikyiri"},{"surface":"עשרים","gloss":"aduonu"},{"surface":"וארבעה","gloss":"ɛnan"},{"surface":"אלף","gloss":"mpem"}],"timestamp":"2026-09-16T06:53:13.063908810Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 27:7",
+  "book": "1-chronicles",
+  "lang": "tw",
+  "chapter": 27,
+  "translation": "Deɛ ɔdi ɛnan wɔ ɔsram a ɛtwa so ɛnan no so ne Asael, Yoab nua, na Zebadía ne ba dii ne akyi, na wɔn a wɔwɔ n'akyirikyiri mu no yɛ mpem aduonu ne ɛnan.",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "deɛ ɔdi ɛnan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wɔ ɔsram no mu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "a ɛtwa so ɛnan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nua"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "Zebadía"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ne ba"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "di n'akyi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wɔ"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "n'akyirikyiri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "aduonu"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ɛnan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mpem"
+    }
+  ],
+  "timestamp": "2026-09-16T06:53:13.063908810Z",
+  "model": "glm-5.3"
+}

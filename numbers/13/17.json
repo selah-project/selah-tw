@@ -1,1 +1,76 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "numbers 13:17", "book": "numbers", "lang": "tw", "chapter": 13, "translation": "Mosheh som ⟨את⟩ wɔn kɔhwehwɛ ⟨את⟩ asase Kenaan, na ɔka kyerɛɛ wɔn se: Momfora ha kɔ Négev, na momfora bɛkɔ ⟨את⟩ bepɔ no.", "tokens": [{"surface": "וישלח", "gloss": "som wɔn kɔhwehwɛ"}, {"surface": "אתם", "gloss": "⟨את⟩ wɔn", "marks": "wɔn (asomafoɔ no)"}, {"surface": "משה", "gloss": "Mosheh"}, {"surface": "לתור", "gloss": "kɔhwehwɛ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "asase Kenaan"}, {"surface": "ארץ", "gloss": "asase"}, {"surface": "כנען", "gloss": "Kenaan"}, {"surface": "ויאמר", "gloss": "na ɔka kyerɛɛ"}, {"surface": "אלהם", "gloss": "wɔn"}, {"surface": "עלו", "gloss": "momfora"}, {"surface": "זה", "gloss": "ha"}, {"surface": "בנגב", "gloss": "kɔ Négev"}, {"surface": "ועליתם", "gloss": "na momfora bɛkɔ"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bepɔ no"}, {"surface": "ההר", "gloss": "bepɔ no"}], "timestamp": "2026-09-15T21:32:15.606067777Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "tw",
+  "chapter": 13,
+  "translation": "Mosheh som ⟨את⟩ wɔn kɔhwehwɛ ⟨את⟩ asase Kenaan, na ɔka kyerɛɛ wɔn se: Momfora ha kɔ Négev, na momfora bɛkɔ ⟨את⟩ bepɔ no.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "som wɔn kɔhwehwɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wɔn",
+      "marks": "wɔn (asomafoɔ no)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "kɔhwehwɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asase Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "asase"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ɔka kyerɛɛ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wɔn"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "momfora"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "kɔ Négev"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "na momfora bɛkɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bepɔ no"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bepɔ no"
+    }
+  ],
+  "timestamp": "2026-09-15T21:32:15.606067777Z",
+  "model": "glm-5.3"
+}

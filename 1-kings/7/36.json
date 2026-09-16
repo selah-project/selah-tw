@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":36,"ref":"1-kings 7:36","book":"1-kings","lang":"tw","chapter":7,"translation":"Na ɔtetew nsɛnkyerɛnne wɔ ne nsa nkrataa so ne ne nsɛsoɔ so: kerubim, gyata, ne dɔɔdɔdua, sɛdeɛ baabi baako baako te, ne nhwirenka atwa ho hyia.","tokens":[{"surface":"ויפתח","gloss":"na ɔbuee"},{"surface":"על","gloss":"so"},{"surface":"הלחת","gloss":"nkrataa no"},{"surface":"ידתיה","gloss":"ne nsa"},{"surface":"ועל","gloss":"ne so"},{"surface":"ומסגרתיה","gloss":"ne nsɛsoɔ"},{"surface":"כרובים","gloss":"kerubim"},{"surface":"אריות","gloss":"gyata"},{"surface":"ותמרת","gloss":"ne dɔɔdɔdua"},{"surface":"כמער","gloss":"sɛdeɛ baabi te"},{"surface":"איש","gloss":"onyiabarima"},{"surface":"וליות","gloss":"ne nhwirenka"},{"surface":"סביב","gloss":"atwa ho hyia"}],"timestamp":"2026-09-15T23:15:56.327476263Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 7:36",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "Na ɔtetew nsɛnkyerɛnne wɔ ne nsa nkrataa so ne ne nsɛsoɔ so: kerubim, gyata, ne dɔɔdɔdua, sɛdeɛ baabi baako baako te, ne nhwirenka atwa ho hyia.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "na ɔbuee"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "nkrataa no"
+    },
+    {
+      "surface": "ידתיה",
+      "gloss": "ne nsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "ומסגרתיה",
+      "gloss": "ne nsɛsoɔ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "gyata"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "ne dɔɔdɔdua"
+    },
+    {
+      "surface": "כמער",
+      "gloss": "sɛdeɛ baabi te"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onyiabarima"
+    },
+    {
+      "surface": "וליות",
+      "gloss": "ne nhwirenka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atwa ho hyia"
+    }
+  ],
+  "timestamp": "2026-09-15T23:15:56.327476263Z",
+  "model": "glm-5.3"
+}

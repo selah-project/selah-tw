@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":31,"ref":"1-kings 2:31","book":"1-kings","lang":"tw","chapter":2,"translation":"Ɔhene no kaa kyerɛɛ no: Yɛ sɛnea ɔkae, na tua no, na sie no, na yi mogya a Yoab guu ayera no fi me so, ne me sɛ m'agya fie so.","tokens":[{"surface":"ויאמר","gloss":"kaa kyerɛɛ"},{"surface":"לו","gloss":"no"},{"surface":"המלך","gloss":"ɔhene no"},{"surface":"עשה","gloss":"yɛ"},{"surface":"כאשר","gloss":"sɛnea"},{"surface":"דבר","gloss":"ɔkae"},{"surface":"ופגע","gloss":"tua"},{"surface":"בו","gloss":"no"},{"surface":"וקברתו","gloss":"sie no"},{"surface":"והסירת","gloss":"yi fi"},{"surface":"דמי","gloss":"mogya"},{"surface":"חנם","gloss":"ayera"},{"surface":"אשר","gloss":"a"},{"surface":"שפך","gloss":"guu"},{"surface":"יואב","gloss":"Yoab"},{"surface":"מעלי","gloss":"fi me so"},{"surface":"ומעל","gloss":"ne fi"},{"surface":"בית","gloss":"fie"},{"surface":"אבי","gloss":"m'agya"}],"timestamp":"2026-09-15T23:13:32.052804248Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 2:31",
+  "book": "1-kings",
+  "lang": "tw",
+  "chapter": 2,
+  "translation": "Ɔhene no kaa kyerɛɛ no: Yɛ sɛnea ɔkae, na tua no, na sie no, na yi mogya a Yoab guu ayera no fi me so, ne me sɛ m'agya fie so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kaa kyerɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ɔhene no"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sɛnea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɔkae"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "tua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "no"
+    },
+    {
+      "surface": "וקברתו",
+      "gloss": "sie no"
+    },
+    {
+      "surface": "והסירת",
+      "gloss": "yi fi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mogya"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ayera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "guu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fi me so"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "ne fi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "m'agya"
+    }
+  ],
+  "timestamp": "2026-09-15T23:13:32.052804248Z",
+  "model": "glm-5.3"
+}

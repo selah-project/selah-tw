@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "isaiah 65:11", "book": "isaiah", "lang": "tw", "chapter": 65, "translation": "Na mo a moagyaw Yawe, mo a mo werɛ afiri me ⟨את⟩ bepɔ kronkron, mo a moa hyehyɛ adidibea ma Gad, na moa hyɛ Meni nsã-abom —", "tokens": [{"surface": "ואתם", "gloss": "Na mo"}, {"surface": "עזבי", "gloss": "a moagyaw"}, {"surface": "יהוה", "gloss": "Yawe"}, {"surface": "השכחים", "gloss": "mo a mo werɛ afiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "me bɛpɔ kronkron"}, {"surface": "הר", "gloss": "bepɔ"}, {"surface": "קדשי", "gloss": "me … kronkron"}, {"surface": "הערכים", "gloss": "moa hyehyɛ"}, {"surface": "לגד", "gloss": "ma Gad"}, {"surface": "שלחן", "gloss": "adidibea"}, {"surface": "והממלאים", "gloss": "na moa hyɛ"}, {"surface": "למני", "gloss": "Meni"}, {"surface": "ממסך", "gloss": "nsã-abom"}], "timestamp": "2026-09-16T00:03:28.677363965Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 65,
+  "translation": "Na mo a moagyaw Yawe, mo a mo werɛ afiri me ⟨את⟩ bepɔ kronkron, mo a moa hyehyɛ adidibea ma Gad, na moa hyɛ Meni nsã-abom —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na mo"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "a moagyaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "mo a mo werɛ afiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "me bɛpɔ kronkron"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bepɔ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "me … kronkron"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "moa hyehyɛ"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "ma Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "adidibea"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "na moa hyɛ"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "nsã-abom"
+    }
+  ],
+  "timestamp": "2026-09-16T00:03:28.677363965Z",
+  "model": "glm-5.3"
+}

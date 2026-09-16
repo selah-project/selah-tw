@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":9,"ref":"isaiah 7:9","book":"isaiah","lang":"tw","chapter":7,"translation":"na Ephrajim ti ⟨yɛ⟩ Shomron, na Shomron ti ⟨yɛ⟩ Remaljah ba; sɛ moannye nni ɛgyina a, mo rennya ɛgyina.","tokens":[{"surface":"וראש","gloss":"na ... ti"},{"surface":"אפרים","gloss":"Ephrajim"},{"surface":"שמרון","gloss":"Shomron"},{"surface":"וראש","gloss":"na ... ti"},{"surface":"שמרון","gloss":"Shomron"},{"surface":"בן","gloss":"ba"},{"surface":"רמליהו","gloss":"Remaljah"},{"surface":"אם","gloss":"sɛ"},{"surface":"לא","gloss":"nn-"},{"surface":"תאמינו","gloss":"moannye nni ɛgyina"},{"surface":"כי","gloss":"a"},{"surface":"לא","gloss":"rennya"},{"surface":"תאמנו","gloss":"ɛgyina"}],"timestamp":"2026-09-15T23:41:58.811466927Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "tw",
+  "chapter": 7,
+  "translation": "na Ephrajim ti ⟨yɛ⟩ Shomron, na Shomron ti ⟨yɛ⟩ Remaljah ba; sɛ moannye nni ɛgyina a, mo rennya ɛgyina.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "na ... ti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "na ... ti"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nn-"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "moannye nni ɛgyina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rennya"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "ɛgyina"
+    }
+  ],
+  "timestamp": "2026-09-15T23:41:58.811466927Z",
+  "model": "glm-5.3"
+}
