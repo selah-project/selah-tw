@@ -9,7 +9,7 @@ Krataa yi kyerɛ sɛdeɛ wobɛboa.
 - Bue **Issue** wɔ repo no so:
   <https://github.com/selah-project/selah-tw>
 - Anaa sɛ wobɛtumi asiesie a, soma **Pull request**.
-- Anaa twerɛ: <support@selahproject.com>
+- Anaa twerɛ: <https://s33k3r.com/learn/support>
 
 ## Deɛ wobɛtwerɛ
 
